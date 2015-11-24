@@ -1,0 +1,6990 @@
+Official
+
+1
+
+P R O C E E D I N G S
+
+2
+3
+
+(10:02 a.m.)
+CHIEF JUSTICE ROBERTS:
+
+We'll hear argument
+
+4
+
+first this morning in Case 11-139, United States v.
+
+5
+
+Home Concrete & Supply.
+
+6
+
+Mr. Stewart.
+
+7
+
+ORAL ARGUMENT OF MALCOLM L. STEWART
+
+8
+
+ON BEHALF OF THE PETITIONER
+
+9
+10
+11
+
+MR. STEWART:
+
+Mr. Chief Justice, and may it
+
+please the Court:
+The disputed question in this case concerns
+
+12
+
+the meaning of the phrase "omits from gross income an
+
+13
+
+amount properly includible therein" in 26
+
+14
+
+U.S.C. 6501(e)(1)(A).
+
+15
+
+is whether an omission from gross income occurs when a
+
+16
+
+taxpayer overstates his basis in sold property and
+
+17
+
+thereby understates the gain that results from the sale.
+
+18
+
+More specifically, the question
+
+In December 2010, after notice-and-comment
+
+19
+
+rulemaking, the Treasury Department issued published
+
+20
+
+regulations that interpreted section 6501(e)(1)(A) to
+
+21
+
+apply in overstatement of basis cases.
+
+22
+
+regulations reflect a reasonable interpretation of
+
+23
+
+ambiguous statutory language, and they are accordingly
+
+24
+
+entitled to deference under Chevron.
+
+25
+
+CHIEF JUSTICE ROBERTS:
+3
+
+Alderson Reporting Company
+
+Those
+
+Well, but only if
+
+Official
+
+1
+
+your reading of the Colony decision is correct, right?
+
+2
+
+If we think that Colony definitively resolved the
+
+3
+
+question before you, the regulation can't overturn that.
+
+4
+
+MR. STEWART:
+
+If the Court in Colony had
+
+5
+
+interpreted the statutory language to be unambiguous, or
+
+6
+
+if the Court in Colony had issued an authoritative
+
+7
+
+interpretation that Congress had then built upon, that
+
+8
+
+would be correct.
+
+9
+
+the language was, in its words, "not unambiguous."
+
+But the Court in Colony stated that
+
+JUSTICE SCALIA:
+
+10
+
+Yes, but once -- once we
+
+11
+
+resolve an ambiguity in a statute, that's the law, and
+
+12
+
+the agency cannot issue a -- a regulation that changes
+
+13
+
+the law just because, going in, the language was
+
+14
+
+ambiguous.
+
+15
+
+MR. STEWART:
+
+I think -- I don't think that
+
+16
+
+the Court in Colony purported to give a definitive
+
+17
+
+definition of the phrase "omits from gross income an
+
+18
+
+amount properly includible therein" wherever it appears
+
+19
+
+in the United States Code.
+
+20
+
+paragraph of its opinion in Colony said the sole
+
+21
+
+question before us is whether the taxpayer is subject to
+
+22
+
+the extended assessment period under the 19 -- under the
+
+23
+
+Internal Revenue Code of 1939.
+
+24
+25
+
+And the Court in the first
+
+And as the D.C. Circuit, for instance,
+pointed out in Intermountain, what we are interpreting
+4
+
+Alderson Reporting Company
+
+Official
+
+1
+
+now is the 1954 code.
+
+2
+
+code, it includes the phrase "omits from gross income an
+
+3
+
+amount properly includible therein," but it also
+
+4
+
+includes adjacent provisions that bear upon the meaning
+
+5
+
+of that phrase.
+
+6
+
+It's true that, like the 1939
+
+I think --
+
+CHIEF JUSTICE ROBERTS:
+
+Well, if they use
+
+7
+
+the exact same phrase, and it's a fairly detailed --
+
+8
+
+it's not just a normal phrase they might use elsewhere,
+
+9
+
+I think it's reasonable to assume that that phrase came
+
+10
+
+in with the baggage it -- it carried from the Colony
+
+11
+
+case; right?
+
+12
+
+MR. STEWART:
+
+I think it's important to
+
+13
+
+remember that the 1954 code was enacted in 1954, and the
+
+14
+
+Colony decision came in 1958.
+
+15
+
+point that if Congress had enacted the same language
+
+16
+
+after this Court's decision in Colony, then the adjacent
+
+17
+
+statutory provisions that we're relying on would be
+
+18
+
+pretty indirect means of an -- of expressing an intent
+
+19
+
+to change the law.
+
+And so, I would take your
+
+But what Congress was reacting to in 1954
+
+20
+21
+
+was not this Court's Colony decision; it was reacting to
+
+22
+
+a circuit conflict and trying to resolve that conflict.
+
+23
+
+JUSTICE SCALIA:
+
+Yes, but our job is not to
+
+24
+
+plumb Congress's psyche and decide what they had in
+
+25
+
+mind.
+
+It's to interpret the statute.
+5
+
+Alderson Reporting Company
+
+And if, as you
+
+Official
+
+1
+
+acknowledge, it's a pretty obscure way to change the law
+
+2
+
+from what we said it was, the law that's written there,
+
+3
+
+that's a very obscure way to change it.
+
+4
+
+think that the law stays the way it was.
+
+5
+
+MR. STEWART:
+
+I'm inclined to
+
+Well, let me point to the
+
+6
+
+statutory provisions that I have in mind, to explain a
+
+7
+
+little bit more fully why we think that the context in
+
+8
+
+which the new provision or the 1954 provision appears
+
+9
+
+bears on the -- the proper interpretation of the
+
+10
+
+disputed phrase.
+
+11
+12
+
+It's at page 1a of the red brief, the
+appendix to the Respondents' brief.
+
+13
+
+And the -- the general rule stated in
+
+14
+
+subsection (A) is:
+
+15
+
+income an amount properly includible therein which is in
+
+16
+
+excess of 25 percent of the amount of gross income
+
+17
+
+stated in the return," the assessment period is 6 years
+
+18
+
+rather than 3 years.
+
+19
+
+"If the taxpayer omits from gross
+
+And it's important to recognize that, for
+
+20
+
+purposes of the Internal Revenue Code generally, the
+
+21
+
+term "gross income" is defined to include gains derived
+
+22
+
+from dealings in property.
+
+23
+
+might --
+
+24
+25
+
+And in that sense, it
+
+JUSTICE SOTOMAYOR:
+
+But that -- but that
+
+argument hasn't changed between the predecessor statute
+6
+
+Alderson Reporting Company
+
+Official
+
+1
+
+and this statute.
+
+You made the same argument under the
+
+2
+
+Colony statute.
+
+3
+
+argument because it's already been rejected.
+
+It lost.
+
+So, you can't go back to that
+
+4
+
+So, what goes from that?
+
+5
+
+MR. STEWART:
+
+Well, if you look at
+
+6
+
+subparagraph (i), Roman (i) -- or Roman (i) after the
+
+7
+
+general rule, it says:
+
+8
+
+business, the term 'gross income' means the total of the
+
+9
+
+amounts received or accrued from the sale of goods or
+
+10
+
+services (if such amounts are required to be shown on
+
+11
+
+the return) prior to diminution by the cost of such" --
+
+12
+
+"of such sales or" --
+
+13
+
+"In the case of a trade or
+
+JUSTICE SOTOMAYOR:
+
+My problem with your
+
+14
+
+argument as I read it in the brief, it's a bit
+
+15
+
+convoluted, as Justice Scalia observed.
+
+16
+
+intended to change Colony, it wouldn't just have created
+
+17
+
+this subdivision (i); it would have changed the main
+
+18
+
+statement.
+
+19
+
+we accept whatever Colony said, and the only thing we're
+
+20
+
+-- we're creating exceptions around are the following?
+
+21
+
+The exception argument.
+
+22
+
+But if Congress
+
+So, why don't we read this as simply saying
+
+MR. STEWART:
+
+As I say, I would agree that
+
+23
+
+if Congress had passed this statute after the Court's
+
+24
+
+decision in Colony, that this would have been a fairly
+
+25
+
+oblique way to reflect an intent to change what the
+7
+
+Alderson Reporting Company
+
+Official
+
+1
+
+Court had done.
+
+2
+
+the Court's decision in Colony, and it was reacting to a
+
+3
+
+circuit conflict.
+
+4
+5
+
+But Congress was acting in 1954, before
+
+And I think it's -- it's just as fair to say
+that --
+
+6
+
+JUSTICE SCALIA:
+
+So, this language would
+
+7
+
+have one meaning if the very same language were adopted
+
+8
+
+after our decision in -- in Colony and a different
+
+9
+
+meaning if it were adopted, as it was, before our
+
+10
+
+decision in Colony.
+
+11
+
+MR. STEWART:
+
+Well, in our -- I think --
+
+12
+
+JUSTICE SCALIA:
+
+That's a very strange
+
+13
+
+approach to a -- to the meaning of a statute, it seems
+
+14
+
+to me.
+MR. STEWART:
+
+15
+
+It may be strange, but I think
+
+16
+
+in a sense it's the Respondents who are striving for
+
+17
+
+strangeness, in the following way --
+
+18
+
+JUSTICE KENNEDY:
+
+Well, but -- but you're
+
+19
+
+saying -- and I'm just trying to supplement
+
+20
+
+Justice Scalia's question so -- so you can continue to
+
+21
+
+answer it.
+
+22
+
+You're saying that the split is somehow more
+
+23
+
+obscure or more imprecise in its formulation than what
+
+24
+
+Colony did.
+
+25
+
+about Colony, they would have done it differently, but
+
+You're saying that, oh, if Congress knew
+
+8
+
+Alderson Reporting Company
+
+Official
+
+1
+
+it was a split, this was close enough for government
+
+2
+
+work.
+
+That seems to be your argument.
+
+3
+
+(Laughter.)
+
+4
+
+MR. STEWART:
+
+And I --
+
+No, I -- I guess there are two
+
+5
+
+things I'm saying.
+
+6
+
+order to construe the statute, we need to not put
+
+7
+
+ourselves in -- attempt to put ourselves in the minds of
+
+8
+
+Congress, but at least be aware of the state of the
+
+9
+
+world at the time that Congress acted.
+
+10
+
+The first thing I'm saying is, in
+
+And in 1954, when Congress acted, there was
+
+11
+
+the circuit split.
+
+12
+
+endorse the Colony rule going forward and apply it to
+
+13
+
+trades -- to non-trade and -business taxpayers as well
+
+14
+
+as trades and businesses, the most natural thing would
+
+15
+
+have been to change the word "amount" in the main rule
+
+16
+
+to "item," to make clear that the main rule would apply
+
+17
+
+only when an item of gross receipts had been left off
+
+18
+
+the return altogether.
+
+19
+
+And if Congress had wanted to
+
+It also would have been natural, if Congress
+
+20
+
+had wanted that rule to apply going forward, to change
+
+21
+
+the term "gross income" in the main rule to say "gross
+
+22
+
+receipts" because gross income --
+
+23
+
+JUSTICE KENNEDY:
+
+I still don't understand
+
+24
+
+why the world was different after Colony addressed the
+
+25
+
+split than before Colony addressed the split.
+9
+
+Alderson Reporting Company
+
+The issue
+
+Official
+
+1
+
+is still the same.
+
+2
+
+MR. STEWART:
+
+I guess the way I would
+
+3
+
+respond to your question, Justice Kennedy, is to say if
+
+4
+
+you look at the statute in its current form, both the
+
+5
+
+text of the main rule and the adjacent provisions that
+
+6
+
+contextually bear on its meaning, then I think ours is
+
+7
+
+by far the better interpretation.
+
+8
+
+what Respondents --
+
+9
+
+JUSTICE SCALIA:
+
+And, really,
+
+Well, by far?
+
+By a little
+
+10
+
+maybe, and I might agree with that, but -- but we're not
+
+11
+
+writing on a blank slate here.
+
+12
+
+MR. STEWART:
+
+And what --
+
+13
+
+JUSTICE SCALIA:
+
+Indeed, I think Colony may
+
+14
+
+well have been wrong, but there it is.
+
+15
+
+law, and it said that that language meant a certain
+
+16
+
+thing.
+
+17
+
+is enough to change the meaning of the statute.
+
+18
+
+and I'm dubious about that.
+
+19
+
+It's -- it's the
+
+And the issue is whether this is -- this change
+
+MR. STEWART:
+
+And --
+
+I guess my main point is we
+
+20
+
+think our reading of the text is better, and what
+
+21
+
+Respondents have going for them is the argument that,
+
+22
+
+whether or not this is the way you would otherwise
+
+23
+
+construe the statute, once Colony has said what the
+
+24
+
+statute meant, the Court is bound by it.
+
+25
+
+And our point is that methodology doesn't
+10
+
+Alderson Reporting Company
+
+Official
+
+1
+
+really work with this provision, because the Court in
+
+2
+
+Colony --
+
+3
+
+JUSTICE KAGAN:
+
+Mr. Stewart, don't you have
+
+4
+
+two arguments?
+
+5
+
+other is that even the statute remained the -- even if
+
+6
+
+the statute remained the same, Colony itself was a
+
+7
+
+decision that found ambiguity in the statute.
+
+8
+
+have the power under Brand X to go back to that statute
+
+9
+
+and reinterpret it, if you will.
+
+10
+
+One is that the statute changed, but the
+
+MR. STEWART:
+
+So, you
+
+We do have the power under
+
+11
+
+Brand X, but we -- we don't think that the Court needs
+
+12
+
+to reach that question.
+
+13
+
+said that the --
+
+14
+
+And when the Court in Colony
+
+JUSTICE KAGAN:
+
+But if the Court thinks it
+
+15
+
+has to reach that question because it agrees more with
+
+16
+
+Justice Scalia than with you as to whether this statute
+
+17
+
+stays the same, then you have independent Brand X
+
+18
+
+arguments, don't you?
+
+19
+
+MR. STEWART:
+
+Yes, we do.
+
+20
+
+CHIEF JUSTICE ROBERTS:
+
+Well, about that
+
+21
+
+argument, you rely very heavily on the fact that
+
+22
+
+Justice Harlan used the term "ambiguous," right?
+
+23
+
+MR. STEWART:
+
+24
+
+CHIEF JUSTICE ROBERTS:
+
+25
+
+Yes.
+
+very much in a pre-Chevron world.
+
+But he was writing
+I -- he was certainly
+
+11
+
+Alderson Reporting Company
+
+Official
+
+1
+
+not on notice that that was a term of art or would
+
+
+2
+
+become a term of art.
+
+3
+
+him, but my sense is he was very gracious and polite.
+
+
+4
+
+And you can see him saying, well, that's a good
+
+
+5
+
+argument, but....
+
+6
+
+say this is it, this is it.
+
+7
+
+And, of course, I didn't know
+
+
+He's not the sort of person who would
+
+I don't think you necessarily can take the
+
+8
+
+use of the word "unambiguous" in his opinion to mean
+
+9
+
+what it does today.
+
+10
+
+JUSTICE GINSBURG:
+
+But he did say that
+
+11
+
+something was unambiguous, and that was the little (i)
+
+12
+
+that was added.
+
+13
+
+position on the '54 code; isn't that so?
+
+And he also said he wasn't taking any
+
+14
+
+MR. STEWART:
+
+That's correct.
+
+15
+
+JUSTICE GINSBURG:
+
+16
+
+MR. STEWART:
+
+He did.
+
+And the Court said that both
+
+17
+
+at the end of its opinion and it also said at the
+
+18
+
+beginning the only question before us is whether the
+
+19
+
+extended assessment period applies under the '39 code.
+
+20
+
+CHIEF JUSTICE ROBERTS:
+
+Is there -- is there
+
+21
+
+a case where we applied Chevron deference to a
+
+22
+
+pre-Chevron opinion?
+
+23
+
+Court looked at that, but the Court said it was
+
+24
+
+ambiguous; and so, we apply Chevron.
+
+25
+
+MR. STEWART:
+
+In other words saying, well, the
+
+I'm not aware of any case.
+12
+
+
+Alderson Reporting Company
+
+Official
+
+1
+
+Obviously, Brand X is a recent decision of this Court.
+
+2
+
+And I would agree with you that it's perilous to kind of
+
+3
+
+put a Chevron overlay on decisions that were issued
+
+4
+
+before Chevron.
+
+5
+
+JUSTICE BREYER:
+
+Even without Chevron -- I
+
+6
+
+mean, even apply it, I would have thought the point of
+
+7
+
+Brand X is you look at the language of the statute and
+
+8
+
+you look at what Congress intended, and where they
+
+9
+
+intended the agency to have power to interpret, you
+
+10
+
+follow the agency.
+
+11
+
+event if the basis for your decision is that it isn't
+
+12
+
+clear.
+
+13
+
+And you could do that after the
+
+But that isn't Harlan's opinion at all.
+
+He
+
+14
+
+goes and looks at what Congress meant, and what they
+
+15
+
+meant is treat basis like you treat a deduction.
+
+16
+
+gathers that from the legislative history.
+
+17
+
+don't see the basis for saying now the agency still has
+
+18
+
+power.
+
+19
+
+Now, forget that one.
+
+And he
+
+And so, I
+
+I mean, that's one
+
+20
+
+point you might want to address, but I may be too unique
+
+21
+
+in that, in which case it's not worth your time.
+
+22
+
+MR. STEWART:
+
+Let me give two -- let me --
+
+23
+
+let me give two responses to that, Justice Breyer.
+
+24
+
+think in effect what Justice Harlan did for the Court in
+
+25
+
+Colony was to construe the term, the reference to an
+13
+
+Alderson Reporting Company
+
+I
+
+Official
+
+1
+
+amount of gross income, as though it meant item of gross
+
+2
+
+receipts.
+
+That was the practical effect of the Court's
+
+3
+
+decision.
+
+And I think two of the -- two of the adjacent
+
+4
+
+provisions of the current code make clear that that's
+
+5
+
+not a --
+
+6
+
+JUSTICE BREYER:
+
+No, I didn't think that was
+
+7
+
+the basis.
+
+I thought the basis is that there are two
+
+8
+
+kinds of things:
+
+9
+
+category of stuff in your return, and the agency can
+
+One is you just don't put in some big
+
+10
+
+never figure that one out.
+
+11
+
+don't state your deductions correctly.
+
+12
+
+And the other is where you
+
+And now, the cost of goods sold and the
+
+13
+
+basis are difficult cases because of the way the -- the
+
+14
+
+code defined "gross income."
+
+15
+
+gain.
+
+16
+
+purposes of this statute.
+
+It defines it in terms of
+
+But Harlan says they're like deductions for
+
+17
+
+That's how I read it.
+
+But I have a different question.
+
+You can
+
+18
+
+pursue this one if you want.
+
+19
+
+bothering me about this case -- and I can't quite figure
+
+20
+
+out the answer to this -- is it seems to me when they
+
+21
+
+filed that tax return in April of 2000, it was a
+
+22
+
+terrible loophole, but these lawyers have the job of
+
+23
+
+creating loopholes or at least trying to take advantage
+
+24
+
+of them.
+
+25
+
+okay.
+
+Okay?
+
+My -- what's really
+
+And the IRS had told them this was
+
+Indeed, they had informal advice to that effect.
+14
+
+Alderson Reporting Company
+
+Official
+
+1
+
+Now, there's a -- you don't put the date of
+
+2
+
+the year 2000 reg, and I don't know if you're both
+
+3
+
+talking about the same thing.
+
+4
+
+there was no date there.
+
+5
+
+you lose in every circuit -- not you personally -- they
+
+6
+
+lose in every circuit; and then in the year 2009, they
+
+7
+
+say, though we lost and though we told everybody this is
+
+8
+
+okay at the time they filed the return, now we're going
+
+9
+
+to pass a new reg and we're going to penalize them,
+
+I was really surprised
+
+Then what happens is, after
+
+10
+
+taking all back this money 9 years later.
+
+11
+
+me pretty unfair.
+
+12
+
+answer.
+
+13
+
+That seems to
+
+So, I'd like to know just that
+
+MR. STEWART:
+
+Well, at the time that the
+
+14
+
+2009 regulation was promulgated first in temporary form,
+
+15
+
+we had lost cases in two courts of appeals.
+
+16
+
+Bakersfield in the Ninth Circuit, but the court of
+
+17
+
+appeals in that case said that because the statutory
+
+18
+
+language was ambiguous, the agency might be able still
+
+19
+
+to promulgate a regulation that would get Chevron
+
+20
+
+deference.
+
+21
+22
+23
+24
+25
+
+JUSTICE KENNEDY:
+
+One was
+
+And what was -- and what
+
+was the date of that, Bakersfield?
+MR. STEWART:
+
+That was in, I believe,
+
+either -- I believe 2008 was the Ninth Circuit -JUSTICE KENNEDY:
+
+Oh, okay.
+
+15
+
+Alderson Reporting Company
+
+Official
+
+1
+
+MR. STEWART:
+
+-- decision in Bakersfield.
+
+2
+
+It was -- at any rate, it was before the -- the issuance
+
+3
+
+of the regulation in temporary form.
+
+4
+
+before the regulation was promulgated, we had lost
+
+5
+
+Salman Ranch in the Federal Circuit, but that was by a
+
+6
+
+two-to-one vote.
+
+7
+
+four trial courts --
+
+8
+
+A couple of months
+
+At that time, we had won this issue in
+
+JUSTICE KAGAN:
+
+But, Mr. Stewart, prior to
+
+9
+
+this latest round of litigation, had the IRS ever said,
+
+10
+
+ever given any indication, that it viewed Colony as not
+
+11
+
+controlling any -- any -- any longer?
+
+12
+
+MR. STEWART:
+
+Yes, I think probably the best
+
+13
+
+indication of our -- the position in the intervening
+
+14
+
+years -- and we agree that there's a surprising dearth
+
+15
+
+of law -- was the Fifth Circuit litigation in Phinney,
+
+16
+
+P-H-I-N-N-E-Y, which was decided in 1968.
+
+17
+
+involved a situation in which the taxpayer accurately
+
+18
+
+reported the amount of gross receipts, approximately
+
+19
+
+$375,000, but misstated the nature of the receipts as
+
+20
+
+proceeds of a stock sale rather than of an installment
+
+21
+
+sale.
+
+22
+
+nature of the receipt made a difference was that it
+
+23
+
+potentially affected the taxpayer's entitlement to take
+
+24
+
+a stepped-up basis.
+
+25
+
+Phinney
+
+And the reason that that misstatement of the
+
+And so, the court of appeals in Phinney said
+16
+
+Alderson Reporting Company
+
+Official
+
+1
+
+that was subject to the extended assessment period, that
+
+2
+
+the misstatement of the nature of the --
+
+3
+
+JUSTICE KAGAN:
+
+And as a result of this
+
+4
+
+case, had the IRS suggested in any kind of guidance or
+
+5
+
+rulings or anything else that it viewed Colony as an
+
+6
+
+outdated decision?
+
+7
+
+and I'm reading Colony and I'm thinking the language of
+
+8
+
+the statute is still the same; why wouldn't Colony
+
+9
+
+control?
+
+10
+
+Because, you know, I'm a taxpayer,
+
+MR. STEWART:
+
+Well, I -- I think one reason
+
+11
+
+you might think that is that if you were -- you -- the
+
+12
+
+opinion was not oblivious to the fact that the 1954 code
+
+13
+
+had been enacted in the meantime, and the Court went out
+
+14
+
+of its way to say:
+
+15
+
+code, and we are not pronouncing on the meaning of the
+
+16
+
+1954 code, other than to note that our -- our conclusion
+
+17
+
+in this case is consistent with the unambiguous language
+
+18
+
+of new 6501(e)(1)(A).
+
+19
+
+in Intermountain, that is best read as a reference to
+
+20
+
+subparagraph (i), which says that for a trade or
+
+21
+
+business taxpayer, "gross income" will mean gross
+
+22
+
+receipts without an offset for the cost of acquiring
+
+23
+
+goods and services.
+
+We are discussing only the 1939
+
+And as the D.C. Circuit explained
+
+So --
+
+24
+
+JUSTICE SCALIA:
+
+25
+
+MR. STEWART:
+
+If --
+
+-- I think, as a taxpayer, you
+17
+
+
+Alderson Reporting Company
+
+Official
+
+1
+
+would at least be on notice that there was uncertainty
+
+2
+
+as to the proper meaning of the -- the code.
+
+3
+
+Boudin had written for the First Circuit in a case
+
+4
+
+called CC&F W. Operations in 2001 that it was at least
+
+5
+
+doubtful whether the main holding of Colony carried over
+
+6
+
+to the new -- the 1954 code.
+
+7
+
+but it also flagged the fact that this was a subject of
+
+8
+
+uncertainty.
+
+9
+
+Judge
+
+That was certainly dictum,
+
+And remember, the provision at issue here
+
+10
+
+doesn't bear on the legality of the taxpayer's
+
+11
+
+substantive returns.
+
+12
+
+IRS has 3 years or 6 years to make an extended
+
+13
+
+assessment.
+
+14
+
+of the return had run for these taxpayers, I think the
+
+15
+
+-- what was out there gave them notice that there was at
+
+16
+
+least uncertainty whether Colony applied.
+
+17
+
+The only question is whether the
+
+So, as of 2003, when 3 years from the date
+
+JUSTICE BREYER:
+
+You say in your brief on
+
+18
+
+page 4:
+
+"In 2000, the IRS issued a notice informing
+
+19
+
+taxpayers that Son-of-BOSS transactions were invalid
+
+20
+
+under the tax law."
+
+21
+
+was sort of curious whether that particular cite came
+
+22
+
+before or after they filed their return.
+
+And you cite without a date.
+
+23
+
+MR. STEWART:
+
+24
+
+JUSTICE BREYER:
+
+25
+
+So, I
+
+I don't know whether -And they say that -- and
+
+I -- in July 2000, 3 months after they were filed, the
+18
+
+Alderson Reporting Company
+
+Official
+
+1
+
+Commissioner reiterated his view:
+
+2
+
+held that the extended statute of limitations," da, da,
+
+3
+
+da, "is limited to when specific receipts or accruals
+
+4
+
+are left out of the" -- of gross income, which is
+
+5
+
+basically the Colony statement.
+
+6
+
+MR. STEWART:
+
+7
+
+JUSTICE BREYER:
+
+8
+
+Well, the -Are you talking about the
+
+same thing?
+
+9
+10
+
+"It has long been
+
+MR. STEWART:
+
+No.
+
+No, those were two
+
+different documents.
+
+11
+
+JUSTICE BREYER:
+
+12
+
+MR. STEWART:
+
+13
+
+JUSTICE BREYER:
+
+Okay.
+
+The two -So, there are two different
+
+14
+
+documents.
+
+So -- so, in July, they're telling the tax
+
+15
+
+bar this is okay.
+
+16
+
+here, which you refer to without a date, told them it
+
+17
+
+wasn't okay.
+
+And what you say is this document
+
+18
+
+MR. STEWART:
+
+19
+
+JUSTICE BREYER:
+
+20
+
+you could sort that out.
+
+21
+
+MR. STEWART:
+
+Well, first of all -I'd be rather curious if
+
+Well, the 2000 notice that the
+
+22
+
+Respondents have cited -- I think the -- the most
+
+23
+
+important point to make about it is that it was the view
+
+24
+
+of a single -- of the district counsel for a single
+
+25
+
+district within the IRS.
+19
+
+Alderson Reporting Company
+
+Official
+
+1
+
+JUSTICE BREYER:
+
+I -- I know there are many
+
+2
+
+ways of downplaying that, but I'm just curious as to
+
+3
+
+what happened.
+
+4
+
+that?
+
+5
+
+What about the one you cited?
+
+MR. STEWART:
+
+When was
+
+I don't know the exact date in
+
+6
+
+2000, but it has long been established that transactions
+
+7
+
+lacking economic substance and transactions motivated
+
+8
+
+purely for tax avoidance purposes may be disregarded
+
+9
+
+from -- by the IRS.
+
+10
+
+That -- that was a pre-existing
+
+proposition.
+
+11
+
+When we issued the notice with respect to
+
+12
+
+Son-of-BOSS transactions in particular, that was simply
+
+13
+
+the IRS's way of informing taxpayers that we regard this
+
+14
+
+particular avoidance mechanism as encompassed by the
+
+15
+
+general principle that transactions lacking economic
+
+16
+
+substance --
+
+17
+
+CHIEF JUSTICE ROBERTS:
+
+Well, yes, that's
+
+18
+
+the general principle.
+
+But the point you made just a
+
+19
+
+few moments ago is -- I think is responsive to that,
+
+20
+
+which is:
+
+21
+
+talking about a statute of limitations.
+
+22
+
+of a statute of limitations is some things that are bad
+
+23
+
+are -- are -- are gone.
+
+We're not talking about the merits; we're
+
+24
+
+MR. STEWART:
+
+25
+
+CHIEF JUSTICE ROBERTS:
+
+The whole point
+
+That's --
+
+20
+
+Alderson Reporting Company
+
+You can't go back to
+
+Official
+
+1
+
+them.
+
+2
+
+MR. STEWART:
+
+That's correct, and that's the
+
+3
+
+proposition that the Respondents are citing the
+
+4
+
+different 2000 document for.
+
+5
+
+though it were a definitive statement of agency position
+
+6
+
+as to the operation of the assessment period.
+
+7
+
+was not that.
+
+8
+
+district counsel.
+
+9
+
+to Colony as continuing to -- as though it continued to
+
+They are citing it as
+
+It -- it
+
+It was a document issued by a single
+And in a sense, the -- the reference
+
+10
+
+govern the -- the 1954 code was dictum because the
+
+11
+
+district counsel, even in that document, stated that it
+
+12
+
+would not be inappropriate to --
+
+13
+
+CHIEF JUSTICE ROBERTS:
+
+At what -- at what
+
+14
+
+level of the IRS bureaucracy can you feel comfortable
+
+15
+
+that the advice you're getting is correct?
+
+16
+
+MR. STEWART:
+
+Well, this --
+
+17
+
+CHIEF JUSTICE ROBERTS:
+
+A single district
+
+18
+
+counsel -- you go to there and say, what do you think?
+
+19
+
+And it tells you, and you say, well, that's fine, but I
+
+20
+
+know you don't count; so, I want to talk to your
+
+21
+
+boss and boss --
+
+22
+
+(Laughter.)
+
+23
+
+MR. STEWART:
+
+No, this is not advice to the
+
+24
+
+taxpayer.
+
+That document was a memorandum from the
+
+25
+
+district counsel to another IRS official.
+21
+
+Alderson Reporting Company
+
+The other IRS
+
+Official
+
+1
+
+official was seeking guidance with regard to the
+
+2
+
+question of whether we needed to get within the 3-year
+
+3
+
+assessment period or whether it was appropriate to rely
+
+4
+
+on the 6-year assessment period.
+
+5
+
+district counsel cited Colony in a way that it suggested
+
+6
+
+that it continued to control the operation of the 1954
+
+7
+
+code, the district counsel stated on the facts of this
+
+8
+
+case it would not be inappropriate to rely on the --
+
+9
+
+And although the
+
+CHIEF JUSTICE ROBERTS:
+
+So -- so, what that
+
+10
+
+-- what happened here is that the taxpayer came to the
+
+11
+
+same conclusion as a district counsel of the IRS.
+
+12
+
+MR. STEWART:
+
+That's correct, but not --
+
+13
+
+didn't come to the same conclusion as the IRS did in
+
+14
+
+litigating the case in Phinney, didn't come to the same
+
+15
+
+conclusion as the IRS did in --
+
+16
+
+JUSTICE BREYER:
+
+What about the -- that's
+
+17
+
+the July.
+
+What about this other, undated one?
+
+Now, I
+
+18
+
+notice what you say about it.
+
+19
+
+described "arrangements that unlawfully 'purport to
+
+20
+
+give'" them -- if I read that piece of paper, which I
+
+21
+
+might -- and you probably read it because you cited
+
+22
+
+it -- will I come away with the impression, uh-oh, these
+
+23
+
+loophole arrangements, Son of BOSS, which previously
+
+24
+
+seemed to be okay are now not okay?
+
+25
+
+impression I'll have?
+
+You said that it
+
+22
+
+Alderson Reporting Company
+
+Is that the
+
+Official
+
+1
+
+MR. STEWART:
+
+2
+
+JUSTICE BREYER:
+
+3
+
+I -- first I would say -Is that the impression you
+
+had?
+
+4
+
+MR. STEWART:
+
+That notice would not say --
+
+5
+
+tell you anything relevant to the computation of the
+
+6
+
+assessment period.
+
+7
+
+JUSTICE BREYER:
+
+Okay.
+
+All right.
+
+That's
+
+8
+
+what I suspect.
+
+9
+
+I'm not saying there aren't worse unfairnesses in the
+
+10
+
+world, but, nonetheless, people spent a lot of money.
+
+11
+
+The whole Bar has gone to an enormous effort.
+
+12
+
+Everything up through 2000 being -- seems to say you can
+
+13
+
+do this.
+
+14
+
+And then 9 years later, after continuous litigation, the
+
+15
+
+IRS promulgates a regulation which tries to reach back
+
+16
+
+and capture people who filed their return 9 years
+
+17
+
+before.
+
+18
+
+Then look at the unfairness of this.
+
+You have a case on point in the Supreme Court.
+
+MR. STEWART:
+
+Again, I'm not quite sure what
+
+19
+
+you mean by saying:
+
+20
+
+this.
+
+21
+
+statements that could lead people to believe that the
+
+22
+
+Son-of-BOSS mechanism was okay, but what --
+
+23
+
+would seem to say that you could do
+
+I don't think that there were any affirmative IRS
+
+JUSTICE GINSBURG:
+
+Can you clarify,
+
+24
+
+Mr. Stewart, two things that Justice Breyer brought up?
+
+25
+
+One, he said that the IRS had given people advice that
+23
+
+Alderson Reporting Company
+
+Official
+
+1
+
+Son of BOSS was okay; it would work -- this tax shelter,
+
+2
+
+this tax scheme, would work.
+
+3
+
+And then he said -- he suggested that a
+
+4
+
+basis is like deductions.
+
+5
+
+overstatement of deductions don't get you the longer
+
+
+6
+
+statute of limitations.
+
+7
+
+inflated basis get you to 6 years when inflated
+
+
+8
+
+deductions don't?
+
+9
+10
+
+And you agree that
+
+So, why -- why should an
+
+
+That's one question.
+
+
+And the other question is, is it so, that
+
+agents told people that Son of BOSS would work?
+
+11
+
+MR. STEWART:
+
+No.
+
+Is --
+
+No, it's not true that
+
+12
+
+the IRS had advised people that Son-of-BOSS transactions
+
+13
+
+were okay.
+
+14
+
+specific document that said, as a matter of agency
+
+15
+
+policy, they're not okay.
+
+16
+
+just a kind of case-specific application of the more
+
+17
+
+general -- of the more general proposition that
+
+18
+
+transactions lacking economic substance can be
+
+19
+
+disregarded.
+
+It wasn't until 2000 that the IRS issued a
+
+But, again, that document was
+
+With respect to why the overstatement of
+
+20
+21
+
+basis is treated differently from the overstated
+
+22
+
+deduction, that follows inexorably from the language of
+
+23
+
+the code.
+
+24
+
+would trigger the general rule as an omission from gross
+
+25
+
+income, and because of the way that gross income is
+
+That is, Congress defined the conduct that
+
+24
+
+Alderson Reporting Company
+
+Official
+
+1
+
+defined, an overstatement of basis can lead to an
+
+2
+
+understatement of gain, which in turn is taken into
+
+3
+
+account in computing gross income.
+
+4
+
+ultimately affect taxable income, but it doesn't affect
+
+5
+
+gross income.
+
+6
+
+the statute to encompass that.
+
+7
+
+A deduction may
+
+And so, there would be no way of reading
+
+Now, as to why Congress would have done
+
+8
+
+this, I think a clue is furnished by subparagraph Roman
+
+9
+
+(ii), which is at the bottom of page 1a, and it says:
+
+10
+
+"In determining the amount omitted from gross income,
+
+11
+
+there shall not be taken into account any amount which
+
+12
+
+is omitted from gross income stated in the return if
+
+13
+
+such amount is disclosed in the return, or in a
+
+14
+
+statement attached to the return, in a manner adequate
+
+15
+
+to apprise the Secretary of the nature and amount of
+
+16
+
+such item."
+
+17
+
+And so, that provides a safe harbor that
+
+18
+
+says even if you fall within the general rule, even if
+
+19
+
+you understated your gross income by more than
+
+20
+
+25 percent, if, at some point in the return, you gave
+
+21
+
+the IRS adequate information to notice that the
+
+22
+
+misstatement had taken place, you will be off the hook
+
+23
+
+for the 6-year assessment period.
+
+24
+25
+
+And I think that is highly relevant in
+responding to the policy concern that Justice Harlan
+25
+
+Alderson Reporting Company
+
+Official
+
+1
+
+identified in Colony.
+
+2
+
+reason we think that Congress intended to restrict the
+
+3
+
+statute to situations where an item is left off the
+
+4
+
+return altogether is that those would be the most
+
+5
+
+difficult for the IRS to catch; the IRS would be placed
+
+6
+
+at a special disadvantage.
+
+7
+
+That is, Justice Harlan said the
+
+Here in subparagraph (ii), Congress has
+
+8
+
+accomplished the same intent but through a different
+
+9
+
+mechanism.
+
+That is, it's made the general rule sweep
+
+10
+
+more broadly but given taxpayers an out where the
+
+11
+
+disclosures are adequate.
+
+12
+
+If I could reserve the balance of my time.
+
+13
+
+JUSTICE KENNEDY:
+
+Just on that point -- and
+
+14
+
+we'll find out in a minute -- is the Respondent going to
+
+15
+
+say, well, it's always implicit that you have a basis;
+
+16
+
+everybody knows you have a basis?
+
+17
+
+MR. STEWART:
+
+18
+
+JUSTICE KENNEDY:
+
+19
+
+I don't think that -So, that's -- so, that's
+
+necessarily what you're telling the government.
+MR. STEWART:
+
+20
+
+I don't think he will say --
+
+21
+
+I don't want to speculate too much on what he will say,
+
+22
+
+but I think his position is an overstatement of basis
+
+23
+
+could never trigger the assessment period because the
+
+24
+
+item of gross receipts would have been adequately
+
+25
+
+disclosed.
+26
+
+Alderson Reporting Company
+
+Official
+
+1
+
+CHIEF JUSTICE ROBERTS:
+
+2
+
+Mr. Garre, is it implicit that you always
+
+3
+
+Thank you, counsel.
+
+have a basis?
+
+4
+
+ORAL ARGUMENT OF GREGORY G. GARRE
+
+5
+
+ON BEHALF OF THE RESPONDENTS
+
+6
+
+MR. GARRE:
+
+Your Honor, our position is the
+
+7
+
+one that the Court reached in Colony, which is that an
+
+8
+
+overstatement of basis is not an omission from gross
+
+9
+
+income.
+
+What the Court held in Colony was that an
+
+10
+
+omission -- an omission from gross income is where you
+
+11
+
+leave out a specific taxable item or receipt.
+
+12
+
+We think the court of appeals got it right
+
+13
+
+when it concluded that the statute of limitations on the
+
+14
+
+statute -- on the tax assessments at issue expired in
+
+15
+
+2003 and rejected the IRS's extraordinary efforts to
+
+16
+
+avoid that result by discombobulating this Court's
+
+17
+
+decision in Colony and by seeking to retroactively
+
+18
+
+reopen and extend the statute of limitations.
+
+19
+
+What the Government relies on principally is
+
+20
+
+the addition of subparagraph (i) in the code, and that
+
+21
+
+was added in 1954, before the Court's decision in 1958.
+
+22
+
+And I'd like to make a few points about subparagraph (i)
+
+23
+
+because I think it's the crux of the Government's
+
+24
+
+position.
+
+25
+
+The first is just the anomaly of their
+27
+
+Alderson Reporting Company
+
+Official
+
+1
+
+argument, that by adding this subparagraph -- and it's
+
+2
+
+on page 1a of the addendum to the red brief -- which
+
+3
+
+explicates the definition of "gross income" in one
+
+4
+
+specific context, the sale -- the cost of goods or
+
+5
+
+services by a trade or business, Congress meant to
+
+6
+
+change the general rule -- and that's what it called it,
+
+7
+
+the "general rule" -- in subsection (A).
+
+8
+9
+
+JUSTICE KAGAN:
+added that paragraph?
+
+Well, why do you think they
+
+Because it seems clear that there
+
+10
+
+was a circuit split at that time about exactly this
+
+11
+
+question and that this paragraph was a response to that
+
+12
+
+circuit split.
+
+13
+
+by it?
+
+14
+
+So, what else could Congress have meant
+
+MR. GARRE:
+
+Well, Your Honor, I think that's
+
+15
+
+probably right.
+
+16
+
+taxpayer side of the circuit split.
+
+17
+
+history indicating that it also thought it was
+
+18
+
+addressing the computational rule of how to get gross
+
+19
+
+income, which factors into the 25 percent trigger.
+
+20
+
+It thought it was agreeing with the
+There's legislative
+
+I think what maybe is most important is that
+
+21
+
+this Court in Colony looked at the 1954 amendments at
+
+22
+
+the suggestion of the government and concluded that its
+
+23
+
+decision was consistent with the 1954 amendments.
+
+24
+
+That's in the last line of the decision.
+
+25
+
+JUSTICE KENNEDY:
+
+Were most of the --
+
+28
+
+Alderson Reporting Company
+
+Official
+
+1
+
+JUSTICE GINSBURG:
+
+But that's got to mean --
+
+2
+
+that's got to refer to (i).
+
+3
+
+Harlan said two things.
+
+4
+
+therefore, I'm going to look at the legislative history
+
+5
+
+to find out what the predecessor section means.
+
+6
+
+It can't refer to the --
+
+He said it's ambiguous;
+
+And then he says:
+
+I'm not going to
+
+7
+
+speculate on what this new thing means, but I do want to
+
+8
+
+point out that the result we reach in Colony is in
+
+9
+
+harmony with the unambiguous language of 6501, et
+
+10
+
+cetera.
+
+The only unambiguous language that he could be
+
+11
+
+referring to is in (i) because he has just -- he had
+
+12
+
+said the earlier language was ambiguous.
+
+13
+
+MR. GARRE:
+
+Well, I don't -- I don't think
+
+14
+
+so, Your Honor.
+
+First of all, you're right, he referred
+
+15
+
+to the whole 6501(e)(1)(A), which includes both
+
+16
+
+subsections.
+
+17
+
+subparagraph (i).
+
+18
+
+subparagraph (ii), along the lines of what my friend
+
+19
+
+just spelled out, because much of the Colony decision
+
+20
+
+was based on addressing the situation where the -- where
+
+21
+
+the IRS is at a special disadvantage because something's
+
+22
+
+been left out entirely.
+
+23
+
+the heart of subparagraph (ii).
+
+It's not clear that he was identifying
+He could have well been referring to
+
+And that really kind of gets to
+
+24
+
+But the anomaly of the Government's
+
+25
+
+construction here today is that Colony would come out
+29
+
+Alderson Reporting Company
+
+Official
+
+1
+
+differently, because Colony doesn't involve a taxpayer
+
+2
+
+involved in the sale of goods or service; it involved a
+
+3
+
+taxpayer in the sale of real property.
+
+4
+
+this Court in Colony said --
+
+5
+
+JUSTICE SOTOMAYOR:
+
+So, even though
+
+-- real estate developer
+
+6
+
+in the business of buying and selling property.
+
+7
+
+not sure that I buy your argument that it can't be goods
+
+8
+
+and services, because that was the services of this
+
+9
+
+particular company.
+MR. GARRE:
+
+10
+
+So, I'm
+
+Your Honor, the sale of real
+
+11
+
+property, whether in parcels or otherwise, has always
+
+12
+
+been treated differently than the sale of -- costs of
+
+13
+
+goods or services, which really is a term of art.
+
+14
+
+if you go back at Colony, you can see that the Court
+
+15
+
+referred to basis, referred to property, and that's
+
+16
+
+precisely the way that the parties did in their brief.
+
+17
+
+The Solicitor General in its own brief framed the
+
+18
+
+question presented as overstatement of basis in the sale
+
+19
+
+of property.
+That's the situation that we have here
+
+20
+21
+
+today.
+
+22
+
+addressed to the specific situation of a trade or
+
+23
+
+business involved in the sale of costs of goods or
+
+24
+
+services --
+
+25
+
+And
+
+The subparagraph (i) they're referring to is
+
+JUSTICE KENNEDY:
+
+And I --
+
+30
+
+Alderson Reporting Company
+
+Official
+
+1
+
+MR. GARRE:
+
+-- which is different.
+
+2
+
+JUSTICE KENNEDY:
+
+I was going to ask in
+
+3
+
+conjunction with Justice Kagan's discussion, were the
+
+4
+
+pre-Colony cases that involved splits -- did most of
+
+5
+
+those or any of those relate to the sales of goods and
+
+6
+
+services or were they all real estate sales?
+
+7
+
+MR. GARRE:
+
+Do --
+
+Your Honor, the Uptegrove case
+
+8
+
+did, the Third Circuit case.
+
+But they involved -- the
+
+9
+
+fact is they involved both the sale of property and the
+
+10
+
+sale of goods and services.
+
+And at that time, no one
+
+11
+
+was drawing this bright-line distinction.
+
+12
+
+JUSTICE KENNEDY:
+
+Well, but the Congress
+
+13
+
+drew it, as I think is implicit in Justice Kagan's
+
+14
+
+question, when it talks just about goods and services.
+
+15
+
+MR. GARRE:
+
+It did do that.
+
+There was one
+
+16
+
+reason for Congress to address that specific situation,
+
+17
+
+in that there was a regulation that had defined "gross
+
+18
+
+income" differently.
+
+19
+
+brief, and it was discussed in Uptegrove.
+
+20
+
+a reason to single that out.
+
+21
+
+JUSTICE KENNEDY:
+
+It's appended at the end of our
+So, there was
+
+But I think the more -And the other reason, it
+
+22
+
+was goods and services.
+
+There's always FIFO and LIFO.
+
+23
+
+I mean, there's -- you know, taxpayers who sell goods
+
+24
+
+have inventory cushions.
+
+25
+
+well aware that that kind of judgment is involved in all
+
+And so, the IRS is very, very
+
+31
+
+Alderson Reporting Company
+
+Official
+
+1
+
+these statements.
+
+2
+
+It's not quite the same with basis.
+
+MR. GARRE:
+
+Well, Your Honor, I think it's
+
+3
+
+the opposite, if I understand your question, which is
+
+4
+
+that taxpayers typically put more information which is
+
+5
+
+going to put the IRS on notice when you're dealing with
+
+6
+
+basis and the sale of property as opposed to the costs
+
+7
+
+of goods and services, which involve many transactions
+
+8
+
+and you're dealing with them in the aggregate.
+
+9
+
+you're dealing with the sale of property, as in Colony
+
+When
+
+10
+
+and here, you're dealing with specific disclosures as to
+
+11
+
+the basis.
+
+12
+
+Here, if you look on page 151 of the JA, it
+
+13
+
+lays out the adjustment in the basis.
+
+14
+
+true in Colony.
+
+15
+
+distinction there, I think it cuts in favor of the
+
+16
+
+taxpayer.
+
+17
+
+And the same was
+
+And so, to the extent that there's a
+
+The problem for the Government is all of the
+
+18
+
+amendments in 1954 were pro-taxpayer amendments as
+
+19
+
+relevant here; and yet, the Government's conclusion is
+
+20
+
+that by adding this subsection addressing the specific
+
+21
+
+situation, it meant to take away the general rule in a
+
+22
+
+way that hurt taxpayers.
+
+23
+
+this Court said in Colony because the Court --
+
+24
+25
+
+It's inconsistent with what
+
+JUSTICE GINSBURG:
+redundant?
+
+Well, why would they be
+
+I mean, if the statute without little (i)
+32
+
+Alderson Reporting Company
+
+Official
+
+1
+
+meant what you said it meant, then there would be no
+
+2
+
+occasion to put this in, because "omission from gross
+
+3
+
+income" would refer to items of income, period.
+
+4
+
+-- so, what work does (i) do, if it just -- if the main
+
+5
+
+rule, the general rule, is as you say it is?
+
+6
+
+MR. GARRE:
+
+That's
+
+Your Honor, everyone agrees it's
+
+7
+
+not redundant, even the Government, because what it does
+
+8
+
+is, at a minimum, it has a computational effect of
+
+9
+
+affecting the 25 percent trigger.
+
+10
+
+The amount to get to
+
+the trigger has to be --
+
+11
+
+JUSTICE KAGAN:
+
+12
+
+not why Congress passed that provision?
+
+13
+
+MR. GARRE:
+
+But you agree that that's
+
+Well, it's not clear, Justice
+
+14
+
+Kagan.
+
+The -- the Federal Circuit in the Salman Ranch
+
+15
+
+case cited legislative history that suggested it was
+
+16
+
+trying to achieve just that result.
+
+17
+
+broader point I would make is it's not at all uncommon
+
+18
+
+for Congress to act to provide an answer to a specific
+
+19
+
+situation that had come up by explicating it.
+
+20
+
+one doesn't conclude that, in doing that, it's intended
+
+21
+
+to overstate -- override the entire general rule that's
+
+22
+
+stated, particularly where it doesn't touch the language
+
+23
+
+that's the subject of the general rule.
+
+24
+
+in any way touch the phrase interpreted in Colony,
+
+25
+
+"omission from gross income."
+33
+
+Alderson Reporting Company
+
+But I think the
+
+And yet,
+
+Congress didn't
+
+Official
+
+1
+
+And the anomaly gets even greater if you
+
+2
+
+look at Congress's actions after Colony.
+
+3
+
+Congress amended the heading.
+
+4
+
+heading, but it amended it, the heading to the
+
+5
+
+subsection, to mean "Substantial omission of items,"
+
+
+6
+
+which is perfectly consistent with Colony's
+
+
+7
+
+interpretation, directly contrary to the Government's
+
+
+8
+
+interpretation.
+
+
+9
+
+In 1965,
+
+Now, granted it's only a
+
+In 1982, Congress re-enacted the same
+
+
+10
+
+language, "omission from gross income," found in the
+
+11
+
+provision at issue in Colony in 26 U.S.C. 6229, which is
+
+12
+
+the provision for partnerships.
+
+13
+
+subparagraph (i) that the Government relies upon as the
+
+14
+
+transformative provision narrowing the general rule.
+
+15
+
+And so, why on earth would -- would Congress omit that
+
+16
+
+subparagraph if it did the transformative work that the
+
+17
+
+Government suggests?
+
+18
+
+And yet, it omitted the
+
+The Government doesn't have a response
+
+19
+
+except to say that they have to be interpreted the same
+
+20
+
+way, which makes no sense given the emphasis it's
+
+21
+
+placing on subparagraph (i).
+
+22
+
+subparagraph (i) just doesn't have and was never
+
+23
+
+intended to have the transformative effect that the
+
+24
+
+Government suggests.
+
+25
+
+I think the answer is, is
+
+Whatever -- we can talk about what the Court
+34
+
+Alderson Reporting Company
+
+Official
+
+1
+
+meant in Colony, but I do think that it's critically
+
+2
+
+important that Colony is entitled to full stare decisis
+
+3
+
+effect.
+
+4
+
+Congressional re-enactment.
+
+5
+
+the world after Colony, but the fact is, if you go back
+
+6
+
+and look, no one thought that Colony was just a ship
+
+7
+
+passing the night that had only retrospective
+
+8
+
+significance.
+
+9
+
+that Colony was a landmark decision.
+
+In fact, it's stare decisis coupled with
+The Government describes
+
+Everybody, including the IRS, appreciated
+
+10
+
+JUSTICE KAGAN:
+
+11
+
+you find evidence of that?
+
+12
+
+in your brief that end up not really supporting your
+
+13
+
+position.
+
+14
+
+case after Colony that deals with the question of
+
+15
+
+whether Colony continues to govern after the 1954
+
+16
+
+amendments.
+
+17
+
+cut in the opposite direction.
+
+18
+
+something?
+
+19
+
+say that, yes, Colony continued to control?
+
+Because you cite some cases
+
+And as far as I can see, there's only one
+
+And that case, which is Phinney, seems to
+So, am I missing
+
+Are there cases that -- that favor you that
+
+MR. GARRE:
+
+20
+
+Well, Mr. Garre, where do
+
+I think what my response would
+
+21
+
+be first as to Phinney, the Fifth Circuit has clarified
+
+22
+
+that the Government's construction of Phinney is just
+
+23
+
+wrong.
+
+24
+
+dealt with a particular application of it.
+
+25
+
+Phinney was consistent with the Colony rule.
+
+JUSTICE KAGAN:
+
+Well, whatever the Fifth
+35
+
+
+Alderson Reporting Company
+
+It
+
+Official
+
+1
+
+Circuit said about Phinney, when I read Phinney, it
+
+2
+
+seems to me to cut in the Government's direction if not
+
+3
+
+to be entirely on all fours.
+
+4
+
+other cases that you have that suggest that the courts
+
+5
+
+did think that Colony was continuing to be the governing
+
+6
+
+rule?
+
+7
+
+MR. GARRE:
+
+But I asked, are there any
+
+If I could make one point on
+
+8
+
+Phinney, and then I'll address the other cases.
+
+I would
+
+9
+
+ask you to look at the Solicitor General's opposition
+
+10
+
+brief in Phinney, which recognized that Colony was the
+
+11
+
+governing principle.
+
+12
+
+Government thought that Colony was just a shot in time,
+
+13
+
+had no ongoing significance, they would have said that
+
+14
+
+in the opposition brief in Phinney.
+
+15
+
+General accepted Colony as the governing rule, as
+
+16
+
+everyone did.
+
+17
+
+One would think that the
+
+The Solicitor
+
+As to the cases, I think it's fair to say
+
+18
+
+that, no, we can't point to a case in the 1950s, '60s,
+
+19
+
+or '70s where they specifically confronted the question
+
+20
+
+before the Court today.
+
+21
+
+can say is look at the cases that we cite in our brief,
+
+22
+
+and all of those cases discuss this Court's opinion in
+
+23
+
+Colony as if it continues to have lasting effect on the
+
+24
+
+interpretation of the "omits from gross income."
+
+25
+
+yet, in the Government's -- the IRS's own internal
+
+But what I -- what I -- what I
+
+36
+
+Alderson Reporting Company
+
+And
+
+Official
+
+1
+
+documents -- we cite two, 1976 and 2000 -- where the IRS
+
+2
+
+internally is treating Colony as a landmark decision
+
+3
+
+which controls on a current going-forward basis.
+
+4
+
+JUSTICE KAGAN:
+
+Because what I was thinking,
+
+5
+
+Mr. Garre -- and tell me what you think the consequence
+
+6
+
+of this would be -- is that if I were a tax lawyer and
+
+7
+
+somebody came to me and said is Colony still the rule, I
+
+8
+
+would have said:
+
+9
+
+think you're good 70 to 80 percent.
+
+Well, I can't tell you 100 percent.
+
+I
+
+You know, it's the
+
+10
+
+same language, and there's Colony out there, and -- and
+
+11
+
+-- and nothing the IRS hasn't said that Colony doesn't
+
+12
+
+control, but I can't -- so, I'm giving a 70 percent.
+
+13
+14
+15
+
+Do you win if that's the state of the world
+as I see it?
+MR. GARRE:
+
+Well, I don't know how you would
+
+16
+
+put a percentage on -- on, in effect, whether Colony was
+
+17
+
+a "step one" case or not.
+
+18
+19
+20
+
+I mean --
+
+JUSTICE KAGAN:
+
+Well, in terms of what a
+
+taxpayer thinks, whether Colony continues to govern.
+MR. GARRE:
+
+I think so.
+
+I mean, I think,
+
+21
+
+you know, the IRS's actions here really put taxpayers in
+
+22
+
+an extraordinary situation.
+
+23
+
+decision of this Court that says an overstatement of
+
+24
+
+basis -- no, that's not an omission of gross income.
+
+25
+
+They're relying on the 1954 amendments to get around
+
+I mean, they're taking a
+
+37
+
+Alderson Reporting Company
+
+Official
+
+1
+
+that.
+
+Look at the Colony decision.
+
+The Colony decision
+
+2
+
+says the 1954 amendments -- no, this decision is
+
+3
+
+perfectly consistent with those.
+
+4
+
+And here comes the Government --
+
+5
+
+JUSTICE GINSBURG:
+
+But it also said before
+
+6
+
+that, Mr. Garre, and without doing more than noting the
+
+7
+
+speculative debate between the parties as to whether
+
+8
+
+Congress manifested an intention to clarify or --
+
+9
+
+clarify or change the 1939 code.
+
+So, not taking a
+
+10
+
+position on whether the new section changes the code.
+
+11
+
+And the part that is in harmony -- I can't see how that
+
+12
+
+could be read to mean anything other than the (i), which
+
+13
+
+is unambiguous and certainly in harmony with the result
+
+14
+
+in Colony.
+MR. GARRE:
+
+15
+
+Justice Ginsburg, the government
+
+16
+
+in Colony argued that the 1954 amendments compelled its
+
+17
+
+interpretation, which was the one that the Court
+
+18
+
+rejected.
+
+19
+
+considered that argument in reaching the opposite
+
+20
+
+conclusion.
+
+21
+
+fair to describe that language as dictum.
+
+22
+
+Court has many times said that even if something is
+
+23
+
+dictum, if it explicates the Court -- Court's holding,
+
+24
+
+the lower courts and this Court would give it great
+
+25
+
+weight in its --
+
+If -- if this Court -- this Court must have
+
+I think -- I think you're right, that it's
+
+38
+
+Alderson Reporting Company
+
+But this
+
+Official
+
+1
+
+JUSTICE GINSBURG:
+
+But as I read it, it
+
+2
+
+isn't saying and Colony controls; it's saying we're not
+
+3
+
+going to take a position on what the 1954 code does,
+
+4
+
+whether it clarifies or changes.
+
+5
+
+MR. GARRE:
+
+I think that the prefatory
+
+6
+
+language there -- I think -- I think you're right.
+
+7
+
+That's a fair characterization.
+
+8
+
+the Court said was its holding was in harmony with the
+
+9
+
+new statute.
+
+10
+
+But, ultimately, what
+
+And you can't reach that conclusion if you
+
+agree with the Government's interpretation.
+
+11
+
+JUSTICE GINSBURG:
+
+But he says "unambiguous
+
+12
+
+language," and he can't mean the general rule because
+
+13
+
+he's already said that is ambiguous.
+
+14
+
+the new provision, which is certainly unambiguous.
+MR. GARRE:
+
+15
+
+He's got to mean
+
+I don't think it has to be (i),
+
+16
+
+Your Honor.
+
+17
+
+don't know which one he was referring to.
+
+18
+
+reason why it could be subsection (ii) is because a
+
+19
+
+great deal of the Court's analysis dealt with the -- the
+
+20
+
+question whether the Commissioner was at a disadvantage.
+
+21
+22
+23
+
+I think it could be subsection (ii).
+
+We
+
+And the
+
+I would like to address the rationale in
+Colony.
+
+My friend has referred -CHIEF JUSTICE ROBERTS:
+
+Before -- if I could
+
+24
+
+just interrupt you, before you do so, to follow up on
+
+25
+
+Justice Kagan's question.
+39
+
+Alderson Reporting Company
+
+Official
+
+1
+
+Under our current regime, can you ever give
+
+2
+
+more than a 70 percent chance?
+
+3
+
+absence of a definitive Supreme Court ruling, the IRS
+
+4
+
+can reach a different result and it can do that
+
+5
+
+retroactively.
+
+6
+
+that, right?
+
+7
+
+ambiguous, the IRS can change the rule in Colony, and it
+
+8
+
+can apply that rule, new rule, retroactively.
+
+9
+
+what our cases say, right?
+
+So, I mean, you don't disagree with
+I mean, if we determine that Colony was
+
+MR. GARRE:
+
+10
+
+Because you have, in the
+
+That's
+
+Well, we do disagree with it --
+
+11
+
+I mean, I certainly accept the Brand X part of that.
+
+12
+
+What we disagree with is that (a) the IRS has the
+
+13
+
+authority to retroactively apply an interpretation of a
+
+14
+
+statute, which gets to the meaning of 7805(b)(1); and
+
+15
+
+(b) whether or not the regulation in this case on its
+
+16
+
+face applies it retroactively.
+
+17
+
+JUSTICE SOTOMAYOR:
+
+But I accept -Well, they can't -- they
+
+18
+
+can't change the interpretation of the statute, but they
+
+19
+
+are the agency with expertise to define a term within a
+
+20
+
+statute.
+
+21
+
+either what the words "gross income" mean or don't mean?
+
+22
+
+Why don't they have the expertise to define
+
+MR. GARRE:
+
+Well, they don't have any leeway
+
+23
+
+to overturn this Court's decision if that decision
+
+24
+
+specifically addressed the question.
+
+25
+
+language of Chevron, and as it turns -40
+
+Alderson Reporting Company
+
+And that's the
+
+Official
+
+1
+
+JUSTICE SCALIA:
+
+No, and if it is --
+
+2
+
+according to Brand X, if it specifically addressed the
+
+3
+
+question and said that there was no ambiguity.
+
+4
+
+according to Brand X, if there's ambiguity, despite a
+
+5
+
+holding of this Court, the agency can effectively
+
+6
+
+overrule a holding by a regulation, right?
+
+7
+
+what Brand X says?
+
+8
+
+MR. GARRE:
+
+9
+
+JUSTICE SCALIA:
+
+But
+
+Isn't that
+
+Brand X says that -So, the only question here
+
+10
+
+is, as the Chief Justice put it, whether -- whether
+
+11
+
+indeed Colony meant by "ambiguous" ambiguous.
+
+12
+
+MR. GARRE:
+
+13
+
+JUSTICE SCALIA:
+
+14
+
+I -It depends on what the
+
+meaning of "ambiguous" is, right?
+
+15
+
+(Laughter.)
+
+16
+
+MR. GARRE:
+
+I don't think so, for this
+
+17
+
+reason:
+
+18
+
+Court's decision, Justice Harlan in a gracious way, as
+
+19
+
+the Chief suggested, pointed out that there could be
+
+20
+
+some ambiguity in the text.
+
+21
+
+apply the traditional tools of statutory construction.
+
+22
+
+Because Colony -- at the beginning of the
+
+JUSTICE ALITO:
+
+But then he went on to
+
+But I can hardly even think
+
+23
+
+of a statutory interpretation question that we've gotten
+
+24
+
+that doesn't involve some degree of ambiguity, if we're
+
+25
+
+honest about it.
+
+We take a case where there's a
+41
+
+Alderson Reporting Company
+
+Official
+
+1
+
+conflict in the courts of appeals.
+
+2
+
+least enough ambiguity in those cases for one or more
+
+3
+
+courts of appeals to come to an interpretation that's
+
+4
+
+contrary to the one that we ultimately reach.
+
+5
+
+degree of ambiguity is Brand X referring to?
+
+6
+
+MR. GARRE:
+
+And so, there was at
+
+So, what
+
+Well, I would -- I would think
+
+7
+
+that Brand X refers back to Chevron and looks to the
+
+8
+
+first step of Chevron.
+
+9
+
+to is whether or not -- it's really a step one or step
+
+Brand -- what Brand X is looking
+
+10
+
+two case.
+
+And on step one, Chevron looks to whether
+
+11
+
+Congress has addressed the specific question presented.
+
+12
+
+And if you look at the Court's decision in Colony, what
+
+13
+
+Justice Harlan said was Congress was addressing itself
+
+14
+
+to the specific situation where a taxpayer actually
+
+15
+
+omitted some income receipt or accrual in his
+
+16
+
+computation of gross income, and not --
+
+17
+
+JUSTICE KAGAN:
+
+Well, that was the specific
+
+18
+
+situation, but then the question was, how clearly did
+
+19
+
+Congress speak to that specific situation?
+
+20
+
+to get his result, Justice Harlan says first that the
+
+21
+
+statute is -- that the statutory text is ambiguous, goes
+
+22
+
+to a bunch of legislative history, and none of that
+
+23
+
+legislative history actually speaks to the exact
+
+24
+
+question before the Court, only by implication.
+
+25
+
+And in order
+
+So, if you look at the whole of -- of the
+42
+
+Alderson Reporting Company
+
+Official
+
+1
+
+Colony opinion, it sure seems as though there's a lot of
+
+2
+
+extrapolation going on and essentially a lot of
+
+3
+
+ambiguity.
+
+4
+
+MR. GARRE:
+
+Well, I would disagree with
+
+5
+
+that, respectfully, Your Honor.
+
+I think the -- the
+
+6
+
+holding of the Court -- and, again, it's entitled to
+
+7
+
+stare decisis effect even if this Court might approach
+
+8
+
+it differently today under different modes of statutory
+
+9
+
+construction or otherwise.
+
+The holding of the Court was
+
+10
+
+that Congress addressed the specific situation of
+
+11
+
+whether an overstatement of basis was an omission from
+
+12
+
+gross income, and the Court said no.
+
+13
+
+JUSTICE KAGAN:
+
+Well, in the end, there has
+
+14
+
+to be a resolution.
+
+But the question is, what does it
+
+15
+
+look like before you get to that resolution?
+
+16
+
+Justice Harlan is doing a lot of tap dancing there, you
+
+17
+
+know, going to this Senate report, going to that House
+
+18
+
+report, going to this colloquy, before he can come up
+
+19
+
+with an answer.
+MR. GARRE:
+
+20
+
+And -- and
+
+He was employing the traditional
+
+21
+
+tools of statutory construction, not just legislative
+
+22
+
+history.
+
+23
+
+the patent tax incongruities created by the government's
+
+24
+
+position that an overstatement --
+
+25
+
+He talked about the structure and purpose and
+
+JUSTICE GINSBURG:
+
+But he did say -- he did
+
+43
+
+Alderson Reporting Company
+
+Official
+
+1
+
+say he was looking to --
+
+2
+
+therefore, I look to the legislative history.
+
+3
+4
+
+MR. GARRE:
+
+he said the text isn't clear;
+
+And that's a tool of statutory
+
+construction.
+
+5
+
+JUSTICE BREYER:
+
+I agree with you on that.
+
+6
+
+The -- and I agree with Justice Scalia, actually.
+
+There
+
+7
+
+are many different kinds of ambiguity, and the question
+
+8
+
+is, is this of the kind where the agency later would
+
+9
+
+come and use its expertise?
+
+And you're saying here it
+
+10
+
+was up to the Congress and looking at what they had in
+
+11
+
+mind.
+
+12
+
+All right.
+
+Maybe that's the base -- best
+
+13
+
+ground, but suppose it turns out a majority think you're
+
+14
+
+not right on that.
+
+15
+
+Assuming you're wrong on that, which I'm not sure you
+
+16
+
+are, but assuming you're wrong, now we get to this
+
+17
+
+regulation.
+
+18
+
+at some level it seems rather unfair, but that instinct
+
+19
+
+is not enough.
+
+Okay?
+
+Now, here's my question:
+
+Here is my problem:
+
+One -- I have no doubt
+
+The question is what -- what's the law?
+
+(A) You can say the word "open" doesn't
+
+20
+21
+
+include this case.
+
+22
+
+agency has great authority to construe its own
+
+23
+
+regulation.
+
+24
+25
+
+But we run into the problem that an
+
+(B) You could say that, well, there's this
+statute out there that says don't apply it, and there
+44
+
+Alderson Reporting Company
+
+Official
+
+1
+
+are two routes there.
+
+One is something to do with
+
+2
+
+language, which I think you can think of, which seems to
+
+3
+
+cut very much against you if read naturally, but you can
+
+4
+
+strain it to read it in your favor.
+
+5
+
+to do with a parenthetical where, once again, although
+
+6
+
+they left it out of their brief and they put in
+
+7
+
+ellipses, I can see why they left it out because when
+
+8
+
+you read it it's again ambiguous.
+
+9
+
+problem.
+Then you could say:
+
+10
+
+And the other has
+
+We run into the same
+
+Well, they're not
+
+11
+
+supposed to do these things retroactively, either on
+
+12
+
+common law administrative law grounds or something like
+
+13
+
+that; they shouldn't do it; it's unfair.
+
+14
+
+And they'll say:
+
+But, you see, it wasn't
+
+15
+
+that unfair; a child of 2 would have known this was a
+
+16
+
+loophole.
+
+17
+
+And the IRS never said anything, except for one district
+
+18
+
+director in a different district that really encouraged
+
+19
+
+or underwrote this kind of thing.
+
+20
+
+as unfair as you think.
+
+21
+
+you'll die by regulation.
+
+22
+
+that.
+
+23
+
+That's how they would have characterized it.
+
+So, it's not nearly
+
+If you live by loopholes,
+You know, something like
+
+So, looking at those four possible grounds
+
+24
+
+-- and I can't think of a fifth -- you take your choice.
+
+25
+
+Which is the strongest, and how do you apply to the -45
+
+Alderson Reporting Company
+
+Official
+
+1
+
+reply to the objection?
+
+2
+
+MR. GARRE:
+
+Well, I think you would first
+
+3
+
+look at the language of the regulation and see whether
+
+4
+
+or not --
+
+5
+
+JUSTICE BREYER:
+
+6
+
+MR. GARRE:
+
+"Open," that's the term.
+
+-- by its terms, it applies
+
+7
+
+retroactively.
+
+This Court has made clear, it made clear
+
+8
+
+in the Bowen case, that it's not retroactively unless
+
+9
+
+there's a clear -- not retroactive unless there's a
+
+10
+
+clear statement of retroactivity.
+
+11
+
+whatever else is true, that what the effective date
+
+12
+
+provision says and the preamble says, it's just unclear
+
+13
+
+about whether it's retroactive or not.
+
+14
+
+JUSTICE SCALIA:
+
+And our position is,
+
+I never thought that a
+
+15
+
+revision of a statute of limitation was retroactive
+
+16
+
+legislation, just as I've never thought that a provision
+
+17
+
+altering rules of evidence for a crime, even for crimes
+
+18
+
+that were committed before that alteration, is
+
+19
+
+retroactive legislation.
+
+20
+
+MR. GARRE:
+
+Well, I --
+
+21
+
+JUSTICE SCALIA:
+
+You know, the crucial date
+
+22
+
+is the date -- at least it's not -- well, you can extend
+
+23
+
+the statute of limitations.
+
+24
+25
+
+MR. GARRE:
+
+I think it's retroactive in the
+
+worst way, for this reason:
+
+It at a minimum
+
+46
+
+Alderson Reporting Company
+
+Official
+
+1
+
+extinguishes an affirmative defense, the statute of
+
+2
+
+limitations.
+
+This Court recognized that --
+
+3
+
+JUSTICE SCALIA:
+
+4
+
+MR. GARRE:
+
+5
+
+JUSTICE SCALIA:
+
+No, I --
+
+-- in the Hughes Aircraft case.
+So, say it's unfair, but
+
+6
+
+I'm not sure that the rule against -- presumption
+
+7
+
+against retroactivity technically applies.
+
+8
+9
+
+MR. GARRE:
+
+Well, again, I mean, I think if
+
+you look at Landgraf and the cases talking about what is
+
+10
+
+retroactive, this regulation here if it is applied
+
+11
+
+retroactivity -- retroactively has the consequence this
+
+12
+
+Court points to as the worst kind of retroactivity,
+
+13
+
+which is extinguishing a valid defense in litigation and
+
+14
+
+imposing new consequences for past actions.
+
+15
+
+Aircraft recognizes that, as do the many courts of
+
+16
+
+appeals that we've cited in our brief.
+
+17
+
+JUSTICE SOTOMAYOR:
+
+Hughes
+
+Presumptively because
+
+18
+
+you're saying that this is a new interpretation.
+
+19
+
+the IRS is taking the position that the meaning hasn't
+
+20
+
+changed --
+
+21
+
+MR. GARRE:
+
+22
+
+JUSTICE SOTOMAYOR:
+
+But
+
+Well --- that it's just
+
+23
+
+clarifying some ambiguity that the courts have had; not
+
+24
+
+that it's had.
+
+25
+
+MR. GARRE:
+
+And with all due respect, the
+47
+
+
+Alderson Reporting Company
+
+Official
+
+1
+
+law in 2003 when the statute of limitations expired was
+
+2
+
+Colony.
+
+3
+
+reinterpret it, it's changing the law.
+
+4
+
+why it's doing that is it's doing it retrospectively.
+
+Even if the Court -- the agency had leeway to
+
+5
+
+And the reason
+
+If you look at cases like Brand X, the
+
+6
+
+theory is you have one interpretation, and then the
+
+7
+
+agency going forward can have another one.
+
+8
+
+the agency sought to apply its -- its new interpretation
+
+9
+
+prospectively.
+
+In Brand X,
+
+Here, it's doing retrospectively, and
+
+10
+
+when it does that, it changes the law.
+
+11
+
+concrete example of that is --
+
+12
+
+JUSTICE SOTOMAYOR:
+
+13
+
+presumptions in your answer.
+
+14
+
+controlled --
+
+Maybe the
+
+There's too many
+
+The first is that Colony
+
+15
+
+MR. GARRE:
+
+No, no --
+
+16
+
+JUSTICE SOTOMAYOR:
+
+-- what to me itself
+
+17
+
+says it's not -- it's not interpreting the new
+
+18
+
+statute --
+
+19
+
+MR. GARRE:
+
+20
+
+JUSTICE SOTOMAYOR:
+
+21
+22
+
+My point on that --- whatever its footnote
+
+meant.
+MR. GARRE:
+
+No, my point on that was not
+
+23
+
+that Colony controlled as a step one matter; it's that
+
+24
+
+even if the Government is right that Colony just said
+
+25
+
+this is one permissible reading, it was the law as the
+48
+
+Alderson Reporting Company
+
+Official
+
+1
+
+-- it was the permissible reading and the law until the
+
+2
+
+government changed it.
+
+3
+
+it, try to change it, until 2009.
+
+4
+
+limitations in this case expired in 2003.
+
+And the government didn't change
+The statute of
+
+5
+
+And so, if the government can adopt a new
+
+6
+
+interpretation going forward, the question is, can it
+
+7
+
+apply that interpretation retrospectively during the
+
+8
+
+time frame in this case?
+
+9
+
+that they certainly haven't done so unambiguously.
+
+And our position on that is
+And
+
+10
+
+that -- as this Court said in St. Cyr, ambiguity means
+
+11
+
+unambiguous prospectivity.
+
+12
+
+rejected --
+
+And the Court also
+
+13
+
+JUSTICE KAGAN:
+
+14
+
+the preamble as part of the regulation?
+
+15
+
+look at the preamble, the preamble seems pretty clear to
+
+16
+
+me.
+
+17
+
+did not do this clearly enough must rest on looking at
+
+18
+
+the regulation without the preamble.
+
+19
+
+Do you -- do you understand
+Because if I
+
+It seems to me that your view that the government
+
+MR. GARRE:
+
+No.
+
+No.
+
+I mean, the Court
+
+20
+
+could -- I mean, certainly, we think you'd go first to
+
+21
+
+the regulation.
+
+22
+
+says, quote, this is "not retroactive."
+
+23
+
+not apply to open tax -- it only applies to open tax
+
+24
+
+years, and not to reopen closed tax years.
+
+25
+
+Federal Register 78,898.
+
+And it says "was open."
+
+The preamble
+It says it does
+
+That's on 75
+
+The government -- the way that
+49
+
+
+Alderson Reporting Company
+
+Official
+
+1
+
+the government gets there is to say that, well, even
+
+
+2
+
+though we've passed the regulation long after the
+
+
+3
+
+statute of limitations expired, because this case is
+
+
+4
+
+pending, we can apply the new interpretation in
+
+
+5
+
+determining whether the period closed long before we
+
+
+6
+
+passed this regulation.
+
+
+7
+
+At a minimum, that's -- that's a highly
+
+
+8
+
+strained, if not convoluted, way to get around
+
+
+9
+
+retroactivity.
+
+
+10
+
+The way that the regulation's effective date
+
+11
+
+and the preamble speaks about whether this is
+
+12
+
+retroactive or not is really kind of nonsensical.
+
+13
+
+think, at a minimum, the taxpayer ought to get the
+
+14
+
+benefit of that, and this Court should say that if the
+
+15
+
+government really wants to do -- take the extraordinary
+
+16
+
+step that it's taken here to retroactively reopen a
+
+17
+
+statute of limitations, it ought to do so in clear terms
+
+18
+
+and not the convoluted way it's done here.
+
+19
+
+And I
+
+We also think that the -- the IRS just
+
+20
+
+lacked the authority to -- to legislate, to -- to pass a
+
+21
+
+new interpretation on a statute retroactively.
+
+22
+
+gets to the meaning of 7805 and whether -- which says
+
+23
+
+regulations relating to a statutory provision enacted
+
+24
+
+after the '96 legislation which purported to strip the
+
+25
+
+IRS of authority to act retroactively, whether the
+50
+
+Alderson Reporting Company
+
+That
+
+Official
+
+1
+
+"enacted after" clause modifies "regulation" or
+
+
+2
+
+"statute."
+
+3
+
+"regulation" because there's two types of IRS
+
+
+4
+
+regulations:
+
+5
+
+regulations relating to IRS internal practices.
+
+
+6
+
+And we think, in context, it must modify
+
+
+regulations relating to statutes and
+
+
+And what Congress said is internal
+
+
+7
+
+practices -- sure, you can operate retroactively when
+
+
+8
+
+appropriate.
+
+9
+
+statutes, not retroactive.
+
+10
+
+With respect to new interpretations of
+
+That was landmark
+
+
+legislation as part of the Taxpayer Bill of Rights.
+
+11
+
+JUSTICE KAGAN:
+
+I take your point about the
+
+12
+
+purpose, but you would have to ignore every rule of
+
+13
+
+grammar that there is in order to read it your way,
+
+14
+
+don't -- wouldn't you?
+
+15
+
+MR. GARRE:
+
+Not if you read "regulations
+
+16
+
+which relate to statutory provisions" as -- as one
+
+17
+
+thing.
+
+18
+
+as opposed to regulations which relate to IRS
+
+19
+
+provisions.
+
+20
+
+it's clear Congress was thinking about that distinction.
+
+21
+
+If you do read that as one unit, then the "enacted on or
+
+22
+
+after" obviously modifies that.
+
+Regulations which relate to statutory provisions
+
+23
+
+And if you look at the legislative history,
+
+I think you have to look at it in context
+
+24
+
+and in light of the purpose of it, to get to that
+
+25
+
+conclusion.
+
+But courts have adopted that conclusion.
+51
+
+Alderson Reporting Company
+
+Official
+
+1
+
+The American Council on -- American College of Tax
+
+2
+
+Counsel lays out those cases.
+
+3
+
+We think Judge Wilkinson got it right when
+
+4
+
+he referred to the IRS's position in this case as "an
+
+5
+
+inversion of the universe" and concluded that accepting
+
+6
+
+IRS's position would stretch accepted administrative
+
+7
+
+deference principles beyond their logical and
+
+8
+
+constitutional limit.
+
+9
+
+The IRS has the tools of its -- at its
+
+10
+
+disposal to identify tax deficiency and to take
+
+11
+
+appropriate action timely.
+
+12
+
+respond to the precise situation precipitating this case
+
+13
+
+with Son-of-BOSS transactions.
+
+14
+
+changing the meaning of what's an omission from gross
+
+15
+
+income, but by adopting a new provision which requires
+
+16
+
+taxpayers involved in listed transactions like Son of
+
+17
+
+BOSS to report many additional things, and saying that
+
+18
+
+the statute of limitations did not apply at all if they
+
+19
+
+didn't make those reporting requirements.
+
+20
+
+Congress acted in 2004 to
+
+It amended 6501 not by
+
+So, going forward, the only impact of the
+
+21
+
+Court's decision in this case is going to apply to
+
+22
+
+everyday regular taxpayers who simply erroneously
+
+23
+
+misstate or overstate the basis in the sale of a home or
+
+24
+
+other assets.
+
+25
+
+extraordinary steps that the IRS takes -- asks you to
+
+There's no reason to take the
+
+52
+
+Alderson Reporting Company
+
+Official
+
+1
+
+take in this case to reach that conclusion.
+
+2
+
+We would ask the Court to affirm the
+
+3
+
+judgment of the court of appeals, to reject the IRS's
+
+4
+
+aggressive position on administrative power, and put an
+
+5
+
+end to a case that the taxpayer should have never had to
+
+6
+
+file in the first place.
+
+7
+
+CHIEF JUSTICE ROBERTS:
+
+8
+
+MR. GARRE:
+
+9
+
+CHIEF JUSTICE ROBERTS:
+
+10
+
+Thank you, counsel.
+
+Thank you, Your Honor.
+Mr. Stewart, you
+
+have 3 minutes remaining.
+
+11
+
+REBUTTAL ARGUMENT OF MALCOLM L. STEWART
+
+12
+
+ON BEHALF OF THE PETITIONER
+
+13
+
+MR. STEWART:
+
+Thank you, Mr. Chief Justice.
+
+14
+
+I'd like to make three quick points.
+
+15
+
+First, Mr. Garre refers to the amended
+
+16
+
+heading of section -- subsection 6501(e), which now
+
+17
+
+states "Substantial omission of items," but I think the
+
+18
+
+heading simply points up the fact that some provisions
+
+19
+
+within subsection (e) refer to amounts and some to
+
+20
+
+items.
+
+21
+
+gift taxes, refers to omission of items.
+
+22
+
+Subsection (e)(2), which deals with estate and
+
+And the legislative history makes clear that
+
+23
+
+Congress chose that term precisely to make clear that
+
+24
+
+the understatement -- or the overstatement or
+
+25
+
+understatement of an item that was reported will not
+53
+
+Alderson Reporting Company
+
+Official
+
+1
+
+give rise to the extended period.
+
+2
+
+The second thing is that, at bottom,
+
+3
+
+Respondents argue that the -- that the phrase "amount of
+
+4
+
+gross income" should be construed to mean item of gross
+
+5
+
+receipts.
+
+6
+
+argument as to why that would be a sound reading.
+
+7
+
+Really, they rely exclusively on Colony.
+
+8
+
+in Colony said, at the beginning of its opinion, that it
+
+9
+
+was pronouncing only on the 1939 code.
+
+And they don't offer any real textual
+
+But the Court
+
+It said at the
+
+10
+
+end of its opinion that it was not generally trying to
+
+11
+
+construe the 1954 code.
+
+12
+
+And it stated that the relevant -- the most
+
+13
+
+relevant language was not unambiguous.
+
+14
+
+recognition of ambiguity is relevant in part because it
+
+15
+
+sets up our Brand X argument, but it's also relevant
+
+16
+
+because saying that a particular snippet of language is
+
+17
+
+ambiguous is to recognize that its meaning may vary
+
+18
+
+depending on context.
+
+19
+
+And I think the
+
+And the --
+
+CHIEF JUSTICE ROBERTS:
+
+Mr. Stewart, I know
+
+20
+
+you've got a -- your third point, and I want to let you
+
+21
+
+get it out, but you mentioned Brand X.
+
+22
+
+applied Brand X to one of our decisions?
+
+23
+
+said an agency by regulation can alter and change one --
+
+24
+
+a Supreme Court decision?
+
+25
+
+MR. STEWART:
+
+No.
+
+Have we ever
+Have we ever
+
+I mean, Brand X was the
+
+54
+
+Alderson Reporting Company
+
+Official
+
+1
+
+first case that announced the Brand X principle, and the
+
+2
+
+Court has not applied it since.
+
+3
+
+Justice Stevens --
+
+4
+
+CHIEF JUSTICE ROBERTS:
+
+5
+6
+7
+8
+9
+10
+
+Well, but that was
+
+applying it to a court of appeals decision.
+MR. STEWART:
+
+That was applying it to a
+
+court of appeals decision.
+CHIEF JUSTICE ROBERTS:
+
+Right.
+
+We've never
+
+said an agency can change what we've said the law means.
+MR. STEWART:
+
+No.
+
+Justice Stevens wrote a
+
+11
+
+separate opinion in Brand X, suggesting that it might
+
+12
+
+not apply to decisions of this Court, but the Court as a
+
+13
+
+whole did not pronounce on that.
+
+14
+
+And then the third point I would want to
+
+15
+
+make is that Mr. Garre referred to cases and one IRS
+
+16
+
+General Counsel opinion that were issued during the
+
+17
+
+period between 1958 and 2000 that applied Colony to the
+
+18
+
+current statute, but they did so in a very specific way.
+
+19
+
+That is, they relied on the aspects of Colony that
+
+20
+
+talked about Congress's purpose to reserve the extended
+
+21
+
+assessment period for cases in which the IRS was at a
+
+22
+
+special disadvantage due to inadequate disclosure.
+
+23
+
+those cases applied that language in elucidating current
+
+24
+
+subparagraph (ii), which provides a safe harbor in cases
+
+25
+
+of adequate disclosure.
+55
+
+Alderson Reporting Company
+
+And
+
+Official
+
+1
+
+Respondents' position goes much further,
+
+2
+
+though.
+
+3
+
+the proposition that even if its disclosures were
+
+4
+
+inadequate, the extended period still can't be applied
+
+5
+
+to it.
+
+6
+7
+
+Respondent is attempting to rely on Colony for
+
+And none of the decisions on which
+Respondents rely establish that proposition.
+
+8
+
+Thank you.
+
+9
+
+CHIEF JUSTICE ROBERTS:
+
+10
+
+Thank you, counsel,
+
+counsel.
+
+11
+
+The case is submitted.
+
+12
+
+(Whereupon, at 11:02 a.m., the case in the
+
+13
+
+above-entitled matter was submitted.)
+
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+56
+
+Alderson Reporting Company
+
+Official
+
+57
+A
+able 15:18
+above-entitled
+1:11 56:13
+absence 40:3
+accept 7:19
+40:11,16
+accepted 36:15
+52:6
+accepting 52:5
+accomplished
+26:8
+account 25:3,11
+accrual 42:15
+accruals 19:3
+accrued 7:9
+accurately
+16:17
+achieve 33:16
+acknowledge
+6:1
+acquiring 17:22
+act 33:18 50:25
+acted 9:9,10
+52:11
+acting 8:1
+action 52:11
+actions 34:2
+37:21 47:14
+added 12:12
+27:21 28:9
+addendum 28:2
+adding 28:1
+32:20
+addition 27:20
+additional 52:17
+address 13:20
+31:16 36:8
+39:21
+addressed 9:24
+9:25 30:22
+40:24 41:2
+42:11 43:10
+addressing
+28:18 29:20
+32:20 42:13
+adequate 25:14
+
+25:21 26:11
+55:25
+adequately
+26:24
+adjacent 5:4,16
+10:5 14:3
+adjustment
+32:13
+administrative
+45:12 52:6
+53:4
+adopt 49:5
+adopted 8:7,9
+51:25
+adopting 52:15
+advantage 14:23
+advice 14:25
+21:15,23 23:25
+advised 24:12
+affect 25:4,4
+affirm 53:2
+affirmative
+23:20 47:1
+agency 4:12
+13:9,10,17
+14:9 15:18
+21:5 24:14
+40:19 41:5
+44:8,22 48:2,7
+48:8 54:23
+55:9
+agents 24:10
+aggregate 32:8
+aggressive 53:4
+ago 20:19
+agree 7:22 10:10
+13:2 16:14
+24:4 33:11
+39:10 44:5,6
+agreeing 28:15
+agrees 11:15
+33:6
+Aircraft 47:4,15
+AL 1:6
+ALITO 41:22
+alter 54:23
+alteration 46:18
+
+altering 46:17
+altogether 9:18
+26:4
+ambiguity 4:11
+11:7 41:3,4,20
+41:24 42:2,5
+43:3 44:7
+47:23 49:10
+54:14
+ambiguous 3:23
+4:14 11:22
+12:24 15:18
+29:3,12 39:13
+40:7 41:11,11
+41:14 42:21
+45:8 54:17
+amended 34:3,4
+52:13 53:15
+amendments
+28:21,23 32:18
+32:18 35:16
+37:25 38:2,16
+American 52:1
+52:1
+amount 3:13
+4:18 5:3 6:15
+6:16 9:15 14:1
+16:18 25:10,11
+25:13,15 33:9
+54:3
+amounts 7:9,10
+53:19
+analysis 39:19
+announced 55:1
+anomaly 27:25
+29:24 34:1
+answer 8:21
+14:20 15:12
+33:18 34:21
+43:19 48:13
+appeals 15:15
+15:17 16:25
+27:12 42:1,3
+47:16 53:3
+55:5,7
+APPEARAN...
+1:14
+
+appears 4:18 6:8
+appended 31:18
+appendix 6:12
+application
+24:16 35:24
+applied 12:21
+18:16 47:10
+54:22 55:2,17
+55:23 56:4
+applies 12:19
+40:16 46:6
+47:7 49:23
+apply 3:21 9:12
+9:16,20 12:24
+13:6 40:8,13
+41:21 44:25
+45:25 48:8
+49:7,23 50:4
+52:18,21 55:12
+applying 55:5,6
+appreciated
+35:8
+apprise 25:15
+approach 8:13
+43:7
+appropriate
+22:3 51:8
+52:11
+approximately
+16:18
+April 14:21
+argue 54:3
+argued 38:16
+argument 1:12
+2:2,5,8 3:3,7
+6:25 7:1,3,14
+7:21 9:2 10:21
+11:21 12:5
+27:4 28:1 30:7
+38:19 53:11
+54:6,15
+arguments 11:4
+11:18
+arrangements
+22:19,23
+art 12:1,2 30:13
+asked 36:3
+
+Alderson Reporting Company
+
+asks 52:25
+aspects 55:19
+assessment 4:22
+6:17 12:19
+17:1 18:13
+21:6 22:3,4
+23:6 25:23
+26:23 55:21
+assessments
+27:14
+assets 52:24
+assume 5:9
+assuming 44:15
+44:16
+attached 25:14
+attempt 9:7
+attempting 56:2
+authoritative
+4:6
+authority 40:13
+44:22 50:20,25
+avoid 27:16
+avoidance 20:8
+20:14
+aware 9:8 12:25
+31:25
+a.m 1:13 3:2
+56:12
+B
+b 40:15 44:24
+back 7:2 11:8
+15:10 20:25
+23:15 30:14
+35:5 42:7
+bad 20:22
+baggage 5:10
+Bakersfield
+15:16,22 16:1
+balance 26:12
+bar 19:15 23:11
+base 44:12
+based 29:20
+basically 19:5
+basis 3:16,21
+13:11,15,17
+14:7,7,13
+
+Official
+
+58
+16:24 24:4,7
+24:21 25:1
+26:15,16,22
+27:3,8 30:15
+30:18 32:1,6
+32:11,13 37:3
+37:24 43:11
+52:23
+bear 5:4 10:6
+18:10
+bears 6:9
+beginning 12:18
+41:17 54:8
+behalf 2:4,7,10
+3:8 27:5 53:12
+believe 15:23,24
+23:21
+benefit 50:14
+best 16:12 17:19
+44:12
+better 10:7,20
+beyond 52:7
+big 14:8
+Bill 51:10
+bit 6:7 7:14
+blank 10:11
+boss 21:21,21
+22:23 24:1,10
+52:17
+bothering 14:19
+bottom 25:9
+54:2
+Boudin 18:3
+bound 10:24
+Bowen 46:8
+Brand 11:8,11
+11:17 13:1,7
+40:11 41:2,4,7
+41:8 42:5,7,8,8
+48:5,7 54:15
+54:21,22,25
+55:1,11
+Breyer 13:5,23
+14:6 18:17,24
+19:7,11,13,19
+20:1 22:16
+23:2,7,24 44:5
+
+46:5
+brief 6:11,12
+7:14 18:17
+28:2 30:16,17
+31:19 35:12
+36:10,14,21
+45:6 47:16
+bright-line
+31:11
+broader 33:17
+broadly 26:10
+brought 23:24
+built 4:7
+bunch 42:22
+bureaucracy
+21:14
+business 7:8
+9:13 17:21
+28:5 30:6,23
+businesses 9:14
+buy 30:7
+buying 30:6
+
+36:8,17,21,22
+40:9 42:2 47:9
+48:5 52:2
+55:15,21,23,24
+case-specific
+24:16
+catch 26:5
+category 14:9
+CC&F 18:4
+certain 10:15
+certainly 11:25
+18:6 38:13
+39:14 40:11
+49:9,20
+cetera 29:10
+chance 40:2
+change 5:19 6:1
+6:3 7:16,25
+9:15,20 10:16
+10:17 28:6
+38:9 40:7,18
+49:2,3 54:23
+55:9
+C
+changed 6:25
+C 2:1 3:1
+7:17 11:4
+called 18:4 28:6
+47:20 49:2
+capture 23:16
+changes 4:12
+carried 5:10
+38:10 39:4
+18:5
+48:10
+case 3:4,11 5:11 changing 48:3
+7:7 12:21,25
+52:14
+13:21 14:19
+characterizati...
+15:17 17:4,17
+39:7
+18:3 22:8,14
+characterized
+23:13 31:7,8
+45:16
+33:15 35:14,16 Chevron 3:24
+36:18 37:17
+12:21,24 13:3
+40:15 41:25
+13:4,5 15:19
+42:10 44:21
+40:25 42:7,8
+46:8 47:4 49:4
+42:10
+49:8 50:3 52:4 Chief 3:3,9,25
+52:12,21 53:1
+5:6 11:20,24
+53:5 55:1
+12:20 20:17,25
+56:11,12
+21:13,17 22:9
+cases 3:21 14:13
+27:1 39:23
+15:15 31:4
+41:10,19 53:7
+35:11,18 36:4
+53:9,13 54:19
+
+55:4,8 56:9
+child 45:15
+choice 45:24
+chose 53:23
+circuit 4:24 5:22
+8:3 9:11 15:5,6
+15:16,24 16:5
+16:15 17:18
+18:3 28:10,12
+28:16 31:8
+33:14 35:21
+36:1
+cite 18:20,21
+35:11 36:21
+37:1
+cited 19:22 20:3
+22:5,21 33:15
+47:16
+citing 21:3,4
+clarified 35:21
+clarifies 39:4
+clarify 23:23
+38:8,9
+clarifying 47:23
+clause 51:1
+clear 9:16 13:12
+14:4 28:9
+29:16 33:13
+44:1 46:7,7,9
+46:10 49:15
+50:17 51:20
+53:22,23
+clearly 42:18
+49:17
+close 9:1
+closed 49:24
+50:5
+clue 25:8
+code 4:19,23 5:1
+5:2,13 6:20
+12:13,19 14:4
+14:14 17:12,15
+17:16 18:2,6
+21:10 22:7
+24:23 27:20
+38:9,10 39:3
+54:9,11
+
+Alderson Reporting Company
+
+College 52:1
+colloquy 43:18
+Colony 4:1,2,4,6
+4:8,16,20 5:10
+5:14,16,21 7:2
+7:16,19,24 8:2
+8:8,10,24,25
+9:12,24,25
+10:13,23 11:2
+11:6,12 13:25
+16:10 17:5,7,8
+18:5,16 19:5
+21:9 22:5 26:1
+27:7,9,17
+28:21 29:8,19
+29:25 30:1,4
+30:14 32:9,14
+32:23 33:24
+34:2,11 35:1,2
+35:5,6,9,14,15
+35:19,23 36:5
+36:10,12,15,23
+37:2,7,10,11
+37:16,19 38:1
+38:1,14,16
+39:2,22 40:6,7
+41:11,17 42:12
+43:1 48:2,13
+48:23,24 54:7
+54:8 55:17,19
+56:2
+Colony's 34:6
+come 22:13,14
+22:22 29:25
+33:19 42:3
+43:18 44:9
+comes 38:4
+comfortable
+21:14
+Commissioner
+19:1 39:20
+committed
+46:18
+common 45:12
+company 30:9
+compelled 38:16
+computation
+
+

@@ -1,0 +1,5863 @@
+Official
+
+1
+
+P R O C E E D I N G S
+
+2
+
+(11:18 a.m.)
+
+3
+4
+
+CHIEF JUSTICE ROBERTS:
+still here.
+
+5
+
+(Laughter.)
+
+6
+
+MS. GOLDENBERG:
+
+7
+
+CHIEF JUSTICE ROBERTS:
+
+8
+9
+
+Well, counsel, we're
+
+I'm very glad, Your Honor.
+And we’ll hear
+
+argument in Case 08-1529, Hui v. Castaneda.
+Ms. Goldenberg.
+
+10
+
+ORAL ARGUMENT OF ELAINE J. GOLDENBERG
+
+11
+
+ON BEHALF OF THE PETITIONERS
+
+12
+13
+14
+
+MS. GOLDENBERG:
+
+Mr. Chief Justice, and may
+
+it please the Court:
+In section 233(a), Congress extended an
+
+15
+
+absolute immunity to officers and employees of the
+
+16
+
+Public Health Service.
+
+17
+
+Congress's policy judgment that the immunity was
+
+18
+
+necessary to revitalize the Public Health Service, makes
+
+19
+
+a claim against the United States under the Federal Tort
+
+20
+
+Claims Act the exclusive remedy for injury or death
+
+21
+
+resulting from the performance of medical or related
+
+22
+
+functions and precludes any other civil action or
+
+23
+
+proceeding against the individuals by reason of the same
+
+24
+
+subject matter.
+
+25
+
+That provision, reflecting
+
+Without grappling with the language of
+3
+Alderson Reporting Company
+
+Official
+
+1
+
+section 233(a), Respondents have tried in a number of
+
+2
+
+different ways to imply a limitation into the test for
+
+3
+
+constitutional claims, but none of those arguments
+
+4
+
+creates any ambiguity in the statute, for three reasons.
+
+5
+
+First, the Bivens exception, found in the
+
+6
+
+Westfall Act itself, applies only to the immunity set
+
+7
+
+forth in the Westfall Act and says nothing about the
+
+8
+
+scope of the entirely separate and distinct immunity set
+
+9
+
+forth in section 233.
+
+10
+
+JUSTICE GINSBURG:
+
+What are the immunities
+
+11
+
+set forth in the Westfall Act?
+
+12
+
+were -- they applied to all Federal employees?
+
+13
+14
+15
+16
+17
+
+MS. GOLDENBERG:
+
+I thought that they
+
+Yes, Your Honor, that's
+
+correct.
+JUSTICE GINSBURG:
+
+Including the Public
+
+Health Service.
+MS. GOLDENBERG:
+
+Yes, that's correct.
+
+18
+
+Public Health Service employees can take advantage both
+
+19
+
+of the immunities set forth in the Westfall Act and also
+
+20
+
+of the separate, preexisting, more specific immunity that’s
+
+21
+
+afforded to them by section 233(a).
+
+22
+
+And this Court's decision in Smith, I think,
+
+23
+
+made clear that those two immunities can coexist.
+
+24
+
+no conflict between them.
+
+25
+
+Smith is that the Westfall Act immunity adds to the
+
+There’s
+
+And what this Court said in
+
+4
+Alderson Reporting Company
+
+Official
+
+1
+
+prior immunity, and employees can take advantage of both
+
+2
+
+of them.
+
+3
+
+JUSTICE SOTOMAYOR:
+
+Counsel, our job is to
+
+4
+
+determine Congress's intent when it passed 233(a).
+
+5
+
+we do know is that there was no Bivens immunity at the
+
+6
+
+time; the FTCA had only a limited application under
+
+7
+
+certain driver-related accidents.
+
+8
+
+have anything to tell us, because they didn't even know
+
+9
+
+that there was a constitutional claim that could be
+
+10
+11
+
+What
+
+So we really don't
+
+raised, what they would have intended or not intended.
+And I thought that Justice Ginsburg's point
+
+12
+
+would be that the Westfall Act tells us what they
+
+13
+
+intended, because by its nature it applied to all
+
+14
+
+employees and didn't differentiate among them, and
+
+15
+
+copied 233's immunity, so that one can look at it and
+
+16
+
+say, ah, that speaks of Congress's intent.
+
+17
+
+MS. GOLDENBERG:
+
+Well, certainly it's true
+
+18
+
+that when Congress enacted the Westfall Act it could
+
+19
+
+have broadly said, for instance, notwithstanding any
+
+20
+
+other provision of law, no Federal employee shall assert
+
+21
+
+a statutory immunity to constitutional claims.
+
+22
+
+didn't do that.
+
+23
+
+that, which is that what it said was in section
+
+24
+
+2679(b)(2), paragraph (1) -- the immunity for Federal
+
+25
+
+employees that was just set forth shall not apply to
+
+But it
+
+It did something much more narrow than
+
+5
+Alderson Reporting Company
+
+Official
+
+1
+
+constitutional claims.
+
+2
+3
+
+And that’s --
+
+JUSTICE SOTOMAYOR:
+
+besides 233(a) that is similar --
+
+4
+
+MS. GOLDENBERG:
+
+5
+
+JUSTICE SOTOMAYOR:
+
+6
+
+Is there any other Act
+
+immunity?
+
+7
+
+Yes.
+-- that gives separate
+
+Which are those?
+MS. GOLDENBERG:
+
+There are a number of them,
+
+8
+
+Your Honor.
+
+Most of them apply to Federal medical
+
+9
+
+workers, although not all of them.
+
+There is 10 U.S.C.
+
+10
+
+section 1089, the Gonzalez Act, which is discussed in
+
+11
+
+our brief and in the government's brief, which applies
+
+12
+
+to Army doctors.
+
+13
+
+doctors, to Veterans Administration doctors, to certain
+
+14
+
+medical volunteers.
+
+15
+
+There are statutes applying to NASA
+
+So there are a number of these statutes
+
+16
+
+passed over a period of several decades.
+
+17
+
+JUSTICE KENNEDY:
+
+But in --
+
+But it seems to me that,
+
+18
+
+quite apart from the Westfall Act, there’s a more --
+
+19
+
+more basic answer that you would make to Justice
+
+20
+
+Sotomayor's question.
+
+21
+
+of immunity clauses are to make the employees secure
+
+22
+
+against unforeseen causes of action as well as foreseen.
+
+23
+
+I think that's a principled answer you could make.
+
+24
+25
+
+And that is, because the nature
+
+If I made that answer, do you have authority
+I could cite for that proposition?
+6
+Alderson Reporting Company
+
+Official
+
+1
+
+MS. GOLDENBERG:
+
+Well, I think that this
+
+2
+
+Court has, you know, broadly speaking, in talking about
+
+3
+
+judicially created immunities -- that immunity is for
+
+4
+
+hard cases as well as easy cases.
+
+5
+
+decision that this Court recently issued with respect to
+
+6
+
+judicial immunity I think says --
+
+7
+
+JUSTICE KENNEDY:
+
+8
+
+MS. GOLDENBERG:
+
+9
+
+And the Van de Kamp
+
+Okay.
+-- something along those
+
+lines.
+
+10
+
+But I think it's true, certainly, that --
+
+11
+
+it's true that Congress, when it passed section 233,
+
+12
+
+didn't know for sure that there was going to be a Bivens
+
+13
+
+cause of action that was going to be allowed.
+
+14
+
+spoke very broadly.
+
+15
+
+proceeding."
+
+16
+
+civil actions or proceedings that were created by the
+
+17
+
+courts at some later point in time as well as those that
+
+18
+
+existed at the time.
+
+19
+
+But it
+
+It said "any other civil action or
+
+And when it did that, it surely meant
+
+JUSTICE KENNEDY:
+
+If we limit it, then
+
+20
+
+Congress would have to reenact a statute every time
+
+21
+
+there was some new cause of action?
+
+22
+
+MS. GOLDENBERG:
+
+Exactly, Your Honor.
+
+And I
+
+23
+
+think the problem with the interpretation that makes the
+
+24
+
+interpretation of the statute depend on the timing of
+
+25
+
+the Bivens decision is pointed up by two different
+7
+Alderson Reporting Company
+
+Official
+
+1
+
+statutory provisions and the odd results that you would
+
+2
+
+have.
+
+3
+
+One is that the Gonzalez Act, which I
+
+4
+
+referred to earlier -- it’s 10 U.S.C. section 1089 --
+
+5
+
+was enacted in 1976, it has immunity-conferring language
+
+6
+
+that’s extremely similar to the immunity-conferring
+
+7
+
+language of section 233(a).
+
+8
+
+Congress enacted the Gonzalez Act, it looked at and
+
+9
+
+thought about section 233(a), and yet if it mattered
+
+In fact, we know that when
+
+10
+
+whether Bivens had yet been decided, the Gonzalez Act
+
+11
+
+would bar Bivens claims, but 233(a) wouldn't, even though
+
+12
+
+you can't make that kind of distinction based on their text.
+
+13
+
+JUSTICE SCALIA:
+
+14
+
+see what Congress intended.
+
+15
+
+statute says.
+
+16
+
+psychoanalyze the text of a statute on the basis of what
+
+17
+
+the Congress at that time knew.
+
+18
+
+says.
+
+19
+
+Of course, I don't look to
+I look to see what the
+
+I don't know that we -- we -- we
+
+MS. GOLDENBERG:
+
+The text says what it
+
+Yes, Your Honor, I agree.
+
+20
+
+And the text here is very broad and very clear that it's
+
+21
+
+any other civil action or proceeding that --
+
+22
+
+JUSTICE SCALIA:
+
+That’s what it says.
+
+23
+
+MS. GOLDENBERG:
+
+-- that results from the same
+
+24
+
+subject matter.
+
+And I think one thing that's important
+
+25
+
+is that "subject matter" here clearly means the same set
+8
+Alderson Reporting Company
+
+Official
+
+1
+
+of facts or the same set of circumstances.
+
+2
+
+So that, it -- it's not the case that you
+
+3
+
+only get immunity where your cause of action is somehow
+
+4
+
+similar to the cause of action you have under the FTCA.
+
+5
+
+If you -- you get immunity if you have any claim against
+
+6
+
+the individuals that comes out of the -- the same set of
+
+7
+
+facts, even if it were true that there was some
+
+8
+
+requirement of an FTCA remedy, which we don't believe
+
+9
+
+there is.
+
+10
+
+And what’s absolutely clear here as well is
+
+11
+
+that Respondents do have an FTCA remedy against the
+
+12
+
+United States.
+
+13
+
+the United States.
+
+14
+
+liability on that claim.
+
+15
+
+the Joint Appendix.
+
+16
+
+damages will the Respondents recover from the United
+
+17
+
+States?
+
+18
+
+claim against the individuals is barred by section
+
+19
+
+233(a).
+
+20
+21
+
+They have brought an FTCA claim against
+The United States has admitted
+That’s found at page 328 of
+
+And so the question now is, what
+
+And -- and in that setting, most certainly the
+
+JUSTICE STEVENS:
+
+Would you comment on --
+
+JUSTICE GINSBURG:
+
+And that's a -- there’s
+
+22
+
+a ceiling, because the Tort Claims Act refers to the law
+
+23
+
+of the place where the act or omission occurred.
+
+24
+
+this case it's California?
+
+25
+
+MS. GOLDENBERG:
+
+Well, Your Honor,
+9
+
+Alderson Reporting Company
+
+In
+
+Official
+
+1
+
+California law is what's been discussed in the briefs.
+
+2
+
+I understand that it's possible that Respondents might
+
+3
+
+argue that some of the acts or omissions here took place
+
+4
+
+in the District of Columbia, because that's the place
+
+5
+
+where some of the decisions were made about the
+
+6
+
+treatment authorization requests.
+
+7
+
+what has been asserted so far in the case.
+
+8
+9
+
+JUSTICE GINSBURG:
+
+But California law is
+That's true.
+
+Which would put a lid
+
+on the damages, since this is a death case, of 250,000?
+
+10
+
+MS. GOLDENBERG:
+
+Not exactly, Your Honor.
+
+11
+
+There is no limit whatsoever on the economic damages in
+
+12
+
+a case arising out of professional negligence.
+
+13
+
+under California law, a $250,000 cap on noneconomic
+
+14
+
+damages.
+
+15
+
+in this case, where Respondents have argued intentional
+
+16
+
+wrongdoing by the United States, for which they can
+
+17
+
+recover under the FTCA, if they can prove that something
+
+18
+
+more than negligence was at issue, then it's possible
+
+19
+
+under California law, although California law is not
+
+20
+
+entirely clear, that they could actually exceed that
+
+21
+
+$250,000 cap for noneconomic damages.
+
+22
+
+There is,
+
+As we have said in our briefs, we think that
+
+JUSTICE STEVENS:
+
+May I ask you to comment
+
+23
+
+on the fact that, in the Carlson case, apparently the
+
+24
+
+assistant surgeon general was, in fact, a defendant, and
+
+25
+
+the government failed to make this defense?
+10
+Alderson Reporting Company
+
+Official
+
+1
+2
+3
+4
+5
+
+MS. GOLDENBERG:
+
+Your Honor, I'm not certain
+
+why the defense wasn't raised in the case.
+JUSTICE STEVENS:
+
+But if you’re right,
+
+they should have.
+MS. GOLDENBERG:
+
+Well, not necessarily,
+
+6
+
+because there may be factual issues that -- that we're
+
+7
+
+not now aware of.
+
+8
+
+government concluded that, despite what was alleged in
+
+9
+
+the complaint, that when that particular individual took
+
+In other words, it may be that the
+
+10
+
+the acts complained of, he wasn't somehow wearing his
+
+11
+
+PHS hat, he was operating in some other capacity.
+
+12
+
+but that’s obviously just speculation.
+
+13
+
+So --
+
+And it’s -- it is not clear why that defense
+
+14
+
+wasn't raised.
+
+15
+
+and, not only that, but in the court of appeals and in
+
+16
+
+this Court, there is no reference made to the fact that he's
+
+17
+
+in the Public Health Service.
+
+18
+
+What is clear is that it was not raised
+
+JUSTICE STEVENS:
+
+Now, that’s kind of
+
+19
+
+interesting that apparently the government was not
+
+20
+
+aware of the breadth of the position they’re --
+
+21
+
+you’re now taking.
+
+22
+
+MS. GOLDENBERG:
+
+Well, I'm not sure that’s
+
+23
+
+necessarily the conclusion I would draw.
+
+24
+
+there may be factual reasons why it wasn't raised.
+
+25
+
+There may be strategic reasons why it wasn't raised.
+11
+Alderson Reporting Company
+
+As I say,
+
+Official
+
+1
+
+It's hard to speculate on that so long after the --
+
+2
+
+after the fact.
+
+3
+
+But what is clear from Carlson is that the
+
+4
+
+way that section 233(a) did arise in that case is that
+
+5
+
+the Court used it as a specific example to contrast with
+
+6
+
+the FTCA itself, and said that section 233 was a place
+
+7
+
+where Congress had made known explicitly its intent that
+
+8
+
+the FTCA be the exclusive remedy and that other remedies
+
+9
+
+be precluded.
+
+10
+
+That's the way that 233(a) was argued in
+
+11
+
+the briefs in that case, and that's how the Court used
+
+12
+
+it.
+
+13
+
+Petitioners’ plea for immunity here.
+
+14
+
+And that’s obviously extremely supportive of the
+
+This Court has already essentially
+
+15
+
+recognized in Carlson, in reasoning in support of its
+
+16
+
+holding, that that is the role that 233(a) plays, and the
+
+17
+
+Court must have been talking about barring Bivens claims
+
+18
+
+because that's what Carlson was about.
+
+19
+
+significance of 233(a) in that case.
+
+20
+
+So that’s the
+
+The Respondents also -- on a subject we
+
+21
+
+haven't touched on yet, I think, look at the title of
+
+22
+
+section 233(a) and some of its other subsections, and
+
+23
+
+there I think it's clear that the title can't vary the
+
+24
+
+clear statutory text in any way.
+
+25
+
+relevant here, it talks about negligence and
+
+Even if the title were
+
+12
+Alderson Reporting Company
+
+Official
+
+1
+
+malpractice.
+
+2
+
+18 to 19, the authorities showing that when the statute
+
+3
+
+was enacted in 1970, malpractice was thought to sweep
+
+4
+
+very broadly to cover any bad acts, any malpractice, and
+
+5
+
+so it doesn't operate -- the title here can't operate as
+
+6
+
+a limitation on the scope of this provision.
+
+7
+
+And we've cited in our reply brief, at pages
+
+With respect to the history, the one
+
+8
+
+other thing that I wanted to point out that I didn't get
+
+9
+
+to in my answer before is another odd result that you
+
+10
+
+would have, if you looked at when Bivens was decided and
+
+11
+
+made that your deciding factor, is that the FTCA's
+
+12
+
+judgment bar, at 28 U.S.C. section 2676, which was enacted
+
+13
+
+in 1948, which says that when you take a claim against
+
+14
+
+the United States under the FTCA all the way to judgment,
+
+15
+
+you are barred from raising any other civil action or
+
+16
+
+proceeding by reason of the same subject matter.
+
+17
+
+very similar language to what we have here.
+
+18
+
+wouldn't bar Bivens claims, even though every court of
+
+19
+
+appeals to have looked at the issue has said that it
+
+20
+
+does cover Bivens claims in a different sense.
+
+21
+
+JUSTICE KENNEDY:
+
+So
+
+That
+
+Well, that would bar a
+
+22
+
+later Bivens claim.
+
+I assume you could bring a Bivens
+
+23
+
+action first, and the bar provision would not apply,
+
+24
+
+assuming you can bring the Bivens claim.
+
+25
+
+MS. GOLDENBERG:
+
+Yes, I think that's right.
+
+13
+Alderson Reporting Company
+
+Official
+
+1
+
+But the -- all I'm trying to say is that it's the "any
+
+2
+
+other civil action or --
+
+3
+
+JUSTICE KENNEDY:
+
+4
+
+MS. GOLDENBERG:
+
+Yes.
+-- proceedings" language in
+
+5
+
+the judgment bar.
+
+6
+
+been decided yet, it wouldn't cover Bivens because the
+
+7
+
+statute was enacted prior to the time that Bivens was
+
+8
+
+decided.
+
+9
+
+If you looked at whether Bivens had
+
+It was enacted in 1948.
+So it's not -- it doesn't make sense to make
+
+10
+
+your statutory interpretation, your interpretation of
+
+11
+
+those words, hinge on the fact that Bivens had or hadn't
+
+12
+
+been decided yet.
+
+13
+
+If there are no further questions, I’d
+
+14
+
+like to reserve my remaining time for rebuttal.
+
+15
+
+CHIEF JUSTICE ROBERTS:
+
+16
+
+Mr. Shah.
+
+Thank you, counsel.
+
+17
+
+ORAL ARGUMENT OF PRATIK A. SHAH
+
+18
+
+ON BEHALF OF THE UNITED STATES, AS AMICUS CURIAE,
+
+19
+
+SUPPORTING PETITIONERS
+
+20
+21
+22
+
+MR. SHAH:
+
+Mr. Chief Justice, and may it
+
+please the Court:
+By its plain terms, section 233(a) precludes
+
+23
+
+any civil action against officers and employees of the
+
+24
+
+Public Health Service arising out of performance of
+
+25
+
+their medical duties.
+
+Instead, it makes an action
+14
+
+Alderson Reporting Company
+
+Official
+
+1
+
+against the United States under the Federal Tort Claims
+
+2
+
+Act the exclusive remedy for injury arising out of
+
+3
+
+PHS-provided care.
+
+4
+
+contains no carve-out for constitutional claims, nor is
+
+5
+
+there any textual basis for which to imply one.
+
+6
+
+Unlike the Westfall Act, section 233
+
+Accordingly, this Court should reverse the
+
+7
+
+Ninth Circuit's decision allowing Respondents’ Bivens
+
+8
+
+claims against the individual Petitioners on top of
+
+9
+
+their FTCA claims against the United States.
+
+10
+
+Now, even assuming Congress did not
+
+11
+
+specifically have Bivens claims in mind at the time that
+
+12
+
+they enacted this statute, that's no reason to limit the
+
+13
+
+plain terms of section 233(a).
+
+14
+
+going to your question about whether there's authority
+
+15
+
+for that proposition that when Congress doesn't
+
+16
+
+specifically anticipate a certain set of facts yet the
+
+17
+
+plain terms control, that that is the correct result,
+
+18
+
+this Court has stated both in the RICO context as well
+
+19
+
+as in other contexts that the fact that Congress doesn't
+
+20
+
+specifically contemplate application of the statute to
+
+21
+
+particular circumstances simply demonstrates the breadth
+
+22
+
+of the statute and not any ambiguity.
+
+23
+
+are set forth on page 15 of our brief, Sedima, Yeskey,
+
+24
+
+and others.
+
+25
+
+First, Justice Kennedy,
+
+Those statements
+
+The second point I would make is the best
+15
+Alderson Reporting Company
+
+Official
+
+1
+
+indication of Congress's broad intent is simply the
+
+2
+
+plain terms of the statute.
+
+3
+
+a statute that only provided immunity for, say,
+
+4
+
+negligent performance of medical duties.
+
+5
+
+such limitation in 233(a).
+
+6
+
+remedy exclusive of, say, only common law causes of
+
+7
+
+action or State law causes of action, or even existing
+
+8
+
+causes of action.
+
+9
+
+the exclusive remedy for any other civil action by
+
+10
+
+Congress could have enacted
+
+It could have made the FTCA
+
+It did not do that.
+
+reason of the same subject matter.
+
+11
+
+It included no
+
+JUSTICE GINSBURG:
+
+It said it is
+
+Congress could --
+
+Mr. Shah, is that -- is
+
+12
+
+that the same -- in all the statutes that Carlson cites
+
+13
+
+on page 20, when they say that Congress follows the
+
+14
+
+practice of explicitly stating what it means to make the
+
+15
+
+FTCA an exclusive remedy, there's this -- the Gonzalez
+
+16
+
+Act and there’s 233(a), and then there is the swine flu.
+
+17
+
+Are they all -- are all those
+
+18
+
+provisions, provisions like 233(a), that say "any civil
+
+19
+
+action"?
+
+20
+
+MR. SHAH:
+
+Yes, Your Honor, in terms of that
+
+21
+
+latter phrasing "exclusive of any other civil action or
+
+22
+
+proceeding."
+
+23
+
+reproduced in the gray brief on page 1a of our -- of the
+
+24
+
+government's appendix, it uses very similar language.
+
+25
+
+It says:
+
+For example, the Gonzalez Act, which is
+
+The FTCA remedy shall be exclusive of any
+16
+Alderson Reporting Company
+
+Official
+
+1
+
+other civil action or proceeding by reason of the same
+
+2
+
+subject matter.
+
+3
+
+in 233(a).
+
+4
+
+That’s identical language to that used
+
+Now, there is a way in which 233(a) is even
+
+5
+
+broader than any of those other statutes in its
+
+6
+
+description of what type of performance of medical
+
+7
+
+duties is covered.
+
+8
+
+negligence or wrongful act or omission.
+
+9
+
+Any performance of medical duties is covered.
+
+10
+
+There, there is no modifier of
+It simply says:
+
+In the Gonzalez Act, which we would submit
+
+11
+
+has as quite broad language and should have the same
+
+12
+
+effect, they at least have a qualifier of negligent or
+
+13
+
+wrongful act or omission.
+
+14
+
+change in result, but it just goes to show the
+
+15
+
+incredibly broad language that Congress used to show --
+
+16
+
+that Congress used in 233(a).
+
+17
+
+Not that that should create a
+
+And I think on the Gonzalez Act point -- and
+
+18
+
+Justice Sotomayor, I think this goes to your question
+
+19
+
+about whether there are other statutes -- even though
+
+20
+
+that Congress may not have contemplated Bivens at the
+
+21
+
+time, the Gonzalez Act was passed in 1976, 5 years after
+
+22
+
+Bivens had decided, and yet Congress used the identical
+
+23
+
+language or nearly identical language as present in
+
+24
+
+233(a) in enacting the Gonzalez Act.
+
+25
+
+Congress was aware of the potential for Bivens liability
+17
+Alderson Reporting Company
+
+Presumably,
+
+Official
+
+1
+
+at the time, yet they chose to use the same categorical
+
+2
+
+text.
+
+3
+
+And in the legislative history of the
+
+4
+
+Gonzalez Act, they say they used that text for the
+
+5
+
+specific purpose of ensuring total financial immunity --
+
+6
+
+immunity from total financial liability for DOD and
+
+7
+
+armed forces medical personnel.
+
+8
+9
+10
+
+JUSTICE SOTOMAYOR:
+
+Can you tell me how many
+
+PHS personnel work in settings outside custodial
+settings?
+
+11
+
+MR. SHAH:
+
+12
+
+JUSTICE SOTOMAYOR:
+
+13
+
+MR. SHAH:
+
+Outside which?
+Custodial settings.
+
+Well, Your Honor, there's 6,000
+
+14
+
+-- approximately 6,000 commissioned officers.
+
+15
+
+slightly more than 1,000 of the commissioned PHS
+
+16
+
+officers work in either the Bureau of Prisons or in ICE
+
+17
+
+detention facilities.
+
+18
+
+Of those,
+
+So the remaining 5,000 of the commissioned
+
+19
+
+officers may not work in what you would call a strictly
+
+20
+
+custodial context.
+
+21
+
+for the Indian Health Service, and that’s true for both
+
+22
+
+employees and the -JUSTICE SOTOMAYOR:
+
+23
+24
+25
+
+A bulk -- the majority of them work
+
+I'm sorry.
+
+For the
+
+Indian -MR. SHAH:
+
+For the Indian Health Service.
+18
+
+Alderson Reporting Company
+
+Official
+
+1
+
+JUSTICE SOTOMAYOR:
+
+And is there a reason
+
+2
+
+Congress would want to immunize PHS personnel against
+
+3
+
+Bivens claims in a custodial setting, but not immunize
+
+4
+
+Bureau of Prison personnel?
+
+5
+
+MR. SHAH:
+
+Well, Your Honor, I think they
+
+6
+
+would want to immunize Bureau of Prison personnel.
+
+7
+
+in fact, that's where a majority of these types of
+
+8
+
+claims come up.
+
+9
+
+setting, and -- and I think Congress would have been
+
+10
+
+And,
+
+That, of course, is another custodial
+
+aware --
+
+11
+
+JUSTICE SOTOMAYOR:
+
+But not every doctor --
+
+12
+
+if they come under the FTCA, they -- their --
+
+13
+
+constitutional claims are not immunized against them --
+
+14
+
+MR. SHAH:
+
+15
+
+JUSTICE SOTOMAYOR:
+
+16
+
+-- unless they are PHS
+
+personnel.
+
+17
+18
+
+Oh, I see.
+
+MR. SHAH:
+
+Right.
+
+Right.
+
+You’re right.
+
+If they were -- if they were a BOP employee --
+
+19
+
+JUSTICE SOTOMAYOR:
+
+20
+
+MR. SHAH:
+
+Right.
+
+-- as opposed to PHS personnel,
+
+21
+
+then you’re right, they would fall under the Westfall
+
+22
+
+Act, and there would be the carve-out for constitutional
+
+23
+
+claim.
+
+24
+
+Now, what we do know is that Congress
+
+25
+
+enacted this special protection for Public Health
+19
+Alderson Reporting Company
+
+Official
+
+1
+
+Service personnel and singled them out at the Surgeon
+
+2
+
+General's request in 1970.
+
+3
+
+to remember, in 1970 -- this is pre-Westfall Act -- it was
+
+4
+
+not at all clear that Federal medical personnel were
+
+5
+
+immune even from common law negligence, for example.
+
+6
+
+And I think it's important
+
+And so even from that point, putting Bivens
+
+7
+
+liability aside, Congress chose to accord special
+
+8
+
+protection to PHS personnel above and beyond that
+
+9
+
+entitled to those who they were working with side by
+
+10
+
+side, say in the Bureau of Prisons or in detention --
+
+11
+
+JUSTICE ALITO:
+
+Are they paid less than
+
+12
+
+other -- than other Federal employees who perform
+
+13
+
+similar functions?
+
+14
+
+who are not -- were not employees of the Public Health
+
+15
+
+Service do about liability for Bivens actions?
+
+16
+
+they responsible for getting their own malpractice
+
+17
+
+insurance?
+
+18
+
+And what do -- what do physicians
+
+MR. SHAH:
+
+Are
+
+Well -- well, Your Honor, in
+
+19
+
+terms of the -- in terms of the ordinary claims, the
+
+20
+
+common law claims, of course, that would be covered by
+
+21
+
+the Westfall Act.
+
+22
+
+insurance against Bivens claims in particular, my
+
+23
+
+understanding -- and this is anecdotal -- is that most --
+
+24
+
+most of the medical personnel in the Bureau of Prisons
+
+25
+
+do not have any other protection beyond that that’s
+
+In terms of Bivens, in terms of
+
+20
+Alderson Reporting Company
+
+Official
+
+1
+
+provided by the Westfall Act.
+
+2
+
+separate policies.
+
+3
+
+That is, they don't have
+
+There is -- at least according to the
+
+4
+
+citation in Respondents’ brief about a Web site that
+
+5
+
+shows that you can get Bivens insurance.
+
+6
+
+to me whether that's available to Federal -- Federal
+
+7
+
+medical personnel, at least in the amounts of insurance
+
+8
+
+that might be necessary to adequately protect them --
+
+9
+
+JUSTICE SCALIA:
+
+It's not clear
+
+Of course, we're -- you
+
+10
+
+know, we’re talking here as though Congress is a
+
+11
+
+perpetual unchanging institution.
+
+12
+
+done this for Public Health Service employees and not
+
+13
+
+have done this for Bureau?
+
+14
+
+that passed those two Acts.
+
+15
+
+stingier Congress than the other, or there -- there may
+
+16
+
+have been more lobbying by one of the other groups in
+
+17
+
+one case.
+
+18
+
+Why would it have
+
+It wasn't the same Congress
+The one may have been a
+
+I don't see any reason why we have to
+
+19
+
+philosophically reconcile the -- the granting of -- of
+
+20
+
+greater immunity to Public Health Service employees.
+MR. SHAH:
+
+21
+
+Justice Scalia, I completely
+
+22
+
+agree.
+
+I think it's correct that the important fact is
+
+23
+
+the fact that Congress accorded them special protection.
+
+24
+
+Again, this was -- this was at the request, the specific
+
+25
+
+request of the Surgeon General, and they did this to
+21
+Alderson Reporting Company
+
+Official
+
+1
+
+help revitalize the Public Health Service.
+
+2
+
+Now, I don't think that it’s -- that the
+
+3
+
+Public Health Service -- it’s anomalous that they get
+
+4
+
+this protection.
+
+5
+
+situated to medical personnel who have served for DOD in
+
+6
+
+the armed forces.
+
+7
+
+officers can be assigned to very difficult situations
+
+8
+
+and settings, sometimes in armed conflict, other custodial
+
+9
+
+settings, and they can be ordered to perform certain
+
+10
+
+I think they’re in many ways similarly
+
+Like DOD medical personnel, PHS
+
+medical conditions.
+
+11
+
+In the Gonzalez Act legislative history,
+
+12
+
+Congress says that that was a reason -- an additional
+
+13
+
+reason as to why they wanted to accord immunity.
+
+14
+
+think PHS personnel are similarly situated.
+
+15
+
+Court were looking for a reason, the fact is they were
+
+16
+
+accorded the same immunity, and that’s the dispositive
+
+17
+
+factor.
+
+18
+
+JUSTICE SCALIA:
+
+And I
+
+If this
+
+Just as a matter of
+
+19
+
+curiosity, do all of these immunity provisions come out
+
+20
+
+of the same committee?
+
+21
+
+Public Health Service may have come out of one committee
+
+22
+
+of Congress, the Bureau of Prisons may have come out of
+
+23
+
+another committee of Congress, the DOD may have come out
+
+24
+
+of a third committee of Congress?
+
+25
+
+MR. SHAH:
+
+Or can one assume that the
+
+Right.
+
+I don't know if they all
+
+22
+Alderson Reporting Company
+
+Official
+
+1
+
+came out of the same committee, but these certainly span
+
+2
+
+a wide spectrum of years, all the way from the 1960s
+
+3
+
+to -- to the late 1970s, in terms of when these various
+
+4
+
+immunity provisions were enacted.
+
+5
+
+at the same time, like, I believe, the provision for NASA
+
+6
+
+personnel was added at the same time the Gonzalez Act
+
+7
+
+was passed.
+
+8
+9
+
+JUSTICE ALITO:
+
+Some of them happened
+
+If section 2679(b)(2),
+
+instead of saying paragraph (1) does not extend nor
+
+10
+
+apply, had said the remedy against the United States
+
+11
+
+provided by sections 1346(b), et cetera, and repeated
+
+12
+
+that language from (b)(1), and then said:
+
+13
+
+exclusive remedy in any civil action against an employee
+
+14
+
+of the government," and continued with subsection (2),
+
+15
+
+then the result here would be different, wouldn't it?
+
+16
+
+MR. SHAH:
+
+"Is not the
+
+Your Honor, it may be a closer
+
+17
+
+case but I don't think that the result would be
+
+18
+
+different, and here's why:
+
+19
+
+233(a) -- and this is on the very last page of the -- of
+
+20
+
+the government's brief -- it does refer to the FTCA in
+
+21
+
+terms of the remedy that a -- that a plaintiff should
+
+22
+
+seek, but it's not -- it does not look to the FTCA to
+
+23
+
+make that remedy exclusive.
+
+If you look at the text of
+
+24
+
+Instead, it provides independent language,
+
+25
+
+independent of the FTCA, to make the remedy exclusive.
+23
+Alderson Reporting Company
+
+Official
+
+1
+
+It says, “The remedy against the United States” under the
+
+2
+
+FTCA -- that's what it references -- “for damage for
+
+3
+
+personal injury including death resulting from” medical
+
+4
+
+performance -- and then it has its own language -- "shall be
+
+5
+
+exclusive of any other civil action or proceeding by
+
+6
+
+reason of the same subject matter."
+
+7
+
+reference the FTCA in that latter clause, and it's that
+
+8
+
+latter clause that makes the remedy exclusive.
+
+9
+
+It does not
+
+So, regardless of the language of the
+
+10
+
+Westfall Act, I think -- I don't think it would make a
+
+11
+
+difference to the result if Congress had used the
+
+12
+
+wording that you suggest, Justice Alito.
+
+13
+
+The one -- the one final point I’d like
+
+14
+
+to make is I think it bears emphasizing that this is not
+
+15
+
+a case where there is no other relief than a Bivens
+
+16
+
+remedy available.
+
+17
+
+generally, but the United States has already admitted
+
+18
+
+liability on Respondents' medical negligence claim in
+
+19
+
+this case.
+
+20
+
+amount -- from Respondents' perspective now is the
+
+21
+
+amount of damages that are recoverable, and we would
+
+22
+
+submit --
+
+23
+
+The FTCA remedy is not only available
+
+The only difference from Respondents'
+
+JUSTICE GINSBURG:
+
+Could the -- could the
+
+24
+
+plaintiff contest the certification that this was within the
+
+25
+
+scope -- and say it was so egregious, it was outside the
+24
+Alderson Reporting Company
+
+Official
+
+1
+
+scope, and, therefore, it doesn't come -- come within
+
+2
+
+233(a) or anything else, and so we have a straight claim
+
+3
+
+against the defendants?
+
+4
+
+MR. SHAH:
+
+To my knowledge, plaintiffs have
+
+5
+
+not made that argument in this case, that they were not
+
+6
+
+acting within the scope.
+
+7
+
+JUSTICE GINSBURG:
+
+Or they would lose their
+
+8
+
+argument against the -- I mean, they would lose their
+
+9
+
+claim against the government if they were taking that
+
+10
+
+position?
+
+11
+12
+
+MR. SHAH:
+
+against the government, then, Your Honor.
+
+13
+14
+
+They would lose their FTCA claim
+
+If there are no further questions.
+you.
+
+15
+
+CHIEF JUSTICE ROBERTS:
+
+16
+
+Mr. Doyle.
+
+Thank you, Mr. Shah.
+
+17
+
+ORAL ARGUMENT OF CONAL DOYLE
+
+18
+
+ON BEHALF OF THE RESPONDENTS
+
+19
+20
+21
+
+Thank
+
+MR. DOYLE:
+
+Mr. Chief Justice, and may it
+
+please the Court:
+Section 233 does not bar Bivens claims here
+
+22
+
+for two principal reasons.
+
+First, 233 does not abrogate
+
+23
+
+a constitutional cause of action because it cannot
+
+24
+
+satisfy Carlson's explicit declaration test, which is a
+
+25
+
+type of clear statement rule.
+25
+Alderson Reporting Company
+
+Official
+
+JUSTICE GINSBURG:
+
+1
+
+Now, that's quite a surprising
+
+2
+
+statement for you to make, when the very first statute
+
+3
+
+that Carlson mentions is 233(a).
+MR. DOYLE:
+
+4
+5
+
+Your Honor, I believe you’re
+
+referring to the dicta in Carlson on page 20.
+
+6
+
+JUSTICE GINSBURG:
+
+Yes.
+
+7
+
+MR. DOYLE:
+
+8
+
+to note how that issue was raised.
+
+9
+
+raised arguing that 233(a) bars Bivens claims; the government
+
+And it's interesting
+In the briefs, it wasn't
+
+10
+
+didn't make that argument.
+
+11
+
+the Respondents' cert petition or brief in opposition for
+
+12
+
+the proposition that -- that the language of that
+
+13
+
+statute actually allowed a Bivens claim because it
+
+14
+
+didn't preclude it.
+
+15
+
+government actually argued that because Bivens hadn't
+
+16
+
+been decided in -- in 1970, that it could not have
+
+17
+
+possibly preserved Bivens claims.
+
+18
+
+the opposite issue that was -- that was addressed in
+
+19
+
+Carlson --
+
+20
+
+And, in fact, it was raised in
+
+And in -- in response the
+
+JUSTICE GINSBURG:
+
+So it was actually
+
+Well, it certainly
+
+21
+
+doesn't get that out of the way.
+
+It's put on page 20,
+
+22
+
+because one of the reasons why Carlson enables – allows the Bivens Act
+
+23
+
+is that it doesn't contain language and the -- and it --
+
+24
+
+it seems to me that this -- that this paragraph is
+
+25
+
+contrasting statutes with Carlson, because in Carlson
+
+26
+Alderson Reporting Company
+
+Official
+
+1
+
+there is no -- there is no other statute.
+
+2
+
+MR. DOYLE:
+
+Justice Ginsburg, if I may
+
+3
+
+reply, I believe that that's not the proper way to read
+
+4
+
+that dicta for two reasons.
+
+5
+
+Stevens mentioned the Assistant Surgeon General of the
+
+6
+
+United States was actually a defendant in the case, and
+
+7
+
+so although this 233(a) immunity wasn't -- wasn’t
+
+8
+
+decided in Carlson, certainly the Court was aware that a
+
+9
+
+-- that a Public Health Service defendant was in the
+
+First, I think Justice
+
+10
+
+case, and they wouldn't have permitted an action to move
+
+11
+
+forward against that defendant had they believed that
+
+12
+
+233 barred Bivens.
+
+13
+
+And, second, it -- it specially characterizes
+
+14
+
+the explicit declaration as applying to malpractice, not
+
+15
+
+Bivens claims.
+
+16
+
+statute in the category there was the Federal Drivers
+
+17
+
+Act, and certainly it's hard to imagine how a Federal
+
+18
+
+driver could be liable under -- under Bivens.
+
+And other -- for example, another
+
+And so I think a better reading of that
+
+19
+20
+
+dicta is that the Court is just saying:
+
+Here's an
+
+21
+
+example; these statutes show that when Congress makes an
+
+22
+
+explicit declaration, but the issue is explicit as to
+
+23
+
+what?
+
+24
+
+based on the existence of the Surgeon General in the
+
+25
+
+case and the fact that the dicta was qualified, that it
+
+And it's clear I think from reading that dicta
+
+27
+Alderson Reporting Company
+
+Official
+
+1
+
+didn't apply to Bivens.
+
+2
+
+But moving back to the Carlson test, 233
+
+3
+
+can't satisfy the test because Carlson never even -- or
+
+4
+
+Congress never considered whether the FTCA was a
+
+5
+
+substitute for Bivens in 1970.
+
+6
+
+underscored by the fact that the statute was enacted
+
+7
+
+before Bivens and that the cause of action at issue here
+
+8
+
+wasn't recognized until 10 years later in Carlson.
+
+9
+
+And, second, when Congress did finally
+
+And this point is
+
+10
+
+consider for the first time whether the FTCA was an
+
+11
+
+adequate substitute for Bivens in 1988, it expressly
+
+12
+
+preserved, rather than barred, Bivens claims in the
+
+13
+
+Westfall Act.
+
+14
+
+And the Westfall Act was a comprehensive
+
+15
+
+statute that was intended to provide an overhaul of
+
+16
+
+personal immunity at the request of this Court in
+
+17
+
+Westfall v. Erwin, and it applied to all Federal
+
+18
+
+employees, including members of the Public Health
+
+19
+
+Service.
+
+20
+
+Smith.
+
+21
+
+And that was the holding of this Court in
+
+And Petitioners’ reading here would actually
+
+22
+
+require this Court to write in an implied exception to
+
+23
+
+the Westfall Act that doesn't exist, that would exempt
+
+24
+
+out Public Health Service personnel from the explicit
+
+25
+
+carve-out of Bivens.
+
+Moreover, the Petitioners’ reading
+28
+
+Alderson Reporting Company
+
+Official
+
+1
+
+here --
+
+2
+
+JUSTICE SCALIA:
+
+3
+
+implicitly repealed 233(a)?
+
+4
+
+MR. DOYLE:
+
+You claim the Westfall Act
+Is that what you say?
+
+No, Your Honor, there’s no
+
+5
+
+implicit repeal here, although we can --
+
+6
+
+JUSTICE SCALIA:
+
+Well, that provision says
+
+7
+
+that it's exclusive, and you’re saying the Westfall Act
+
+8
+
+says it’s not exclusive.
+
+9
+
+MR. DOYLE:
+
+Your Honor, there’s no implicit
+
+10
+
+repeal here for the -- because 233(a) still has
+
+11
+
+independent work to do.
+
+12
+
+our reading, there would be no -- it wouldn't really do
+
+13
+
+any more work for Public Health Service employees,
+
+14
+
+because they have a broader protection under the
+
+15
+
+Westfall Act, because it applies to any wrongful act or
+
+16
+
+omission.
+
+17
+
+But we do concede that under
+
+JUSTICE SCALIA:
+
+But it isn't just made
+
+18
+
+superfluous.
+
+19
+
+says "it shall be exclusive" is repealed.
+
+It is repealed.
+
+20
+
+MR. DOYLE:
+
+21
+
+JUSTICE SCALIA:
+
+22
+23
+
+The provision of it that
+
+The provision -Implicitly, because it's
+
+not specifically referred to.
+MR. DOYLE:
+
+Well, there were no -- there
+
+24
+
+would be no repeal because there are a number of other
+
+25
+
+provisions within section 233 itself that it's relevant
+29
+Alderson Reporting Company
+
+Official
+
+1
+
+to.
+
+And so the Public Health Service Act --
+
+2
+3
+
+JUSTICE GINSBURG:
+
+We’re
+
+just talking about (a).
+
+4
+5
+
+That's just (a).
+
+MR. DOYLE:
+refer back to (a).
+
+6
+
+Yes, but these other provisions
+
+And if I could --
+
+JUSTICE BREYER:
+
+I don't understand your
+
+7
+
+Westfall Act argument.
+
+I must be missing something.
+
+8
+
+understanding is, many years ago, Congress passes a
+
+9
+
+statute and says:
+
+Give absolute immunity from Bivens
+
+10
+
+actions. Sue the government;
+
+11
+
+It says that, basically.
+
+12
+
+My
+
+don't sue the employee.
+
+A long time ago.
+
+Then, sometime after, Congress passes
+
+13
+
+another statute, and in paragraph (a) of that statute,
+
+14
+
+it says:
+
+15
+
+government.
+
+16
+
+of people, paragraph (1) of this statute doesn't apply to
+
+17
+
+Bivens actions.
+
+An even larger group of people, just sue the
+
+18
+
+And then it says:
+
+As to this larger group
+
+So, what does that got to do with this
+
+19
+
+earlier statute?
+
+Doesn’t it refer to it.
+
+20
+
+in other words, I understand your Carlson argument.
+
+21
+
+I got that one, but I don't understand this argument if
+
+22
+
+I have the statutes right.
+MR. DOYLE:
+
+23
+
+I don’t --
+
+Well, Your Honor, I think that
+
+24
+
+-- and I don't mean to repeat myself, but to answer that
+
+25
+
+question -30
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+JUSTICE BREYER:
+the question?
+
+3
+
+Well, is there an answer to
+
+Because that would be important.
+
+MR. DOYLE:
+
+I believe there is.
+
+But I think
+
+4
+
+that the fundamental issue you have to look at, Your
+
+5
+
+Honor, is whether, in 1970, Congress intended to abrogate
+
+6
+
+a constitutional cause of action.
+
+7
+
+line of clear statements --
+
+8
+
+JUSTICE BREYER:
+
+9
+
+argument.
+
+And in this Court's
+
+That's your Carlson
+
+I got that one.
+
+10
+
+MR. DOYLE:
+
+11
+
+JUSTICE BREYER:
+
+Okay.
+I understand that one.
+
+12
+
+The one I don't understand is what's the relation of the
+
+13
+
+Westfall Act to this argument?
+
+14
+
+MR. DOYLE:
+
+There’s -- there’s two
+
+15
+
+relationships between the Westfall Act and the Public
+
+16
+
+Health Service Act.
+
+17
+
+applies on its face to all government employees.
+
+18
+
+Court has held that, and so --
+
+First, the Westfall Act simply
+
+JUSTICE BREYER:
+
+19
+
+Yes, right.
+
+This
+
+They give the
+
+20
+
+government employees the same kind of immunity that -- a
+
+21
+
+little more limited, and that's in paragraph (1).
+
+22
+
+then paragraph (2) says:
+
+23
+
+Bivens actions.
+
+Paragraph (1) doesn't apply to
+
+It doesn't say anything about the earlier
+
+24
+25
+
+And
+
+statute.
+
+It applies to a different group of people.
+31
+Alderson Reporting Company
+
+It
+
+Official
+
+1
+
+has all kinds of requirements, nothing involved with
+
+2
+
+233.
+
+Okay.
+
+So, what is it to do with this case?
+Now, what I'm thinking now from your
+
+3
+4
+
+hesitation is it has nothing to do with the case; it's
+
+5
+
+the Carlson thing that is the important thing.
+
+6
+
+tell me why I'm wrong.
+
+7
+
+MR. DOYLE:
+
+Now, you
+
+Justice Breyer, if I could
+
+8
+
+answer.
+
+This Court, in Smith, held that the immunity
+
+9
+
+conferred by section (1) applies to all Federal employees.
+
+10
+
+And you have to read (1) and (2) together.
+
+11
+
+divorce them, because section (1) grants immunity, but
+
+12
+
+subsection (2) affects it and -- and helps define it by
+
+13
+
+saying that -JUSTICE BREYER:
+
+14
+15
+
+Westfall Act.
+
+I mean, you can't
+
+You’re talking about the
+
+Absolutely right.
+
+16
+
+MR. DOYLE:
+
+Yes.
+
+17
+
+JUSTICE BREYER:
+
+And that said -I just say, what does the
+
+18
+
+Act have to do with this older Act?
+
+19
+
+MR. DOYLE:
+
+Well, it isn't -- the older Act
+
+20
+
+refers to the Federal Tort Claims Act as providing the
+
+21
+
+exclusive remedy in this case.
+
+22
+
+remedial scheme in the case.
+
+23
+
+doesn't set forth within it different remedies that
+
+24
+
+prospective plaintiffs can get against the Public Health
+
+25
+
+Services.
+
+And the FTCA is the only
+
+So, in other words, 233
+
+It decided to define it by referring to the
+
+32
+Alderson Reporting Company
+
+Official
+
+1
+
+FTCA.
+
+And when you go to the -JUSTICE BREYER:
+
+2
+3
+
+Westfall -- Westfall Act is
+
+not -- is not the FTCA, is it?
+
+4
+
+MR. DOYLE:
+
+It is.
+
+5
+
+JUSTICE BREYER:
+
+Right.
+
+Oh, it is the -- in other
+
+6
+
+words, you think -- I thought the FTCA Act is an Act
+
+7
+
+that gives you action against the government.
+MR. DOYLE:
+
+8
+9
+
+The Westfall Act is just simply
+
+an amendment to the FTCA.
+JUSTICE BREYER:
+
+10
+
+So it says:
+
+This Act is
+
+11
+
+the exclusive remedy -- the FTCA is an exclusive remedy
+
+12
+
+for all employees, but this provision which gives us an
+
+13
+
+exception does not give you the exception, does not make
+
+14
+
+it exclusive for Bivens actions.
+Okay.
+
+15
+16
+
+You go ahead.
+
+You explain it to me.
+
+I don't want to keep repeating my skepticism, I want to listen.
+
+17
+
+(Laughter.)
+
+18
+
+MR. DOYLE:
+
+Okay.
+
+Well, the first clause
+
+19
+
+of section 233(a) states that -- that the remedy against
+
+20
+
+the United States provided by 1346(b) is remedy
+
+21
+
+available.
+
+22
+
+defined the 1346(b) -- I believe it's on page 5a of the --
+
+23
+
+of our appendix -- and says that -- that the remedy is
+
+24
+
+subject to the entire provisions of the FTCA.
+
+25
+
+have to look to the entire provisions of the FTCA
+
+And so you go to 1346(b), and Congress
+
+33
+Alderson Reporting Company
+
+And so you
+
+Official
+
+1
+
+to determine what the remedy is, because --
+
+2
+
+JUSTICE GINSBURG:
+
+What -- what says "entire
+
+3
+
+subject" -- 233(a), where does that say anything other
+
+4
+
+than -- I mean, it reads like it's immunity from any
+
+5
+
+civil action.
+
+6
+
+that you have to overcome.
+
+7
+
+substitute remedy against the United States under the
+
+8
+
+Federal Tort Claims Act, and the employee is immune from
+
+9
+
+any civil action.
+
+That's -- those are the words I think
+It says:
+
+Plaintiff has a
+
+And then you say, but any civil
+
+10
+
+action doesn't include Bivens actions.
+
+11
+
+saying that the later Act shrinks the former Act.
+
+12
+13
+
+MR. DOYLE:
+
+And you must be
+
+The later Act amended the former
+
+Act; that's correct, Your Honor.
+
+14
+
+JUSTICE GINSBURG:
+
+15
+
+MR. DOYLE:
+
+16
+
+JUSTICE GINSBURG:
+
+17
+
+MR. DOYLE:
+
+It amended 233(a) --
+
+It -- it did, in --- without mentioning it?
+
+-- effect, because it's
+
+18
+
+incorporated by reference through the Act.
+
+19
+
+the first sentence says “subject to the provisions of
+
+20
+
+chapter 171,” which is the entire FTCA.
+
+21
+
+chapter, there's a provision entitled "Exclusiveness of
+
+22
+
+Remedy."
+
+23
+
+the precise issue before the Court, whether the FTCA is
+
+24
+
+the exclusive remedy here for a Bivens action.
+
+25
+
+specifically says in that section that Bivens actions
+
+So 1346(b),
+
+And within that
+
+And that defines -- and that really addresses
+
+34
+Alderson Reporting Company
+
+And it
+
+Official
+
+1
+
+are excluded.
+
+2
+
+And so if you want to find out what remedy
+
+3
+
+is available to a prospective plaintiff, you have to
+
+4
+
+look at how Congress defined the remedy, and it
+
+5
+
+specifically defined it by limiting it under its
+
+6
+
+Exclusiveness Clause to common law torts, not Bivens
+
+7
+
+claims.
+
+8
+9
+
+But I think one of the key principles here
+that we have to acknowledge is that you defer -- the
+
+10
+
+Court defers to Congress in policy considerations like
+
+11
+
+this because presumably Congress is in a better position
+
+12
+
+than the Court to -- to weigh policy decisions like
+
+13
+
+providing immunity to certain government employees.
+
+14
+
+the deference there is only appropriate where Congress
+
+15
+
+has actually faced the issue and balanced the policy
+
+16
+
+considerations.
+
+17
+
+because Bivens hadn't been decided; Estelle v. Gamble
+
+18
+
+hadn't been decided until 1976, which -- which
+
+19
+
+established the deliberate indifference standard; and
+
+20
+
+then Carlson wasn't decided until 1980.
+
+21
+
+Congress, for the first time, actually looked at the
+
+22
+
+issue --
+
+23
+
+But
+
+And it could not have done so in 1970,
+
+JUSTICE SCALIA:
+
+And when
+
+Well, you say any -- any
+
+24
+
+other civil action that -- that did not exist prior to
+
+25
+
+the enactment of 233(a) would not be covered by its
+35
+Alderson Reporting Company
+
+Official
+
+1
+
+exclusion because Congress couldn't have known that this
+
+2
+
+civil action existed, so that it only covered those
+
+3
+
+causes of action that existed at the time the statute
+
+4
+
+was passed?
+
+5
+
+MR. DOYLE:
+
+Only -- only as to
+
+6
+
+constitutional causes of action, Justice Scalia.
+
+7
+
+And I think --
+
+8
+9
+
+JUSTICE SCALIA:
+
+Why?
+
+Why?
+
+I mean, if your
+
+theory is it doesn't preclude anything they didn't know
+
+10
+
+about, if they didn't know about something, whether it's
+
+11
+
+constitutional or not, what -- what reason is there to
+
+12
+
+say it's precluded?
+
+13
+
+MR. DOYLE:
+
+Well, I think that the issue
+
+14
+
+here is, is that when Congress is going to -- was going
+
+15
+
+to abrogate a constitutional right or recognize a
+
+16
+
+constitutional remedy, it has to do so in a clear way.
+
+17
+
+And in, for example, Webster v. Doe or, in effect, the
+
+18
+
+Blatchfield -- Blatchford case, has very similar language.
+
+19
+
+It's all civil actions, and that's in a context of whether
+
+20
+
+Indians can bring an action against the State under the
+
+21
+
+Eleventh Amendment.
+
+22
+
+all civil actions did not include the right to bring an
+
+23
+
+action against the Eleventh Amendment -- a State under
+
+24
+
+the Eleventh Amendment, because you’re dealing with a
+
+25
+
+constitutional issue.
+
+In that case, the Court held that
+
+36
+Alderson Reporting Company
+
+Official
+
+1
+
+And in this case -- I think that goes to
+
+2
+
+Justice Kennedy's point -- we’re not saying that, you know,
+
+3
+
+any cause of action that perhaps was created after 1970
+
+4
+
+wouldn't be barred, but when you’re talking about a
+
+5
+
+constitutional cause of action, there is a difference.
+
+6
+
+And you -- Congress has to at least consider the issue,
+
+7
+
+balance the policy considerations, and make an informed
+
+8
+
+decision in order for this Court to abrogate a
+
+9
+
+constitutional right.
+
+10
+
+JUSTICE KENNEDY:
+
+And Carlson is your best
+
+11
+
+authority for that?
+
+12
+
+is directly on point, Carlson is still your best
+
+13
+
+authority?
+
+14
+
+Even though I don't think Carlson
+
+MR. DOYLE:
+
+Well, Carlson sets forth the
+
+15
+
+clear statement rule here, the explicit declaration
+
+16
+
+test, and then --
+
+17
+
+JUSTICE KENNEDY:
+
+In a different context,
+
+18
+
+but that -- but Carlson is still your best authority for
+
+19
+
+that proposition?
+
+20
+
+MR. DOYLE:
+
+I think Webster v. Doe is
+
+21
+
+another example of a case where this Court would not
+
+22
+
+abrogate a constitutional right based on fairly clear
+
+23
+
+language that said the director of the CIA had
+
+24
+
+discretion to terminate anybody.
+
+25
+
+terminated a CIA employee because he was homosexual, and
+
+And in that case, he
+
+37
+Alderson Reporting Company
+
+Official
+
+1
+
+he brought a variety of different constitutional causes
+
+2
+
+of action.
+
+3
+
+abrogate a constitutional cause of action, there has to
+
+4
+
+be -- there has to be a clear statement.
+
+5
+
+believe there has been that clear statement, but --
+
+6
+
+And then, you know, the Court held that to
+
+JUSTICE STEVENS:
+
+And so we don't
+
+Do think your clear
+
+7
+
+statement argument would apply even if Carlson had been
+
+8
+
+decided before the statute was enacted?
+
+9
+
+MR. DOYLE:
+
+Well, that's true, Your Honor.
+
+10
+
+JUSTICE STEVENS:
+
+11
+
+MR. DOYLE:
+
+12
+
+CHIEF JUSTICE ROBERTS:
+
+Okay.
+
+And so, it's not -Well, I would have
+
+13
+
+thought it wouldn't apply as strongly because they would
+
+14
+
+have been saying any action at a time when they knew that
+
+15
+
+particular action existed.
+
+16
+
+MR. DOYLE:
+
+It wouldn't -- it wouldn't apply
+
+17
+
+as -- as strongly, but I -- I don't think that the
+
+18
+
+sequence of enactment is dispositive, I think is the
+
+19
+
+point.
+
+20
+
+CHIEF JUSTICE ROBERTS:
+
+Oh, so you’re
+
+21
+
+saying -- your response to Justice Stevens follows
+
+22
+
+because you say they -- unless they say a Bivens action
+
+23
+
+is excluded, it's not.
+
+24
+
+MR. DOYLE:
+
+25
+
+Or constitutional, but it has to
+
+be clear that Congress addressed the issue and
+38
+Alderson Reporting Company
+
+Official
+
+1
+
+considered abrogating a constitutional claim.
+
+2
+
+that's what the cases are clear about.
+
+3
+4
+
+JUSTICE GINSBURG:
+
+I mean,
+
+And so --
+
+So the Gonzalez Act is
+
+after Bivens.
+
+5
+
+MR. DOYLE:
+
+It is.
+
+6
+
+JUSTICE GINSBURG:
+
+But you say the same
+
+7
+
+thing -- even though Bivens was before Congress -- and
+
+8
+
+even though the Gonzalez Act doesn't have an exception for
+
+9
+
+Bivens claims, you read one into the Gonzalez Act?
+
+10
+
+MR. DOYLE:
+
+Your Honor, I -- I would say the
+
+11
+
+Gonzalez Act also wouldn't bar Bivens claims, because
+
+12
+
+it’s just the sequence of enactment -- but I mean, if
+
+13
+
+it was -- if it had shown in some way that Congress
+
+14
+
+considered the constitutional issue -- and the legislative
+
+15
+
+history of the Gonzalez Act shows that it did not at
+
+16
+
+that time -- if there was some indication in the
+
+17
+
+language of the statute or anywhere that a
+
+18
+
+constitutional -JUSTICE SCALIA:
+
+19
+
+Legislative history will
+
+20
+
+do, so -- so we don't require this clear statement,
+
+21
+
+right?
+
+22
+23
+24
+25
+
+MR. DOYLE:
+
+I'm sorry, Justice Scalia, I
+
+didn't hear your question.
+JUSTICE SCALIA:
+
+Legislative history will do
+
+the job, so you’re abandoning the -- the proposition
+39
+Alderson Reporting Company
+
+Official
+
+1
+
+that there has to be a clear statement by Congress.
+
+2
+
+MR. DOYLE:
+
+3
+
+I meant to imply that, I misspoke.
+
+4
+
+No, Your Honor.
+
+JUSTICE SCALIA:
+
+And if I -- if
+
+That's what you said.
+
+I
+
+5
+
+thought you said if -- if it was clear from the
+
+6
+
+legislative history that Congress considered Bivens
+
+7
+
+actions and nonetheless enacted language similar to
+
+8
+
+233(a), that wouldn't be enough.
+
+9
+
+MR. DOYLE:
+
+It -- it -- I think that in the
+
+10
+
+statute, in the -- in the text of the statute itself,
+
+11
+
+there has to be some evidence from Congress that it
+
+12
+
+considered it.
+
+13
+
+factors to try to figure out what -- what Congress was
+
+14
+
+thinking, of course.
+
+15
+
+point is clear that whether you look at the legislative
+
+16
+
+history, whether you look at the alternative remedial
+
+17
+
+scheme --
+
+18
+19
+
+I think that you can look at other
+
+However, in this case, I think the
+
+JUSTICE SCALIA:
+
+Now you’re confusing me
+
+again.
+
+20
+
+(Laughter.)
+
+21
+
+JUSTICE SCALIA:
+
+Is -- is -- is important
+
+22
+
+what Congress was thinking or what Congress said?
+
+23
+
+thought your proposition was, unless the statute says
+
+24
+
+that it bans constitutional actions, it doesn't.
+
+25
+
+that your proposition?
+40
+Alderson Reporting Company
+
+I
+
+Is
+
+Official
+
+1
+2
+
+MR. DOYLE:
+
+That -- that's correct.
+
+You have
+
+to start with the text.
+
+3
+
+JUSTICE SCALIA:
+
+Then it doesn't matter what
+
+4
+
+Congress was thinking, does it?
+
+5
+
+that, your -- your position is --
+
+6
+
+MR. DOYLE:
+
+Unless Congress says
+
+Well, obviously if -- if the statute
+
+7
+
+unambiguously bars constitutional claims by mentioning
+
+8
+
+the Constitution, I don't think you look at the
+
+9
+
+legislative history.
+
+10
+
+That's correct, Your Honor.
+
+JUSTICE SCALIA:
+
+But, ah, but if it doesn't
+
+11
+
+unambiguously bar it, you can then look to legislative
+
+12
+
+history and say although it didn't bar it, the
+
+13
+
+legislative history shows that it was intended to bar
+
+14
+
+it.
+
+15
+16
+
+MR. DOYLE:
+statute is ambiguous --
+
+17
+18
+
+JUSTICE SCALIA:
+
+MR. DOYLE:
+
+23
+24
+25
+
+-- you can look to the legislative
+
+history.
+JUSTICE SCALIA:
+
+21
+22
+
+You are abandoning Carlson
+
+then.
+
+19
+20
+
+I think that if -- if -- if any
+
+I thought Carlson was your
+
+big case.
+MR. DOYLE:
+
+Well, I believe it is, Your Honor.
+
+And -- and -- and the Carlson test -JUSTICE SCALIA:
+
+You just abandoned its
+
+41
+Alderson Reporting Company
+
+Official
+
+1
+
+proposition that there has to be a statement in the
+
+2
+
+statute.
+
+3
+4
+
+MR. DOYLE:
+
+Your Honor, all I'm saying
+
+is that --
+
+5
+
+CHIEF JUSTICE ROBERTS:
+
+You’re not
+
+6
+
+abandoning it; you’re taking it further.
+
+7
+
+taking Carlson further.
+
+8
+9
+
+MR. DOYLE:
+
+You’re
+
+It doesn't have to be -- no?
+All I'm saying is, I believe, is
+
+that -- is that in this case, if you look at the actual
+
+10
+
+statute that's at issue, no matter what test you use,
+
+11
+
+whether you -- whether you -- whether you like
+
+12
+
+legislative history, whether you -- whether you only
+
+13
+
+look at plain text, or whether you want to look at
+
+14
+
+what's the alternative remedy, is it equivalent to a
+
+15
+
+constitutional claim, this statute doesn't pass muster.
+
+16
+
+It is clear that Congress never considered whether or
+
+17
+
+not to abrogate a constitutional cause of action in
+
+18
+
+1970.
+
+19
+
+JUSTICE BREYER:
+
+I think his point is it doesn't
+
+20
+
+matter whether they did or didn't consider it; the
+
+21
+
+question is the statute was decided by Justice Brennan
+
+22
+
+as an example of a statute where Congress did explicitly
+
+23
+
+say whatever it thought that this particular remedy was
+
+24
+
+a remedy exclusive, an exclusive remedy, and that
+
+25
+
+satisfied the second requirement of Carlson.
+42
+Alderson Reporting Company
+
+That was
+
+Official
+
+1
+
+Justice Ginsburg's first question.
+
+2
+
+that's, I think, the problem for you in this case.
+
+3
+
+MR. DOYLE:
+
+And -- and there --
+
+Your Honor, again, I don't want
+
+4
+
+to repeat my answer to that question, but just to
+
+5
+
+emphasize that -- that the Court in Carlson did not
+
+6
+
+specifically say that Bivens claims were barred by
+
+7
+
+reference to 233.
+
+8
+
+there is a distinct difference between malpractice and
+
+9
+
+deliberate indifference in 1980, because Estelle had
+
+10
+
+It mentioned malpractice.
+
+And
+
+been decided 4 years earlier.
+
+11
+
+So, one of the other anomalies here is that
+
+12
+
+looking at -- at -- at the practical effect, going to
+
+13
+
+your implied repeal question, Justice Scalia, the only
+
+14
+
+work that -- that 233(a) would have left to do under the
+
+15
+
+Petitioners’ reading is -- is to bar Bivens claims.
+
+16
+
+when Congress enacted the statute in 1970, Bivens didn't
+
+17
+
+even exist.
+
+18
+
+And
+
+And so, the protection that -- the -- the
+
+19
+
+position that we are advocating protects doctors because
+
+20
+
+the Westfall Act extends much broader immunity to common
+
+21
+
+law torts, to any wrongful act or omission, not just
+
+22
+
+actions performing medical functions.
+
+23
+
+completely consistent with Congress's intent in 1970
+
+24
+
+when constitutional claims didn't even exist.
+
+25
+
+And so, this is
+
+And so, when Congress looked at the issue,
+43
+Alderson Reporting Company
+
+Official
+
+1
+
+examined it and decided whether -- whether there’s a
+
+2
+
+difference between Bivens and the common law and whether
+
+3
+
+the FTCA was adequate to substitute for Bivens, it made
+
+4
+
+a decision to expressly preserve Bivens actions in this
+
+5
+
+case.
+
+6
+
+233 bars Bivens claims here, you have to reconcile it
+
+7
+
+with the Westfall Act, because the Westfall Act
+
+8
+
+expressly preserves Bivens claims.
+
+9
+
+And even if, Your Honors, you believe that
+
+And it is a comprehensive statute; it is
+
+10
+
+a later passed statute; and it is specific to the issue before
+
+11
+
+the Court, which is can -- can a Bivens claim be brought
+
+12
+
+against a Public Health Service doctor?
+
+13
+
+JUSTICE GINSBURG:
+
+The Westfall Act could be
+
+14
+
+read to say we’re now covering all these people who did
+
+15
+
+not have, who were not sheltered by immunity before, but
+
+16
+
+this amendment saves out Bivens claims.
+
+17
+
+that as self-contained and not touching other statutes
+
+18
+
+that existed independently before.
+
+19
+
+MR. DOYLE:
+
+One could read
+
+Your Honor, I -- I -- I don't
+
+20
+
+think that's a reasonable reading, because at the time
+
+21
+
+of the Westfall Act's passage in 1988, no court had held
+
+22
+
+that Bivens claims were barred by section 233 or any
+
+23
+
+other pre-Act immunity statute like the Gonzalez Act or
+
+24
+
+and the VA Act.
+
+25
+
+And the legislative history of the Westfall
+
+44
+Alderson Reporting Company
+
+Official
+
+1
+
+Act shows that, in 1988, Congress believed that the
+
+2
+
+Westfall Act would simply extend the protections
+
+3
+
+available to -- to government employees before Westfall
+
+4
+
+v. Erwin, and that -- and that people would still be
+
+5
+
+able to bring constitutional claims against members of
+
+6
+
+the Federal government.
+
+7
+
+And so, Congress had no reason in 1988 to
+
+8
+
+go back and amend the -- the earlier passed 233,
+
+9
+
+because there was no indication -- judicial construction
+
+10
+
+or the legislative history -- that 233 ever barred Bivens
+
+11
+
+claims in the first place.
+
+12
+
+And so, adopting the Petitioners’ position
+
+13
+
+in this case would -- would subvert congressional
+
+14
+
+intent, because it would say that, you know, when
+
+15
+
+Congress finally weighed all of the considerations in
+
+16
+
+the case, decided whether Bivens and the FTCA were
+
+17
+
+adequate, it decided to -- it decided to preserve Bivens
+
+18
+
+claims rather than bar them.
+
+19
+
+And -- and -- and so, accepting the
+
+20
+
+Petitioners’ position would just subvert
+
+21
+
+that intent based on an Act that was passed prior to
+
+22
+
+Bivens existing, prior to a constitutional cause of
+
+23
+
+action being accepted for this type of action, and it --
+
+24
+
+and it would just be completely inconsistent with what
+
+25
+
+Congress has -- has done to protect Federal employees.
+45
+Alderson Reporting Company
+
+Official
+
+1
+
+JUSTICE STEVENS:
+
+May I just be sure I
+
+2
+
+understand your argument?
+
+3
+
+it have covered every immunity that the Public Health
+
+4
+
+Act previously provided?
+
+5
+
+the prior statute is now totally unnecessary and does
+
+6
+
+nothing except preserve the Bivens -- preserve the
+
+7
+
+immunity for Bivens actions?
+
+8
+9
+
+MR. DOYLE:
+
+Is the Westfall Act -- would
+
+So, is it correct that the --
+
+No, Your Honor, I don't think I
+
+got to finish that answer before.
+
+But if you look at --
+
+10
+
+at the appendix to our -- our brief from page 28
+
+11
+
+to 62, there’s two pages in there, page 29 and page 55,
+
+12
+
+that show that section (a) still has meaning, because
+
+13
+
+there’s a host of non-Federal employees, people that --
+
+14
+
+that are government contractors that provide services to
+
+15
+
+free health clinics and the like that can be deemed
+
+16
+
+employees of the Public Health Service and then take
+
+17
+
+advantage of their immunity.
+
+18
+
+wouldn't be able to take advantage of the immunity
+
+19
+
+under FTCA, because they aren't Federal employees.
+
+20
+
+But otherwise, they
+
+So 233(a) still has work to do, even under
+
+21
+
+our construction.
+
+And so, surely, it would not protect
+
+22
+
+Public Health Service employees any more because they
+
+23
+
+have greater protections in the Westfall Act, and, again,
+
+24
+
+the Petitioners’ reading here would -- the only work it
+
+25
+
+would have left to do would be to bar Bivens claims, but
+46
+Alderson Reporting Company
+
+Official
+
+1
+
+Bivens didn't even exist in 1970, when -- that the Act
+
+2
+
+was passed.
+
+3
+
+common sense.
+
+4
+
+That doesn't -- that doesn't make much
+
+And before I -- I conclude, I just want to
+
+5
+
+speak for a moment about, you know, the importance of
+
+6
+
+this case under the -- the Bivens jurisprudence.
+
+7
+
+mean, the purpose of Bivens -- this Court has acknowledged
+
+8
+
+recently in Meyer and Malesko is to provide deterrence
+
+9
+
+to -- to Federal officers.
+
+I
+
+And this is exactly the type
+
+10
+
+of case that -- that -- where deterrence is important,
+
+11
+
+because government employees should not feel that they
+
+12
+
+can -- they can --
+
+13
+14
+
+JUSTICE BREYER:
+Government and collect money?
+
+15
+16
+
+Can't they sue the Federal
+
+MR. DOYLE:
+
+Not for the -- not for a Bivens
+
+claim, and --
+
+17
+
+JUSTICE BREYER:
+
+No, I mean, can't your
+
+18
+
+clients -- anybody who has a case like yours -- can't they
+
+19
+
+sue the Federal Government and collect damages for their
+
+20
+
+claim?
+
+21
+
+MR. DOYLE:
+
+22
+
+JUSTICE BREYER:
+
+23
+
+It depends.
+
+Sometimes they can’t.
+
+Did your clients sue the
+
+Federal Government?
+
+24
+
+MR. DOYLE:
+
+Yes.
+
+25
+
+JUSTICE BREYER:
+
+Did they collect money?
+
+47
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+MR. DOYLE:
+yet.
+
+3
+4
+
+No, they haven't collected money
+
+JUSTICE BREYER:
+
+No.
+
+But if they win, will
+
+they?
+
+5
+
+MR. DOYLE:
+
+On one claim, but one of our
+
+6
+
+claims, the most important claim here, is -- is -- will
+
+7
+
+be extinguished under California law, which highlights
+
+8
+
+why, you know, Congress would not want to -- why this
+
+9
+
+Court in Carlson, first of all, said that the FTCA is not
+
+10
+
+an effective substitute for Bivens, and Congress
+
+11
+
+ratified that decision 8 years later in the Westfall
+
+12
+
+Act by finding the same thing, that -- that Bivens
+
+13
+
+claims and the FTCA are complementary and parallel
+
+14
+
+causes of action, because for the very reason that, under
+
+15
+
+California law in this case, a survival claim for
+
+16
+
+pre-death pain and suffering for -- for Mr. Castaneda,
+
+17
+
+who endured an incredible ordeal for 2 years at the hands
+
+18
+
+of a government medical provider, that that -- that claim
+
+19
+
+would be barred.
+
+20
+
+And so I would urge this Court to follow its
+
+21
+
+-- its precedent in Carlson and recognize that Congress,
+
+22
+
+8 years later in the Westfall Act, actually ratified
+
+23
+
+that holding that said that the FTCA is not an adequate
+
+24
+
+substitute for a Bivens action for the reasons I’ve set
+
+25
+
+forth.
+
+Thank you, Your Honor.
+48
+Alderson Reporting Company
+
+Official
+
+1
+
+CHIEF JUSTICE ROBERTS:
+
+2
+
+Ms. Goldenberg, you have 3 minutes remaining.
+
+3
+
+Thank you, counsel.
+
+REBUTTAL ARGUMENT OF ELAINE J. GOLDENBERG
+
+4
+
+ON BEHALF OF THE PETITIONERS
+
+5
+
+MS. GOLDENBERG:
+
+Just two quick points, if
+
+6
+
+I may.
+
+One is that I think you can't read this Court's
+
+7
+
+Bivens jurisprudence to set forth any kind of clear
+
+8
+
+statement rule in this context.
+
+9
+
+Carlson was decided, this Court has looked for
+
+In many cases after
+
+10
+
+indications that Congress thought the judiciary should
+
+11
+
+stay its hands, and it has found those indications in
+
+12
+
+the mere existence of some kind of statutory scheme,
+
+13
+
+even where Congress has said nothing express about
+
+14
+
+whether that scheme should be exclusive or not.
+
+15
+
+If it can be the case that, simply by setting
+
+16
+
+forth an elaborate scheme, Congress can indicate its
+
+17
+
+intent that this particular implied cause of action
+
+18
+
+shouldn't go forward, then it must be true also that
+
+19
+
+where Congress expressly says that it shouldn't go
+
+20
+
+forward, that that can be given effect.
+And I point out that there is not a cutting off
+
+21
+22
+
+of a constitutional right here.
+
+It's just that there is
+
+23
+
+a specific cause of action that isn't going to be
+
+24
+
+allowed to go forward because it's one that this Court
+
+25
+
+would imply.
+49
+Alderson Reporting Company
+
+Official
+
+1
+
+Secondly, just to go back to my answer to
+
+2
+
+Justice Kennedy's question before, the case that I meant
+
+3
+
+to cite to you was Van de Kamp v. Goldstein, 129 Supreme
+
+4
+
+Court 855, and that talked about absolute immunity
+
+5
+
+reflecting a balance of evils.
+
+6
+
+has done that balancing.
+
+7
+
+would rather protect the PHS, make sure that causes of
+
+8
+
+action and liability aren't hanging over the heads of
+
+9
+
+PHS officers, even if that means that some individuals
+
+Here, I think Congress
+
+Congress has decided that it
+
+10
+
+don't get recovery against certain specific PHS
+
+11
+
+personnel on their claims, when they can of course
+
+12
+
+recover from the United States.
+
+13
+14
+
+If there are no further questions, we’d
+ask that the decision of the Ninth Circuit be reversed.
+
+15
+16
+
+CHIEF JUSTICE ROBERTS:
+
+Thank you, counsel.
+
+Counsel.
+
+17
+
+The case is submitted.
+
+18
+
+(Whereupon, at 12:10 p.m., the case in the
+
+19
+
+above-entitled matter was submitted.)
+
+20
+21
+22
+23
+24
+25
+50
+Alderson Reporting Company
+
+Official
+Page 51
+
+A
+abandoned
+41:25
+abandoning
+39:25 41:17
+42:6
+able 45:5 46:18
+above-entitled
+1:13 50:19
+abrogate 25:22
+31:5 36:15 37:8
+37:22 38:3
+42:17
+abrogating 39:1
+absolute 3:15
+30:9 50:4
+absolutely 9:10
+32:15
+accepted 45:23
+accepting 45:19
+accidents 5:7
+accord 20:7
+22:13
+accorded 21:23
+22:16
+acknowledge
+35:9
+acknowledged
+47:7
+act 3:20 4:6,7,11
+4:19,25 5:12,18
+6:2,10,18 8:3,8
+8:10 9:22,23
+15:2,3 16:16,22
+17:8,10,13,17
+17:21,24 18:4
+19:22 20:3,21
+21:1 22:11 23:6
+24:10 26:22
+27:17 28:13,14
+28:23 29:2,7,15
+29:15 30:1,7
+31:13,15,16,16
+32:15,18,18,19
+32:20 33:2,6,6
+
+33:8,10 34:8,11
+34:11,12,13,18
+39:3,8,9,11,15
+43:20,21 44:7,7
+44:13,23,24
+45:1,2,21 46:2
+46:4,23 47:1
+48:12,22
+acting 25:6
+action 3:22 6:22
+7:13,14,21 8:21
+9:3,4 13:15,23
+14:2,23,25 16:7
+16:7,8,9,19,21
+17:1 23:13 24:5
+25:23 27:10
+28:7 31:6 33:7
+34:5,9,10,24
+35:24 36:2,3,6
+36:20,23 37:3,5
+38:2,3,14,15,22
+42:17 45:23,23
+48:14,24 49:17
+49:23 50:8
+actions 7:16
+20:15 30:10,17
+31:23 33:14
+34:10,25 36:19
+36:22 40:7,24
+43:22 44:4 46:7
+acts 10:3 11:10
+13:4 21:14
+actual 42:9
+Act's 44:21
+added 23:6
+additional 22:12
+addressed 26:18
+38:25
+addresses 34:22
+adds 4:25
+adequate 28:11
+44:3 45:17
+48:23
+adequately 21:8
+Administration
+6:13
+
+admitted 9:13
+24:17
+adopting 45:12
+advantage 4:18
+5:1 46:17,18
+advocating
+43:19
+afforded 4:21
+ago 30:8,11
+agree 8:19 21:22
+ah 5:16 41:10
+ahead 33:15
+AL 1:3,8
+Alito 20:11 23:8
+24:12
+alleged 11:8
+allowed 7:13
+26:13 49:24
+allowing 15:7
+allows 26:22
+alternative 40:16
+42:14
+ambiguity 4:4
+15:22
+ambiguous
+41:16
+amend 45:8
+amended 34:12
+34:14
+amendment 33:9
+36:21,23,24
+44:16
+amicus 1:21 2:6
+14:18
+amount 24:20,21
+amounts 21:7
+anecdotal 20:23
+anomalies 43:11
+anomalous 22:3
+answer 6:19,23
+6:24 13:9 30:24
+31:1 32:8 43:4
+46:9 50:1
+anticipate 15:16
+anybody 37:24
+47:18
+
+apart 6:18
+apparently 10:23
+11:19
+appeals 11:15
+13:19
+APPEARAN...
+1:16
+appendix 9:15
+16:24 33:23
+46:10
+application 5:6
+15:20
+applied 4:12 5:13
+28:17
+applies 4:6 6:11
+29:15 31:17,25
+32:9
+apply 5:25 6:8
+13:23 23:10
+28:1 30:16
+31:22 38:7,13
+38:16
+applying 6:12
+27:14
+appropriate
+35:14
+approximately
+18:14
+argue 10:3
+argued 10:15
+12:10 26:15
+arguing 26:9
+argument 1:14
+2:2,10 3:8,10
+14:17 25:5,8,17
+26:10 30:7,20
+30:21 31:9,13
+38:7 46:2 49:3
+arguments 4:3
+arising 10:12
+14:24 15:2
+armed 18:7 22:6
+22:8
+Army 6:12
+aside 20:7
+assert 5:20
+
+Alderson Reporting Company
+
+asserted 10:7
+assigned 22:7
+assistant 1:19
+10:24 27:5
+assume 13:22
+22:20
+assuming 13:24
+15:10
+authorities 13:2
+authority 6:24
+15:14 37:11,13
+37:18
+authorization
+10:6
+available 21:6
+24:16,16 33:21
+35:3 45:3
+aware 11:7,20
+17:25 19:10
+27:8
+a.m 1:15 3:2
+B
+b 23:12
+back 28:2 30:5
+45:8 50:1
+bad 13:4
+balance 37:7
+50:5
+balanced 35:15
+balancing 50:6
+bans 40:24
+bar 8:11 13:12,18
+13:21,23 14:5
+25:21 39:11
+41:11,12,13
+43:15 45:18
+46:25
+barred 9:18
+13:15 27:12
+28:12 37:4 43:6
+44:22 45:10
+48:19
+barring 12:17
+bars 26:9 41:7
+44:6
+
+

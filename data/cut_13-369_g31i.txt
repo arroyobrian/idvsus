@@ -1,0 +1,6026 @@
+Official
+
+1
+
+ P R O C E E D I N G S 
+
+2
+3
+
+ (10:07 a.m.) 
+ CHIEF JUSTICE ROBERTS: 
+
+We'll hear argument 
+
+4
+
+first this morning in Case 13­369, Nautilus v. Biosig 
+
+5
+
+Instruments. 
+
+6
+
+ Mr. Vandenberg. 
+
+7
+
+ ORAL ARGUMENT OF JOHN D. VANDENBERG 
+
+8
+9
+10
+11
+
+ ON BEHALF OF THE PETITIONER 
+ MR. VANDENBERG: 
+
+Mr. Chief Justice, and may 
+
+it please the Court. 
+ The Patent Act requires particular and 
+
+12
+
+distinct claims, but the claim in this case is not 
+
+13
+
+particular and distinct.  It is ambiguous because it has 
+
+14
+
+two reasonable readings with very different claim 
+
+15
+
+scopes, even after all of the interpretive tools are 
+
+16
+
+applied. 
+
+17
+
+ Such ambiguous claims defeat the public 
+
+18
+
+notice function which is at the heart of Section 112, 
+
+19
+
+and they increase litigation.  They cause more claim 
+
+20
+
+construction disputes, and they cause more reversals of 
+
+21
+
+district court claim construction rulings. 
+
+22
+
+ Taken all together, ambiguous claims and the 
+
+23
+
+Federal circuit's test allowing ambiguous claims defeats 
+
+24
+
+the very purpose of Section 112 and the patent system, 
+
+25
+
+namely, to encourage and promote innovation by others
+
+3
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+after the first patent issues. 
+ JUSTICE GINSBURG: 
+
+Why is this claim 
+
+3
+
+ambiguous?  It's evident that these electrodes have to 
+
+4
+
+be close enough so that the user's hand contacts both 
+
+5
+
+electrodes, but separate enough to heap ­­ keep 
+
+6
+
+electrodes distinct.  Why isn't that sufficiently 
+
+7
+
+definite? 
+
+8
+9
+
+ MR. VANDENBERG: 
+
+Your Honor, if ­­ if that 
+
+were the only reasonable construction, then that may 
+
+10
+
+suffice.  However, here, the other reasonable 
+
+11
+
+construction is that the spaced relationship is a 
+
+12
+
+special spacing that causes the electrodes to achieve 
+
+13
+
+the desired result.  And that was the construction that 
+
+14
+
+the majority found at the Federal circuit, namely, that 
+
+15
+
+spaced relationship is not what it sounds like, namely, 
+
+16
+
+any spacing, but rather is a special spacing that is 
+
+17
+
+derived by trial­and­error testing to get the spacing 
+
+18
+
+just right so that the electrodes detect ­­
+
+19
+
+ JUSTICE SOTOMAYOR: 
+
+I don't think the 
+
+20
+
+majority or the ­­ or the concurrence or the other side 
+
+21
+
+disagreed with that.  The only question was whether it 
+
+22
+
+was part of the specifications or not.  I thought that 
+
+23
+
+was the only difference between them.  They both agreed 
+
+24
+
+ultimately that the electrodes had to cancel out ­­ was 
+
+25
+
+it the EMGs?
+
+4
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ MR. VANDENBERG: 
+
+2
+
+ JUSTICE SOTOMAYOR: 
+
+Correct. 
+So they both agreed that 
+
+3
+
+that was part of the scope.  The only issue was, was it 
+
+4
+
+part of the specifications or part of the claims,no?  But 
+
+5
+
+both of them make up the scope of the patent. 
+
+6
+
+ MR. VANDENBERG: 
+
+Your Honor, we would submit 
+
+7
+
+that the disagreements between the judges and, in fact, 
+
+8
+
+between Biosig itself went to the scope of the claim, 
+
+9
+
+namely, does the scope of the claim cover all ways of 
+
+10
+
+achieving the desired result no matter how the 
+
+11
+
+electrodes are spaced.  That's one possible reading. 
+
+12
+
+ The other possible reading is that the 
+
+13
+
+claims cover only a special spacing of the electrodes to 
+
+14
+
+achieve the desired result.  And why that matters is if 
+
+15
+
+you think of the inventor in 1994 who invents a new 
+
+16
+
+material for electrodes, and this new material achieves 
+
+17
+
+the desired result of detecting equal muscle signals on 
+
+18
+
+the left and right side, regardless of the spacing of 
+
+19
+
+the electrode.  So it doesn't matter where you put the 
+
+20
+
+electrodes, as long as you can touch them, this new 
+
+21
+
+material achieved the ­­ the desired goal. 
+
+22
+
+ That inventor would not know in 1994 if they 
+
+23
+
+infringed or not, because if the claims had the 
+
+24
+
+interpretation that the majority eventually gave them, 
+
+25
+
+namely, that the spaced relationship has this functional
+
+5
+
+Alderson Reporting Company
+
+Official
+
+1
+
+limitation and it must be the result of this 
+
+2
+
+trial­and­error balancing, there'd be no infringement. 
+
+3
+
+But if spaced relationship meant any spacing, then there 
+
+4
+
+would be infringement.  So that is the exact type of 
+
+5
+
+zone of uncertainty that United Carbon warned against 
+
+6
+
+and which deters the innovation. 
+
+7
+
+ CHIEF JUSTICE ROBERTS: 
+
+But it can't mean 
+
+8
+
+any spacing, because anyone skilled in the art would 
+
+9
+
+know the hand has to cover it.  So you're basically 
+
+10
+
+talking about a fairly narrow range between one side of 
+
+11
+
+the hand and the other and not too close together  but 
+
+12
+
+they don't ­­ don't work.  And that seems to me that 
+
+13
+
+someone skilled in the art can just try a couple of 
+
+14
+
+things and see where ­­ where the trial and error. 
+
+15
+
+Trial and error makes ­­ could mean a very difficult 
+
+16
+
+thing, like Edison discovering what works in a light 
+
+17
+
+bulb.  But here you've got a very limited range and 
+
+18
+
+someone skilled in the art will just, well, let's try 
+
+19
+
+it, you know, close to the middle, let's try it to so 
+
+20
+
+far apart.  But it's not any spaced relationship. 
+
+21
+
+ MR. VANDENBERG: 
+
+And that's correct, Your 
+
+22
+
+Honor, and I do ­­ when I refer to any spacing, it's 
+
+23
+
+really a shorthand for any spacing that is narrow enough 
+
+24
+
+so that the hand can actually touch both electrodes but 
+
+25
+
+not touching.  So I agree that under each interpretation
+
+6
+
+Alderson Reporting Company
+
+Official
+
+1
+
+it makes sense that the electrodes have to be touchable 
+
+2
+
+by a single hand, and they can't be touching each other 
+
+3
+
+or there'd simply be a single electrode. 
+
+4
+
+ JUSTICE SOTOMAYOR: 
+
+What would be the 
+
+5
+
+purpose of the invention if it were only covering 
+
+6
+
+spacing without the function of canceling the EMG?  I 
+
+7
+
+can't understand, if I read this patent, what it would 
+
+8
+
+do unless you add its function. 
+
+9
+
+ MR. VANDENBERG: 
+
+Well, Your Honor, the 
+
+10
+
+purpose of the patent is it would cover possibly, again, 
+
+11
+
+all techniques for achieving the desired function.  So 
+
+12
+
+again, going back to the invention of the new material, 
+
+13
+
+if the inventor comes up with a specific way of 
+
+14
+
+achieving the result, and here they came up with trial 
+
+15
+
+and error spacing, they didn't describe that in the 
+
+16
+
+patent.  That didn't ­­ that wasn't described by the 
+
+17
+
+inventor until 15 years later.  But nevertheless, let's 
+
+18
+
+say they had this specific way of achieving it.  They 
+
+19
+
+very well could have drafted the claim intentionally the 
+
+20
+
+way they did to have a broader coverage so that they 
+
+21
+
+cover all possible ways of achieving that desired 
+
+22
+
+result.  Patent attorneys are trained to try to draft 
+
+23
+
+the claims, you know, some claims as broadly as 
+
+24
+
+possible.  So that reading by the concurrence was a very 
+
+25
+
+plausible reading of this claim.  Reading the claim, it
+
+7
+
+Alderson Reporting Company
+
+Official
+
+1
+
+has any spaced relationship as long as, as the Chief 
+
+2
+
+Justice indicated, I can touch them and they're not 
+
+3
+
+touching each other.  But that's it.  There's no other 
+
+4
+
+restriction on what "spaced relationship" means.  That's 
+
+5
+
+a very reasonable interpretation and that was the 
+
+6
+
+interpretation that Biosig asserted at the Markman claim 
+
+7
+
+construction in this case. 
+
+8
+
+ JUSTICE SCALIA: 
+
+9
+
+But you ­­ you acknowledge 
+
+that it ­­ it would be a valid patent if all you said is 
+
+10
+
+you have to space these things and you figure out what 
+
+11
+
+the spacing is going to be.  You ­­ you can ­­ you can 
+
+12
+
+get a patent for ­­ tell somebody trial and error. 
+
+13
+
+Let's take Edison's light bulb.  I mean, could he say, 
+
+14
+
+you know, get some material that ­­ that will ­­ will 
+
+15
+
+illumine when ­­ when electricity is passed through it 
+
+16
+
+and you figure out by trial and error what this material 
+
+17
+
+might be.  Might be tungsten, who knows, you know. 
+
+18
+
+Maybe it's chewing gum.  Would that be a valid patent? 
+
+19
+20
+21
+
+ MR. VANDENBERG: 
+
+It would not, Your Honor. 
+
+That ­­
+ JUSTICE SCALIA: 
+
+So I don't ­­ I don't 
+
+22
+
+really understand this trial and error spacing stuff. 
+
+23
+
+What ­­ what is the limit on trial and error?  Can you 
+
+24
+
+get patented anything when you say, you know, this is 
+
+25
+
+the basic principle, you figure out what ­­ you know,
+
+8
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+what makes it work. 
+ MR. VANDENBERG: 
+
+Well, Your Honor, 
+
+3
+
+there's ­­ there's two levels of indefiniteness here. 
+
+4
+
+First, it's unclear which construction was intended.  So 
+
+5
+
+basically, there are two reasonable ­­
+
+6
+
+ JUSTICE SCALIA: 
+
+No.  I understand that. 
+
+7
+
+ MR. VANDENBERG: 
+
+But the second ­­
+
+8
+
+ JUSTICE SCALIA: 
+
+I'm asking why the second 
+
+9
+10
+
+construction is ­­ is a plausible patentable invention. 
+ MR. VANDENBERG: 
+
+Your Honor, it's not 
+
+11
+
+patentable.  In fact, it would be indefinite.  However, 
+
+12
+
+the person of skill in the art reading the claim is not 
+
+13
+
+expected to do a full­blown invalidity analysis. 
+
+14
+
+They're simply trying to figure out, where can I 
+
+15
+
+innovate.  I see this patent.  It issues in '94.  The ­­
+
+16
+
+the alternative ­­
+
+17
+
+ JUSTICE SCALIA: 
+
+All the person skilled in 
+
+18
+
+the art will know is that he has to figure out what the 
+
+19
+
+spacing is, right? 
+
+20
+
+ MR. VANDENBERG: 
+
+No, Your Honor. 
+
+21
+
+ JUSTICE SCALIA: 
+
+But ­­ but still the ­­ the 
+
+22
+23
+
+inventor doesn't tell you what the spacing has to be. 
+ MR. VANDENBERG: 
+
+Well, that is the second 
+
+24
+
+problem.  We agree.  The second problem with these 
+
+25
+
+claims is they're purely functional.  They simply have a
+
+9
+
+Alderson Reporting Company
+
+Official
+
+1
+
+clause that says whereby good things happen, namely, 
+
+2
+
+that equal muscle signals are detected.  The claims 
+
+3
+
+don't tell you how.  They leave that up in the air. 
+
+4
+
+Maybe it has something to do with the spacing 
+
+5
+
+electrodes, but maybe not. 
+
+6
+
+ And the further problem is that the 
+
+7
+
+specification here did not describe any technique for 
+
+8
+
+achieving the desired result.  If one reads the 
+
+9
+
+specification, you read it and it says various things 
+
+10
+
+and it says, whereby the muscle signals are detected as 
+
+11
+
+being equal on both hands, on both electrodes.  Well, in 
+
+12
+
+reality, the ­­ the electrical signals on my left and 
+
+13
+
+right palms are unequal.  Somehow, however, the 
+
+14
+
+electrodes detect them as if they're being equal.  The 
+
+15
+
+patent doesn't say how.  It doesn't say why.  It doesn't 
+
+16
+
+say what causes it.  So this is the purely functional 
+
+17
+
+type of claim that United Carbon and General Electric ­­
+
+18
+
+ CHIEF JUSTICE ROBERTS: 
+
+Do you ­­ do you 
+
+19
+
+have any disagreement with a standard that's articulated 
+
+20
+
+by the Solicitor General?  He says that, you know, a 
+
+21
+
+patent satisfies the requirement if, in light of the 
+
+22
+
+specification and the prosecution history, a person 
+
+23
+
+skilled in the art would reasonably understand the scope 
+
+24
+
+of the claim. 
+
+25
+
+ MR. VANDENBERG: 
+
+Your Honor, we may or may
+
+10
+
+Alderson Reporting Company
+
+Official
+
+1
+
+not, depending on how the Solicitor General would apply 
+
+2
+
+that standard to a claim that has two reasonable 
+
+3
+
+interpretations after the person of skill in the art 
+
+4
+
+reads the claim in light of the specification and 
+
+5
+
+applies all the interpretive tools. 
+
+6
+
+ JUSTICE GINSBURG: 
+
+The Court has to come up 
+
+7
+
+with a formula.  You were saying the Federal Circuit's 
+
+8
+
+formula is no good.  The Solicitor General has, as the 
+
+9
+
+Chief Justice just said, has suggested an appropriate 
+
+10
+
+formula.  And you say, well, it depends on the 
+
+11
+
+application.  As a formula, do you agree? 
+
+12
+
+ MR. VANDENBERG: 
+
+Your Honor, we ­­ we think 
+
+13
+
+it's ­­ it would certainly be an improvement over the 
+
+14
+
+Federal Circuit's amenable to construction and insolubly 
+
+15
+
+ambiguous test.  The Solicitor General refers to 
+
+16
+
+reasonably understand.  The parties have agreed on the 
+
+17
+
+phrasing of "reasonable certainty."  We think 
+
+18
+
+"reasonable certainty" comes out of this Court's cases, 
+
+19
+
+and therefore, we prefer that.  To the extent, 
+
+20
+
+obviously, "reasonably understand" means the same as 
+
+21
+
+"reasonable certainty," then ­­ then we accept that. 
+
+22
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, that's what 
+
+23
+
+I'm having trouble dealing with.  I would suspect your friends 
+
+24
+
+on the other side will say yes, right, that they accept 
+
+25
+
+that, too.  And you say, but it can't be insolubly
+
+11
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ambiguous or not amenable to construction.  And they 
+
+2
+
+say, well, that's not really what the Federal Circuit 
+
+3
+
+said. 
+
+4
+
+ So until we get to the application, I don't 
+
+5
+
+see much disagreement among any of you about the 
+
+6
+
+standard or what's wrong with the Federal Circuit's 
+
+7
+
+articulation.  And the questions kind of suggest we move 
+
+8
+
+very quickly into the particular invention and the 
+
+9
+
+application.  And I'm just ­­ I'm curious what you want 
+
+10
+
+us to do if it seems like in every case, we have to get 
+
+11
+
+right into the application rather than the legal 
+
+12
+
+standards. 
+
+13
+
+ MR. VANDENBERG: 
+
+Well, I think the ­­ the 
+
+14
+
+key dispute here is what happens if, after all the 
+
+15
+
+interpretive tools are applied, there's a genuine 
+
+16
+
+ambiguity, meaning there really are two reasonable 
+
+17
+
+interpretations of the claim.  Genuine ambiguity, person 
+
+18
+
+of skill in the art applying all the interpretive tools, 
+
+19
+
+trying to understand the claiming.  What happens then? 
+
+20
+
+ Our position is that if such a claim, which 
+
+21
+
+essentially points in two different directions, is 
+
+22
+
+indefinite, the problem with the Federal Circuit's test 
+
+23
+
+is the Federal Circuit would not find that indefinite. 
+
+24
+
+Instead, the Federal Circuit would pick one because it's 
+
+25
+
+amenable to construction.  They would pick one.  They
+
+12
+
+Alderson Reporting Company
+
+Official
+
+1
+
+would then ask is the construction they picked itself 
+
+2
+
+sufficiently clear for a person of skill in the art. 
+
+3
+
+ JUSTICE ALITO: 
+
+What if a ­­ what if a 
+
+4
+
+person who's a skilled artisan says that the claim could 
+
+5
+
+mean A and it could mean B, they're both reasonable 
+
+6
+
+constructions, but this person is reasonably certain it 
+
+7
+
+means A, but not B?  What would happen then? 
+
+8
+9
+
+ MR. VANDENBERG: 
+
+Well, I think the ­­ the 
+
+proper analysis would be to look at the alternative 
+
+10
+
+construction and ask:  Was that a reasonable 
+
+11
+
+interpretation?  Was the second interpretation a 
+
+12
+
+reasonable interpretation of the claim?  And courts 
+
+13
+
+every day make judgments like that, whether 
+
+14
+
+interpretations, for instance, of statutes.  A second 
+
+15
+
+interpretation of a statute is reasonable. 
+
+16
+
+ JUSTICE SCALIA: 
+
+Well, the only ­­ the only 
+
+17
+
+analog that comes to my mind immediately is our review 
+
+18
+
+of agency action.  Is ­­ is that the standard that you 
+
+19
+
+want us to use?  If ­­ if, you know, it's within the 
+
+20
+
+scope of the ambiguity, oh, we don't think that's the 
+
+21
+
+right answer.  But it's close enough for government 
+
+22
+
+work.  Is that ­­ is that what you want us to apply to 
+
+23
+
+patents? 
+
+24
+25
+
+ MR. VANDENBERG: 
+
+No, Your Honor, because the 
+
+starting point here is the text of the statute.  The
+
+13
+
+Alderson Reporting Company
+
+Official
+
+1
+
+text of the statute could hardly be more emphatic. 
+
+2
+
+Section 112 requires that the invention be described in 
+
+3
+
+full, clear, concise, and exact terms and then be 
+
+4
+
+claimed particularly and distinctly.  Given that text of 
+
+5
+
+the statute, given the statutory purpose of protecting 
+
+6
+
+the next innovator from uncertainty, we think that that 
+
+7
+
+statutory language needs to be enforced, you know, 
+
+8
+
+forcefully. 
+
+9
+10
+
+ JUSTICE SCALIA: 
+wrong. 
+
+11
+12
+13
+14
+15
+
+Can it be reasonable but 
+
+ MR. VANDENBERG: 
+
+No, Your Honor.  If a claim 
+
+ JUSTICE SCALIA: 
+
+I see.  Whatever 
+
+­­
+
+interpretation is wrong is ipso facto unreasonable? 
+ MR. VANDENBERG: 
+
+If ­­ if I understand 
+
+16
+
+correctly, a claim has only one proper construction.  If 
+
+17
+
+a claim is subject ­­
+
+18
+
+ JUSTICE SCALIA: 
+
+Okay.  So whatever is wrong 
+
+19
+
+is ­­ is, by your definition ­­ you know, we ­­ we 
+
+20
+
+construe statutes all the time, and we certainly don't 
+
+21
+
+think that the result we come to is the only reasonable 
+
+22
+
+result.  We think it's the best result, but not the only 
+
+23
+
+reasonable one.  But you're saying in this field there's 
+
+24
+
+a right result and everything else is unreasonable. 
+
+25
+
+ MR. VANDENBERG: 
+
+What ­­ what we're ­­ we
+
+14
+
+Alderson Reporting Company
+
+Official
+
+1
+
+would analogize it most closely to ­­ to the Chevron 
+
+2
+
+ambiguity analysis. 
+
+3
+4
+5
+
+ JUSTICE SCALIA: 
+
+Yes, that's what I proposed 
+
+first.  But I thought ­­ I thought you didn't like that. 
+ MR. VANDENBERG: 
+
+Well, if I misunderstood 
+
+6
+
+the question I apologize.  But my understanding is in 
+
+7
+
+order to determine whether or not there is ambiguity in 
+
+8
+
+the statute, that the Court first looks to the statutory 
+
+9
+
+language and then applies interpretive tools.  The same 
+
+10
+
+is true here.  And then the Court ­­ if the Court finds 
+
+11
+
+there are more than one reasonable readings, then the 
+
+12
+
+Court will designate the ­­ the statute as ambiguous and 
+
+13
+
+then move on for the remainder of the Chevron analysis. 
+
+14
+
+ Under this statute, however, if the Court 
+
+15
+
+determines the claim is ambiguous, the proper result is 
+
+16
+
+invalidity. 
+
+17
+
+ JUSTICE GINSBURG: 
+
+Well, what is ­­ what is 
+
+18
+
+the ambiguity?  Is it ­­ I thought from your brief that 
+
+19
+
+it was the term "space relationship."  Is that the ­­
+
+20
+
+what ­­ what is the ambiguity? 
+
+21
+
+ MR. VANDENBERG: 
+
+Yes, Your Honor.  It is the 
+
+22
+
+term "space relationship" in the context of the claim. 
+
+23
+
+And again, the ambiguity is that this claim either 
+
+24
+
+covers all possible spacing of the electrodes within the 
+
+25
+
+boundaries that we've discussed or it only covers
+
+15
+
+Alderson Reporting Company
+
+Official
+
+1
+
+special spacings of the electrodes that are a result of 
+
+2
+
+trial and error in order to achieve the desired result. 
+
+3
+
+Those are hugely different claim scopes and that ­­ that 
+
+4
+
+uncertainty between those two is what would chill 
+
+5
+
+innovation. 
+
+6
+
+ JUSTICE SOTOMAYOR: 
+
+Did you ­­ did you 
+
+7
+
+proffer any evidence below showing that a person with 
+
+8
+
+ordinary skill in the art did not understand what this 
+
+9
+
+claim meant?  Your brief seems to rely only on the 
+
+10
+
+dispute between the majority and the concurrence.  But 
+
+11
+
+was there ­­ did you proffer any evidence below? 
+
+12
+
+ MR. VANDENBERG: 
+
+Your Honor, we did not 
+
+13
+
+proffer our own experts.  The ­­ the evidence below 
+
+14
+
+included that Biosig's own expert asserted that each of 
+
+15
+
+the competing constructions was reasonable, in essence. 
+
+16
+
+More specifically, he said that ­­ this was Dr. 
+
+17
+
+Gannoulas said at Joint Appendix 274 ­­ that "The person 
+
+18
+
+of skill in the art could readily discern the trial 
+
+19
+
+court's construction of spaced relationship."  The trial 
+
+20
+
+court's construction was any spacing. 
+
+21
+
+ Then the expert went on and said, "The 
+
+22
+
+person of skill in the art could easily discern the 
+
+23
+
+claim scope because the EMG signals have to be 
+
+24
+
+substantially removed."  That was the competing 
+
+25
+
+functional construction of spaced relationship.  So
+
+16
+
+Alderson Reporting Company
+
+Official
+
+1
+
+their own expert supported both of these competing 
+
+2
+
+constructions and the reason they were comfortable doing 
+
+3
+
+that is because ­­
+
+4
+
+ JUSTICE SOTOMAYOR: 
+
+Now, I have a really big 
+
+5
+
+problem, which is we as Justices disagree on the meaning 
+
+6
+
+of things all the time, and one side will say, this is 
+
+7
+
+perfectly clear from the text of the statute, from 
+
+8
+
+its ­­ from its history, from its context.  And we do 
+
+9
+
+all the statutory tools, and  there’ll be one or more 
+
+10
+
+of us who will come out and say, no, we think it's a 
+
+11
+
+different interpretation.  Would we have any valid 
+
+12
+
+patents in the world if that's the standard that we ­­
+
+13
+
+that we adopt?  That if any judge on a panel thinks that 
+
+14
+
+there's another interpretation, that that's sufficient 
+
+15
+
+to invalidate a patent as indefinite? 
+
+16
+
+ MR. VANDENBERG: 
+
+Your Honor, we are not 
+
+17
+
+taking the position that because the judges below 
+
+18
+
+disagreed on the construction, that that is dispositive 
+
+19
+
+or proves ambiguity in the claim.  We ­­ we did say the 
+
+20
+
+fact that Biosig itself took both competing 
+
+21
+
+constructions as the need arose ­­
+
+22
+
+ JUSTICE SOTOMAYOR: 
+
+But the majority ­­ but 
+
+23
+
+the majority here said that it was clear from the 
+
+24
+
+prosecution history, the specifications, and the 
+
+25
+
+description that this was definite.  I don't know on
+
+17
+
+Alderson Reporting Company
+
+Official
+
+1
+
+what basis I would have to overturn their review of that 
+
+2
+
+issue. 
+
+3
+
+ MR. VANDENBERG: 
+
+Well, that ­­ that Biosig 
+
+4
+
+has taken both claim constructions.  We've not seen them 
+
+5
+
+assert that either claim construction was unreasonable. 
+
+6
+
+The majority did not find the concurrence's construction 
+
+7
+
+unreasonable.  Nor did it find the trial court's 
+
+8
+
+construction unreasonable.  Their experts took both 
+
+9
+
+positions.  So we have a claim that on its face ­­ I 
+
+10
+
+mean, the starting point is looking at the patent, of 
+
+11
+
+course, not what judges or experts or parties said 
+
+12
+
+later.  The patent on its face is grammatically 
+
+13
+
+ambiguous.  There is a whereby clause dangling in the 
+
+14
+
+middle of the claim that says whereby something good 
+
+15
+
+happens. 
+
+16
+
+ JUSTICE SCALIA: 
+
+Yes.  We understand all 
+
+17
+
+that.  I ­­ I'm still having trouble understanding what 
+
+18
+
+your standard is.  You ­­ you agree that your standard 
+
+19
+
+is not, there is a right answer and everything that is 
+
+20
+
+not the right answer is unreasonable.  That's not your 
+
+21
+
+position. 
+
+22
+
+ MR. VANDENBERG: 
+
+That's right, Your Honor. 
+
+23
+
+ JUSTICE SCALIA: 
+
+Right? 
+
+24
+
+ MR. VANDENBERG: 
+
+Right. 
+
+25
+
+ JUSTICE SCALIA: 
+
+Okay.  Then you invoke
+
+18
+
+Alderson Reporting Company
+
+Official
+
+1
+
+Chevron.  Do you mean that anything that would pass 
+
+2
+
+Chevron's step one is okay? 
+
+3
+
+ MR. VANDENBERG: 
+
+Your Honor ­­
+
+4
+
+ JUSTICE SCALIA: 
+
+That is, if it would pass 
+
+5
+6
+
+Chevron's step one it's ambiguous. 
+ MR. VANDENBERG: 
+
+Well, if ­­ let me be clear 
+
+7
+
+about "pass."  If it's ambiguous under Chevron step one, 
+
+8
+
+then that is a close parallel to being ambiguous 
+
+9
+
+under ­­ under Section 112, paragraph 2.  But again, our 
+
+10
+
+starting point, of course, is not Chevron.  It's the 
+
+11
+
+statutory text, which ­­ and the standard we submit is 
+
+12
+
+to assert ­­ I'm sorry, to enforce the statutory text by 
+
+13
+
+its plain terms. 
+
+14
+
+ JUSTICE KENNEDY: 
+
+Would this ­­ would this 
+
+15
+
+help?  Do you agree that the standard at the PTO, and 
+
+16
+
+let's say that it's whether or not ­­ the claim is 
+
+17
+
+definite if a person skilled in the art would be 
+
+18
+
+reasonably certain of its scope.  Is the standard used 
+
+19
+
+by the PTO the same standard that the CA Fed ought to 
+
+20
+
+use? 
+
+21
+
+ MR. VANDENBERG: 
+
+Yes, it is, Your Honor. 
+
+22
+
+ JUSTICE KENNEDY: 
+
+All right.  How does ­­
+
+23
+
+that's a sensible answer, I think.  Now, how does the 
+
+24
+
+presumption of validity bear on ­­ on the application of 
+
+25
+
+the ­­ of that same standard in the court of appeals?
+
+19
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ MR. VANDENBERG: 
+
+The presumption of validity 
+
+2
+
+certain applies to this defense.  It requires the 
+
+3
+
+challenger to raise the defense, to preserve the 
+
+4
+
+defense, you know, plead it as affirmative defense, to make the 
+
+5
+
+initial argument as to why the claim is ­­
+
+6
+7
+8
+9
+
+ JUSTICE KENNEDY: 
+
+Doesn't that imply some 
+
+deference on findings of fact? 
+ MR. VANDENBERG: 
+
+Your Honor, it would be 
+
+rare for there to be, in an indefiniteness case, to be 
+
+10
+
+any underlying finding of fact.  The ­­ the issue of 
+
+11
+
+indefiniteness is really subsidiary. 
+
+12
+13
+
+ JUSTICE KENNEDY: 
+
+Does it imply ­­ what sort 
+
+of deference does it accord to the PTO? 
+
+14
+
+ MR. VANDENBERG: 
+
+15
+
+ JUSTICE KENNEDY: 
+
+If indeed ­­
+That is, the presumption 
+
+16
+
+of validity, does that accord some deference to the PTO? 
+
+17
+
+And how would that apply or not apply here? 
+
+18
+
+ MR. VANDENBERG: 
+
+It would apply ­­ it does 
+
+19
+
+not apply in this case.  There are no fact findings out 
+
+20
+
+of the Patent Office regarding indefiniteness.  But if 
+
+21
+
+there was ­­ the same indefiniteness issue came up and 
+
+22
+
+the Patent Office found, for instance, that a term of 
+
+23
+
+art, so let's say nanotechnology, biotechnology term of art 
+
+24
+
+had a particular meaning, then that fact­finding may be 
+
+25
+
+entitled to deference by the trial court.
+
+20
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ However, indefiniteness itself is a legal 
+
+2
+
+determination.  The Federal Circuit said that.  They 
+
+3
+
+review this.  They know ­­
+
+4
+5
+6
+
+ JUSTICE KENNEDY: 
+
+So there's no deference to 
+
+the PTO as to that legal interpretation. 
+ MR. VANDENBERG: 
+
+No, Your Honor, no more 
+
+7
+
+than there'd be deference to the Patent Office claim 
+
+8
+
+construction or any other legal decision. 
+
+9
+
+ JUSTICE KAGAN: 
+
+The ­­ the quotation that 
+
+10
+
+the Chief Justice read to you from the Solicitor 
+
+11
+
+General's brief referred to the use of prosecution 
+
+12
+
+history.  Do you agree with the Solicitor General about 
+
+13
+
+that use, about the permissibility of that use? 
+
+14
+
+ MR. VANDENBERG: 
+
+Yes, Your Honor, so long as 
+
+15
+
+the prosecution history that's being used to clarify 
+
+16
+
+existed at the date the patent issued. If the person of 
+
+17
+
+skill in the art again is supposed to be motivated to 
+
+18
+
+innovate around the patent the day it issues.  Here 
+
+19
+
+there is a re­examination prosecution history. 
+
+20
+
+Sometimes there is later prosecution history in a 
+
+21
+
+related patent.  That type of prosecution history 
+
+22
+
+shouldn't be used to sort of ex post facto cure an 
+
+23
+
+initial indefiniteness. 
+
+24
+
+ But putting aside that rare instance, yes, 
+
+25
+
+the prosecution history and the specification are part
+
+21
+
+Alderson Reporting Company
+
+Official
+
+1
+
+of the interpretive tools that are available and would 
+
+2
+
+be used. 
+
+3
+
+ I think it's important to remember here that 
+
+4
+
+there is no legitimate need or excuse for ambiguity in 
+
+5
+
+patent claims.  Once the applicant has satisfied 
+
+6
+
+paragraph one and its strict requirements for describing 
+
+7
+
+the invention, it is easy to claim the invention 
+
+8
+
+particularly and distinctly.  The only reason that there 
+
+9
+
+are so many ambiguous claims out there today is that 
+
+10
+
+patent attorneys are trained to deliberately include 
+
+11
+
+ambiguous claims.  Ambiguous claims make the patent 
+
+12
+
+monopoly more valuable.  Every patent attorney knows 
+
+13
+
+that. 
+
+14
+
+ JUSTICE GINSBURG: 
+
+The government tells us 
+
+15
+
+there are some 22,000 patent grants since 1976 that use 
+
+16
+
+the term "spaced relationship."  I suppose many of those 
+
+17
+
+would fail your test? 
+
+18
+
+ MR. VANDENBERG: 
+
+Not likely, Your Honor.  It 
+
+19
+
+would be highly unlikely in more than 99 percent of 
+
+20
+
+those cases that there'd be any uncertainty of what 
+
+21
+
+"spaced relationship" meant.  The problem here is not 
+
+22
+
+those words.  It's the grammatical ambiguity in the 
+
+23
+
+claim.  It's the fact that the specification did not 
+
+24
+
+describe, even arguably, the invention.  That wasn't 
+
+25
+
+described, the trial and error spacing, until 15 years
+
+22
+
+Alderson Reporting Company
+
+Official
+
+1
+
+later, and that the patent specification has no concrete 
+
+2
+
+examples of embodiments inside the claim or outside the 
+
+3
+
+claim. 
+
+4
+
+ So we ask that the Court reaffirm its 
+
+5
+
+precedents in United Carbon, General Electric and Eibel 
+
+6
+
+Process.  Eibel Process upheld a claim that had vague 
+
+7
+
+sounding language.  The language was "high elevation," 
+
+8
+
+"substantial elevation," but it was upheld because that 
+
+9
+
+patent specification concretely described the invention, 
+
+10
+
+its theory of operation, concrete examples that came 
+
+11
+
+inside the claim scope, concrete examples that fell 
+
+12
+
+outside.  And that's why that patent satisfied the 
+
+13
+
+particular and distinct claiming requirement and this 
+
+14
+
+one does not. 
+
+15
+
+ I'll reserve the balance of my time. 
+
+16
+
+ CHIEF JUSTICE ROBERTS: 
+
+17
+
+ Mr. Harris. 
+
+18
+
+ ORAL ARGUMENT OF MARK D. HARRIS 
+
+19
+
+ ON BEHALF OF THE RESPONDENT 
+
+20
+
+ MR. HARRIS: 
+
+21
+
+please the Court: 
+
+22
+
+Thank you, counsel. 
+
+Mr. Chief Justice, and may it 
+
+ The decision of the Federal Circuit should 
+
+23
+
+be affirmed for two reasons:  First, that court 
+
+24
+
+correctly held that the test for definiteness is whether 
+
+25
+
+a claim puts a skilled artisan on reasonable notice of
+
+23
+
+Alderson Reporting Company
+
+Official
+
+1
+
+the boundaries of the invention, and secondly, whatever 
+
+2
+
+­­
+
+3
+
+ JUSTICE SCALIA: 
+
+If that's ­­ if that's what 
+
+4
+
+it held we wouldn't have taken this case.  I thought we 
+
+5
+
+took it because it had some really extravagant language. 
+
+6
+7
+8
+9
+10
+11
+
+ MR. HARRIS: 
+
+The court, the court below used 
+
+the word ­­
+ JUSTICE SCALIA: 
+
+I mean, it's one thing to 
+
+run away from that language, as your brief does.  It's 
+another thing to deny that it exists. 
+ MR. HARRIS: 
+
+Justice Scalia, we are not 
+
+12
+
+denying that those words exist, "insolubly ambiguous," 
+
+13
+
+but what I think this court below, the Federal Circuit, 
+
+14
+
+in this case explained, and it's explained consistently, 
+
+15
+
+is that that ­­ those two words are not the test all by 
+
+16
+
+themselves.  In this very case ­­
+
+17
+
+ JUSTICE KENNEDY: 
+
+You would agree, I take 
+
+18
+
+it, that if, was it, "insolubly ambiguous" were the 
+
+19
+
+standard that the court used, that we should reverse? 
+
+20
+
+ MR. HARRIS: 
+
+If there were no other context 
+
+21
+
+and only those words alone would be used, it seems that 
+
+22
+
+some district courts might misinterpret those words, as 
+
+23
+
+the Solicitor General has mentioned, but ­­
+
+24
+25
+
+ CHIEF JUSTICE ROBERTS: 
+
+So it was fair, as I 
+
+suggested earlier, nobody agrees with that formulation;
+
+24
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+right? 
+ MR. HARRIS: 
+
+Yes, I guess so, Your Honor. 
+
+3
+
+But I want to ­­ I just want to clarify what that point 
+
+4
+
+is.  What the Federal Circuit said below, the full 
+
+5
+
+statement of its test that it was applying in this case, 
+
+6
+
+was:  If reasonable efforts at claim construction result 
+
+7
+
+in a definition that does not provide sufficient 
+
+8
+
+particularity and clarity to inform skilled artisans of 
+
+9
+
+the bounds of the claim, the claim is insolubly 
+
+10
+
+ambiguous and invalid for indefiniteness.  There is no 
+
+11
+
+suggestion that the court ­­
+
+12
+
+ JUSTICE SOTOMAYOR: 
+
+There is a subtle ­­ no, 
+
+13
+
+there is, if you read that language carefully.  It seems 
+
+14
+
+to be saying that what has to be reasonably definite is 
+
+15
+
+the court's construction, and it takes the emphasis away 
+
+16
+
+from whether a skilled ­­ someone skilled in the art 
+
+17
+
+would be definite.  There is a big difference between 
+
+18
+
+can I read this and give it a construction and whether 
+
+19
+
+or not a construction is definite enough so someone 
+
+20
+
+skilled in the art could understand it. 
+
+21
+
+ MR. HARRIS: 
+
+We would completely agree that 
+
+22
+
+the test needs to include what the skilled artisan would 
+
+23
+
+have understood at the time. 
+
+24
+
+ JUSTICE SOTOMAYOR: 
+
+25
+
+That's my problem with 
+
+the Federal Circuit's articulation and as you read its
+
+25
+
+Alderson Reporting Company
+
+Official
+
+1
+
+decisions.  Its focus is not always on that question. 
+
+2
+
+Its focus seems to be on the reasonableness of its 
+
+3
+
+construction, as opposed to the reasonableness of a 
+
+4
+
+skilled artisan's or whether skilled, someone skilled in 
+
+5
+
+the art could reasonably construe the scope of this 
+
+6
+
+patent. 
+
+7
+
+ MR. HARRIS: 
+
+But I think it's quite clear 
+
+8
+
+from the way the Federal Circuit actually applied the 
+
+9
+
+standard in this case that the Federal Circuit was 
+
+10
+
+looking to what the evidence was as to what skilled 
+
+11
+
+artisans would do with this claim language.  If anything 
+
+12
+
+it's Nautilus that's arguing that it doesn't seem to 
+
+13
+
+matter what a skilled artisan thought at the time. 
+
+14
+
+ JUSTICE SOTOMAYOR: 
+
+So what do you see as 
+
+15
+
+the difference?  He says that the concurrence's 
+
+16
+
+definition is different from the majority's.  The 
+
+17
+
+government ­­ explain ­­ I read your brief.  I know what 
+
+18
+
+you think the difference is, but ­­
+
+19
+20
+21
+22
+
+ MR. HARRIS: 
+
+Well, between the majority and 
+
+the concurrence below, first, we don't think ­­
+ JUSTICE SOTOMAYOR: 
+
+difference in scope, so address that. 
+
+23
+
+ MR. HARRIS: 
+
+24
+
+ JUSTICE SOTOMAYOR: 
+
+25
+
+He says there is a 
+
+Yes. 
+Why don't you see that 
+
+as being a difference of importance?
+
+26
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ MR. HARRIS: 
+
+It would be a difference if 
+
+2
+
+there were a difference in scope, but there isn't one. 
+
+3
+
+I think it's very important to look at what the majority 
+
+4
+
+and the concurrence actually did.  The majority was 
+
+5
+
+addressing definiteness.  The majority did that in two 
+
+6
+
+steps.  The majority said we are going to apply the 
+
+7
+
+principles of claim construction.  The first thing it 
+
+8
+
+did was it looked to the claim language, the written 
+
+9
+
+specification, the diagrams, all the traditional tools 
+
+10
+
+of patent interpretation.  It said there is definiteness 
+
+11
+
+here because there are bounds to the spaced 
+
+12
+
+relationship.  It isn't just anything, it has to be 
+
+13
+
+greater than zero, it has to be less than the width of a 
+
+14
+
+hand.  It's implicit in the ­­ actually explicit in the 
+
+15
+
+statements of the patent. 
+
+16
+
+ Then it said that the functional limitation, 
+
+17
+
+which is the whereby clause in the patent, sheds 
+
+18
+
+additional light.  That's where the concurrence got off 
+
+19
+
+the train and the concurrence said:  I don't think we 
+
+20
+
+need to reach that issue.  Nautilus has turned that 
+
+21
+
+approach on its head.  Nautilus says that the fact that 
+
+22
+
+the concurrence didn't think it was necessary to reach 
+
+23
+
+the functional limitation, in fact said that it's not 
+
+24
+
+before us for procedural reasons, Nautilus reads that as 
+
+25
+
+if the concurrence was somehow disavowing or disclaiming
+
+27
+
+Alderson Reporting Company
+
+Official
+
+1
+
+the majority's approach.  It never said that.  It was a 
+
+2
+
+procedural argument that it had.  Then, in fact, there 
+
+3
+
+is no disagreement between the majority and the 
+
+4
+
+concurrence. 
+
+5
+
+ JUSTICE SCALIA: 
+
+Would this patent be valid 
+
+6
+
+if the concurrence's approach prevailed?  It wouldn't 
+
+7
+
+work, would it?  It would not work.  The mere fact that 
+
+8
+
+you spaced it somewhere where the hands can touch it 
+
+9
+
+would not necessarily produce the result, would it? 
+
+10
+11
+
+ MR. HARRIS: 
+
+If the patent said nothing 
+
+other than there is a space between ­­
+
+12
+
+ JUSTICE SCALIA: 
+
+13
+
+ MR. HARRIS: 
+
+That's all the claim said. 
+Well, no, no, Justice Scalia. 
+
+14
+
+The whereby clause explicitly said ­­ it described the 
+
+15
+
+structure.  This case is quite different from General 
+
+16
+
+Electric, where there was no structure being given.  It 
+
+17
+
+said that there is going ­­ there are going to be EMG 
+
+18
+
+signals that are going to be detected by the electrodes. 
+
+19
+
+ JUSTICE SCALIA: 
+
+20
+
+ MR. HARRIS: 
+
+Right. 
+Then those signals, which will 
+
+21
+
+be detected as equal, are going to be fed into a 
+
+22
+
+differential amplifier and thereby subtracted or 
+
+23
+
+canceled out. 
+
+24
+25
+
+ JUSTICE SCALIA: 
+
+Whereby.  Whereby.  I would 
+
+read that as saying so long as you put the spacing at
+
+28
+
+Alderson Reporting Company
+
+Official
+
+1
+
+some point where the hands can touch it and they are not 
+
+2
+
+touching, that will produce the result that the signals 
+
+3
+
+will be equalized.  That's how I would read the claim. 
+
+4
+
+ MR. HARRIS: 
+
+Well, in fact, if the 
+
+5
+
+electrodes are configured in such a way that they 
+
+6
+
+detected the signals as equal ­­
+
+7
+
+ JUSTICE SCALIA: 
+
+8
+
+ MR. HARRIS: 
+
+9
+
+ JUSTICE SCALIA: 
+
+No, no. 
+­­ it would produce that. 
+No.  Yes, I understand 
+
+10
+
+that, but that's not what it says.  It doesn't say space 
+
+11
+
+the electrodes in such a manner that the signals coming 
+
+12
+
+from each side will be equal and you'll have to do this 
+
+13
+
+by trial and error.  That's not what it says.  It just 
+
+14
+
+says, you know, keep the electrodes apart.  They have to 
+
+15
+
+be apart so that the hands don't touch, and on the other 
+
+16
+
+hand they can't be outside the scope of what the hands 
+
+17
+
+grip.  That's all it says.  Whereby, if you do that, the 
+
+18
+
+signals will be equalized.  That's ­­ that's how I would 
+
+19
+
+read it.  It wouldn't work that way, would it? 
+
+20
+
+ MR. HARRIS: 
+
+It wouldn't work if it gave no 
+
+21
+
+specifics.  But this is where the fact that it all 
+
+22
+
+depends on what the skilled artisan would do is 
+
+23
+
+critical.  Because there was uncontested evidence that a 
+
+24
+
+skilled artisan in 1992 was able to read this patent and 
+
+25
+
+understand how to put together this invention in such a
+
+29
+
+Alderson Reporting Company
+
+Official
+
+1
+
+way that it worked.  In fact, Dr. Galiana's research 
+
+2
+
+assistant did it, in 2 hours was able to build this 
+
+3
+
+invention based on the diagrams. 
+
+4
+
+ JUSTICE BREYER: 
+
+I'm a little confused here. 
+
+5
+
+Imagine there are two kinds of electrodes, a blue one 
+
+6
+
+and a green one, and you have to have a blue one and 
+
+7
+
+green one on left hand and a blue one and green one on 
+
+8
+
+right hand.  And now, you cannot let them touch.  The 
+
+9
+
+blue can't touch the green.  I got that.  And suppose on 
+
+10
+
+your left hand you put the blue one here and the green 
+
+11
+
+one there.  And in the right hand, you put the blue in 
+
+12
+
+here and the green in here.  See, they're not touching, 
+
+13
+
+but they're different distances from each other in the 
+
+14
+
+two hands.  Does it work or not? 
+
+15
+16
+17
+18
+
+ MR. HARRIS: 
+
+If the distances on the two 
+
+sides ­­
+ JUSTICE BREYER: 
+that one hand. 
+
+19
+
+ MR. HARRIS: 
+
+20
+
+ JUSTICE BREYER: 
+
+21
+22
+23
+24
+25
+
+Look, look.  This is like 
+
+Yes. 
+And this one's like the 
+
+other hand.  Okay?  So does it work or not? 
+ MR. HARRIS: 
+
+I don't ­­ I don't know 
+
+whether ­­
+ JUSTICE SCALIA: 
+
+Let the record show that 
+
+the Justice is holding his fingers in the air.
+
+30
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ (Laughter.) 
+
+2
+
+ JUSTICE BREYER: 
+
+All right.  Look, on the 
+
+3
+
+green one is two inches ­­ the space between the green 
+
+4
+
+one and the right one is like a half inch for the left 
+
+5
+
+hand, and it's like one inch for the right hand.  Okay? 
+
+6
+
+Does it work? 
+
+7
+
+ MR. HARRIS: 
+
+If I could answer that 
+
+8
+
+question, Justice Breyer, in a ­­ in a more roundabout 
+
+9
+
+way.  What the ­­
+
+10
+11
+
+ JUSTICE BREYER: 
+
+It was asked in a pretty 
+
+roundabout way. 
+
+12
+
+ (Laughter.) 
+
+13
+
+ MR. HARRIS: 
+
+What the uncontested evidence 
+
+14
+
+showed was that a skilled artisan at the time knew how 
+
+15
+
+to space electrodes. 
+
+16
+
+ JUSTICE BREYER: 
+
+Then did he know that they 
+
+17
+
+had to be ­­ like if you put it two inches across here, 
+
+18
+
+so there are two inches between them, and over here it's 
+
+19
+
+like a half inch between them, did he know it did work 
+
+20
+
+or did he know it didn't work? 
+
+21
+
+ MR. HARRIS: 
+
+22
+
+ JUSTICE BREYER: 
+
+23
+24
+25
+
+He would know by ­­
+He knew if it worked, but I 
+
+want to know if it does work. 
+ MR. HARRIS: 
+
+It probably would not work in 
+
+that situation.
+
+31
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ JUSTICE BREYER: 
+
+Okay.  Now, as soon as you 
+
+2
+
+say that, that's his point.  His point is that when I 
+
+3
+
+read it ­­ I guess that's the point that's being made. 
+
+4
+
+When I read it, it just seems to me that the green one 
+
+5
+
+can't touch the blue one, and the whole thing has to fit 
+
+6
+
+within your hand, so each of them catches a finger.  And 
+
+7
+
+he's saying that isn't good enough.  That doesn't work. 
+
+8
+
+They have to be the same distance.  And what that 
+
+9
+
+distance is, this document doesn't tell us.  And it 
+
+10
+
+doesn't even tell us they have to be the same distance. 
+
+11
+
+So therefore, since it doesn't tell us that, it's 
+
+12
+
+ambiguous.  Is that the correct argument?  All right. 
+
+13
+
+We think it's the correct argument.  So now, what's your 
+
+14
+
+answer? 
+
+15
+
+ MR. HARRIS: 
+
+This Court has never found a 
+
+16
+
+problem with the need for some amount of experimentation 
+
+17
+
+in order to get the parameters exactly right. 
+
+18
+
+ JUSTICE BREYER: 
+
+It doesn't even say that. 
+
+19
+
+It doesn't even say that.  It doesn't say go experiment 
+
+20
+
+whether somebody with great big fingers on one hand and 
+
+21
+
+tiny little fingers on the other hand ­­
+
+22
+
+ MR. HARRIS: 
+
+In ­­ in Eibel Process, this 
+
+23
+
+Court faced ­­ as Mr. Vandenberg mentioned ­­ faced a 
+
+24
+
+case in which a method of manufacturing paper, all it 
+
+25
+
+said was that the angle of the supply of the pulp had to
+
+32
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+be high.  Didn't say anything more than that. 
+ CHIEF JUSTICE ROBERTS: 
+
+Is it part of an 
+
+3
+
+answer to Justice Breyer's question that the diagram 
+
+4
+
+shows them equally spaced or is that not relevant? 
+
+5
+
+ MR. HARRIS: 
+
+I don't think the equal spacing 
+
+6
+
+is the only issue, Mr. Chief Justice.  The issue is how 
+
+7
+
+do you find what that spacing is.  And the answer, the 
+
+8
+
+uncontested answer, is that skilled artisans were able 
+
+9
+
+to do that very quickly.  It's not trial and error as if 
+
+10
+
+it's throwing darts and just seeing what might work. 
+
+11
+
+It's just like tuning a radio.  Just happen to move 
+
+12
+
+things around in order you get that ­­
+
+13
+
+ JUSTICE KAGAN: 
+
+14
+
+ JUSTICE SCALIA: 
+
+Why doesn't that ­­
+You know, I can understand 
+
+15
+
+that if the claim said that.  If the claim said, you 
+
+16
+
+know, fiddle with it until it works.  But it doesn't say 
+
+17
+
+that.  It just says, you know, spacing, and I would 
+
+18
+
+think so long as there's space, they don't touch, and 
+
+19
+
+they're no more than the widths of the hands, it'll 
+
+20
+
+work.  It doesn't say that.  I don't think the "whereby" 
+
+21
+
+is ­­ is an invitation to experiment. 
+
+22
+23
+24
+25
+
+ But the other case you were talking about, 
+tell us more about it.  It just said a high angle. 
+ MR. HARRIS: 
+
+It's at a high angle.  Minerals 
+
+Separation maybe is even a stronger case.  In Minerals
+
+33
+
+Alderson Reporting Company
+
+Official
+
+1
+
+Separation, it was a method for extracting ore from ­­
+
+2
+
+metal ­­ metallic ore from ­­
+
+3
+
+ JUSTICE SOTOMAYOR: 
+
+Why are you ­­ why are 
+
+4
+
+you running from ­­ the working here is that it cancels 
+
+5
+
+out a signal, correct? 
+
+6
+
+ MR. HARRIS: 
+
+7
+
+ JUSTICE SOTOMAYOR: 
+
+Yes. 
+And so what the majority 
+
+8
+
+said is that that function is part of the understanding 
+
+9
+
+of the spacing.  Isn't that what the majority said? 
+
+10
+
+ MR. HARRIS: 
+
+It said that an additional 
+
+11
+
+constraint on the spacing is the fact that it has ­­
+
+12
+
+that it will work in a certain way. 
+
+13
+
+ JUSTICE SOTOMAYOR: 
+
+So I don't know whether 
+
+14
+
+it has to be equal spacing or one could be one inch and 
+
+15
+
+the other half an inch apart.  The bottom line is that 
+
+16
+
+to work, it has to cancel out, that that's part of the 
+
+17
+
+scope. 
+
+18
+
+ MR. HARRIS: 
+
+19
+
+ JUSTICE SOTOMAYOR: 
+
+Yes.  Yes. 
+Now, the concurrence 
+
+20
+
+said, no, you don't have ­­ you can't ­­ I'm not looking 
+
+21
+
+at the specification. 
+
+22
+
+ MR. HARRIS: 
+
+23
+
+ JUSTICE SOTOMAYOR: 
+
+24
+25
+
+Yes. 
+I think it's definite 
+
+without it. 
+ MR. HARRIS: 
+
+Yes.
+
+34
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ JUSTICE SOTOMAYOR: 
+
+All right.  I don't see 
+
+2
+
+how it could be.  That's what I think Justice Scalia is 
+
+3
+
+saying and Justice Breyer is saying, that if we don't 
+
+4
+
+understand what the purpose is, how can that spacing be 
+
+5
+
+definite enough to make this thing work. 
+
+6
+
+ So tell us why you think that the 
+
+7
+
+concurrence's interpretation is wrong.  What's he 
+
+8
+
+missing? 
+
+9
+
+ MR. HARRIS: 
+
+The word ­­ when ­­ when it 
+
+10
+
+says "whereby," the whereby means the elements that came 
+
+11
+
+before are going to produce that result. 
+
+12
+
+ JUSTICE SOTOMAYOR: 
+
+13
+
+ MR. HARRIS: 
+
+Mm­hmm. 
+There's never been a problem 
+
+14
+
+with the fact that a ­­ some amount of 
+
+15
+
+experimentation ­­ I hate to even call it that because 
+
+16
+
+it's really just tuning dials on a radio ­­ may be 
+
+17
+
+needed in order to get the exact number, the exact 
+
+18
+
+setting. 
+
+19
+20
+21
+
+ JUSTICE SOTOMAYOR: 
+
+Result that the 
+
+specification ­­
+ MR. HARRIS: 
+
+But what the whereby clause 
+
+22
+
+says, it ­­ it conveys a structure.  It says they have 
+
+23
+
+to be detected, the signals, in such a way that they're 
+
+24
+
+equal.  That normally wouldn't be the case.  In all the 
+
+25
+
+devices that existed up to that time, they wouldn't be
+
+35
+
+Alderson Reporting Company
+
+Official
+
+1
+
+equal.  Signals would come in from the right and the 
+
+2
+
+left hand that during exercise would be unequal, because 
+
+3
+
+when a person is running or moving, the right hand and 
+
+4
+
+left hand have different amounts of contact with the 
+
+5
+
+electrodes. 
+
+6
+
+ The whole novelty of this was the fact that 
+
+7
+
+you didn't have to cancel EMG signals, what we call 
+
+8
+
+downstream, meaning by just filtering them out.  They 
+
+9
+
+could be detected in such a way that they would be equal 
+
+10
+11
+12
+13
+
+and then be cancelled. 
+ JUSTICE KAGAN: 
+
+Why didn't the patent 
+
+provide more specificity as to the exact spacing? 
+ MR. HARRIS: 
+
+Because like Eibel Process and 
+
+14
+
+like Mineral Separation, it wasn't possible.  It 
+
+15
+
+depended on too many variables.  It depended ­­ the 
+
+16
+
+actual spacing in every single instance would depend on 
+
+17
+
+four variables.  This was made clear in the expert 
+
+18
+
+declarations.  The size of the electrode, the shape of 
+
+19
+
+the electrode, the spacing between the electrodes, and 
+
+20
+
+the materials, those four things.  Just like in Eibel 
+
+21
+
+Process, what the Court said was, you may not know in 
+
+22
+
+advance what it is.  But a skilled artisan will know. 
+
+23
+
+ JUSTICE GINSBURG: 
+
+What about the apparatus 
+
+24
+
+on which the electrodes are mounted?  Isn't that another 
+
+25
+
+variable way you can't say half an inch, because it
+
+36
+
+Alderson Reporting Company
+
+Official
+
+1
+
+depends, as you said, on size, shape, and materials of 
+
+2
+
+the electrodes.  But doesn't it also depend on the 
+
+3
+
+apparatus? 
+
+4
+
+ MR. HARRIS: 
+
+Yes.  Yes, it does.  It does. 
+
+5
+
+The critical point is that there's no question that a 
+
+6
+
+skilled artisan knew how to do this.  They've introduced 
+
+7
+
+no evidence that a skilled artisan didn't know this.  In 
+
+8
+
+fact, their entire argument is based on attorneys coming 
+
+9
+
+up with arguments later. 
+
+10
+
+ CHIEF JUSTICE ROBERTS: 
+
+What ­­ what about 
+
+11
+
+the case that he postulated, an abstract one, where you 
+
+12
+
+have two perfectly reasonable constructions.  What ­­
+
+13
+
+what happens then? 
+
+14
+
+ MR. HARRIS: 
+
+If there are two constructions, 
+
+15
+
+each of which has survived the Markman claim 
+
+16
+
+construction process, and each one of them does the 
+
+17
+
+things that Markman says the correct construction needs 
+
+18
+
+to do, which is that it fully comports with the 
+
+19
+
+instrument as a whole and it preserves the patent's 
+
+20
+
+internal coherence, then yes, we would agree in that 
+
+21
+
+case it's indefinite.  But what they've put forward ­­
+
+22
+
+ JUSTICE KAGAN: 
+
+Doesn't Markman exist for a 
+
+23
+
+different purpose?  I thought that Markman existed in 
+
+24
+
+order to explain things to a lay juror or a lay judge. 
+
+25
+
+Why should the Markman test be used in this context,
+
+37
+
+Alderson Reporting Company
+
+Official
+
+1
+
+where we're trying to figure out a different question 
+
+2
+
+entirely? 
+
+3
+
+ MR. HARRIS: 
+
+Well, I ­­ I'm not sure I agree 
+
+4
+
+with the premise, Your Honor.  The Markman explained 
+
+5
+
+that the nature of the test may need to be ­­ or the 
+
+6
+
+nature of the process may need to be necessarily 
+
+7
+
+sophisticated.  It's a hard thing to construe ­­ to 
+
+8
+
+construe claims, and we ­­ it depends critically on the 
+
+9
+
+abilities of the skilled artisan to do that. 
+
+10
+
+ Just to return to that ­­ to that ­­ to the 
+
+11
+
+point again, because I think it's such an important 
+
+12
+
+point.  All they're relying on here are attorney 
+
+13
+
+arguments.  In fact, this morning, just now, 
+
+14
+
+Mr. Vandenberg mentioned that the ambiguity isn't even 
+
+15
+
+in the words "space relationship."  This is the first 
+
+16
+
+time I ever heard that.  It's actually somehow in the 
+
+17
+
+whereby clause.  That argument was never made at any 
+
+18
+
+time below or up until now. 
+
+19
+
+ And the reason that's critical ­­ I'm not 
+
+20
+
+arguing waiver ­­ but the reason that's critical is the 
+
+21
+
+rule that Nautilus is suggesting here will encourage 
+
+22
+
+attorneys years after infringement has occurred to just 
+
+23
+
+come up with some way to argue that there is something 
+
+24
+
+that's unclear in the patent. 
+
+25
+
+ CHIEF JUSTICE ROBERTS: 
+
+38
+
+Alderson Reporting Company
+
+Could I ­­ could I
+
+Official
+
+1
+
+just go back to my ­­ you know, the two reasonable.  Is 
+
+2
+
+there a range?  The Chevron ­­ the Chevron analogy again 
+
+3
+
+comes to mind.  Let's say one is more reasonable than 
+
+4
+
+the other, but they're both reasonable.  What type of 
+
+5
+
+range do you have before you say that the patent is 
+
+6
+
+invalid? 
+
+7
+
+ MR. HARRIS: 
+
+I think I agree with the 
+
+8
+
+comments that were ­­ the questions that were asked 
+
+9
+
+before, that it's very common in matters of statutory 
+
+10
+
+interpretation to have different answers, some of which 
+
+11
+
+are reasonable but are incorrect.  We hold ­­ we believe 
+
+12
+
+that the test requires that the ­­ if there's ­­ there 
+
+13
+
+has to be more than one correct construction before it's 
+
+14
+
+going to be indefinite.  If it only depends on the fact 
+
+15
+
+that there are reasonable interpretations that are made 
+
+16
+
+in good faith that lawyers are arguing or that jurists 
+
+17
+
+have come to, that's not going to be enough.  Any more 
+
+18
+
+than it is ­­
+
+19
+
+ JUSTICE SCALIA: 
+
+There's never more than one 
+
+20
+
+correct construction.  Even ­­ even when there is there 
+
+21
+
+isn't.  I mean, we always have to come up with an 
+
+22
+
+answer.  And the patent office has to come up with an 
+
+23
+
+answer.  It means this or it doesn't mean this.  Have 
+
+24
+
+you ever heard of a court that says, well, you know, it 
+
+25
+
+could mean either one of these?
+
+39
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+ MR. HARRIS: 
+
+No.  In fact, I think ­­
+
+Justice ­­
+
+3
+
+ JUSTICE SCALIA: 
+
+4
+
+ (Laughter.) 
+
+5
+
+ MR. HARRIS: 
+
+It's a tie. 
+
+I ­­ I think that's the point. 
+
+6
+
+The point is that one of the constructions is going to 
+
+7
+
+be better.  All they have suggested here is that both 
+
+8
+
+constructions, somebody in good faith made. 
+
+9
+10
+
+ JUSTICE SCALIA: 
+time. 
+
+11
+
+ MR. HARRIS: 
+
+12
+
+ JUSTICE SCALIA: 
+
+13
+14
+
+So then you win all the 
+
+No. 
+There is no such thing as 
+
+ambiguity, because there is always a right answer. 
+ MR. HARRIS: 
+
+As this Court has said in the 
+
+15
+
+rule of lenity context, there can be situations where a 
+
+16
+
+statute isn't clear. A judge at the end ­­
+
+17
+
+ JUSTICE ALITO: 
+
+It sounds like you really 
+
+18
+
+are advocating the "insolubly ambiguous" standard, 
+
+19
+
+that's what you're saying.  Unless you have to throw up 
+
+20
+
+your hands at the end and you say, we can't figure out 
+
+21
+
+which one this means, there is no correct 
+
+22
+
+interpretation, unless that's the case, then the patent 
+
+23
+
+is valid. 
+
+24
+25
+
+ MR. HARRIS: 
+
+The premise of Markman is that 
+
+in most, if not all, cases or many, many, many cases
+
+40
+
+Alderson Reporting Company
+
+Official
+
+1
+
+where there is going to be real substantial disagreement 
+
+2
+
+between two parties, good faith disagreement where each 
+
+3
+
+side is supported by its reading of the materials, 
+
+4
+
+nevertheless, the court can come to an answer and should 
+
+5
+
+come to an answer. 
+
+6
+
+ I just want to mention quickly, this Court 
+
+7
+
+has had several cases where words appeared to be 
+
+8
+
+ambiguous on its face and yet the Court didn't have the 
+
+9
+
+trouble of applying them and interpreting them in the 
+
+10
+11
+
+patent context. 
+ Markman was a case about the word 
+
+12
+
+"inventory."  "Inventory" on its surface could mean 
+
+13
+
+either accounts receivable or the actual stuff.  In the 
+
+14
+
+Yeomans case, the word was "manufacture."  Does 
+
+15
+
+"manufacture" mean the result or does it mean the 
+
+16
+
+process? 
+
+17
+
+ JUSTICE ALITO: 
+
+Well, was the Federal 
+
+18
+
+Circuit wrong when it said the test should be insolubly 
+
+19
+
+ambiguous?  Was that wrong or not? 
+
+20
+
+ MR. HARRIS: 
+
+If "insolubly" means applying 
+
+21
+
+the standard tools of claim construction, then it's 
+
+22
+
+correct to say that that is what's required.  But that 
+
+23
+
+term, I think by some district courts, I'll acknowledge, 
+
+24
+
+may be misinterpreted to mean as long as we can come up 
+
+25
+
+with anything, and it makes it sound as if it's not
+
+41
+
+Alderson Reporting Company
+
+Official
+
+1
+
+necessary to actually tie it back to the language of the 
+
+2
+
+patent. 
+
+3
+
+ If the court is doing it the correct way 
+
+4
+
+that Markman prescribes, looking at all the patent 
+
+5
+
+materials and the prosecution history, if it can come to 
+
+6
+
+an answer, then we would agree that answer ­­ that the 
+
+7
+
+patent is definite. 
+
+8
+9
+
+ JUSTICE SOTOMAYOR: 
+
+Do you agree with your 
+
+adversary that the prosecution history is that at the 
+
+10
+
+time the patent was issued and not on re­examination or 
+
+11
+
+anything else subsequent? 
+
+12
+13
+14
+15
+16
+17
+18
+
+ MR. HARRIS: 
+
+I think in this case it comes 
+
+out the same. 
+ JUSTICE SOTOMAYOR: 
+
+No, no.  I didn't ask 
+
+that question. 
+ MR. HARRIS: 
+
+No, I think that the 
+
+prosecution history later also can count. 
+ JUSTICE SOTOMAYOR: 
+
+Explain that.  Because 
+
+19
+
+he says, and it seems logical, that you're going to 
+
+20
+
+stifle inventiveness if people can't, once the patent is 
+
+21
+
+issued, know how to get around it. 
+
+22
+
+ MR. HARRIS: 
+
+Well, let me clarify what I 
+
+23
+
+mean by that.  If evidence is introduced at a later 
+
+24
+
+stage during ­­ in, say, in re­examination, some of that 
+
+25
+
+evidence may be, it may be ­­ a court may be able to
+
+42
+
+Alderson Reporting Company
+
+Official
+
+1
+
+consider that at a later time as being relevant. 
+
+2
+
+ If I can finish the question. 
+
+3
+
+ CHIEF JUSTICE ROBERTS: 
+
+4
+
+ MR. HARRIS: 
+
+5
+
+ If the court ­­ in other words, if evidence, 
+
+You mean the answer? 
+
+Yes, the answer. 
+
+6
+
+as here, was introduced at re­examination about what 
+
+7
+
+skilled artisans knew at the time, the mere fact that it 
+
+8
+
+was introduced at a later stage is not a problem. 
+
+9
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, counsel. 
+
+10
+
+ MR. HARRIS: 
+
+11
+
+ CHIEF JUSTICE ROBERTS: 
+
+12
+
+ ORAL ARGUMENT OF CURTIS E. GANNON 
+
+13
+
+ ON BEHALF OF THE UNITED STATES, 
+
+14
+
+Mr. Gannon. 
+
+ AS AMICUS CURIAE, SUPPORTING RESPONDENTS 
+
+15
+
+ MR. GANNON: 
+
+16
+
+please the Court: 
+
+17
+
+Thank you. 
+
+Mr. Chief Justice and may it 
+
+ If I'll start with a question that the 
+
+18
+
+Chief Justice asked.  You’ve already recited the standard 
+
+19
+
+that we support here, which is that a patent claims is 
+
+20
+
+sufficiently definite under paragraph 2,if a person of 
+
+21
+
+ordinary skill in the art would reasonably understand 
+
+22
+
+the scope of the claim.  And I understand Petitioner's 
+
+23
+
+submission to be a dispute about what happens if there 
+
+24
+
+are two potentially reasonable constructions at the end 
+
+25
+
+of the Markman claim process.
+
+43
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ And we think that if there are two 
+
+2
+
+constructions that are of nearly equal persuasiveness, 
+
+3
+
+then that would be ambiguous.  But if one construction 
+
+4
+
+is appreciably better, then that is good enough without 
+
+5
+
+having to take the second step of saying that the second 
+
+6
+
+best construction that's not as good and appreciably not 
+
+7
+
+as good IS ­­ is also unreasonable.  We think that 
+
+8
+
+that's not the way this Court or judges ­­
+
+9
+
+ JUSTICE BREYER: 
+
+What worries me about that, 
+
+10
+
+which is certainly attractive, what you just say, is 
+
+11
+
+that lawyers will come up with all kinds of experts, you 
+
+12
+
+know.  And quite often, if this situation ever arises, 
+
+13
+
+and I don't know if it really ever does, it could 
+
+14
+
+reflect a difference of opinion among scientists.  I 
+
+15
+
+mean, you could have those who followed the phlogiston 
+
+16
+
+ theory of fire.  You could have those who 
+
+17
+
+follow the oxygen theory of fire.  All we have to do is 
+
+18
+
+update that, and you could find different experts who 
+
+19
+
+would have different opinions while all agreeing that it 
+
+20
+
+is absolutely clear. 
+
+21
+
+ I doubt that the Patent Office will very 
+
+22
+
+often find that problem arising.  And if it does, why 
+
+23
+
+not just say, forget about it?  As long as you can say 
+
+24
+
+reasonable experts can clearly ­­ you know, what you 
+
+25
+
+just said ­­ that's the end of it.  And we'll tell you
+
+44
+
+Alderson Reporting Company
+
+Official
+
+1
+
+what to do later, when we really find the problem or you 
+
+2
+
+tell us what to do.  I mean, I'm having a problem about 
+
+3
+
+it, and I'm explaining what my problem was. 
+
+4
+
+ MR. GANNON: 
+
+Well, I think that the question 
+
+5
+
+is what does it mean when the Court has demanded 
+
+6
+
+reasonable clarity or reasonable certainty, and that's 
+
+7
+
+the standard that we read in this Court's cases on 
+
+8
+
+definiteness. 
+
+9
+
+ JUSTICE BREYER: 
+
+Can't we just stop there? 
+
+10
+
+I mean, do we really have to go into this theoretical 
+
+11
+
+dispute between the two scientists, who have opposite 
+
+12
+
+theories of ­­
+
+13
+
+ MR. GANNON: 
+
+Well, I don't think it's a 
+
+14
+
+dispute between two scientists with opposite theories. 
+
+15
+
+The question of what a person of ordinary skill in the 
+
+16
+
+art would think, I think that a person of ordinary skill 
+
+17
+
+in the art is a hypothetical legal construct, like the 
+
+18
+
+reasonable person from tort law. 
+
+19
+
+ JUSTICE SCALIA: 
+
+When do we ever decide a 
+
+20
+
+case in which we would not say that our result is 
+
+21
+
+appreciably better than the result we reject? 
+
+22
+
+ MR. GANNON: 
+
+Well, I think that there are 
+
+23
+
+times when the Court would recognize that it's an 
+
+24
+
+authentically closer question. 
+
+25
+
+ JUSTICE SCALIA: 
+
+Well, it's still close, but
+
+45
+
+Alderson Reporting Company
+
+Official
+
+1
+
+not appreciably better.  If it's not appreciably better, 
+
+2
+
+we would have to say it's a draw. 
+
+3
+4
+5
+
+ MR. GANNON: 
+
+I don't think that the Court 
+
+has a unified field theory of ­­
+ JUSTICE SCALIA: 
+
+Well, I think the test 
+
+6
+
+you're giving us is not much of a test, it really isn't. 
+
+7
+
+It seems to me it says so long as there is a right 
+
+8
+
+answer, everything else is wrong. 
+
+9
+
+ MR. GANNON: 
+
+No, I think it says that as 
+
+10
+
+long as the right answer is appreciably better than the 
+
+11
+
+second best answer, that you do not have to take the 
+
+12
+
+second step of having to declare ­­
+
+13
+
+ JUSTICE SCALIA: 
+
+14
+
+ MR. GANNON: 
+
+15
+
+ JUSTICE SCALIA: 
+
+16
+
+ MR. GANNON: 
+
+How big is appreciable? 
+I don't ­­
+You don't know. 
+I think it's difficult to put a 
+
+17
+
+mathematical precise ­­ a mathematically precise number 
+
+18
+
+on it. 
+
+19
+
+ JUSTICE ALITO: 
+
+That's the whole problem 
+
+20
+
+with what you're ­­ with what you're saying.  I have no 
+
+21
+
+idea what "appreciable" means.  Let's say we have a 0 to 1 ­­
+
+22
+
+ MR. GANNON: 
+
+Something more like 60/40 than 
+
+23
+
+52/48.  And I think in general the Court recognizes the 
+
+24
+
+difficulty of that type of mathematical precision in 
+
+25
+
+applying tests like what it means to be clear and
+
+46
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+convincing. 
+ JUSTICE ALITO: 
+
+Usually when we ask whether 
+
+3
+
+something is reasonable, we have in mind this reasonable 
+
+4
+
+person and the set of circumstances in which the 
+
+5
+
+reasonable person is going to act.  So in torts, the 
+
+6
+
+reasonable person is going to engage in an activity that 
+
+7
+
+has some benefits but also has some risks; what would 
+
+8
+
+that person do in that situation. 
+
+9
+
+ Now, here you're saying what would the 
+
+10
+
+reasonable skilled artisan do in what situation?  What 
+
+11
+
+is this person doing, setting out to build the device? 
+
+12
+
+What ­­
+
+13
+
+ MR. GANNON: 
+
+They are trying to understand 
+
+14
+
+the scope of the claim.  And so, and I ­­ I do think 
+
+15
+
+it's important here to recognize that there are two 
+
+16
+
+different questions that are getting conflated in some 
+
+17
+
+of the discussion.  I think that with respect to 
+
+18
+
+definiteness under paragraph 2, as the court of appeals 
+
+19
+
+majority recognized, that this is ­­ in this case the 
+
+20
+
+question is whether the claim clearly states that it 
+
+21
+
+requires the electrodes to be arranged in such a fashion 
+
+22
+
+that they will have the effect of detecting 
+
+23
+
+substantially equal EMG signals at the electrodes.  It's 
+
+24
+
+not with downstream circuitry, which is what Petitioner 
+
+25
+
+suggested in the opening brief.  In Petitioner's reply
+
+47
+
+Alderson Reporting Company
+
+Official
+
+1
+
+brief they've suggested they could use some sort of 
+
+2
+
+protective sleeve on the electrodes, but that wouldn't 
+
+3
+
+be consistent with the parts of the limitations that say 
+
+4
+
+that there needs to be physical and electrical contact 
+
+5
+
+with the electrodes. 
+
+6
+
+ And the majority recognize that there are 
+
+7
+
+multiple variables that come into play here, the 
+
+8
+
+spacing, the materials, the separation, as my, my 
+
+9
+
+co­counsel was just explaining, and ­­ but the 
+
+10
+
+disagreement between the majority and the concurring 
+
+11
+
+opinion here is just in whether the functional 
+
+12
+
+limitation inheres in the phrase "spaced relationship" 
+
+13
+
+taken in isolation or whether it can be read from the 
+
+14
+
+rest of the claim as a whole. 
+
+15
+
+ CHIEF JUSTICE ROBERTS: 
+
+But you say 
+
+16
+
+something like "appreciably better," that's a term that 
+
+17
+
+may acquire meaning over time.  Just like 
+
+18
+
+reasonableness, we get a good sense of what it means. 
+
+19
+
+Is it your sense that the Federal Circuit has been 
+
+20
+
+applying its test in this case?  I mean, not in this 
+
+21
+
+case but in a series of cases that is ­­ it is close to 
+
+22
+
+appreciably better or is it something quite different? 
+
+23
+
+ MR. GANNON: 
+
+Well, we do acknowledge that 
+
+24
+
+the phrases that the Federal Circuit has used about 
+
+25
+
+"insolubly ambiguous" and "amenable to construction" are
+
+48
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+subject to be ­­ to be overread and ­­
+ CHIEF JUSTICE ROBERTS: 
+
+3
+
+likes those phrases ­­
+
+4
+
+ JUSTICE SCALIA: 
+
+5
+6
+
+Yeah, nobody 
+
+­­ subject to being read, 
+
+not overread. 
+ MR. GANNON: 
+
+Well, I think that they ­­ that 
+
+7
+
+they could cause mischief if applied in isolation.  And 
+
+8
+
+we haven't taken a position on every case that the court 
+
+9
+
+of appeals has applied these standards in, and I don't 
+
+10
+
+think that the court of appeals was intending a marked 
+
+11
+
+departure from this Court's overarching ­­
+
+12
+
+ JUSTICE KENNEDY: 
+
+Are there cases where 
+
+13
+
+there are two reasonable constructions, but both would 
+
+14
+
+be patentable? 
+
+15
+
+ MR. GANNON: 
+
+16
+
+ JUSTICE KENNEDY: 
+
+17
+18
+
+Well, I think ­­
+Would that satisfy the 
+
+specificity requirement of the statute? 
+ MR. GANNON: 
+
+I think that we are arguing now 
+
+19
+
+about when the second best construction ceases to be a 
+
+20
+
+reasonable one, I think.  And I think that if the Court 
+
+21
+
+wants to think of just whether there is a good enough 
+
+22
+
+construction such that there is reasonable clarity as 
+
+23
+
+required under United Carbon and in the Minerals 
+
+24
+
+Separation case where the Court said that the certainty 
+
+25
+
+that's required is not greater than is reasonable.
+
+49
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ JUSTICE KAGAN: 
+
+What do you think of this 
+
+2
+
+Chevron analogy, Mr. Gannon?  Because sometimes we do 
+
+3
+
+say something close to it's a tie.  We say there are a 
+
+4
+
+couple of reasonable constructions or a number of 
+
+5
+
+reasonable constructions.  We could pick one, we think 
+
+6
+
+it might be better, but it's all close enough that we 
+
+7
+
+don't think we ought to pick one.  So similarly, it's 
+
+8
+
+all close enough that the definiteness requirement has 
+
+9
+
+not been met.  Is that a good analogy? 
+
+10
+
+ MR. GANNON: 
+
+I ­­ I think that that would 
+
+11
+
+probably ­­ we think that the sorts of constructions 
+
+12
+
+that would be reasonable under Chevron that the agency 
+
+13
+
+could take as a second best construction probably aren't 
+
+14
+
+sufficient to be the definite construction here.  And so 
+
+15
+
+I ­­ I don't think it's a close analogy because we don't 
+
+16
+
+think that anyone is seeking that type of deference to 
+
+17
+
+another decisionmaker as ­­
+
+18
+
+ JUSTICE KAGAN: 
+
+No.  I'm not sure I quite 
+
+19
+
+got that.  It's just that anything that would flunk 
+
+20
+
+Chevron step one and would go on to Chevron step two, 
+
+21
+
+you would say that that kind of ambiguity, the kind of 
+
+22
+
+ambiguity ­­
+
+23
+
+ MR. GANNON: 
+
+24
+
+ JUSTICE KAGAN: 
+
+25
+
+No.  I ­­
+­­ that would get you to 
+
+Chevron step two ­­
+
+50
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ MR. GANNON: 
+
+2
+
+ JUSTICE KAGAN: 
+
+3
+4
+
+I don't think so. 
+­­ is also the kind of 
+
+ambiguity that would fail to satisfy the definiteness ­­
+ MR. GANNON: 
+
+No.  And I'm sorry if I wasn't 
+
+5
+
+clear about this before.  I was trying to say that in a 
+
+6
+
+60/40 situation that I said would be adequate here, such 
+
+7
+
+that the second construction did not prevent there from 
+
+8
+
+being sufficient clarity, I think that we would think 
+
+9
+
+that an agency would be entitled to choose the 40 
+
+10
+
+percent option.  But we don't think that that would be 
+
+11
+
+­­ that that would prevent the 60 percent option from 
+
+12
+
+being good enough in the context required here. 
+
+13
+
+ JUSTICE SOTOMAYOR: 
+
+The Federal Circuit 
+
+14
+
+seems to say that if there's two reasonable 
+
+15
+
+constructions and one would make the patent valid, I 
+
+16
+
+think this goes to Justice Kennedy's question, that 
+
+17
+
+they're obligated to pick the one that makes the patent 
+
+18
+
+valid. 
+
+19
+
+ MR. GANNON: 
+
+The case, I think ­­ I believe 
+
+20
+
+the case that's being talked about there is cited in the 
+
+21
+
+Exxon opinion. 
+
+22
+
+ JUSTICE SOTOMAYOR: 
+
+23
+
+ MR. GANNON: 
+
+Uh­huh. 
+And that talks about when there 
+
+24
+
+are two equally­plausible constructions.  I think that 
+
+25
+
+that probably is the ­­ the knife edge of insolubly
+
+51
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ambiguous.  And there, the Federal Circuit suggested 
+
+2
+
+that ­­ that, as Justice Scalia was ­­ was saying 
+
+3
+
+before, that ­­ that because there would be a decision 
+
+4
+
+rule, that you would pick the construction that would 
+
+5
+
+save the patent, that that would be okay. 
+
+6
+
+ JUSTICE SOTOMAYOR: 
+
+7
+
+ MR. GANNON: 
+
+Is that right? 
+I don't think that that allows 
+
+8
+
+for sufficient clarity.  We believe that if there are 
+
+9
+
+two constructions ­­
+
+10
+11
+12
+
+ JUSTICE SOTOMAYOR: 
+
+So they're wrong in that 
+
+as well. 
+ MR. GANNON: 
+
+In that particular statement 
+
+13
+
+of ­­ of the rule, yes.  We do think, however, that 
+
+14
+
+there is a distinction between the ­­ that the 
+
+15
+
+presumption of patent validity does play a role here. 
+
+16
+
+It doesn't change the standard, but it ­­ it does ­­ it 
+
+17
+
+does play a role in indicating that, as the PTO has 
+
+18
+
+recognized, that courts will do more to save a patent 
+
+19
+
+than the PTO does when it's examining one.  And I 
+
+20
+
+would ­­ I would say that we also disagree with the 
+
+21
+
+notion ­­
+
+22
+23
+24
+25
+
+ JUSTICE KENNEDY: 
+
+How can that be if it's 
+
+the same test? 
+ MR. GANNON: 
+
+Well, it's ­­ the overarching 
+
+question is, is the same of whether a person skilled in
+
+52
+
+Alderson Reporting Company
+
+Official
+
+1
+
+the art would reasonably understand the scope of the 
+
+2
+
+claim, but ­­
+
+3
+4
+5
+
+ JUSTICE KENNEDY: 
+
+And that's the same test 
+
+at both levels. 
+ MR. GANNON: 
+
+It's ­­ it's not the same test 
+
+6
+
+that the PTO applies in examination proceedings because 
+
+7
+
+it uses a slightly different threshold of ambiguity. 
+
+8
+
+ CHIEF JUSTICE ROBERTS: 
+
+9
+
+with your answer? 
+
+10
+
+ MR. GANNON: 
+
+11
+12
+13
+14
+
+Are you finished 
+
+I could give an explanation of 
+
+why. 
+ CHIEF JUSTICE ROBERTS: 
+
+Can you do it in a 
+
+sentence? 
+ MR. GANNON: 
+
+I could say that it involves 
+
+15
+
+the different circumstances there that include the 
+
+16
+
+different record, the different burden of proof, the 
+
+17
+
+lack of adversarial presentation there, and mostly 
+
+18
+
+critically, the fact that it's easier to amend the 
+
+19
+
+claims before the patent has been issued. 
+
+20
+
+ CHIEF JUSTICE ROBERTS: 
+
+21
+
+ Four minutes, Mr. Vandenberg. 
+
+22
+23
+24
+25
+
+Thank you, counsel. 
+
+ REBUTTAL ARGUMENT BY JOHN D. VANDENBERG 
+ ON BEHALF OF THE PETITIONER 
+ MR. VANDENBERG: 
+
+Thank you.  I think the ­­
+
+the essential points here are, first, the emphatic
+
+53
+
+Alderson Reporting Company
+
+Official
+
+1
+
+language that Congress chose, and then thinking about 
+
+2
+
+ambiguous claims.  There is no legitimate need for 
+
+3
+
+ambiguous claims.  There is a strong economic incentive 
+
+4
+
+for patent attorneys to draft ambiguous claims, not to 
+
+5
+
+put all their eggs in that basket.  They want some clear 
+
+6
+
+claims in case some copyist comes along, but they want 
+
+7
+
+ambiguous claims so they can ­­ their client can treat 
+
+8
+
+it as a nose of wax later, as happened here.  That is 
+
+9
+
+well established in the patent bar, that there is this 
+
+10
+
+strong economic incentive.  But patent attorneys have 
+
+11
+
+ample tools to avoid ambiguous claims if this Court 
+
+12
+
+tells them that it will no longer be permitted.  That ­­
+
+13
+
+that is the key here, is that there's a strong economic 
+
+14
+
+incentive.  The patent attorney and the inventor are in 
+
+15
+
+the best position to avoid the ambiguity that Congress 
+
+16
+
+prohibits and therefore, the problem is, the Federal 
+
+17
+
+Circuit has blessed ambiguity with its test.  And in 
+
+18
+
+order to stop all of the problems that the amici have 
+
+19
+
+pointed out that are caused by ambiguous claims, we 
+
+20
+
+submit this Court needs to be clear and go back to 
+
+21
+
+United Carbon and General Electric and to the statutory 
+
+22
+
+text and be clear that ambiguity is simply not 
+
+23
+
+permitted. 
+
+24
+25
+
+ In terms of how the Federal Circuit ruled 
+here, and we point to the majority's opinion at petition
+
+54
+
+Alderson Reporting Company
+
+Official
+
+1
+
+appendix 15(a), the court, the majority, definitely 
+
+2
+
+applied the insolubly ambiguous test.  They said, 
+
+3
+
+"Because the term was amenable to construction, 
+
+4
+
+indefiniteness here would require a showing that a 
+
+5
+
+person of ordinary skill would find spaced relationship 
+
+6
+
+to be insolubly ambiguous."  And therefore, if the Court 
+
+7
+
+rejects that test, we submit, at the very least, the 
+
+8
+
+Court cannot affirm the judgment below on that basis. 
+
+9
+10
+
+ But more importantly ­­
+ JUSTICE GINSBURG: 
+
+But the Federal Circuit 
+
+11
+
+said something ­­ I'm looking at the petition appendix 
+
+12
+
+at 20(a) ­­ that sounded very close to what the 
+
+13
+
+government standard is.  It said, "Sufficiently" ­­
+
+14
+
+"that the claim provides parameters sufficient for a 
+
+15
+
+skilled artisan to understand the bounds of spaced 
+
+16
+
+relationship."  That sounds very close to what the 
+
+17
+
+government says and it isn't ­­ they don't say anything 
+
+18
+
+about insoluble in ­­ in that statement. 
+
+19
+
+ MR. VANDENBERG: 
+
+It is true that here in 
+
+20
+
+some of their cases, the court will ­­ the Federal 
+
+21
+
+Circuit will use language like that saying that one 
+
+22
+
+could have understood.  However, it's clear they were 
+
+23
+
+not applying the type of test that United Carbon and 
+
+24
+
+General Electric required.  They did not even consider 
+
+25
+
+whether the person of skill in the art may have read the
+
+55
+
+Alderson Reporting Company
+
+Official
+
+1
+
+claim the different way. 
+
+2
+
+ And in terms of the two different claim 
+
+3
+
+scopes, we would simply invite the Court's attention 
+
+4
+
+back to our reply brief at page 20, which explained the 
+
+5
+
+different claim scopes.  We think the government 
+
+6
+
+misunderstood the point, and therefore, in the reply, we 
+
+7
+
+amplified it some more. 
+
+8
+
+ But as ­­ as I said, the Court at the very 
+
+9
+
+least should not affirm.  But we think it's important 
+
+10
+
+here for the Court to create another concrete guide 
+
+11
+
+post.  In KSR and Bilski, this Court provided a huge 
+
+12
+
+service to the patent bar in applying the correct law to 
+
+13
+
+an actual patent claim, creating concrete guide posts 
+
+14
+
+for Section 101 and 103.  Well, the patent bar and the 
+
+15
+
+trial courts need another concrete guide post if 
+
+16
+
+applying the correct law of Section 112, paragraph 2 to 
+
+17
+
+this particular claim. 
+
+18
+19
+
+ If there are no further questions, thank 
+you. 
+
+20
+
+ CHIEF JUSTICE ROBERTS: 
+
+21
+
+ The case is submitted. 
+
+22
+
+ (Whereupon at 11:07 a.m., the case in the 
+
+Thank you, counsel. 
+
+23
+
+above­entitled matter was submitted.) 
+
+24
+
+ 
+
+25
+
+ 
+
+56
+Alderson Reporting Company
+
+

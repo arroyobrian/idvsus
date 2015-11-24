@@ -1,0 +1,5374 @@
+Official
+
+3
+1
+
+ P R O C E E D I N G S 
+
+2
+3
+
+ (10:13 a.m.) 
+ CHIEF JUSTICE ROBERTS: 
+
+We'll hear argument 
+
+4
+
+first this morning in Case 13­896, Commil USA v. Cisco 
+
+5
+
+Systems. 
+
+6
+
+ Mr. Werbner. 
+
+7
+
+ ORAL ARGUMENT OF MARK S. WERBNER 
+
+8
+9
+10
+11
+
+ ON BEHALF OF PETITIONER 
+ MR. WERBNER: 
+
+Mr. Chief Justice, and may it 
+
+please the Court: 
+ This case concerns whether an infringer, who 
+
+12
+
+bypasses myriad means of adjudicating patent validity 
+
+13
+
+and who then actively induces infringement, can escape 
+
+14
+
+responsibility simply by claiming that they believe the 
+
+15
+
+patent was invalid. 
+
+16
+17
+18
+
+ JUSTICE KENNEDY: 
+
+Well, not claiming, but by 
+
+proving. 
+ MR. WERBNER: 
+
+Well, they would have to prove 
+
+19
+
+that, Your Honor.  But we submit that the presumption of 
+
+20
+
+validity, especially because of that, it would be wrong 
+
+21
+
+to allow the infringer to escape liability in those 
+
+22
+
+instances.  If there's a mistake, it should be borne by 
+
+23
+
+the infringer who made the mistake. 
+
+24
+25
+
+ CHIEF JUSTICE ROBERTS: 
+
+You mentioned the 
+
+presumption of validity.  What percentage of patents
+
+Alderson Reporting Company
+
+Official
+
+4
+1
+2
+
+that are challenged are found to be valid? 
+ MR. WERBNER: 
+
+Well, Your Honor, from the 
+
+3
+
+briefing, it appears a high number; 40 percent was an 
+
+4
+
+estimate.  I don't know how ­­
+
+5
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, 40 ­­ 40 
+
+6
+
+percent of the patents are ­­ are found to be valid? 
+
+7
+
+Invalid. 
+
+8
+
+ MR. WERBNER: 
+
+9
+
+ CHIEF JUSTICE ROBERTS: 
+
+Invalid. 
+Invalid.  So only 
+
+10
+
+60 percent are upheld.  That's not much of a presumption 
+
+11
+
+of validity. 
+
+12
+
+ MR. WERBNER: 
+
+Mr. Chief Justice, I would 
+
+13
+
+submit that it would be for Congress to change the 
+
+14
+
+presumption of validity, if ­­ if it's out of line.  The 
+
+15
+
+presumption has been part of patent law for several 
+
+16
+
+hundred years, even before the codification in 1952. 
+
+17
+
+And it's more than just a procedural mechanism, it's a 
+
+18
+
+message that patents are presumed valid.  They should 
+
+19
+
+be respected not just by judges and juries, but by the 
+
+20
+
+public who are told that until proven otherwise, patents 
+
+21
+
+are presumed valid.  And someone who wishes to gamble on 
+
+22
+
+their belief that it's invalid should bear the 
+
+23
+
+consequences if they're wrong. 
+
+24
+25
+
+ JUSTICE GINSBURG: 
+
+This question would come 
+
+up only if the patent had been held valid, right?  And
+
+Alderson Reporting Company
+
+Official
+
+5
+1
+
+the defense is although the patent is valid, we had a 
+
+2
+
+good faith belief that it was invalid. 
+
+3
+
+ MR. WERBNER: 
+
+That's right, Justice 
+
+4
+
+Ginsburg.  It would basically give the accused infringer 
+
+5
+
+a second bite at the apple because they would have to 
+
+6
+
+have the patent found valid.  And then, if that went 
+
+7
+
+against them, then they would want a second chance to 
+
+8
+
+say even though they were mistaken, they believed that 
+
+9
+
+it was invalid. 
+
+10
+
+ And we think that giving them that second 
+
+11
+
+bite at the apple will eviscerate the effectiveness of 
+
+12
+
+Section 271(b), which is vital to protect the interest 
+
+13
+
+of patent owners.  And the ­­
+
+14
+
+ JUSTICE SOTOMAYOR: 
+
+The court below believed 
+
+15
+
+that there was no good faith basis to distinguish a good 
+
+16
+
+faith belief in lack of infringement from a good faith 
+
+17
+
+belief in ­­ in validity.  How do you address that 
+
+18
+
+difference? 
+
+19
+
+ MR. WERBNER: 
+
+20
+
+ JUSTICE SOTOMAYOR: 
+
+21
+
+ MR. WERBNER: 
+
+Justice Sotomayor ­­
+Or is there one and why? 
+There is a substantial 
+
+22
+
+difference, Your Honor, because we can see that ­­ that 
+
+23
+
+validity and infringement are different.  I'd like to 
+
+24
+
+start with the statutory basis that makes that clear. 
+
+25
+
+271(b) says that whoever shall actively induce
+
+Alderson Reporting Company
+
+Official
+
+6
+1
+
+infringement shall be liable as an infringer.  It speaks 
+
+2
+
+not at all to validity.  Validity is in a completely 
+
+3
+
+separate section of the Patent Act, section ­­
+
+4
+
+ JUSTICE SCALIA: 
+
+No, but it's a ­­ it's a ­­
+
+5
+
+it's a type of aiding and abetting liability and both 
+
+6
+
+at ­­ in tort law and in criminal law.  At the common 
+
+7
+
+law, it was clear that you're not liable as an aider and 
+
+8
+
+abetter unless you have a wrongful intent.  If indeed 
+
+9
+
+your ­­ and you acknowledge that ­­ that part of this 
+
+10
+
+depends upon ­­ upon wrongful intent, don't you?  You ­­
+
+11
+
+you say that it can't hinge upon the belief that the 
+
+12
+
+patent is invalid, but do you not acknowledge that you 
+
+13
+
+have to ­­ you ­­ you have to believe that you are 
+
+14
+
+inducing infringement of ­­ of the invalid patent? 
+
+15
+
+ MR. WERBNER: 
+
+16
+
+ JUSTICE SCALIA: 
+
+17
+18
+
+Well, indeed, Justice ­­
+Where do you get that 
+
+requirement from? 
+ MR. WERBNER: 
+
+Well, indeed, Justice Scalia, 
+
+19
+
+those are two separate.  The ­­ and I acknowledge that, 
+
+20
+
+as the Court said in the Global­Tech matter, that some 
+
+21
+
+intent is required and that was found from the words 
+
+22
+
+"actively induce" in Section 271(b). 
+
+23
+
+ JUSTICE SCALIA: 
+
+Well, why just some intent? 
+
+24
+
+What ­­ what good does it do to say, well, you know, 
+
+25
+
+you're really not a bad actor, but you're, you know ­­
+
+Alderson Reporting Company
+
+Official
+
+7
+1
+
+you're half a bad actor, that's enough.  It ­­ it seems 
+
+2
+
+to me that ­­ that if you don't know that you're 
+
+3
+
+infringing or that you're encouraging somebody to 
+
+4
+
+infringe is ­­ is no ­­ no worse than you're not knowing 
+
+5
+
+that the patent is valid. 
+
+6
+
+ MR. WERBNER: 
+
+Well, under the court's Aro 2 
+
+7
+
+case that the Court described in Global­Tech's as a 
+
+8
+
+fixture of patent law, the Court specifically there 
+
+9
+
+recognized that once an accused infringer received 
+
+10
+
+actual notice of the patent and is put on notice of the 
+
+11
+
+infringing conduct, that that ­­ that creates no defense 
+
+12
+
+to that person. 
+
+13
+
+ And I think the policy reason for that is 
+
+14
+
+that having actual knowledge of the patent goes a very 
+
+15
+
+long way in ­­ in ­­ in putting the person who then goes 
+
+16
+
+forward with knowledge of the patent different than in 
+
+17
+
+Global­Tech, and they infringe and they were on notice, 
+
+18
+
+they should be the ones, if I might say, who should have 
+
+19
+
+stopped when they had that notice, Your Honor, and gone 
+
+20
+
+to the myriad means of adjudicating patent validity. 
+
+21
+
+ Now under the America Invents Act, for 
+
+22
+
+example, there are streamlined procedures available.  So 
+
+23
+
+the wrongdoing arises when someone who has actual 
+
+24
+
+knowledge of the patent and is on notice from the patent 
+
+25
+
+owner of infringement, if they don't go to the
+
+Alderson Reporting Company
+
+Official
+
+8
+1
+
+streamline procedures ­­ and they can do a declaratory 
+
+2
+
+judgment, they can do the IPR, the inter­parties review 
+
+3
+
+at the Patent Office ­­ then they are gambling on their 
+
+4
+
+belief.  And as between the patent owner and the accused 
+
+5
+
+who was on notice, it's wrong if the infringer with ­­
+
+6
+
+with that chooses not to pursue those methods. 
+
+7
+
+ JUSTICE SCALIA: 
+
+Well, you have a cause of 
+
+8
+
+action against the person who infringes, right?  And it 
+
+9
+
+doesn't matter whether he thinks the patent is invalid 
+
+10
+
+or not.  You ­­ you got that person, don't you?  So this 
+
+11
+
+is sort of a supplemental cause of action against ­­
+
+12
+
+against somebody who induces, who aids and abets. 
+
+13
+
+ MR. WERBNER: 
+
+Yes, Your Honor, that's ­­
+
+14
+
+that's true.  And the 271(a), the direct infringer, has 
+
+15
+
+strict liability.  But I submit that when we look at 
+
+16
+
+271(b) and (c), there shouldn't be this yawning gap 
+
+17
+
+between the aider and abetter and the ­­ the direct 
+
+18
+
+infringer.  There should be more required ­­
+
+19
+
+ JUSTICE SCALIA: 
+
+But there is a common 
+
+20
+
+law ­­ I mean, there ­­ there was a common law, both 
+
+21
+
+civil and criminal.  The aider and abetter was really 
+
+22
+
+a ­­ way beyond what it took to ­­ to convict the person 
+
+23
+
+who committed the tort or ­­ or committed the crime. 
+
+24
+25
+
+ MR. WERBNER: 
+
+Justice Scalia, it's true. 
+
+But if we look at the restatement dealing with aiding
+
+Alderson Reporting Company
+
+Official
+
+9
+1
+
+and abetting, we see that it depends.  There are several 
+
+2
+
+provisions that ­­ that deal with aider and abetter, and 
+
+3
+
+the one that has the word "induce" in it requires a much 
+
+4
+
+lower scienter and intent, does the one who is 
+
+5
+
+assisting.  And ­­ and that makes sense. 
+
+6
+
+ If I could point out one other statutory 
+
+7
+
+aspect, and I'm referring to what was ­­ what is 
+
+8
+
+Footnote 6 on page 22 of the government's brief, there's 
+
+9
+
+an example there of three statutes that are very 
+
+10
+
+powerful in telling us what was meant by Congress in 
+
+11
+
+271(b), Footnote 6 on page 22. 
+
+12
+
+ The first, when we try to discern the 
+
+13
+
+textual meaning of 271(b), we need go no further than 
+
+14
+
+271(e)(5), that very same section.  And there, at the 
+
+15
+
+very end of that section, it talks about "the courts of 
+
+16
+
+the United States shall have subject matter jurisdiction 
+
+17
+
+for declaratory judgment that such patent" ­­ this is 
+
+18
+
+the brand name patent ­­ "is invalid or not infringed." 
+
+19
+
+And I'll give two more examples where we see where 
+
+20
+
+Congress knows the difference between invalidity and 
+
+21
+
+infringement.  Where Congress is addressing both, it 
+
+22
+
+says both.  And that was the first of three examples. 
+
+23
+
+ JUSTICE KAGAN: 
+
+Mr. Werbner, suppose I have 
+
+24
+
+a product and I'm trying to figure out whether, if I 
+
+25
+
+sell this product, I'll have liability.  And there are
+
+Alderson Reporting Company
+
+Official
+
+10
+1
+
+two ways to construe a statute ­­ construe a patent; one 
+
+2
+
+is narrow and one is broad.  And if the patent is 
+
+3
+
+construed narrowly, I won't be infringing it.  But if 
+
+4
+
+the patent is construed broadly, it's not valid.  Right? 
+
+5
+
+So I have two possible defenses, depending on whether 
+
+6
+
+the patent is construed narrowly or the patent is 
+
+7
+
+construed broadly. 
+
+8
+9
+
+ Now, Global­Tech says that I have a good 
+faith defense as to non­infringement, but you're 
+
+10
+
+suggesting I don't have that good faith defense as to 
+
+11
+
+invalidity.  And I guess I don't understand quite why 
+
+12
+
+that would make sense in the context that I'm talking 
+
+13
+
+about, which I think is a pretty typical context.  But 
+
+14
+
+it would seem that the two defenses are so intertwined 
+
+15
+
+and so two sides of the same coin that they should be 
+
+16
+
+treated in the same way. 
+
+17
+
+ MR. WERBNER: 
+
+Justice Kagan, I ­­ I 
+
+18
+
+understand the question.  And ­­ and one of judges in 
+
+19
+
+the court below said in dissent they're not two sides of 
+
+20
+
+the same coin, they're actually two separate coins.  And 
+
+21
+
+I ­­ I see the ­­ the ­­ where the issue arises in claim 
+
+22
+
+construction, but every party to a patent litigation is 
+
+23
+
+uncertain about claim construction, plaintiff and 
+
+24
+
+defendant.  And until a Markman hearing is had, no party 
+
+25
+
+knows for sure how the claim will be construed.  That's
+
+Alderson Reporting Company
+
+Official
+
+11
+1
+2
+
+just inherent in patent litigation. 
+ If the person makes a judgment, as they have 
+
+3
+
+to, about what the claim constructions are and they 
+
+4
+
+think the patent doesn't infringe, then they are in a 
+
+5
+
+different situation if they have a question about 
+
+6
+
+validity.  And they have options.  Contrary to what my 
+
+7
+
+opponent says, there are options at that point.  If the 
+
+8
+
+person is not certain about claim construction as to 
+
+9
+
+whether there will be validity or not, they can do an 
+
+10
+
+IPR before the Patent Office, a new procedure that was 
+
+11
+
+part of the American Invents Act which can be resolved in 
+
+12
+
+18 months, and ­­ and often stay the litigation.  They 
+
+13
+
+could go for declaratory judgment. 
+
+14
+
+ So my ­­ my answer would ­­ would be that, 
+
+15
+
+regardless of what leads them to their confusion, if 
+
+16
+
+they assumed the risk by ­­ by proceeding, then ­­ then 
+
+17
+
+if it turns out they're wrong, they ­­ they should bear 
+
+18
+
+the risk as between ­­
+
+19
+
+ JUSTICE SCALIA: 
+
+Well, you ­­ you could say 
+
+20
+
+the same thing about ­­ about whether they were 
+
+21
+
+infringing or not.  They could bring a declaratory 
+
+22
+
+judgment action as to whether they're fringing or not. 
+
+23
+
+And therefore, they don't have to gamble that they're ­­
+
+24
+
+that they're not infringing.  They can get a declaratory 
+
+25
+
+judgment.  So, you know, put the burden on them.
+
+Alderson Reporting Company
+
+Official
+
+12
+1
+2
+3
+
+ Why do you do it for the one and not for the 
+other?  That's ­­ that's what I don't understand. 
+ MR. WERBNER: 
+
+Well, Your Honor, I would say 
+
+4
+
+that with respect to beliefs and invalidity, it's deeply 
+
+5
+
+ingrained in American law that there is a difference. 
+
+6
+
+And ­­ for example, in the Cheek v. United States case, 
+
+7
+
+that distinction was made very clear, that's in the 
+
+8
+
+context of a criminal statute where the accused for tax 
+
+9
+
+evasion, raising all sorts of mistakes of law and the 
+
+10
+
+like, this Court held in that Cheek decision that one 
+
+11
+
+accused of violating the prohibition will not be heard 
+
+12
+
+to say they thought the prohibition was invalid or 
+
+13
+
+unconstitutional. 
+
+14
+
+ JUSTICE KAGAN: 
+
+But that really does get 
+
+15
+
+back to the Chief Justice's opening question, because 
+
+16
+
+you're quite right in your reply brief when you say that 
+
+17
+
+this is a tradition in American law, that we assume that 
+
+18
+
+statutes are constitutional, that we assume that 
+
+19
+
+contracts are valid, that's right, but it's because they 
+
+20
+
+really are.  You know, almost all statutes are 
+
+21
+
+constitutional.  And here we're in a different universe 
+
+22
+
+entirely, aren't we?  Where, you know, you could flip a 
+
+23
+
+coin as to whether a patent is valid or invalid and be 
+
+24
+
+pretty close, right?  It's about 50/50. 
+
+25
+
+ MR. WERBNER: 
+
+Well, the Congress has said
+
+Alderson Reporting Company
+
+Official
+
+13
+1
+
+that there should be a presumption of validity and 
+
+2
+
+that's been the law and in the Court's opinion in i4i 
+
+3
+
+quoting Justice Cardozo about the force of the 
+
+4
+
+presumption and Judge Rich who explained the basis 
+
+5
+
+when ­­ when the government acts to presume that it did 
+
+6
+
+so properly.  So maybe there is some step, but that's ­­
+
+7
+
+what I mean to say a ­­ a gap between the current 
+
+8
+
+presumption and certain practices. 
+
+9
+
+ CHIEF JUSTICE ROBERTS: 
+
+Is that a ­­ is that 
+
+10
+
+an historical development?  Did more of them used to be 
+
+11
+
+valid, however many decades ago and, it's sort of 
+
+12
+
+changed recently? 
+
+13
+
+ MR. WERBNER: 
+
+I think more recently, 
+
+14
+
+there ­­ there is more of an issue.  I'm not certain, 
+
+15
+
+Mr. Chief Justice, how ­­ how the statistics were 
+
+16
+
+further back.  But I do know that Congress has responded 
+
+17
+
+very recently and the PTO is responding to the various 
+
+18
+
+issues, and that should be the mechanism, congressional 
+
+19
+
+action and ­­ and PTO action, and not prejudice patent 
+
+20
+
+owners, who have not done anything wrong, who have 
+
+21
+
+gained their patent.  And, of course, in this case, it 
+
+22
+
+is a valid patent and Cisco not only was found to be 
+
+23
+
+infringing a valid patent, they went to the PTO to 
+
+24
+
+re­exam this patent and it was found ­­
+
+25
+
+ JUSTICE KENNEDY: 
+
+But you ­­ you seem to be
+
+Alderson Reporting Company
+
+Official
+
+14
+1
+
+arguing that notice is all that's needed.  But the whole 
+
+2
+
+point of Global­Tech was inquiry was encouraged.  And it 
+
+3
+
+seems to me that there's not a parallel or a symmetry 
+
+4
+
+between what you're arguing and what Global­Tech said. 
+
+5
+
+Global­Tech said, we want you to inquire.  You say, once 
+
+6
+
+you get a notice ­­ and I'm sure these letters just come 
+
+7
+
+all the time, they're form letters ­­ that that's it. 
+
+8
+
+ MR. WERBNER: 
+
+Justice Kennedy, I don't think 
+
+9
+
+that it would be sufficient to be a form letter.  I know 
+
+10
+
+that the Respondent has raised questions about that, but 
+
+11
+
+I ­­ I don't submit that it ­­ it can just be a form 
+
+12
+
+letter or inadequate.  But ­­ but I want to make my 
+
+13
+
+point clear as a matter of Global­Tech and infringement, 
+
+14
+
+because that's really different from the validity. 
+
+15
+
+There, I think, it would be helpful if the Court could 
+
+16
+
+clarify Global­Tech.  It was dealing with a situation 
+
+17
+
+where there wasn't knowledge of the patent.  So I think 
+
+18
+
+some of the statements there might ­­ might, in the 
+
+19
+
+context of not knowing of the patent and willful 
+
+20
+
+blindness, be different. 
+
+21
+
+ I think Aro II, where there was knowledge of 
+
+22
+
+the patent, and this Court held very clearly that there 
+
+23
+
+would be no defense available once this person received 
+
+24
+
+the notice in the patent, I think that should guide the 
+
+25
+
+Court in the cases where there is knowledge of the
+
+Alderson Reporting Company
+
+Official
+
+15
+1
+
+patent. 
+
+2
+
+ If I may reserve the rest of my time. 
+
+3
+
+ CHIEF JUSTICE ROBERTS: 
+
+4
+
+ MR. WERBNER: 
+
+5
+
+ CHIEF JUSTICE ROBERTS: 
+
+6
+
+ ORAL ARGUMENT OF GINGER D. ANDERS 
+
+7
+
+ FOR UNITED STATES, AS AMICUS CURIAE 
+
+8
+
+Thank you. 
+Ms. Anders. 
+
+ SUPPORTING PETITIONER 
+
+9
+
+ MS. ANDERS: 
+
+10
+
+please the Court: 
+
+11
+
+Thank you, counsel. 
+
+Mr. Chief Justice, and may it 
+
+ Neither a good faith belief in 
+
+12
+
+non­infringement, nor a good faith belief in invalidity 
+
+13
+
+should preclude liability for inducing enforcement. 
+
+14
+15
+
+ JUSTICE SOTOMAYOR: 
+
+Are you asking us to 
+
+overturn Global­Tech and ­­
+
+16
+
+ MS. ANDERS: 
+
+17
+
+ JUSTICE SOTOMAYOR: 
+
+18
+
+ MS. ANDERS: 
+
+No. 
+­­ Aro? 
+No.  We don't think that the 
+
+19
+
+Court should overturn Global­Tech.  We think that 
+
+20
+
+Global­Tech clearly resolved the issue. 
+
+21
+
+ JUSTICE SOTOMAYOR: 
+
+So if we read all the 
+
+22
+
+texts to mean that you have to have knowledge of the 
+
+23
+
+patent and knowledge that your activity infringes it, 
+
+24
+
+then your argument doesn't hold up. 
+
+25
+
+ MS. ANDERS: 
+
+If that's how the Court
+
+Alderson Reporting Company
+
+Official
+
+16
+1
+
+understands Global­Tech, then we would say, like 
+
+2
+
+Petitioner, that ­­ that even if you think that ­­ that 
+
+3
+
+knowledge of the infringing nature of the acts is 
+
+4
+
+necessary, knowledge of invalidity is not also 
+
+5
+
+necessary. 
+
+6
+
+ JUSTICE SOTOMAYOR: 
+
+So break up your 
+
+7
+
+argument if you would for me addressing both 
+
+8
+
+presumptions.  Because I think those are different 
+
+9
+
+arguments. 
+
+10
+
+ MS. ANDERS: 
+
+Well, so we think that if you 
+
+11
+
+look at Global­Tech, it doesn't clearly resolve the 
+
+12
+
+issue about whether knowledge of infringement ­­
+
+13
+
+knowledge of the infringing nature of the acts is 
+
+14
+
+necessary.  There's language in the opinion that states 
+
+15
+
+that knowledge of the patent would be sufficient to 
+
+16
+
+satisfy knowledge of the infringement.  The court also 
+
+17
+
+did not have to resolve the question about whether a 
+
+18
+
+good faith belief in non­infringement would be necessary 
+
+19
+
+because that was not presented in Global­Tech.  The 
+
+20
+
+defendant there had no arguments that even if he knew 
+
+21
+
+about the patent ­­
+
+22
+
+ JUSTICE SOTOMAYOR: 
+
+Well, there was an 
+
+23
+
+argument there that he didn't know that someone 
+
+24
+
+replacing a top infringed. 
+
+25
+
+ MS. ANDERS: 
+
+I ­­ if Your Honor ­­
+
+Alderson Reporting Company
+
+Official
+
+17
+1
+
+ JUSTICE SOTOMAYOR: 
+
+2
+
+ MS. ANDERS: 
+
+The fabric ­­
+­­ is talking about Aro II in 
+
+3
+
+that case, what the Court said was that you need 
+
+4
+
+knowledge that the ­­ that the use is infringing and the 
+
+5
+
+Court held that that knowledge was conclusively 
+
+6
+
+satisfied by the defendant's knowledge of the patent and 
+
+7
+
+knowledge of the link between the patent and the 
+
+8
+
+conduct.  I think there was no plausible argument there 
+
+9
+
+that the defendant had a good faith belief or ­­ I'm 
+
+10
+
+sorry, that the defendant lacked a good faith belief 
+
+11
+
+that his conduct was not infringing.  The question of 
+
+12
+
+whether direct infringement was occurring was hotly 
+
+13
+
+contested.  It was litigated all the way up to the 
+
+14
+
+Supreme Court and back, and it closely divided the 
+
+15
+
+Justices 5/4.  So I think anyone would say that in that 
+
+16
+
+case, the defendant had a good faith belief in ­­ in 
+
+17
+
+non­infringement. 
+
+18
+
+ Now, if I could just address why it makes 
+
+19
+
+sense, I think, to read Global­Tech and Aro this way and 
+
+20
+
+to not require knowledge of the ­­
+
+21
+
+ JUSTICE KAGAN: 
+
+Before you do that, Ms. 
+
+22
+
+Anders, I mean, it just does seem whatever the factual 
+
+23
+
+circumstances of that case were, we could not have been 
+
+24
+
+more clear about the breadth of the holding.  I mean, we 
+
+25
+
+just said, we now hold that induced infringement under
+
+Alderson Reporting Company
+
+Official
+
+18
+1
+
+271(b) requires knowledge that the induced acts 
+
+2
+
+constitute patent infringement.  And your brief 
+
+3
+
+essentially puts a "not" in that sentence. 
+
+4
+
+ MS. ANDERS: 
+
+With respect, Justice Kagan, I 
+
+5
+
+don't think that's so.  I think the ­­ the sentence that 
+
+6
+
+immediately preceded the sentence that Your Honor just 
+
+7
+
+read said that it would be strange to hold that 
+
+8
+
+knowledge of the patent is needed under 271(c), but not 
+
+9
+
+271(b).  Accordingly, we now hold that knowledge that 
+
+10
+
+the induced acts constitute a patent infringement is 
+
+11
+
+necessary.  So I think that the Court may have equated 
+
+12
+
+the two things. 
+
+13
+
+ But ­­ but just to go back to why I think it 
+
+14
+
+would make sense to read ­­
+
+15
+
+ JUSTICE SCALIA: 
+
+Excuse me, I don't 
+
+16
+
+understand what you just said.  It equated what two 
+
+17
+
+things? 
+
+18
+19
+20
+21
+22
+23
+24
+25
+
+ MS. ANDERS: 
+
+It may have acknowledged the 
+
+patent ­­
+ JUSTICE SCALIA: 
+
+Knowledge of the patent and 
+
+knowledge that the patent is ­­ is being infringed? 
+ MS. ANDERS: 
+
+Yes.  Yes.  This is what the 
+
+Court did in Aro II.  I think the Court ­­
+ JUSTICE SCALIA: 
+
+Are we that dumb, that ­­
+
+that ­­ that we would say those two things in successive
+
+Alderson Reporting Company
+
+Official
+
+19
+1
+
+sentences? 
+
+2
+
+ MS. ANDERS: 
+
+Well, no.  I think it comes 
+
+3
+
+from Aro II, Your Honor.  What the Court said in Aro II 
+
+4
+
+was the knowledge of infringement is necessary and the 
+
+5
+
+Court said the defendant has no defense that he lacked 
+
+6
+
+knowledge of infringement when he possessed knowledge of 
+
+7
+
+the patent and knowledge of the accusation of 
+
+8
+
+infringement.  So I think that's where this language 
+
+9
+
+comes from. 
+
+10
+
+ But again, just to address both why this 
+
+11
+
+makes sense and why I think it makes sense to say that a 
+
+12
+
+good faith belief in invalidity is not a defense even ­­
+
+13
+
+even though 40 percent of patents may be invalid. 
+
+14
+
+ JUSTICE GINSBURG: 
+
+I hope you'll spend ­­
+
+15
+
+concentrate on that because that's the crux of this 
+
+16
+
+case.  I mean, that's what the Federal circuit majority 
+
+17
+
+said, that there's no principal difference between the 
+
+18
+
+two.  And if you could make sure that you ­­ if you 
+
+19
+
+think there is a principal difference, tell us what it 
+
+20
+
+is. 
+
+21
+
+ MS. ANDERS: 
+
+Yes, Justice Ginsburg, I'll 
+
+22
+
+address that.  But first I'd like to say that I think a 
+
+23
+
+key point here is that if the inducer is right that the 
+
+24
+
+patent is invalid, or that it's not infringed, he will 
+
+25
+
+not be liable because the Court will find that the
+
+Alderson Reporting Company
+
+Official
+
+20
+1
+
+patent was invalid or not infringed.  And so in that 
+
+2
+
+case, you don't have to worry about liability.  So the 
+
+3
+
+question is really what should happen when the defendant 
+
+4
+
+is wrong?  Right.  Who should bear the risk of the 
+
+5
+
+defendants being wrong that the patent is invalid or ­­
+
+6
+
+or not infringed?  And we think the inducer should bear 
+
+7
+
+the burden.  This is ­­ this is someone who knows about 
+
+8
+
+the patent, who has considered it, who has decided not 
+
+9
+
+to challenge, not to use the statutory mechanisms that 
+
+10
+11
+
+Congress has provided to challenge the patent. 
+ JUSTICE SCALIA: 
+
+The patentee has a cause of 
+
+12
+
+action against the person who ­­ who violates the 
+
+13
+
+patent, right?  You're just talking about supplemental 
+
+14
+
+liability for somebody who induced that ­­ that 
+
+15
+
+violation.  And generally, for that kind of liability, 
+
+16
+
+we have required mens rea.  We have required knowledge 
+
+17
+
+that you're doing something wrong. 
+
+18
+
+ MS. ANDERS: 
+
+Well, two points with respect 
+
+19
+
+to that.  The first point is that certainly in the 
+
+20
+
+criminal law, you may need wrongful intent when you're an 
+
+21
+
+aider and abetter, but you do not need knowledge that 
+
+22
+
+the principal offense is illegal.  So, for instance, if 
+
+23
+
+you're aiding and abetting a felon to possess a gun, you 
+
+24
+
+need to know that you're selling them a gun and that 
+
+25
+
+they're a felon.  You don't need to know that it's
+
+Alderson Reporting Company
+
+Official
+
+21
+1
+
+illegal for the ­­ for a felon to possess a gun.  So we 
+
+2
+
+think that's analogous here. 
+
+3
+
+ The second point I would make is that 271(b) 
+
+4
+
+is not simply supplemental liability, it is an 
+
+5
+
+important means of enforcing ­­
+
+6
+
+ JUSTICE SCALIA: 
+
+Have we held that, what you 
+
+7
+
+just said?  Has this Court held that?  Do we have a case 
+
+8
+
+in this Court that says that? 
+
+9
+10
+
+ MS. ANDERS: 
+
+I think that's a ­­
+
+ JUSTICE SCALIA: 
+
+You ­­ you can be liable 
+
+11
+
+for aiding and abetting a felony when you don't know 
+
+12
+
+that it's a felony? 
+
+13
+
+ MS. ANDERS: 
+
+You don't have to know that the 
+
+14
+
+underlying conduct is illegal, yes, that's right.  I 
+
+15
+
+think that's a principle of the common law.  I ­­ I 
+
+16
+
+think you see that in the criminal law treatises for 
+
+17
+
+certainly. 
+
+18
+
+ But ­­ but 271(b), I think, is ­­ Congress 
+
+19
+
+intended that to be available to enforce patent rights 
+
+20
+
+when it would be impracticable for patentholders to ­­
+
+21
+
+to file suit directly against a direct infringer.  So 
+
+22
+
+situations like the Grokster scenario where you have 
+
+23
+
+millions of direct infringers, you need to go after the 
+
+24
+
+person who is inducing that conduct 
+
+25
+
+ But to go back to Justice Ginsburg's point
+
+Alderson Reporting Company
+
+Official
+
+22
+1
+
+about why would it make sense to treat the two issues 
+
+2
+
+differently, I think there are three reasons that ­­
+
+3
+
+that you would do so.  The first is that even though, 
+
+4
+
+as ­­ as Justice Kagan said, claim construction can be a 
+
+5
+
+common subsidiary issue in both non­infringement 
+
+6
+
+questions and invalidity issues, I don't think it's 
+
+7
+
+anomalous to still treat the two issues as separate. 
+
+8
+9
+
+ For instance, in Chief v. United States, the 
+Court ­­ it ­­ it's clear that in ­­ in the statutory 
+
+10
+
+context, you might have a question about statutory 
+
+11
+
+construction that would be relevant to whether you're 
+
+12
+
+violating the statute, and that same question might be 
+
+13
+
+relevant to the validity of the statute, but the Court 
+
+14
+
+still said that your belief that you ­­ that ­­ that the 
+
+15
+
+statute was invalid did not negate your stand with 
+
+16
+
+respect to whether you're violating the law. 
+
+17
+
+ And as to ­­
+
+18
+
+ CHIEF JUSTICE ROBERTS: 
+
+You said on a ­­ a 
+
+19
+
+couple of times about the idea of ­­ of difficulty of 
+
+20
+
+going after all the little people.  But why is that?  It 
+
+21
+
+would seem to me that once you have a few successful 
+
+22
+
+suits against the users rather than inducers, both the 
+
+23
+
+users and the inducer will get the message and not ­­
+
+24
+
+not continue on with the infringement. 
+
+25
+
+ MS. ANDERS: 
+
+Well, I'm not sure that that's
+
+Alderson Reporting Company
+
+Official
+
+23
+1
+
+­­ that's always going to be the case as a practical 
+
+2
+
+matter.  I think there may be situations in ­­ in which, 
+
+3
+
+you know, the ­­ the users may have ­­ the direct users 
+
+4
+
+may have immunities.  For instance, the Patent Act 
+
+5
+
+provides, in the context of surgical materials, that 
+
+6
+
+doctors can't be directly liable for infringement, so 
+
+7
+
+the only ­­ the only course there is to go after the 
+
+8
+
+inducer. 
+
+9
+
+ So I think that Congress anticipated in the 
+
+10
+
+Patent Act that inducement would be an independent means 
+
+11
+
+of imposing liability. 
+
+12
+
+ But to go back to the ­­ the two reasons 
+
+13
+
+that it may make sense as a policy matter to treat 
+
+14
+
+invalidity and non­infringement differently, I think one 
+
+15
+
+of them is that invalidity questions can be even harder 
+
+16
+
+and more complex to determine.  I think it's important 
+
+17
+
+to keep in mind here that ­­ that what we're saying is 
+
+18
+
+that the defendant would have a ­­ he would be able to 
+
+19
+
+immunize himself from liability based on his good faith 
+
+20
+
+belief with respect to anticipation, whether there's 
+
+21
+
+prior art that ­­ that may make it obvious to a person 
+
+22
+
+skilled in the art ­­
+
+23
+
+ JUSTICE SCALIA: 
+
+Of course, that ­­ that's 
+
+24
+
+not your position, is it?  I mean, the United States 
+
+25
+
+would treat the both the same, right?
+
+Alderson Reporting Company
+
+Official
+
+24
+1
+
+ MS. ANDERS: 
+
+2
+
+ JUSTICE SCALIA: 
+
+That is our ­­
+The United States says you 
+
+3
+
+don't have to know either one.  You ­­ you ­­ it doesn't 
+
+4
+
+matter. 
+
+5
+6
+
+ MS. ANDERS: 
+
+That is our frontline position, 
+
+but we ­­ we ­­
+
+7
+
+ JUSTICE SCALIA: 
+
+8
+
+ MS. SANDERS: 
+
+9
+
+Yes. 
+­­ of course acknowledge that 
+
+the Court may understand Global­Tech differently than we 
+
+10
+
+do, and in that case we think that there are ­­ there 
+
+11
+
+are reasons ­­
+
+12
+
+ JUSTICE SCALIA: 
+
+The differences are not 
+
+13
+
+enough to persuade you, but you think they should be 
+
+14
+
+enough to persuade us.  Is that it? 
+
+15
+
+ MS. ANDERS: 
+
+No.  I think as a ­­ I think 
+
+16
+
+our ­­ our primary point is that it's not usually the 
+
+17
+
+case in the law that we require defendants to have 
+
+18
+
+knowledge that they will ultimately be held liable, that 
+
+19
+
+they have no good faith arguments about, you know, 
+
+20
+
+complex legal questions, technical factual questions, 
+
+21
+
+claim construction questions.  That is not usually the 
+
+22
+
+way it works in the law. 
+
+23
+
+ But even when a defendant may need knowledge 
+
+24
+
+that his conduct is illegal, it is not the case that ­­
+
+25
+
+that a belief that ­­ that the underlying legal duty is
+
+Alderson Reporting Company
+
+Official
+
+25
+1
+2
+
+invalid, would ­­ would negate that scienter. 
+ CHIEF JUSTICE ROBERTS: 
+
+What you just said 
+
+3
+
+does sound like an argument that Global­Tech was ­­ was 
+
+4
+
+wrong. 
+
+5
+
+ MS. ANDERS: 
+
+Again, I don't think it is, 
+
+6
+
+Your Honor, because, again, even if you understand 
+
+7
+
+Global­Tech to require knowledge of infringement, we 
+
+8
+
+think there are reasons to treat infringement 
+
+9
+
+differently. 
+
+10
+
+ And I go back to the statute here. 
+
+If you 
+
+11
+
+assume that 271(b) requires knowledge with respect to 
+
+12
+
+the fact that the acts constitute infringement, 
+
+13
+
+infringement is defined in 271(a).  Infringement is 
+
+14
+
+defined as practicing the elements of the patent without 
+
+15
+
+authorization.  The validity of the patent is not an 
+
+16
+
+element of the plaintiff's cause of action, so it is 
+
+17
+
+possible to establish infringement without establishing 
+
+18
+
+the validity of the patent. 
+
+19
+
+ JUSTICE SCALIA: 
+
+You have infringed a 
+
+20
+
+nonpatent, right?  I mean, it ­­ I guess you could say 
+
+21
+
+that, but ­­
+
+22
+
+ MS. ANDERS: 
+
+23
+
+ JUSTICE SCALIA: 
+
+24
+25
+
+No. 
+­­ and we have many cases 
+
+that say you can't infringe an invalid patent. 
+ MS. ANDERS: 
+
+I think ­­
+
+Alderson Reporting Company
+
+Official
+
+26
+1
+
+ JUSTICE SCALIA: 
+
+2
+
+ MS. ANDERS: 
+
+We say that often. 
+I think Congress made clear 
+
+3
+
+that infringe ­­ that invalidity is something that 
+
+4
+
+prevents liability from infringement.  It does not 
+
+5
+
+prevent infringement from occurring.  Once the PTO has 
+
+6
+
+granted a patent, that patent exists and it can be 
+
+7
+
+infringed.  271(a) says ­­
+
+8
+9
+
+ JUSTICE SOTOMAYOR: 
+
+There are two different 
+
+burdens, aren't there, for infringement and for 
+
+10
+
+invalidity?  Infringement, the patent owner bears the 
+
+11
+
+burden of proving that the other is fringing; and for 
+
+12
+
+invalidity, the ­­ the other side bears the burden.  So 
+
+13
+
+they are treated differently ­­
+
+14
+
+ MS. ANDERS: 
+
+15
+
+ JUSTICE SOTOMAYOR: 
+
+16
+
+ CHIEF JUSTICE ROBERTS: 
+
+17
+
+ MS. ANDERS: 
+
+That's correct.  I ­­
+­­ in the law. 
+Briefly. 
+
+I think 271(a) makes clear that 
+
+18
+
+because of the presumption of validity, infringement and 
+
+19
+
+invalidity are separate issues.  The patentee does not 
+
+20
+
+have to prove validity in order to establish 
+
+21
+
+infringement. 
+
+22
+
+ CHIEF JUSTICE ROBERTS: 
+
+23
+
+ Mr. Waxman. 
+
+24
+
+ ORAL ARGUMENT OF SETH P. WAXMAN 
+
+25
+
+ ON BEHALF OF THE RESPONDENT
+
+Alderson Reporting Company
+
+Thank you, counsel. 
+
+Official
+
+27
+1
+
+ MR. WAXMAN: 
+
+2
+
+please the Court: 
+
+Mr. Chief Justice, and may it 
+
+3
+
+ As this Court explained in Grokster and in 
+
+4
+
+Global­Tech, the linchpin of scienter for inducement 
+
+5
+
+liability is knowledge that the induced acts, quote, 
+
+6
+
+"violate the rights of the patentee."  Because 
+
+7
+
+practicing an invalid patent violates no such right of a 
+
+8
+
+patentee, an accused inducer who reasonably believes in 
+
+9
+
+good faith that a patent is void lacks the scienter 
+
+10
+
+required for liability under Section 271(b). 
+
+11
+12
+
+ JUSTICE SOTOMAYOR: 
+
+So what does that do to 
+
+the presumption? 
+
+13
+
+ MR. WAXMAN: 
+
+14
+
+ JUSTICE SOTOMAYOR: 
+
+The ­­
+If the presumption is 
+
+15
+
+that a patent is invalid until you prove, you have the 
+
+16
+
+burden ­­ that a patent is valid, you have the burden to 
+
+17
+
+prove it's invalid, your position basically says, no, I 
+
+18
+
+don't have to prove it, I just have to show I had a good 
+
+19
+
+faith basis. 
+
+20
+
+ MR. WAXMAN: 
+
+Well, no, no, no.  I mean, in 
+
+21
+
+order to invalidate a patent in court, the party urging 
+
+22
+
+that the patent is invalid bears the burden of proving 
+
+23
+
+invalidity by clear and convincing evidence.  That's 
+
+24
+
+actually not the burden if you challenge it before the 
+
+25
+
+PTO.
+
+Alderson Reporting Company
+
+Official
+
+28
+1
+
+ But it is a high burden, and it's 
+
+2
+
+appropriately high because once a patent is declared 
+
+3
+
+invalid, it is unenforceable against anybody for all 
+
+4
+
+time and under principles of ­­ under the Blonder­Tongue 
+
+5
+
+principles, a patentee who loses once is gone.  And 
+
+6
+
+there ­­ this case, of course, and the issue in this 
+
+7
+
+case only arises, as all specific intent cases arise, 
+
+8
+
+only where there is otherwise established a cause of 
+
+9
+
+action. 
+
+10
+
+ So, in other words, the good faith belief 
+
+11
+
+either that the patent wasn't being infringed by the 
+
+12
+
+direct infringers or was a void patent will arise only 
+
+13
+
+when a court or the PTO has concluded that the patent is 
+
+14
+
+indeed valid.  And when ­­ and the only issue in this 
+
+15
+
+case is will it ­­ that it is the ­­ the plaintiff's 
+
+16
+
+duty, the plaintiff's burden to prove scienter.  And 
+
+17
+
+as ­­ as Aro suggests, and Global­Tech affirms, if the 
+
+18
+
+plaintiff comes forward and says, I sent him a letter 
+
+19
+
+identifying the patent and expressing my belief that the 
+
+20
+
+patent is infringed, if the ­­ if the defendant doesn't 
+
+21
+
+have anything else to say, that can be viewed as 
+
+22
+
+permitting the jury to conclude that, in fact, the 
+
+23
+
+defendant had scienter. 
+
+24
+25
+
+ The only issue in this case is what the 
+defendant can say in response to the scienter element,
+
+Alderson Reporting Company
+
+Official
+
+29
+1
+
+an element that does apply, as Justice Scalia was 
+
+2
+
+pointing out, at common law for aiding and abetting 
+
+3
+
+liability.  And the ­­ the jury will certainly be told 
+
+4
+
+after the ­­
+
+5
+6
+
+ JUSTICE SOTOMAYOR: 
+and abetting.  You're ­­
+
+7
+
+ MR. WAXMAN: 
+
+8
+
+ JUSTICE SOTOMAYOR: 
+
+9
+
+But you're not aiding 
+
+I'm sorry? 
+­­ induce ­­ you're not 
+
+aiding and abetting.  You're inducing. 
+
+10
+
+ MR. WAXMAN: 
+
+11
+
+ JUSTICE SOTOMAYOR: 
+
+So ­­
+You're ­­ you're ­­
+
+12
+
+actually it's like I want ­­ you're ­­ you're appointing 
+
+13
+
+a surrogate and you're saying, you do it for me, but you 
+
+14
+
+do it. 
+
+15
+
+ MR. WAXMAN: 
+
+Well, I ­­ I want to get to my 
+
+16
+
+last point about what the jury will be instructed, but 
+
+17
+
+let me first, with all due respect, take on that 
+
+18
+
+assertion. 
+
+19
+
+ When Congress enacted Section 271(b) and 
+
+20
+
+Section 271(c) in 1952, both the House report and the 
+
+21
+
+Senate report said two things about those provisions: 
+
+22
+
+Number one, that they were enacted to reflect common law 
+
+23
+
+principles of aiding and abetting liability, and that 
+
+24
+
+they were thus, quote, "an expression of law and 
+
+25
+
+morals."
+
+Alderson Reporting Company
+
+Official
+
+30
+1
+
+ And this Court in Global­Tech precisely 
+
+2
+
+recognized that these provisions are, in fact, the 
+
+3
+
+modern day statutory version of civil aiding and 
+
+4
+
+abetting.  The Federal Circuit has always recognized it. 
+
+5
+
+And aiding and abetting at common law absolutely require 
+
+6
+
+knowledge of wrongdoing. 
+
+7
+
+ And just to get to your original question, 
+
+8
+
+in a case in which the jury has found that the patent is 
+
+9
+
+valid and the plaintiff goes on to say, you know, and 
+
+10
+
+there was appropriate scienter because ­­ and it's quite 
+
+11
+
+unlike this case because there was no letter ­­ a letter 
+
+12
+
+was sent saying, I have this, the '395 patent, and 
+
+13
+
+here's why you infringe it, you've heard the defendant 
+
+14
+
+explain why he or she or it nonetheless had a reasonable 
+
+15
+
+good faith belief that the patent was void. 
+
+16
+
+ In ­­ in evaluating the reasonableness and 
+
+17
+
+good faith of that expressed belief, you need to take 
+
+18
+
+into account that under the patent laws, patents ­­
+
+19
+
+issued patents are presumed valid and that in order 
+
+20
+
+to ­­ in order to establish the invalidity of a patent 
+
+21
+
+in court, as I have otherwise instructed you, the 
+
+22
+
+defendant has to prove invalidity by clear and 
+
+23
+
+convincing evidence, and that's what you should take 
+
+24
+
+into account when you are evaluating the defendant's 
+
+25
+
+profession of a good faith belief.  And ­­
+
+Alderson Reporting Company
+
+Official
+
+31
+1
+
+ CHIEF JUSTICE ROBERTS: 
+
+2
+
+ MR. WAXMAN: 
+
+If you ­­ go ahead. 
+
+No ­­ I'm sorry.  I was just 
+
+3
+
+going to ­­ just going to Justice Kagan's point, the ­­
+
+4
+
+about, you know, the two sides of the coin or two 
+
+5
+
+different coins, whatever metaphor you want to use, what 
+
+6
+
+the ­­ what happens in the paradigmatic case ­­ and it 
+
+7
+
+actually happened in this case when the lawsuit was 
+
+8
+
+filed is the defendant looks at the claim that it has a 
+
+9
+
+method that is violating this patent and it may seek 
+
+10
+
+legal counsel.  And what it found in this case and what 
+
+11
+
+it would testify to if it were allowed is we looked at 
+
+12
+
+these ­­ at this patent.  This patent seems to, by all 
+
+13
+
+intents and purposes, claim Bluetooth technology, and if 
+
+14
+
+the patent is construed narrowly as we think it should 
+
+15
+
+be, our customers are not practicing the steps. 
+
+16
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, that seems to 
+
+17
+
+me to go to the application in your case.  But to step 
+
+18
+
+back, if you regard the patent as law, it seems to me 
+
+19
+
+that your position is really just ignorance of the law 
+
+20
+
+as an excuse. 
+
+21
+
+ MR. WAXMAN: 
+
+No, no, no.  We are not ­­ not 
+
+22
+
+at all, Mr. Chief Justice.  We are not arguing at all 
+
+23
+
+for a freestanding defense of a mistake of law.  We're 
+
+24
+
+not arguing here ­­ or there was a reference to Cheek. 
+
+25
+
+We're not claiming that there is a reasonable good faith
+
+Alderson Reporting Company
+
+Official
+
+32
+1
+
+defense in a belief that the patent laws are 
+
+2
+
+unconstitutional or that they don't imply ­­ apply 
+
+3
+
+secondary liability or even, we don't ­­ it wouldn't be 
+
+4
+
+a reasonable good faith belief. 
+
+5
+
+ CHIEF JUSTICE ROBERTS: 
+
+No.  But if the 
+
+6
+
+patent ­­ you don't have to say the patent laws are 
+
+7
+
+unconstitutional, but if you regard the patent more as 
+
+8
+
+law rather than ­­ than contract, and it does apply 
+
+9
+
+against the whole confer legal rights against the whole 
+
+10
+
+world ­­
+
+11
+
+ MR. WAXMAN: 
+
+12
+
+ CHIEF JUSTICE ROBERTS: 
+
+Yes. 
+­­ and you say, 
+
+13
+
+well, even if we turn out to have been wrong about what 
+
+14
+
+that law means, what that patent means, we still have a 
+
+15
+
+valid defense. 
+
+16
+
+ MR. WAXMAN: 
+
+Well, what the law means and 
+
+17
+
+what a patent means are two very different things.  And 
+
+18
+
+I think that really is the crux of what I should have 
+
+19
+
+started saying.  There's no dispute that practicing all 
+
+20
+
+of the steps of a patented invention is unlawful and a 
+
+21
+
+defense of a belief that it wasn't wouldn't be a 
+
+22
+
+defense.  But invalidity defenses are not disputes about 
+
+23
+
+the ­­ the parameters or the scope of the ­­ of Section 
+
+24
+
+102 or 103 or 112.  Invalidity defenses are utterly 
+
+25
+
+factual.  Several of them the Supreme Court ­­ the
+
+Alderson Reporting Company
+
+Official
+
+33
+1
+
+Federal circuit has said are purely factual, and the 
+
+2
+
+other ones that aren't are questions of law that 
+
+3
+
+depend ­­ that are resolved completely by resolution of 
+
+4
+
+facts.  And the government, in its brief at Page 30, 
+
+5
+
+acknowledges and extolls this.  So a contention that 
+
+6
+
+there is a reasonable good faith that a patent is void 
+
+7
+
+is not arguing about the legality of anything.  It 
+
+8
+
+argues about the force of the issued document. 
+
+9
+
+ JUSTICE KAGAN: 
+
+I guess I'm not sure what 
+
+10
+
+you're saying.  I mean, even take a typical contract 
+
+11
+
+case.  Typical contract cases, somebody sues you for 
+
+12
+
+breach of contract and you say, oh, I thought that the 
+
+13
+
+contract was invalid.  It's true.  I would have breached 
+
+14
+
+it if it were valid, but I thought the contract was 
+
+15
+
+invalid.  That usually does not allow ­­ that's not a 
+
+16
+
+good defense.  I mean, if it turns out that the contract 
+
+17
+
+was invalid, you win.  But if the contract was valid, 
+
+18
+
+you lose even though you thought the contract was 
+
+19
+
+invalid.  And so, too, here it would seem to me. 
+
+20
+
+ MR. WAXMAN: 
+
+And that is exactly the rule 
+
+21
+
+that ­­ I mean, contract breach is a ­­ it's not a tort, 
+
+22
+
+but it's the analogy to a direct tort.  It's analogous 
+
+23
+
+to the direct infringer.  On the contrary, at common 
+
+24
+
+law, tortious interference required an act that was not 
+
+25
+
+only intentional but, quote, "improper."  And that's
+
+Alderson Reporting Company
+
+Official
+
+34
+1
+
+reflected in Section 766 of the first restatement of 
+
+2
+
+torts under tortious interference. 
+
+3
+
+ And there are ­­ many, many courts have 
+
+4
+
+understood and construed that word "improper" to require 
+
+5
+
+a belief that the contract ­­ that you were tortiously 
+
+6
+
+interfering with a contract that is, in fact, valid, and 
+
+7
+
+many courts have allowed the third party, the 
+
+8
+
+aider ­­ essentially, aider and abetter a defense 
+
+9
+
+that they believe that, you know, this was a contract 
+
+10
+
+for the supply of alcohol during prohibition.  And 
+
+11
+
+juries have found a lack of scienter and a lack of 
+
+12
+
+third­party liability at common law for the absence of 
+
+13
+
+that belief. 
+
+14
+
+ I mean, at common law ­­ and this Court 
+
+15
+
+in ­­ in the Court's Central Bank of Denver v. First 
+
+16
+
+Interstate Bank of Denver, which was a private 
+
+17
+
+securities action, has a long treatment of the history 
+
+18
+
+of civil aiding and abetting liability and underscores 
+
+19
+
+what the treatises reflect, which is that third­party 
+
+20
+
+liability for a non­culpable wrongful act was 
+
+21
+
+exceptionally rare. 
+
+22
+
+ JUSTICE GINSBURG: 
+
+But as Ms. Anders made 
+
+23
+
+the point that in ­­ in the patent context, it's the 
+
+24
+
+aider and abetter or the inducer is the mastermind and 
+
+25
+
+then the aider and abetter is selling the allegedly
+
+Alderson Reporting Company
+
+Official
+
+35
+1
+
+infringing device to a lot of customers.  And as between 
+
+2
+
+those two, it's much more effective to go after the 
+
+3
+
+person who is supplying the alleged ­­ the infringing 
+
+4
+
+device. 
+
+5
+
+ MR. WAXMAN: 
+
+Well, Justice Ginsburg, in some 
+
+6
+
+contexts it is; in some contexts it isn't.  When, you 
+
+7
+
+know, Walmart or McDonald's get a letter from Commil 
+
+8
+
+saying that you are infringing our patent because you're 
+
+9
+
+using the ­­ you know, Cisco provided wide area network, 
+
+10
+
+a couple things happen.  We're talking about the 
+
+11
+
+practicalities of things. 
+
+12
+
+ In the first place, companies like Cisco 
+
+13
+
+all ­­ it is a commonplace to have an indemnification 
+
+14
+
+for customers saying if you're sued for patent 
+
+15
+
+infringement, we will take over the defense and we are 
+
+16
+
+liable.  And even if they don't have that, it obviously 
+
+17
+
+is going to do a company like Cisco or, heaven forbid, a 
+
+18
+
+smaller, you know, innovative company to say, well, you 
+
+19
+
+know, they can't really reach us.  They're just suing 
+
+20
+
+our customers.  And in practice, what sometimes happens, 
+
+21
+
+even in the absence of an indemnification agreement, is 
+
+22
+
+the manufacturer, whether it's Cisco or Apple or 
+
+23
+
+whoever, will intervene in the action or file an 
+
+24
+
+individual dec action to take on the very question.  And 
+
+25
+
+so in the real world of litigation, this issue is
+
+Alderson Reporting Company
+
+Official
+
+36
+1
+2
+
+resolved. 
+ Now, on the Chief Justice's question about 
+
+3
+
+how valid are patents, I mean, the ­­ the answer is the 
+
+4
+
+statistics have changed over time. 
+
+5
+
+ At ­­ at page 49 of our brief, we cite a 
+
+6
+
+1998 study that showed that patents were invalidated 46 
+
+7
+
+percent of the time.  In 2002, a study was done of 
+
+8
+
+Federal circuit decisions between 2003 and 2009 and 
+
+9
+
+found that patents ­­ challenged patents were 
+
+10
+
+invalidated 60 percent of the time.  And I do think that 
+
+11
+
+in light of this Court's explication of the bounds of 
+
+12
+
+certain validity principles in Alice Corp. as to 
+
+13
+
+business method patents, Nautilus as to indefiniteness, 
+
+14
+
+Mayo as to patentable subject matter, KSR as to 
+
+15
+
+obviousness, there's no question that that number is 
+
+16
+
+going to go up. 
+
+17
+
+ JUSTICE KAGAN: 
+
+Well, but that might be a 
+
+18
+
+very good reason for Congress to take a new look at this 
+
+19
+
+presumption of validity.  But your problem is that this 
+
+20
+
+presumption of validity exists and that this question of 
+
+21
+
+validity functions in a patent suit only as an 
+
+22
+
+affirmative defense. 
+
+23
+
+ MR. WAXMAN: 
+
+So I don't ­­ I ­­ maybe I'm 
+
+24
+
+seeing this wrong, but I don't actually see the 
+
+25
+
+presumption of validity as a problem.  The presumption
+
+Alderson Reporting Company
+
+Official
+
+37
+1
+
+of the validity raises the bar of proving to a jury that 
+
+2
+
+you had a reasonable good faith belief that this patent 
+
+3
+
+would be invalidated; that you have to ­­ it wouldn't be 
+
+4
+
+reasonable to assume, oh, I think I can prove by 51 
+
+5
+
+percent that it's invalid, or I think it's 51 percent 
+
+6
+
+likely. 
+
+7
+
+ The ­­ the reasonableness in good faith of 
+
+8
+
+your profession has to be evaluated against the high bar 
+
+9
+
+that you will face in court.  And the ­­ the flip side 
+
+10
+
+of the coin is so one of these letters comes in and ­­
+
+11
+
+and Cisco ­­ I mean, we've seen the government's 
+
+12
+
+statistics are 60 to ­­ 60 to 100,000 of these letters a 
+
+13
+
+year.  Cisco gets way more than one letter every day.  I 
+
+14
+
+mean, they're sued twice a year.  Every time they get a 
+
+15
+
+letter, according to the government and according to 
+
+16
+
+Commil, what they are supposed to do is shut down the 
+
+17
+
+production line, tell all of the customers who've bought 
+
+18
+
+their technology, oh, no, no, the patent is presumed 
+
+19
+
+valid, you should stop; otherwise, you'll be infringing 
+
+20
+
+while they do what they did, which is to file an action 
+
+21
+
+in the PTO to seek a declaration of invalidity. 
+
+22
+23
+
+ CHIEF JUSTICE ROBERTS: 
+
+That's only a 
+
+problem if you turn out to be wrong. 
+
+24
+
+ MR. WAXMAN: 
+
+25
+
+ CHIEF JUSTICE ROBERTS: 
+
+Exactly. 
+
+Alderson Reporting Company
+
+Right?  I mean, so
+
+Official
+
+38
+1
+
+why shouldn't you bear that risk?  Why do you require 
+
+2
+
+the patent holder to lose the value of his patent until 
+
+3
+
+you get around to deciding the validity or the ­­ the 
+
+4
+
+infringement suit is solved? 
+
+5
+
+ MR. WAXMAN: 
+
+So I think a couple of answers. 
+
+6
+
+First of all, it is not the ­­ I mean, you could 
+
+7
+
+establish an a priori rule that says, since all we're 
+
+8
+
+talking about here is retrospective damages looking back 
+
+9
+
+from the adjudication of invalidity, and then that 
+
+10
+
+the ­­ that the direct infringers are practicing all of 
+
+11
+
+the steps. 
+
+12
+
+ And the question just is, whose ­­ who bears 
+
+13
+
+the burden of that ­­ of those retrospective damages. 
+
+14
+
+Where the common law put it under aiding and abetting 
+
+15
+
+liability, and where 271(b) and 271(c) put it, as this 
+
+16
+
+Court has explained in Grokster and in Global­Tech, is 
+
+17
+
+to leave it for the jury.  The jury is told, this entity 
+
+18
+
+is accused of inducing infringement or contributory 
+
+19
+
+infringement, and you therefore need to find, in the 
+
+20
+
+first instance, that some entity was, in fact ­­ could 
+
+21
+
+be, quote, immersed as a direct infringer, to quote this 
+
+22
+
+Court's opinion in Aro.  If you do that, aiding and 
+
+23
+
+abetting liability will follow if the plaintiff 
+
+24
+
+establishes three separate tests, one of which is 
+
+25
+
+scienter.
+
+Alderson Reporting Company
+
+Official
+
+39
+1
+
+ And the jury will ­­ and you need to 
+
+2
+
+evaluate whether, in fact, the plaintiff has established 
+
+3
+
+scienter.  If the plaintiff establishes scienter, then 
+
+4
+
+the alleged ­­ the alleged inducer is an adjudicated 
+
+5
+
+inducer and is, in fact, responsible for all of those 
+
+6
+
+damages. 
+
+7
+
+ JUSTICE SOTOMAYOR: 
+
+I ­­ I still don't 
+
+8
+
+understand.  I mean, you posit that you know that your 
+
+9
+
+steps, if the patent is valid, infringe. 
+
+10
+
+ MR. WAXMAN: 
+
+11
+
+ JUSTICE SOTOMAYOR: 
+
+I'm sorry, I didn't hear you. 
+You know, an ­­ for 
+
+12
+
+inducement, you have to prove that the person knows that 
+
+13
+
+they're infringing.  The next question is, are they 
+
+14
+
+liable for it, and that issue has to do with validity; a 
+
+15
+
+second question. 
+
+16
+
+ So I don't know why the patent owner has to 
+
+17
+
+suffer the loss of royalties to your gamble that the 
+
+18
+
+patent is void, because presumably they've proven that 
+
+19
+
+you knew your steps infringed. 
+
+20
+
+ MR. WAXMAN: 
+
+21
+
+ JUSTICE SOTOMAYOR: 
+
+So I ­­
+So you knew that, at 
+
+22
+
+least on the terms of the patent as it exists, you 
+
+23
+
+violated. 
+
+24
+25
+
+ MR. WAXMAN: 
+
+I have a doctrinal ­­ my answer 
+
+has a doctrinal portion and a practical, real­world
+
+Alderson Reporting Company
+
+Official
+
+40
+1
+
+portion.  The doctrinal portion is simply the statement 
+
+2
+
+that was made by somebody on the bench, and ­­ and I'll 
+
+3
+
+just quote Justice Black in his dissenting opinion in 
+
+4
+
+Exhibit Supply, which began with a statement that was 
+
+5
+
+agreed ­­ was ­­ was started as common ground, where 
+
+6
+
+he ­­ he said, there can be no infringement of a void 
+
+7
+
+patent.  And if you ­­ and ­­ and there are ­­
+
+8
+
+ JUSTICE GINSBURG: 
+
+May I ­­ may I stop you 
+
+9
+
+at that point and ask how does that compare with what 
+
+10
+
+Charles Rich said, which is ­­ and I think this is in 
+
+11
+
+the government's brief and I'm sure that you know it ­­
+
+12
+
+assertion that invalid claims can't be infringed is a 
+
+13
+
+nonsense statement. 
+
+14
+
+ What do you suppose he meant by that? 
+
+15
+
+ MR. WAXMAN: 
+
+Okay.  First of all, Charles 
+
+16
+
+Rich, Judge Rich, Chief Judge Rich, held for the court 
+
+17
+
+in Richdel, which was, which was decided in 1983 at the 
+
+18
+
+very outset of the Federal Circuit's creation, this was 
+
+19
+
+the holding of Richdel, that if a claim is invalid, 
+
+20
+
+there is nothing to be infringed. 
+
+21
+
+ JUSTICE GINSBURG: 
+
+22
+
+ MR. WAXMAN: 
+
+Well, that ­­
+What he meant ­­ what he meant 
+
+23
+
+when he made the statement that you've quoted was 
+
+24
+
+accurate in the very peculiar context of that case. 
+
+25
+
+Because in that case, there was, in fact, a claim of
+
+Alderson Reporting Company
+
+Official
+
+41
+1
+
+invalidity under best mode, and there was a claim that 
+
+2
+
+the steps of the method or the combination were not 
+
+3
+
+being practiced. 
+
+4
+5
+
+ JUSTICE GINSBURG: 
+
+Well, then what's ­­
+
+what's ­­
+
+6
+
+ MR. WAXMAN: 
+
+7
+
+ JUSTICE GINSBURG: 
+
+But because of ­­ may I just ­­
+You're making this 
+
+8
+
+case­specific.  But he also said, courts constantly hold 
+
+9
+
+claims infringed, but invalid. 
+
+10
+
+ MR. WAXMAN: 
+
+So what that means is, if I can 
+
+11
+
+just finish my point on the case that he was deciding, 
+
+12
+
+and what it made ­­ why it made sense for ­­ because of 
+
+13
+
+a reason of the quirk of the case, the best mode defense 
+
+14
+
+of invalidity was not presented to the jury.  And he was 
+
+15
+
+simply saying that it was wrong to say that by having 
+
+16
+
+found the ­­ the question of whether all the steps were 
+
+17
+
+practiced or in that case, not, he necessarily ­­ the 
+
+18
+
+jury necessarily made a finding on invalidity. 
+
+19
+
+ What ­­ what the more general statement, 
+
+20
+
+Justice Ginsburg, reflects is the fact that infringement 
+
+21
+
+can be referred to ­­ I mean, it ­­ there are, as was 
+
+22
+
+pointed out, separate defenses.  One is the first ­­ in 
+
+23
+
+271(a) or 282(a) ­­ (a)(1), is you're not practicing all 
+
+24
+
+of the steps of the claimed invention, and that is 
+
+25
+
+vernacularly referred to as noninfringement.
+
+Alderson Reporting Company
+
+Official
+
+42
+1
+
+ The claim that a patent is valid depends on 
+
+2
+
+a ­­ or invalid depends on a showing that it doesn't 
+
+3
+
+satisfy Sections 102, 103, or 112 of the Patent Act, and 
+
+4
+
+is a ­­ is a showing that, if made, will invalidate the 
+
+5
+
+patent against everybody, not just the defendant in the 
+
+6
+
+case. 
+
+7
+
+ JUSTICE GINSBURG: 
+
+I thought ­­ and maybe 
+
+8
+
+correct me if I'm wrong ­­ that what this meant was 
+
+9
+
+thinking of how it comes up in litigation.  So you're in 
+
+10
+
+the district court, and you have ­­ let's say you're the 
+
+11
+
+alleged infringer or contributory infringer or inducer, 
+
+12
+
+so you say, number one, the patent is invalid; and, 
+
+13
+
+number two, if it's valid, it was not infringed. 
+
+14
+
+ So in the court of first instance, both of 
+
+15
+
+those issues are discrete in the sense that I am arguing 
+
+16
+
+it's not valid, so no patent is out of it; but if I'm 
+
+17
+
+wrong about that, it wasn't infringed.  So though ­­
+
+18
+
+those are discrete inquiries. 
+
+19
+
+ MR. WAXMAN: 
+
+There's ­­ there's ­­ we're not 
+
+20
+
+disputing that they're discrete inquiries.  The validity 
+
+21
+
+of the ­­ a ­­ a finding of infringement, the ability 
+
+22
+
+to, as this Court put it in Aro 1, immerse a defendant 
+
+23
+
+as an infringer presupposes that there is, in fact ­­
+
+24
+
+someone is practicing all the steps of a valid patent. 
+
+25
+
+That is ­­ that's indisputable.
+
+Alderson Reporting Company
+
+Official
+
+43
+1
+
+ It's simply ­­ it is a nonsense statement to 
+
+2
+
+say that you can be immersed as an infringer of a void 
+
+3
+
+patent.  The patent provides rights.  The rights to 
+
+4
+
+exclude; the right to withhold authorization within the 
+
+5
+
+meaning of 271(a), defining infringement.  If you have 
+
+6
+
+no ability, no legal right to withhold authorization, 
+
+7
+
+you don't have a legal right that's being violated if 
+
+8
+
+somebody practices the claimed steps. 
+
+9
+
+ Now, I do want to make a couple of points ­­
+
+10
+
+well, first, I should go back to the ­­ let me try to 
+
+11
+
+remember my practical side of Justice ­­ the answer to 
+
+12
+
+Justice Sotomayor's question.  I wish I could remember 
+
+13
+
+it, because it was really good.  Maybe I'll ­­ maybe 
+
+14
+
+I'll ­­
+
+15
+16
+17
+
+ JUSTICE SOTOMAYOR: 
+
+Your answer ­­ your 
+
+answer was really good or my question? 
+ MR. WAXMAN: 
+
+No, no, your question was good, 
+
+18
+
+but my answer was also good, and it will probably come 
+
+19
+
+to me on the walk back to my office. 
+
+20
+21
+22
+23
+24
+25
+
+ JUSTICE SCALIA: 
+
+I have forgotten the 
+
+question.  What was ­­ what was the question? 
+ MR. WAXMAN: 
+
+So I think the question was ­­
+
+well, what was the question? 
+ JUSTICE KAGAN: 
+
+Mr. Waxman, as a ­­ as a 
+
+company that's in this position, the company has other
+
+Alderson Reporting Company
+
+Official
+
+44
+1
+
+alternatives.  It can go to court and seek a declaratory 
+
+2
+
+judgment, it can go to the PTAB, it can go to the PTO, 
+
+3
+
+it can do all of these things essentially to figure out 
+
+4
+
+whether the patent is valid.  And those things also have 
+
+5
+
+the side benefit of getting invalid patents struck so 
+
+6
+
+that nobody else will have to deal with them either. 
+
+7
+
+ So why isn't that the right way to 
+
+8
+
+understand this system, is that, no, rather than come ­­
+
+9
+
+rather than allow a company to come in and do what we 
+
+10
+
+don't allow in any other context, as far as I can see, 
+
+11
+
+which is to plead a good faith belief in the invalidity 
+
+12
+
+of the patent, that, no, we ­­ we say to them, yes, we 
+
+13
+
+understand you have a question, Congress has set up many 
+
+14
+
+mechanisms for you to get an answer to that question, 
+
+15
+
+use one of those mechanisms. 
+
+16
+
+ MR. WAXMAN: 
+
+Okay.  So, I mean, look, I'm ­­
+
+17
+
+our argument isn't principally a policy argument, but 
+
+18
+
+I'll give you the policy answer to your question.  The 
+
+19
+
+legal answer is that 271(b) and (c) liability is a 
+
+20
+
+validly and recognized as a statutory instantiation of 
+
+21
+
+civil aiding and abetting liability.  And third­party 
+
+22
+
+liability at common law was a rarity and a particular 
+
+23
+
+rarity in the absence of culpability. 
+
+24
+
+ But as to your question, so Cisco is a big 
+
+25
+
+company and it has a lot of resources.  It's true that
+
+Alderson Reporting Company
+
+Official
+
+45
+1
+
+it gets hundreds or thousands of these letters every 
+
+2
+
+year.  And if the notion that it should run into court 
+
+3
+
+and institute an action every time somebody with a 
+
+4
+
+business method patent that seems now pretty clearly 
+
+5
+
+invalid under this Court's decision in Alice has to 
+
+6
+
+begin patent litigation and stop ­­ stop the production 
+
+7
+
+line and tell all of its customers not to do it, I 
+
+8
+
+think, would be an odd practical remedy. 
+
+9
+
+ The question here is: 
+
+What about a company 
+
+10
+
+that's perhaps a less ­­ that's Cisco 20 years ago.  You 
+
+11
+
+know, an innovative company that is making products that 
+
+12
+
+people can use.  It gets a letter and it looks at this 
+
+13
+
+letter and says, gee, you know, if the patent is 
+
+14
+
+construed the way we think it should be construed, we 
+
+15
+
+don't think our customers are violating it, and if it's 
+
+16
+
+construed broadly, it's probably void because of X, Y, 
+
+17
+
+or Z. 
+
+18
+
+ If we go to court ­­ first of all, we will 
+
+19
+
+have to shut down our only means of ­­ you know, we have 
+
+20
+
+to shut down our production line, we have to tell our 
+
+21
+
+customer to stop using it and we get to go to court and 
+
+22
+
+litigate what probably will be a $1 million to 
+
+23
+
+$10 million case, which if we don't shut our production 
+
+24
+
+line, we will be retrospectively liable for all the 
+
+25
+
+damages that occurred.  And the paradigm of what happens
+
+Alderson Reporting Company
+
+Official
+
+46
+1
+
+here is ­­ again, this is getting back to a point that I 
+
+2
+
+do remember that you made, which is the two sides of the 
+
+3
+
+coin ­­ what the lower court held ­­ what the trial 
+
+4
+
+court held was that under Global­Tech, it had to allow 
+
+5
+
+Cisco in ­­ on the issue of scienter to explain why it 
+
+6
+
+had a good faith belief that the patent was not 
+
+7
+
+infringed.  But it was not allowed to explain why, if 
+
+8
+
+the ­­ all the steps ­­ if the claim ­­ if the patent 
+
+9
+
+were construed so as to encompass what Cisco does, it 
+
+10
+
+would be invalid for lack of enablement or written 
+
+11
+
+description.  And ­­ which is exactly what happened. 
+
+12
+
+ And so the defense that Cisco was allowed to 
+
+13
+
+make at trial was the sound of one hand clapping 
+
+14
+
+whereas what Cisco did, once it received notice of this 
+
+15
+
+suit, was to ­­ to do an analysis and say, this appears 
+
+16
+
+to claim only Bluetooth, we don't do Bluetooth, so our 
+
+17
+
+customers are not practicing the steps.  But if this 
+
+18
+
+were construed broadly enough to include the protocols 
+
+19
+
+that we are involved in, it would be anticipated and in 
+
+20
+
+any event, there's no enablement or a written 
+
+21
+
+description of how to do it. 
+
+22
+
+ JUSTICE SOTOMAYOR: 
+
+23
+
+That goes to ­­ that 
+
+goes to rolling the dice. 
+
+24
+
+ MR. WAXMAN: 
+
+25
+
+ JUSTICE SOTOMAYOR: 
+
+Well, yes. 
+Meaning if you ­­
+
+Alderson Reporting Company
+
+Official
+
+47
+1
+
+ MR. WAXMAN: 
+
+2
+
+ JUSTICE SOTOMAYOR: 
+
+But ­­
+Infringement is one 
+
+3
+
+thing.  If you have a good faith belief, you've done the 
+
+4
+
+inquiry, the one that Justice Kennedy talked about, that 
+
+5
+
+was the premise of Global­Tech, which is there's a valid 
+
+6
+
+patent out there, you have to give a reason why your 
+
+7
+
+steps don't infringe their steps. 
+
+8
+
+ MR. WAXMAN: 
+
+9
+
+ JUSTICE SOTOMAYOR: 
+
+You have to give ­­
+If you can do that, 
+
+10
+
+that's fine.  If you can't, if ­­ once you've done, 
+
+11
+
+you've lost on that, then you've rolled the dice.  Why 
+
+12
+
+should the patent owner now be deprived of the value of­­
+
+13
+
+ MR. WAXMAN: 
+
+Justice Sotomayor, you are 
+
+14
+
+rolling the dice no matter what.  Because if you can't 
+
+15
+
+convince ­­ you need to be able to convince a jury that 
+
+16
+
+notwithstanding the ­­ whatever proof the plaintiff has 
+
+17
+
+that you were on notice of the patent and a claim of 
+
+18
+
+infringement, that your scienter, which after all is 
+
+19
+
+measured by what you believe, not why what the other 
+
+20
+
+side tells you to believe, you are ­­ if the jury can 
+
+21
+
+only evaluate half of the thought process of the 
+
+22
+
+defendant, the defendant says, if it's narrowly 
+
+23
+
+construed, the ­­ the steps aren't practiced; if it's 
+
+24
+
+broadly construed, it's invalid.  But when you get to 
+
+25
+
+the jury, the only thing you're allowed to tell the jury
+
+Alderson Reporting Company
+
+Official
+
+48
+1
+
+is, well, I believed that if it was narrowly construed, 
+
+2
+
+we wouldn't be practicing this.  That's not a real ­­
+
+3
+
+that's not giving the jury the benefit of what you 
+
+4
+
+believed. 
+
+5
+
+ And again, all this case is about, it's not 
+
+6
+
+about immunizing anything.  It's about what the jury 
+
+7
+
+will hear if the defendant has anything to say about its 
+
+8
+
+scienter in response to a prima facia showing by the 
+
+9
+
+plaintiff that the defendant knew of the patent and that 
+
+10
+11
+
+it ­­ the patent was being infringed. 
+ JUSTICE KAGAN: 
+
+Is there ­­ this is ­­ we 
+
+12
+
+have no question, right, that validity or invalidity is 
+
+13
+
+an affirmative defense? 
+
+14
+
+ MR. WAXMAN: 
+
+15
+
+ JUSTICE KAGAN: 
+
+Correct. 
+Is that correct?  I mean, is 
+
+16
+
+there any other area of law where the defendant gets to 
+
+17
+
+say, I thought an affirmative defense would be 
+
+18
+
+available?  It turned out I was wrong, but I thought an 
+
+19
+
+affirmative defense would be available. 
+
+20
+
+ MR. WAXMAN: 
+
+21
+
+ CHIEF JUSTICE ROBERTS: 
+
+22
+
+ MR. WAXMAN: 
+
+Oh, I think, if you ­­ may I ­­
+Sure. 
+
+Quickly.  Any of the common 
+
+23
+
+law, any of the ­­ if you go back to the common law and 
+
+24
+
+look at instances where aiding and abetting liability, 
+
+25
+
+which as this Court pointed out is referenced in 876(b)
+
+Alderson Reporting Company
+
+Official
+
+49
+1
+
+of the first restatement, that defense was available. 
+
+2
+
+Because someone who didn't have that belief was not 
+
+3
+
+culpable and, quote, "morally wrong." 
+
+4
+
+ Thank you. 
+
+5
+
+ CHIEF JUSTICE ROBERTS: 
+
+6
+
+ Mr. Werbner, you have four minutes left. 
+
+7
+8
+9
+
+Thank you, counsel. 
+
+ REBUTTAL ARGUMENT OF MARK S. WERBNER 
+ ON BEHALF OF PETITIONER 
+ MR. WERBNER: 
+
+Thank you, Mr. Chief Justice. 
+
+10
+
+ Justice Kagan, to your question just now, I 
+
+11
+
+know of no other area of the law where a defendant, if 
+
+12
+
+it turns out they're right, they win, and if it turns 
+
+13
+
+out they're wrong, they win.  That's the position that 
+
+14
+
+Cisco is seeking. 
+
+15
+16
+17
+
+ And the parade of horribles of having to 
+shut down the factory ­­
+ JUSTICE SOTOMAYOR: 
+
+You're argument goes too 
+
+18
+
+far, because that's the same for infringement.  If you 
+
+19
+
+don't think you're infringing and you have a good faith 
+
+20
+
+basis, you're right. 
+
+21
+
+ MR. WERBNER: 
+
+Well, there ­­ there is the ­­
+
+22
+
+in my mind, the fact is, is that Cisco in their amici 
+
+23
+
+pressed Congress to create through the PTO the IPR 
+
+24
+
+procedures.  It's not a million dollar lawsuit, and it's 
+
+25
+
+not one that goes on forever.  They have many lawyers
+
+Alderson Reporting Company
+
+Official
+
+50
+1
+
+that can evaluate the risk and go to the PTO.  That's 
+
+2
+
+where they should go if they're seeking validity. 
+
+3
+
+Infringement you can't go to the PTO, but the IPR allows 
+
+4
+
+that. 
+
+5
+
+ JUSTICE SCALIA: 
+
+Of course your response to 
+
+6
+
+the ­­ the assertion that your ­­ your argument goes too 
+
+7
+
+far is well, we don't ­­ we don't agree that ­­ that it 
+
+8
+
+applies to whether you've infringed, right?  I mean, 
+
+9
+
+your argument is even ­­ even the question of 
+
+10
+
+infringement, despite what we said in Global­Tech, that 
+
+11
+
+is not a defense either, right?  So at least you're 
+
+12
+
+consistent. 
+
+13
+
+ MR. WERBNER: 
+
+Well, Justice Scalia, I do 
+
+14
+
+want to point out that Cisco cannot point to a single 
+
+15
+
+statutory provision that suggests that Congress thought 
+
+16
+
+that the validity of the patent was an element of 
+
+17
+
+271(b). 
+
+18
+
+ So, no matter how the Court comes out on the 
+
+19
+
+non­infringement scienter and the Global­Tech, 
+
+20
+
+regardless, our position doesn't depend on it and ­­ and 
+
+21
+
+there's no statutory support for validity being a 
+
+22
+
+component of a 271(b).  And the reference was to 
+
+23
+
+Blonder­Tongue?  That ­­ that case that this Court 
+
+24
+
+decided back in, I think, the early '70s said that a 
+
+25
+
+jury finding or a judge that a patent is invalid doesn't
+
+Alderson Reporting Company
+
+Official
+
+51
+1
+
+wipe it out.  It's not ­­ it doesn't become void or 
+
+2
+
+canceled.  It's a matter of collateral estoppel that has 
+
+3
+
+to be pled under Rule 8(c).  And if a defendant later 
+
+4
+
+does not, then that patent was infringing an invalid 
+
+5
+
+patent because it's an affirmative defense. 
+
+6
+
+ So I think the Blonder­Tongue case really 
+
+7
+
+completely undermines the position that ­­ that 
+
+8
+
+infringement presupposes validity.  It's quite separate, 
+
+9
+
+it's quite distinct and for the reasons we stated, we 
+
+10
+
+would ask that the case be reversed and remanded to the 
+
+11
+
+Federal circuit unless there are questions. 
+
+12
+
+ Thank you. 
+
+13
+
+ CHIEF JUSTICE ROBERTS: 
+
+14
+
+ The case is submitted. 
+
+15
+
+ (Whereupon, at 11:14 a.m., the case in the 
+
+Thank you, counsel. 
+
+16
+
+above­entitled matter was submitted.) 
+
+17
+
+ 
+
+18
+
+ 
+
+19
+
+ 
+
+20
+
+ 
+
+21
+
+ 
+
+22
+
+ 
+
+23
+
+ 
+
+24
+
+ 
+
+25
+
+ 
+
+Alderson Reporting Company
+
+

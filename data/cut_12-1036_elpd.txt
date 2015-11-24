@@ -1,0 +1,6338 @@
+Official
+
+1
+
+ P R O C E E D I N G S 
+
+2
+3
+
+ (11:06 a.m.) 
+ CHIEF JUSTICE ROBERTS: 
+
+We'll hear argument 
+
+4
+
+next today in Case 12­1036, Mississippi v. AU Optronics 
+
+5
+
+Corporation. 
+
+6
+
+ Mr. Massey. 
+
+7
+
+ ORAL ARGUMENT OF JONATHAN S. MASSEY 
+
+8
+9
+10
+11
+
+ ON BEHALF OF THE PETITIONER 
+ MR. MASSEY: 
+
+Thank you, Mr. Chief Justice, 
+
+and may it please the Court: 
+ The text and structure of the Class Action 
+
+12
+
+Fairness Act of 2005, which is known as CAFA, show that 
+
+13
+
+it does not extend to State parens patriae actions.  If 
+
+14
+
+there are any doubt on the matter, CAFA would have to be 
+
+15
+
+narrowly construed as a matter of the principles of 
+
+16
+
+federalism that are at issue here, as evidenced by the 
+
+17
+
+46 States supporting Mississippi before the Court. 
+
+18
+
+ The disposition of the case today, we 
+
+19
+
+believe, is straightforward.  There is only one 
+
+20
+
+plaintiff in this case, the State of Mississippi.  It is 
+
+21
+
+not a citizen for purposes of diversity jurisdiction, 
+
+22
+
+and therefore, the requirements of even minimal 
+
+23
+
+diversity, let alone the 100­person numerosity 
+
+24
+
+requirement of CAFA, cannot be met. 
+
+25
+
+ Our friends on the other side want to use
+
+3
+
+Alderson Reporting Company
+
+Official
+
+1
+
+the statute of CAFA to change that result.  The mass 
+
+2
+
+action definition is the key part of the statute issued 
+
+3
+
+today.  It is in the Joint Appendix at pages 79 to 80. 
+
+4
+
+ Essentially, the attempt to force State 
+
+5
+
+actions into the mass action definition is a 
+
+6
+
+square­peg­round­hole kind of problem.  The mass action 
+
+7
+
+definition addresses the situation of mass consolidation 
+
+8
+
+or mass joinder, when there are 100 individual 
+
+9
+
+plaintiffs or more in a case.  And CAFA provides that 
+
+10
+11
+
+there's Federal jurisdiction over such a case. 
+ But that does not apply to this situation. 
+
+12
+
+CAFA refers to real plaintiffs asserting concrete claims 
+
+13
+
+and further provides that those claims must be proposed 
+
+14
+
+to be tried jointly.  None of that happens in a parens 
+
+15
+
+patriae case, where the State is the only Plaintiff. 
+
+16
+
+ JUSTICE GINSBURG: 
+
+Mr. Massey, with respect 
+
+17
+
+to that, there is a claim for restitution.  I take it, 
+
+18
+
+if the suit is successful, the money that's collected 
+
+19
+
+will be distributed to all the people who are affected 
+
+20
+
+by this conduct. 
+
+21
+
+ MR. MASSEY: 
+
+Well, Justice Ginsburg, that's 
+
+22
+
+very unlikely in this case.  The Plaintiffs ­­ the 
+
+23
+
+Plaintiff in this case is the State of Mississippi.  The 
+
+24
+
+consumers of Mississippi have already sued in an 
+
+25
+
+indirect purchaser action that has been settled.  So
+
+4
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+they have received compensation. 
+ The State does have a restitution claim 
+
+3
+
+here.  Your Honor is correct.  And at page 65(a) of 
+
+4
+
+the ­­ of the response to opposition of the Orange 
+
+5
+
+Briefs, 65(a) describes the restitution claim. 
+
+6
+
+ The restitution claim seeks recovery to the 
+
+7
+
+State of the money, not to consumers in Mississippi. 
+
+8
+
+And what's likely to happen here ­­ and, frankly, what 
+
+9
+
+happens very frequently when the Federal Trade 
+
+10
+
+Commission or the Securities and Exchange Commission or 
+
+11
+
+any other State or agency seeks restitution, the money 
+
+12
+
+is recovered by the State. 
+
+13
+
+ And in a case like this, where it is very 
+
+14
+
+difficult to trace the individuals, the consumers who've 
+
+15
+
+been hurt ­­ after all, we're talking an LCD 
+
+16
+
+price­fixing conspiracy.  So every television, computer 
+
+17
+
+monitor, phone, toy, digital camera, car navigation 
+
+18
+
+system, there are no records, obviously, of who 
+
+19
+
+purchased them, and it would cost so much money to 
+
+20
+
+identify them ­­
+
+21
+
+ JUSTICE KENNEDY: 
+
+22
+
+$10,000 for each one? 
+
+23
+
+ MR. MASSEY: 
+
+24
+
+ JUSTICE KENNEDY: 
+
+25
+
+And you're asking for 
+
+Pardon me, Your Honor? 
+You're asking for $10,000 
+
+for each one?
+
+5
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ MR. MASSEY: 
+
+Well, the ­­ the complaint does 
+
+2
+
+pray that.  As the case goes forward, the Attorney 
+
+3
+
+General ­­ and subject to all the procedures that occur 
+
+4
+
+in Mississippi, will have to make a judgment about how 
+
+5
+
+that money is to be distributed. 
+
+6
+
+ In the past, what I can tell you ­­
+
+7
+
+ JUSTICE SOTOMAYOR: 
+
+Let's assume a case 
+
+8
+
+where ­­ forget about that the consumer action was 
+
+9
+
+settled.  And let's forget about a case in which the 
+
+10
+
+damages are difficult to prove. 
+
+11
+
+ MR. MASSEY: 
+
+12
+
+ JUSTICE SOTOMAYOR: 
+
+Yes. 
+Let's think of a case in 
+
+13
+
+which the damages can be determined, and the State comes 
+
+14
+
+in on behalf of a class of consumers and says, we're 
+
+15
+
+seeking their restitution.  Does your argument change if 
+
+16
+
+the facts are different? 
+
+17
+
+ MR. MASSEY: 
+
+Our argument does not change. 
+
+18
+
+I would say, in our case, the State ­­ just to be clear 
+
+19
+
+about restitution ­­ the State is proceeding under 
+
+20
+
+statutes that gives the ­­ the State the only cause of 
+
+21
+
+action.  Only the State can sue under these provisions. 
+
+22
+
+If the State ­­ the ­­ the consumers have separate 
+
+23
+
+damages statutes.  The consumers would sue under 
+
+24
+
+separate statutes in a different court. 
+
+25
+
+ So the ­­ the ­­ in a different court,
+
+6
+
+Alderson Reporting Company
+
+Official
+
+1
+
+meaning in Mississippi, that would have to be in a 
+
+2
+
+circuit court, court of law, as opposed to a court of 
+
+3
+
+equity.  But if a State were to seek restitution and to 
+
+4
+
+distribute it to consumers, just to be clear, our 
+
+5
+
+argument would not change because restitution is still a 
+
+6
+
+public remedy. 
+
+7
+8
+9
+
+ And for years ­­ for decades, Federal 
+agencies and States have ­­
+ JUSTICE SOTOMAYOR: 
+
+So is this a real 
+
+10
+
+party­in­interest argument, or is it a statutory 
+
+11
+
+argument that ­­
+
+12
+
+ MR. MASSEY: 
+
+13
+
+ JUSTICE SOTOMAYOR: 
+
+It is ­­
+­­ the statute requires 
+
+14
+
+named plaintiffs as opposed to ­­ named or unnamed 
+
+15
+
+plaintiffs, but plaintiffs. 
+
+16
+
+ MR. MASSEY: 
+
+Yes, named plaintiffs.  The ­­
+
+17
+
+the simplest resolution of the case is simply a 
+
+18
+
+statutory argument, that, on its face, the mass action 
+
+19
+
+definition refers to plaintiffs.  The only plaintiff is 
+
+20
+
+the State.  Even if the State has statutory authority to 
+
+21
+
+seek restitution, it is still the only plaintiff. 
+
+22
+
+ So you would not even need to get into the 
+
+23
+
+real party­in­interest test because the statute doesn't 
+
+24
+
+refer to unnamed parties or to people who might be real 
+
+25
+
+parties in interest.  It refers simply to the
+
+7
+
+Alderson Reporting Company
+
+Official
+
+1
+
+plaintiffs. 
+
+2
+
+ So it's simple ­­
+
+3
+
+ JUSTICE ALITO: 
+
+4
+
+reference to persons? 
+
+5
+
+ MR. MASSEY: 
+
+What do you do with 
+
+Yes, Your Honor.  There is a 
+
+6
+
+reference to persons in the mass action definition.  It 
+
+7
+
+occurs ­­ we believe, very strongly, that it 
+
+8
+
+equates ­­ that ­­ that section continues and equates 
+
+9
+
+persons with plaintiffs, and that the statute, in fact, 
+
+10
+
+wouldn't ­­ would be absurd if it didn't because it 
+
+11
+
+refers to the monetary claims of 100 or more persons, as 
+
+12
+
+Your Honor has noted. 
+
+13
+
+ But then it says, "that are proposed to be 
+
+14
+
+tried jointly on the ground that the plaintiffs' claims 
+
+15
+
+involve common questions of law or fact."  Those two 
+
+16
+
+sets have to mean the same thing; otherwise, it doesn't 
+
+17
+
+make any sense. 
+
+18
+
+ And furthermore, there are severe practical 
+
+19
+
+problems that support our sort of 
+
+20
+
+square­peg­and­round­hole problem. 
+
+21
+
+ JUSTICE ALITO: 
+
+22
+
+ MR. MASSEY: 
+
+23
+
+ JUSTICE ALITO: 
+
+Well, I ­­ I realize that. 
+Yes. 
+But I'm not sure why that ­­
+
+24
+
+why it wouldn't make sense to read two different terms 
+
+25
+
+in the same sentence to mean two different things.
+
+8
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ MR. MASSEY: 
+
+2
+
+ JUSTICE ALITO: 
+
+Well ­­
+The persons could be here, 
+
+3
+
+the citizens of Mississippi, who were damaged by the 
+
+4
+
+activity in question.  The plaintiff ­­ plaintiffs, 
+
+5
+
+here, there's one named plaintiff.  The plaintiffs can 
+
+6
+
+refer to ­­ to the person or entity or multiple people 
+
+7
+
+or entities who were named as plaintiffs. 
+
+8
+9
+10
+
+ So why ­­ I don't see what the inconsistency 
+is. 
+ MR. MASSEY: 
+
+Well, because ­­ we think that 
+
+11
+
+our reading is better because, if you're applying the 
+
+12
+
+common question test, not to the persons who were in the 
+
+13
+
+case, those abstract unnamed, unknown consumers, you're 
+
+14
+
+not inquiring as to what their claims might be, you're 
+
+15
+
+applying the common question test only to the plaintiff, 
+
+16
+
+how could that ­­ how could that produce an 
+
+17
+
+administrable result?  You could have consumers ­­ you 
+
+18
+
+never ­­ you would never know whether they presented 
+
+19
+
+common questions. 
+
+20
+
+ And that ­­ that can't be what Congress was 
+
+21
+
+thinking of because, then, you would have a license for 
+
+22
+
+an unadministrable ­­ this is clearly a reference to the 
+
+23
+
+kind of Rule 23 inquiry where, as this Court has 
+
+24
+
+emphasized in class action case after class action case, 
+
+25
+
+there has to be a rigorous analysis to ensure that there
+
+9
+
+Alderson Reporting Company
+
+Official
+
+1
+
+are actual common questions based on the ­­ the actual 
+
+2
+
+claims asserted. 
+
+3
+
+ And ­­ and we think that there's ­­ that any 
+
+4
+
+other reading produces confusion, not just in this 
+
+5
+
+section, but also in the remand section ­­ the $75,000 
+
+6
+
+remand section of the statute.  CAFA provides that, if a 
+
+7
+
+claim does not make ­­ does not reach the amount in 
+
+8
+
+controversy requirement, it has to be remanded to State 
+
+9
+
+court. 
+
+10
+
+ CHIEF JUSTICE ROBERTS: 
+
+What if you have an 
+
+11
+
+executor, and he's administering an estate in which 100 
+
+12
+
+people have equal shares to the estate, and the estate 
+
+13
+
+has a claim.  And he brings it on behalf of the estate. 
+
+14
+
+Now, is that covered as a mass action or ­­ or not? 
+
+15
+
+ MR. MASSEY: 
+
+That, of course, is a different 
+
+16
+
+case when it is not involving the government.  But we 
+
+17
+
+think Navarro would, essentially, address that 
+
+18
+
+situation. 
+
+19
+
+ That's this Court's decision in 1980 that 
+
+20
+
+held that the trustees of a business trust were the sole 
+
+21
+
+real parties in interest and that the beneficiaries were 
+
+22
+
+not, even though they stood to get money as a result of 
+
+23
+
+the action, so I think that would address Your Honor's 
+
+24
+
+question. 
+
+25
+
+ The text of the statute still would refer to
+
+10
+
+Alderson Reporting Company
+
+Official
+
+1
+
+"plaintiff."  So you would inquire, in that instance, 
+
+2
+
+whether under State law ­­ this is what happened in 
+
+3
+
+Navarro ­­ the Court inquired, does the executor have 
+
+4
+
+the legal authority to represent the beneficiaries as 
+
+5
+
+the sole plaintiff? 
+
+6
+
+ And if he or she does, then you would have 
+
+7
+
+the single plaintiff situation, and you would not be 
+
+8
+
+under CAFA. 
+
+9
+
+ JUSTICE GINSBURG: 
+
+Mr. Massey, you envision 
+
+10
+
+one proceeding, it could be a class action on behalf of 
+
+11
+
+the individuals, that doesn't require everybody  that 
+
+12
+
+satisfy the amount in controversy, and then this action 
+
+13
+
+by the Attorney General, which does, among other things, 
+
+14
+
+seek restitution. 
+
+15
+
+ Isn't there an overlap between those two 
+
+16
+
+claims?  And how do we sort out ­­ you said ­­ at one 
+
+17
+
+point, I think you described the restitution as 
+
+18
+
+"disgorgement of ill­gotten gains." 
+
+19
+
+ MR. MASSEY: 
+
+20
+
+ JUSTICE GINSBURG: 
+
+Yes, Your Honor. 
+But, now, we have the 
+
+21
+
+consumers who were affected, they've already been paid. 
+
+22
+
+So how does it work for the Attorney General's suit? 
+
+23
+
+What is the impact of the class action that has already 
+
+24
+
+gone forward and been completed on the Attorney 
+
+25
+
+General's claim?
+
+11
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ MR. MASSEY: 
+
+2
+
+ The ­­ when the MDL judge entered the 
+
+Yes, Your Honor. 
+
+3
+
+settlement in the class, she indicated her view that it 
+
+4
+
+would not preclude a parens case.  Of course, it's open 
+
+5
+
+on remand for the defendants to argue that the consumer 
+
+6
+
+settlement bars the Attorney General's action.  That 
+
+7
+
+will have to be adjudicated on the merits in 
+
+8
+
+Mississippi. 
+
+9
+
+ States are free to adopt different rules 
+
+10
+
+about this.  There is no case that we have found in 
+
+11
+
+Mississippi squarely addressing this.  There have been a 
+
+12
+
+dozen or so parens cases over the last 10 years. 
+
+13
+
+ There is a case, though, from the State of 
+
+14
+
+Washington, which is illustrative.  It's actually on 
+
+15
+
+page 35 of the Red Brief ­­ from our friend's brief, and 
+
+16
+
+it's a case from the Washington Supreme Court in 1976, 
+
+17
+
+called Ralph Winters Chrysler Plymouth. 
+
+18
+
+ In that case, the Washington Supreme Court 
+
+19
+
+encountered the situation where the State had sought 
+
+20
+
+restitution on behalf of consumers and sought to 
+
+21
+
+distribute the money to consumers, and consumers also 
+
+22
+
+brought separate damages actions. 
+
+23
+
+ And the Washington court said, there was no 
+
+24
+
+double recovery, no preclusion problem, because the 
+
+25
+
+restitution remedies were public in nature, and the
+
+12
+
+Alderson Reporting Company
+
+Official
+
+1
+
+private damages actions proceeded under different 
+
+2
+
+statutory authority for different claims. 
+
+3
+
+ And whether Mississippi would adopt that 
+
+4
+
+approach, I don't know.  But that illustrates, I think, 
+
+5
+
+ultimately, that these are questions of State law, and 
+
+6
+
+there is a longstanding tradition of restitution being a 
+
+7
+
+public remedy. 
+
+8
+9
+
+ After all, the government ­­ we've cited 
+some cases in the brief involving everything from rent 
+
+10
+
+control to energy price regulation.  The government 
+
+11
+
+brings ­­ the Federal government, as well as State 
+
+12
+
+governments, has brought restitution actions where it 
+
+13
+
+has not returned money to consumers, has sometimes 
+
+14
+
+done ­­ also sometimes has returned money, has ­­ but in 
+
+15
+
+all those cases, consumers never participate.  They are 
+
+16
+
+never permitted to intervene. 
+
+17
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, it would 
+
+18
+
+make ­­ it would make no sense for a defendant in a 
+
+19
+
+class action brought by consumers to ever settle the 
+
+20
+
+case.  It's going to have to pay twice.  It's going to 
+
+21
+
+have to pay consumers, and then it's going to have to 
+
+22
+
+pay you because you can, say, well, we want restitution, 
+
+23
+
+and we are not going to distribute it to the class 
+
+24
+
+members, but we're entitled to it. 
+
+25
+
+ And I assume the amount of the restitution
+
+13
+
+Alderson Reporting Company
+
+Official
+
+1
+
+is based on some estimate of the class ­­ the consumers' 
+
+2
+
+claims. 
+
+3
+
+ MR. MASSEY: 
+
+Well, the evidence ­­ the 
+
+4
+
+evidence of loss is relevant.  But the law is actually 
+
+5
+
+well­settled in the lower courts ­­ there's not a 
+
+6
+
+decision of this Court, but ­­ that a consumer releasing 
+
+7
+
+his claim or her claim does not bar the State from 
+
+8
+
+proceeding with a public parens patriae action. 
+
+9
+
+ The defendants, when they settled, there is 
+
+10
+
+a little bit of disagreement in the brief, but the MDL 
+
+11
+
+judge took the defendants as conceding that their 
+
+12
+
+settlement with consumers would not bar a parens ­­
+
+13
+
+ CHIEF JUSTICE ROBERTS: 
+
+Is there ­­ is 
+
+14
+
+there ­­ what is your understanding under Mississippi 
+
+15
+
+law, which you know a great deal more than I do, about 
+
+16
+
+any limits on a parens patriae action? 
+
+17
+
+ Let's say there was one purchaser in 
+
+18
+
+Mississippi of LCDs, whatever, or two or three.  Could 
+
+19
+
+you bring a parens patriae action on their behalf? 
+
+20
+
+ MR. MASSEY: 
+
+21
+
+case, Your Honor. 
+
+22
+23
+24
+25
+
+That would be a very different 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, I know, 
+
+but I'm trying ­­
+ MR. MASSEY: 
+
+I think probably ­­ I think 
+
+very unlikely.  I don't ­­ it depends on the ­­ for
+
+14
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+3
+
+example, let me ­­ let me just be clear ­­
+ CHIEF JUSTICE ROBERTS: 
+
+Unlikely as a 
+
+practical matter or as a legal matter? 
+
+4
+
+ MR. MASSEY: 
+
+5
+
+ There are ­­ there are ­­ there's no bright 
+
+Both.  Both, Your Honor. 
+
+6
+
+line.  And after all, Snapp, which is the lodestar 
+
+7
+
+parens case from this Court in 1982, involved only 787 
+
+8
+
+workers.  They were agricultural workers from Puerto 
+
+9
+
+Rico.  And the Court ­­ one of the objections was this 
+
+10
+
+was not a sufficient quasi­sovereign interest to support 
+
+11
+
+a parens patriae case. 
+
+12
+
+ And what this Court said was that you can't 
+
+13
+
+just look at numbers because those people represent a 
+
+14
+
+public interest.  They were ­­ they alleged wage 
+
+15
+
+discrimination, and there was a deterrent effect.  So 
+
+16
+
+that it wasn't really just 787.  It was the entire 
+
+17
+
+population of Puerto Rico. 
+
+18
+
+ JUSTICE KENNEDY: 
+
+Are there parens patriae 
+
+19
+
+actions where the State attorney general brings the 
+
+20
+
+action in what is really a suit on behalf of private 
+
+21
+
+parties?  And, if so, do you call it private parens 
+
+22
+
+patriae? 
+
+23
+
+ MR. MASSEY: 
+
+Well, we  don’t think that 
+
+24
+
+would be ­­ that is not a proper parens patriae case, 
+
+25
+
+and the attorney general ­­
+
+15
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+3
+
+ JUSTICE KENNEDY: 
+
+In other words, parens 
+
+patriae has to have ­­ you have to ask for restitution? 
+ MR. MASSEY: 
+
+Well, no, no.  The parens 
+
+4
+
+patriae case, for example, here involves injunctive 
+
+5
+
+relief, civil penalties, harm to the State as a 
+
+6
+
+purchaser, itself, of LCD panels.  And so restitution ­­
+
+7
+
+the remedy doesn't matter.  But the ­­ the attorney 
+
+8
+
+general has statutory authority in this case to bring a 
+
+9
+
+case in the name of the State. 
+
+10
+
+ He is actually prohibited, under the State 
+
+11
+
+Consumer Protection Act ­­ all parties are prohibited 
+
+12
+
+from bringing a damages case on behalf of a private 
+
+13
+
+consumer, except in that consumer's name, so ­­
+
+14
+
+ CHIEF JUSTICE ROBERTS: 
+
+Did the State 
+
+15
+
+interest that's being ­­ the State interest that is 
+
+16
+
+being asserted is damage to the consumers? 
+
+17
+
+ MR. MASSEY: 
+
+Well, no.  I mean, the State 
+
+18
+
+interest is broader than that.  It is the ­­ it is the 
+
+19
+
+harm to Mississippi as a ­­ as a population, as an 
+
+20
+
+entity from this price­fixing conspiracy, just as the 
+
+21
+
+Federal government ­­
+
+22
+23
+24
+25
+
+ CHIEF JUSTICE ROBERTS: 
+
+Because it harmed 
+
+members of the population of Mississippi, right? 
+ MR. MASSEY: 
+
+Well, yes, but I think ­­ I 
+
+think, in Snapp, the Court discussed how the ­­ when a
+
+16
+
+Alderson Reporting Company
+
+Official
+
+1
+
+harm is broad enough, when it affects a substantial 
+
+2
+
+segment of the population and affects them in their 
+
+3
+
+economic capacity, there are indirect as well as ­­ as 
+
+4
+
+well as direct effects that the State could be concerned 
+
+5
+
+with. 
+
+6
+
+ Now, let me just ­­
+
+7
+
+ JUSTICE SCALIA: 
+
+8
+
+ MR. MASSEY: 
+
+9
+10
+11
+12
+13
+
+What ­­ what are those? 
+Well, in other words, there 
+
+are ­­ if people are harmed by a price­fixing 
+conspiracy, they have less money, they're not ­­ they ­­
+ CHIEF JUSTICE ROBERTS: 
+
+Damage to ­­ having 
+
+less money is a damage to the consumer. 
+ MR. MASSEY: 
+
+Well, but that has a ripple 
+
+14
+
+effect in the economy.  Price­fixing conspiracies have a 
+
+15
+
+public dimension. 
+
+16
+
+ And of course ­­ of course, if this ­­ any 
+
+17
+
+challenge to whether this is a proper parens patriae 
+
+18
+
+case or any case would be heard on the merits.  We ­­ we 
+
+19
+
+know the defendants will argue back in the Mississippi 
+
+20
+
+courts that they have a series of defenses as to why 
+
+21
+
+this case should not be brought. 
+
+22
+
+ One of them will be the attorney general 
+
+23
+
+should not have brought it because it's outside his 
+
+24
+
+authority.  And that issue will be decided in 
+
+25
+
+Mississippi.  There is ­­ there is a case ­­ a vitamin
+
+17
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+price fixing conspiracy case called the BASF case ­­
+ CHIEF JUSTICE ROBERTS: 
+
+What prevents ­­
+
+3
+
+what prevents attorneys general from around the country 
+
+4
+
+sitting back and waiting until every ­­ as private class 
+
+5
+
+actions proceed, and as soon as one settles or one ­­
+
+6
+
+the plaintiffs' class prevails, taking the same 
+
+7
+
+complaint, maybe even hiring the same lawyers, to go and 
+
+8
+
+say, well, now we are going to bring our parens patriae 
+
+9
+
+action, we know how the trial is going to work out, or 
+
+10
+
+we know what the settlement is going to look like, and 
+
+11
+
+we are going to get the same amount of money for the 
+
+12
+
+State? 
+
+13
+
+ MR. MASSEY: 
+
+Well, the ­­ if there is a 
+
+14
+
+harm, as there was in this case, Federal criminal 
+
+15
+
+allegations ­­ that there were guilty pleas and there 
+
+16
+
+were 800 ­­
+
+17
+18
+19
+20
+21
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, that's got not 
+
+nothing to do with it, does it? 
+ MR. MASSEY: 
+
+Well, those are serious 
+
+matters, and I think the ­­
+ CHIEF JUSTICE ROBERTS: 
+
+I'm sure it's a 
+
+22
+
+serious matter when a plaintiff class recovers for, as 
+
+23
+
+in this case, an antitrust violation or whatever and ­­
+
+24
+
+what's the answer?  I'm sorry.  I'm repeating my 
+
+25
+
+question.
+
+18
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ MR. MASSEY: 
+
+Well, I think the answer is 
+
+2
+
+ that the State has separate interests.  The interest in 
+
+3
+
+ the ­­ that the State has qua State, yes, it should 
+
+4
+
+ bring cases where the public has been harmed.  Of 
+
+5
+
+ course ­­
+
+6
+
+ CHIEF JUSTICE ROBERTS: 
+
+So the answer is 
+
+7
+
+ that there is nothing to prevent 50 attorneys general ­­
+
+8
+
+ 51, from saying, every time there is a successful class 
+
+9
+
+ action as to which somebody in my State purchased one of 
+
+10
+
+ the items, we are going to file a parens patriae action, 
+
+11
+
+ the complaint is going to look an awful lot like the 
+
+12
+
+ class action complaint, and we want our money? 
+
+13
+
+ MR. MASSEY: 
+
+Well, I think that ­­ I think 
+
+14
+
+ that isn't going to happen because the State ­­ well, 
+
+15
+
+ the complaints are not the same.  The State has its 
+
+16
+
+ own ­­ sues in its own name, in its own rights, and, of 
+
+17
+
+ course, the problem Your Honor is hypothesizing ­­
+
+18
+19
+20
+
+ JUSTICE KENNEDY: 
+
+Well, that means that it 
+
+ could happen? 
+ MR. MASSEY: 
+
+Well, it could happen, right. 
+
+21
+
+ The State ­­ if the State has its own rights and its own 
+
+22
+
+ interests, it should sue.  The attorney general is accountable to the 
+
+23
+
+general public ­­
+
+24
+
+ CHIEF JUSTICE ROBERTS: 
+
+I'm sorry, counsel, 
+
+25
+
+ but you told me the State's own interest was in 
+
+26
+
+ protecting its consumers, so it would be able to file
+
+19
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ this suit every time its consumers have been harmed, as 
+
+2
+
+ demonstrated either through settlement or suit.  That's 
+
+3
+
+ the State interest, protecting its consumers. 
+
+4
+
+ MR. MASSEY: 
+
+Well ­­ if ­­ if a State ­­
+
+5
+
+ some States may adopt a different rule from Washington. 
+
+6
+
+ As the Washington court said, the State ­­ the consumer 
+
+7
+
+ claims would preclude a State attorney general action. 
+
+8
+
+ If a State does not ­­ if the State legislature 
+
+9
+
+ authorizes its attorney general to bring a suit when 
+
+10
+
+ this attorney general can identify harms to the State 
+
+11
+
+ that are separate from harms to consumers. 
+
+12
+
+ Your Honor is saying that ­­ that the two 
+
+13
+
+ are identical.  They are not.  And Snapp makes clear 
+
+14
+
+ that they are not.  The State has a broader interest 
+
+15
+
+ than simply the compensation interest that an individual 
+
+16
+
+ has. 
+
+17
+
+ JUSTICE KENNEDY: 
+
+Well, as a matter of 
+
+18
+
+ efficiency ­­ take the Chief Justice's hypo, the 
+
+19
+
+ hypothetical and back it up.  The moment the class is 
+
+20
+
+ certified, why can't the attorney general join it and 
+
+21
+
+ say, now, our interest is a little different, but it's 
+
+22
+
+ so much the same that we want to join it, and we want to 
+
+23
+
+ join it as parens patriae.  Would that prevent its 
+
+24
+
+ removal? 
+
+25
+
+ MR. MASSEY: 
+
+If ­­ if the State attorney
+
+20
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ general was combined with thousands of individual 
+
+2
+
+ claimants that, otherwise, would trigger CAFA, then ­­
+
+3
+
+ then CAFA ­­ then you would be forced into this whole 
+
+4
+
+ case situation. 
+
+5
+
+ The whole case test, which you'd need not 
+
+6
+
+ reach here because the statute and the real 
+
+7
+
+ party­in­interest tests are clear, but under the whole 
+
+8
+
+ case test, you weigh whether the State has an ­­ the 
+
+9
+
+ essential nature proceed ­­ the essential nature of the 
+
+10
+
+ proceeding is that the State is the real party in 
+
+11
+
+ interest. 
+
+12
+
+ In the hypothetical you posit, I think it 
+
+13
+
+ would be removable.  Obviously, it turns on the 
+
+14
+
+ particular facts, but, yes, if the State attorney 
+
+15
+
+ general is in court with 1,000 individual claimants, 
+
+16
+
+ that is probably a CAFA case. 
+
+17
+
+ That hasn't ever ­­ has never happened, 
+
+18
+
+ and in all of the districts outside the Fifth Circuit ­­
+
+19
+
+ because the Fifth Circuit is the only court that has 
+
+20
+
+ adopted the rule that we ­­ that you're reviewing today, 
+
+21
+
+ every other circuit court has held that CAFA does not 
+
+22
+
+ extend to State parens patriae actions. 
+
+23
+
+ In all of those cases, the attorneys general 
+
+24
+
+ are not running around following class actions to try to 
+
+25
+
+ piggyback on top of them.  They are not joining other
+
+21
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ class actions.  Those ­­ those ­­
+
+2
+
+ CHIEF JUSTICE ROBERTS: 
+
+But you can't 
+
+3
+
+ provide any reason why they wouldn't do so and, 
+
+4
+
+ presumably, would start doing so with greater frequency 
+
+5
+
+ if you prevail in this case. 
+
+6
+
+ MR. MASSEY: 
+
+7
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well ­­
+It doesn't have to 
+
+8
+
+ be the same case.  It can be the next case on the 
+
+9
+
+ court's docket.  The first case is In Re:  LCD 
+
+10
+
+ Litigation, and the second case is State of Mississippi 
+
+11
+
+ v. LCD Manufacturers. 
+
+12
+
+ MR. MASSEY: 
+
+Well, we don't think so.  And 
+
+13
+
+ it certainly the State ­­ a State would be free to adopt 
+
+14
+
+ a ­­ a different rule as to preclusion.  In other words, 
+
+15
+
+ a State legislature could say that a ­­ if ­­ if 
+
+16
+
+ consumers have recovered, the attorney general can't or 
+
+17
+
+ that the attorney general doesn't have statutory 
+
+18
+
+ authority in such cases. 
+
+19
+
+ But when the State legislature has told the 
+
+20
+
+ attorney general to enforce the public interest and 
+
+21
+
+ given him statutory authority to do so, he would be 
+
+22
+
+ derelict if he didn't honor the legislature's directive. 
+
+23
+
+ And that's what's happening here, that in a 
+
+24
+
+ series of cases involving vitamin price­fixing, 
+
+25
+
+ adulterated products, Google street view, where Google
+
+22
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ found ­­ you know, downloaded data from people's 
+
+2
+
+ wireless networks, the attorney generals have responded 
+
+3
+
+ in those cases.  Those are what these numbers are about. 
+
+4
+
+ CHIEF JUSTICE ROBERTS: 
+
+And in every one of 
+
+5
+
+ those cases, there had been private class litigation 
+
+6
+
+ prior to the filing of parens patriae? 
+
+7
+
+ MR. MASSEY: 
+
+No, I don't think there has ­­
+
+8
+
+ I don't think there had been in virtually any of them. 
+
+9
+
+ The attorney general is ­­ is stepping into the breach 
+
+10
+
+ when the private lawyers have not brought class actions 
+
+11
+
+ because of the difficulties of bringing ­­ in bringing 
+
+12
+
+ class actions. 
+
+13
+14
+15
+16
+17
+
+ JUSTICE GINSBURG: 
+
+Except we know that's not 
+
+ true in this case because we already have a settled ­­
+ MR. MASSEY: 
+
+There is a ­­ there was a class 
+
+ action settlement here.  That is true. 
+ JUSTICE GINSBURG: 
+
+Is your ­­ is your view 
+
+18
+
+ of what's called the mass action ­­ a mass action is you 
+
+19
+
+ have to have a sizeable number of plaintiffs, each one 
+
+20
+
+ with 75 ­­ at least $75,000 at stake.  Is that ­­
+
+21
+
+ MR. MASSEY: 
+
+22
+
+ JUSTICE GINSBURG: 
+
+23
+24
+25
+
+Yes.  Yes, Your Honor. 
+And so they would all be 
+
+ named plaintiffs. 
+ MR. MASSEY: 
+
+That's correct.  That's 
+
+ clearly ­­ the sort of mass consolidation is what the
+
+23
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+ mass action definition is addressing. 
+ JUSTICE GINSBURG: 
+
+Are there many actions of 
+
+3
+
+ that nature where there are hundreds of people, each 
+
+4
+
+ with a claim of 75,000 or more? 
+
+5
+
+ MR. MASSEY: 
+
+There are.  I don't ­­ I don't 
+
+6
+
+ know particular numbers.  There are such cases that ­­
+
+7
+
+ that are filed in Federal courts and when the ­­ when 
+
+8
+
+ the plaintiffs are individually identifiable. 
+
+9
+
+ JUSTICE GINSBURG: 
+
+Why would you bring such 
+
+10
+
+ a claim in Federal courts in this mass action format? 
+
+11
+
+ I can see in Mississippi, it doesn't have class actions, 
+
+12
+
+ but if you're in Federal court, why would you ever have 
+
+13
+
+ a mass action, instead of a class action? 
+
+14
+
+ MR. MASSEY: 
+
+Well, if you ­­ if you could 
+
+15
+
+ identify the plaintiffs, you don't need to go through 
+
+16
+
+ Rule 23.  So if you know the 150 people who are ­­ who 
+
+17
+
+ are at issue, you can avoid all the certification 
+
+18
+
+ rulings and simply proceed on a consolidated basis.  It 
+
+19
+
+ just cuts off sort of ­­ part of the inquiry.  And ­­
+
+20
+
+ JUSTICE KAGAN: 
+
+Mr. Massey, if you are right 
+
+21
+
+ about what mass action means in this statute, what is 
+
+22
+
+ this exception about the general public doing? 
+
+23
+
+ MR. MASSEY: 
+
+The general public.  The ­­
+
+24
+
+ it's doing two things.  First, the ­­ as the amicus 
+
+25
+
+ brief of public citizen describes the legislative
+
+24
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ genesis of it, it was really to address the California 
+
+2
+
+ unfair competition law situation, where there are 
+
+3
+
+ private attorneys general who are able to bring suits in 
+
+4
+
+ the name of the general interest ­­ the general public. 
+
+5
+
+ And they ­­ that was sort of the original genesis of it. 
+
+6
+
+ It is a separate reason to reverse. 
+
+We 
+
+7
+
+ believe we meet it as well because it addresses a 
+
+8
+
+ situation where a State is ­­ where any litigant, State 
+
+9
+
+ or private, is representing the general public as 
+
+10
+11
+
+ opposed to individual claimants. 
+ And here, because restitution is a public 
+
+12
+
+ remedy and because the individual claimants cannot be 
+
+13
+
+ identified, the State is proceeding on the basis of the 
+
+14
+
+ general public of Mississippi.  If anyone ­­ the 
+
+15
+
+ district court found ­­ it's in the Petition Appendix at 
+
+16
+
+ 49a and 50. 
+
+17
+
+ The district court discusses the 
+
+18
+
+ traceability problems ­­ I'm sorry, I said the Petition 
+
+19
+
+ Appendix ­­ not the Joint Appendix. 
+
+20
+21
+22
+
+ JUSTICE BREYER: 
+
+Can you tell me, when you 
+
+ come back, where the money goes if you win? 
+ MR. MASSEY: 
+
+Yes.  The money probably goes 
+
+23
+
+ to the State treasury because, in this case, it would be 
+
+24
+
+ too difficult to trace who gets ­­ who has been harmed. 
+
+25
+
+ The ­­ that's why the district court found that the ­­
+
+25
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ given the ubiquity of the product and the fact that 
+
+2
+
+ there is no central record of whoever purchased a cell 
+
+3
+
+ phone in Mississippi, that the cost of ­­ of finding all 
+
+4
+
+ these people is ­­ is just not worth it. 
+
+5
+
+ There could be ­­ it could wind up in the 
+
+6
+
+ education program.  The attorney general had mentioned 
+
+7
+
+ to me schools and things like that, but it's not going 
+
+8
+
+ to go ­­ it's very unlikely to go to the individual 
+
+9
+
+ consumers. 
+
+10
+
+ Thank you, Your Honor. If I could reserve my time. 
+
+11
+
+ CHIEF JUSTICE ROBERTS: 
+
+12
+13
+14
+15
+16
+17
+
+Thank you, 
+
+ Mr. Massey. 
+ Mr. Curran? 
+ ORAL ARGUMENT OF CHRISTOPHER M. CURRAN 
+ ON BEHALF OF THE RESPONDENTS 
+ MR. CURRAN: 
+
+Mr. Chief Justice, and may it 
+
+ please the Court: 
+
+18
+
+ The attorney general's interpretation of the 
+
+19
+
+ mass action definition requires this Court to conclude 
+
+20
+
+ that a mass action can only be one of the actions with 
+
+21
+
+ 100 or more named plaintiffs and can never be a 
+
+22
+
+ representative action.  That interpretation cannot be 
+
+23
+
+ squared with the statutory language, the purpose of the 
+
+24
+
+ Act, and the structure of the Act. 
+
+25
+
+ Justice Kagan, you referred to the general
+
+26
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ public provision.  That provision expressly refers to 
+
+2
+
+ the possibility of a representative action.  In the 
+
+3
+
+ parenthetical language in that provision and ­­ you 
+
+4
+
+ know, I look at it on the ­­ in the Act form on 66a, but 
+
+5
+
+ it's, of course, in the codification as well, on page 
+
+6
+
+ 79a of the Joint Appendix ­­ the parenthetical there 
+
+7
+
+ says that ­­ that this exclusion does not apply in cases 
+
+8
+
+ where the action is not on behalf of individual 
+
+9
+
+ claimants or members of a purported class. 
+
+10
+
+ So in other words, this exclusion under the 
+
+11
+
+ mass action definition is contemplating a situation 
+
+12
+
+ where there are individual claimants or members of a 
+
+13
+
+ purported class.  That ­­ that has to be beyond the 
+
+14
+
+ named plaintiff. 
+
+15
+
+ In another example, farther down in the 
+
+16
+
+ exceptions to the mass action definition, there's a 
+
+17
+
+ reference to Section 1407, which is the MDL transfer 
+
+18
+
+ provision.  There, again, there's reference to the 
+
+19
+
+ possibility of a mass action being converted into a Rule 
+
+20
+
+ 23 class action. 
+
+21
+
+ Those provisions don't make sense, unless 
+
+22
+
+ it's possible for a mass action to be a representative 
+
+23
+
+ action. 
+
+24
+25
+
+ JUSTICE SOTOMAYOR: 
+
+So how do you remand a 
+
+ case when it involves unnamed plaintiffs?  Not a
+
+27
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ proposed class because you ­­ if you have a proposed 
+
+2
+
+ class, that could be persons, and you could identify 
+
+3
+
+ those.  But under your theory, what does a court do to 
+
+4
+
+ figure out which of all of those unnamed people have 
+
+5
+
+ claims above or below $75,000? 
+
+6
+
+ MR. CURRAN: 
+
+Well ­­ well, a couple of 
+
+7
+
+ things.  Number one, it ­­ it may well be that the mass 
+
+8
+
+ action definition, a use of persons, that, of course, 
+
+9
+
+ our position is that is unnamed.  Those are real parties 
+
+10
+
+ in interest of the claims.  The reference to plaintiffs 
+
+11
+
+ may well be, as the attorney general posits, the named 
+
+12
+
+ plaintiffs. 
+
+13
+
+ So the $75,000 requirement ­­ and Justice 
+
+14
+
+ Ginsburg referred to this ­­ this as well, that ­­ that 
+
+15
+
+ can make perfect sense.  It's ­­ it's a way to make sure 
+
+16
+
+ that the named plaintiffs, who, after all, are being 
+
+17
+
+ given the keys to Federal discovery and maybe the 
+
+18
+
+ ability to negotiate settlements, that they've got some 
+
+19
+
+ skin in the game, that the plaintiffs, the named 
+
+20
+
+ plaintiffs controlling the litigation, have 75,000 or 
+
+21
+
+ more at stake. 
+
+22
+
+ JUSTICE SOTOMAYOR: 
+
+You know, this language 
+
+23
+
+ is very reminiscent in what's in Federal Rule of Civil 
+
+24
+
+ Procedure 20, the joinder rule. 
+
+25
+
+ MR. CURRAN: 
+
+Well ­­
+
+28
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ JUSTICE SOTOMAYOR: 
+
+And if I look at the 
+
+2
+
+ joinder rule, it uses "persons" and "plaintiffs" 
+
+3
+
+ essentially in the same way.  It's talking about persons 
+
+4
+
+ being proposed plaintiffs, as opposed to unnamed 
+
+5
+
+ people ­­
+
+6
+
+ MR. CURRAN: 
+
+7
+
+ JUSTICE SOTOMAYOR: 
+
+8
+9
+
+Well ­­
+­­ or the proposed 
+
+ class, in essence. 
+ MR. CURRAN: 
+
+Your Honor, I see similarities 
+
+10
+
+ between this provision and the PSLRA, the Private 
+
+11
+
+ Securities Litigation Reform Act, that reformed class 
+
+12
+
+ actions in the securities context.  And there, there 
+
+13
+
+ was ­­ there were provisions requiring that the named 
+
+14
+
+ plaintiff be a prominent victim of the alleged fraud. 
+
+15
+
+ And ­­ and here, I think it's got a similar 
+
+16
+
+ idea, that we want to make sure that the named 
+
+17
+
+ plaintiffs have that kind of stake.  And this is an 
+
+18
+
+ important point because I think there's been some 
+
+19
+
+ suggestion that this is unwieldy or does it make sense, 
+
+20
+
+ if all the claimants under 75,000 get remanded. 
+
+21
+
+ But recall this Court's jurisprudence on 
+
+22
+
+ supplemental jurisdiction.  Allapattah allows for 
+
+23
+
+ supplemental jurisdiction in a situation like this, 
+
+24
+
+ where certain plaintiffs do not satisfy the 
+
+25
+
+ jurisdictional minimum.  As long as there are some that
+
+29
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ do, the district court has discretion to allow those 
+
+2
+
+ that don't to stay in the same action. 
+
+3
+
+ JUSTICE SOTOMAYOR: 
+
+It seems that that would 
+
+4
+
+ be hard to invoke that case when a statute commands 
+
+5
+
+ differently. 
+
+6
+
+ MR. CURRAN: 
+
+7
+
+ JUSTICE SOTOMAYOR: 
+
+Well, I mean, I don't see ­­
+In that case, it's in 
+
+8
+
+ the ­­ in the absence of statutory language that 
+
+9
+
+ requires remand. 
+
+10
+
+ MR. CURRAN: 
+
+11
+
+ JUSTICE SOTOMAYOR: 
+
+Well ­­
+I ­­ I'm hard­pressed to 
+
+12
+
+ think that we can be exercising supplemental 
+
+13
+
+ jurisdiction in a case where Congress has expressly 
+
+14
+
+ spoken and said you can't or shouldn't. 
+
+15
+
+ MR. CURRAN: 
+
+Well, I don't understand that 
+
+16
+
+ because Section 1367 says supplemental jurisdiction 
+
+17
+
+ shall exist, unless it's expressly provided otherwise in 
+
+18
+
+ a Federal statute. 
+
+19
+
+ And this Court, interpreting similar 
+
+20
+
+ language in the Breuer case, which is cited in the 
+
+21
+
+ papers, said "expressly" means it's got to be direct, 
+
+22
+
+ it's got to be explicit, it has to be inescapable. 
+
+23
+
+ So I would submit that this language about 
+
+24
+
+ the 75,000, that does not preclude supplemental 
+
+25
+
+ jurisdiction.  In fact, I think that ­­ that argument is
+
+30
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+ foreclosed by Breuer. 
+ JUSTICE GINSBURG: 
+
+In this particular case, 
+
+3
+
+ the individual claims were settled in the ­­ in the 
+
+4
+
+ class action, so if there ­­ if there are no individual 
+
+5
+
+ claimants to be ­­ to be represented, why doesn't this 
+
+6
+
+ end up being a claim where only the State of Mississippi 
+
+7
+
+ has a stake because the individuals that the State might 
+
+8
+
+ have been representing have already been satisfied, so 
+
+9
+
+ if this is ­­
+
+10
+
+ MR. CURRAN: 
+
+There are ­­ there are a couple 
+
+11
+
+ of aspects to this.  First of all, our position, of 
+
+12
+
+ course, is that the Mississippi statute requires that 
+
+13
+
+ the money goes to the Mississippi citizens and that the 
+
+14
+
+ attorney general here is basically suing as a 
+
+15
+
+ representative or a conduit for those citizens. 
+
+16
+
+ The fact that those citizens, many of those 
+
+17
+
+ citizens, not all of them, the fact that many of them 
+
+18
+
+ have settled and have resolved the claims in the 
+
+19
+
+ multidistrict litigation, that means that there is going 
+
+20
+
+ to be a fight in one court or another ­­ we think it 
+
+21
+
+ should be in a Federal court; the attorney general 
+
+22
+
+ thinks the State court ­­ over what the preclusive 
+
+23
+
+ effects are of that prior settlement. 
+
+24
+25
+
+ We view this case as nothing more than an 
+ attempt to double dip.  It's the same ­­
+
+31
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ JUSTICE BREYER: 
+
+Why is that?  I thought 
+
+2
+
+ that in a ­­ maybe it's changed since I knew the law in 
+
+3
+
+ this area.  But I thought, because of Illinois Brick, 
+
+4
+
+ the ultimate consumers couldn't recover, but rather ­­
+
+5
+
+ you have to be a direct purchaser rather than an 
+
+6
+
+ indirect purchaser of the price­fixed good. 
+
+7
+
+ MR. CURRAN: 
+
+8
+
+ JUSTICE BREYER: 
+
+9
+
+ is a State law case. 
+
+10
+11
+12
+13
+14
+
+ MR. CURRAN: 
+
+That is under Federal law. 
+Yes.  All right.  So this 
+
+The IPT case, that was a State 
+
+ law case in Federal court.  Okay. 
+ JUSTICE BREYER: 
+
+I know your case is, but 
+
+ the one that settled previously? 
+ MR. CURRAN: 
+
+Yes.  That's what I'm referring 
+
+15
+
+ to.  That was in Federal court, but it was asserting 
+
+16
+
+ State claims.  That's included ­­
+
+17
+
+ JUSTICE BREYER: 
+
+All right.  So you have a 
+
+18
+
+ double dip claim.  I guess my question, procedurally, is 
+
+19
+
+ that, here, the State of Mississippi is the named 
+
+20
+
+ plaintiff. 
+
+21
+
+ MR. CURRAN: 
+
+22
+
+ JUSTICE BREYER: 
+
+The named plaintiff. 
+And moreover, the State of 
+
+23
+
+ Mississippi is suing in order to obtain money, is what 
+
+24
+
+ we just heard, for its treasury.  And, third, the State 
+
+25
+
+ of Mississippi is suing because of their belief that the
+
+32
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ defendants injured the economy of Mississippi, and they 
+
+2
+
+ injured it by hurting the pocketbooks of many 
+
+3
+
+ individuals in Mississippi, the names of whom they don't 
+
+4
+
+ even know.  All right? 
+
+5
+
+ Now, they say, look at ­­ read the statute. 
+
+6
+
+ Read the cases which say if you are a nominal plaintiff, 
+
+7
+
+ that's good enough, as long as you are not suing as some 
+
+8
+
+ kind of ­­ I forget the words ­­ quasi­sovereign, 
+
+9
+
+ whatever it was, one way or the other.  You know the 
+
+10
+
+ cases better than I.  But why isn't what they just said 
+
+11
+
+ sufficient? 
+
+12
+
+ MR. CURRAN: 
+
+Because we are not disputing 
+
+13
+
+ that the attorney general has standing to bring a claim 
+
+14
+
+ as a nominee for the real parties in interest. 
+
+15
+16
+17
+
+ JUSTICE BREYER: 
+
+I understand that, but why 
+
+ does that fall within this statute? 
+ MR. CURRAN: 
+
+Because the statutory language 
+
+18
+
+ says if it's a civil action  in which monetary relief 
+
+19
+
+ claims ­­ we clearly got that ­­ of 100 or more persons, 
+
+20
+
+ we think those claims under the Mississippi statute 
+
+21
+
+ inescapably belong to those persons ­­
+
+22
+23
+
+ JUSTICE KAGAN: 
+
+If you go on and read that a 
+
+ little bit further, Mr. Curran ­­
+
+24
+
+ MR. CURRAN: 
+
+25
+
+ JUSTICE KAGAN: 
+
+I'm getting there. 
+­­ it says, "claims of 100
+
+33
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ or more persons that are proposed to be tried jointly on 
+
+2
+
+ the ground that the plaintiffs' claims involve common 
+
+3
+
+ questions of law or fact." 
+
+4
+
+ MR. CURRAN: 
+
+5
+
+ JUSTICE KAGAN: 
+
+Yes. 
+And here, of course ­­ you 
+
+6
+
+ know, there's no joinder, let alone, any proposed ­­ you 
+
+7
+
+ know, there's no ­­ there nothing that the Mississippi 
+
+8
+
+ attorney general has to go through, to show that the 
+
+9
+
+ plaintiffs' claims involve common questions of law or 
+
+10
+
+ fact, right?  They don't ­­ there's no showing of that 
+
+11
+
+ kind that has to be made in a parens patriae case. 
+
+12
+
+ MR. CURRAN: 
+
+Well, they filed a single 
+
+13
+
+ complaint, right, under Rule 42 and ­­ of the Federal 
+
+14
+
+ Rules of Civil Procedure, the State analog to that, and 
+
+15
+
+ pre­existing jurisprudence.  When you file a single 
+
+16
+
+ complaint, you're asking for a single trial.  And if you 
+
+17
+
+ want to bifurcate a trial of some kind, you have to make 
+
+18
+
+ a motion. 
+
+19
+
+ JUSTICE KAGAN: 
+
+20
+
+ MR. CURRAN: 
+
+21
+22
+
+But, again, this clearly ­­
+So I submit there is a 
+
+ proposed ­­ a proposal to try these claims jointly. 
+ JUSTICE KAGAN: 
+
+But they don't have to 
+
+23
+
+ show ­­ and this is clearly referring to a kind of Rule 
+
+24
+
+ 23 inquiry, which they don't have to go through to do a 
+
+25
+
+ parens patriae.
+
+34
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ MR. CURRAN: 
+
+That would be the same thing, 
+
+2
+
+ Your Honor, in the case that they say is the 
+
+3
+
+ quintessential mass ­­ mass action case.  They say a 
+
+4
+
+ mass action case is one where a bunch of plaintiffs have 
+
+5
+
+ joined together in a single suit ­­
+
+6
+7
+
+ JUSTICE KAGAN: 
+
+Yes, but they do have to 
+
+ show that ­­
+
+8
+
+ MR. CURRAN: 
+
+9
+
+ JUSTICE KAGAN: ­­ in a massive ­­
+
+10
+
+ MR. CURRAN: 
+
+11
+
+ JUSTICE KAGAN: 
+
+12
+
+ MR. CURRAN: 
+
+13
+
+ JUSTICE KAGAN: 
+
+Why? 
+
+No, they ­­
+­­ consolidation case ­­
+­­ file a complaint. 
+­­ the judge is going to 
+
+14
+
+ say, you have 100 claims; we want to see that those 100 
+
+15
+
+ claims have common questions of law or fact.  But in a 
+
+16
+
+ parens patriae case, the State never has to make that 
+
+17
+
+ showing.  It can just stand up and say, here we are.  We 
+
+18
+
+ are the State.  We're representing the interests of the 
+
+19
+
+ State qua State.  Here's our claim. 
+
+20
+
+ MR. CURRAN: 
+
+Well, Your Honor, I think ­­ I 
+
+21
+
+ submit that, when a State attorney general files a 
+
+22
+
+ complaint on behalf of 100 or more persons claiming to 
+
+23
+
+ have standing and to be seeking to recover for the 
+
+24
+
+ damages to those 100 or more persons, he's proposing to 
+
+25
+
+ try those claims together.
+
+35
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ And as to ­­ as to whose claims they are, I 
+
+2
+
+ mean, the Mississippi statute is pretty clear that the 
+
+3
+
+ claim for restitution is ­­ is necessary to restore to 
+
+4
+
+ the persons in interest, the victims. 
+
+5
+
+ JUSTICE SCALIA: 
+
+Yes, but the attorney 
+
+6
+
+ general says that that's not what's going to happen 
+
+7
+
+ here.  How do you square that with his statement that 
+
+8
+
+ that money will not get to these people? 
+
+9
+
+ MR. CURRAN: 
+
+He cited the statute that has 
+
+10
+
+ that plain language.  That plain language was 
+
+11
+
+ interpreted by the Fifth Circuit.  There are ­­ it's a 
+
+12
+
+ model act that's been interpreted by the State Supreme 
+
+13
+
+ Courts of other States, Iowa and Arizona.  They looked 
+
+14
+
+ at that language.  Oh, yeah, the money goes to the 
+
+15
+
+ people. 
+
+16
+17
+18
+
+ JUSTICE SCALIA: 
+
+He says you can't ­­ he 
+
+ says you can't even identify those people. 
+ MR. CURRAN: 
+
+Well, that is ­­ that doesn't 
+
+19
+
+ hold up.  Obviously, those people were identified in the 
+
+20
+
+ class action.  They're getting the money that's being 
+
+21
+
+ distributed.  People can turn in receipts.  There are 
+
+22
+
+ records.  Every antitrust case has this issue 
+
+23
+
+ identifying the victims and compensating them.  It's no 
+
+24
+
+ different here. 
+
+25
+
+ And another thing, there was a suggestion
+
+36
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ that, oh, everybody in the world has LCD panels, that 
+
+2
+
+ the period of time at issue in this case is 1996 to 
+
+3
+
+ 2006.  LCD panels, which we now take for granted and are 
+
+4
+
+ ubiquitous, back then, were just an emerging technology. 
+
+5
+
+ And for that, I cite to the attorney 
+
+6
+
+ general's brief at page ­­ their complaint, page 32a of 
+
+7
+
+ our cert ap, paragraph 104, which acknowledges that LCDs 
+
+8
+
+ were not even the leading technology for televisions 
+
+9
+
+ back during this period of time. 
+
+10
+
+ JUSTICE BREYER: 
+
+What about ­­ see, I can 
+
+11
+
+ understand a complaint where they have taken 100 
+
+12
+
+ individuals, or 102, and they list them as plaintiffs, 
+
+13
+
+ and they don't call it a class action.  And that would 
+
+14
+
+ fall right within the meaning of mass action, if the 
+
+15
+
+ numbers are right. 
+
+16
+
+ MR. CURRAN: 
+
+17
+
+ JUSTICE BREYER: 
+
+That's right. 
+But if we take 
+
+18
+
+ your approach and depart from that mechanical, but 
+
+19
+
+ simple ­­ simply administered interpretation, what is 
+
+20
+
+ worrying me, and perhaps you can help me with that, is 
+
+21
+
+ that there are perhaps all kinds of State actions where 
+
+22
+
+ one of the motivating reasons is ­­ behind the lawsuit 
+
+23
+
+ is some person hurt our citizens. 
+
+24
+
+ And so, now, we will get into the instantly 
+
+25
+
+ interesting, but very difficult question of, well, when
+
+37
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ you say hurt your citizens, do you mean hurt them by 
+
+2
+
+ giving them rise to an independent cause of action for 
+
+3
+
+ each of them, who we don't know who they are, and we 
+
+4
+
+ don't know if the statute of limitations has run to 
+
+5
+
+ some, and we don't know if others have other 
+
+6
+
+ disabilities; but, nonetheless, we're not certain this 
+
+7
+
+ suit is entirely for that, it may be mixed up with other 
+
+8
+
+ things. 
+
+9
+10
+
+ Do you see the problem once I start down 
+ your road? 
+
+11
+
+ MR. CURRAN: 
+
+12
+
+ JUSTICE BREYER: 
+
+13
+14
+
+I do.  I do. 
+I've departed from the 
+
+ clear and simple. 
+ MR. CURRAN: 
+
+Okay.  But to be clear, our ­­
+
+15
+
+ in our position, the only basis we have for removal here 
+
+16
+
+ is the inclusion of the restitution claim, which, under 
+
+17
+
+ Mississippi law, says that the claim belongs to the 
+
+18
+
+ citizens, and it's their money.  If ­­ if that claim 
+
+19
+
+ wasn't in this action ­­
+
+20
+
+ JUSTICE GINSBURG: 
+
+That seems to be ­­ that 
+
+21
+
+ seems to be disputed because I understood Mr. Massey to 
+
+22
+
+ say that the restitution claim would go to the State. 
+
+23
+
+ And you say that that ­­ the restitution couldn't go to 
+
+24
+
+ the State. 
+
+25
+
+ MR. CURRAN: 
+
+That's right.  There is a
+
+38
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+ dispute on that issue. 
+ JUSTICE BREYER: 
+
+You can hold him to that, 
+
+3
+
+ and I guess he can say, no, I don't want to be held to 
+
+4
+
+ that or ­­ but that seemed to be not for this Court. 
+
+5
+
+ Once he says it, I guess ­­
+
+6
+
+ MR. CURRAN: 
+
+7
+
+ JUSTICE BREYER: 
+
+8
+9
+
+We don't care where it goes. 
+But can we not take him at 
+
+ his word?  He said it wasn't. 
+ MR. CURRAN: 
+
+Well, the Mississippi statute 
+
+10
+
+ is clear.  The attorney general cited that.  The case 
+
+11
+
+ law is clear on that.  So ­­ and the Fifth Circuit found 
+
+12
+
+ that Mississippi law required the money to go to the 
+
+13
+
+ individuals.  I think this Court should defer to those 
+
+14
+
+ prior rulings of ­­ of those courts. 
+
+15
+
+ And ­­ so basically, back to the statutory 
+
+16
+
+ language ­­ and by the way, parens patriae is such a 
+
+17
+
+ loose label that's thrown around.  The ­­ the attorney 
+
+18
+
+ generals seem to raise that up as a Latin shield of some 
+
+19
+
+ kind, suggesting that, as long as they invoke that term, 
+
+20
+
+ that issues of federalism prevents removal or something. 
+
+21
+
+ That doesn't hold up. 
+
+22
+
+ The statutory language, which is in English, 
+
+23
+
+ says that specific ­­ specific cases are removable.  And 
+
+24
+
+ so we ­­ so I don't think we should ­­ I don't think 
+
+25
+
+ it's productive to talk about whether something is
+
+39
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+ parens patriae or not. 
+ But, Justice Breyer, there are a lot of 
+
+3
+
+ cases that can be brought by State attorney generals 
+
+4
+
+ that would not be mass actions, like this case without 
+
+5
+
+ the restitution claim.  Okay? 
+
+6
+
+ Also, if there's a big pollution problem 
+
+7
+
+ or ­­ or some public nuisance or some other thing like 
+
+8
+
+ that, where ­­ where there's no identifiable victims, 
+
+9
+
+ but the public as a whole is injured, that ­­ that 
+
+10
+11
+
+ probably is a quasi­sovereign claim. 
+ JUSTICE SCALIA: 
+
+What ­­ what do you do 
+
+12
+
+ about this ­­ this language in the definition?  I 
+
+13
+
+ haven't heard you explain it. 
+
+14
+
+ It ­­ it says ­­ it means any ­­ mass action 
+
+15
+
+ means "any civil action in which monetary relief claims 
+
+16
+
+ of 100 or more persons are proposed to be tried jointly 
+
+17
+
+ on the ground that the plaintiffs' claims involve common 
+
+18
+
+ questions of law or fact." 
+
+19
+
+ Now, they're not proposed to be tried 
+
+20
+
+ jointly here on that ground.  They're being tried 
+
+21
+
+ jointly on the ground that the suit is being brought by 
+
+22
+
+ the attorney general under this State statute. 
+
+23
+24
+25
+
+ MR. CURRAN: 
+
+Well, I ­­ I view that language 
+
+ as contemplating a Rule 23 type analysis. 
+ JUSTICE SCALIA: 
+
+Yes, I understand that.
+
+40
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ MR. CURRAN: 
+
+Okay.  And in this case, we've 
+
+2
+
+ got a State attorney general who's suing, not only for 
+
+3
+
+ the consumers, but also for himself, right?  He's got 
+
+4
+
+ propriety claims in there.  He's also suing on ­­ for 
+
+5
+
+ all the counties and municipalities in Mississippi. 
+
+6
+
+ I think a basis for his combination of those 
+
+7
+
+ claims in a single lawsuit is the inescapable 
+
+8
+
+ commonality of fact and maybe law in those claims.  So 
+
+9
+
+ I ­­ I do think that it ­­ it satisfies that language. 
+
+10
+
+ JUSTICE KAGAN: 
+
+Well, Mr. Curran, really, do 
+
+11
+
+ you ­­ are you saying that, as a matter of State law, 
+
+12
+
+ that, in this suit, the attorney general has to make a 
+
+13
+
+ proposal that ­­ that the plaintiff ­­ that ­­ that he 
+
+14
+
+ can bring the suit on the grounds that the plaintiffs' 
+
+15
+
+ claims involve common questions of law or fact and that 
+
+16
+
+ that proposal has to be adjudicated by the Court? 
+
+17
+
+ MR. CURRAN: 
+
+I think, Justice Kagan, that 
+
+18
+
+ the attorney general has already done that.  I think 
+
+19
+
+ that his complaint, beginning on the first page, says, 
+
+20
+
+ I'm bringing this claim on behalf of purchases by the 
+
+21
+
+ State and by its citizens of these LCD panels, and it's 
+
+22
+
+ a single complaint.  So I think ­­ I think ­­
+
+23
+
+ JUSTICE KAGAN: 
+
+But he does not have to show 
+
+24
+
+ any common questions of law or fact in the typical way 
+
+25
+
+ that we demand.  I mean, that's actually a really
+
+41
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ demanding showing that we have forced lawyers to make in 
+
+2
+
+ the class action context.  All that the attorney general 
+
+3
+
+ has to do is to stand up and say, I have a State 
+
+4
+
+ interest in protecting my citizens and in deterring 
+
+5
+
+ improper behavior, and here is my substantive right. 
+
+6
+
+ MR. CURRAN: 
+
+Well, I guess ­­ I suppose we 
+
+7
+
+ could move for bifurcation to separate the ­­ the 
+
+8
+
+ proprietary claims from the claims on behalf of 
+
+9
+
+ citizens, and then he would say, no, it makes sense to 
+
+10
+
+ keep them all together.  But ­­ but the ­­ the 
+
+11
+
+ sequencing of those arguments, I don't think should be 
+
+12
+
+ dispositive here. 
+
+13
+14
+15
+
+ By filing a complaint, again, I invoke 
+ Rule ­­ Rule 42 of the Code of Federal Civil Procedure. 
+ JUSTICE KAGAN: 
+
+I guess I don't understand 
+
+16
+
+ the bifurcation point.  It seems to me that what the 
+
+17
+
+ attorney general is saying is he has a set of claims. 
+
+18
+
+ They're his claims on behalf of the ­­ the populace, 
+
+19
+
+ but ­­ but to further State's own interests. 
+
+20
+
+ And there ­­ there's none of this Rule 23 
+
+21
+
+ kind of business about common questions of law or fact. 
+
+22
+
+ So it's not a question of ­­ you know, one set of claims 
+
+23
+
+ or another set of claims, now or later.  He has a claim. 
+
+24
+
+ That's all he has. 
+
+25
+
+ MR. CURRAN: 
+
+Well, certainly, he ­­ he at
+
+42
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ least is attempting to combine the claims of all the 
+
+2
+
+ various individuals in the State on the grounds of 
+
+3
+
+ commonality, right?  I mean, even if you separate his 
+
+4
+
+ claims out, I mean, it's ­­ the reason is ­­
+
+5
+
+ JUSTICE KENNEDY: 
+
+Suppose it's a given that 
+
+6
+
+ we all concede that the complaint is both for 
+
+7
+
+ private­named persons and for restitution.  Both.  What 
+
+8
+
+ result? 
+
+9
+
+ MR. CURRAN: 
+
+Well, certainly, it's ­­ it's a 
+
+10
+
+ mass action in that circumstance because restitution, 
+
+11
+
+ under Mississippi law, is for those specified 
+
+12
+
+ individuals. 
+
+13
+14
+15
+16
+
+ JUSTICE KENNEDY: 
+
+No, the rest of my 
+
+ hypothetical, part of the restitution goes to the State. 
+ MR. CURRAN: 
+
+Well, then, again, the 
+
+ statutory language says if it's a civil action ­­
+
+17
+
+ JUSTICE KENNEDY: 
+
+18
+
+ MR. CURRAN: 
+
+Where's the language? 
+Well, it's at the beginning of 
+
+19
+
+ the mass action definition.  You can look at it on 
+
+20
+
+ either 65(a) and 66(a) or 79(a). 
+
+21
+
+ JUSTICE KENNEDY: 
+
+22
+
+ MR. CURRAN: 
+
+I have 79. 
+Okay.  79(a), "Mass action 
+
+23
+
+ means any civil action in which monetary relief claims of 
+
+24
+
+ 100 or more persons."  So as long as you've got a 
+
+25
+
+ qualifying claim, then the civil action's removable.
+
+43
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ And it doesn't matter if there are additional claims or 
+
+2
+
+ extraneous claims. 
+
+3
+
+ So the ­­ the claim here for restitution on 
+
+4
+
+ behalf of Mississippi citizens is, in and of itself, 
+
+5
+
+ enough to make this a mass action. 
+
+6
+
+ And, again ­­ and, Justice Kagan, maybe this 
+
+7
+
+ is getting back to ­­ to your point.  I refer to the 
+
+8
+
+ references to representative actions in the ­­ in the 
+
+9
+
+ General Public Provision and in the 1407 provision that 
+
+10
+
+ inescapably mean that ­­ that this provision can apply 
+
+11
+
+ to representative actions. 
+
+12
+
+ Maybe that doesn't satisfy your commonality 
+
+13
+
+ point, but ­­ but it gets part of the way there. 
+
+14
+
+ JUSTICE KAGAN: 
+
+And this is the main 
+
+15
+
+ provision where they're trying to define what mass 
+
+16
+
+ action means.  And I take your point that there are ­­
+
+17
+
+ there's some slippage between this provision and the 
+
+18
+
+ various provisions that it refers back to because those 
+
+19
+
+ provisions ­­ we're talking about class actions, and 
+
+20
+
+ this one is talking about mass actions. 
+
+21
+
+ But this is the essential definition. 
+
+And 
+
+22
+
+ this one seems to be pointing to a very different kind 
+
+23
+
+ of suit, one in which there are 100 individual claims 
+
+24
+
+ that ­­ that 100 people seek to have joined in which a 
+
+25
+
+ court is going to make a determination about whether
+
+44
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ those 100 individual claims have questions of common law 
+
+2
+
+ or fact. 
+
+3
+
+ MR. CURRAN: 
+
+If that's all this statute was 
+
+4
+
+ meant to reach, that would have been such an easy 
+
+5
+
+ statute to write.  Instead of this more convoluted 
+
+6
+
+ language, it could have just said if it's a civil action 
+
+7
+
+ in which 100 or more named plaintiffs are asserting 
+
+8
+
+ monetary relief claims for joint ­­
+
+9
+10
+11
+
+ JUSTICE SOTOMAYOR: 
+
+But that would have 
+
+ required this Court ­­
+ JUSTICE KAGAN: 
+
+That's essentially what it 
+
+12
+
+ says.  I mean, the only ­­ the only thing it doesn't say 
+
+13
+
+ in what you just said is that it says persons, instead 
+
+14
+
+ of named plaintiffs.  But then, if you read the 
+
+15
+
+ sentence, it's pretty clear that persons and plaintiffs 
+
+16
+
+ are the same. 
+
+17
+
+ MR. CURRAN: 
+
+Well, how ­­ well, first of 
+
+18
+
+ all, how do you explain ­­ I don't mean to pose a 
+
+19
+
+ question to you ­­ it's inexplicable that the word 
+
+20
+
+ "persons" ­­
+
+21
+
+ JUSTICE KAGAN: 
+
+22
+
+ (Laughter.) 
+
+23
+
+ MR. CURRAN: 
+
+I might not answer it. 
+
+It's ­­ it's inexplicable that 
+
+24
+
+ Congress would use the word "persons" and then, 12 words 
+
+25
+
+ later, use "plaintiffs," if it signifies the exact same
+
+45
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ thing and then continue to use the term "plaintiffs" 
+
+2
+
+ throughout. 
+
+3
+
+ JUSTICE SOTOMAYOR: 
+
+But  isn’t your 
+
+4
+
+ proposal mean that before someone can remove, they have 
+
+5
+
+ to decide whether the class is certifiable? 
+
+6
+
+ MR. CURRAN: 
+
+7
+
+ JUSTICE SOTOMAYOR: 
+
+No. 
+Because you're not going 
+
+8
+
+ to decide whether these plaintiffs are actually going to 
+
+9
+
+ be plaintiffs and part of this class until you decide 
+
+10
+
+ the class question.  If you use the word "persons" and 
+
+11
+
+ you use the language of the statute, it's the class 
+
+12
+
+ that's being proposed.  It's the named plaintiffs and 
+
+13
+
+ the class that's being proposed of persons that are 
+
+14
+
+ being proposed to be tried together. 
+
+15
+
+ MR. CURRAN: 
+
+There's another provision in 
+
+16
+
+ here that is incorporated into the mass action ­­ you 
+
+17
+
+ know, you will recall that if something qualifies as a 
+
+18
+
+ mass action then the provisions dealing with class 
+
+19
+
+ actions apply as well.  And sub­part 8, which is found 
+
+20
+
+ at the bottom of 77a, specifically says, "This 
+
+21
+
+ subsection shall apply to any class action before or 
+
+22
+
+ after the entry of a class certification order by the 
+
+23
+
+ court with respect to that action." 
+
+24
+25
+
+ So it's ­­ what this statute is addressing 
+ is possible class actions.  And, in fact, I think ­­ I
+
+46
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ think it makes sense to ­­ to view this ­­ this 
+
+2
+
+ statutory question in light of the overriding statutory 
+
+3
+
+ purpose here. 
+
+4
+
+ And, Justice Breyer, you address this in 
+
+5
+
+ your opinion in Standard Fire.  The driving force behind 
+
+6
+
+ this statute was to put interstate claims of national 
+
+7
+
+ importance into Federal court, to provide the option of 
+
+8
+
+ a Federal forum.  And in that case, in Standard Fire, 
+
+9
+
+ this Court unanimously examined the statutory question 
+
+10
+
+ there through that lens. 
+
+11
+
+ Here ­­ so Congress dealt with class actions 
+
+12
+
+ proper, if you will, under Rule 23, in the class action 
+
+13
+
+ section.  And then it's got the mass action section, 
+
+14
+
+ which is inescapably designed to catch other devices 
+
+15
+
+ that have the same problems. 
+
+16
+
+ JUSTICE SCALIA: 
+
+17
+
+ do it right, you know? 
+
+18
+
+ (Laughter.) 
+
+19
+
+ JUSTICE SCALIA: 
+
+Sometimes, Congress doesn't 
+
+Sometimes, they try to 
+
+20
+
+ catch everything, but the language they use doesn't do 
+
+21
+
+ it. 
+
+22
+23
+
+ MR. CURRAN: 
+
+But, here, I think it does do 
+
+ it. 
+
+24
+
+ JUSTICE KAGAN: 
+
+25
+
+ MR. CURRAN: 
+
+But more than that ­­
+And if there are competing
+
+47
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ interpretations, then that purpose should drive the 
+
+2
+
+ decision. 
+
+3
+
+ JUSTICE KAGAN: 
+
+But more than that, 
+
+4
+
+ Mr. Curran, is that there was actually a considered 
+
+5
+
+ effort by the attorneys generals here to take themselves 
+
+6
+
+ out of this statute ­­
+
+7
+
+ MR. CURRAN: 
+
+8
+
+ JUSTICE KAGAN: 
+
+And they failed. 
+­­ and that that ­­ well, 
+
+9
+
+ you say they failed, and ­­ I mean, that's the statutory 
+
+10
+
+ question.  But it's not just Congress didn't do it right 
+
+11
+
+ this time.  It was that there was a very serious effort 
+
+12
+
+ to get attorneys general out of this statute.  And 
+
+13
+
+ that's ­­ and ­­ you know, it seems to me that they did 
+
+14
+
+ pretty well. 
+
+15
+
+ MR. CURRAN: 
+
+No, no, no, no.  No.  They made 
+
+16
+
+ their proposal to ­­ to modify the statute after the Act 
+
+17
+
+ was in this form.  They saw the Act in this form ­­ and 
+
+18
+
+ including Attorney General Hood sent a letter to 
+
+19
+
+ Congress saying this is going to infringe upon our 
+
+20
+
+ rights to parens patriae cases.  That amendment 
+
+21
+
+ sponsored by Senator Pryor failed. 
+
+22
+
+ So I ­­ I think the only conclusion that can 
+
+23
+
+ be drawn from that is that Attorney General Hood and 
+
+24
+
+ many of his counterparts in other States saw this 
+
+25
+
+ problem, saw this ­­ this threat.
+
+48
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ Now, a response that some on the Senate 
+
+2
+
+ floor gave to that proposal was it's not really 
+
+3
+
+ necessary.  But the reason it was not really necessary 
+
+4
+
+ is because the bona fide interests of the State were 
+
+5
+
+ already protected, through the local controversy rule 
+
+6
+
+ and through the general public exception. 
+
+7
+
+ Congress did not intend for State attorneys 
+
+8
+
+ general to be able to use their offices to hire outside 
+
+9
+
+ counsel ­­ out­of­State outside counsel, to copycat a 
+
+10
+
+ class action complaint from an MDL, bring it again ­­
+
+11
+
+ JUSTICE GINSBURG: 
+
+Maybe ­­
+
+maybe they 
+
+12
+
+ didn't, but if you look at the committee report, what is 
+
+13
+
+ the definition of mass action?  And it is, under this 
+
+14
+
+ new subsection D­11, "expands the jurisdiction over suits 
+
+15
+
+ that are brought on behalf of numerous" ­­ numerous ­­
+
+16
+
+ "named plaintiffs."  "Numerous named plaintiffs." 
+
+17
+
+ MR. CURRAN: 
+
+Yes, I am familiar with that 
+
+18
+
+ sentence in that Senate report.  I am also aware that 
+
+19
+
+ that Senate report was issued and dated a week or ten 
+
+20
+
+ days after Senate ­­ after President Bush signed this 
+
+21
+
+ Act, so I question its value and its credibility. 
+
+22
+23
+
+ JUSTICE SCALIA: 
+
+You mean it's contrived 
+
+ legislative history? I can’t imagine. 
+
+24
+
+ (Laughter.) 
+
+25
+
+ MR. CURRAN: 
+
+But ­­ but even if it somehow
+
+49
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ could be considered, I don't think that ­­ that sentence 
+
+2
+
+ is definitional.  That, certainly, is one alternative 
+
+3
+
+ to ­­ to conventional class actions that Congress was 
+
+4
+
+ concerned about. 
+
+5
+
+ Our point is it wasn't the only one. 
+
+6
+
+ Congress was trying to close loopholes and trying to 
+
+7
+
+ prevent abuses, and a miserly interpretation of the 
+
+8
+
+ class ­­ of the mass action definition would undermine 
+
+9
+
+ that ­­ that purpose. 
+
+10
+
+ Now, in my remaining time perhaps, not ­­
+
+11
+
+ Justice Kagan, at the end of the day there was no 
+
+12
+
+ carve­out in the statute for attorney general actions, 
+
+13
+
+ even though that was sought.  But the Act does reflect 
+
+14
+
+ some sensitivity for federalism concerns. 
+
+15
+
+ It's got an exception for situations where 
+
+16
+
+ States are the primary defendants ­­ or State officials 
+
+17
+
+ are the primary defendants.  There is also a 
+
+18
+
+ notification to State attorneys general when there's a 
+
+19
+
+ settlement of a class action. 
+
+20
+
+ Those kinds of provisions show that Congress 
+
+21
+
+ was trying to be sensitive, and it was horse trading, it 
+
+22
+
+ was cutting deals, it was log rolling, coming up with an 
+
+23
+
+ Act here that was at once sensitive to federalism 
+
+24
+
+ concerns, but also trying to solve the very real abuses 
+
+25
+
+ that it had identified.
+
+50
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ And on the federalism point, the attorney 
+
+2
+
+ general's brief has a lot of citations to Eleventh 
+
+3
+
+ Amendment issues, and some of this Court's precedents 
+
+4
+
+ dealing with State sovereign immunity.  I submit that 
+
+5
+
+ those precedents and that Amendment deal only with 
+
+6
+
+ situations where the State is a defendant. 
+
+7
+
+ And here, where we are talking about the 
+
+8
+
+ State as a plaintiff ­­ and the only intrusion we are 
+
+9
+
+ talking about is removal from State court to Federal 
+
+10
+
+ court, that is not on the same playing field as the 
+
+11
+
+ authorities relied on by the attorney general. 
+
+12
+
+ A couple of other things. 
+
+There was a 
+
+13
+
+ suggestion in the reply brief that the complaint here 
+
+14
+
+ was not, in fact, a copycat case ­­ a copycat complaint, 
+
+15
+
+ but instead, was a summary of the Federal indictments, 
+
+16
+
+ and that that explains the eerie similarity between the 
+
+17
+
+ class action complaint and the attorney general's 
+
+18
+
+ complaint.  That ­­ that's just factually not right. 
+
+19
+
+ The ­­ some companies who were defendants, 
+
+20
+
+ like my client, Toshiba, was never charged or convicted 
+
+21
+
+ of anything in this case, yet we're a defendant in this 
+
+22
+
+ case, and that's because we were a defendant in the 
+
+23
+
+ class action case that was copied. 
+
+24
+25
+
+ And, in fact, the indictments against some 
+ companies bear very little resemblance to the complaint
+
+51
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ that the attorney general has filed here, in terms of 
+
+2
+
+ the duration of the conspiracy and the subject matter of 
+
+3
+
+ the products that are alleged ­­ were allegedly 
+
+4
+
+ price­fixed. 
+
+5
+6
+7
+8
+9
+10
+11
+
+ Unless there are any further questions, 
+ thank you. 
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, 
+
+ Mr. Curran. 
+ Mr. Massey, you have four minutes remaining. 
+ REBUTTAL ARGUMENT OF JONATHAN S. MASSEY 
+ ON BEHALF OF THE PETITIONER 
+
+12
+
+ MR. MASSEY: 
+
+13
+
+ Mr. Chief Justice, and may it please the 
+
+14
+15
+
+Thank you. 
+
+ Court: 
+ The issues that I'd like to raise on 
+
+16
+
+ rebuttal are limited.  The ­­ the most important thing 
+
+17
+
+ is that jurisdictional schemes should be simple, 
+
+18
+
+ administrable, predictable. 
+
+19
+
+ The simplest route ­­ the simplest 
+
+20
+
+ interpretation is the one we have shown, that these ­­
+
+21
+
+ the statute is directed at actual plaintiffs with 
+
+22
+
+ concrete claims that are proposed to be tried jointly. 
+
+23
+
+ The only thing our friends on the other side 
+
+24
+
+ have pointed out is the use of the ­­ is the word 
+
+25
+
+ "persons."  Justice Sotomayor is 100 percent correct
+
+52
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ that the word "persons" is basically ­­ is an echo of 
+
+2
+
+ Rule 20, of the joinder rule, which also refers to 
+
+3
+
+ persons and plaintiffs. 
+
+4
+
+ So the fact that Congress used the word 
+
+5
+
+ "person" once in a mass action definition simply 
+
+6
+
+ confirms our point that the statute is really directed 
+
+7
+
+ at the mass joinder, mass consolidation situation, and 
+
+8
+
+ does not have anything to do with actions by sovereign 
+
+9
+
+ States. 
+
+10
+
+ Their primary argument seems to be that the 
+
+11
+
+ attorney general doesn't really own the claims in this 
+
+12
+
+ case, that these are claims that are owned by the 
+
+13
+
+ citizens of Mississippi.  That is a classic State law 
+
+14
+
+ issue, which should be raised on remand in the State 
+
+15
+
+ court.  A very similar ­­
+
+16
+
+ JUSTICE SCALIA: 
+
+17
+18
+
+Did not the Fifth Circuit 
+
+ decide that State law question? 
+ MR. MASSEY: 
+
+No, Your Honor, we don't 
+
+19
+
+ believe so.  That the Fifth Circuit ruled on its ­­ the 
+
+20
+
+ interpretation of CAFA and said that, for purposes of 
+
+21
+
+ the statute, the claims were removable.  But it didn't 
+
+22
+
+ decide the attorney general's authority to sue in the 
+
+23
+
+ name of the State under the statutes which give him that 
+
+24
+
+ authority. 
+
+25
+
+ The ­­ we don't think the Fifth Circuit
+
+53
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ decided that question, and I read the Red Brief at page 
+
+2
+
+ 33 as saying the attorney general's authority is not at 
+
+3
+
+ issue here, that we assume the attorney general has the 
+
+4
+
+ authority to bring the claims in the complaint as he 
+
+5
+
+ pled them, which is the restitution claimed in the name 
+
+6
+
+ of the State. 
+
+7
+
+ And the ­­ there was a decision in 
+
+8
+
+ Mississippi in 2006, the only really relevant authority. 
+
+9
+
+ It's called the BASF case.  And there, a lower court in 
+
+10
+
+ Mississippi, the Chancery Court, upheld the attorney 
+
+11
+
+ general's authority to bring a very similar parens 
+
+12
+
+ patriae case. 
+
+13
+
+ JUSTICE BREYER: 
+
+What he says is ­­ in the 
+
+14
+
+ complaint, it says ­­ "prays that the defendant be 
+
+15
+
+ ordered to restitute any and all monies for the 
+
+16
+
+ purchases of its citizens." 
+
+17
+
+ All right. 
+
+Now, you look at the statute he 
+
+18
+
+ quoted, the Mississippi statute, and it says there is 
+
+19
+
+ the authority to have restitution to restore to any 
+
+20
+
+ person in interest any monies which may have been 
+
+21
+
+ acquired by means of a practice prohibited. 
+
+22
+
+ So he says that sounds as if what you're 
+
+23
+
+ talking about is you want restitution, though, given to 
+
+24
+
+ the State, the restitution is for individual purchases 
+
+25
+
+ of individual citizens because there could be no other.
+
+54
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ And, therefore, you have a list of people in mind, or 
+
+2
+
+ you must find one, where there were particular 
+
+3
+
+ individual purchases, by individual citizens, and get 
+
+4
+
+ that restitution into the treasury. 
+
+5
+
+ All right. 
+
+Now, that ­­ I think something 
+
+6
+
+ like that was his argument, and I wanted to know what 
+
+7
+
+ you were going to say.  Are you going to give up these 
+
+8
+
+ last five words, "and the purchases of its citizens"? 
+
+9
+10
+11
+
+ JUSTICE SCALIA: 
+
+And that's what I 
+
+ understood the Fifth Circuit to have held. 
+ MR. MASSEY: 
+
+Well, what the ­­ what the ­­
+
+12
+
+ what the prayer for relief says is the ­­ "restitute to 
+
+13
+
+ the State" ­­
+
+14
+
+ JUSTICE BREYER: 
+
+15
+
+ MR. MASSEY: 
+
+16
+17
+18
+19
+20
+21
+22
+
+­­ "for its purchases and the 
+
+ purchases of its citizens." 
+ JUSTICE BREYER: 
+
+Yes, and the purchases of 
+
+ its citizens. 
+ MR. MASSEY: 
+
+So the State will get the 
+
+ money ­­
+ JUSTICE BREYER: 
+
+I know they'll get the 
+
+ money ­­
+
+23
+
+ MR. MASSEY: 
+
+24
+
+ JUSTICE BREYER: 
+
+25
+
+Right. 
+
+Right. 
+­­ but he's saying, to get 
+
+ the money, you have to say which money.
+
+55
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ MR. MASSEY: 
+
+2
+
+ JUSTICE BREYER: 
+
+Well, it ­­
+And to get the money, which 
+
+3
+
+ money means you better have a list of the individual 
+
+4
+
+ people who bought something, or otherwise, there is no 
+
+5
+
+ such money. 
+
+6
+
+ And that's enough to make those, in respect 
+
+7
+
+ to this paragraph, individual people whose claims the 
+
+8
+
+ State of Mississippi is pursuing.  Something like that 
+
+9
+
+ is his argument.  And I just wanted to know your 
+
+10
+11
+
+ response. 
+ MR. MASSEY: 
+
+Well, the ­­ the evidence will 
+
+12
+
+ be proven through statistical aggregate evidence, rather 
+
+13
+
+ than a list of names.  The list of names is impractical. 
+
+14
+
+ The ­­ the State will show, basically, on the basis of 
+
+15
+
+ gross sales ­­
+
+16
+
+ JUSTICE SOTOMAYOR: 
+
+But that has to go with 
+
+17
+
+ the facts of this case.  Don't go with the facts.  Go 
+
+18
+
+ with the ­­ with the ­­ the point, which is that you ­­
+
+19
+
+ in ­­ in a normal case, aren't you, in fact, suing for 
+
+20
+
+ the citizens?  The named citizens.  Or the citizens ­­
+
+21
+
+ MR. MASSEY: 
+
+In many cases, we are.  It is 
+
+22
+
+ still a public remedy of restitution.  In many cases, 
+
+23
+
+ the individuals may be identified. 
+
+24
+
+ Thank you. 
+
+25
+
+ CHIEF JUSTICE ROBERTS: 
+
+56
+
+Alderson Reporting Company
+
+Thank you, counsel.
+
+Official
+
+1
+
+
+ Counsel. 
+
+
+2
+
+
+ The case is submitted. 
+
+
+3
+
+
+ (Whereupon, at 12:06 p.m., the case in the 
+
+
+4
+
+
+ above­entitled matter was submitted.) 
+
+
+5
+
+
+   
+
+6
+
+
+   
+
+7
+
+
+   
+
+8
+
+
+   
+
+9
+
+
+   
+
+10
+
+
+   
+
+11
+
+
+   
+
+12
+
+
+   
+
+13
+
+
+   
+
+14
+
+
+   
+
+15
+
+
+   
+
+16
+
+
+   
+
+17
+
+
+   
+
+18
+
+
+   
+
+19
+
+
+   
+
+20
+
+
+   
+
+21
+
+
+   
+
+22
+
+
+   
+
+23
+
+
+   
+
+24
+
+
+   
+
+25
+
+
+   
+
+57
+
+Alderson Reporting Company
+
+Official
+Page 58
+A
+ability 28:18
+able 19:26 25:3
+49:8
+aboveentitled 1:12
+57:4
+absence 30:8
+abstract 9:13
+absurd 8:10
+abuses 50:7,24
+accountable 19:22
+acknowledges 37:7
+acquired 54:21
+act 3:12 16:11
+26:24,24 27:4
+29:11 36:12 48:16
+48:17 49:21 50:13
+50:23
+action 3:11 4:2,5,6
+4:25 6:8,21 7:18
+8:6 9:24,24 10:14
+10:23 11:10,12,23
+12:6 13:19 14:8
+14:16,19 15:20
+18:9 19:9,10,12
+20:7 23:16,18,18
+24:1,10,13,13,21
+26:19,20,22 27:2
+27:8,11,16,19,20
+27:22,23 28:8
+30:2 31:4 33:18
+35:3,4 36:20
+37:13,14 38:2,19
+40:14,15 42:2
+43:10,16,19,22,23
+44:5,16 45:6
+46:16,18,21,23
+47:12,13 49:10,13
+50:8,19 51:17,23
+53:5
+actions 3:13 4:5
+12:22 13:1,12
+15:19 18:5 21:22
+21:24 22:1 23:10
+23:12 24:2,11
+26:20 29:12 37:21
+
+40:4 43:25 44:8
+44:11,19,20 46:19
+46:25 47:11 50:3
+50:12 53:8
+activity 9:4
+actual 10:1,1 52:21
+additional 44:1
+address 10:17,23
+25:1 47:4
+addresses 4:7 25:7
+addressing 12:11
+24:1 46:24
+adjudicated 12:7
+41:16
+administered 37:19
+administering
+10:11
+administrable 9:17
+52:18
+adopt 12:9 13:3
+20:5 22:13
+adopted 21:20
+adulterated 22:25
+agencies 7:8
+agency 5:11
+aggregate 56:12
+agricultural 15:8
+al 1:7
+alito 8:3,21,23 9:2
+allapattah 29:22
+allegations 18:15
+alleged 15:14 29:14
+52:3
+allegedly 52:3
+allow 30:1
+allows 29:22
+alternative 50:2
+amendment 48:20
+51:3,5
+amicus 24:24
+amount 10:7 11:12
+13:25 18:11
+analog 34:14
+analysis 9:25 40:24
+answer 18:24 19:1
+19:6 45:21
+
+antitrust 18:23
+36:22
+ap 37:7
+appearances 1:15
+appendix 4:3 25:15
+25:19,19 27:6
+apply 4:11 27:7
+44:10 46:19,21
+applying 9:11,15
+approach 13:4
+37:18
+area 32:3
+arent 56:19
+argue 12:5 17:19
+argument 1:13 2:2
+2:5,8 3:3,7 6:15
+6:17 7:5,10,11,18
+26:14 30:25 52:10
+53:10 55:6 56:9
+arguments 42:11
+arizona 36:13
+asking 5:21,24
+34:16
+aspects 31:11
+asserted 10:2 16:16
+asserting 4:12
+32:15 45:7
+assume 6:7 13:25
+54:3
+attempt 4:4 31:25
+attempting 43:1
+attorney 1:4 6:2
+11:13,22,24 12:6
+15:19,25 16:7
+17:22 19:22 20:7
+20:9,10,20,25
+21:14 22:16,17,20
+23:2,9 26:6,18
+28:11 31:14,21
+33:13 34:8 35:21
+36:5 37:5 39:10
+39:17 40:3,22
+41:2,12,18 42:2
+42:17 48:18,23
+50:12 51:1,11,17
+52:1 53:11,22
+
+54:2,3,10
+attorneys 18:3 19:7
+21:23 25:3 48:5
+48:12 49:7 50:18
+au 1:7 3:4
+authorities 51:11
+authority 7:20 11:4
+13:2 16:8 17:24
+22:18,21 53:22,24
+54:2,4,8,11,19
+authorizes 20:9
+avoid 24:17
+aware 49:18
+awful 19:11
+
+better 9:11 33:10
+56:3
+beyond 27:13
+bifurcate 34:17
+bifurcation 42:7,16
+big 40:6
+bit 14:10 33:23
+bona 49:4
+bottom 46:20
+bought 56:4
+breach 23:9
+breuer 30:20 31:1
+breyer 25:20 32:1,8
+32:12,17,22 33:15
+37:10,17 38:12
+B
+39:2,7 40:2 47:4
+back 17:19 18:4
+54:13 55:14,17,21
+20:19 25:21 37:4
+55:24 56:2
+37:9 39:15 44:7
+brick 32:3
+44:18
+brief 12:15,15 13:9
+bar 14:7,12
+14:10 24:25 37:6
+bars 12:6
+51:2,13 54:1
+based 10:1 14:1
+briefs 5:5
+basf 18:1 54:9
+bright 15:5
+basically 31:14
+bring 14:19 16:8
+39:15 53:1 56:14
+18:8 19:4 20:9
+basis 24:18 25:13
+24:9 25:3 33:13
+38:15 41:6 56:14
+41:14 49:10 54:4
+bear 51:25
+54:11
+beginning 41:19
+bringing 16:12
+43:18
+23:11,11 41:20
+behalf 1:16,18 2:4
+brings 10:13 13:11
+2:7,10 3:8 6:14
+15:19
+10:13 11:10 12:20 broad 17:1
+14:19 15:20 16:12 broader 16:18
+26:15 27:8 35:22
+20:14
+41:20 42:8,18
+brought 12:22
+44:4 49:15 52:11
+13:12,19 17:21,23
+behavior 42:5
+23:10 40:3,21
+belief 32:25
+49:15
+believe 3:19 8:7
+bunch 35:4
+25:7 53:19
+bush 49:20
+belong 33:21
+business 10:20
+belongs 38:17
+42:21
+beneficiaries 10:21
+C
+11:4
+
+Alderson Reporting Company
+
+Alderson Reporting Company
+
+

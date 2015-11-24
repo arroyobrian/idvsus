@@ -1,0 +1,6897 @@
+Official - Subject to Final Review
+
+1
+
+P R O C E E D I N G S
+
+2
+3
+
+[10:02 a.m.]
+CHIEF JUSTICE ROBERTS:
+
+We'll hear argument
+
+4
+
+this morning in case 06-484, Tellabs, Inc. versus Makor
+
+5
+
+Issues & Rights.
+
+6
+7
+8
+9
+10
+11
+
+Mr. Phillips.
+ORAL ARGUMENT OF CARTER G. PHILLIPS
+ON BEHALF OF PETITIONERS
+MR. PHILLIPS:
+
+Thank you, Mr. Chief Justice,
+
+and may it please the Court:
+In 1995 Congress acted decisively to curb
+
+12
+
+abusive private securities litigation.
+
+13
+
+extraordinary step of rejecting categorically the
+
+14
+
+traditional rule of notice pleading in complaints that
+
+15
+
+are filed under the securities laws.
+
+16
+
+declared that, and this is at page 2 of our petition,
+
+17
+
+"The complaint shall state with particularity facts
+
+18
+
+giving rise to a strong inference that the defendant
+
+19
+
+acted with the required state of mind."
+
+20
+
+It took the
+
+Instead it
+
+The fundamental error in the court of
+
+21
+
+appeals analysis in this case was in writing out of the
+
+22
+
+statute the strong inference language that Congress
+
+23
+
+clearly intended to be not only in those statutes, but
+
+24
+
+obviously applied rigorously.
+
+25
+
+JUSTICE KENNEDY:
+
+At some point during your
+
+3
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+argument -- and I know you only have 20 minutes -- will
+
+2
+
+you tell me whether or not in your view the pleading
+
+3
+
+standard that the judge must follow is equivalent, is
+
+4
+
+the same as the instruction that's given to the jury?
+
+5
+
+Because if it isn't, then the Seventh Amendment argument
+
+6
+
+may have some more force.
+
+7
+
+MR. PHILLIPS:
+
+I think the answer to the
+
+8
+
+question is that it does not have to be the same.
+
+I
+
+9
+
+think Congress actually has greater authority in dealing
+
+10
+
+with pleadings that is distinct from the Seventh
+
+11
+
+Amendment right, but the Court doesn't need to go that
+
+12
+
+far in this particular case because I think the
+
+13
+
+inferences that we are asking the Court to draw from the
+
+14
+
+record in this case would avoid any -
+
+15
+
+JUSTICE KENNEDY:
+
+Well, in writing -- I take
+
+16
+
+it, so far as the jury, it's just whether it's more
+
+17
+
+likely than not, preponderance of the evidence.
+
+18
+
+MR. PHILLIPS:
+
+19
+
+held in Huddleston, yes, Your Honor.
+
+20
+
+That's what the Court held -
+
+JUSTICE KENNEDY:
+
+So your submission is,
+
+21
+
+maybe not in this case, but insofar as your theory of
+
+22
+
+the case, that the trial judge can, and in fact must
+
+23
+
+basically apply a standard of fact -- standard of proof
+
+24
+
+that's higher than that what the jury would.
+
+25
+
+MR. PHILLIPS:
+
+Well, it's important as a
+4
+
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+standard of allegation, because what we're talking about
+
+2
+
+here is an analysis of the allegations of the lawyers,
+
+3
+
+and not any kind of an evidentiary showing by any of the
+
+4
+
+plaintiffs.
+
+5
+
+Court has really never addressed the issue of the extent
+
+6
+
+to which the Seventh Amendment extends to pleadings.
+
+7
+
+And I don't think this is the case in which to take up
+
+8
+
+that issue because I think it is quite clear that what
+
+9
+
+at least we're asking for as the appropriate
+
+So I do think it's removed.
+
+I mean, this
+
+10
+
+interpretation of the Reform Act is that you need to
+
+11
+
+apply -- that you simply follow Matushita and Monsanto,
+
+12
+
+and that is to force the plaintiffs to demonstrate that
+
+13
+
+innocent explanations can be set aside.
+
+14
+
+that particular approach, which clearly is consistent
+
+15
+
+with the Seventh Amendment, then it seems to me you -
+
+16
+
+the Seventh that you followed under the Constitution, is
+
+17
+
+eliminated.
+
+18
+
+JUSTICE GINSBURG:
+
+And if you take
+
+Mr. Phillips, the Seventh
+
+19
+
+Amendment or not, the question in 12(b)(6) is has the
+
+20
+
+plaintiff stated a claim, and at the end of the line
+
+21
+
+it's has the plaintiff proved a claim.
+
+22
+
+stating two different claims.
+
+23
+
+stated is a stronger claim than the claim that must be
+
+24
+
+proved, and I don't know of any other instance where
+
+25
+
+that is so.
+
+But you're
+
+The claim that must be
+
+5
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+MR. PHILLIPS:
+
+I don't know that there are
+
+2
+
+any other instances in which that's true,
+
+3
+
+Justice Ginsburg, but I don't think it's a
+
+4
+
+constitutional problem.
+
+5
+
+the question is, does Congress have the power to enforce
+
+6
+
+its view of the appropriate way to proceed as a matter
+
+7
+
+of policy at the pleadings stage, and I think the answer
+
+8
+
+to that question is yes.
+
+9
+
+--
+
+10
+
+I think at the end of the day
+
+But again, you don't have to
+
+JUSTICE GINSBURG:
+
+I wasn't asking it as a
+
+11
+
+matter of constitutional law but I'm thinking, how do
+
+12
+
+you construe these words, what is it, "strong
+
+13
+
+inference?"
+
+14
+
+it, a Second Circuit decision.
+
+15
+
+most logical thing is that you'd look at the Second
+
+16
+
+Circuit decision and say ah, Congress picked up those
+
+17
+
+words from the Second Circuit decision, then we should
+
+18
+
+pick up the standards that the Second Circuit applied.
+
+19
+
+But your definition of strong inference is
+
+20
+21
+
+And the words come out of, as I understand
+So I would think the
+
+quite different from what the Second Circuit's was.
+MR. PHILLIPS:
+
+Well, I'm not sure that's 100
+
+22
+
+percent true.
+
+I think the real problem with the Second
+
+23
+
+Circuit is there's no monolithic Second Circuit rule
+
+24
+
+that's out there.
+
+25
+
+of cases under its particularity standards under 9(b)
+
+The Second Circuit applied a number
+
+6
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+prior to the time Congress adopted the strong inference
+
+2
+
+standard.
+
+3
+
+comfortable with the analysis in Shields versus
+
+4
+
+Citytrust Bank, for instance.
+
+5
+
+analyzed the complaint in that case is precisely the way
+
+6
+
+we're trying to analyze the complaint in this case.
+
+7
+
+if you -
+
+8
+9
+
+Some of them -- I think we would be very
+
+JUSTICE STEVENS:
+
+The way Judge Jacobs
+
+So
+
+Mr. Phillips, can I ask
+
+this question?
+
+10
+
+MR. PHILLIPS:
+
+I'm sorry.
+
+11
+
+JUSTICE STEVENS:
+
+One of the amicus briefs
+
+12
+
+talks in terms of the percentages, how likely the
+
+13
+
+inference, the word strong inference means 50 percent,
+
+14
+
+30 percent, 60 percent.
+
+15
+
+to be stronger or less strong than the inference of
+
+16
+
+probable cause in an affidavit for a search warrant to
+
+17
+
+get access to the privacy of a home and so forth?
+
+18
+
+MR. PHILLIPS:
+
+Do you think the inference has
+
+I think it would have to be
+
+19
+
+stronger than that, although I don't know how to
+
+20
+
+translate that into percentages, Justice Stevens.
+
+21
+
+JUSTICE STEVENS:
+
+A civil case would impose
+
+22
+
+a higher standard for getting discovery in a civil case
+
+23
+
+than they would for getting access to a citizen's
+
+24
+
+private papers and the like?
+
+25
+
+MR. PHILLIPS:
+
+I think the use of the
+7
+
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+language "strong inference" carries with it a very
+
+2
+
+significant burden that has to be demonstrated by the
+
+3
+
+buyer.
+
+4
+5
+
+JUSTICE KENNEDY:
+
+A burden of over 50
+
+percent?
+
+6
+
+MR. PHILLIPS:
+
+7
+
+JUSTICE SCALIA:
+
+Oh, to be sure.
+In a criminal case, the
+
+8
+
+person seeking that action is a government officer who
+
+9
+
+presumptively is not acting out of selfish motives,
+
+10
+
+whereas we're talking about private suits and some
+
+11
+
+private litigants are selfish.
+
+12
+
+MR. PHILLIPS:
+
+Absolutely, Justice Scalia.
+
+13
+
+And if you read the Securities Industries amicus brief,
+
+14
+
+it ticks off all of the instances of harm that are
+
+15
+
+caused by allowing -- too much of the private litigation
+
+16
+
+is precisely that, which Congress was responding to.
+
+17
+
+JUSTICE KENNEDY:
+
+I just have to make it
+
+18
+
+clear.
+
+19
+
+greater than more likely than not?
+
+20
+21
+22
+
+Is the high likelihood, or strong inference, is
+
+MR. PHILLIPS:
+
+Yes.
+
+I believe Congress
+
+would have intended it to be more JUSTICE ALITO:
+
+Doesn't the -- doesn't the
+
+23
+
+standard at the pleading stage have to be the same as
+
+24
+
+the standard at the summary judgment stage?
+
+25
+
+suppose that a certain set of facts is sufficient to
+8
+
+Alderson Reporting Company
+
+If -
+
+Official - Subject to Final Review
+
+1
+
+defeat summary judgment.
+
+2
+
+of those facts in the complaint, are you saying that
+
+3
+
+that complaint could be dismissed even though supporting
+
+4
+
+those facts at the summary judgment stage would be
+
+5
+
+enough to defeat a summary judgment motion?
+
+6
+
+If the plaintiff alleges all
+
+MR. PHILLIPS:
+
+I think at the end of the day
+
+7
+
+I would make that argument.
+
+8
+
+argument here because it's clear to me that the same
+
+9
+
+standards of Matushita and Monsanto that say you have to
+
+10
+
+exclude innocent explanations would apply at the summary
+
+11
+
+judgment stage as we're trying to apply at the pleading
+
+12
+
+stage, so there is no disconnect.
+
+13
+
+I don't have to make that
+
+But if I were actually forced into that
+
+14
+
+position, I think I would take that view, although I
+
+15
+
+probably would argue first that the standard of
+
+16
+
+Huddleston ought to be reconsidered, rather than
+
+17
+
+rejecting clearly what Congress had in mind in 1995 when
+
+18
+
+it acted to curb the abuses of private securities
+
+19
+
+litigation.
+
+20
+
+JUSTICE SOUTER:
+
+But isn't the difference
+
+21
+
+between Matsushita and this particular case at least as
+
+22
+
+you are presenting this case, the -- the -- focused on
+
+23
+
+the strength of this exclusion of innocent conduct?
+
+24
+
+As, as I recall Matsushita, there -- there
+
+25
+
+had to be at that stage, there had to be evidence from
+9
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+which one could infer that the -- that the conduct was
+
+2
+
+not innocent; but you're arguing for something stronger
+
+3
+
+than that.
+
+4
+
+ultimate conclusion that excludes innocent conduct.
+
+5
+
+aren't you asking for more than just what Matsushita did
+
+6
+
+at -- at that later stage?
+
+7
+
+You're arguing for, in effect, an -- an
+
+MR. PHILLIPS:
+
+And
+
+I think there may be a slight
+
+8
+
+semantic difference there, but the truth is at end of
+
+9
+
+the day all we're asking for the Court to do is to
+
+10
+
+evaluate the complaint, taking both the positive and the
+
+11
+
+negative inferences from it, excluding ambiguities,
+
+12
+
+interpreting them not in favor of the plaintiff, as you
+
+13
+
+traditionally do, take into account whether there is an
+
+14
+
+allegation of motive, and say at the end of the day
+
+15
+
+whether or not that reaches a -- rises to the level of a
+
+16
+
+strong inference.
+
+17
+
+JUSTICE SOUTER:
+
+But -- but Matsushita as I
+
+18
+
+recall did not require it to rise beyond the level of a
+
+19
+
+plausible inference.
+
+20
+
+something stronger than that.
+
+21
+
+of Congress forces you to do it but I -- I'm just
+
+22
+
+finding it difficult to conclude -- to equate the
+
+23
+
+plausibility standard in, in Matsushita with the strong
+
+24
+
+inference standard here.
+
+25
+
+And I think you're arguing for
+
+MR. PHILLIPS:
+
+And I think the language
+
+If you Well, if I'm going to err on
+10
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+either side, I obviously prefer that the Court carries
+
+2
+
+out Congress's intent.
+
+3
+
+further than Matsushita did in order to reverse the
+
+4
+
+court of appeals in this particular case.
+
+5
+
+We thing you needn't go any
+
+Obviously there is probably some potential
+
+6
+
+distance between the two, where you could certainly
+
+7
+
+interpret the strong inference standard more in the line
+
+8
+
+the way the United States interprets it, as creating a
+
+9
+
+high likelihood of scienter.
+
+And we don't -- we're
+
+10
+
+certainly not objecting to that.
+
+11
+
+the Court that you needn't go that far in order to
+
+12
+
+decide this case, although obviously we would welcome a
+
+13
+
+ruling along those lines if the Court's inclined to go
+
+14
+
+that far.
+
+15
+
+JUSTICE GINSBURG:
+
+We're just saying to
+
+Is it fair to say at the
+
+16
+
+pleading stage it's the equivalent of a clear and
+
+17
+
+convincing standard, whereas at the end of the road it
+
+18
+
+would only be more probable than not?
+
+19
+
+MR. PHILLIPS:
+
+Well, again, I think it -- I
+
+20
+
+think it puts an issue -- and we raised this in our
+
+21
+
+reply brief, whether or not Huddleston should be
+
+22
+
+reconsidered in light of this sort of basic change in
+
+23
+
+the way Congress is approaching private securities
+
+24
+
+litigation.
+
+25
+
+But, so my JUSTICE GINSBURG:
+
+So you do -
+
+11
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+MR. PHILLIPS:
+
+There are a number of ways to
+
+2
+
+go at it.
+
+3
+
+would not offend at least my sense of what Congress was
+
+4
+
+trying to achieve here.
+
+5
+
+But if it turned out to be a disconnect, that
+
+JUSTICE SCALIA:
+
+Yeah.
+
+Well, I don't think
+
+6
+
+Congress was trying to achieve an alteration in the
+
+7
+
+ultimate standard, either, in the jury standard.
+
+8
+
+it was concerned with is the enormous expense of -- of
+
+9
+
+discovery.
+
+What
+
+And, and tried to set a high wall to get to
+
+10
+
+the discovery stage.
+
+11
+
+to affect or should logically affect the standard that
+
+12
+
+the jury is told to use.
+
+13
+
+I don't know why that should have
+
+MR. PHILLIPS:
+
+All I'm suggesting is that if
+
+14
+
+the Court were concerned that somehow there is a
+
+15
+
+disconnect between the pleading standard and the
+
+16
+
+ultimate standard of proof, the way to resolve that
+
+17
+
+incongruity -- if it is one -- would to be reconsider
+
+18
+
+the ultimate standard of proof, not to throw out the
+
+19
+
+clearly congressionally approved baby as part of that
+
+20
+
+bath water.
+
+21
+
+JUSTICE KENNEDY:
+
+Can you tell me a little
+
+22
+
+bit of how -- how this should work in your view?
+
+23
+
+the CEO makes misstatements as to the earnings report
+
+24
+
+and the acceptance of one of its new products.
+
+25
+
+assume that.
+12
+Alderson Reporting Company
+
+Assume
+
+Just
+
+Official - Subject to Final Review
+
+1
+
+MR. PHILLIPS:
+
+Right.
+
+2
+
+JUSTICE KENNEDY:
+
+Can we make a strong
+
+3
+
+inference that a CEO knows what his own earnings reports
+
+4
+
+are?
+
+5
+
+MR. PHILLIPS:
+
+You mean with a specific
+
+6
+
+earnings report rather than just simply sort of sales
+
+7
+
+projections and demand?
+
+8
+9
+10
+
+JUSTICE KENNEDY:
+
+inference that a CEO knows the status of current
+earnings -
+
+11
+
+MR. PHILLIPS:
+
+12
+
+JUSTICE KENNEDY:
+
+13
+
+Can we make a strong
+
+Well, my guess is they -- when he makes, when he
+
+makes a statement.
+
+14
+
+MR. PHILLIPS:
+
+Well, I think they would have
+
+15
+
+to make an allegation that the -- that the CEO routinely
+
+16
+
+is provided with that information rather than simply
+
+17
+
+assume it.
+
+18
+
+their -- with their allegation that it's common sense
+
+19
+
+that CEOs will act to protect their own personal self
+
+20
+
+interest and the overall welfare of the company by
+
+21
+
+misrepresenting the status of events.
+
+22
+23
+
+I think it's the same problem you have with
+
+JUSTICE SCALIA:
+
+How about just saying that
+
+he knew it?
+
+24
+
+MR. PHILLIPS:
+
+I'm not -
+
+25
+
+JUSTICE SCALIA:
+
+Just saying that he knew
+
+13
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+it.
+
+2
+
+You're saying they have to give a reason why they knew
+
+3
+
+that he knew it, namely he routinely read these reports?
+
+4
+
+Suppose they didn't say that.
+
+5
+
+that the -- that the figures were otherwise, he -- he
+
+6
+
+set them forth.
+
+7
+
+Without saying why they knew that he knew it?
+
+MR. PHILLIPS:
+
+They just said knowing
+
+I don't think that's
+
+8
+
+sufficient, because it requires for the facts that
+
+9
+
+particularly show -
+
+10
+
+JUSTICE BREYER:
+
+But suppose it says, which
+
+11
+
+I think it did say, that Mr. Notebaert typically stayed
+
+12
+
+on top of the company's financial health by having
+
+13
+
+weekly conversations with other executives.
+
+14
+
+hands on the pulse of the company.
+
+15
+
+reports and product -- projection -- production
+
+16
+
+projections.
+
+17
+
+very specific.
+
+18
+
+He had his
+
+He saw weekly sales
+
+Now it seems like an allegation that's
+
+MR. PHILLIPS:
+
+But the -- but the problem
+
+19
+
+with that allegation, and we're talking about the 6500,
+
+20
+
+the Titan 6500 product specifically, in that context,
+
+21
+
+the report is, there's nothing in there that says what
+
+22
+
+those reports say about the 6500.
+
+23
+
+a case where the plaintiffs have 27 whistleblowers
+
+24
+
+inside the company who could provide you with all of the
+
+25
+
+detail in the world; and yet when it comes time to tell
+
+And remember, this is
+
+14
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+you what was in the 6500 report that would -- that would
+
+2
+
+suggest that it's not available, there's not word one in
+
+3
+
+the allegation.
+
+4
+
+JUSTICE BREYER:
+
+Well, I thought they
+
+5
+
+alleged at least that for about a year previously in
+
+6
+
+respect to the 506500 that it was wrong known throughout
+
+7
+
+the company that the 6500 had been delayed.
+
+8
+
+make an allegation like that?
+
+9
+
+MR. PHILLIPS:
+
+Don't they
+
+Right but that's -- that
+
+10
+
+being delayed for a year is not the basis for the claim.
+
+11
+
+The question was is the, is the 6500 being sold; and
+
+12
+
+that was the allegation.
+
+13
+
+-- I -- he had every reason to believe that, based on
+
+14
+
+what they've claimed because they've not produced a
+
+15
+
+report or said that there's anything inside the report
+
+16
+
+that says to the contrary about that.
+
+And the answer to that is he
+
+17
+
+Again, it seems to me -
+
+18
+
+JUSTICE BREYER:
+
+The 6500 has long been
+
+19
+
+delayed.
+
+Everyone knows that in the company.
+
+20
+
+knows it's long been delayed.
+
+21
+
+MR. PHILLIPS:
+
+22
+
+JUSTICE BREYER:
+
+23
+24
+25
+
+I think Then what he says is it is
+
+being shipped and delivered.
+MR. PHILLIPS:
+
+So he
+
+Something like that.
+
+But Justice Breyer, that -
+
+that long been delayed period runs all the way back to
+15
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+1998.
+
+And we're talking about events in 2000 and 2001.
+
+2
+
+So the notion that it's been long delayed says nothing
+
+3
+
+about what Mr. Notebaert was -- was revealing in March
+
+4
+
+and April and June of 2001.
+
+5
+
+It, it could potentially, but it equally, it
+
+6
+
+couldn't.
+
+It's the same problem you get with the 5500,
+
+7
+
+where the court of appeals specifically said it is quite
+
+8
+
+plausible that Mr. Notebaert never saw those reports.
+
+9
+
+Now how you can make that concession and
+
+10
+
+nevertheless say there is a strong inference that he
+
+11
+
+acted to deceive, strikes me as absolutely implausible.
+
+12
+
+JUSTICE BREYER:
+
+April '01, he says
+
+13
+
+everything we can build we are building, and shipping.
+
+14
+
+The demand is very strong.
+
+15
+
+course nobody wanted any of it, it was long delayed, and
+
+16
+
+they've known that since 1998 and he has his finger on
+
+17
+
+the pulse of the company.
+
+18
+
+MR. PHILLIPS:
+
+And then what they say is of
+
+But you -- you -
+
+19
+
+Justice Breyer, you make a leap there.
+
+20
+
+JUSTICE BREYER:
+
+21
+
+MR. PHILLIPS:
+
+Oh.
+
+Yeah.
+
+Is that they all knew that.
+
+22
+
+The point is they knew that it was delayed back in 1999.
+
+23
+
+What they don't do is tie that in to what he knew in
+
+24
+
+2001; and that, to me, that's the central point in this
+
+25
+
+case, is do you require that kind of specificity?
+16
+Alderson Reporting Company
+
+And
+
+Official - Subject to Final Review
+
+1
+
+it seems to me there's no other way to read what
+
+2
+
+Congress says in this statute than to that.
+
+3
+
+reserve the balance of my time.
+
+4
+5
+
+CHIEF JUSTICE ROBERTS:
+
+I'd like to
+
+Thank you
+
+Mr. Phillips.
+
+6
+
+Mr. Shanmugam.
+
+7
+
+ORAL ARGUMENT OF KANNON K. SHANMUGAN,
+
+8
+
+ON BEHALF OF UNITED STATES, AS AMICUS CURIAE,
+
+9
+
+SUPPORTING PETITIONERS
+
+10
+11
+
+MR. SHANMUGAM:
+
+Thank you Mr. Chief Justice,
+
+and may it please the Court:
+
+12
+
+While meritorious private actions are an
+
+13
+
+essential supplement to Government enforcement of the
+
+14
+
+securities laws, abusive action impose substantial costs
+
+15
+
+on companies and their shareholders.
+
+16
+
+of its effort in the Reform Act to address the problem
+
+17
+
+of abusive actions, Congress adopted uniform and more
+
+18
+
+stringent pleading requirements including the strong
+
+19
+
+inference requirement at issue in this case.
+
+20
+
+As a cornerstone
+
+The court of appeals erred by holding that a
+
+21
+
+plaintiff can satisfy that requirement simply by
+
+22
+
+alleging facts which an inference of state of mind could
+
+23
+
+be drawn.
+
+24
+
+the Reform Act.
+
+25
+
+The court of appeals thereby misinterpreted
+And -
+
+CHIEF JUSTICE ROBERTS:
+17
+Alderson Reporting Company
+
+Do you have a
+
+Official - Subject to Final Review
+
+1
+
+position on Justice Alito's earlier question about
+
+2
+
+whether the standard at the summary judgment stage is
+
+3
+
+the same as the standard at the pleading stage?
+
+4
+
+MR. SHANMUGAM:
+
+First of all to be clear,
+
+5
+
+Mr. Chief Justice, we don't believe that the Court needs
+
+6
+
+to address that question in this case, because we don't
+
+7
+
+believe that that sort of disparity would present any
+
+8
+
+Seventh Amendment concerns.
+
+9
+
+believe that any disparity in the degree of probability
+
+However, if the Court does
+
+10
+
+required does present Seventh Amendment concerns, we
+
+11
+
+believe that it is more consistent with Congress's
+
+12
+
+intent to apply the strong inference requirement at the
+
+13
+
+proof stage as well as the pleading stage rather than to
+
+14
+
+water down the strong inference requirement that
+
+15
+
+Congress adopted at the pleading stage.
+
+16
+
+And we believe that that requirement does
+
+17
+
+impose a very high burden.
+
+18
+
+plaintiff to allege facts that give rise to a high
+
+19
+
+likelihood that the conclusion that the defendant acted
+
+20
+
+with the necessary date of mind follows from those
+
+21
+
+allegations.
+
+22
+23
+24
+25
+
+In our view, it requires a
+
+JUSTICE KENNEDY:
+
+And by the proof stage you
+
+mean both summary judgment and submission to jury?
+MR. SHANMUGAM:
+Justice Kennedy.
+
+I think that that is right,
+
+I suppose that if the perceived
+18
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+constitutional concern is solely regarding the degree of
+
+2
+
+likelihood that is required, it could be applied simply
+
+3
+
+at the summary judgment stage; but to the extent that
+
+4
+
+the Court believes that it is a matter for the jury to
+
+5
+
+determine whether a given set of facts gives rise to an
+
+6
+
+inference of the requisite strength then yes, the jury
+
+7
+
+would need to be instructed in a manner consistent with
+
+8
+
+the strong -
+
+9
+10
+
+JUSTICE KENNEDY:
+
+What would you think about
+
+the following -
+
+11
+
+JUSTICE STEVENS:
+
+May I just -- may I just,
+
+12
+
+very briefly. .
+
+13
+
+problem, do you think the standards are the same or
+
+14
+
+different between the pleading stage and the
+
+15
+
+constitutional stage -- and the summary judgment stage?
+
+16
+17
+
+MR. SHANMUGAM:
+
+JUSTICE STEVENS:
+
+MR. SHANMUGAN:
+
+24
+25
+
+That's
+
+And the statute by its terms
+
+only -
+
+22
+23
+
+I understand that.
+
+not my question.
+
+20
+21
+
+Well, again, we don't
+
+believe that the Court needs to address that question.
+
+18
+19
+
+Putting aside the constitutional
+
+JUSTICE STEVENS:
+
+It is either a yes or no
+
+question.
+MR. SHANMUGAM:
+
+Well, I think that the
+
+answer is yes if the Court feels it needs to address
+19
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+that question.
+
+2
+
+standard that Congress adopted was framed only in terms
+
+3
+
+of the pleading stage.
+
+4
+
+And to be sure, the strong inference
+
+And our view -
+
+JUSTICE GINSBURG:
+
+-- there was a pleading
+
+5
+
+stage, I would like your clear view on how much that
+
+6
+
+changes.
+
+7
+
+is a 12(b)(6) motion, you look only to the face of the
+
+8
+
+complaint and you construe the allegations in that
+
+9
+
+complaint in the light most favorable to the plaintiff.
+
+10
+11
+
+It has been the understanding that when there
+
+Is that rule not applied under the
+interpretation you are giving us of strong inference?
+
+12
+
+MR. SHANMUGAM:
+
+I think that it is,
+
+13
+
+Justice Ginsburg, to this limited extent.
+
+14
+
+ordinary civil case, the case is governed of course by
+
+15
+
+Rule 8.
+
+16
+
+in the complaint must be construed in the light most
+
+17
+
+favorable to the plaintiff is really derived from Rule 8
+
+18
+
+and its requirement that a plaintiff need only provide a
+
+19
+
+shortened claim statement of the relevant underlying
+
+20
+
+facts in order to survive a motion to dismiss.
+
+21
+
+In an
+
+And in some sense the rule that the allegations
+
+What Congress did in the Reform Act was to
+
+22
+
+require first of all some degree of particularity in
+
+23
+
+allegation; but Congress went further than that; and to
+
+24
+
+the extent that Congress spoke in terms of the
+
+25
+
+inferences that can be drawn from those allegations, we
+20
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+do believe that Congress abrogated the background rule
+
+2
+
+that the allegations must be read in the light most
+
+3
+
+favorable to the plaintiff, or as some courts have put
+
+4
+
+it, that all reasonable inferences that can be drawn
+
+5
+
+from the complaint should be drawn in the plaintiff's
+
+6
+
+favor.
+
+7
+
+That clearly is a change on the preexisting
+
+8
+
+law; and it is a change with regard to the law that
+
+9
+
+circuits were applying before the enactment of the
+
+10
+
+Reform Act.
+
+11
+
+JUSTICE SOUTER:
+
+Why don't we simply assume
+
+12
+
+that the read most favorable to the plaintiff rule is
+
+13
+
+still in place, but that reading it most favorably to
+
+14
+
+the plaintiff, it must rise to the level of supporting
+
+15
+
+the strong inference?
+
+16
+
+MR. SHANMUGAM:
+
+I guess, Justice Souter,
+
+17
+
+that I would wonder what it would mean to say that you
+
+18
+
+read the allegations in the light most favorable to the
+
+19
+
+plaintiff.
+
+20
+
+simply accumulate reasonable subsidiary inferences in
+
+21
+
+order to create the strong inference of state of mind
+
+22
+
+that is ultimately required, then I think I would
+
+23
+
+disagree that that rule remains in effect.
+
+24
+
+because our view is that in applying the strong
+
+25
+
+inference standard, a court should consider other
+
+If what it means is that a plaintiff can
+
+21
+Alderson Reporting Company
+
+Precisely
+
+Official - Subject to Final Review
+
+1
+
+possible explanations for the defendant's conduct that
+
+2
+
+are not foreclosed by the allegations -
+
+3
+
+JUSTICE SOUTER:
+
+Well, but I was using the
+
+4
+
+word inference to -- to refer to some reasoning process
+
+5
+
+based upon what is stated.
+
+6
+
+to the plaintiff.
+
+Not on assumptions favorable
+
+7
+
+And if inference is to tie -- is, is a term
+
+8
+
+that is tied to what is alleged, then I don't see any -
+
+9
+
+any contradiction between reading those allegations most
+
+10
+
+favorably, but saying the statute in each statute
+
+11
+
+requires that the -- that the total force of the
+
+12
+
+inference rise to the level of strength that you speak
+
+13
+
+of.
+
+14
+
+MR. SHANMUGAM:
+
+I think our only concern,
+
+15
+
+Justice Souter, would be that where a plaintiff includes
+
+16
+
+ambiguous allegations in the complaint, a court should
+
+17
+
+consider the possibility that those ambiguities work to
+
+18
+
+the defendant's favor as well as working to the
+
+19
+
+plaintiff's favor.
+
+20
+
+this case are the allegations that concern the Titan
+
+21
+
+5500.
+
+22
+
+a study and there were various internal reports that
+
+23
+
+indicated that demand for that product was declining.
+
+24
+25
+
+And one concrete example of that in
+
+There are allegations in this case that there was
+
+But the complaint does not specifically
+allege that that study and those internal reports were
+22
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+2
+
+even available at the time the CEO made the alleged JUSTICE SCALIA:
+
+Mr. Shanmugam, could -
+
+3
+
+could I get you back to -- to your, your assertion of we
+
+4
+
+don't have to reach in this case the question of whether
+
+5
+
+the same standard applies at trial as, as at the
+
+6
+
+pleading stage?
+
+7
+
+It seems to me a Seventh Amendment claim has
+
+8
+
+been raised.
+
+It's our usual policy to avoid unnecessary
+
+9
+
+constitutional adjudication.
+
+If indeed the two
+
+10
+
+standards are the same, there's certainly no Seventh
+
+11
+
+Amendment problem.
+
+12
+
+decide, in resolving the Seventh Amendment claim,
+
+13
+
+whether the two standards are the same?
+
+14
+
+So why don't we have to first of all
+
+MR. SHANMUGAM:
+
+Well, that is certainly
+
+15
+
+correct, Justice Scalia, but in our view, there is no
+
+16
+
+constitutional problem here.
+
+17
+
+is no constitutional problem here is in making the
+
+18
+
+probabilistic determination that is required by the
+
+19
+
+Reform Act, a court is taking the allegations in the
+
+20
+
+complaint as true.
+
+21
+
+of the evidence.
+
+22
+
+And the reason that there
+
+It is not engaging in any weighing
+
+JUSTICE SCALIA:
+
+But you're getting to the
+
+23
+
+merits of the constitutional problem.
+
+24
+
+run away from constitutional problems.
+
+25
+
+want to consider the merits of it.
+23
+Alderson Reporting Company
+
+And we usually
+We don't even
+
+And we don't have
+
+Official - Subject to Final Review
+
+1
+
+to, if indeed the two standards are the same.
+
+2
+
+MR. SHANMUGAM:
+
+Well, to the extent that the
+
+3
+
+Court views the constitutional issue in this case as
+
+4
+
+sufficiently substantial to trigger the canon of
+
+5
+
+constitutional avoidance, then we do believe that the
+
+6
+
+better view, the view that is more consistent with
+
+7
+
+Congress's intent, is that if the Court is choosing
+
+8
+
+between raising the standard at the pre stage and
+
+9
+
+watering down the standard at the pleadings stage, we
+
+10
+
+believe that the former is more consistent with
+
+11
+
+Congress's -
+
+12
+
+JUSTICE ALITO:
+
+Even if there is no Seventh
+
+13
+
+Amendment problem, what sense would it make to have a
+
+14
+
+regime that says plaintiff has to plead more than the
+
+15
+
+plaintiff has to show at summary judgment or prove at
+
+16
+
+trial.
+
+17
+
+MR. SHANMUGAM:
+
+Well, Congress was
+
+18
+
+concerned, Justice Alito, with the problem of abusive
+
+19
+
+pleading.
+
+20
+
+that concern, Congress was concerned that plaintiffs
+
+21
+
+could readily allege fraud by hindsight, and Congress
+
+22
+
+may have been concerned that the plaintiff could do so
+
+23
+
+not only by making a conclusory allegation of state of
+
+24
+
+mind, but also making a slightly less conclusory
+
+25
+
+allegation of state of mind by alleging facts that
+
+That much is crystal clear.
+
+24
+Alderson Reporting Company
+
+And as part of
+
+Official - Subject to Final Review
+
+1
+
+merely give rise to a reasonable inference of state of
+
+2
+
+mind.
+
+3
+
+If Congress hadn't had that concern, it
+
+4
+
+obviously could have codified the reasonable inference
+
+5
+
+standard that was then in use by a number of other
+
+6
+
+courts.
+
+7
+
+JUSTICE BREYER:
+
+What do you think in
+
+8
+
+writing this opinion?
+
+There are a couple of ways.
+
+9
+
+you can find strong inference in terms of some other
+
+10
+
+words.
+
+11
+
+could just try an example.
+
+12
+
+strong inference.
+
+13
+
+complaint.
+
+14
+
+way, in your opinion, will work best in this case?
+
+15
+
+Two, you could look to history.
+
+Or three, you
+
+Say strong inference means
+
+Here's an example.
+
+This is a
+
+It meets it, or it doesn't meet it.
+
+MR. SHANMUGAM:
+
+One,
+
+Which
+
+Justice Breyer, our primary
+
+16
+
+concern in this case is with the way that the Court of
+
+17
+
+Appeals articulated the applicable standard, which we
+
+18
+
+believe may have pernicious effects in future cases.
+
+19
+
+And so we certainly believe that it would be appropriate
+
+20
+
+for the Court to vacate and remand for the Court of
+
+21
+
+Appeals to apply the correct standard.
+
+22
+
+clear -
+
+23
+
+JUSTICE GINSBURG:
+
+But just to be
+
+You said the Court of
+
+24
+
+Appeals to apply it.
+
+Could the Court of Appeals
+
+25
+
+applying the standard that you say is correct come to
+25
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+the same decision that it came to using a different
+
+2
+
+verbal formula.
+
+3
+
+MR. SHANMUGAM:
+
+In our view,
+
+4
+
+Justice Ginsburg, applying the correct standard, the
+
+5
+
+decision of the Court of Appeals in this case should be
+
+6
+
+reversed.
+
+7
+
+Appeals for application of the standard, we certainly
+
+8
+
+think that the Court of Appeals should come out the
+
+9
+
+other way.
+
+10
+
+And if the case were remanded to the Court of
+
+JUSTICE BREYER:
+
+You had something else to
+
+11
+
+say in answer to my question, which I would like to
+
+12
+
+hear.
+
+13
+
+MR. SHANMUGAM:
+
+I think it was just that
+
+14
+
+point, Justice Breyer, namely, that if the Court
+
+15
+
+believes that it would be useful to provide guidance to
+
+16
+
+the lower courts by applying the standard itself in this
+
+17
+
+case, we do believe that the decision of the Court of
+
+18
+
+Appeals should be reversed rather than vacated.
+
+19
+20
+
+JUSTICE KENNEDY:
+
+Is the requisite standard,
+
+knowledge of falsity.
+
+21
+
+MR. SHANMUGAM:
+
+The requisite scienter is
+
+22
+
+either intent or recklessness, with regard to the
+
+23
+
+underlying conduct at issue, in effect -
+
+24
+
+JUSTICE KENNEDY:
+
+25
+
+Intent to make a false
+
+statement?
+26
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+MR. SHANMUGAM:
+
+Yes, that's right.
+
+And in
+
+2
+
+fact, in misstatement cases, that is knowledge of
+
+3
+
+falsity.
+
+4
+5
+6
+7
+8
+9
+10
+
+CHIEF JUSTICE ROBERTS:
+
+Thank you
+
+Mr. Shanmugam.
+Mr. Miller.
+ORAL ARGUMENT OF ARTHUR R.
+
+MILLER
+
+ON BEHALF OF RESPONDENTS
+MR. MILLER:
+
+Mr. Chief Justice, and may it
+
+please the Court?
+
+11
+
+We believe the Seventh Circuit had it right.
+
+12
+
+We believe that what the Seventh Circuit, and this is in
+
+13
+
+partial response to you, Justice Breyer, is take more or
+
+14
+
+less a holistic view of the entirety of the complaint.
+
+15
+
+The business about the 5500, the business about the 6500
+
+16
+
+not being available when on December 11, 2000, Notebaert
+
+17
+
+says it's available, the fact that they weren't shipping
+
+18
+
+it, they weren't selling it, it didn't work, and the
+
+19
+
+extensive information from confidential sources that
+
+20
+
+there were, as one judge once referred to it, accounting
+
+21
+
+shenanigans going on, designed to shift income into the
+
+22
+
+fourth quarter of 2000.
+
+23
+24
+25
+
+We think that when the court looked at that,
+it said, looks to us as if there's JUSTICE KENNEDY:
+
+Do we take judicial notice
+
+27
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+that a CEO knows these things and that's the strong
+
+2
+
+inference.
+
+3
+
+MR. MILLER:
+
+Again, you have confidential
+
+4
+
+sources in this case, and in the case, Notebaert is
+
+5
+
+hands on, he's talking to people, he's on the phone all
+
+6
+
+the time.
+
+7
+
+We're talking about the 5500 JUSTICE KENNEDY:
+
+8
+
+have that?
+
+9
+
+show of his knowledge?
+
+10
+
+But you agree you have to
+
+You have to have some specific allegation to
+
+MR. MILLER:
+
+We can't just infer that?
+I would think you should be
+
+11
+
+able to infer it with the CEO.
+
+12
+
+sources demonstrate in this case, he must have had it,
+
+13
+
+given his nature, the status of these products, his
+
+14
+
+day-to-day -
+
+15
+
+JUSTICE BREYER:
+
+I think the confidential
+
+The most suspicious thing
+
+16
+
+in the complaint that I could find was where you say
+
+17
+
+there's an internal market report, and it revealed
+
+18
+
+demand for the 5500 was drying up, and revenue would
+
+19
+
+decline by 400,000,000.
+
+20
+
+about early '01.
+
+21
+
+to believe that it was prior to March or April of '01,
+
+22
+
+you would have said so.
+
+23
+
+MR. MILLER:
+
+24
+
+JUSTICE BREYER:
+
+25
+
+Then you date that with in or
+
+Now, I think if you knew or had reason
+
+If we knew.
+Yeah, and therefore,
+
+there's quite a good chance here that this report was
+28
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+written after he made the statements.
+
+2
+
+What am I supposed to do with that?
+
+3
+
+I know what you said.
+
+4
+
+that's your best.
+
+5
+
+And you said your best.
+
+MR. MILLER:
+
+Yes.
+
+I mean,
+And
+
+This notion of strategic
+
+6
+
+ambiguity is in a sense humorous, given the obstacles
+
+7
+
+that a plaintiff has to get the goods, so to speak.
+
+8
+
+Just think about the investigation efforts that went
+
+9
+
+into this case.
+
+What you do, Justice Breyer, is -- and
+
+10
+
+I think this is what the Seventh Circuit did -- look at
+
+11
+
+everything, look at the fact that you have got
+
+12
+
+confidential sources saying 5500 demand is drying up,
+
+13
+
+perhaps as early as middle 2000.
+
+14
+
+ordered.
+
+15
+
+25 percent, fourth quarter.
+
+16
+
+in January.
+
+17
+
+People are going home early.
+
+Verizon dropped
+
+Verizon dropped 50 percent
+
+You're the CEO.
+
+You don't know that your
+
+18
+
+flagship product is drying up?
+
+19
+
+that people are going home?
+
+20
+
+doesn't know you anymore?
+
+21
+
+Parts are not being
+
+That there's inventory,
+
+That your best customer
+
+CHIEF JUSTICE ROBERTS:
+
+You're arguing the
+
+22
+
+facts and the inferences.
+
+You said the Seventh Circuit
+
+23
+
+got it right.
+
+24
+
+standard on page 20A of the petition appendix, it's the
+
+25
+
+normal standard that would have been applied prior to
+
+As I read their articulation of the
+
+29
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+the passage of the PSLRA.
+
+2
+
+infer -- Congress passes a law saying they've got to
+
+3
+
+give rise to a strong inference.
+
+4
+
+changed the standard?
+
+5
+
+MR. MILLER:
+
+Could a reasonable person
+
+Shouldn't that have
+
+We believe two propositions.
+
+6
+
+Number one, you can't exceed the Seventh Amendment, and
+
+7
+
+the Seventh Circuit -
+
+8
+9
+
+CHIEF JUSTICE ROBERTS:
+
+I don't understand
+
+the Seventh Amendment argument here.
+
+Congress can
+
+10
+
+surely articulate the standard that's going to be
+
+11
+
+applied as a matter of substantive law.
+
+12
+
+says, you have to prove by clear and convincing
+
+13
+
+evidence, that doesn't interfere with the Seventh
+
+14
+
+Amendment because a jury would be instructed pursuant to
+
+15
+
+that standard.
+
+If Congress
+
+16
+
+MR. MILLER:
+
+17
+
+But that is not what Congress did.
+
+18
+
+elevate the burden of proof.
+
+19
+
+has asked you to, in effect, to overrule Huddleston.
+
+20
+
+That is correct, Chief Justice.
+
+JUSTICE SCALIA:
+
+Congress did not
+
+That is why Mr. Phillips
+
+Well, but Congress just
+
+21
+
+established an entry qualification for getting into
+
+22
+
+court.
+
+23
+
+And there are a lot of entry qualifications.
+
+24
+
+In diversity cases, you -- if you allege diversity, and
+
+25
+
+it existed at the outset, that's fine.
+30
+Alderson Reporting Company
+
+That doesn't
+
+Official - Subject to Final Review
+
+1
+
+have to be proved at the end of the case.
+
+2
+
+if you prove the contrary, the case is still validly
+
+3
+
+there.
+
+4
+
+when they differ from, or have indeed nothing to do with
+
+5
+
+the merits that the jury is supposed to decide.
+
+6
+
+Indeed even
+
+Congress can establish entry requirements even
+
+MR. MILLER:
+
+I think that is absolutely
+
+7
+
+correct, and indeed rule 9(b) has been an entry
+
+8
+
+qualification since 1938.
+
+9
+
+qualifications, and there are entry qualifications.
+
+10
+
+But there are entry
+
+In this case, in effect, the motion to
+
+11
+
+dismiss operates as a dispositive motion.
+
+12
+
+the ability to proceed at all, and it does it, if you
+
+13
+
+listen to the standards being proposed by Petitioner,
+
+14
+
+and by the United States -
+
+15
+
+JUSTICE BREYER:
+
+It cuts off
+
+What's the difference
+
+16
+
+between what Justice Scalia was just saying?
+
+17
+
+come into Federal court unless you have at least
+
+18
+
+$200,000 damages.
+
+19
+
+hurt if you had less, but that would be constitutional.
+
+20
+
+So here you can't get into Federal court unless you have
+
+21
+
+a really strong claim, an overwhelming claim that you
+
+22
+
+have to demonstrate at the beginning.
+
+23
+
+You can't
+
+Now, you might have been just as much
+
+Now, you might have a good claim, but we're
+
+24
+
+not going to let you come into Federal court.
+
+25
+
+want those people who are really strong, just as we only
+31
+Alderson Reporting Company
+
+We only
+
+Official - Subject to Final Review
+
+1
+
+want those people who are really suffering.
+
+2
+3
+4
+5
+6
+
+MR. MILLER:
+
+And did Congress raise the
+
+burden JUSTICE BREYER:
+
+No.
+
+No, not the burden
+
+of -- it's the entry.
+MR. MILLER:
+
+The entry points you referred
+
+7
+
+to, the so-called pleas in abatement, to put on my
+
+8
+
+common law hat, a jurisdiction venue, et cetera, they
+
+9
+
+may raise issues of fact and Congress, in control of the
+
+10
+11
+
+Federal courts, can calibrate it any way they want.
+But when you are dealing with the core
+
+12
+
+function of the jury -- and matters of abatement were
+
+13
+
+never considered to be core functions of the jury -- I
+
+14
+
+think a whole range of cases starting with Slocum versus
+
+15
+
+New York Life -
+
+16
+
+CHIEF JUSTICE ROBERTS:
+
+I thought you told
+
+17
+
+me that Congress could set a high level of burden on
+
+18
+
+factual issues, and that that wouldn't intrude upon the
+
+19
+
+Seventh Amendment.
+
+20
+21
+22
+
+MR. MILLER:
+
+I'm distinguishing, Mr. Chief
+
+Justice, between the merits and the entry point.
+CHIEF JUSTICE ROBERTS:
+
+Are you saying that
+
+23
+
+Congress can not set a fact burden on the merits that is
+
+24
+
+different than preponderance of the evidence.
+
+25
+
+MR. MILLER:
+
+No.
+
+No.
+
+No.
+
+32
+Alderson Reporting Company
+
+No.
+
+If Congress
+
+Official - Subject to Final Review
+
+1
+
+wants to change preponderance to clear and convincing,
+
+2
+
+it can.
+
+3
+
+JUSTICE KENNEDY:
+
+So you would say that you
+
+4
+
+could have a beyond reasonable doubt standard that must
+
+5
+
+be met at the pleading level, but more likely than not
+
+6
+
+at the jury level?
+
+7
+8
+
+MR. MILLER:
+disagree with.
+
+9
+10
+
+No.
+
+That is something I
+
+If the substance of the law -
+
+JUSTICE KENNEDY:
+
+We want to know what the
+
+rule is.
+
+11
+
+MR. MILLER:
+
+I'm not sure it's the rule.
+
+12
+
+It's what I would advocate.
+
+13
+
+predominance, then to raise the pleading bar on what in
+
+14
+
+effect is a dispositive motion -- and I don't think it
+
+15
+
+makes any difference whether it's a JNOV, a directed
+
+16
+
+verdict, a summary judgment, motion for judgment on the
+
+17
+
+opening statement -- and you decided all of those cases.
+
+18
+
+And you protected what Justice Souter referred to in
+
+19
+
+Markman as the core function of the jury.
+
+20
+
+always said these procedures are okay, as long as it
+
+21
+
+does not call for the resolution of fact issues, because
+
+22
+
+that's the core function of the jury.
+
+23
+
+If the substance says
+
+You have
+
+Now this Court is faced with, in effect,
+
+24
+
+coming back down that time line to the motion to
+
+25
+
+dismiss.
+33
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+CHIEF JUSTICE ROBERTS:
+
+If I'm with you so
+
+2
+
+far, why would you suppose that Congress would create a
+
+3
+
+different standard on the motion to dismiss than they
+
+4
+
+meant to apply at the merits standard?
+
+5
+
+MR. MILLER:
+
+I don't think Congress would.
+
+6
+
+I do not believe Congress ever intended -- it's not in
+
+7
+
+the statute, it is not in the legislative history, it is
+
+8
+
+not in any case, Matsushita, Monsanto are unique
+
+9
+
+antitrust cases, and in both cases, the Court, if you
+
+10
+
+read the opinions fully, protected the jury function.
+
+11
+
+They said there was simply nothing beyond the assertions
+
+12
+
+standing alone when you have competitive and
+
+13
+
+anticompetitive conduct to protect substantive antitrust
+
+14
+
+law.
+
+15
+
+That doesn't do it.
+CHIEF JUSTICE ROBERTS:
+
+Well, then what was
+
+16
+
+Congress trying to do when they said strong inference?
+
+17
+
+It seems to me that if you think the standards have to
+
+18
+
+be the same at pleading and at proof, and Congress says
+
+19
+
+strong inference at pleading, it means you have to show
+
+20
+
+a strong inference at proof, and that's why there's no
+
+21
+
+Seventh Amendment problem.
+
+22
+23
+24
+25
+
+MR. MILLER:
+
+What you have to show at proof
+
+is preponderance.
+JUSTICE STEVENS:
+
+Then it seems to me that
+
+you have the meaning of strong inference and reasonable
+34
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+inference.
+
+2
+3
+
+MR. MILLER:
+we think -
+
+4
+5
+
+Our standard, as proposed, and
+
+JUSTICE STEVENS:
+
+You don't want to answer
+
+yes or no there?
+
+6
+
+MR. MILLER:
+
+-- is reasonable jurors, who
+
+7
+
+are finders of fact, could find by a preponderance of
+
+8
+
+the evidence that the defendants acted with scienter.
+
+9
+
+JUSTICE STEVENS:
+
+So you're saying those
+
+10
+
+words, strong inference, mean essentially the same thing
+
+11
+
+as reasonable inference.
+
+12
+
+MR. MILLER:
+
+No.
+
+You can have lots of
+
+13
+
+reasonable inferences that don't meet a preponderance
+
+14
+
+notion.
+
+15
+
+JUSTICE BREYER:
+
+That's true, but imagine a
+
+16
+
+case where the plaintiff with tremendous candor sets
+
+17
+
+forth every bit of testimony that's going to be heard on
+
+18
+
+both sides.
+
+19
+
+And then you read that document and you
+
+20
+
+conclude this is the weakest case I've ever heard, but I
+
+21
+
+do think a reasonable juror could find for the
+
+22
+
+plaintiff.
+
+23
+24
+25
+
+And that would be the weak evidence
+standard.
+And lo and behold, that could be -- you
+35
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+know, what do we do about that?
+
+2
+
+you send it to a jury test, we could easily imagine
+
+3
+
+cases where that meets the weak evidence standard, the
+
+4
+
+weak inference and not the strong inference.
+
+5
+
+I'm driving at is, I don't see a way of avoiding this
+
+6
+
+Seventh Amendment problem.
+
+7
+
+MR. MILLER:
+
+8
+
+JUSTICE BREYER:
+
+9
+
+Because using your do
+
+And what
+
+If Because they certainly
+
+didn't intend the weak inference standard.
+
+10
+
+MR. MILLER:
+
+If you follow petitioners in
+
+11
+
+their attempt to deconstruct not simply Rule 8's
+
+12
+
+construction, but hundreds of years of what this Court
+
+13
+
+in Jones versus Bock referred to as usual procedural
+
+14
+
+practices which are not to be lightly departed from, the
+
+15
+
+historic notion is you look at the complaint and in a
+
+16
+
+curious way, you have blinders on.
+
+17
+
+complaint.
+
+18
+
+pleader.
+
+19
+
+You do not look for exculpatory explanations.
+
+20
+
+You look at the
+
+You read it in the light favorable to the
+You do not weigh.
+
+JUSTICE ALITO:
+
+That is a jury function.
+
+How can you assess the
+
+21
+
+strength of the inference that can be drawn from the
+
+22
+
+facts alleged in the complaint without considering all
+
+23
+
+the inferences that could be drawn from those facts?
+
+24
+
+just don't understand that argument.
+
+25
+
+You see somebody -- let's say you saw
+36
+Alderson Reporting Company
+
+I
+
+Official - Subject to Final Review
+
+1
+
+somebody today walking east on Pennsylvania Avenue in
+
+2
+
+the direction of Capitol Hill.
+
+3
+
+you could draw an inference that the person is coming to
+
+4
+
+the Supreme Court.
+
+5
+
+in Washington, that would be a very strong inference.
+
+6
+
+But don't you also have to consider the inference that
+
+7
+
+the person is going to the Capitol, the person is going
+
+8
+
+to the Library of Congress, the person is going to some
+
+9
+
+other location up here?
+
+10
+
+Now you -- there's -
+
+And if there were no other building
+
+You have to consider all the
+
+inferences that you can draw from the facts.
+
+11
+
+MR. MILLER:
+
+As the Seventh Circuit did, we
+
+12
+
+agree, you look at the totality of the complaint.
+
+13
+
+That's a given.
+
+14
+
+But there are contrary inferences that
+
+15
+
+undermine the strength of the plaintiff's inferences.
+
+16
+
+They weaken it.
+
+17
+
+complaint.
+
+18
+
+And they're -- they emanate from the
+
+There are other kinds of inferences, let's
+
+19
+
+call it nonculpability, that don't denigrate the strong
+
+20
+
+inference which let's assume hypothetically has been
+
+21
+
+established.
+
+22
+
+They're just side-bar possibilities.
+
+JUSTICE GINSBURG:
+
+Well, let's take one
+
+23
+
+specific example that the petitioners did, and that is
+
+24
+
+this matter of the channel stuffing.
+
+25
+
+notion, channel stuffing.
+
+They say here's a
+
+It could mean goods were
+37
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+shipped that nobody ever ordered, or it could mean
+
+2
+
+something different.
+
+3
+
+other incentives to get people to buy.
+
+4
+
+channel stuffing and bad channel stuffing, and it sounds
+
+5
+
+like good cholesterol, bad cholesterol; you can't tell
+
+6
+
+from the allegations that it's the bad stuffing that's
+
+7
+
+at issue.
+
+8
+9
+
+It could mean discounting and
+
+MR. MILLER:
+
+So there's good
+
+The Seventh Circuit reached
+
+that conclusion, I think, by looking at some of the
+
+10
+
+confidential sources which sort of indicated that there
+
+11
+
+was channel stuffing in the sense of pushing product out
+
+12
+
+which was coming back.
+
+13
+
+about the channel stuffing, so there's reason to believe
+
+14
+
+that at least some of it is bad.
+
+15
+
+The head of Verizon complained
+
+Just enough.
+
+Now, is that in and of itself determinative?
+
+16
+
+No.
+
+17
+
+Seventh Circuit did is look at the 5500, look at the
+
+18
+
+6500, look at the earnings projections which proved
+
+19
+
+false, looked at back-dating, channel stuffing.
+
+20
+
+at all of that and said okay, even if I treat channel
+
+21
+
+stuffing as weak, I have these other things.
+
+22
+
+Judge Lynch of the First Circuit said, each fact of
+
+23
+
+scienter is like a brush stroke.
+
+24
+25
+
+Again, I come back to the notion that what the
+
+JUSTICE SOUTER:
+
+Looked
+
+And as
+
+Are you entitled to
+
+consider the brush strokes that are not there as well as
+38
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+the subsidiary brush strokes that are?
+
+2
+
+Justice Alito's example, if the pleadings don't point
+
+3
+
+out that the Library of Congress and the Capitol are
+
+4
+
+also up on this hill, is the judge at the motions stage
+
+5
+
+entitled to consider that?
+
+6
+7
+
+MR. MILLER:
+
+10
+
+Obviously, if it's something
+
+you can take judicial notice of, then yes.
+
+8
+9
+
+In
+
+JUSTICE SOUTER:
+
+Okay.
+
+Then that is
+
+engaging in something more than construing the pleadings
+most favorably to the plaintiff.
+
+11
+
+MR. MILLER:
+
+But it's within the realm of
+
+12
+
+what courts have done for the longest of the time.
+
+13
+
+look at documents attached.
+
+14
+
+notice.
+
+15
+
+JUSTICE SOUTER:
+
+They
+
+They look at judicial
+
+What do you think about
+
+16
+
+that?
+
+17
+
+which there this is kind of critical assessment function
+
+18
+
+that you concede must go on, rather than simply a piling
+
+19
+
+favorable inference onto favorable inference to see if
+
+20
+
+it gets to the strong points.
+
+21
+
+There are at least some circumstances, then, in
+
+MR. MILLER:
+
+I repeat what I said a couple
+
+22
+
+of minutes ago, Justice Souter.
+
+If the negative
+
+23
+
+depletes the affirmative, if there's a correlation
+
+24
+
+between them, I can understand that.
+
+25
+
+eliminates that fact.
+
+Maybe it
+
+Maybe it reduces that fact.
+39
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+But when we hear about motive, what does
+
+2
+
+motive and guidance reduction months after the false
+
+3
+
+statements have to do with whether the statements were
+
+4
+
+false, whether the 5500 was -
+
+5
+
+JUSTICE SOUTER:
+
+That is -- that is an
+
+6
+
+argument for the weight of considering motive rather
+
+7
+
+than the relevance of the motive consideration per se.
+
+8
+9
+
+MR. MILLER:
+
+I think it is a tough line.
+
+I
+
+think this is the kind of line district judges have to
+
+10
+
+draw.
+
+11
+
+Anderson versus Liberty Lobby and all of those jury
+
+12
+
+trial cases, you see the repetition of the notion that
+
+13
+
+judges do not balance inference chains on a matter going
+
+14
+
+to the core function of a jury.
+
+15
+
+I think if you look at your own precedents like
+
+CHIEF JUSTICE ROBERTS:
+
+But all of those
+
+16
+
+cases were before the PSLRA where Congress, it seems to
+
+17
+
+me, established a very different standard.
+
+18
+
+they have to support a strong inference.
+
+19
+20
+21
+
+MR. MILLER:
+
+A strong inference.
+
+They said
+
+Not a
+
+conclusive inference.
+CHIEF JUSTICE ROBERTS:
+
+Strong inference was
+
+22
+
+not the test that was being applied in Anderson, Liberty
+
+23
+
+Lobby, in any of those cases.
+
+24
+25
+
+MR. MILLER:
+
+But can't -- but strong
+
+inference, as Justice Ginsburg said much earlier, was
+40
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+the standard not only in the Second Circuit but in the
+
+2
+
+First Circuit and in the Third Circuit.
+
+3
+
+JUSTICE BREYER:
+
+What do you think about the
+
+4
+
+approach -- because I have had some of these cases.
+
+5
+
+I see -- I think words, words, words.
+
+6
+
+And
+
+And what Congress said was strong inference,
+
+7
+
+and we're not going to get any further by looking for
+
+8
+
+some other words.
+
+9
+
+The most helpful thing is take it, look at the
+
+So therefore, take strong inference.
+
+10
+
+complaint, read it, and then say okay, this is a strong
+
+11
+
+inference.
+
+12
+
+avoid all the other issues.
+
+13
+
+that?
+
+Or maybe we'd say it isn't.
+
+14
+
+MR. MILLER:
+
+15
+
+JUSTICE SCALIA:
+
+We read it, and
+
+What do you think about
+
+Live to fight another day?
+Right.
+
+And then on appeal,
+
+16
+
+we would say, no, it's not a strong inference, or yes,
+
+17
+
+it is a strong inference.
+
+18
+
+I mean, I hope we're going to establish some
+
+19
+
+standards for how you go about determining whether
+
+20
+
+there's a strong inference or not.
+
+21
+
+JUSTICE KENNEDY:
+
+And I hope we're going to
+
+22
+
+recognize that Congress thought it was doing something.
+
+23
+
+Your argument so far, Professor, doesn't indicate
+
+24
+
+that Congress -
+
+25
+
+MR. MILLER:
+
+Excuse me.
+41
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+JUSTICE KENNEDY:
+
+You indicated that the -
+
+2
+
+you know, the plaintiff had to do all this
+
+3
+
+investigation.
+
+4
+
+defendants were being disadvantaged.
+
+5
+
+The whole point of this was that the
+
+MR. MILLER:
+
+Look at the statute in its
+
+6
+
+entirety.
+
+This isn't a statute that just deals with
+
+7
+
+pleading scienter.
+
+8
+
+the selection of lead representative, which has produced
+
+9
+
+this incredible shift from '95 to public institutions,
+
+Look at the provisions dealing with
+
+10
+
+pensions and labor unions.
+
+11
+
+cases.
+
+12
+
+selection of them with notice provisions to make sure
+
+13
+
+you've got the -
+
+14
+
+They don't bring frivolous
+
+Look at the control that statute gives over
+
+CHIEF JUSTICE ROBERTS:
+
+How does that change
+
+15
+
+how we should read strong inference in the statute?
+
+16
+
+you saying don't worry whether it's a strong inference
+
+17
+
+or not because labor unions are bringing the cases and
+
+18
+
+they're not going to bring a frivolous case?
+
+19
+
+Congress said there has to be a strong inference.
+
+20
+
+what concerns me is that the very standard that the
+
+21
+
+Seventh Circuit articulated said simply could a
+
+22
+
+reasonable person infer.
+
+23
+
+isn't in that standard at all.
+
+24
+25
+
+MR. MILLER:
+
+Are
+
+No.
+And
+
+The notion of strong inference
+
+The notion of strong inference
+
+starting with the Second Circuit doctrine, as used in
+42
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+many other circuits, was actually a much lower standard
+
+2
+
+than what we are recommending.
+
+3
+
+If I believe -- if I think back at
+
+4
+
+Greenstone, it was reason to believe, or tends to
+
+5
+
+believe, or circumstantial evidence in Greenstone and in
+
+6
+
+Burlington Coat.
+
+7
+
+Under our standard of preponderance, the
+
+8
+
+ability to find preponderance, you are elevated.
+
+You
+
+9
+
+are also elevated by the preceding subdivision which
+
+10
+
+requires a level of particularization, never known in
+
+11
+
+Federal Rule -
+
+12
+
+JUSTICE STEVENS:
+
+13
+
+just to the word strong, forgetting the
+
+14
+
+particularization from it, do you think you can
+
+15
+
+categorize the strength in percentage terms?
+
+16
+
+to be more than 50 percent?
+
+17
+18
+
+Mr. Miller, going back
+
+They have
+
+More than probable cause?
+
+We're talking all abstractly here and I find
+it easier to think when I think about numbers.
+
+19
+
+MR. MILLER:
+
+I have -- forgive me.
+
+I
+
+20
+
+haven't seen a judicial opinion that says at the 33 and
+
+21
+
+one-third percentage of probability, I've got to give it
+
+22
+
+to the jury, because that jury might file for my -
+
+23
+24
+25
+
+JUSTICE SCALIA:
+two-thirds.
+
+I think it's 66 and
+
+I think that is (Laughter.)
+43
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+2
+
+MR. MILLER:
+
+Is that because you never met a
+
+plaintiff you really liked?
+
+3
+
+(Laughter.)
+
+4
+
+JUSTICE STEVENS:
+
+5
+
+At least we know that in
+
+the probable world -
+
+6
+
+MR. MILLER:
+
+7
+
+Justice.
+
+8
+
+it.
+
+I took a liberty there with the
+
+I don't think you can ascribe a percentage to
+
+I think -
+
+9
+
+JUSTICE KENNEDY:
+
+Well, I think more likely
+
+10
+
+than not, most people think of 49, 50 percent.
+
+11
+
+tell us whether strong inference is stronger than more
+
+12
+
+likely than not?
+
+13
+14
+
+MR. MILLER:
+
+Can you
+
+I do not believe it is.
+
+I
+
+think -
+
+15
+
+I think strong inference -- if we're doing
+
+16
+
+the numbers game -- may actually be 40 percent.
+
+17
+
+district judge is looking, again, I say at the entirety
+
+18
+
+of discounts -
+
+19
+
+JUSTICE STEVENS:
+
+20
+
+question.
+
+21
+
+in a criminal context?
+
+22
+23
+
+Let me just reclaim the
+
+Is it stronger or weaker than probable cause
+
+MR. MILLER:
+
+Oh, I would hope it's stronger.
+
+I would hope it's higher than probable cause.
+
+24
+25
+
+If a
+
+JUSTICE SCALIA:
+convincing?
+
+What about clear and
+
+Is it below clear -- I mean, they are the
+44
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+only two standards I actually understand.
+
+2
+
+picking a number out of air, is preponderance, I think I
+
+3
+
+can figure that out.
+
+4
+
+beyond a reasonable doubt.
+
+5
+
+you talking about strong, when you talk about clear and
+
+6
+
+convincing, I have no idea what those things mean.
+
+And I guess I can figure out
+But other than those, when
+
+7
+
+Do you?
+
+8
+
+MR. MILLER:
+
+9
+
+JUSTICE SCALIA:
+
+10
+
+Without
+
+And You don't think they mean
+
+anything?
+
+11
+
+MR. MILLER:
+
+No, I think they mean what a
+
+12
+
+district judge honoring his Article III commission
+
+13
+
+concludes after an intensive evaluation of the entirety
+
+14
+
+of the complaint, looking for that strong inference,
+
+15
+
+putting on his sort of motion to dismiss 12(b)(6) hat,
+
+16
+
+says okay -
+
+17
+
+CHIEF JUSTICE ROBERTS:
+
+18
+
+MR. MILLER:
+
+No, I did not mean that.
+
+19
+
+take me literally on that.
+
+20
+
+Brooklyn.
+
+21
+
+that.
+
+22
+23
+
+Just okay?
+Don't
+
+For heavens sakes, I'm from
+
+I'm very colloquial.
+
+JUSTICE SCALIA:
+
+I'm very sorry about
+
+Let me write that down.
+
+should not take you literally.
+
+All right.
+
+24
+
+(Laughter.)
+
+25
+
+CHIEF JUSTICE ROBERTS:
+45
+Alderson Reporting Company
+
+Okay, you two are
+
+We
+
+Official - Subject to Final Review
+
+1
+
+even now.
+
+2
+
+(Laughter.)
+
+3
+
+MR. MILLER:
+
+Understand, you keep asking,
+
+4
+
+quite properly obviously, how does strong inference
+
+5
+
+change anything?
+
+6
+
+The test we have proposed and the test I
+
+7
+
+believe the Seventh Circuit applied is not the classic
+
+8
+
+12(b)(6) have you stated a claim, because we all know at
+
+9
+
+least traditionally, under notice pleading, you can
+
+10
+
+march through that.
+
+11
+
+This test, if you follow that time line
+
+12
+
+backward, is in effect asking that district judge to
+
+13
+
+make a decision on looking at the totality of this
+
+14
+
+complaint, is this case trial worthy?
+
+15
+
+thing.
+
+16
+
+this.
+
+17
+
+It's a curious
+
+I don't envy district judges who have to do
+
+Is it trial worthy?
+
+Why would Congress say,
+
+18
+
+if a district judge is willing to say under the classic
+
+19
+
+test, I think it's trial worthy, there's no reason to
+
+20
+
+believe that Congress wanted to cut that case off.
+
+21
+
+CHIEF JUSTICE ROBERTS:
+
+Trial worthy under
+
+22
+
+preponderance standard or trial worthy under the strong
+
+23
+
+inference standard?
+
+24
+25
+
+MR. MILLER:
+
+Oh, I think he is becoming
+
+slightly schizoid, he is saying, I'm looking at strong
+46
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+inference.
+
+2
+
+structure as it's been, the usual procedure, 200 years,
+
+3
+
+and I have to make a judgment because Congress was
+
+4
+
+pushing here.
+
+5
+
+I'm looking at the motion to dismiss
+
+There's no doubt about it.
+
+I have to make a decision on the basis of
+
+6
+
+what I've got, which is virtually nothing -- let's face
+
+7
+
+that -- I think -- I think if these allegations are
+
+8
+
+proven, it is certainly trial worthy.
+
+9
+
+JUSTICE KENNEDY:
+
+It sounds to me like -
+
+10
+
+JUSTICE STEVENS:
+
+It's not trial worthy, but
+
+11
+12
+13
+14
+
+rather discovery worthy.
+CHIEF JUSTICE ROBERTS:
+
+I'm sorry.
+
+Justice Stevens, say it again.
+JUSTICE STEVENS:
+
+I think the question is
+
+15
+
+not whether it's trial worthy, it's whether it's worthy
+
+16
+
+for discovery.
+
+17
+
+That's really what's at issue in this.
+
+MR. MILLER:
+
+Well, the realities out there
+
+18
+
+are they built a wall.
+
+They put in all of these
+
+19
+
+procedural protections and they said no discovery until
+
+20
+
+you climb the wall.
+
+21
+
+Was it a Dutch dike or the Berlin Wall?
+
+22
+
+that statute, contrary to what Mr. Phillips urges, there
+
+23
+
+are multiple policies expressed in that statute, one of
+
+24
+
+which is, private cases are good.
+
+25
+
+right people to run those private cases.
+
+Now what kind of a wall was it?
+If you look at
+
+Let's just get the
+
+47
+Alderson Reporting Company
+
+Let's control
+
+Official - Subject to Final Review
+
+1
+
+them.
+
+Let's, let's have a greater threshold, but let's
+
+2
+
+not throw the baby out with the bath water.
+
+3
+
+everybody seems to agree private cases help.
+
+4
+
+JUSTICE KENNEDY:
+
+Because
+
+I want, I want to be fair.
+
+5
+
+I interpreted your argument -- and please tell me if
+
+6
+
+this is incorrect -- as indicating that if I think
+
+7
+
+strong inference is greater, more onerous than more
+
+8
+
+likely than not, at the pleading stage, I then also have
+
+9
+
+to say this is the instruction that must be given to the
+
+10
+
+jury?
+
+In order to avoid the, the discontinuity between
+
+11
+
+the pleading stage and what -
+
+12
+
+MR. MILLER:
+
+The way you state it, Justice,
+
+13
+
+is something very hard for me to respond to.
+
+14
+
+did not change the persuasiveness, the proof burden.
+
+15
+
+you go through the statute, you will see spots where
+
+16
+
+they did.
+
+17
+
+Congress knew how to change Federal rules.
+
+18
+
+Congress
+
+Congress knew how to change proof standards.
+
+Congress did not change the proof in private
+
+19
+
+actions.
+
+20
+
+procedure like the background procedure in Jones and -
+
+21
+
+it is just not there yet.
+
+22
+
+of Federal rules explicitly.
+
+23
+
+If
+
+Congress did not change all of the background
+
+Congress did change a couple
+
+So I, I cannot comprehend how, if the case
+
+24
+
+reached the jury, you would have to charge above
+
+25
+
+predominance.
+
+And I, I think we've got a stone rolling
+48
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+downhill to the dismissal point, which is why we have
+
+2
+
+urged in the brief and why the Seventh Circuit was
+
+3
+
+concerned as was the Sixth about this jury trial
+
+4
+
+implication -
+
+5
+
+JUSTICE BREYER:
+
+Yeah, and so I think we
+
+6
+
+have to reach it, because it can't possibly be you would
+
+7
+
+instruct the jury you need a strong inference, and it
+
+8
+
+couldn't possibly be that a predominance standard if
+
+9
+
+imported into the pleading would always mean a strong
+
+10
+
+inference.
+
+11
+
+I don't see how to remain true to the words of the
+
+12
+
+statute which are strong inference, without actually
+
+13
+
+producing a dichotomy.
+
+14
+
+or it can't, and -- and -- and that's -- and we could
+
+15
+
+fudge it by just, you know, avoiding it at this moment.
+
+16
+
+But I don't -
+
+17
+
+You see, that's -- that's the dilemma.
+
+And
+
+And so either Congress can do it
+
+JUSTICE SCALIA:
+
+Mr. Miller, suppose
+
+18
+
+Congress set up a entirely separate cause of action.
+
+19
+
+It's caused -- it's called a discovery cause of action,
+
+20
+
+okay?
+
+21
+
+that cause of action a standard that your, your
+
+22
+
+allegation has to be indeed clear and convincing.
+
+And it sets forth as the condition for pursuing
+
+23
+
+Okay?
+
+24
+
+And then if you win that, you can take
+
+25
+
+whatever you get out of the discovery and bring a
+49
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+lawsuit.
+
+2
+3
+
+Would that be unconstitutional?
+MR. MILLER:
+
+Why do I feel wind whipping
+
+past my ears as I go through a trap door?
+
+4
+
+(Laughter.)
+
+5
+
+MR. MILLER:
+
+Ironically, ironically, I think
+
+6
+
+I have to say if Congress, leaving to one side
+
+7
+
+justiciability problems with the discovery cause of
+
+8
+
+action, if Congress created a discovery cause of action
+
+9
+
+it could ascribe to it whatever incidents it wanted
+
+10
+
+to -
+
+11
+
+JUSTICE STEVENS:
+
+Surely it could prohibit
+
+12
+
+discovery altogether which it did before they adopt in
+
+13
+
+1938.
+
+14
+
+MR. MILLER:
+
+That is correct.
+
+And I don't
+
+15
+
+think anybody seriously argues that discovery is a
+
+16
+
+constitutional right.
+
+17
+
+The jury trial implications of this new
+
+18
+
+cause of action are interesting.
+
+19
+
+protected post-1791 statutory claims and their right to
+
+20
+
+jury trial, but you're positing one that wasn't known in
+
+21
+
+1791, and maybe it could be done without a jury.
+
+22
+
+really a hypothetical.
+
+23
+
+THE COURT:
+
+24
+
+Mr. Phillips, you have four minutes
+
+25
+
+This Court has
+
+Thank you, Mr. Miller.
+
+remaining.
+50
+Alderson Reporting Company
+
+That's
+
+Official - Subject to Final Review
+
+1
+
+REBUTTAL ARGUMENT OF CARTER G. PHILLIPS,
+
+2
+
+ON BEHALF OF PETITIONERS
+
+3
+
+MR. PHILLIPS:
+
+Thank you, Mr. Chief Justice.
+
+4
+
+I have to confess I'm -- I'm slightly
+
+5
+
+perplexed by exactly what the Respondent's position is
+
+6
+
+in this case so I'm inclined to kind of go back to the
+
+7
+
+core points that have been raised by the questions from
+
+8
+
+-- from the Court.
+
+9
+
+to me quite clear that the Seventh Circuit did not apply
+
+And in the first instance, it seems
+
+10
+
+the strong inference standard.
+
+If --
+
+you can compare
+
+11
+
+the language from the First Circuit circuit that
+
+12
+
+specifically says it has to be reasonable and strong,
+
+13
+
+strong has completely fallen out here.
+
+14
+
+way to read it the other way.
+
+I don't see any
+
+15
+
+I think in response to Justice Breyer's
+
+16
+
+question, which is how do, how should you write the
+
+17
+
+opinion, I think the meaningful way to write the opinion
+
+18
+
+is to be respectful of Justice Scalia's desire to
+
+19
+
+provide guidance.
+
+20
+
+have to, as Justice Alito said, review the entirety of
+
+21
+
+the document and -- and infer both positively and
+
+22
+
+negatively as you go forward.
+
+23
+
+true.
+
+24
+
+--
+
+25
+
+So I do think you should say, you
+
+We know that has to be
+
+Almost every court that's dealt with these issues
+
+JUSTICE GINSBURG:
+
+But then you're doing
+
+51
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+away with reading the allegations in the light most
+
+2
+
+favorable to the plaintiff.
+
+3
+
+MR. PHILLIPS:
+
+Absolutely.
+
+Absolutely,
+
+4
+
+Justice Ginsburg.
+
+There's no question that that's -
+
+5
+
+that that's what Congress had to have meant under these
+
+6
+
+circumstances.
+
+7
+
+who sells securities during the time period of the class
+
+8
+
+action.
+
+9
+
+happens.
+
+And the best example of that is the CEO
+
+There are dozens of cases in which that
+Does it create an inference of scienter?
+
+It
+
+10
+
+might, because it's quite possible that he sold and -
+
+11
+
+he lied about the stock in order to keep the price up to
+
+12
+
+sell.
+
+13
+
+percent of the stock -
+
+It is also possible that he sells only about 1
+
+14
+
+JUSTICE GINSBURG:
+
+15
+
+don't look at these things one at a time.
+
+16
+
+them altogether.
+
+17
+
+MR. PHILLIPS:
+
+18
+
+JUSTICE GINSBURG:
+
+19
+20
+
+But Mr. Phillips, you
+You look at
+
+Well, that is Is the statute all you
+
+had?
+MR. PHILLIPS:
+
+Justice Ginsburg, I couldn't
+
+21
+
+disagree with you more about that.
+
+22
+
+what Congress says when -- when it says with
+
+23
+
+particularity.
+
+24
+
+at each defendant.
+
+25
+
+That is precisely
+
+And when Congress says you have to look
+You cannot do -
+
+JUSTICE GINSBURG:
+
+It says you must plead
+
+52
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+the facts with particularity.
+
+2
+
+MR. PHILLIPS:
+
+Yes.
+
+3
+
+JUSTICE GINSBURG:
+
+But when one judges the
+
+4
+
+adequacy of the complaint, one looks at all the facts
+
+5
+
+pleaded with particularity, not just one.
+
+6
+
+MR. PHILLIPS:
+
+But the strong inference of
+
+7
+
+scienter is not pled on a group basis.
+
+8
+
+pled with respect to each individual defendant.
+
+9
+
+quite convenient -
+
+10
+
+JUSTICE GINSBURG:
+
+11
+
+case was a good example.
+
+12
+
+the court of appeals -
+
+13
+14
+15
+
+MR. PHILLIPS:
+
+It has to be
+So it's
+
+Well, I think that this
+
+There were two defendants and
+
+Well, there were a lot more
+
+than that.
+JUSTICE GINSBURG:
+
+Well, to take the two
+
+16
+
+that were at issue in this opinion.
+
+17
+
+appeals said the CEO, yeah, there's enough there to get
+
+18
+
+over that threshold.
+
+19
+
+The other guy, no, there wasn't.
+
+So it's not that she's saying what you find
+
+20
+
+for one, you find for all.
+
+21
+
+by defendant.
+
+22
+
+The court of
+
+MR. PHILLIPS:
+
+She is going at it defendant
+
+Well, I -- I -- I mean, I was
+
+23
+
+commenting primarily on Professor Miller's decision to
+
+24
+
+just sort of sweep everything in and say look, back in
+
+25
+
+1999 and 2000 when the Seventh Circuit itself
+53
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+specifically said that the knowledge, for instance, of
+
+2
+
+the 5500 decline didn't happen until March of 2001.
+
+3
+
+I was just saying you can't start sweeping everything
+
+4
+
+in.
+
+5
+
+But -- and it is true, the court
+
+6
+
+distinguished between those two individuals; but the
+
+7
+
+bottom line remains the same.
+
+8
+
+each.
+
+9
+
+inferences.
+
+10
+
+So
+
+You have to analyze them,
+
+And you have to take into account contending
+You have to construe ambiguity contrary
+
+to the plaintiff sometimes -
+
+11
+
+JUSTICE GINSBURG:
+
+What do you do with a
+
+12
+
+report that you know exists because you had one of these
+
+13
+
+26 confidential people tell you?
+
+14
+
+the report, so you don't have the date on it?
+
+15
+
+won't know that date unless you have access to
+
+16
+
+discovery.
+
+17
+
+rather than sooner?
+
+18
+
+But you haven't seen
+And you
+
+Do you have to assume the date is later
+
+MR. PHILLIPS:
+
+I think you better make an
+
+19
+
+allegation with particularity that that date was at a
+
+20
+
+time when the individual would know that the -- that the
+
+21
+
+information that he was conveying was -- was wrong.
+
+22
+
+don't see how you can infer strongly -
+
+23
+24
+25
+
+JUSTICE GINSBURG:
+
+But you -- if the
+
+plaintiff MR. PHILLIPS:
+
+-- scienter otherwise.
+54
+
+Alderson Reporting Company
+
+I
+
+Official - Subject to Final Review
+
+1
+2
+3
+
+JUSTICE GINSBURG:
+
+The plaintiff can't know
+
+for sure without seeing the document with a date on it.
+MR. PHILLIPS:
+
+Well, the plaintiff can ask
+
+4
+
+the confidential informant as much as, as he wants about
+
+5
+
+the information; and if he can't come up with it, that's
+
+6
+
+the price you pay.
+
+7
+
+is if you cannot make those particular allegations, then
+
+8
+
+you're out of luck.
+
+9
+
+you one shot for this.
+
+10
+
+That was exactly what Congress said,
+
+And it's not as though they give
+
+JUSTICE GINSBURG:
+
+Congress -- Congress used
+
+11
+
+words, "strong inference."
+
+12
+
+self-defining.
+
+13
+
+the courts of appeals did think of several ways.
+
+14
+
+should we pick your way as opposed to the other ways one
+
+15
+
+might define them?
+
+16
+
+Those words are not
+
+One can think of several ways, in fact
+
+MR. PHILLIPS:
+
+Why
+
+I could be flip to say it's
+
+17
+
+the right way.
+
+18
+
+the, the answer to why to choose our approach is because
+
+19
+
+it is consistent with Matsushita and Monsanto and it
+
+20
+
+will allow, Justice Breyer, to apply it in an
+
+21
+
+individualized way, in a fashion that will give guidance
+
+22
+
+to the lower courts.
+
+23
+24
+25
+
+But I think the -- I mean the answer to
+
+Thank you.
+
+CHIEF JUSTICE ROBERTS:
+Mr. Phillips.
+
+Thank you,
+
+The case is submitted.
+
+[Whereupon, at 11:03 a.m., the case in the
+55
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+above-entitled matter was submitted.]
+
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+56
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+Page 57
+
+A
+abatement 32:7
+32:12
+ability 31:12
+43:8
+able 28:11
+above-entitled
+1:12 56:1
+abrogated 21:1
+absolutely 8:12
+16:11 31:6
+52:3,3
+abstractly 43:17
+abuses 9:18
+abusive 3:12
+17:14,17 24:18
+acceptance
+12:24
+access 7:17,23
+54:15
+account 10:13
+54:8
+accounting
+27:20
+accumulate
+21:20
+achieve 12:4,6
+act 5:10 13:19
+17:16,24 20:21
+21:10 23:19
+acted 3:11,19
+9:18 16:11
+18:19 35:8
+acting 8:9
+action 8:8 17:14
+49:18,19,21
+50:8,8,18 52:8
+actions 17:12,17
+48:19
+address 17:16
+18:6 19:17,25
+addressed 5:5
+adequacy 53:4
+adjudication
+23:9
+adopt 50:12
+adopted 7:1
+
+17:17 18:15
+20:2
+advocate 33:12
+affect 12:11,11
+affidavit 7:16
+affirmative
+39:23
+ago 39:22
+agree 28:7 37:12
+48:3
+ah 6:16
+air 45:2
+AL 1:3,7
+Alito 8:22 24:12
+24:18 36:20
+51:20
+Alito's 18:1 39:2
+allegation 5:1
+10:14 13:15,18
+14:16,19 15:3
+15:8,12 20:23
+24:23,25 28:8
+49:22 54:19
+allegations 5:2
+18:21 20:8,15
+20:25 21:2,18
+22:2,9,16,20
+22:21 23:19
+38:6 47:7 52:1
+55:7
+allege 18:18
+22:25 24:21
+30:24
+alleged 15:5
+22:8 23:1
+36:22
+alleges 9:1
+alleging 17:22
+24:25
+allow 55:20
+allowing 8:15
+alteration 12:6
+altogether 50:12
+52:16
+ambiguities
+10:11 22:17
+ambiguity 29:6
+
+54:9
+ambiguous
+22:16
+Amendment 4:5
+4:11 5:6,15,19
+18:8,10 23:7
+23:11,12 24:13
+30:6,9,14
+32:19 34:21
+36:6
+amicus 1:20 2:7
+7:11 8:13 17:8
+analysis 3:21 5:2
+7:3
+analyze 7:6 54:7
+analyzed 7:5
+Anderson 40:11
+40:22
+answer 4:7 6:7
+15:12 19:25
+26:11 35:4
+55:17,18
+anticompetitive
+34:13
+antitrust 34:9
+34:13
+anybody 50:15
+anymore 29:20
+appeal 41:15
+appeals 3:21
+11:4 16:7
+17:20,23 25:17
+25:21,24,24
+26:5,7,8,18
+53:12,17 55:13
+APPEARAN...
+1:15
+appendix 29:24
+applicable 25:17
+application 26:7
+applied 3:24
+6:18,24 19:2
+20:10 29:25
+30:11 40:22
+46:7
+applies 23:5
+apply 4:23 5:11
+
+9:10,11 18:12
+25:21,24 34:4
+51:9 55:20
+applying 21:9
+21:24 25:25
+26:4,16
+approach 5:14
+41:4 55:18
+approaching
+11:23
+appropriate 5:9
+6:6 25:19
+approved 12:19
+April 16:4,12
+28:21
+argue 9:15
+argues 50:15
+arguing 10:2,3
+10:19 29:21
+argument 1:13
+2:2,5,8,11 3:3
+3:7 4:1,5 9:7,8
+17:7 27:7 30:9
+36:24 40:6
+41:23 48:5
+51:1
+ARTHUR 1:22
+2:9 27:7
+Article 45:12
+articulate 30:10
+articulated
+25:17 42:21
+articulation
+29:23
+ascribe 44:7
+50:9
+aside 5:13 19:12
+asked 30:19
+asking 4:13 5:9
+6:10 10:5,9
+46:3,12
+assertion 23:3
+assertions 34:11
+assess 36:20
+assessment
+39:17
+Assistant 1:18
+
+Alderson Reporting Company
+
+assume 12:22,25
+13:17 21:11
+37:20 54:16
+assumptions
+22:5
+attached 39:13
+attempt 36:11
+authority 4:9
+available 15:2
+23:1 27:16,17
+Avenue 37:1
+avoid 4:14 23:8
+41:12 48:10
+avoidance 24:5
+avoiding 36:5
+49:15
+a.m 1:14 3:2
+55:25
+B
+baby 12:19 48:2
+back 15:25
+16:22 23:3
+33:24 38:12,16
+43:3,12 51:6
+53:24
+background
+21:1 48:19,20
+backward 46:12
+back-dating
+38:19
+bad 38:4,5,6,14
+balance 17:3
+40:13
+Bank 7:4
+bar 33:13
+based 15:13
+22:5
+basic 11:22
+basically 4:23
+basis 15:10 47:5
+53:7
+bath 12:20 48:2
+becoming 46:24
+beginning 31:22
+behalf 1:16,20
+1:22 2:4,10,13
+
+Official - Subject to Final Review
+
+Page 58
+
+3:8 17:8 27:8
+51:2
+behold 35:25
+believe 8:20
+15:13 18:5,7,9
+18:11,16 19:17
+21:1 24:5,10
+25:18,19 26:17
+27:11,12 28:21
+30:5 34:6
+38:13 43:3,4,5
+44:13 46:7,20
+believes 19:4
+26:15
+Berlin 47:21
+best 25:14 29:3
+29:4,19 52:6
+better 24:6
+54:18
+beyond 10:18
+33:4 34:11
+45:4
+bit 12:22 35:17
+blinders 36:16
+Bock 36:13
+bottom 54:7
+Breyer 14:10
+15:4,18,22,24
+16:12,19,20
+25:7,15 26:10
+26:14 27:13
+28:15,24 29:9
+31:15 32:4
+35:15 36:8
+41:3 49:5
+55:20
+Breyer's 51:15
+brief 8:13 11:21
+49:2
+briefly 19:12
+briefs 7:11
+bring 42:10,18
+49:25
+bringing 42:17
+Brooklyn 45:20
+brush 38:23,25
+39:1
+
+build 16:13
+building 16:13
+37:4
+built 47:18
+burden 8:2,4
+18:17 30:18
+32:3,4,17,23
+48:14
+Burlington 43:6
+business 27:15
+27:15
+buy 38:3
+buyer 8:3
+C
+C 2:1 3:1
+calibrate 32:10
+call 33:21 37:19
+called 49:19
+Cambridge 1:22
+candor 35:16
+canon 24:4
+Capitol 37:2,7
+39:3
+carries 8:1 11:1
+CARTER 1:16
+2:3,12 3:7 51:1
+case 3:4,21 4:12
+4:14,21,22 5:7
+7:5,6,21,22 8:7
+9:21,22 11:4
+11:12 14:23
+16:25 17:19
+18:6 20:14,14
+22:20,21 23:4
+24:3 25:14,16
+26:5,6,17 28:4
+28:4,12 29:9
+31:1,2,10 34:8
+35:16,20 42:18
+46:14,20 48:23
+51:6 53:11
+55:24,25
+cases 6:25 25:18
+27:2 30:24
+32:14 33:17
+34:9,9 36:3
+
+40:12,16,23
+41:4 42:11,17
+47:24,25 48:3
+52:8
+categorically
+3:13
+categorize 43:15
+cause 7:16 43:16
+44:20,23 49:18
+49:19,21 50:7
+50:8,18
+caused 8:15
+49:19
+central 16:24
+CEO 12:23 13:3
+13:9,15 23:1
+28:1,11 29:17
+52:6 53:17
+CEOs 13:19
+certain 8:25
+certainly 11:6
+11:10 23:10,14
+25:19 26:7
+36:8 47:8
+cetera 32:8
+chains 40:13
+chance 28:25
+change 11:22
+21:7,8 33:1
+42:14 46:5
+48:14,16,17,18
+48:19,21
+changed 30:4
+changes 20:6
+channel 37:24
+37:25 38:4,4
+38:11,13,19,20
+charge 48:24
+Chief 3:3,9 17:4
+17:10,25 18:5
+27:4,9 29:21
+30:8,16 32:16
+32:20,22 34:1
+34:15 40:15,21
+42:14 45:17,25
+46:21 47:12
+51:3 55:23
+
+cholesterol 38:5
+38:5
+choose 55:18
+choosing 24:7
+circuit 6:14,16
+6:17,18,23,23
+6:24 27:11,12
+29:10,22 30:7
+37:11 38:8,17
+38:22 41:1,2,2
+42:21,25 46:7
+49:2 51:9,11
+51:11 53:25
+circuits 21:9
+43:1
+Circuit's 6:20
+circumstances
+39:16 52:6
+circumstantial
+43:5
+citizen's 7:23
+Citytrust 7:4
+civil 7:21,22
+20:14
+claim 5:20,21,22
+5:23,23 15:10
+20:19 23:7,12
+31:21,21,23
+46:8
+claimed 15:14
+claims 5:22
+50:19
+class 52:7
+classic 46:7,18
+clear 5:8 8:18
+9:8 11:16 18:4
+20:5 24:19
+25:22 30:12
+33:1 44:24,25
+45:5 49:22
+51:9
+clearly 3:23 5:14
+9:17 12:19
+21:7
+climb 47:20
+Coat 43:6
+codified 25:4
+
+Alderson Reporting Company
+
+colloquial 45:20
+come 6:13 25:25
+26:8 31:17,24
+38:16 55:5
+comes 14:25
+comfortable 7:3
+coming 33:24
+37:3 38:12
+commenting
+53:23
+commission
+45:12
+common 13:18
+32:8
+companies
+17:15
+company 13:20
+14:14,24 15:7
+15:19 16:17
+company's
+14:12
+compare 51:10
+competitive
+34:12
+complained
+38:12
+complaint 3:17
+7:5,6 9:2,3
+10:10 20:8,9
+20:16 21:5
+22:16,24 23:20
+25:13 27:14
+28:16 36:15,17
+36:22 37:12,17
+41:10 45:14
+46:14 53:4
+complaints 3:14
+completely
+51:13
+comprehend
+48:23
+concede 39:18
+concern 19:1
+22:14,20 24:20
+25:3,16
+concerned 12:8
+12:14 24:18,20
+
+

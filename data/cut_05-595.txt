@@ -1,0 +1,5344 @@
+Official - Subject to Final Review
+
+1
+
+P R O C E E D I N G S
+
+2
+
+(11:04 a.m.)
+
+3
+4
+
+CHIEF JUSTICE ROBERTS:
+next in Whorton versus Bockting.
+
+5
+
+General Chanos.
+
+6
+
+ORAL ARGUMENT OF GEORGE J. CHANOS
+
+7
+
+ON BEHALF OF PETITIONER
+
+8
+9
+
+We'll hear argument
+
+MR. CHANOS:
+
+Mr. Chief Justice, and may
+
+it please the Court:
+
+10
+
+Crawford v. Washington should not apply
+
+11
+
+retroactively to cases on collateral review because it
+
+12
+
+fails to meet the exacting standards for retroactivity
+
+13
+
+established by this Court in Teague versus Lane.
+
+14
+
+addition, respondent is not entitled to relief under
+
+15
+
+AEDPA.
+
+16
+
+should not apply to cases on collateral review unless
+
+17
+
+they fall within one of two narrow exceptions.
+
+18
+
+second exception, at issue here, is for those new
+
+19
+
+watershed rules of criminal procedure without which the
+
+20
+
+likelihood of an accurate conviction is seriously
+
+21
+
+diminished, rules that alter our understanding of the
+
+22
+
+bedrock procedural elements essential to a fair
+
+23
+
+proceeding.
+
+24
+
+criminal procedure.
+
+25
+
+In
+
+Teague held that new rules of criminal generally
+
+Crawford is not a watershed rule of
+
+JUSTICE GINSBURG:
+
+Could you give an
+
+3
+
+Alderson Reporting Company
+
+The
+
+Official - Subject to Final Review
+
+1
+
+example, General Chanos, of one that is other than
+
+2
+
+Gideon?
+
+Is there any other one, or -
+
+3
+
+MR. CHANOS:
+
+The only example that this
+
+4
+
+Court has pointed to in its 25 years of retroactivity
+
+5
+
+jurisprudence is Gideon versus Wainwright.
+
+6
+7
+
+JUSTICE GINSBURG:
+you?
+
+8
+9
+
+And none other occurs to
+
+MR. CHANOS:
+time.
+
+None other occurs to me at this
+
+None of the cases that this Court has ruled are
+
+10
+
+not retroactive would I find to be retroactive or
+
+11
+
+watershed, and I certainly don't find Crawford to be
+
+12
+
+watershed.
+
+13
+
+a rule without which the likelihood of an accurate
+
+14
+
+conviction is seriously diminished and it is not a rule
+
+15
+
+which altered our understanding of the bedrock
+
+16
+
+procedural elements essential to a fair proceeding.
+
+17
+
+Crawford is not watershed because it is not
+
+CHIEF JUSTICE ROBERTS:
+
+I take it from your
+
+18
+
+presentation you think we do have to go through the
+
+19
+
+Teague analysis.
+
+20
+
+We can't just rely on 2254(d)(1)?
+
+MR. CHANOS:
+
+No, Chief Justice Roberts.
+
+I
+
+21
+
+believe that you could go straight to 2254(d)(1) and bar
+
+22
+
+relief under 2254(d)(1).
+
+23
+
+CHIEF JUSTICE ROBERTS:
+
+Well then, what do
+
+24
+
+you do about 2254(e)(1), or I guess (e)(2), which seems
+
+25
+
+to suggest at different rule if a case is made
+4
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+2
+
+retroactive?
+MR. CHANOS:
+
+Well, 2254(e)(2) provides a
+
+3
+
+cause and prejudice opportunity in the event that the
+
+4
+
+state court denies relief on a procedural basis rather
+
+5
+
+than a substantive basis and the petitioner can show
+
+6
+
+cause and prejudice under 2254(e)(2)(A).
+
+7
+
+court could then look at the petitioner's claim because
+
+8
+
+no merits determination had been made by the state court
+
+9
+
+and, finding the cause and prejudice elements under
+
+The Federal
+
+10
+
+2254(e)(2), the Federal court would not be precluded
+
+11
+
+from making a merits determination since the -- and
+
+12
+
+conceivably applying a rule that had been made
+
+13
+
+retroactive active under Teague -- because the state
+
+14
+
+court had not made a substantive merits determination.
+
+15
+
+CHIEF JUSTICE ROBERTS:
+
+Now, my point was
+
+16
+
+that looking at (d)(1), it says is the decision contrary
+
+17
+
+to established law.
+
+18
+
+it's a new decision it's clearly not contrary to
+
+19
+
+established law.
+
+And I would have thought that if
+
+20
+
+MR. CHANOS:
+
+Correct.
+
+21
+
+CHIEF JUSTICE ROBERTS:
+
+But on the other
+
+22
+
+hand, you look at (e)(2) and it says here's what you do
+
+23
+
+if you're applying a new decision that's that been made
+
+24
+
+retroactive.
+
+25
+
+can't say simply because it's a new decision it won't
+
+So I would have thought that meant you
+
+5
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+2
+
+apply.
+MR. CHANOS:
+
+Our reading of 2254(d)(1) is
+
+3
+
+that Congress intended to have the federal courts give
+
+4
+
+the state courts deference to the extent that the state
+
+5
+
+courts made a substantive determination.
+
+6
+
+courts made no substantive determination, there's no
+
+7
+
+requirement for deference by the Federal courts, which
+
+8
+
+under 2254(e)(2)(A)(i) the Federal court conceivably
+
+9
+
+find that there was cause and prejudice under
+
+If the state
+
+10
+
+2254(2)(a)(i) under the standards enumerated in those
+
+11
+
+subparagraphs (a) and (b) and could then make a merits
+
+12
+
+determination.
+
+13
+
+There would be nothing that would preclude
+
+14
+
+the Federal court from making a merits determination so
+
+15
+
+long as the state court had not already made a merits
+
+16
+
+determination.
+
+17
+
+JUSTICE GINSBURG:
+
+Well, suppose the state
+
+18
+
+has, which is going straight to AEDPA.
+
+19
+
+that Teague is out entirely, even the first category,
+
+20
+
+that is a decision, a substantive decision that would
+
+21
+
+mean that what defendant did was not a crime?
+
+22
+
+MR. CHANOS:
+
+Does that mean
+
+Yes, Justice Ginsburg.
+
+It
+
+23
+
+would mean under -- under a plain meaning reading of
+
+24
+
+2254(d)(1), if the state court made a determination on
+
+25
+
+the merits, it would bar subsequent Federal review
+6
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+whether it was a substantive, a substantive claim or a
+
+2
+
+procedural claim.
+
+3
+
+would be nothing that would prevent the petitioner from
+
+4
+
+going back to the state court and arguing cause and
+
+5
+
+prejudice, and then if the state court were to make a
+
+6
+
+procedural determination on the second petition that
+
+7
+
+was -- that were to deny the petitioner his claim, he
+
+8
+
+could take that to the Federal court.
+
+9
+
+could then look at that because it was only a procedural
+
+However, in Atkins v. Kentucky there
+
+The Federal court
+
+10
+
+determination by the state court on the second habeas
+
+11
+
+claim and the Federal court at that point could look
+
+12
+
+back at the substantive rule as established law because
+
+13
+
+on the second claim they have the right, if he's only
+
+14
+
+denied a procedure -- on a procedural basis, there's
+
+15
+
+nothing that would preclude the Federal court on his
+
+16
+
+second claim from looking back at what would then be
+
+17
+
+established law.
+
+18
+
+JUSTICE KENNEDY:
+
+What is the source of the
+
+19
+
+rule in Teague?
+
+20
+
+Teague if it wanted to and say that nothing is
+
+21
+
+retroactive or that everything is retroactive?
+
+22
+
+Could Congress overturn the rule in
+
+MR. CHANOS:
+
+My understanding is that the
+
+23
+
+rule in Teague is -- the source is not the U.S.
+
+24
+
+Constitution.
+
+25
+
+with Linkletter and developed into Teague and its
+
+It's a judicially created rule that began
+
+7
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+progeny.
+
+And yes, I believe Congress could pass
+
+2
+
+2254(d)(1) and alter the habeas procedures, as they have
+
+3
+
+in enacting 2254(d)(1).
+
+4
+
+JUSTICE SCALIA:
+
+5
+
+MR. CHANOS:
+
+6
+
+JUSTICE SCALIA:
+
+Habeas is an equitable -
+
+I'm sorry?
+Habeas is equitable relief
+
+7
+
+and the Court has a lot of discretion in identifying the
+
+8
+
+boundaries of equitable relief, doesn't it?
+
+9
+
+MR. CHANOS:
+
+10
+11
+12
+
+Yes, Justice Scalia.
+
+JUSTICE SCALIA:
+
+I assume that's how we got
+
+to Teague.
+JUSTICE STEVENS:
+
+Let me ask this question
+
+13
+
+as to the basic issue of whether you should be relying
+
+14
+
+on Teague or the statute.
+
+15
+
+statute, how would it apply to a case which was correct
+
+16
+
+under established law at the time that the state court
+
+17
+
+made its ruling, but before the case reached the
+
+18
+
+appellate court, in which there was a change in our
+
+19
+
+interpretation?
+
+20
+
+been decided while the case was on appeal?
+
+21
+
+If you're relying just on the
+
+What if this case -- if Crawford had
+
+MR. CHANOS:
+
+While under the Court's
+
+22
+
+retroactivity jurisprudence Griffith would control,
+
+23
+
+under 2254 it would not.
+
+24
+25
+
+22(d)(1) would control.
+
+JUSTICE STEVENS:
+
+So it really makes a
+
+difference whether we rely on Teague or whether we rely
+8
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+on the statute if we disagree with you?
+
+2
+3
+
+MR. CHANOS:
+
+It make difference.
+
+It makes a
+
+difference.
+
+4
+
+JUSTICE SCALIA:
+
+Well, I assume there would
+
+5
+
+be a Rule 60(b) motion or the equivalent of it in state
+
+6
+
+court.
+
+7
+
+MR. CHANOS:
+
+8
+
+JUSTICE SCALIA:
+
+9
+
+Yes.
+If indeed our law had
+
+changed; don't you think?
+
+10
+
+MR. CHANOS:
+
+Absolutely.
+
+11
+
+JUSTICE SCALIA:
+
+I mean, it's inconceivable
+
+12
+
+that the problem wouldn't be solved in some fashion by
+
+13
+
+the state court that rendered the decision.
+
+14
+
+MR. CHANOS:
+
+I believe that the petitioner
+
+15
+
+would be able to make a subsequent habeas petition at
+
+16
+
+the state court level and if they were somehow denied
+
+17
+
+relief on a procedural basis, there would be nothing
+
+18
+
+that would preclude the Federal court from granting them
+
+19
+
+relief thereafter.
+
+20
+
+JUSTICE GINSBURG:
+
+That's a odd position to
+
+21
+
+take, to
+
+proliferate proceedings that way.
+
+22
+
+thought your argument, AEDPA argument, was:
+
+23
+
+the Federal court is out of it, but the state court is
+
+24
+
+most likely, recognizing that this Court has said what
+
+25
+
+this man did wasn't a crime, to grant him relief.
+9
+
+Alderson Reporting Company
+
+I mean, I
+Too bad,
+
+But
+
+Official - Subject to Final Review
+
+1
+
+if you're making this two-step and saying, but somehow
+
+2
+
+we can change the substantive proceeding into a
+
+3
+
+procedural proceeding, that seems to me odd, to
+
+4
+
+proliferate proceedings that way.
+
+5
+
+MR. CHANOS:
+
+Justice Ginsburg, what we're
+
+6
+
+saying is that Congress in enacting 2254(d)(1) was
+
+7
+
+stating that the Federal courts should give deference to
+
+8
+
+the state court decision so long as it is a merits
+
+9
+
+decision and so long as it complies with existing
+
+10
+11
+
+clearly established law and is not unreasonable.
+And if that occurs, then Congress under
+
+12
+
+2254(d)(1) was saying give state courts deference under
+
+13
+
+those circumstances.
+
+14
+15
+
+JUSTICE SCALIA:
+
+"clearly"; "then clearly established law."
+
+16
+
+MR. CHANOS:
+
+17
+
+JUSTICE SCALIA:
+
+18
+19
+
+You're saying not just
+
+That's exactly.
+That is, at the time of the
+
+state court decision. *END STENO
+MR. CHANOS:
+
+Exactly, absolutely, at the
+
+20
+
+time of the state court decision.
+
+In fact, if you look
+
+21
+
+at the language of 2254(d)(1) it says "resulted in a
+
+22
+
+decision that was contrary to or an unreasonable
+
+23
+
+application of clearly established Federal law.
+
+24
+
+doesn't say "is contrary to clearly established law."
+
+25
+
+It says "was contrary to."
+10
+Alderson Reporting Company
+
+It
+
+Official - Subject to Final Review
+
+1
+2
+
+JUSTICE STEVENS:
+
+The word was is somewhat
+
+3
+
+ambiguous.
+
+4
+
+trial court's decision or at the time of the final
+
+5
+
+judgment on appeal.
+
+6
+7
+
+MR. CHANOS:
+
+Well, in either case, it is
+
+referring to the -
+
+8
+9
+
+It could either mean at the time of the
+
+JUSTICE STEVENS:
+either view, but -
+
+10
+
+MR. CHANOS:
+
+11
+
+JUSTICE STEVENS:
+
+12
+
+I know you win under
+
+Yes, exactly.
+-- it could mean either of
+
+those two things.
+
+13
+
+MR. CHANOS:
+
+Our, our position would be that
+
+14
+
+it would be up to when the decision became final.
+
+15
+
+Whatever the law was up to the time that the decision,
+
+16
+
+the state court decision became final, that is what was
+
+17
+
+clearly established law.
+
+18
+
+I'll continue with our Teague analysis
+
+19
+
+because we believe that the claim is barred under either
+
+20
+
+analysis.
+
+21
+22
+23
+
+The JUSTICE KENNEDY:
+
+Crawford did use the term
+
+bedrock?
+MR. CHANOS:
+
+Yes.
+
+Yes.
+
+And what
+
+24
+
+Crawford -- what we believe Crawford was saying -- well,
+
+25
+
+Crawford said that the Sixth Amendment right to
+11
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+confrontation is bedrock.
+
+2
+
+decision altered our understanding of the bedrock
+
+3
+
+procedural elements essential to a fair trial.
+
+4
+
+the standard.
+
+5
+
+bedrock.
+
+6
+
+It didn't say that that
+
+That is
+
+Not whether or not the Sixth Amendment is
+
+In fact, if you look at the case of Gideon
+
+7
+
+versus Wainwright and Betts versus Brady, in Betts
+
+8
+
+versus Brady this Court had held the Sixth Amendment
+
+9
+
+right to counsel was not applicable to the states
+
+10
+
+through the 14th Amendment.
+
+11
+
+versus Brady and said that the Sixth Amendment right to
+
+12
+
+counsel was applicable to the states under the 14th
+
+13
+
+Amendment.
+
+14
+
+Gideon overruled Betts
+
+That alters our understanding of the bedrock
+
+15
+
+procedural elements that are essential to a fair trial.
+
+16
+
+In one case, we're saying rights of counsel is not one
+
+17
+
+of those bedrock procedural elements.
+
+18
+
+therefore, applicable to the states under the 14th
+
+19
+
+amendment, Betts versus Brady.
+
+20
+
+saying right to counsel is it implicit in the
+
+21
+
+Constitution.
+
+22
+
+proceeding, and it is therefore applicable to the states
+
+23
+
+under the 14th Amendment.
+
+24
+25
+
+Is not,
+
+In the next case we're
+
+It is an essential to the fairness of a
+
+That truly alters our understanding of the
+bedrock procedural elements that are essential to a fair
+12
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+trial.
+
+2
+
+In contrast, when you look at Crawford
+
+3
+
+vis-a-vis Ohio versus Roberts, the -- there's a real
+
+4
+
+distinction there.
+
+5
+
+right to confrontation is essential and Federal and one
+
+6
+
+of those bedrock elements that are essential to a fair
+
+7
+
+proceeding.
+
+8
+
+understanding of what elements are or are not essential
+
+9
+
+to -- bedrock elements essential to a fair proceeding.
+
+10
+
+In both cases, we know that the
+
+Therefore Crawford doesn't alter our
+
+Instead it modifies the contours -
+
+11
+
+JUSTICE STEVENS:
+
+You make the same analysis
+
+12
+
+if you say the right is not necessarily the right of
+
+13
+
+confrontation but the narrower right of
+
+14
+
+cross-examination.
+
+15
+
+MR. CHANOS:
+
+16
+
+JUSTICE STEVENS:
+
+17
+18
+
+Would I make the same analysis?
+Because that is central to
+
+Crawford.
+MR. CHANOS:
+
+Yes.
+
+Yes.
+
+Crawford doesn't
+
+19
+
+tell us that the rights to confrontation or the right of
+
+20
+
+cross-examination is a new right as Gideon tells us.
+
+21
+
+Instead Crawford tells us -
+
+22
+23
+24
+25
+
+JUSTICE KENNEDY:
+
+Well, there is a new
+
+emphasis on cross-examination.
+MR. CHANOS:
+
+It alters, it modifies the
+
+manner in which we implement that right.
+13
+Alderson Reporting Company
+
+Under Ohio
+
+Official - Subject to Final Review
+
+1
+
+versus Roberts there was plenty of cross-examination
+
+2
+
+that was occurring.
+
+3
+
+Roberts was unavailability and inadequate indicia of
+
+4
+
+reliability.
+
+5
+
+and it was clear under Ohio versus Roberts that the
+
+6
+
+right to confrontation was an essential bedrock right,
+
+7
+
+essential to a fair trial.
+
+8
+9
+
+The standard under Ohio versus
+
+There was a reliability screen in place,
+
+JUSTICE SCALIA:
+
+Exactly.
+
+But you know, how
+
+you play the game depends upon at what level of
+
+10
+
+generality you describe the right.
+
+And I agree with you
+
+11
+
+if you describe the right as the right to
+
+12
+
+cross-examination, that -- that was -- reinstituted by
+
+13
+
+Crawford, which said that the confrontation right is a
+
+14
+
+right to confrontation -- to cross-examination, which
+
+15
+
+didn't exist before.
+
+16
+
+that right of cross-examination if there were indicia of
+
+17
+
+reliability.
+
+I mean, you could dispense with
+
+18
+
+MR. CHANOS:
+
+Well, there were -
+
+19
+
+JUSTICE SCALIA:
+
+I'm not sure that you can
+
+20
+
+so -- in such a facile fashion decide what is a bedrock
+
+21
+
+principle.
+
+22
+
+would -- that would describe it.
+
+23
+
+a -- you know it when you see it.
+
+Frankly, I don't know any formula that
+
+24
+
+MR. CHANOS:
+
+25
+
+JUSTICE SCALIA:
+
+I really think it is
+
+Well, Justice Scalia It is like obscenity.
+
+14
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+(laughter.)
+
+2
+
+MR. CHANOS:
+
+3
+
+I understand.
+
+The other point
+
+that -
+
+4
+
+JUSTICE SOUTER:
+
+That gets, if you follow
+
+5
+
+Justice Scalia's argument, that gets you to, I think to
+
+6
+
+the argument you have made.
+
+7
+
+have got to look at it pragmatically.
+
+8
+
+the consequences of following a reliability model rather
+
+9
+
+than a cross-examination model?
+
+And that is all right, we
+I mean, what are
+
+And your argument is
+
+10
+
+consequences that are not necessarily more favorable to
+
+11
+
+defendants, in fact -- or more productive of ultimately
+
+12
+
+reliable determinations, in fact.
+
+13
+
+your basic point.
+
+14
+
+And that I take it is
+
+So I think you've answered what for all of
+
+15
+
+us is a problem.
+
+16
+
+analytical definition of bedrock; but if we look to
+
+17
+
+consequences, you have got an argument.
+
+18
+
+don't think it is a good one, but that's your point.
+
+19
+
+And that is we don't have a clear
+
+MR. CHANOS:
+
+Your friends
+
+The other point is that there's
+
+20
+
+a second component to watershed which is it must be a
+
+21
+
+rule without which the accuracy of a proceeding is
+
+22
+
+seriously diminished.
+
+23
+
+Ohio versus Roberts.
+
+24
+
+of Crawford isn't a sweeping indictment of -- of
+
+25
+
+Roberts.
+
+There was cross-examination under
+There -- in Crawford, the language
+
+15
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+2
+
+JUSTICE KENNEDY:
+
+Well, there wasn't
+
+cross-examination by defense counsel.
+
+3
+
+MR. CHANOS:
+
+I'm sorry?
+
+4
+
+JUSTICE KENNEDY:
+
+In this case there wasn't
+
+5
+
+cross-examination by defense counsel.
+
+6
+
+incorrect?
+
+7
+
+MR. CHANOS:
+
+Or am I
+
+There was cross-examination of
+
+8
+
+the mother, there was cross-examination of the police
+
+9
+
+detective -- there was cross-examination of -
+
+10
+11
+
+JUSTICE KENNEDY:
+
+Oh, oh.
+
+No, I mean of the
+
+witness.
+
+12
+
+MR. CHANOS:
+
+Not of Autumn -- not of Autumn
+
+13
+
+Bockting.
+
+But the important point that I want to make
+
+14
+
+before I reserve the balance of my time is that the
+
+15
+
+question isn't simply, is Crawford accuracy-enhancing?
+
+16
+
+The question is is it a rule without which the accuracy
+
+17
+
+of a proceeding is seriously diminished.
+
+18
+
+must all -
+
+19
+
+JUSTICE SOUTER:
+
+20
+
+MR. CHANOS:
+
+21
+
+JUSTICE SOUTER:
+
+22
+23
+
+In other words
+
+-- accuracy-enhancing then?
+
+I'm sorry?
+It's a question about how
+
+much more accuracy-enhancing, if at all?
+MR. CHANOS:
+
+That, and it is really an
+
+24
+
+analysis of Roberts.
+
+Is, is that judicial determination
+
+25
+
+of reliability under adequate indicia of reliability, so
+16
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+fundamentally flawed that all of the decisions that
+
+2
+
+were, that were arrived at pursuant to its authority
+
+3
+
+must be undone, and new trials must occur with respect
+
+4
+
+to those decisions because it is so fundamentally
+
+5
+
+flawed.
+
+6
+
+rise to that level of inadequacy and Crawford is
+
+7
+
+therefore not a rule without which the accuracy of a
+
+8
+
+proceeding is seriously diminished.
+
+And our point is that it is not.
+
+9
+10
+
+Mr. Chief Justice, may I reserve the balance
+of my time?
+
+11
+12
+
+It does not
+
+CHIEF JUSTICE ROBERTS:
+
+Thank you General
+
+Chanos.
+
+13
+
+Mr. Gornstein, we will hear now from you.
+
+14
+
+ORAL ARGUMENT OF IRVING L. GORNSTEIN, ON BEHALF OF
+
+15
+
+THE UNITED STATES AS AMICUS CURIAE, SUPPORTING
+
+16
+
+PETITIONER
+
+17
+18
+19
+
+MR. GORNSTEIN:
+
+Mr. Chief Justice, and may
+
+it please the Court.
+Crawford does not satisfy either of the two
+
+20
+
+requirements for a retroactive watershed rule.
+
+21
+
+application of Roberts rather than Crawford did not so
+
+22
+
+seriously diminish the likelihood of accurate
+
+23
+
+convictions as to require the wholesale reopening of
+
+24
+
+convictions that were final before Crawford was decided,
+
+25
+
+with all the societial costs that entails.
+17
+Alderson Reporting Company
+
+The
+
+Official - Subject to Final Review
+
+1
+
+CHIEF JUSTICE ROBERTS:
+
+Since you barely
+
+2
+
+cite AEDPA, I think you assume we need to reach the
+
+3
+
+Teague question before the AEDPA question.
+
+4
+
+MR. GORNSTEIN:
+
+Mr. Chief Justice, we do not
+
+5
+
+have an interest in the AEDPA question because it does
+
+6
+
+not apply to Federal convictions, the 2254(d)(1), and
+
+7
+
+there is no Federal conviction analog to 2254(d)(1), so
+
+8
+
+we are not telling you that you should or should not
+
+9
+
+reach it.
+
+10
+
+question.
+
+11
+
+We just don't have an interest in that
+
+CHIEF JUSTICE ROBERTS:
+
+12
+
+applied in Federal court, though.
+
+13
+
+interest in that.
+
+14
+
+MR. GORNSTEIN:
+
+It is law that is
+I assume you have an
+
+Well, we have a general
+
+15
+
+interest in the way law is applied in Federal court but
+
+16
+
+we do not ordinarily opine on issues just on that basis
+
+17
+
+and we haven't in the past opined on AEDPA issues unless
+
+18
+
+they have some Federal analog carryover effect.
+
+19
+
+did not here.
+
+20
+
+And we
+
+Now with respect to the reliability prong of
+
+21
+
+the Teague analysis, there are three reasons that the
+
+22
+
+Roberts rule did not so seriously diminish the
+
+23
+
+likelihood of accurate convictions as to call for
+
+24
+
+retroactive application of Crawford.
+
+25
+
+The first is that Roberts had a built-in
+18
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+reliability screen.
+
+2
+
+Roberts unless a determination was made that there were
+
+3
+
+particularized guarantees of trustworthiness.
+
+4
+
+Hearsay could not be admitted under
+
+The second reason that Roberts did not
+
+5
+
+seriously diminish the likelihood of accurate
+
+6
+
+convictions is that there were other procedural
+
+7
+
+components that operated in tandem with Roberts to
+
+8
+
+promote accuracy.
+
+9
+
+cross-examine the witness through whom an hearsay
+
+They included the right to
+
+10
+
+statement was introduced, the right to introduce your
+
+11
+
+own evidence to challenge the reliability of the hearsay
+
+12
+
+statement.
+
+13
+
+all the weaknesses in the hearsay statement and the
+
+14
+
+defendant could count on the common sense of the jury to
+
+15
+
+weigh the reliability of the hearsay statement in light
+
+16
+
+of all the evidence in the case.
+
+17
+
+Defense counsel could point out to the jury
+
+JUSTICE ALITO:
+
+Can't you make that argument
+
+18
+
+about any, about cross-examination in general?
+
+19
+
+debatable whether -- how good cross-examination is in
+
+20
+
+determining the truthfulness of a witness's testimony.
+
+21
+
+Now, our Constitution decides the issue one way, but any
+
+22
+
+infringement of cross-examination could be susceptible
+
+23
+
+to the same argument that you are making.
+
+24
+25
+
+MR. GORNSTEIN:
+
+Yes.
+
+It is
+
+And I don't think that
+
+this is a self-sufficient argument for that reason.
+19
+Alderson Reporting Company
+
+It
+
+Official - Subject to Final Review
+
+1
+
+is just one component of the argument about why there
+
+2
+
+was reliability.
+
+3
+
+screen on reliability is an additional factor that
+
+4
+
+distinguishes my example from what you said.
+
+5
+
+The fact that there was a Roberts
+
+And the fact is that there was a right to
+
+6
+
+cross-examine live witnesses here.
+
+7
+
+to cross-examine the police officer through whom this
+
+8
+
+hearsay statement was made.
+
+9
+
+there was an across-the-board denial of any
+
+10
+11
+
+So there was a right
+
+It is not a case where
+
+cross-examination.
+JUSTICE KENNEDY:
+
+Well I guess you're asking
+
+12
+
+us to say Crawford, get one, take one, it is really not
+
+13
+
+that important.
+
+14
+
+have overruled Roberts.
+
+15
+
+If that's so, I suppose we shouldn't
+
+MR. GORNSTEIN:
+
+No, I think Crawford that is
+
+16
+
+an important decision.
+
+17
+
+every one of your important decisions, you would be
+
+18
+
+reversing the rule of Teague.
+
+19
+
+there is not -- that the purposes of habeas corpus are
+
+20
+
+largely exhausted once somebody has received a trial in
+
+21
+
+accordance with then existing law.
+
+22
+
+But if you made retroactive
+
+What Teague says that is
+
+Because of the importance of finality to the
+
+23
+
+system -- and there are only going to be two very -
+
+24
+
+there's only a very narrow window for watershed rules,
+
+25
+
+of rules that, the accuracy of proceedings beforehand
+20
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+are so seriously diminished that there is an
+
+2
+
+unacceptably large risk that systematically, innocent
+
+3
+
+people were being convicted, and that this is a rule
+
+4
+
+that approaches Gideon in its fundamental and sweeping
+
+5
+
+importance.
+
+6
+
+the Court is going to go back on finality.
+
+7
+
+Those are the only circumstances in which
+
+JUSTICE GINSBURG:
+
+How many times have we
+
+8
+
+dealt with a quote, "new rule," with the argument made
+
+9
+
+that it was watershed and therefore should be
+
+10
+11
+
+retroactive?
+
+This is not the first time.
+
+MR. GORNSTEIN:
+
+No, I think that there have
+
+12
+
+been -- I don't know the exact number, but maybe 11 or
+
+13
+
+12, about half of which are ones, are proposed new rules
+
+14
+
+and half of which are ones where the rule was already
+
+15
+
+established previously and the question was whether it
+
+16
+
+was going to be made retroactive.
+
+17
+
+brief there are three or four death penalty cases where
+
+18
+
+the Court had already established before each one of
+
+19
+
+them there was a right not to be -- the death penalty to
+
+20
+
+be arbitrarily imposed.
+
+21
+
+new rule that built on that basic rule in an important
+
+22
+
+way; but in each case, the Court said it was not the
+
+23
+
+kind of rule that was going to be applied retroactively.
+
+24
+
+And so, too, here.
+
+25
+
+And I cited in the
+
+And in each case there was a
+
+The third reason I wanted to give about why
+21
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+there was not a serious diminishment in accuracy that is
+
+2
+
+in at least one respect, the Roberts rule actually
+
+3
+
+promotes more accuracy than the Crawford rule, and
+
+4
+
+that's with respect to non-testimonial hearsay.
+
+5
+
+case of non-testimonial hearsay, under Roberts, that
+
+6
+
+could come in only if determination had been made there
+
+7
+
+were particularized guarantees of trustworthiness.
+
+8
+
+Whereas under the Crawford rule, that kind of
+
+9
+
+non-testimonial hearsay comes in without any reliability
+
+10
+
+In the
+
+check under the Constitution at all.
+
+11
+
+JUSTICE KENNEDY:
+
+12
+
+MR. GORNSTEIN:
+
+But that's not this case.
+Well there was actually in
+
+13
+
+this case the mother's testimony about what the daughter
+
+14
+
+said to her.
+
+15
+16
+17
+
+JUSTICE KENNEDY:
+
+I'm talking about the
+
+daughter's testimony.
+MR. GORNSTEIN:
+
+Yes.
+
+The daughter's
+
+18
+
+testimony about what she said to the mother illustrates
+
+19
+
+the difference, because that came in through the mother.
+
+20
+
+It only came in because there was a particularized
+
+21
+
+guarantees of trustworthiness to that statement; whereas
+
+22
+
+under Crawford in future trials, statements to the
+
+23
+
+mother -- which are not testimonial -- they will come in
+
+24
+
+through the mother without any screen for reliability
+
+25
+
+under the Constitution at all.
+
+So in that respect, the
+
+22
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+defendant here got more by virtue of the Roberts rule
+
+2
+
+than by -- than he would have had by virtue of the
+
+3
+
+Crawford rule.
+
+4
+5
+
+JUSTICE SCALIA:
+
+Is that the case in Federal
+
+courts, too?
+
+6
+
+MR. GORNSTEIN:
+
+Well, it is a matter of
+
+7
+
+interpreting -- what protection is left is only going to
+
+8
+
+be by virtue of the residual hearsay rule.
+
+9
+
+will have to be some determination made about whether
+
+10
+
+So there
+
+there are sufficient guarantees of trustworthiness.
+
+11
+
+JUSTICE SCALIA:
+
+I mean, it is conceivable
+
+12
+
+that Federal courts would interpret the hearsay rule to
+
+13
+
+require precisely that anyway.
+
+14
+
+MR. GORNSTEIN:
+
+But Justice Scalia -
+
+15
+
+JUSTICE SCALIA:
+
+In which case you shouldn't
+
+16
+
+be making this argument because it applies only to state
+
+17
+
+courts.
+
+18
+
+MR. GORNSTEIN:
+
+No.
+
+I think it applies
+
+19
+
+equally to Federal courts because it is free to the
+
+20
+
+Federal court system to devise a rule that would allow a
+
+21
+
+looser standard of entry than the Roberts standards, and
+
+22
+
+if it did, that would be constitutional.
+
+23
+
+interest in that kind of argument in the Federal system.
+
+24
+
+I wanted to move on to the bedrock aspect of
+
+25
+
+the inquiry, which is a separate second inquiry that had
+23
+Alderson Reporting Company
+
+So there is an
+
+Official - Subject to Final Review
+
+1
+
+threshold that has to be crossed if you are going to
+
+2
+
+find something to be watershed, and the only rule that
+
+3
+
+the Court has found to be bedrock is Gideon.
+
+4
+
+rule, Carawford does not approach Gideon in its
+
+5
+
+fundamental and sweeping importance, and there are a
+
+6
+
+couple of reasons for that.
+
+7
+
+And this
+
+First, the right to counsel pervasively
+
+8
+
+affected all aspects of the criminal trial whereas this
+
+9
+
+focuses on one limited -- the admissibility of one
+
+10
+
+limited category of evidence, testimonial hearsay, and
+
+11
+
+adopts a somewhat new rule for that than had existed
+
+12
+
+before.
+
+13
+
+The second thing is that under, the right to
+
+14
+
+counsel is deemed so essential to a fair trial that
+
+15
+
+depriving someone of that right can never be discounted
+
+16
+
+as harmless error, whereas Crawford errors can be
+
+17
+
+harmless.
+
+18
+
+they are found to be harmless.
+
+19
+
+violation of the Crawford rule always and necessarily
+
+20
+
+results in an unfair trial, whereas you can say that
+
+21
+
+about the right to counsel.
+
+22
+
+There are a significant number of cases where
+So you cannot say that a
+
+Finally, the Gideon rule established for the
+
+23
+
+first time a right to free counsel in all felony
+
+24
+
+criminal trials.
+
+25
+
+was a right to cross-examine.
+
+Before Crawford was established, there
+It simply was a different
+
+24
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+right.
+
+2
+
+witnesses and you had a right to screen out
+
+3
+
+uncross-examined statements unless they met the
+
+4
+
+reliability standard of Roberts.
+
+5
+
+was made was one in which the Roberts rule was thrown
+
+6
+
+out, and you can no longer get in uncross-examined
+
+7
+
+statements with a determination of reliability.
+
+8
+9
+
+You had a right to cross-examine the live
+
+And the change that
+
+But that is a modification or an incremental
+change in an existing right that previously existed to
+
+10
+
+cross-examine, and instead -- unlike the Gideon rule,
+
+11
+
+which established the right to counsel for the first
+
+12
+
+time.
+
+13
+
+If the Court has nothing further.
+
+14
+
+CHIEF JUSTICE ROBERTS:
+
+15
+
+Thank you,
+
+Mr. Gornstein.
+
+16
+
+Ms. Forsman?
+
+17
+
+ORAL ARGUMENT OF FRANCES A. FORSMAN
+
+18
+
+ON BEHALF OF THE RESPONDENT
+
+19
+20
+21
+
+MS. FORSMAN:
+Justice.
+
+Thank you very much, Mr. Chief
+
+Members of the Court:
+This man was sentenced to life in prison
+
+22
+
+based upon accusations that have never been tested by
+
+23
+
+the only constitutionally reliable test that is now
+
+24
+
+acceptable in this Court.
+
+25
+
+statements that were admitted through the police officer
+
+There is no question that the
+
+25
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+were testimonial.
+
+2
+
+Mr. Bockting were tried today, that those statements
+
+3
+
+would not have come in.
+
+4
+
+There is no question that if
+
+The government has argued that the
+
+5
+
+reliability screen, so-called, that came from Roberts
+
+6
+
+was sufficient, and it was only an incremental change
+
+7
+
+when the Crawford decision was decided.
+
+8
+
+matter is that this Court found that the reliability
+
+9
+
+screen that the government has discussed was
+
+10
+11
+
+The fact of the
+
+fundamentally flawed.
+And in this case, comparing the right to
+
+12
+
+counsel to the right to cross-examination is easy.
+
+13
+
+is easy because it would not have mattered how many
+
+14
+
+lawyers Mr. Bockting had.
+
+15
+
+he had the finest lawyers in the country.
+
+16
+
+have mattered if he was Duke Power Company and had every
+
+17
+
+lawyer at the highest hourly rate representing him.
+
+18
+
+he was unable to cross-examine his accuser, just as in
+
+19
+
+Crawford -- in Crawford, there was even an audiotape of
+
+20
+
+what the wife said.
+
+21
+
+a police officer who listened to what she said.
+
+22
+
+this Court found that wasn't good enough.
+
+23
+
+It
+
+It would not have mattered if
+It would not
+
+There was an audiotape.
+
+JUSTICE SCALIA:
+
+If
+
+There was
+And
+
+Well, we didn't say in
+
+24
+
+Crawford, I don't think we said in Crawford -- I ought
+
+25
+
+to know, I suppose.
+26
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+(Laughter.)
+
+2
+
+JUSTICE SCALIA:
+
+-- that the new rule
+
+3
+
+produced greater accuracy.
+
+We said that it was the view
+
+4
+
+of the framers of the Constitution that
+
+5
+
+cross-examination, confrontation in that sense, was
+
+6
+
+necessary for greater accuracy.
+
+7
+
+Now in our evaluation of what constitutes a
+
+8
+
+landmark decision, are we bound to the framers' view of
+
+9
+
+things?
+
+I mean, you know, maybe -- I'm not sure that if
+
+10
+
+you apply a proper interpretation of indicia of
+
+11
+
+reliability under Roberts, I'm really not sure whether
+
+12
+
+it wouldn't be more accurate than confrontation, but
+
+13
+
+that wouldn't matter to me, because confrontation is
+
+14
+
+what the Constitution required and what the framers
+
+15
+
+thought were necessary.
+
+16
+17
+
+Am I bound, for purposes of the rule we're
+arguing about here, to what the framers think?
+
+18
+
+MS. FORSMAN:
+
+No, Your Honor, you are not
+
+19
+
+bound to what the framers think.
+
+However, I think that
+
+20
+
+you went far beyond simply saying that this was like
+
+21
+
+quartering soldiers in discussing the confrontation
+
+22
+
+clause and the right to confrontation.
+
+23
+
+into at length why the Roberts rule was so fundamentally
+
+24
+
+flawed.
+
+25
+
+were produced, although this Court said that this Court
+
+The opinion goes
+
+You talked about the kinds of decisions that
+
+27
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+had pretty much tacked to the same direction as the
+
+2
+
+framers' view.
+
+3
+
+JUSTICE SCALIA:
+
+I think that discussion of
+
+4
+
+the, you know, the contrary decisions that had been
+
+5
+
+produced under Roberts was just for the purpose of
+
+6
+
+justifying the overruling of a case that -- you know -
+
+7
+
+that was not that old.
+
+8
+
+we maybe expected it would.
+
+9
+
+for the purpose of showing that it always produces
+
+10
+11
+
+It hadn't worked out as well as
+But I don't think it was
+
+unreliable results.
+MS. FORSMAN:
+
+And I don't think that our
+
+12
+
+burden would to be show that it always produces
+
+13
+
+unreliable results.
+
+14
+
+taken the position that the only constitutional
+
+15
+
+reliability is the right to cross-examination.
+
+16
+
+throughout your retroactivity jurisprudence, you have
+
+17
+
+been able to distinguish easily between issues such as
+
+18
+
+the exclusionary rule, the right to a cross-section of
+
+19
+
+the community on a jury, and the right to
+
+20
+
+cross-examination.
+
+21
+
+decisions that made Bruton, for instance, retroactive,
+
+22
+
+because the right to cross-examination went so directly
+
+23
+
+to the integrity of the fact-finding process.
+
+24
+25
+
+I think that this Court has clearly
+
+However,
+
+I would point out to you, the
+
+I think that one of the major difficulties
+in the argument being taken by the State 28
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+JUSTICE KENNEDY:
+
+2
+
+like Toomey versus Ohio.
+
+3
+
+just structural.
+
+4
+
+can you?
+
+5
+
+That's in an instruction,
+
+The judge is corrupt.
+
+It is
+
+You can't say that about Crawford, or
+
+MS. FORSMAN:
+
+I don't mean to say, Your
+
+6
+
+Honor, that it is structural.
+
+7
+
+whether something is structural error or harmless error
+
+8
+
+has to do with whether or not it is measurable, not
+
+9
+
+whether it's bedrock, not whether it's watershed, not
+
+10
+
+I think the issue of
+
+whether it leads to better accuracy.
+
+11
+
+We know that, because in Teague, although
+
+12
+
+Gideon was the only case explicitly referenced, there
+
+13
+
+was also three other examples mentioned in Teague.
+
+14
+
+There was a trial tainted by mob violence.
+
+15
+
+trial flawed because of the intentional introduction of
+
+16
+
+perjured testimony.
+
+17
+
+introduction of testimony with regard to a coerced
+
+18
+
+confession.
+
+19
+
+There was a
+
+And there was a trial flawed by the
+
+We know that two out of those three examples
+
+20
+
+are actually subject to harmless error analysis.
+
+So
+
+21
+
+this Court has never tied the issue of the elements of
+
+22
+
+Teague or even the elements of the pre-Teague
+
+23
+
+jurisprudence to the issue of whether something is
+
+24
+
+structural or harmless.
+
+25
+
+the more recent decision of Gonzalez-Lopez, of the right
+
+It is the issue, as it was in
+
+29
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+to choice of counsel decision.
+
+2
+
+looked to to determine the issue was, is it harmless, is
+
+3
+
+it quantifiable.
+
+4
+
+accustomed, appellate courts are accustomed to looking
+
+5
+
+at the introduction of this kind of evidence and
+
+6
+
+determining whether or not it is harmless.
+
+7
+
+They are what the Court
+
+And in this case, courts are
+
+The State has not taken a position before
+
+8
+
+this Court that the Ninth Circuit was erroneous in
+
+9
+
+determining that this evidence was prejudicial, and
+
+10
+11
+
+therefore affected the outcome.
+So the issue of accuracy as defined by the
+
+12
+
+State and by the government, the problem with that
+
+13
+
+argument and the easiest way to see the problem in that
+
+14
+
+argument is if you look to Gideon.
+
+15
+
+wouldn't argue that the insertion of counsel into a case
+
+16
+
+may not result in what the State is defining as a more
+
+17
+
+accurate result.
+
+18
+
+may well cause the exclusion of evidence.
+
+19
+
+many instances that is exactly what counsel does.
+
+20
+
+Certainly we
+
+The insertion of counsel into a case
+In fact, in
+
+So their definition of accuracy if applied
+
+21
+
+to the Gideon case would mean that Gideon would flunk
+
+22
+
+that definition, and wouldn't be the case that has been
+
+23
+
+so repeatedly referenced by this Court as an example of
+
+24
+
+the kind of case that should be made retroactive.
+
+25
+
+JUSTICE GINSBURG:
+
+Ms. Forsman, what about
+
+30
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+the cases we're had so far on this second Teague
+
+2
+
+category?
+
+3
+
+anything to be retroactive on collateral review so far,
+
+4
+
+so this would be the first time.
+
+5
+
+As far as I know -- well, we haven't found
+
+MS. FORSMAN:
+
+It would be, Your Honor, and
+
+6
+
+it is appropriate that this be the first time.
+
+As I
+
+7
+
+previously referenced, those cases fell -- there are 12
+
+8
+
+of them, by the way.
+
+9
+
+Teague applying the Teague analysis in which this Court
+
+There were 12 decisions post
+
+10
+
+did not find retroactivity.
+
+11
+
+correct.
+
+12
+
+collateral review, the petitioner was seeking to
+
+13
+
+actually create a new rule and apply it retroactively.
+
+14
+
+The Solicitor General is
+
+Some of those were cases in which on
+
+But if we look to cases such as the
+
+15
+
+retroactivity application of Batson, for instance, what
+
+16
+
+this Court has found is that the Batson rule, the
+
+17
+
+cross-section of the community on a jury, that the
+
+18
+
+purpose of that rule was not created for the purpose of
+
+19
+
+protecting against unjust convictions or ensuring the
+
+20
+
+integrity of the fact-finding process.
+
+21
+
+purpose of the Batson rule, this Court found that it
+
+22
+
+wasn't the purpose of the Batson rule, and that
+
+23
+
+therefore, it would not fall under the Teague exception.
+
+24
+25
+
+That was not the
+
+That is not so when you talk about the
+purpose of the cross-examination rule.
+31
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+JUSTICE GINSBURG:
+
+What about the decision
+
+2
+
+that said Ring v. Arizona was not retroactive on
+
+3
+
+collateral?
+
+4
+
+MS. FORSMAN:
+
+Again, in Schriro versus
+
+5
+
+Summerlin, the issue there was an issue with regard to
+
+6
+
+ultimate accuracy of a jury versus a judge.
+
+7
+
+Court found that the evidence was -- the evidence was
+
+8
+
+equivocal with regard to whether or not a judge findings
+
+9
+
+or jury findings were more accurate.
+
+10
+
+Again, this
+
+Now you might say, well, that sounds a
+
+11
+
+little bit like Roberts.
+
+12
+
+it isn't like Roberts, because under Roberts, the
+
+13
+
+cross-examination right, which is something that we held
+
+14
+
+so dear and connected so directly to the right to
+
+15
+
+counsel, having counsel without the right to
+
+16
+
+cross-examination, isn't much of a right.
+
+17
+
+The problem with that is that
+
+JUSTICE KENNEDY:
+
+The problem with your
+
+18
+
+case -- maybe it's our problem because it was our
+
+19
+
+rule -- is that we're asked to adopt an across-the-board
+
+20
+
+calculus as to the rule.
+
+21
+
+will have to concede, under the Roberts jurisprudence,
+
+22
+
+the fact finding was more accurate.
+
+23
+
+In some cases, as I think you
+
+In your case, what you are telling us is
+
+24
+
+that the fact finding is far less accurate.
+
+25
+
+you are stuck unless you can give us some reason that we
+32
+Alderson Reporting Company
+
+But I think
+
+Official - Subject to Final Review
+
+1
+
+depart with it.
+
+2
+
+to look at the rule in the whole universe of cases, not
+
+3
+
+just your case.
+
+4
+
+had in arguing in this area, and maybe you can suggest
+
+5
+
+some way out.
+
+6
+
+With a rule-made jurisprudence, we have
+
+It seems to me that was the problem you
+
+I don't see it.
+
+MS. FORSMAN:
+
+I can, Your Honor.
+
+The reason
+
+7
+
+that I can is that the judge does not have the ability
+
+8
+
+to see the cross-examination statement either.
+
+9
+
+start with the premise, when making this reliability
+
+10
+
+determination, we would have to throw out all of the
+
+11
+
+statements in Crawford and all of the previous cases
+
+12
+
+which hold so dear the right to cross-examination and
+
+13
+
+say, but a judge can make a reliability determination
+
+14
+
+without ever hearing the statements cross-examined, can
+
+15
+
+make them in that vacuum without ever testing the
+
+16
+
+reliability of the statements with the -- with
+
+17
+
+cross-examination.
+
+18
+
+So if we
+
+And I don't know how you would be able to
+
+19
+
+square that with the strong statements that are made in
+
+20
+
+Crawford.
+
+21
+
+the cases, for instance, in the case finding that Bruton
+
+22
+
+should be retroactive, because it goes to the integrity
+
+23
+
+of the fact- finding process.
+
+24
+
+cases that you've talked about since Teague, the
+
+25
+
+integrity of the fact-finding process is what is at
+
+And the strong statements that are made in
+
+Unlike all of the other
+
+33
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+issue here.
+
+2
+
+based upon an accuser's statements being admitted
+
+3
+
+without ever having been cross-examined?
+
+4
+
+Do you have confidence in a result which is
+
+CHIEF JUSTICE ROBERTS:
+
+But Ohio versus
+
+5
+
+Roberts was not overruled because of a judgment that it
+
+6
+
+was not doing a good enough job in assessing reliability
+
+7
+
+of these statements.
+
+8
+
+judgment that the Founders wanted there to be
+
+9
+
+cross-examination.
+
+10
+
+It was overruled because of a
+
+MS. FORSMAN:
+
+That's -- Your Honor, that is
+
+11
+
+the base of the decision.
+
+It harkens back to what the
+
+12
+
+Founders believed.
+
+13
+
+described variously from "amorphous to unpredictable,
+
+14
+
+proof manipulable," to saying that the basis for the
+
+15
+
+right to confrontation and cross-examination comes from
+
+16
+
+a basic mistrust of, even to the levels of a judge in
+
+17
+
+terms of accepting the testimony without the advantage
+
+18
+
+of an actual adversary proceeding.
+
+However, the rule in Roberts was
+
+19
+
+This case, of course, illustrates the dire
+
+20
+
+need for cross-examination because the accuser in this
+
+21
+
+case testified inconsistently at the preliminary hearing
+
+22
+
+in this case and then was excused before
+
+23
+
+cross-examination was allowed.
+
+24
+
+case, who was sent to a counselor by the district
+
+25
+
+attorney, when she went to the counselor refused to
+
+The accuser in this
+
+34
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+knowledge that the incident happened, according to the
+
+2
+
+testimony of the counselor.
+
+3
+
+And because the court -- and the record is
+
+4
+
+very scant on what happened here -- the court, the trial
+
+5
+
+court for instance, under Roberts made only a couple of
+
+6
+
+findings and he said the testimony was consistent -- he
+
+7
+
+didn't look at the fact that it had been inconsistent on
+
+8
+
+at least two other occasions -- and said it was
+
+9
+
+chronological, at least according to what the police
+
+10
+11
+12
+13
+
+officer said.
+And so there were only a couple of findings
+by the trial court at all with respect to
+CHIEF JUSTICE ROBERTS:
+
+-
+
+You had the
+
+14
+
+opportunity to challenge those findings under the
+
+15
+
+Roberts regime in state court?
+
+16
+
+MS. FORSMAN:
+
+We did.
+
+We did, and that -
+
+17
+
+and that issue was not reached by the Ninth Circuit
+
+18
+
+because after we had argued the case in the Ninth
+
+19
+
+Circuit the Crawford decision was decided; and it was at
+
+20
+
+that point that the Ninth Circuit picked up on the
+
+21
+
+Crawford, and they didn't decide the issue of whether or
+
+22
+
+not Roberts would have meant that this testimony was
+
+23
+
+unreliable anyway.
+
+24
+
+JUSTICE BREYER:
+
+You can still argue -- what
+
+25
+
+hearsay exception did it come in under?
+35
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+MS. FORSMAN:
+
+It came in under a Nevada
+
+2
+
+statute which was patterned after Roberts.
+
+3
+
+under a Nevada statute -
+
+4
+5
+
+JUSTICE KENNEDY:
+
+JUSTICE BREYER:
+
+Adequate indicia of
+
+reliability?
+
+8
+9
+
+Adequate indicia of
+
+reliability.
+
+6
+7
+
+It came in
+
+MS. FORSMAN:
+indicia of reliability.
+
+Yes, adequate -- basically,
+It didn't go into -- it didn't
+
+10
+
+go into too much more detail than that.
+
+11
+
+required that, a witness under ten, the court must find
+
+12
+
+that the, that the statement is reliable and the
+
+13
+
+statements are reliable, and then -
+
+14
+
+JUSTICE BREYER:
+
+It just simply
+
+Is that universal in
+
+15
+
+Nevada?
+
+16
+
+Nevada, that you just evaluate hearsay straight out in
+
+17
+
+every case?
+
+18
+19
+20
+21
+
+I mean, is they are no more hearsay rule in
+
+MS. FORSMAN:
+
+No.
+
+No.
+
+That was a statute
+
+that was adopted specifically for child witnesses.
+JUSTICE GINSBURG:
+
+This is for children
+
+under ten, isn't it?
+
+22
+
+MS. FORSMAN:
+
+Children under ten.
+
+23
+
+JUSTICE GINSBURG:
+
+24
+
+MS. FORSMAN:
+
+25
+
+JUSTICE GINSBURG:
+
+As you just said.
+
+That's correct.
+And here we had someone
+
+36
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+who was six years old and was hardly articulate, it
+
+2
+
+seems from the little we have of this record.
+
+3
+
+Nevada statute I think was very specific to children and
+
+4
+
+was not -
+
+5
+
+MS. FORSMAN:
+It was
+
+It was.
+
+Yes, yes.
+
+So the
+
+No, it
+
+6
+
+was.
+
+adopted for witnesses under ten.
+
+This
+
+7
+
+child actually was quite articulate in the preliminary
+
+8
+
+hearing and was able -- was able to talk about the fact
+
+9
+
+that she remembered talking to the police officer, that
+
+10
+
+she remembered -- but then, but then in terms of trying
+
+11
+
+to recall the incident, she was unable to recall the
+
+12
+
+incident, and she was unable to recall it in any of the
+
+13
+
+same detail that the police officer testified to.
+
+14
+
+So it wasn't -- you know, it wasn't a
+
+15
+
+circumstance in which you had a child who simply
+
+16
+
+couldn't speak or a child who couldn't describe what had
+
+17
+
+occurred.
+
+18
+
+JUSTICE BREYER:
+
+So if you lose this case,
+
+19
+
+you can go back to the Ninth Circuit and say, well, even
+
+20
+
+under Roberts it shouldn't have come in?
+
+21
+
+MS. FORSMAN:
+
+I believe that's correct, Your
+
+22
+
+Honor, because the Ninth Circuit did not reach that
+
+23
+
+issue.
+
+24
+25
+
+JUSTICE SOUTER:
+
+Would you comment,
+
+Ms. Forsman, on your opponent's argument based on
+37
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+2
+
+2254(d)?
+MS. FORSMAN:
+
+Yes.
+
+I think the easiest way
+
+3
+
+to explain our position on that is that what has been
+
+4
+
+articulated here is that a retroactive -- a rule made
+
+5
+
+retroactive by this court would be applicable to
+
+6
+
+Mr. Bockting if he had not raised this issue or had been
+
+7
+
+somehow procedurally defaulted along the way.
+
+8
+
+words, in order to be able to get the advantage that was
+
+9
+
+discussed by both the state and the government of the
+
+In other
+
+10
+
+other sections of the statute which clearly recognize,
+
+11
+
+as to the extent that it's relevant the sponsor of the
+
+12
+
+legislation did, that you still have the power to make
+
+13
+
+rules retroactive, but the only way that Mr. Bockting
+
+14
+
+would be able to get advantage of that rule would be if
+
+15
+
+the state court had never ruled on the merits of his
+
+16
+
+claim or had made some sort of procedural ruling that
+
+17
+
+meant that he was defaulted on the claim.
+
+18
+
+Mr. Bockting, who has raised this question of being able
+
+19
+
+to cross-examine his accuser from day one in the trial,
+
+20
+
+he cannot have that rule applied retroactively to him.
+
+21
+
+If instead he now, he goes back later and the court
+
+22
+
+says, no, this is a successor petition, you can't, you
+
+23
+
+can't get it, you can't come into our courtroom, the
+
+24
+
+door is slammed on you, according to the state now
+
+25
+
+there's no ruling on the merits of his claim, and that's
+38
+Alderson Reporting Company
+
+So instead of
+
+Official - Subject to Final Review
+
+1
+
+why that section of the statute would permit the
+
+2
+
+retroactive rule to apply.
+
+3
+
+2254(d)(1), while it has the language
+
+4
+
+clearly established, and the court asked some questions
+
+5
+
+about that, I think it must be remembered that when that
+
+6
+
+statute is being addressed, it's being addressed in
+
+7
+
+state court -- or in Federal court, on Federal habeas.
+
+8
+
+And so at the time that the petitioner is in Federal
+
+9
+
+court, then the rule has been clearly established.
+
+10
+
+The 2254(d) -
+
+11
+
+CHIEF JUSTICE ROBERTS:
+
+That's not -- the
+
+12
+
+state has to result -- the state -- it's adjudicated on
+
+13
+
+the merits in state court and results in a decision that
+
+14
+
+was contrary to clearly established Federal law.
+
+15
+
+MS. FORSMAN:
+
+Correct.
+
+16
+
+CHIEF JUSTICE ROBERTS:
+
+So it seems to me
+
+17
+
+that the question is what was the law, what was the
+
+18
+
+clearly established law at the time of the state
+
+19
+
+decision.
+
+20
+
+MS. FORSMAN:
+
+2254(d)(1), I think the only
+
+21
+
+way that you can read that section compatibly with the
+
+22
+
+four other sections which are quoted in our appendix 2
+
+23
+
+of our brief, the only way that you can do that is to
+
+24
+
+recognize, although this Court will recall that it has
+
+25
+
+described AEDPA as not quite a silk purse of legislative
+39
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+drafting, but the only way to make those sections
+
+2
+
+compatible is to say, listen, what was going on when
+
+3
+
+2254(d)(1) was written was we were talking not about the
+
+4
+
+timing of the new rule, what we were talking about is
+
+5
+
+who is it decided by, because before AEDPA was adopted
+
+6
+
+it wasn't apparent that it must be a decision by you, by
+
+7
+
+this Court, that established by the rule.
+
+8
+
+first part.
+
+9
+
+So that's the
+
+And the second part is that it's not dicta.
+
+10
+
+It is an actual holding of this Court that is to be
+
+11
+
+looked to to determine whether or not the state court
+
+12
+
+was wrong.
+
+13
+
+listen, there has to be some meaning to retroactivity,
+
+14
+
+and what does retroactivity mean?
+
+15
+
+like a nunc pro tunc order, that when you've determined
+
+16
+
+that a new rule is retroactively applicable -- and
+
+17
+
+certainly between AEDPA and the Teague exceptions, which
+
+18
+
+you did say in Horn versus Banks, by the way, should be
+
+19
+
+analyzed differently -- although it has not been tossed
+
+20
+
+up to you directly as it has in this case, the meaning
+
+21
+
+of the 2254(d)(1), you have repeatedly advised that
+
+22
+
+Teague is still alive and well and that when you look to
+
+23
+
+the application of whether a rule should be applied
+
+24
+
+retroactively you look to the Teague exceptions, so we
+
+25
+
+also look -
+
+And so the only way to read that is to say,
+
+Retroactivity means
+
+40
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+2
+
+JUSTICE ALITO:
+
+Is there any language in
+
+2254(d) that could incorporate the Teague exceptions?
+
+3
+
+MS. FORSMAN:
+
+There is not language in
+
+4
+
+2254(d)(1).
+
+5
+
+that Congress was cognizant of Teague is that there is
+
+6
+
+language throughout AEDPA, particularly in the sections
+
+7
+
+that we've quoted to you, that are lifted directly from
+
+8
+
+Teague.
+
+9
+
+The language -- the reason that we know
+
+JUSTICE ALITO:
+
+What would we say if we were
+
+10
+
+to say that 2254(d)(1) accommodates the Teague
+
+11
+
+exceptions, that Congress meant to put them in but just
+
+12
+
+forgot to do it?
+
+13
+
+How would we account for the language?
+
+MS. FORSMAN:
+
+I think that what you would
+
+14
+
+say is that
+
+15
+
+Congress would not have deprived you of the power to
+
+16
+
+make a rule retroactively applicable and would have not
+
+17
+
+then created the ludicrous situation which the state
+
+18
+
+suggests would occur here, which is instead of the
+
+19
+
+motivation in Congress in having someone like
+
+20
+
+Mr. Bockting raise the issue from the very beginning in
+
+21
+
+one unitary proceeding, as opposed to going back, which
+
+22
+
+is what they've suggested he must do in order to get the
+
+23
+
+advantage of a retroactive rule, is that Congress was
+
+24
+
+cognizant of that and in order to make all of the
+
+25
+
+statute -- all of the provisions of the statute have
+41
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+meaning and not render certain provisions, including the
+
+2
+
+sections that we quoted, superfluous, that you must
+
+3
+
+interpret that to mean that the -- that the -- that
+
+4
+
+2254(d)(1) is not a timing statute.
+
+5
+
+look to.
+
+6
+
+rest of it just doesn't make any sense.
+
+7
+
+It's what law do we
+
+That must be what they meant.
+
+JUSTICE ALITO:
+
+Otherwise, the
+
+Isn't that making the tail
+
+8
+
+wag the dog, because there's language in the provisions
+
+9
+
+on successive petitions that refers to Teague, that you
+
+10
+
+would read the Teague exceptions into 2254(d)(1) when
+
+11
+
+there's nothing in the language there that can be
+
+12
+
+interpreted to refer to them?
+
+13
+
+MS. FORSMAN:
+
+No.
+
+I don't believe that's
+
+14
+
+the tail wagging the dog, because I don't think that
+
+15
+
+that was the intent of 2254(d)(1).
+
+16
+
+intent -- again, I think the intent of 2254(d)(1) was in
+
+17
+
+order to define what kinds of decisions the state court
+
+18
+
+decisions should be measured against.
+
+19
+
+some kind of meaning to retroactivity, and retroactivity
+
+20
+
+means that you are making this decision now and you're
+
+21
+
+making it retroactive to the time.
+
+22
+
+be many things, as we know not only from your decisions,
+
+23
+
+but as we know from the very small core of decisions
+
+24
+
+that Teague left open.
+
+25
+
+we must worry whether or not an innocent man has been
+
+I think the
+
+There must be
+
+It is not going to
+
+And it is those decisions where
+
+42
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+convicted.
+
+2
+
+those -- an unjust, an unwarranted, a wrongful
+
+3
+
+conviction.
+
+4
+
+reliability, that go to the integrity of the
+
+5
+
+fact-finding process, that you are going to let through
+
+6
+
+that veil.
+
+7
+
+It is those rules that protect against
+
+It is only those rules that go to
+
+So if it is only that small core of rules
+
+8
+
+that you reserved in Teague, only that small core of
+
+9
+
+rules, and we know it won't be many at this point, then
+
+10
+
+if you read that compatibly with AEDPA, it is not and,
+
+11
+
+as we know, it is not going to open the floodgates.
+
+12
+
+There is a very defined period of time in which people
+
+13
+
+can bring actions for relief.
+
+14
+
+decision, there is only one year, not from the time that
+
+15
+
+you make -- if you were to make, for instance, this
+
+16
+
+decision retroactive, not from today, but it is one year
+
+17
+
+from Crawford that petitioners have the opportunity to
+
+18
+
+be able to come into court within that statute of
+
+19
+
+limitations with regard to the date on which a new rule
+
+20
+
+is adopted.
+
+21
+
+Under your Dodd decision
+
+It is from that date forward.
+
+So there is a
+
+22
+
+defined population.
+
+In appendix 1 of our brief, you
+
+23
+
+will see all of the decisions that we could find that
+
+24
+
+have actually applied Crawford and there were 49 of
+
+25
+
+them.
+
+And what you'll find is that of the decisions 43
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+and the state and the government have not disputed
+
+2
+
+this -- of the 49 decisions which we were able to find
+
+3
+
+at the time of the writing of that brief, only five
+
+4
+
+actually resulted in relief.
+
+5
+
+would result in relief here because there is no
+
+6
+
+contention before you that the Ninth Circuit's
+
+7
+
+determination of harmfulness -- there is no
+
+8
+
+determination before you; they haven't challenged that
+
+9
+
+to you.
+
+10
+
+There's no question it
+
+So it would result in relief for
+
+11
+
+Mr. Bockting.
+
+12
+
+not testimonial or there was a previous opportunity to
+
+13
+
+cross-examine, of the 49 decisions only 5 were found to
+
+14
+
+have to result in relief.
+
+15
+
+But because it's harmless error or it's
+
+And that is as it should be.
+
+The state
+
+16
+
+argues that watersheddedness, if that's a word, is that
+
+17
+
+watersheddedness must mean that it affects many, many
+
+18
+
+decisions.
+
+19
+
+Teague can't mean that my burden is to show you that
+
+20
+
+many decisions will be overturned.
+
+21
+
+opposite of what Teague was decided for.
+
+22
+
+Now, that can't mean what Teague means.
+
+That's the exact
+
+Watersheddedness has to do with the
+
+23
+
+alteration of our understanding.
+
+It is difficult for me
+
+24
+
+to understand how the change of course as described by
+
+25
+
+then Chief Justice Rehnquist, that the change of course
+44
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+that Crawford represented in the way that we look at the
+
+2
+
+right to confrontation cannot be, cannot be seen as
+
+3
+
+precisely the alteration in the understanding of this
+
+4
+
+bedrock principle again directly from the language of
+
+5
+
+Crawford.
+
+6
+
+We ask you, Your Honors, to make the rule of
+
+7
+
+Crawford retroactive and to affirm the determination of
+
+8
+
+the Ninth Circuit.
+
+9
+10
+
+JUSTICE STEVENS:
+a personal question?
+
+Ms. Forsman, can I ask you
+
+Were you a moot court finalist?
+
+11
+
+(Laughter.)
+
+12
+
+MS. FORSMAN:
+
+13
+
+JUSTICE STEVENS:
+
+I was not.
+I attend a moot court at
+
+14
+
+Notre Dame in about your year and it was an awfully good
+
+15
+
+moot court.
+
+16
+
+MS. FORSMAN:
+
+17
+
+CHIEF JUSTICE ROBERTS:
+
+18
+
+21
+22
+23
+24
+25
+
+Thank you, Ms.
+
+Forsman.
+
+19
+20
+
+Thank you, Your Honor.
+
+General Chanos, you have two minutes
+remaining.
+REBUTTAL ARGUMENT OF GEORGE J. CHANOS
+ON BEHALF OF PETITIONER
+MR. CHANOS:
+
+Thank you, Mr. Chief Justice.
+
+I only have a few points.
+First of all, counsel's argument with regard
+45
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+to the interpretation of 2254(d)(1) clearly established
+
+2
+
+language is inconsistent with the statement made -
+
+3
+
+statements made by this Court in Lockyer and in Williams
+
+4
+
+v. Taylor.
+
+5
+
+2254(d)(1)'s clearly established phase referred to the
+
+6
+
+holdings, as opposed to the dicta, of this Court's
+
+7
+
+decisions as of the time of the relevant state court
+
+8
+
+decision, citing Williams v. Taylor.
+
+9
+
+clearly established federal law under 2254(d)(1) is the
+
+In Lockyer, the Court stated Section
+
+In other words,
+
+10
+
+governing legal principle or principles set forth by the
+
+11
+
+Supreme Court at the time the state court renders its
+
+12
+
+decision.
+
+13
+
+With regard to counsel's point about
+
+14
+
+this case in particular, Bockting, I agree that there
+
+15
+
+are broader issues beyond this particular fact
+
+16
+
+situation.
+
+17
+
+comfortable that when this Court sent this case back
+
+18
+
+down to the Nevada Supreme Court and told the Nevada
+
+19
+
+Supreme Court to follow Ohio -- Idaho versus Wright, the
+
+20
+
+factors in Idaho versus Wright to determine
+
+21
+
+trustworthiness, talk about spontaneity and consistent
+
+22
+
+reputation -- repetition, mental state of declarant, use
+
+23
+
+of terminology unexpected of a child of similar age, and
+
+24
+
+lack of motive to fabricate.
+
+25
+
+of trustworthiness must be so trustworthy that
+
+However, I want the Court to feel
+
+Particularized guarantees
+
+46
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+adversarial testing would add little to its reliability.
+
+2
+
+Following that admonishment from this Court,
+
+3
+
+the Nevada Supreme Court found those statements to be
+
+4
+
+reliable and to satisfy the standards of Ohio -- Idaho
+
+5
+
+versus Wright.
+
+6
+
+Finally, I would just point out that
+
+7
+
+although Caldwell is indeed an important rule, and may,
+
+8
+
+in fact, be a fundamental rule, so was Batson in Teague,
+
+9
+
+as was Caldwell in Sawyer, as was Ring in Summerlin, as
+
+10
+
+was Duncan in DiStefano as was Mills in Banks.
+
+11
+
+Court failed to apply retroactive status to any of those
+
+12
+
+important fundamental rules saying none of them rose to
+
+13
+
+the level of Gideon versus Wainwright.
+
+14
+
+be true with your decision here with respect to
+
+15
+
+Crawford.
+
+16
+
+Yet this
+
+The same should
+
+Finally, as Justice Harlan stated in the
+
+17
+
+case of McKay, talking about where this Court's
+
+18
+
+retroactivity jurisprudence has come from, no one,
+
+19
+
+not -
+
+20
+21
+
+CHIEF JUSTICE ROBERTS:
+sentence.
+
+22
+
+MR. CHANOS:
+
+23
+
+CHIEF JUSTICE ROBERTS:
+
+24
+25
+
+You can finish your
+
+Thank you.
+
+is Justice Harlan you're quoting.
+(Laughter.)
+47
+Alderson Reporting Company
+
+Particularly if it
+
+Official - Subject to Final Review
+
+1
+
+MR. CHANOS:
+
+Thank you, Mr. Chief Justice.
+
+2
+
+No one, not criminal defendants, not the judicial
+
+3
+
+system, not society as a whole is benefitted by a
+
+4
+
+judgment providing that a man shall tentatively go to
+
+5
+
+jail today, but tomorrow and every day thereafter his
+
+6
+
+continued incarceration shall be subject to fresh
+
+7
+
+litigation on issues already resolved.
+
+8
+
+Thank you.
+
+9
+
+CHIEF JUSTICE ROBERTS:
+
+10
+11
+12
+
+Thank you, General.
+
+The case is submitted.
+(Whereupon, at 12:02 p.m., the case in the
+above-entitled matter was submitted.)
+
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+48
+Alderson Reporting Company
+
+

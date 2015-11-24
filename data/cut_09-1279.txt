@@ -1,0 +1,4505 @@
+Official - Subject to Final Review
+
+1
+
+P R O C E E D I N G S
+(10:18 a.m.)
+
+2
+CHIEF JUSTICE ROBERTS:
+
+3
+
+We'll hear argument
+
+4
+
+first this morning in Case 09-1279, Federal
+
+5
+
+Communications Commission v. AT&T, Inc.
+
+6
+
+Mr. Yang.
+
+7
+
+ORAL ARGUMENT OF ANTHONY A. YANG
+
+8
+
+ON BEHALF OF PETITIONERS
+MR. YANG:
+
+9
+10
+
+Mr. Chief Justice, and may it
+
+please the Court:
+The court of appeals has held that FOIA's
+
+11
+12
+
+statutory protection for personal privacy in
+
+13
+
+Exemption 7(C) extends beyond the privacy of individuals
+
+14
+
+and protects the so-called personal privacy of
+
+15
+
+corporations.
+
+16
+
+text of Exemption 7(C), FOIA's broader context, and the
+
+17
+
+statute's drafting history, and would lead to anomalous
+
+18
+
+results.
+
+That holding is inconsistent with the
+
+The word "personal," standing alone, refers
+
+19
+20
+
+to individual -- an individual human being.
+
+"Privacy,"
+
+21
+
+standing alone, and even more so in the context of the
+
+22
+
+phrase "invasion of privacy," invokes purely individual
+
+23
+
+concepts.
+
+24
+
+statutory phrase used in FOIA, "personal privacy" -- is
+
+25
+
+greater than the sum of its parts.
+
+And the sum of those terms -- that is, the
+
+3
+Alderson Reporting Company
+
+It's long been well
+
+Official - Subject to Final Review
+
+1
+
+settled that corporations have no personal privacy.
+JUSTICE ALITO:
+
+2
+
+Isn't it true that there are
+
+3
+
+contexts in the law in which the word "personal" is used
+
+4
+
+to refer to a corporation?
+
+5
+
+to personal jurisdiction over a corporation, couldn't
+
+6
+
+you?
+
+7
+
+MR. YANG:
+
+For example, you could refer
+
+There are -- the term "personal"
+
+8
+
+is sometimes used as a term of art, and I think personal
+
+9
+
+jurisdiction is one of those.
+
+It is the modern, shorter
+
+10
+
+term of art for jurisdiction in personam and reflects a
+
+11
+
+distinction drawn still in the law between cases brought
+
+12
+
+in personam and cases brought in rem.
+
+13
+
+That -- the evolution of that term in the
+
+14
+
+law as a term of art does not reflect what the ordinary
+
+15
+
+meaning of "personal" is.
+
+16
+
+term "personal property," which also invokes
+
+17
+
+long-established traditional distinctions between
+
+18
+
+property that could be recovered in rem or in real
+
+19
+
+actions versus property that might be recovered in
+
+20
+
+actions in personam.
+
+21
+
+It's just the same as the
+
+So -- and, in fact, I think it -- it's
+
+22
+
+important to note that there are -- although maybe there
+
+23
+
+are some instances that -- I think there's one instance
+
+24
+
+that AT&T cites in its brief.
+
+25
+
+any use of the term "personal" to mean corporate or
+
+Nothing -- it never cited
+
+4
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+pertaining to a corporation.
+
+And when -- when you -­
+
+JUSTICE GINSBURG:
+
+2
+3
+
+personal appearances?
+
+4
+
+MR. YANG:
+
+What about -- what about
+
+A personal appearance, I think
+
+5
+
+that -- that supports our position as well.
+
+6
+
+making a personal appearance, it's not something that a
+
+7
+
+corporation does.
+
+8
+
+construct.
+
+9
+
+appearance.
+
+A corporation is a -- a legal
+
+It doesn't exist as a thing that can make an
+
+JUSTICE ALITO:
+
+10
+
+If you're
+
+Well, in ordinary speech,
+
+11
+
+the term "personal" is not -- the term "person" is not
+
+12
+
+used to refer to a corporation.
+
+13
+
+legalese.
+
+14
+
+Procedure Act defines a person to include a corporation,
+
+15
+
+why is it relevant here or dispositive here to look to
+
+16
+
+the ordinary usage of term "personal" as opposed to the
+
+17
+
+way it's -- it's used in the law?
+
+18
+
+sometimes used to refer to a corporation.
+
+19
+
+That's -- that's
+
+But in -- but since the -- the Administrative
+
+MR. YANG:
+
+And in the law, it is
+
+Well, I think that -- that point
+
+20
+
+actually reinforces our position, because although
+
+21
+
+"person" is used in certain legal contexts to refer
+
+22
+
+to artificial persons and corporations and the like,
+
+23
+
+"personal" is not.
+
+24
+25
+
+And "personal," as we explain in our brief,
+is not simply a grammatical alteration, an inflection of
+5
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+the term "person."
+
+It has existed in its own right
+
+2
+
+since the late 1300s and has developed meaning that is
+
+3
+
+unique to the term "personal," which -­
+JUSTICE GINSBURG:
+
+4
+
+Mr. Yang, can we go back
+
+5
+
+first to this -- the request came in and, as I
+
+6
+
+understand it, the Commission said there are two
+
+7
+
+exemptions:
+
+8
+
+financial confidential information; and then there was
+
+9
+
+one with Exemption 7 itself but as to the employee.
+
+The one for trade secrets, commercial,
+
+MR. YANG:
+
+10
+
+Correct.
+
+There was an additional
+
+11
+
+exemption, Exemption 5, which protected internal
+
+12
+
+government communications.
+
+But -­
+
+JUSTICE GINSBURG:
+
+13
+
+How does the -- does the
+
+14
+
+Commission, unaided by AT&T, go through the papers and
+
+15
+
+decide what would be embarrassing for an AT&T employee,
+
+16
+
+as distinguished from the corporation?
+
+17
+
+MR. YANG:
+
+How does it do that?
+
+18
+
+JUSTICE GINSBURG:
+
+19
+
+MR. YANG:
+
+Yes.
+
+Well, I -- I don't think the
+
+20
+
+touchstone is necessarily embarrassment.
+
+21
+
+government does, following this Court's decision in
+
+22
+
+Reporters Committee, is tries to determine whether there
+
+23
+
+is a personal privacy interest about individuals, and
+
+24
+
+that is information that pertains to particular
+
+25
+
+individuals.
+6
+Alderson Reporting Company
+
+What the
+
+Official - Subject to Final Review
+
+1
+
+For instance, in this Court's decision in
+
+2
+
+DOD v. FLRA, the Court explained that, although an
+
+3
+
+agency released the name of individuals, it could
+
+4
+
+properly withhold the addresses, the home addresses, of
+
+5
+
+those individuals, even though that might be publicly
+
+6
+
+available in phone books, because individuals have at
+
+7
+
+least some small personal privacy interest in that.
+So what the agency will do is try to
+
+8
+9
+
+identify information pertaining to individuals and then
+
+10
+
+will conduct -- if there is certain information, will
+
+11
+
+try to conduct a balancing to determine whether there is
+
+12
+
+a public interest in disclosure, that is, whether
+
+13
+
+revealing this would disclose information against the
+
+14
+
+government.
+
+15
+
+JUSTICE KENNEDY:
+
+Well, in that instance,
+
+16
+
+does the corporation have standing to raise that
+
+17
+
+objection on the employee's behalf?
+
+18
+
+MR. YANG:
+
+Well, I think the corporation to
+
+19
+
+the -- in a reverse FOIA case, for instance, which is
+
+20
+
+what we have here, where the corporation is alleging
+
+21
+
+that the government's decision-making process is
+
+22
+
+arbitrary and capricious, it has Article III standing to
+
+23
+
+resist the disclosure of documents.
+
+24
+
+standing kind of like a Fourth Amendment concept of
+
+25
+
+standing, I don't think that -­
+7
+Alderson Reporting Company
+
+If you're using
+
+Official - Subject to Final Review
+
+1
+
+JUSTICE KENNEDY:
+
+Well, as an administrative
+
+2
+
+matter, can the corporation make a FOIA objection on
+
+3
+
+behalf of its employees?
+MR. YANG:
+
+4
+
+It can make an objection on its
+
+5
+
+own behalf, which is to say that the government has not
+
+6
+
+properly gone through the decision-making process by
+
+7
+
+not -­
+JUSTICE KENNEDY:
+
+8
+9
+10
+
+All right.
+
+That's the
+
+next -- that was going to be my next question:
+
+So the
+
+corporation can raise FOIA on its own behalf?
+MR. YANG:
+
+11
+
+It's actually -- let me take a
+
+12
+
+step back.
+
+FOIA actions are actions which seek to
+
+13
+
+increase the amount of documents that the government has
+
+14
+
+released pursuant to a FOIA request.
+We have also reverse FOIA actions, which are
+
+15
+16
+
+actions under the APA and here under the Hobbs Act's
+
+17
+
+review provisions, that would give the court of appeals
+
+18
+
+jurisdiction.
+
+19
+
+claim is that the agency's final agency action is
+
+20
+
+somehow arbitrary, capricious, and not -- or contrary to
+
+21
+
+law.
+
+22
+
+regulations which govern its processing of FOIA
+
+23
+
+requests.
+
+24
+
+that the FCC did not comply with its regulations, and,
+
+25
+
+therefore, its decision was arbitrary capricious because
+
+When there's a reverse FOIA action, the
+
+And so in this case, the FCC has certain
+
+And AT&T's claim, as we understand it, is
+
+8
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+its regulations required that it consider the personal
+
+2
+
+privacy interest of individuals.
+And I should note that, with respect to
+
+3
+4
+
+Exemption 6 or Exemption 7(C), the government itself
+
+5
+
+invokes personal privacy of individuals.
+
+6
+
+do when we process FOIA requests, because individuals
+
+7
+
+normally don't get any notice that there has been a FOIA
+
+8
+
+request.
+
+9
+
+those rights, in a sense that they're rights, asserts
+
+That's what we
+
+The government simply processes it and asserts
+
+10
+
+those interests on behalf of corporations -- on behalf
+
+11
+
+of individuals.
+Going back to the text of the statute, the
+
+12
+13
+
+term "privacy," and particularly an invasion of privacy,
+
+14
+
+invokes concepts that back to Warren and Brandeis's
+
+15
+
+right of privacy, the -- their article which explained
+
+16
+
+that or identified in the law certain human dignitary
+
+17
+
+interests that they gave the label "privacy."
+CHIEF JUSTICE ROBERTS:
+
+18
+
+Well, privacy
+
+19
+
+certainly isn't as limited as you argue "person,"
+
+20
+
+"personal," is.
+
+21
+
+They have private documents.
+
+22
+
+applies in the corporate context as it does in the
+
+23
+
+individual.
+
+24
+25
+
+Corporations have private property.
+
+MR. YANG:
+
+The concept certainly
+
+I think the term "privacy," its
+
+ordinary meaning, not the only meaning but the ordinary
+9
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+and the commonly used meaning, does invoke individual
+
+2
+
+concepts.
+
+3
+
+issue, normally the more appropriate word would be
+
+4
+
+"confidentiality" or "secrecy."
+
+When corporations or other entities are at
+
+Those concepts -­
+
+CHIEF JUSTICE ROBERTS:
+
+5
+
+You don't have
+
+6
+
+confidential property or secret property.
+
+7
+
+private property.
+MR. YANG:
+
+8
+9
+
+privacy.
+
+Well, true.
+
+You have
+
+But it's is not
+
+When we're talking about the right of privacy,
+
+10
+
+those -- that word we think -- again going back to
+
+11
+
+Warren and Brandeis and up through the fifties and
+
+12
+
+sixties when Prosser was elaborating the law of torts in
+
+13
+
+his groundbreaking article on privacy, those concepts
+
+14
+
+apply only to individuals, and particularly when you
+
+15
+
+combine the terms.
+I mean, the Restatement makes clear, and
+
+16
+17
+
+back to Prosser it was clear, that corporations have no
+
+18
+
+right of personal privacy.
+
+19
+
+enacting Exemption 7(C), there would have been no basis
+
+20
+
+for it to conclude that the rights that it was
+
+21
+
+conferring through the phrase "personal privacy" would
+
+22
+
+confer rights not -- beyond individuals, to
+
+23
+
+corporations, and by necessarily implication, if AT&T is
+
+24
+
+correct, foreign governments, State governments, local
+
+25
+
+governments.
+
+So when Congress in 1974 was
+
+There's no predicate for those types of
+10
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+entities having personal privacy in the law.
+
+2
+
+JUSTICE GINSBURG:
+
+3
+
+JUSTICE SCALIA:
+
+Mr. Yang -­
+Our cases assert, do they
+
+4
+
+not, that the exceptions to FOIA should be narrowly
+
+5
+
+construed?
+
+6
+
+MR. YANG:
+
+7
+
+JUSTICE SCALIA:
+
+8
+
+There are cases -­
+And we've said that on a
+
+number of cases.
+MR. YANG:
+
+9
+
+In certain contexts, this Court
+
+10
+
+has indicated that exceptions are to be narrowly
+
+11
+
+construed.
+
+12
+
+cases and other cases of this Court explain that FOIA's
+
+13
+
+exemptions are to be given meaningful reach, because
+
+14
+
+what Congress was trying to do in FOIA -- and this is
+
+15
+
+somewhat against our interest in this case, and we
+
+16
+
+explain it more fully in our brief in Milner, which is
+
+17
+
+currently pending to the Court -- what Congress was
+
+18
+
+trying to do in FOIA was to establish a general
+
+19
+
+principle of disclosure, but in the exemptions it
+
+20
+
+identified very important interests that warranted an
+
+21
+
+exception from those general rules.
+
+22
+
+construe the exception, we think, would distort rather
+
+23
+
+than advance congressional purpose in enacting FOIA.
+
+24
+25
+
+We think that, when read in context, those
+
+JUSTICE ALITO:
+
+And to narrowly
+
+Suppose Congress had used
+
+the phrase "privacy of a person," "privacy of any
+11
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+person."
+
+Would you make the same argument?
+MR. YANG:
+
+2
+
+Our argument would be a little
+
+3
+
+different, particularly in the context of Exemptions 6
+
+4
+
+and 7(C), where the phrase would be "an invasion of
+
+5
+
+privacy of any person."
+
+6
+
+We think, particularly when we're talking
+
+7
+
+about invasions of privacy, even though a corporation
+
+8
+
+might have a broader definitional meaning in context,
+
+9
+
+Congress in that case would still, we think, be
+
+10
+
+referring to individuals.
+
+But, of course, that's not
+
+11
+
+this case.
+
+That would make it a little bit more
+
+12
+
+difficult.
+
+We think we would probably still prevail on
+
+13
+
+that reading.
+
+But -­
+
+JUSTICE GINSBURG:
+
+14
+15
+
+Act?
+
+16
+
+human individuals -­
+
+The Privacy Act undoubtedly concerns individuals,
+
+17
+
+MR. YANG:
+
+18
+
+JUSTICE GINSBURG:
+
+19
+
+What about the Privacy
+
+Correct.
+-- not artificial beings.
+
+But it uses the words "individual privacy" -­
+MR. YANG:
+
+20
+
+Well, it actually uses both
+
+21
+
+phrases.
+
+It uses, as we explain in our brief, the
+
+22
+
+phrase "personal privacy" to explain that that's what
+
+23
+
+the Act was protecting.
+
+24
+
+portions of the Act, it uses "individual," but it does
+
+25
+
+so for a very specific reason.
+
+And then within the operative
+
+Congress was intending
+
+12
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+to protect a subset of individuals, and it defined the
+
+2
+
+term "individual" to mean U.S. citizens and lawful
+
+3
+
+permanent residents.
+So not all individuals would be protected by
+
+4
+5
+
+the Privacy Act.
+
+Now, Congress did that, not because
+
+6
+
+had it used the phrase "personal privacy" it would have
+
+7
+
+been extending rights to corporations and foreign
+
+8
+
+governments, but because personal privacy would have
+
+9
+
+been too broad in that it would have -- even though it
+
+10
+
+would have been limited to individuals, it would have
+
+11
+
+included a set of individuals that Congress wanted to
+
+12
+
+exclude, that is, everybody who is not a U.S. citizen or
+
+13
+
+lawful permanent resident.
+JUSTICE SOTOMAYOR:
+
+14
+
+Can I ask you a
+
+15
+
+question?
+
+16
+
+Justice Scalia.
+
+17
+
+given two meanings, and it's not clear -- and I know
+
+18
+
+you're challenging the clarity question here -- I
+
+19
+
+thought that Congress's intent to have full disclosure
+
+20
+
+would necessarily mean that where there's ambiguity as
+
+21
+
+to the meaning of an exception, then we should change
+
+22
+
+the narrowest meaning.
+
+23
+
+I'm not sure I understood your response to
+If there is ambiguity, if a term can be
+
+MR. YANG:
+
+Well, I think we disagree, and I
+
+24
+
+think this is why:
+
+No legislation pursues its primary
+
+25
+
+goal at all costs, and the FOIA exceptions that are at
+13
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+issue here protect very important values that Congress
+
+2
+
+deemed to warrant exceptions from the rule.
+
+3
+
+the Court were to put a thumb on one scale of that
+
+4
+
+balance that Congress has tried to strike, after using
+
+5
+
+all the normal tools of construction, we think that
+
+6
+
+would distort rather than advance the intent of
+
+7
+
+Congress.
+
+8
+
+JUSTICE SCALIA:
+
+9
+
+We're not putting a thumb on the scale.
+
+And so if
+
+I don't understand that.
+Taking account
+
+10
+
+of the fact that -- that Congress has many objectives in
+
+11
+
+any legislation and that the limitations are as
+
+12
+
+important as the -- the substantive end, nonetheless,
+
+13
+
+when, having applied all of that, you end up with, gee,
+
+14
+
+I don't know, it's ambiguous -- you say, even in that
+
+15
+
+situation, we don't apply the rule that -­
+MR. YANG:
+
+16
+
+Well, if you were to -- after
+
+17
+
+using all the normal tools that the Court does and
+
+18
+
+you're -­
+
+19
+20
+21
+
+JUSTICE SCALIA:
+ambiguity means.
+
+Well, but that's what
+
+It does -- it means -­
+
+MR. YANG:
+
+That's usually a very rare
+
+22
+
+instance, that you're exactly at equipoise.
+
+23
+
+we certainly aren't relying on narrow construction in
+
+24
+
+this case, Justice Scalia.
+
+25
+
+JUSTICE SCALIA:
+
+Okay.
+
+14
+Alderson Reporting Company
+
+And -- and
+
+The Government wants
+
+Official - Subject to Final Review
+
+1
+
+to abandon the principle that we've set forth in our
+
+2
+
+cases -­
+
+3
+
+MR. YANG:
+
+Well, we think -­
+
+4
+
+JUSTICE SCALIA:
+
+5
+
+are to be narrowly construed.
+
+6
+
+support that.
+
+7
+
+MR. YANG:
+
+8
+
+JUSTICE GINSBURG:
+
+9
+
+JUSTICE SCALIA:
+
+10
+11
+
+-- that exceptions to FOIA
+The Government does not
+
+We do not embrace that principle.
+Mr. Yang -­
+Even though we did?
+
+I
+
+mean -­
+MR. YANG:
+
+Well, we think that those
+
+12
+
+cases -- there are -- there are two lines of this
+
+13
+
+Court's decisions.
+
+14
+
+exceptions are narrowly construed, and sometimes the
+
+15
+
+Court explained that its decision has given -- its
+
+16
+
+decisions have given the exceptions practical reach in
+
+17
+
+order to strike the appropriate balance that Congress
+
+18
+
+has tried to strike in FOIA.
+
+19
+
+Sometimes the Court explains that
+
+Now, let me just say, our narrow
+
+20
+
+construction, to the extent the Court would want to
+
+21
+
+reaffirm it here -- we're not advancing that -- would
+
+22
+
+only help the Government's position.
+
+23
+
+JUSTICE GINSBURG:
+
+Your argument is based on
+
+24
+
+a case that will come before us.
+
+So -- but in this
+
+25
+
+case, it's to your interest to say, yes, that has been
+15
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+-- that has been the Court's precedent, that FOIA
+
+2
+
+exceptions are to be narrowly construed.
+MR. YANG:
+
+3
+
+Well, the Government has broader
+
+4
+
+interests beyond a single case, and we think that,
+
+5
+
+again, we're not embracing strict construction in this
+
+6
+
+case.
+
+7
+
+position if you were to disagree.
+JUSTICE SCALIA:
+
+8
+9
+10
+
+But, again, that would only help the Government's
+
+the Government's position if the Government doesn't want
+to be helped.
+
+11
+
+(Laughter.)
+
+12
+
+JUSTICE SCALIA:
+
+13
+
+Well, I'm not going to help
+
+I'm happy to leave you
+
+where you put yourself.
+MR. YANG:
+
+14
+
+And we -- we accept that in this
+
+15
+
+case, and we think that the language of the text,
+
+16
+
+particularly when read in context in light of the
+
+17
+
+statutory history, and particularly when you take a look
+
+18
+
+at what's gone on since 1974 -- I mean, in the more than
+
+19
+
+35 years since, there has been uniform agreement that
+
+20
+
+Exemptions 6 and 7(C) apply only to individuals.
+CHIEF JUSTICE ROBERTS:
+
+21
+
+I suppose -- I
+
+22
+
+suppose families have rights of personal privacy, don't
+
+23
+
+they?
+
+24
+25
+
+MR. YANG:
+
+Well, in certain contexts, family
+
+members, as this Court decided in Favish, can have a
+16
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+right to personal privacy.
+
+2
+
+recognized that that was a very, you know, significant
+
+3
+
+departure from the prior understanding that the right of
+
+4
+
+personal privacy in FOIA protects information about the
+
+5
+
+individual, him- or herself, and recognized that there
+
+6
+
+was another strain of personal privacy, which from
+
+7
+
+longstanding tradition in terms of -- within our
+
+8
+
+society, the Court could draw on in saying that personal
+
+9
+
+privacy should also protect, at least in the context
+
+10
+
+But the Court in Favish
+
+of -­
+CHIEF JUSTICE ROBERTS:
+
+11
+
+So in some
+
+12
+
+contexts -- in some contexts, personal privacy does go
+
+13
+
+beyond the individual?
+MR. YANG:
+
+14
+15
+
+18
+
+I
+
+mean, those are individual members of the family.
+CHIEF JUSTICE ROBERTS:
+
+16
+17
+
+No, still it is individual.
+
+Aggregations of
+
+individuals?
+MR. YANG:
+
+Well, no.
+
+I think an individual
+
+19
+
+member of the family has a personal privacy interest by
+
+20
+
+virtue of the relationship to the decedent in Favish.
+
+21
+22
+23
+
+Let me go back.
+
+Just -- I think I would be
+
+remiss if I didn't remark upon this Court's decision -­
+JUSTICE SCALIA:
+
+Excuse me.
+
+To go back to
+
+24
+
+the Chief's question, you do not deny that the
+
+25
+
+individuals who form the corporation, the officers and
+17
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+the employees, are protected by the right of personal
+
+2
+
+privacy, and, indeed, you will -- you will edit any FOIA
+
+3
+
+responses to protect those individuals, even though
+
+4
+
+there are many of them, right?
+
+5
+
+MR. YANG:
+
+6
+
+JUSTICE SCALIA:
+
+7
+8
+9
+10
+
+Correct.
+
+If there were -­
+
+But as individuals, not as
+
+-- not as the corporation.
+MR. YANG:
+
+As individuals, because the
+
+information pertains to them.
+Now, going to the American Express case,
+
+11
+
+which we explain in our reply, I think that is fatal to
+
+12
+
+the proposition that -- the proposition of AT&T that
+
+13
+
+there's a grammatical imperative that adjectives take
+
+14
+
+the meaning of a related noun.
+
+15
+
+In American Express, the Court construed the
+
+16
+
+Truth in Lending Act, which includes the definition of
+
+17
+
+"person" to include, for instance, corporations.
+
+18
+
+then went on to construe a term, "consumer," which
+
+19
+
+concerns transactions primarily for personal, family,
+
+20
+
+household, or, at the time, agricultural purposes.
+
+21
+
+Court explained that a transaction -- the transaction
+
+22
+
+that was conducted for a corporation's business
+
+23
+
+purposes, that it could not -- there was -- "it did not
+
+24
+
+fall within any of the purposes specified" -- that was a
+
+25
+
+quote -- in the definition of "consumer."
+18
+Alderson Reporting Company
+
+It
+
+The
+
+That is, it
+
+Official - Subject to Final Review
+
+1
+
+did not concern personal purposes.
+
+2
+
+fatal.
+
+We think that's
+
+The Court, in fact, said it was the only
+
+3
+4
+
+possible conclusion and that there was no other possible
+
+5
+
+interpretation of the statutory phrase, after repeating
+
+6
+
+the enumeration of those four factors three times and
+
+7
+
+then on the very next page saying corporate -- a
+
+8
+
+transaction for corporate business purposes could not
+
+9
+
+be fit within that definition.
+Finally, I'd like to remark upon the
+
+10
+11
+
+anomalies that this Court would set us forth upon if it
+
+12
+
+were to decide that corporations have personal privacy.
+At least in the context of individuals,
+
+13
+14
+
+there's an established body of law and societal
+
+15
+
+understanding of what a person, an individual, might
+
+16
+
+have a personal privacy interest in.
+
+17
+
+personal to include corporations, foreign governments,
+
+18
+
+State governments, local governments, defining what
+
+19
+
+would be personal privacy of those institutions would
+
+20
+
+require an extraordinary exercise, a simple policy
+
+21
+
+judgment on the part of the agencies first and then the
+
+22
+
+Court.
+
+23
+
+But if we expand
+
+And this Court in Favish was careful to
+
+24
+
+explain that that type of decision making would be
+
+25
+
+improper in that appropriate guides to -- to limit and
+19
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+make objective a court and agency's decision making is
+
+2
+
+required.
+Congress provided no benchmarks, never
+
+3
+4
+
+addressed corporate, foreign governments, or any other
+
+5
+
+non-human entity in the context of personal privacy.
+And, again, for 36 years, there's been
+
+6
+7
+
+uniform agreement that personal privacy applies in this
+
+8
+
+context only to corporations.
+If there are no further questions -­
+
+9
+
+JUSTICE SOTOMAYOR:
+
+10
+
+Counsel, if an
+
+11
+
+individual has been -- individual human being has been
+
+12
+
+investigated by the FBI and a FOIA request is made for
+
+13
+
+records related to that investigation, would the name of
+
+14
+
+the individual not be turned over?
+MR. YANG:
+
+15
+16
+
+Well, if someone is asking for an
+
+investigation of Tony Yang -­
+
+17
+
+JUSTICE SOTOMAYOR:
+
+18
+
+MR. YANG:
+
+Yes.
+
+-- our -- I don't -- I can't say
+
+19
+
+definitively, but I think I can probably answer that
+
+20
+
+that even -- even answering the question of whether
+
+21
+
+there is a responsive record answers the question.
+
+22
+
+I -­
+
+23
+
+JUSTICE SOTOMAYOR:
+
+So
+
+Well, that's the point.
+
+24
+
+So really your adversary is saying that the same harm
+
+25
+
+that occurs to an individual -- putting aside the
+20
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+difficulty of defining privacy more broadly, but the
+
+2
+
+same harm that occurs to an individual who is disclosed
+
+3
+
+to have been the target of an investigation is an
+
+4
+
+identical privacy right of a corporation, that a
+
+5
+
+corporation has the same negative effects as the
+
+6
+
+individual.
+
+7
+
+MR. YANG:
+
+8
+
+JUSTICE SOTOMAYOR:
+
+9
+
+I think -­
+
+concede that privacy might need to be defined
+
+10
+
+differently for corporations.
+
+11
+
+this privacy interest is not.
+
+12
+
+So I think they would
+
+MR. YANG:
+
+They're simply saying
+
+Well, the key point is that we
+
+13
+
+don't deny that corporations have some interest in
+
+14
+
+confidentiality that exists out there.
+
+15
+
+AT&T has relied upon the common law of defamation where
+
+16
+
+a corporation's business interests, business reputation,
+
+17
+
+is implicated.
+
+18
+
+But even -­
+
+JUSTICE SOTOMAYOR:
+
+19
+
+pled guilty already.
+
+20
+
+exponentially more damaging -­
+
+21
+
+For instance,
+
+MR. YANG:
+
+Well, parts of -- they
+
+So it is hard to imagine how much
+
+Well, to be fair to AT&T, there
+
+22
+
+was a settlement agreement in which they did not admit
+
+23
+
+any wrongdoing.
+
+24
+25
+
+So -­
+
+JUSTICE SOTOMAYOR:
+some sort of investigation.
+
+But that presupposes
+
+So that's public knowledge
+
+21
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+already.
+MR. YANG:
+
+2
+
+That is public knowledge.
+
+But I
+
+3
+
+think the key point is that the corporate -- a
+
+4
+
+corporation's interests in maintaining its business
+
+5
+
+reputation has been not regarded as a personal privacy
+
+6
+
+interest.
+
+7
+
+protects those interests, for instance, interests in
+
+8
+
+confidential commercial or financial information under
+
+9
+
+Exemption 4.
+
+It's true that they have interests, and FOIA
+
+10
+
+And so what really the -- we come back to
+
+11
+
+the key point, which is when Congress used the phrase
+
+12
+
+"personal privacy," it would have had no reason in 1974,
+
+13
+
+or even now, to think that term would have referred to
+
+14
+
+corporations.
+
+15
+
+interests and other rights that might be legitimate is
+
+16
+
+kind of beside the point because those interests are not
+
+17
+
+referred to in the law or otherwise as personal privacy
+
+18
+
+interests.
+
+The fact that corporations have other
+
+19
+
+I'd like to reserve the balance of my time.
+
+20
+
+CHIEF JUSTICE ROBERTS:
+
+21
+
+MR. YANG:
+
+22
+
+CHIEF JUSTICE ROBERTS:
+
+Thank you, Mr. Yang.
+
+Thank you.
+Mr. Klineberg.
+
+23
+
+ORAL ARGUMENT OF GEOFFREY M. KLINEBERG
+
+24
+
+ON BEHALF OF THE RESPONDENTS
+
+25
+
+MR. KLINEBERG:
+
+Thank you,
+
+22
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+Mr. Chief Justice, and may it please the Court:
+The question in this case is whether any
+
+2
+3
+
+organization, including not only business corporations
+
+4
+
+like AT&T but also nonprofit organizations and political
+
+5
+
+associations, should be categorically excluded from
+
+6
+
+protection under Exemption 7(C), such that this
+
+7
+
+exemption will now offer less protection for privacy
+
+8
+
+interests than the Constitution and the common law.
+This Court has consistently held that the
+
+9
+10
+
+privacy protections under FOIA are broader.
+
+11
+
+text supports that position.
+JUSTICE GINSBURG:
+
+12
+
+And the
+
+Do you include in this
+
+13
+
+the people, the persons that you say are shielded by
+
+14
+
+this privacy exemption, as Mr. Yang said, foreign
+
+15
+
+governments, State and local governments?
+
+16
+
+all -- those all fall under the APA definition of
+
+17
+
+person.
+
+18
+
+MR. KLINEBERG:
+
+Those have
+
+Justice Ginsburg, they do.
+
+19
+
+And we would agree that, as a matter of statutory
+
+20
+
+construction, the concept of personal privacy does apply
+
+21
+
+to those -- those other categories of actors.
+
+22
+
+whether once that privacy interest is balanced against
+
+23
+
+the public's interest in disclosure, that balance may
+
+24
+
+well be different with respect to public or foreign
+
+25
+
+entities, but -- but certainly they -- they have a right
+23
+Alderson Reporting Company
+
+Now,
+
+Official - Subject to Final Review
+
+1
+
+to personal privacy under the terms of the statute.
+JUSTICE GINSBURG:
+
+2
+
+Can you give us an idea
+
+3
+
+of -- the corporation has been shielded by Exemption 4
+
+4
+
+for its confidential financial information, trade
+
+5
+
+secrets; and its employees have been protected under
+
+6
+
+Exemption 7.
+What is it, what would be -- would fall
+
+7
+8
+
+within this privacy exception that would not be
+
+9
+
+confidential business information or relate to employees
+
+10
+
+of the corporation?
+MR. KLINEBERG:
+
+11
+
+Justice Ginsburg, we -- I
+
+12
+
+could give you two categories or kinds of examples.
+
+13
+
+is, for example, a series of e-mails among corporate
+
+14
+
+officers -- granted, whose own personal names and
+
+15
+
+identifying information have been redacted, but in those
+
+16
+
+e-mails, they may engage in a frank exchange about the
+
+17
+
+competence and intelligence of a would-be regulator of
+
+18
+
+the corporation or a -- disparaging comments about
+
+19
+
+potential -­
+
+20
+
+JUSTICE SCALIA:
+
+Excuse me.
+
+One
+
+Why does that
+
+21
+
+relate to their privacy?
+
+22
+
+does that relate to the corporation's privacy interest?
+
+23
+
+Anything that would embarrass the corporation is -- is a
+
+24
+
+privacy interest?
+
+25
+
+I don't understand that.
+
+MR. KLINEBERG:
+
+Why
+
+Well, Justice Scalia, the -­
+
+24
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+the answer is simply that these were communications,
+
+2
+
+conversations, that were occurring with an expectation
+
+3
+
+of privacy by the individuals involved on behalf of
+
+4
+
+their employer, and to the extent that they could be
+
+5
+
+used to harm the reputation or the customer goodwill of
+
+6
+
+-- of the company, they do, indeed, have a -- a personal
+
+7
+
+privacy interest in -­
+
+8
+9
+10
+
+JUSTICE SCALIA:
+
+Anything that hurts the -­
+
+the -- the image or the goodwill of the company?
+MR. KLINEBERG:
+
+Your Honor, everything that
+
+11
+
+with -- that is intended to be private is certainly
+
+12
+
+subject to the balancing that we're asking for under
+
+13
+
+Exemption 7(C); indeed, that Congress provided, that if
+
+14
+
+it's -- it's an interest in personal privacy, then it is
+
+15
+
+to be balanced to determine whether the disclosure of
+
+16
+
+that document is unwarranted.
+
+17
+
+JUSTICE SCALIA:
+
+Mr. Klineberg, can you give
+
+18
+
+me any example of -- your -- your brief talks a lot
+
+19
+
+about the adjective "personal."
+
+20
+
+just about the adjective "personal."
+
+21
+
+phrase "personal privacy"?
+
+22
+
+But we're not talking
+What about the
+
+"Personal," yes, can indeed apply to
+
+23
+
+corporations sometimes, but there are certain phrases
+
+24
+
+where it clearly does not.
+
+25
+
+personal characteristics.
+
+For example, you talk about
+That doesn't mean the
+
+25
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+characteristics of General Motors.
+
+2
+
+personal qualities.
+
+3
+
+General Motors.
+
+4
+
+privilege.
+
+You talk about
+
+It doesn't mean the qualities of
+
+You talk about a point of personal
+
+It's not a privilege of a corporation.
+And I think personal privacy is the same
+
+5
+6
+
+thing.
+
+Can you give me any examples in common usage
+
+7
+
+where people would refer to the personal privacy of a -­
+
+8
+
+of a corporation?
+
+It's a very strange phrase to me.
+
+MR. KLINEBERG:
+
+9
+
+Well, Your Honor, as
+
+10
+
+Justice Alito asked my -- my colleague earlier, the -­
+
+11
+
+the whole concept of -- of "person" as including a
+
+12
+
+corporation would surprise many people, the proverbial
+
+13
+
+person on the street.
+JUSTICE SCALIA:
+
+14
+
+Yes.
+
+I'm not talking about
+
+15
+
+that.
+
+I'll grant you that -- that "personal" could
+
+16
+
+sometimes refer to a corporation, although the
+
+17
+
+Government distinguishes it by etymology and so forth.
+
+18
+
+Never mind that.
+
+19
+
+Do you have any examples from the New York Times, from,
+
+20
+
+you know, Boswell, from anywhere, that anybody refers to
+
+21
+
+the interests of a corporation as the "personal privacy"
+
+22
+
+of General Motors?
+I cannot imagine somebody using the phrase
+
+23
+24
+25
+
+I'm talking about personal privacy.
+
+like that.
+MR. KLINEBERG:
+
+Your Honor, we're not aware
+
+26
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+of that phrase being used certainly in any statutory
+
+2
+
+context -­
+JUSTICE GINSBURG:
+
+3
+
+But you were about to
+
+4
+
+give a second example of where, even though it hasn't -­
+
+5
+
+personal privacy hasn't been used in -- but you said one
+
+6
+
+example is the two officials who are saying unpleasant
+
+7
+
+things about a regulator.
+
+8
+
+example?
+
+9
+
+And what was your other
+
+MR. KLINEBERG:
+
+Well, there's a -- there's a
+
+10
+
+sub-example within that category which is the
+
+11
+
+disparaging of an important customer, some unpleasant
+
+12
+
+comments about an important customer of the corporation
+
+13
+
+that could then be used quite -- quite clearly by a -­
+
+14
+
+by a competitor to -- to harm the goodwill of the -- of
+
+15
+
+the corporation with respect to that customer.
+
+16
+
+But there is indeed another whole category
+
+17
+
+of documents that goes beyond the -- the context of
+
+18
+
+AT&T's interest here, and the example is internal
+
+19
+
+documents within, say, an environmental nonprofit
+
+20
+
+organization talking about their political strategies
+
+21
+
+for defeating an amendment to the Clean Air Act.
+
+22
+
+As an example, those political strategies
+
+23
+
+that were shared internally by -- by members of the
+
+24
+
+organization without any intent to -- to have them
+
+25
+
+become public would become subject to -- to automatic
+27
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+disclosures, categorical disclosure, were the Government
+
+2
+
+to prevail in this case.
+
+3
+
+CHIEF JUSTICE ROBERTS:
+
+Do you think it's -­
+
+4
+
+how does that work?
+
+5
+
+environmental organization says something about whatever
+
+6
+
+it is -- we can lobby this guy to get this change -- is
+
+7
+
+he able to protect that on the grounds of his personal
+
+8
+
+privacy, even though the embarrassment would go to the
+
+9
+
+-- the organization as a whole?
+
+10
+
+If you have -- the president of the
+
+MR. KLINEBERG:
+
+Mr. Chief Justice, I believe
+
+11
+
+the answer is in most cases "yes," that in -- that the
+
+12
+
+identity of the -- the specific speaker and any
+
+13
+
+identifying information corresponding to him or her
+
+14
+
+would be protected.
+
+15
+
+CHIEF JUSTICE ROBERTS:
+
+Well, why is it such
+
+16
+
+a big deal, then, to extend that to the organization as
+
+17
+
+a whole, if the individual's privacy is already going to
+
+18
+
+be protected?
+
+19
+
+MR. KLINEBERG:
+
+Indeed, Your Honor, I think
+
+20
+
+that is -- that is our position, that -- that the
+
+21
+
+personal privacy of the corporation is -- is affected by
+
+22
+
+such disclosure.
+
+23
+
+CHIEF JUSTICE ROBERTS:
+
+No.
+
+I mean
+
+24
+
+you're -- you're already protected, at least to a
+
+25
+
+significant extent, because the individual officers
+28
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+would be able to assert a privacy interest, to the
+
+2
+
+extent at least that what you find embarrassing to -- to
+
+3
+
+the corporation is also individually embarrassing to
+
+4
+
+them.
+MR. KLINEBERG:
+
+5
+
+Right.
+
+But the -- but the
+
+6
+
+redactions that would occur would in all likelihood
+
+7
+
+simply be redactions of their names and perhaps their
+
+8
+
+titles, but their -- the substance of their comments
+
+9
+
+would certainly be -- would be disclosed under the
+
+10
+
+Government's view.
+JUSTICE BREYER:
+
+11
+
+Are there any examples that
+
+12
+
+you have?
+
+13
+
+any instance where the Justice Department or some other
+
+14
+
+law enforcement agency compiled a file for law
+
+15
+
+enforcement purposes, that in that file there were, for
+
+16
+
+whatever reasons, a bunch of conversations about the
+
+17
+
+organization's strategy, and it did not interfere to
+
+18
+
+release it with -- with anybody's personal privacy, but
+
+19
+
+it might interfere with that organization's strategy,
+
+20
+
+and so the organization, whatever it was, the NRDC or
+
+21
+
+something, was very upset about it?
+Did you find a single example or a thousand
+
+22
+23
+
+examples?
+
+24
+
+happening?
+
+25
+
+That is, in the last 35 years, has there been
+
+Or how many examples did you find of that
+
+MR. KLINEBERG:
+
+Well, Justice Breyer, one of
+
+29
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+the -- one of the things that has puzzled us in this
+
+2
+
+case is why -- why it has taken 35 years -­
+JUSTICE BREYER:
+
+3
+
+Well, one reason might be
+
+4
+
+that this has really never been a problem because all
+
+5
+
+the legitimate -- or most of them, anyway -- that these
+
+6
+
+organizations that have interests in privacy are
+
+7
+
+actually taken care of by the other 17 exemptions here.
+JUSTICE SCALIA:
+
+8
+9
+10
+
+Another reason might be
+
+that personal -- nobody ever thought that personal
+privacy would cover this.
+JUSTICE BREYER:
+
+11
+
+This may be the first one.
+
+12
+
+That's why I want to know, is there -- one of the things
+
+13
+
+you would have looked for is an example of a real
+
+14
+
+problem of the kind you're talking about.
+
+15
+
+saying you don't have one.
+
+16
+
+you found any, and what they are, so I could read them.
+MR. KLINEBERG:
+
+17
+
+I'm not
+
+I would just like to know if
+
+Your Honor, we haven't found
+
+18
+
+anything specific to the -- in response to your
+
+19
+
+question.
+
+20
+
+But I -- I will say that one of the
+
+21
+
+explanations for why this issue has become more
+
+22
+
+important today than maybe it has been in recent past -­
+
+23
+
+there really are three reasons.
+
+24
+
+4, which Mr. Yang discussed, has been increasingly
+
+25
+
+narrowed by the courts of appeals to the point where
+
+One is that Exemption
+
+30
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+they specifically say, and, indeed, the Government
+
+2
+
+concedes, that -- that the reputational concerns and the
+
+3
+
+harm to customer goodwill is not the sort of harm that
+
+4
+
+Exemption 4 guards against.
+And so that has become increasingly clear
+
+5
+6
+
+among the courts of appeals, that the interests in
+
+7
+
+confidentiality that we're talking about under exception
+
+8
+
+7(C) are not -­
+JUSTICE BREYER:
+
+9
+
+I mean, one possible reason
+
+10
+
+you don't find them is because it's very rare that a law
+
+11
+
+enforcement agency is going to try to subpoena the top
+
+12
+
+strategy of the -- of the NRDC, confidential strategy.
+
+13
+
+There might not be too many such records.
+It -- another reason might be is that they
+
+14
+15
+
+don't really care.
+
+16
+
+know.
+
+Another reason might be -- I don't
+
+But if you haven't found any examples, what
+
+17
+18
+
+we're back to -- or -- and maybe there are actual
+
+19
+
+examples of that -- of what you said to Justice Ginsburg
+
+20
+
+of the other instance, where the -- what was that first
+
+21
+
+one?
+
+22
+
+MR. KLINEBERG:
+
+23
+
+JUSTICE BREYER:
+
+24
+25
+
+example.
+
+Right.
+I'd like to know about the
+
+What was the first one again?
+MR. KLINEBERG:
+
+Well, the -- the first one
+
+31
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+was comments -- comments about a regulator or -­
+JUSTICE BREYER:
+
+2
+
+They're worried about
+
+3
+
+saying something mean about a regulator.
+
+4
+
+fine.
+
+5
+
+one, and what's the empirical state?
+
+Are there examples of that?
+
+Okay.
+
+Yes,
+
+Is this the first
+
+6
+
+MR. KLINEBERG:
+
+Your Honor, it's a -- I
+
+7
+
+cannot point you to specific examples.
+
+8
+
+they're sort of hard to -- hard to find in the -- in the
+
+9
+
+sense that they are -- that they're not typically
+
+They're -­
+
+10
+
+litigated, and they certainly haven't been litigated
+
+11
+
+under -- under this -- under this exemption before.
+But -- but I think the other explanation for
+
+12
+13
+
+why this matters today in a way that it might not have
+
+14
+
+mattered so much before, two -- two other reasons:
+
+15
+
+is that -- that increasingly, FOIA is being used by -­
+
+16
+
+by competitors and legal adversaries to obtain
+
+17
+
+information, not about what the government is doing, not
+
+18
+
+about what the government is up to, but about what
+
+19
+
+evidence the government might have gathered from private
+
+20
+
+parties.
+JUSTICE GINSBURG:
+
+21
+
+One
+
+Is that a reason to
+
+22
+
+change what was the understanding of Exemption 7?
+
+23
+
+of the items that doesn't work in your favor was the
+
+24
+
+Attorney General's memorandum at the time of the '74
+
+25
+
+amendments.
+32
+Alderson Reporting Company
+
+One
+
+Official - Subject to Final Review
+
+1
+
+MR. KLINEBERG:
+
+Well, actually, Justice
+
+2
+
+Ginsburg, at the time of the '74 amendments the only
+
+3
+
+existing Attorney General memorandum was that of
+
+4
+
+Attorney General Clark, which read "personal privacy" -­
+JUSTICE GINSBURG:
+
+5
+6
+
+I'm talking about the --
+
+Attorney General Levi.
+MR. KLINEBERG:
+
+7
+
+Right, and that -- that was
+
+8
+
+issued subsequent to the amendments in 1974, and that
+
+9
+
+was an -- an interpretive gloss on the recent
+
+10
+
+amendments.
+
+11
+
+JUSTICE GINSBURG:
+
+12
+
+MR. KLINEBERG:
+
+Yes, that's what I meant.
+
+Right.
+
+And so at the time
+
+13
+
+that Congress enacted the amendments, both under the
+
+14
+
+Privacy Act as well as Exemption 7(C), the -- the only
+
+15
+
+existing statement about what personal privacy might
+
+16
+
+mean would be -- would have been Attorney General
+
+17
+
+Clark's understanding that personal privacy can in fact
+
+18
+
+incorporate interests of corporations.
+
+19
+
+JUSTICE SCALIA:
+
+But if Attorney General
+
+20
+
+Levi's description, which was -- which was issued for
+
+21
+
+the purpose of telling all the agencies of the Federal
+
+22
+
+Government what this new statute meant -- and it had a
+
+23
+
+lot of ambiguities in it -- if that was wrong about -­
+
+24
+
+about this subject, you'd have thought somebody would
+
+25
+
+have objected.
+33
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+I mean, did some members of Congress who -­
+
+2
+
+who had passed FOIA say this is outrageous; what about
+
+3
+
+the personal privacy of General Motors?
+
+4
+
+of any objections along those lines.
+MR. KLINEBERG:
+
+5
+
+I'm not aware
+
+Well, Your Honor, the --
+
+6
+
+Attorney General Levi's memorandum did not go into a
+
+7
+
+long discussion or description of the -- of the
+
+8
+
+analysis.
+
+9
+
+seem to apply to -- to corporations.
+
+It simply said it does not appear or does not
+And it's
+
+10
+
+absolutely true.
+
+11
+
+hasn't -- hasn't really been litigated and presented.
+
+12
+
+There -- this is not -- this issue
+
+But our position is that there is nothing in
+
+13
+
+the plain language that would indicate that Congress
+
+14
+
+intended to categorically exclude corporations.
+
+15
+
+certainly true that the legislative history at the time,
+
+16
+
+as the Government spends quite a bit of time exploring,
+
+17
+
+does suggest that what was -- what was in most people's
+
+18
+
+minds was protection of individual privacy.
+
+19
+
+is no indication that they intended to exclude -­
+
+20
+
+JUSTICE SCALIA:
+
+It is
+
+But there
+
+Is it the burden of the
+
+21
+
+Government to show that they intended to exclude
+
+22
+
+corporations, or is it your burden to show that this
+
+23
+
+exception was meant to include corporations?
+
+24
+
+think the latter is where the burden lies in this case.
+
+25
+
+MR. KLINEBERG:
+
+I would
+
+Well, Justice Scalia, our -­
+
+34
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+our burden is to -- is to defend our view of the
+
+2
+
+statute.
+JUSTICE SCALIA:
+
+3
+
+Well, but if you're asking
+
+4
+
+the Government to show that the -- there was an intent
+
+5
+
+to exclude corporations, I don't think that's their
+
+6
+
+burden.
+
+7
+
+exemption was intended to include corporations.
+
+I think it's your burden to show that this
+
+MR. KLINEBERG:
+
+8
+
+I agree, Your Honor, that we
+
+9
+
+are -- our burden is to demonstrate to you why the words
+
+10
+
+"personal privacy" in the statute apply to corporations.
+
+11
+
+I think one of the background facts is that there is no
+
+12
+
+indication that anyone thought that it was not to be
+
+13
+
+included.
+
+But let me -­
+CHIEF JUSTICE ROBERTS:
+
+14
+
+Counsel, your
+
+15
+
+central argument is that because "person" is defined to
+
+16
+
+include corporation, "personal" in the same statute must
+
+17
+
+include corporate.
+I tried to sit down and come up with other
+
+18
+19
+
+examples where the adjective was very different from the
+
+20
+
+root noun.
+
+21
+
+have "craft" and "crafty."
+
+22
+
+doesn't have much to do with "craft."
+
+23
+
+"squirrelly."
+
+And it turns out it's not hard at all.
+Totally different.
+
+You
+
+"Crafty"
+
+"Squirrel,"
+
+Right?
+
+24
+
+(Laughter.)
+
+25
+
+CHIEF JUSTICE ROBERTS:
+35
+Alderson Reporting Company
+
+I mean, "pastor" -­
+
+Official - Subject to Final Review
+
+1
+
+you have a "pastor" and "pastoral."
+
+2
+
+different.
+
+3
+
+Same root, totally
+
+So I don't understand -- I don't think
+
+4
+
+there's much to the argument that because "person" means
+
+5
+
+one thing, "personal" has to be the same relation.
+
+6
+
+MR. KLINEBERG:
+
+Mr. Chief Justice, let me
+
+7
+
+try to explain precisely what our proposed rule of
+
+8
+
+construction is, because I think there's been some
+
+9
+
+confusion, and I -- and I think the Government has -­
+
+10
+
+has not properly characterized it, and certainly in
+
+11
+
+their reply brief.
+
+12
+
+We do not agree -- or we do not sign on to
+
+13
+
+the term "grammatical imperative," because our concern
+
+14
+
+with that phrase is that it might suggest that the rule
+
+15
+
+is to be applied regardless of the consequences, and
+
+16
+
+that is not our position.
+
+17
+
+Our position is that where the adjective
+
+18
+
+means "of or relating to" a term that Congress has
+
+19
+
+expressly defined, that definition should be applied, so
+
+20
+
+long as it makes sense to do so in light of the text and
+
+21
+
+structure of the statute as a whole.
+
+22
+
+So, in this case, Your Honor, "personal"
+
+23
+
+does -- is defined -- when you open up the dictionary,
+
+24
+
+the very first definition is "of or relating to a
+
+25
+
+particular person."
+
+"Person" is, then, defined by
+36
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+Congress as -- to include not only individuals, but -­
+
+2
+
+but corporations and other associations.
+
+3
+4
+5
+
+So in this particular context, it makes
+perfect sense to look to -­
+JUSTICE GINSBURG:
+
+Mr. Klineberg, you have
+
+6
+
+read the brief of the Project on Government Oversight,
+
+7
+
+where they give dozens and dozens of examples to show
+
+8
+
+that, overwhelmingly, "personal" is used to describe an
+
+9
+
+individual, not an artificial being.
+
+10
+11
+
+And it is the
+
+overwhelming use of "personal."
+MR. KLINEBERG:
+
+Justice Ginsburg, we do not
+
+12
+
+dispute that personal is often, even many, many times,
+
+13
+
+used to describe an individual and can only be
+
+14
+
+understood in that context.
+
+15
+
+Lending Act argument that the Government made in its
+
+16
+
+reply brief is a perfect example.
+
+17
+
+there is -- is mentioned alongside "personal," "family,"
+
+18
+
+and "household."
+
+19
+
+Indeed, the Truth in
+
+The word "personal"
+
+And, indeed, even in that very same
+
+20
+
+statutory definition of "consumer," the word is referred
+
+21
+
+to as "a natural person."
+
+22
+
+be absurd or inappropriate to -- to borrow the concept
+
+23
+
+of the definition of "person."
+
+So, in that context, it would
+
+24
+
+All we're saying is when it is not absurd,
+
+25
+
+when it is not -- does not do violence to the statute,
+37
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+under those circumstances, it makes perfect sense to
+
+2
+
+borrow the definition that Congress provided.
+
+3
+
+JUSTICE SOTOMAYOR:
+
+What would be similar to
+
+4
+
+medical files and such, under Exemption 6, that uses the
+
+5
+
+same phrase, "unwanted invasion on personal privacy"?
+
+6
+
+So what would your reading do to Exemption 6, and how
+
+7
+
+would we create or even make sense of Exemption 6?
+
+8
+9
+
+MR. KLINEBERG:
+
+Your Honor, we don't believe
+
+our reading does any -- any damage to this Court's
+
+10
+
+jurisprudence in Exemption 6, and the -- and the simple
+
+11
+
+reason is that while the words "personal privacy" in
+
+12
+
+Exemption 6 do mean -- and we agree with the Attorney
+
+13
+
+General Clark in this -- do mean that -- that -- the
+
+14
+
+same thing as it means in Exemption 7(C), but because -­
+
+15
+
+precisely for the reason you said, Justice Sotomayor -­
+
+16
+
+the personnel and medical and similar files limits the
+
+17
+
+likely scope of that privacy interest to individual,
+
+18
+
+natural -- natural persons.
+
+19
+
+because of the words "personal privacy," but because of
+
+20
+
+the company that those words keep in that -- in that
+
+21
+
+particular exemption.
+
+22
+
+And that's simply not
+
+JUSTICE SOTOMAYOR:
+
+Why?
+
+I mean, if you're
+
+23
+
+saying that personal privacy has some overlap with
+
+24
+
+individual privacy -- obviously, it has to if you're
+
+25
+
+going to give meaning to personal privacy -- don't we
+38
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+have to give meaning to "and similar files"?
+
+2
+
+what would those be?
+
+3
+
+MR. KLINEBERG:
+
+And so
+
+Well, Your Honor, as this
+
+4
+
+Court said in the Washington Post case, the
+
+5
+
+understanding of "similar files" is defined by the two
+
+6
+
+benchmarks that are expressly provided, right?
+
+7
+
+Personnel and medical.
+
+8
+
+limited to the sorts of files in which individual
+
+9
+
+information is likely to be contained.
+
+10
+11
+
+So the kinds of files are
+
+In that case, it
+
+was a passport file.
+Again, our -- our argument is simply that
+
+12
+
+it's that part of Exemption 6 that does the limiting
+
+13
+
+work in terms of its scope.
+
+14
+
+privacy" mean the same thing in Exemption 6 as -- as
+
+15
+
+they do in Exemption 7(C).
+
+The words "personal
+
+16
+
+The -- the other point that I -- I certainly
+
+17
+
+want to make clear is that our position is that personal
+
+18
+
+privacy is only the first step in the determination
+
+19
+
+whether or not a particular document is disclosed,
+
+20
+
+because if the Government prevails, there will be no
+
+21
+
+need even to articulate a public interest in the
+
+22
+
+disclosure of potentially harmful documents.
+
+23
+
+they will be automatically available to any competitor
+
+24
+
+or legal adversary.
+
+25
+
+Instead,
+
+And all we are asking for and, indeed, all
+39
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+that Congress provided for is that the privacy interest
+
+2
+
+be weighed against the public interest in disclosure.
+
+3
+
+And what the -- what the FCC did here was to
+
+4
+
+categorically exclude corporations from the protections
+
+5
+
+of Exemption 7(C).
+
+6
+
+those interests are legitimate and just need to be
+
+7
+
+balanced.
+
+8
+
+these circumstances are is that they need to weigh the
+
+9
+
+private interests in -- in the documents against the
+
+And -- and all we are saying is that
+
+And what the government's obligations under
+
+10
+
+articulated public interest in disclosure.
+
+And that
+
+11
+
+interest, of course, has to do with what the government
+
+12
+
+is up to.
+
+13
+
+the government is doing?
+
+What do these documents tell us about what
+
+And if, as the amici on the Government's
+
+14
+15
+
+side suggests, there are lots of public -- lots of
+
+16
+
+public value and public interest in the disclosure, then
+
+17
+
+that balance is more likely to be weighed in favor of
+
+18
+
+disclosure.
+
+19
+
+that balance take place.
+
+20
+
+that -- is, as I said; it's a categorical exclusion that
+
+21
+
+simply is inconsistent with the terms that Congress laid
+
+22
+
+out in exemption 7(C).
+
+23
+
+And all we are asking for, though, is that
+And what's happened here is
+
+Congress did not intend for FOIA to be a
+
+24
+
+tool for an organization's adversaries to obtain access
+
+25
+
+to harmful or embarrassing documents compiled for law
+40
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+enforcement purposes where such documents do nothing to
+
+2
+
+open agency action to public scrutiny.
+
+3
+
+Government has its way in this case, the result will be
+
+4
+
+what this Court decried in Favish, which was that it
+
+5
+
+would be the failure to protect the privacy of citizens
+
+6
+
+against the uncontrolled release of information compiled
+
+7
+
+through the power of the state.
+If there are no further questions, I urge
+
+8
+9
+10
+
+If the
+
+that the -- that the Third Circuit be affirmed.
+
+Thank
+
+you.
+
+11
+
+CHIEF JUSTICE ROBERTS:
+
+Thank you, counsel.
+
+12
+
+Mr. Yang, you have 6 minutes left.
+
+13
+
+REBUTTAL ARGUMENT OF ANTHONY A. YANG
+
+14
+
+ON BEHALF OF THE PETITIONERS
+
+15
+
+MR. YANG:
+
+Thank you, Mr. Chief Justice.
+
+16
+
+AT&T appears to have changed or at least
+
+17
+
+modified its position somewhat from the position
+
+18
+
+articulated at page 14 of its brief.
+
+19
+
+says, "By expressly defining the noun 'person' to
+
+20
+
+include corporations, Congress necessarily defined the
+
+21
+
+adjective form of that noun -- 'personal' -- also to
+
+22
+
+include corporations."
+
+23
+
+There AT&T
+
+Now, AT&T has given up on the grammatical
+
+24
+
+imperative that guided exclusively the court of appeals'
+
+25
+
+decision in this case.
+
+There's nothing left.
+41
+
+Alderson Reporting Company
+
+AT&T can
+
+

@@ -1,0 +1,6538 @@
+Official
+
+1
+
+P R O C E E D I N G S
+
+2
+3
+
+(10:05 a.m.)
+CHIEF JUSTICE ROBERTS:
+
+We'll hear argument
+
+4
+
+first this morning in Case 11-864, Comcast
+
+5
+
+Corporation v. Behrend.
+
+6
+7
+8
+9
+10
+
+Mr. Estrada.
+ORAL ARGUMENT OF MIGUEL ESTRADA
+ON BEHALF OF THE RESPONDENTS
+MR. ESTRADA:
+
+Thank you, Mr. Chief Justice,
+
+and may it please the Court:
+
+11
+
+The Third Circuit held in this case that the
+
+12
+
+assessment of the adequacy of expert evidence offered in
+
+13
+
+support of class certification is a merits question that
+
+14
+
+has no place in the class certification inquiry.
+
+15
+
+According to the Third Circuit and to the
+
+16
+
+plaintiffs in this Court, what is sufficient is for the
+
+17
+
+proponents of class certification to point to some
+
+18
+
+abstract methodology, such as econometrics or regression
+
+19
+
+analysis, that conceivably might be applied to the
+
+20
+
+problem at hand in a way in which, in the fullness of
+
+21
+
+time, will evolve into admissible evidence by the time
+
+22
+
+of the class trial.
+
+23
+
+JUSTICE GINSBURG:
+
+Mr. Estrada, you are
+
+24
+
+limiting your argument to the determination of damages,
+
+25
+
+as I understand it.
+3
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+MR. ESTRADA:
+
+I think you limited my
+
+argument to determination of damages, Justice Ginsburg.
+
+3
+
+(Laughter.)
+
+4
+
+JUSTICE GINSBURG:
+
+Because the -- because
+
+5
+
+the Third Circuit agreed that, as far as any antitrust
+
+6
+
+impact --
+
+7
+
+MR. ESTRADA:
+
+8
+
+JUSTICE GINSBURG:
+
+9
+
+established on a class basis.
+
+10
+
+MR. ESTRADA:
+
+Yes.
+-- that could be
+
+We -- we, obviously -- as is
+
+11
+
+obvious from our cert petition, we do not agree with
+
+12
+
+that.
+
+13
+
+question in this Court, I think we have to assume that
+
+14
+
+that is so.
+
+15
+
+outcome with --
+
+16
+
+For purposes of inquiring into the damages
+
+I think it doesn't change the
+
+JUSTICE GINSBURG:
+
+But why -- why not?
+
+17
+
+Because, generally -- and at least it's my impression --
+
+18
+
+that in class certifications, if the liability question
+
+19
+
+can be adjudicated on a class basis, then the damages
+
+20
+
+question may be adjudicated individually.
+
+21
+
+Take a -- take a Title VII case.
+
+A
+
+22
+
+liability -- a pattern of practice of discrimination,
+
+23
+
+therefore, liability, but damages can be assessed on an
+
+24
+
+individual basis.
+
+25
+
+here?
+
+So why isn't bifurcation possible
+
+4
+
+Alderson Reporting Company
+
+Official
+
+1
+
+MR. ESTRADA:
+
+Well, let me make two points
+
+2
+
+in response to that question, Justice Ginsburg:
+
+3
+
+about what the legal standards are, and -- you know, the
+
+4
+
+second one, which is as important, about what the record
+
+5
+
+in this case is.
+
+6
+
+One
+
+With respect to the first point, what the
+
+7
+
+rule asks us to look at is not questions of damages
+
+8
+
+versus liability, but whether the common questions
+
+9
+
+predominate over those that are individual to the class
+
+10
+11
+
+members.
+I don't disagree, and it is not my position
+
+12
+
+today that there may be cases in which individual
+
+13
+
+damages questions are consistent with class
+
+14
+
+certification.
+
+15
+
+it is not the case that all damages questions may -- may
+
+16
+
+remain individual consistently with class certification.
+
+17
+
+But as the lower courts have recognized,
+
+Indeed, the 1966 advisory notes expressly
+
+18
+
+say that questions of damages with respect to class
+
+19
+
+members may or may not predominate in cases like this;
+
+20
+
+i.e., antitrust class actions.
+
+21
+
+JUSTICE KAGAN:
+
+Let --
+
+But, Mr. Estrada, doesn't
+
+22
+
+Justice Ginsburg's question actually point out that
+
+23
+
+the -- the law that both district court and the
+
+24
+
+circuit court used in this case was actually quite
+
+25
+
+favorable to you?
+5
+
+Alderson Reporting Company
+
+Official
+
+1
+
+Unlike some courts, both the district court
+
+2
+
+and the circuit court said that the plaintiffs needed to
+
+3
+
+show that there was a class-wide measurement of damages.
+
+4
+
+And then in addition, both courts said, really, it
+
+5
+
+was -- the burden was on the plaintiffs to demonstrate
+
+6
+
+that that class-wide measure of damages existed.
+
+7
+
+Now, I understand that you have problems
+
+8
+
+with the way in which the plaintiffs met that burden.
+
+9
+
+You say that they didn't meet that burden.
+
+But it seems
+
+10
+
+to me that the legal standard that was used was exactly
+
+11
+
+the legal standard that you wanted, that the plaintiffs
+
+12
+
+had to come in and show, by a preponderance, that they
+
+13
+
+had a class-wide way to measure damages in this case.
+
+14
+
+MR. ESTRADA:
+
+I don't think that's right,
+
+15
+
+Justice Kagan.
+
+16
+
+about whether the district court did what you just
+
+17
+
+finished saying.
+
+18
+
+the court of appeals did so because, repeatedly,
+
+19
+
+throughout its opinion, said that the questions as to
+
+20
+
+the adequacy of whether they had complied with the
+
+21
+
+Hydrogen Peroxide Standard was a merits question that
+
+22
+
+was for later adjudication in this case.
+
+23
+
+I think we can have a healthy debate
+
+I think there can be no debate that
+
+JUSTICE KAGAN:
+
+Well, here's what the
+
+24
+
+district court said.
+
+"The experts' opinions raise
+
+25
+
+substantial issues of fact and credibility that we are
+6
+
+Alderson Reporting Company
+
+Official
+
+1
+
+required to resolve to decide the pending motion."
+
+2
+
+is the motion for class certification.
+
+3
+
+That
+
+"Having rigorously analyzed the experts'
+
+4
+
+reports, we conclude that the class has met its burden
+
+5
+
+to demonstrate that the element of antitrust impact is
+
+6
+
+capable of proof at trial through evidence that is
+
+7
+
+common to the class and that there is a common
+
+8
+
+methodology available to measure and quantify damages on
+
+9
+
+a class-wide basis."
+
+10
+
+So that seems to me exactly what you say
+
+11
+
+they should have done.
+
+12
+
+ultimate determination, but not with the statement of
+
+13
+
+the law.
+
+14
+
+MR. ESTRADA:
+
+Now, you disagree with their
+
+Well, I think that it is true
+
+15
+
+that our position in the district court was that
+
+16
+
+Hydrogen Peroxide controlled and that the district court
+
+17
+
+correctly stated the holding of the Third Circuit ruling
+
+18
+
+in that case.
+
+19
+
+Beyond that, I don't think that we do agree,
+
+20
+
+because, in the Third Circuit, once the case got there,
+
+21
+
+we got a rule of law saying that, although this court
+
+22
+
+prescribed the rule amendment, 23(f), precisely to
+
+23
+
+enable courts of appeals to review whether the district
+
+24
+
+court got it right for important policy questions, that
+
+25
+
+the job of the court of appeals under 23(f) can be fully
+7
+
+Alderson Reporting Company
+
+Official
+
+1
+
+discharged by saying that providence will provide; we'll
+
+2
+
+think about it in the morning.
+
+3
+
+consistent with the proposition that the correct law was
+
+4
+
+applied in the lower courts.
+
+5
+
+And that is not
+
+Furthermore, although the district court did
+
+6
+
+enounce the correct standard in reflecting the holding
+
+7
+
+of Hydrogen Peroxide, it is far from apparent -- and
+
+8
+
+this is part of our point to the Third Circuit -- excuse
+
+9
+
+me -- to the Third Circuit -- which was not actually
+
+10
+
+heard on the merits, that what he did was different from
+
+11
+
+simply saying that econometrics and regression analysis
+
+12
+
+are well-established methodologies for dealing with
+
+13
+
+problems of this kind.
+
+14
+
+And I will ask you to -- to look at the top
+
+15
+
+of page 145 of the Pet. App., where you can look at
+
+16
+
+discussions -- no, I'm sorry, it's 131, in footnote
+
+17
+
+24 -- where the district court made clear that his
+
+18
+
+understanding of the capable class-wide proof involved
+
+19
+
+the inquiry whether the plaintiffs actually had evidence
+
+20
+
+that reflected the methodologies that had been used in
+
+21
+
+this case -- in these kinds of cases.
+
+22
+
+He says, "It is undisputed that multiple
+
+23
+
+regression analysis is an acceptable and widely
+
+24
+
+recognized statistical tool for cases of this kind."
+
+25
+
+So at a very general level, I don't have a
+8
+
+Alderson Reporting Company
+
+Official
+
+1
+
+disagreement with you that, in many cases where there is
+
+2
+
+error, the district court started out with the right
+
+3
+
+foot.
+
+4
+
+either was applied by the district court or was even
+
+5
+
+attempted by the court of appeals.
+
+I don't agree with you that the correct standard
+
+6
+
+Now, if we were to go to the merits of the
+
+7
+
+question -- and to answer -- you know, the second part
+
+8
+
+of the question that I started out with
+
+9
+
+Justice Ginsburg -- keep in mind that, even on the
+
+10
+
+assumption that the district court accepted that there
+
+11
+
+was common class proof of antitrust impact, that is not
+
+12
+
+the same as accepting -- and I don't think the district
+
+13
+
+court accepted -- that there was common class-wide proof
+
+14
+
+that the impact for every individual was the same.
+
+15
+
+And that is a key point about what the
+
+16
+
+theory of impact here was.
+
+17
+
+JUSTICE GINSBURG:
+
+It doesn't have to be the
+
+18
+
+same for every member of the class.
+
+As the dissenting
+
+19
+
+judge pointed out, you can have subclasses.
+
+20
+
+MR. ESTRADA:
+
+Well -- and I'm happy to also
+
+21
+
+deal with that question.
+
+22
+
+which -- you know, the variances of the classes can be
+
+23
+
+dealt with, with subclasses.
+
+24
+
+side has actually asserted here that the record would
+
+25
+
+allow this.
+
+There are cases, indeed, in
+
+No one on the plaintiffs'
+
+And Mr. Jordan pointed out there is
+9
+
+Alderson Reporting Company
+
+Official
+
+1
+
+considerable basis for skepticism in thinking that that
+
+2
+
+could ever be accomplished because we are talking about
+
+3
+
+649 franchise areas with different competitive
+
+4
+
+conditions.
+
+5
+
+But if you go back to -- to the theory of
+
+6
+
+impact -- and the theory of impact was that RCN, this
+
+7
+
+putative overbuilder, was -- you know, the little engine
+
+8
+
+that could, that it was going to radiate out to the
+
+9
+
+entire DMA area and completely overbuild the area.
+
+So
+
+10
+
+the theory of impact was, if you drop a stone in the
+
+11
+
+water, you are going to have ripples all the way out, so
+
+12
+
+you have ripples as to every member of the class.
+
+13
+
+doesn't mean that every ripple is the same.
+
+14
+
+It
+
+So -- so that the key question for the
+
+15
+
+damages issue in front of you now is whether what
+
+16
+
+McClave came up with was an adequate methodology for
+
+17
+
+measuring the size of the ripple --
+
+18
+
+JUSTICE KENNEDY:
+
+I did -- are there cases
+
+19
+
+in the -- in the ordinary course of class actions -- I
+
+20
+
+know they are all different -- where the district court
+
+21
+
+can find that common questions do predominate, without
+
+22
+
+addressing the question whether damages can be proven on
+
+23
+
+a class-wide basis?
+
+24
+25
+
+Or are they always interlinked?
+
+MR. ESTRADA:
+
+No, I think the text of
+
+(b)(20) -- of (b)(3) expressly requires that questions,
+10
+
+Alderson Reporting Company
+
+Official
+
+1
+
+whether they be damages or liability that are common to
+
+2
+
+the class, predominate over those that are individual as
+
+3
+
+to class members.
+
+4
+
+not arguing -- that the mere fact that there may be
+
+5
+
+individual damages questions precludes class
+
+6
+
+certification.
+
+7
+
+And I -- I fully accept -- and I am
+
+I am actually arguing for the flip side of
+
+8
+
+that issue, which is that just because it -- it may not
+
+9
+
+be preclusive in certain cases doesn't mean that it is
+
+10
+11
+
+preclusive in no case.
+I would refer the Court to the Fifth
+
+12
+
+Circuit's opinion by Judge Garwood in the Bell v. AT&T
+
+13
+
+case, which was, like this, an antitrust case, where the
+
+14
+
+Fifth Circuit acknowledged that, in many of these cases,
+
+15
+
+it's almost hornbook law that there may be individual
+
+16
+
+issues that would not preclude class cert, but that
+
+17
+
+there are certain cases in which -- you know, the theory
+
+18
+
+of injury and -- and the proof that would be needed to
+
+19
+
+make it out is so sui generous and individualized --
+
+20
+
+JUSTICE BREYER:
+
+Well, I completely agree
+
+21
+
+with hornbook law.
+
+Three pipe manufacturers get
+
+22
+
+together and, in January, fix their prices, all right?
+
+23
+
+MR. ESTRADA:
+
+24
+
+JUSTICE BREYER:
+
+25
+
+Right.
+Fourteen wholesalers want
+
+to show that, and each has different damages because
+11
+
+Alderson Reporting Company
+
+Official
+
+1
+
+they bought different amounts of pipe.
+
+2
+
+MR. ESTRADA:
+
+3
+
+JUSTICE BREYER:
+
+4
+
+Right.
+Hornbook law:
+
+Certify the
+
+class and leave the damages issues for later.
+
+5
+
+MR. ESTRADA:
+
+Right.
+
+6
+
+JUSTICE BREYER:
+
+This case, this case,
+
+7
+
+hornbook law:
+
+Section 2 forbids monopolization.
+
+It is
+
+8
+
+absolutely clear Comcast has that power.
+
+That's why
+
+9
+
+they're -- that's why they're regulated.
+
+And, indeed,
+
+10
+
+they engage in things that show that they did not
+
+11
+
+achieve that through skill, foresight, and industry.
+
+12
+
+What things?
+
+And now, we have a list of
+
+13
+
+four.
+
+And the district court says exactly what?
+
+14
+
+prove monopolization, which is relevant to all these
+
+15
+
+people in the class, then what we do is we later look
+
+16
+
+into how much that monopolization raised the prices
+
+17
+
+above competitive levels.
+
+18
+
+at the competitive levels and look at what happened over
+
+19
+
+here, and there we are, it will help.
+
+20
+
+If we
+
+And I offer a model to look
+
+Okay?
+
+Now, hornbook law, whether that's so or not
+
+21
+
+so is a matter for later, but see first if there is
+
+22
+
+liability.
+
+23
+
+answer?
+
+24
+25
+
+Okay.
+
+That's their argument.
+
+MR. ESTRADA:
+
+What's the
+
+Well, I mean, the answer is --
+
+I will take your first example, and, in fact, I was
+12
+
+Alderson Reporting Company
+
+Official
+
+1
+
+going to give -- you know, the example of a case that I
+
+2
+
+had that was similar where -- you know, three plastic
+
+3
+
+cup manufacturers met in -- you know, some airport and
+
+4
+
+fixed -- you know, the prices.
+
+5
+
+Now, this is like saying you fixing -- you
+
+6
+
+know, the price of widgets.
+
+There is a preexisting
+
+7
+
+but-for world, and the question as to who bought what
+
+8
+
+when is not really a question of adjudication, but of
+
+9
+
+computation.
+
+And those are the types of cases where the
+
+10
+
+courts say that the individual damages questions really
+
+11
+
+do not preclude a -- a certification.
+
+12
+13
+
+Now, your second example may or may not be
+suitable for class treatment.
+
+14
+
+JUSTICE BREYER:
+
+Well, here, since what they
+
+15
+
+are saying is they have two theories, Section 1, the
+
+16
+
+agreements to keep other people out of this area are
+
+17
+
+unlawful in themselves.
+
+18
+
+contribute to monopolization.
+
+Question 2 is whether they
+
+19
+
+MR. ESTRADA:
+
+20
+
+JUSTICE BREYER:
+
+Okay?
+
+No, but -- but the question -Now, that's the legal issue
+
+21
+
+of liability.
+
+Now, if they're right, why isn't the
+
+22
+
+measure of damages just what you said?
+
+23
+
+people who are subject to the monopoly power, and we
+
+24
+
+work out how much above the competitive level they had
+
+25
+
+to pay.
+13
+
+Alderson Reporting Company
+
+We look to the
+
+Official
+
+1
+
+MR. ESTRADA:
+
+2
+
+JUSTICE BREYER:
+
+3
+
+another.
+
+4
+
+computation.
+
+5
+
+But the legal -Some paid some; some paid
+
+We have some experts in to try to make that
+Sounds the same to me.
+MR. ESTRADA:
+
+No, but it isn't because one
+
+6
+
+key point that is missing from the hypothetical,
+
+7
+
+Justice Breyer, is exactly what the theory of liability
+
+8
+
+that is present in this case is, as the case comes to
+
+9
+
+the Court.
+
+10
+
+They had four theories of possible -JUSTICE BREYER:
+
+I saw the four theories,
+
+11
+
+and it seems to me that we are now on the theory of
+
+12
+
+the -- one of the pieces of exclusionary conduct was
+
+13
+
+agreement through various mergers, et cetera, that
+
+14
+
+potential competitors would not come in and compete.
+
+15
+
+Now, I don't know why the judge struck out
+
+16
+
+the other one, the number 2.
+
+17
+
+I can see it.
+
+18
+
+relevant to damages.
+
+19
+
+regulator is doing a terrible job; otherwise, the prices
+
+20
+
+wouldn't be so high in the first place.
+
+21
+
+But number 3 and Number 4,
+
+But on monopolization theory, that's not
+Throughout, we assume that the
+
+But what's the difference in this case?
+
+I
+
+22
+
+just didn't hear it, and I put that to show you how it
+
+23
+
+seemed to me there is very similar.
+
+24
+25
+
+MR. ESTRADA:
+
+No.
+
+The difference --
+
+I mean, I think -- you
+
+know, the key point that you are missing in your
+14
+
+Alderson Reporting Company
+
+Official
+
+1
+
+hypothetical --
+
+2
+
+JUSTICE BREYER:
+
+3
+
+MR. ESTRADA:
+
+Is?
+
+-- basically starts with the
+
+4
+
+actual point of antitrust law, whether these people
+
+5
+
+are -- actually are potential competitors.
+
+6
+
+actually relevant to the class certifications that we
+
+7
+
+face today.
+
+8
+
+It's not
+
+But I don't accept, for present purposes or
+
+9
+
+for later, that these people that already have different
+
+10
+
+clusters of cable service that were simply aggregated in
+
+11
+
+these transactions actually were actual potential
+
+12
+
+competitors.
+
+13
+14
+
+They were not -JUSTICE BREYER:
+
+That's -- I mean, that's
+
+liability.
+
+15
+
+MR. ESTRADA:
+
+16
+
+JUSTICE BREYER:
+
+17
+
+that they weren't, fine.
+
+18
+
+MR. ESTRADA:
+
+Well, you are right -You have the right to prove
+
+I just said that.
+
+But the
+
+19
+
+point is that, as the case comes to the -- to the Court,
+
+20
+
+the question is whether the class that was certified by
+
+21
+
+the district court and validated in its own way by the
+
+22
+
+court of appeals is one that is consistent and fits
+
+23
+
+reliably with the legal theory that the plaintiffs are
+
+24
+
+allowed to pursue --
+
+25
+
+JUSTICE BREYER:
+
+And this does, too -­
+
+15
+
+Alderson Reporting Company
+
+Official
+
+1
+
+MR. ESTRADA:
+
+-- in this case.
+
+2
+
+JUSTICE BREYER:
+
+-- because if they prove
+
+3
+
+their case, the question on damages is to what extent
+
+4
+
+did the absence of competition from the overbuilders --
+
+5
+
+and it should have been DBS too, from reading this, but
+
+6
+
+nonetheless, let me express no view on that.
+
+7
+
+(Laughter.)
+
+8
+
+JUSTICE BREYER:
+
+9
+10
+
+extent did the failure of competition from those people
+raise price above the competitive level?
+
+11
+
+MR. ESTRADA:
+
+12
+
+JUSTICE BREYER:
+
+13
+
+MR. ESTRADA:
+
+14
+
+JUSTICE BREYER:
+
+15
+
+I mean, I hate -And if --
+
+Justice Breyer --- how is it different from
+
+the pipes --
+
+16
+17
+
+But on -- on -- to what
+
+MR. ESTRADA:
+
+-- I mean, I really hate to be
+
+so prosaic.
+
+18
+
+JUSTICE BREYER:
+
+19
+
+MR. ESTRADA:
+
+No, you shouldn't.
+
+And you mentioned something --
+
+20
+
+something so contrary to the facts, but the fact is that
+
+21
+
+the fundamental question here is that there is one
+
+22
+
+theory they are permitted to pursue.
+
+23
+
+overbuilder, RCN, would have radiator -- radiated out
+
+24
+
+through the DMA area.
+
+25
+
+It is that this
+
+Now, you may think that they should have
+16
+
+Alderson Reporting Company
+
+Official
+
+1
+
+been allowed to pursue some other different theory.
+
+2
+
+It's not the case that you have in front of you.
+
+3
+
+the fact is that -- that -- that as the case comes to
+
+4
+
+the Court, the theory that remains is based on the
+
+5
+
+proposition that RCN was going to be the overbuilder
+
+6
+
+that -- that was going to impact prices.
+
+7
+
+JUSTICE KAGAN:
+
+8
+
+MR. ESTRADA:
+
+9
+
+Two things follow from that.
+
+And
+
+Well, two --
+
+Well, Mr. -If I could just finish?
+You know, the
+
+10
+
+first one which is directly pertinent to the issue here
+
+11
+
+is that the McClave model purported to compute damages
+
+12
+
+that were not limited to overbuilding and that, in fact,
+
+13
+
+expressly measured overbuilding only as to 5 out of the
+
+14
+
+16 counties.
+
+15
+
+legal theory that stays in the case.
+
+16
+
+The damage model just does not fit the
+
+The second aspect of it is that, as a
+
+17
+
+question of the factual fit with the record in the case,
+
+18
+
+the transactions that added the largest number of
+
+19
+
+subscribers here occurred in 2000 and very early 2001.
+
+20
+
+The record in this case includes public announcements by
+
+21
+
+RCN, repeated by the FCC in its competition review, that
+
+22
+
+they were not going to franchise any new franchises.
+
+23
+
+there is a basic question of lack of fit between the ipse
+
+24
+
+dixit of the expert and -- you know, the record in this case.
+
+25
+
+JUSTICE KAGAN:
+
+Mr. Estrada, as -- as the
+
+17
+
+Alderson Reporting Company
+
+So
+
+Official
+
+1
+
+case comes to the Court, I guess I wonder why any of
+
+2
+
+this is relevant.
+
+3
+
+mentioned earlier that we reformulated the question
+
+4
+
+presented in this case.
+
+5
+
+which said that what we wanted to talk about was whether
+
+6
+
+a district court at a class certification stage has to
+
+7
+
+conduct a Daubert inquiry, in other words, has to decide
+
+8
+
+on the admissibility of expert testimony relating to
+
+9
+
+class-wide damages.
+
+10
+
+You mentioned earlier -- you
+
+And we reformulated in a way
+
+And -- you know, it would not be crazy to
+
+11
+
+surmise that we reformulated the question because we
+
+12
+
+wanted to present -- we wanted to decide a legal
+
+13
+
+question, rather than a question about who was right as
+
+14
+
+to this particular expert's report and how strong it
+
+15
+
+was.
+
+16
+
+your clients waived their -- their argument that this
+
+17
+
+was inadmissible evidence.
+
+And it turns out that, as to that legal question,
+
+18
+
+So -- so what do we do in that circumstance?
+
+19
+
+MR. ESTRADA:
+
+Well, I don't agree with you
+
+20
+
+that we waived.
+
+21
+
+think, three or pages in the reply brief, with all of
+
+22
+
+the citations as to how we challenged the --
+
+23
+
+And -- you know, we covered this in, I
+
+JUSTICE GINSBURG:
+
+But you challenged the
+
+24
+
+probity, Mr. Estrada.
+
+You said Comcast said it had no
+
+25
+
+objection to McClave's qualification as an expert.
+18
+
+Alderson Reporting Company
+
+So
+
+Official
+
+1
+
+what you were talking about was the probity of this
+
+2
+
+report, not the admissibility.
+
+3
+
+MR. ESTRADA:
+
+No, that is not right, Justice
+
+4
+
+Ginsburg.
+
+5
+
+three distinct prongs.
+
+6
+
+qualifications of the expert.
+
+7
+
+the -- the reliability of the methodology.
+
+8
+
+third is fit.
+
+9
+
+Daubert and its progeny really encompasses
+One of them is, of course, the
+The second one is the -And the
+
+And all we said at the -- at the class
+
+10
+
+hearing is that we had no objection to the proposition
+
+11
+
+that these people have Ph.D.'s, which indeed they do.
+
+12
+
+But the issue still was, both in the district court and
+
+13
+
+in the court of appeals, one that we urged that the
+
+14
+
+methodology was not relevant and did not --
+
+15
+
+JUSTICE KAGAN:
+
+The district court,
+
+16
+
+Mr. Estrada, clearly understood you to be making an
+
+17
+
+argument about weight and not about admissibility.
+
+18
+
+indeed, the district court in open court -- and -- and
+
+19
+
+it's in the transcript -- suggests that it's doing
+
+20
+
+something different from holding a Daubert hearing,
+
+21
+
+explains how it's different from holding a Daubert
+
+22
+
+hearing, and both lawyers agree to that statement.
+
+23
+
+MR. ESTRADA:
+
+And
+
+Well, but I think we -- we
+
+24
+
+agree that he needed to conduct more than a Daubert
+
+25
+
+hearing because we agree with the holding of the Seventh
+19
+
+Alderson Reporting Company
+
+Official
+
+1
+
+Circuit in American Honda, that the question at the
+
+2
+
+class cert hearing is not solely one of whether the
+
+3
+
+evidence would be admissible, but also one of -- of
+
+4
+
+whether the district judge himself is persuaded that
+
+5
+
+this is class-wide proof that has not been impeached in
+
+6
+
+his own mind.
+
+7
+
+And so -- you know, the mere fact that we
+
+8
+
+all understood that what should have been ruled on at
+
+9
+
+the class cert hearing encompassed more than pure
+
+10
+
+Daubert admissibility, is actually part of our complaint
+
+11
+
+here.
+
+12
+
+I mean, I think, if you read what the
+
+13
+
+district court did, he basically looked at his job as
+
+14
+
+looking at whether the model was capable, as in
+
+15
+
+literally capable, of -- of -- of establishing -- you
+
+16
+
+know, the facts that the plaintiffs say it establishes,
+
+17
+
+without really weighing in his own mind whether it had
+
+18
+
+been shown to be fit and -- you know, reliable.
+
+19
+
+JUSTICE KAGAN:
+
+Mr. Estrada, it seems like a
+
+20
+
+remarkable proposition, honestly, especially with a
+
+21
+
+client like yours that is well-lawyered.
+
+22
+
+a remarkable proposition that somebody -- a party can
+
+23
+
+say, we have objections about the weight of this
+
+24
+
+evidence.
+
+25
+
+It seems like
+
+We don't think -- we don't think it's a
+20
+
+Alderson Reporting Company
+
+Official
+
+1
+
+strong expert report, and that -- and that we -- and
+
+2
+
+that the Court should then infer that there is an
+
+3
+
+objection to admissibility of evidence, as opposed,
+
+4
+
+again, to the weight and strength of evidence.
+
+5
+
+I mean, surely, a district court confronted
+
+6
+
+with an argument about the weight and strength of
+
+7
+
+evidence does not have to say, oh, I better go hold a
+
+8
+
+Daubert hearing to rule on admissibility even though
+
+9
+
+nobody's asked me --
+
+10
+
+MR. ESTRADA:
+
+But, Justice Kagan --
+
+11
+
+JUSTICE KAGAN:
+
+12
+
+MR. ESTRADA:
+
+-- to rule on admissibility.
+But, Justice Kagan, I mean, I
+
+13
+
+think we could go through chapter and verse to
+
+14
+
+everything that we put in the reply brief.
+
+15
+
+in fairness, I have to point out to you that we never
+
+16
+
+said that our objection was to the weight and not to the
+
+17
+
+admissibility.
+
+18
+
+But I think,
+
+We agree that these people have properly
+
+19
+
+scholarly credentials.
+
+20
+
+reply brief with citations to the record, we said, this
+
+21
+
+model is so unreliable that it is just not usable,
+
+22
+
+period, full stop.
+
+23
+
+said, this is not evidence of any kind, much less --
+
+24
+25
+
+And after that, as we say in the
+
+We went to the Third Circuit and
+
+JUSTICE KAGAN:
+
+Did you -- did you ever file
+
+a motion to strike the expert report?
+21
+
+Alderson Reporting Company
+
+Official
+
+1
+
+MR. ESTRADA:
+
+No, we did not, and we
+
+2
+
+actually don't think that that's needed because it would
+
+3
+
+actually be sort of silly to engage in a motion to
+
+4
+
+strike the evidence that we are asking the district
+
+5
+
+judge to consider, in order to decide whether it
+
+6
+
+actually is reliable.
+
+7
+
+JUSTICE SOTOMAYOR:
+
+Mr. Estrada, could you
+
+8
+
+pronounce for me or give me the legal rule as you want
+
+9
+
+us to articulate it?
+
+Let me get you out of Daubert,
+
+10
+
+okay?
+
+11
+
+never raised the word "Daubert" below until the very
+
+12
+
+end.
+
+13
+
+probity of the model, not on a Daubert issue, correct?
+
+14
+15
+16
+
+Because I think you really can't deny that you
+
+Your fight before the district court was on the
+
+MR. ESTRADA:
+
+I don't think that's fair
+
+because I think -JUSTICE SOTOMAYOR:
+
+Did you use the word
+
+17
+
+"Daubert" before the district court?
+
+18
+
+MR. ESTRADA:
+
+19
+
+court of appeals.
+
+20
+
+the model was not usable.
+
+21
+22
+
+We cited Daubert cases in the
+
+We did say to the district court that
+
+JUSTICE SOTOMAYOR:
+
+So you didn't use
+
+"Daubert" below --
+
+23
+
+MR. ESTRADA:
+
+24
+
+JUSTICE SOTOMAYOR:
+
+25
+
+Okay.
+
+I think that's fair.
+-- so let's get out of
+
+the Daubert language, okay?
+22
+
+Alderson Reporting Company
+
+Official
+
+1
+
+Tell me how and what rule we announce, so
+
+2
+
+that district courts find an expert's evidence
+
+3
+
+probative, the other side argues it's not, and when does
+
+4
+
+the district court let the jury decide between the two?
+
+5
+
+MR. ESTRADA:
+
+There --
+
+6
+
+JUSTICE SOTOMAYOR:
+
+Where is the line that
+
+7
+
+the district court draws between class certification and
+
+8
+
+merits adjudication, so that, at some point, it goes to
+
+9
+
+the jury?
+
+10
+
+MR. ESTRADA:
+
+There are two things that the
+
+11
+
+district court has to do, and both involve an assessment
+
+12
+
+of the validity or, as you would put it, probity of the
+
+13
+
+expert evidence -- you know, the first one keeps in mind
+
+14
+
+that the focus of the class certification hearing is to
+
+15
+
+decide whether the -- this case should be tried as a
+
+16
+
+class.
+
+17
+
+And therefore, the first question that the
+
+18
+
+district court has to ask is, even if I think that this
+
+19
+
+is not ready now, do they have a methodology that
+
+20
+
+sufficiently fits the facts and is reliably based on a
+
+21
+
+scientific method, so that these people will be capable
+
+22
+
+of proving class-wide this issue at trial.
+
+23
+
+enough.
+
+24
+25
+
+JUSTICE SCALIA:
+
+That's not
+
+We must have thought that,
+
+I suppose, or else, we wouldn't have reformulated the
+23
+
+Alderson Reporting Company
+
+Official
+
+1
+
+question this way, right?
+
+2
+
+MR. ESTRADA:
+
+Well --
+
+3
+
+JUSTICE SCALIA:
+
+That's the way you put the
+
+4
+
+question initially, and we reformulated it to be a
+
+5
+
+Daubert question.
+
+6
+
+MR. ESTRADA:
+
+I was -- I was going to point
+
+7
+
+out, by reference to one of your opinions,
+
+8
+
+Justice Scalia, that there is a question sort of based
+
+9
+
+on the Williams case, 504 U.S., as to -- you know, the
+
+10
+
+extent to which these issues are open to the Respondent
+
+11
+
+to challenge as well.
+
+12
+
+Because by the time we framed the cert
+
+13
+
+petition -- even though we framed it in terms of
+
+14
+
+Daubert, it was abundantly clear, as we pointed out in
+
+15
+
+the reply brief, that we were challenging the fit and
+
+16
+
+the reliability of the methodology.
+
+17
+
+a word in the -- in the brief in opposition that
+
+18
+
+actually took issue with that.
+
+19
+
+And there was nary
+
+On the faith of that, you reformulated the
+
+20
+
+question.
+
+21
+
+issue is now over and that we move to the consideration
+
+22
+
+of the merits.
+
+23
+24
+25
+
+Your ruling in Williams would say that that
+
+And I would like to reserve the remainder of
+my time for rebuttal.
+Thank you.
+24
+
+Alderson Reporting Company
+
+Official
+
+1
+
+CHIEF JUSTICE ROBERTS:
+
+2
+
+Mr. Barnett.
+
+Thank you, counsel.
+
+3
+
+ORAL ARGUMENT OF BARRY BARNETT
+
+4
+
+ON BEHALF OF THE RESPONDENTS
+
+5
+6
+
+MR. BARNETT:
+
+Mr. Chief Justice, and may it
+
+please the Court:
+
+7
+
+Justice Ginsburg and Justice Kagan, you are
+
+8
+
+exactly right.
+
+The petition for certiorari was framed
+
+9
+
+not, as counsel just misspoke, in terms of Daubert, but
+
+10
+
+it was framed in terms of whether you have to go into --
+
+11
+
+whether the district court and the court of appeals have
+
+12
+
+to deal with merits issues, and that question was what
+
+13
+
+was reformulated.
+
+14
+
+And to get a sense of how profoundly
+
+15
+
+uninterested Comcast was in Daubert and in arguing
+
+16
+
+weight and probativeness, as opposed to admissibility,
+
+17
+
+which is the question before this Court, they never,
+
+18
+
+ever cited Daubert.
+
+19
+
+court.
+
+20
+
+They didn't cite it in the district
+
+They didn't cite it in the court of appeals.
+JUSTICE KENNEDY:
+
+One of my -- one of my
+
+21
+
+questions in the case is this:
+
+There was a question to
+
+22
+
+Mr. Estrada with reference to a jury trial.
+
+23
+
+there's -- there's -- the judge doesn't really have a
+
+24
+
+gate -- what do you call it -- a gatekeeper function
+
+25
+
+here.
+
+There is no -- there's no jury.
+25
+
+Alderson Reporting Company
+
+But
+
+Official
+
+1
+
+And if the judge admits the evidence and if
+
+2
+
+it turns out that that doesn't meet the standard of
+
+3
+
+reliability, then he can exclude it.
+
+4
+
+see why the judge has to say, all right, now, first, I'm
+
+5
+
+going to do Daubert, and next, I'm going to do whether
+
+6
+
+this is reliable.
+
+7
+8
+
+I don't -- I don't
+
+This is just a magic words approach, it
+seems to me.
+
+9
+
+MR. BARNETT:
+
+I don't think it is a magic
+
+10
+
+word approach at all, Your Honor, because it has
+
+11
+
+tremendous significance to people who are actually
+
+12
+
+litigating the case.
+
+13
+
+disrespectful to a district judge not to object on
+
+14
+
+Daubert grounds and then complain that what he did was
+
+15
+
+completely unusable in the court.
+
+16
+
+It's -- I submit that it is
+
+They cited Daubert and Rule 702, 50 -- I
+
+17
+
+quit counting at 50, but it was only after the -- the
+
+18
+
+question was reframed not to deal with merits questions,
+
+19
+
+but to deal with Daubert specifically.
+
+20
+
+JUSTICE KENNEDY:
+
+Well, I -- I take it there
+
+21
+
+is no argument over whether or not the expert is
+
+22
+
+qualified.
+
+23
+
+MR. BARNETT:
+
+24
+
+JUSTICE KENNEDY:
+
+25
+
+Indeed, Your Honor.
+The question is just
+
+whether his -- his theory makes any sense.
+26
+
+Alderson Reporting Company
+
+Official
+
+1
+
+MR. BARNETT:
+
+2
+
+JUSTICE KENNEDY:
+
+3
+
+That's true.
+And the -- and the
+
+Petitioner says it doesn't.
+
+4
+
+MR. BARNETT:
+
+But, Justice Kennedy, it's
+
+5
+
+also the case that the judge saying, do you have any
+
+6
+
+objections to this witness as an expert, that's about as
+
+7
+
+big an invitation you can get that, if you have got a
+
+8
+
+Daubert objection, you better make it now -- you need to
+
+9
+
+make it now.
+
+10
+
+JUSTICE KENNEDY:
+
+Well, Mr. Barnett, I -- I
+
+11
+
+can think of -- my initial reaction -- it has been an
+
+12
+
+awful long time since I have been in the courtroom --
+
+13
+
+is -- is that that's whether or not this man is -- is
+
+14
+
+qualified to give an opinion.
+
+15
+
+MR. BARNETT:
+
+16
+
+JUSTICE KENNEDY:
+
+17
+
+That was -Step one.
+
+The next
+
+thing is does this opinion make any sense?
+
+18
+
+MR. BARNETT:
+
+The second step is using
+
+19
+
+the -- the Court's opinions in Daubert, as well as in
+
+20
+
+Carmichael, as well as in Joiner, which the Court has
+
+21
+
+held applies to all kinds of expert testimony in Federal
+
+22
+
+court.
+
+23
+
+a gatekeeper, whether there is a jury in the box or not.
+
+24
+25
+
+The district judge has an obligation to serve as
+
+On a preliminary injunction, the court, if
+there is a proper Daubert objection, must make the
+27
+
+Alderson Reporting Company
+
+Official
+
+1
+
+objection at that time.
+
+2
+
+JUSTICE SOTOMAYOR:
+
+Excuse me.
+
+Do you
+
+3
+
+think -- that -- that's why I am trying to get away from
+
+4
+
+the magic words.
+
+5
+
+proposition that a district court, by whatever magic
+
+6
+
+words it uses, has to come to the conclusion that the
+
+7
+
+expert's testimony is persuasive?
+
+8
+
+bottom line, a judgment that it's reliable and
+
+9
+
+probative?
+
+10
+
+Why do you disagree with the simple
+
+MR. BARNETT:
+
+And isn't that, at
+
+I completely agree, Justice
+
+11
+
+Sotomayor.
+
+12
+
+standard anybody wants to apply retroactively.
+
+13
+
+main point is Judge Padova --
+
+14
+
+And we -- we embrace whatever Daubert
+
+JUSTICE SOTOMAYOR:
+
+But the
+
+So you are not
+
+15
+
+disagreeing with your adversary on a legal standard.
+
+16
+
+Every judge on a -- this is the simple way I formulate
+
+17
+
+the rule -- every judge before he certifies -- he or she
+
+18
+
+certifies a class, has to decide whether the methods
+
+19
+
+being used are probative and relevant, sufficient to
+
+20
+
+prove common -- common questions of damages.
+
+21
+
+MR. BARNETT:
+
+Justice Sotomayor, I agree
+
+22
+
+with that proposition if there is a proper objection
+
+23
+
+made, such that the district court is put on notice that
+
+24
+
+he or she needs to do the work.
+
+25
+
+Judge Padova had a 4-day hearing, heard a
+28
+
+Alderson Reporting Company
+
+Official
+
+1
+
+day and a half of Dr. McClave, and then had a separate
+
+2
+
+hearing to ask specific questions about, what about,
+
+3
+
+well, there is one of the four mechanisms that the
+
+4
+
+anticompetitive conduct translated into sky high prices
+
+5
+
+throughout the Philadelphia DMA.
+
+6
+
+JUSTICE ALITO:
+
+In this case, why doesn't
+
+7
+
+the question of probative value subsume the Daubert
+
+8
+
+question?
+
+9
+
+MR. BARNETT:
+
+I don't think it does, Your
+
+10
+
+Honor.
+
+And, again, it's not magic words.
+
+Trial
+
+11
+
+lawyers -- and I have been on this case for almost 10
+
+12
+
+years now -- once you say Daubert or once you say 702 or
+
+13
+
+once you say, I object, it's not reliable, at the time,
+
+14
+
+contemporaneously, the district judge has an opportunity
+
+15
+
+to fix whatever the problem is.
+
+16
+
+a chance to fix whatever the problem is, too.
+
+And the other side has
+
+17
+
+JUSTICE ALITO:
+
+18
+
+me ask my question in a different way.
+
+19
+
+is that the model that is being -- that was used by the
+
+20
+
+expert does not fit the theory of liability that remains
+
+21
+
+in the case, would that -- what is the difference in
+
+22
+
+determining probative value there and determining
+
+23
+
+whether it comes in under Daubert?
+
+24
+
+it.
+
+25
+
+MR. BARNETT:
+
+But if the problem is -- let
+If the problem
+
+I don't understand
+
+Well, it -- it certainly is
+29
+
+
+Alderson Reporting Company
+
+Official
+
+1
+
+not an admissibility question.
+
+2
+
+the question is before the Court.
+
+3
+
+not an admissibility question.
+
+4
+
+probativeness.
+
+5
+
+to under a clearly erroneous test, which is what applies
+
+6
+
+both under a Daubert standard, as well as a class
+
+7
+
+certification, where the judge is --
+
+8
+9
+
+So, I mean, that's what
+That is definitely
+
+It's a question of
+
+And you can analyze it however you want
+
+JUSTICE SCALIA:
+
+You're -- you are saying
+
+it's inadmissible if it's inadequately probative, right?
+
+10
+
+MR. BARNETT:
+
+It --
+
+11
+
+JUSTICE SCALIA:
+
+So the two questions boil
+
+12
+
+down to the same, don't they?
+
+13
+
+probative, it's inadmissible, isn't that right.
+
+14
+15
+
+MR. BARNETT:
+
+If -- if you are talking about
+
+at the hearing for the class certification --
+
+16
+
+JUSTICE SCALIA:
+
+17
+
+MR. BARNETT:
+
+18
+
+JUSTICE SCALIA:
+
+19
+
+21
+
+JUSTICE SCALIA:
+
+24
+25
+
+I'm talking about what --
+
+what is the criterion for Daubert?
+MR. BARNETT:
+
+23
+
+Well, whenever.
+
+-- as opposed to a trial.
+
+20
+
+22
+
+If it's inadequately
+
+Daubert -Is it adequately probative?
+
+If not, it's inadmissible, so.
+MR. BARNETT:
+
+If it is unreliable, then it
+
+is not admissible.
+JUSTICE SCALIA:
+
+Well, you want to say -­
+
+30
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+MR. BARNETT:
+
+It is not adequately or
+
+inadequately --
+
+3
+
+JUSTICE SCALIA:
+
+You say unreliable.
+
+4
+
+inadequately probative.
+
+5
+
+because it is inadequately probative.
+
+It's -- it is unreliable
+
+6
+
+MR. BARNETT:
+
+7
+
+JUSTICE SCALIA:
+
+8
+
+MR. BARNETT:
+
+9
+10
+
+you about that.
+
+It's -- okay, Your Honor.
+There --
+
+I am not going to quibble with
+
+But this case -- Comcast, at the heart
+
+of this appeal, it's Comcast --
+
+11
+
+JUSTICE KAGAN:
+
+Mr. Barnett, it's always
+
+12
+
+true, isn't it, that evidence that is inadequately
+
+13
+
+probative is inadmissible?
+
+14
+
+MR. BARNETT:
+
+15
+
+JUSTICE KAGAN:
+
+Is it always the case?
+It's always been true,
+
+16
+
+right, if evidence is not probative?
+
+17
+
+MR. BARNETT:
+
+18
+
+I say
+
+If there is an objection -- if
+
+there is an objection, there is a lot of authority --
+
+19
+
+JUSTICE KAGAN:
+
+Well, that's the thing.
+
+I
+
+20
+
+mean, but have we ever said that -- that without an
+
+21
+
+objection, somebody can say, look, we -- we argued about
+
+22
+
+this evidence, and that should be just good enough, even
+
+23
+
+though we didn't -- we didn't make an objection to
+
+24
+
+exclude it?
+
+25
+
+MR. BARNETT:
+
+I -- I am unaware of any time
+31
+
+
+Alderson Reporting Company
+
+Official
+
+1
+
+this Court has said it's okay not to object.
+
+2
+
+CHIEF JUSTICE ROBERTS:
+
+We are -- we are
+
+3
+
+having an elaborate discussion, and you did in -- in the
+
+4
+
+briefs, about whether or not this was a claim that was
+
+5
+
+waived below.
+
+6
+
+court of review, not first view.
+
+7
+
+No court has addressed that yet.
+
+We're a
+
+So it seems to me that one option for the
+
+8
+
+Court, since we did reformulate the question, is to
+
+9
+
+answer the question and then send it back for the court
+
+10
+
+to determine whether or not the parties adequately
+
+11
+
+preserved that option or not -- that objection or not.
+
+12
+
+MR. BARNETT:
+
+Your Honor, I agree that
+
+13
+
+that's one of the options that Your Honor has.
+
+14
+
+course, it goes back with all the scuffs and scars and
+
+15
+
+mess-ups that preceded it up until today.
+
+16
+
+CHIEF JUSTICE ROBERTS:
+
+Well, fine.
+
+But of
+
+I mean,
+
+17
+
+and the district court, presumably, can decide based on
+
+18
+
+the proceedings and all that below, all the scars and
+
+19
+
+mess-ups, whether or not it was adequately preserved or
+
+20
+
+not.
+
+21
+22
+23
+
+MR. BARNETT:
+
+I agree, Mr. Chief Justice.
+
+I -- I do -JUSTICE BREYER:
+
+The strongest argument I
+
+24
+
+think for that point of view would be simply this:
+
+25
+
+Smith Company makes widgets.
+
+The
+
+The plaintiff says they
+
+32
+
+Alderson Reporting Company
+
+Official
+
+1
+
+monopolize the widget business.
+
+2
+
+monopolized because they achieved the power to raise
+
+3
+
+price above the competitive level through exclusionary
+
+4
+
+practices.
+
+5
+
+garbage on the ships of its competitors.
+
+6
+
+That business has
+
+For example, United Fruit used to pour
+
+Now, we have here a class of people who have
+
+7
+
+been injured by their monopoly power -- and here they
+
+8
+
+are, and you give a list.
+
+9
+
+side, how do you know that's the right list?
+
+The judge says to the other
+Well, we
+
+10
+
+know; here's how we know.
+
+We have an expert here who
+
+11
+
+has used a model to pick out the right people who were
+
+12
+
+injured by the monopoly power -- its exercise.
+
+13
+
+other side says, no, that model is no good.
+
+And the
+
+14
+
+Well, if it genuinely is no good and really
+
+15
+
+worthless, then I guess you haven't shown these are the
+
+16
+
+right people for the class.
+
+17
+
+they're saying.
+
+18
+
+answer this question, do we have to go look at the
+
+19
+
+model?
+
+20
+
+know.
+
+21
+22
+23
+24
+25
+
+And I think that's what
+
+And so the response to that is, to
+
+I mean, on its face, it seems okay.
+I haven't looked at the record.
+MR. BARNETT:
+
+I don't
+
+And --
+
+I would love to talk about the
+
+model.
+JUSTICE BREYER:
+
+Could you talk about that a
+
+little bit, please?
+MR. BARNETT:
+
+Yes, I -­
+33
+
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+JUSTICE BREYER:
+right?
+
+3
+4
+
+MR. BARNETT:
+this model.
+
+5
+6
+
+I would love to talk about
+
+This -JUSTICE BREYER:
+
+No, no.
+
+That isn't what I
+
+want to really know.
+
+7
+
+(Laughter.)
+
+8
+
+JUSTICE BREYER:
+
+9
+
+Did I get my analysis
+
+I want to know -- if you
+
+think of the examples I just -- do you, as the
+
+10
+
+plaintiff, when you draw up your list of class members,
+
+11
+
+have to have on that list people who really were hurt by
+
+12
+
+the -- or plausibly were hurt by the exercise of market
+
+13
+
+power?
+
+14
+
+out, and you have chosen this model as a way.
+
+15
+
+guess they could object on the ground that model is
+
+16
+
+worthless.
+
+17
+18
+
+And you have to have some way of picking them
+
+Is this analysis right?
+
+So I
+
+And you would have
+
+to show, no, it isn't worthless.
+
+19
+
+MR. BARNETT:
+
+Yes, Your Honor.
+
+We do have
+
+20
+
+to show that this is a fantastic model, which it is.
+
+21
+
+is --
+
+22
+
+JUSTICE BREYER:
+
+23
+
+much.
+
+24
+
+model.
+
+25
+
+It
+
+You don't have to show that
+
+I think you only have to show it's a plausible
+
+MR. BARNETT:
+
+All right.
+34
+
+
+Alderson Reporting Company
+
+I -- I agree.
+
+I
+
+Official
+
+1
+
+am not going to put the -- I am happy with whatever test
+
+2
+
+you all want to apply is what I'm saying.
+
+3
+
+(Laughter.)
+
+4
+
+MR. BARNETT:
+
+This is a good model.
+
+And two
+
+5
+
+of the basic misconceptions that this case comes into
+
+6
+
+this Court with is, first, that there -- that
+
+7
+
+Dr. McClave was talking about a causal connection
+
+8
+
+between the anticompetitive conduct and the damages.
+
+9
+
+He was estimating, whatever the -- whatever
+
+10
+
+the anticompetitive conduct is, whatever the judge or
+
+11
+
+jury finds is the anticompetitive conduct that accounts
+
+12
+
+for the sky-high prices throughout the Philadelphia
+
+13
+
+area -- whatever it is, this is an accurate reflection
+
+14
+
+of the damages on a class-wide basis aggregated across
+
+15
+
+the class.
+
+16
+
+The -- Comcast -JUSTICE SCALIA:
+
+He didn't say what --
+
+17
+
+there -- there were four possibilities that he took into
+
+18
+
+account, right, as to what the anticompetitive conduct
+
+19
+
+was?
+
+20
+
+MR. BARNETT:
+
+21
+
+JUSTICE SCALIA:
+
+22
+23
+
+And, Your Honor -And as it turns out, only
+
+one of those was found to -- to be in the game.
+MR. BARNETT:
+
+I do want to make sure I -- I
+
+24
+
+make the connection.
+
+Dr. Williams was the one who
+
+25
+
+talked about this -- not Dr. McClave.
+35
+
+Alderson Reporting Company
+
+Dr. Williams was
+
+Official
+
+1
+
+the one who said this is the anticompetitive conduct,
+
+2
+
+and this is what caused there to be less competition.
+
+3
+
+It was Dr. McClave's job to figure out, well, what's the
+
+4
+
+harm to the class as a result of that chain of events?
+
+5
+
+You are right, Your Honor, that --
+
+6
+
+Justice Scalia, that Judge -- Judge Padova excluded
+
+7
+
+three of the four mechanisms that Dr. Williams talked
+
+8
+
+about as having a causal connection.
+
+9
+
+Dr. Williams --
+
+10
+11
+
+JUSTICE SCALIA:
+
+And it turns out
+
+That was the basis for the
+
+claims.
+
+12
+
+MR. BARNETT:
+
+It was not, Your Honor.
+
+13
+
+JUSTICE SCALIA:
+
+It was not the basis?
+
+14
+
+was based only on the one that the court accepted?
+
+15
+
+Where -- where in the record is -- is that?
+
+16
+17
+18
+
+MR. BARNETT:
+
+His
+
+His -- his model was agnostic
+
+about what the anticompetitive conduct was.
+JUSTICE SCALIA:
+
+You can't be agnostic about
+
+19
+
+what the anticompetitive conduct is, if you are going to
+
+20
+
+do -- if you're going to do an analysis of what are the
+
+21
+
+consequences of the -- of the anticompetitive conduct,
+
+22
+
+you have to know the anticompetitive conduct you are
+
+23
+
+talking about.
+
+24
+25
+
+MR. BARNETT:
+
+Again, I want to make sure I
+
+am being precise about this, Justice Scalia.
+36
+
+Alderson Reporting Company
+
+There is
+
+Official
+
+1
+
+no question that the conduct that caused the harm is the
+
+2
+
+clustering behavior that Comcast engaged in over a
+
+3
+
+decade's time.
+
+4
+
+What is not clear -- was not clear, but is
+
+5
+
+now, because Judge Padova has told us, which of the
+
+6
+
+mechanisms that Dr. Williams formulated as possible
+
+7
+
+causes of the -- the possible engines that resulted in
+
+8
+
+the prices going way up.
+
+9
+
+JUSTICE BREYER:
+
+And I guess, in a
+
+10
+
+monopolization case, it is not the case that you have to
+
+11
+
+trace the damages to the exclusionary conduct.
+
+12
+
+MR. BARNETT:
+
+Exactly.
+
+13
+
+JUSTICE BREYER:
+
+In a classical class
+
+14
+
+of -- Section 2 case, the damages are caused by the
+
+15
+
+monopolization, which lacks skill, foresight, and
+
+16
+
+industry justification.
+
+17
+
+three, but kept one has nothing to do with damages in
+
+18
+
+a classical Section 2 case, is that right?
+
+19
+
+So the fact that he omitted
+
+MR. BARNETT:
+
+Exactly right, Justice Breyer.
+
+20
+
+And maybe, if you think of it as the possibility of -- I
+
+21
+
+think of in terms of engines.
+
+22
+
+is causing something.
+
+23
+
+There is an engine that
+
+Maybe it's --
+
+JUSTICE BREYER:
+
+But here is the difficulty
+
+24
+
+that I am having, a little technical, but -- but it --
+
+25
+
+this is a regulated industry.
+37
+
+Alderson Reporting Company
+
+Official
+
+1
+
+MR. BARNETT:
+
+Yes, Your Honor.
+
+2
+
+JUSTICE BREYER:
+
+And because it's a
+
+3
+
+regulated industry, the regulator, in your view, is
+
+4
+
+doing one of the worst jobs in history.
+
+5
+
+willing to come in and overbuild and everything, so he
+
+6
+
+must be letting prices -- all right.
+
+7
+
+or lawyer were to find, that's okay, it doesn't matter,
+
+8
+
+all we're interested in is what Justice Scalia says.
+
+They are
+
+Suppose the judge
+
+9
+
+Then, if that were true, from looking at the
+
+10
+
+footnote on this, I guess you'd take this model, and you
+
+11
+
+would simply subtract or add to the base, which is
+
+12
+
+supposed to be the competitively priced districts.
+
+13
+
+MR. BARNETT:
+
+14
+
+JUSTICE BREYER:
+
+15
+
+Yes, Your Honor.
+The districts that also
+
+have satellite.
+
+16
+
+MR. BARNETT:
+
+Indeed.
+
+17
+
+JUSTICE BREYER:
+
+And that shouldn't be tough
+
+18
+
+to do, but I don't know if it's tough to do, and I don't
+
+19
+
+see how we're ever going to find out.
+
+20
+21
+
+MR. BARNETT:
+done.
+
+The record says it can be
+
+In fact --
+
+22
+
+JUSTICE BREYER:
+
+23
+
+you answer such a question?
+
+24
+25
+
+MR. BARNETT:
+
+I don't know.
+
+How would
+
+I would -- would cite you
+
+to -- let's see if I can find it.
+38
+
+Alderson Reporting Company
+
+Official
+
+1
+
+It's in -- actually in the court of appeals
+
+2
+
+record AO 01533 through 34, it is stated there that you
+
+3
+
+can take off of the DBS -- if you don't like the DBS
+
+4
+
+penetration screen, then you can turn it off, and
+
+5
+
+damages are still, as we have established since -- when
+
+6
+
+Comcast -- when they finally did file a Daubert motion,
+
+7
+
+would be something like $550 million on a class-wide
+
+8
+
+basis.
+
+9
+
+So that is in the record, as well as there
+
+10
+
+is ample evidence, Exhibit 82, which shows 23 different
+
+11
+
+iterations of the damages models, including damages
+
+12
+
+models that Dr. Chipty on the Comcast side put together,
+
+13
+
+slicing and dicing all of this data to show that, no
+
+14
+
+matter how you slice it and dice it, almost, if you did
+
+15
+
+it in any kind of a fair way that the Federal Judicial
+
+16
+
+Center recognizes as a reliable type of methodology, you
+
+17
+
+are going to have significant damages across the class
+
+18
+
+for each class member throughout the time period.
+
+19
+
+The other thing I would like --
+
+20
+
+JUSTICE KAGAN:
+
+21
+22
+23
+
+Mr. Barnett -- I'm sorry.
+
+Go ahead.
+MR. BARNETT:
+
+No, Your Honor.
+
+I was about
+
+to change that subject.
+
+24
+
+JUSTICE KAGAN:
+
+25
+
+(Laughter.)
+
+Okay.
+
+39
+
+Alderson Reporting Company
+
+Then I will.
+
+Official
+
+1
+2
+
+JUSTICE KAGAN:
+
+I am still in search of a
+
+legal question that anybody disagrees about here.
+
+3
+
+(Laughter.)
+
+4
+
+JUSTICE KAGAN:
+
+You know, I read before the
+
+5
+
+district court statement of the standard, now all points
+
+6
+
+of the circuit court statement of the standard, where
+
+7
+
+the circuit court says, "The inquiry for a district
+
+8
+
+court at the class certification stage is whether the
+
+9
+
+plaintiffs have demonstrated" -- burden is on you -- "by
+
+10
+
+a preponderance of the evidence that they will be able
+
+11
+
+to measure damages on a class-wide basis using common
+
+12
+
+proof."
+
+13
+
+The parties both agree with that statement
+
+14
+
+of the standard.
+
+15
+
+both agree -- and this goes back to Justice Sotomayor's
+
+16
+
+question -- that if the Daubert question had not been
+
+17
+
+waived, that if -- if Comcast had objected to the
+
+18
+
+admissibility of this expert report, that, indeed, the
+
+19
+
+court would -- should have held a hearing on the
+
+20
+
+admissibility of the expert report.
+
+21
+
+It seems to me that the parties also
+
+So this is a case where it seems to me that,
+
+22
+
+except for the question of how good the expert report
+
+23
+
+is, none of the parties have any adversarial difference
+
+24
+
+as to the appropriate legal standard.
+
+25
+
+usually, we decide cases based on disagreements about
+40
+
+Alderson Reporting Company
+
+And -- you know,
+
+Official
+
+1
+
+law.
+
+2
+3
+
+And here, I can't find one.
+Is there any?
+
+Do you disagree with
+
+Mr. Estrada on any statement of the legal standard?
+
+4
+
+MR. BARNETT:
+
+I -- I do not, Your Honor, and
+
+5
+
+I think Justice -- Judge Padova got it exactly right.
+
+6
+
+You read the -- the standard that he applied.
+
+7
+
+if anything, it's a tougher standard than should be the
+
+8
+
+test.
+
+9
+
+happy about it, and we don't disagree with Mr. Estrada.
+
+10
+
+In fact,
+
+But we're -- we embrace that test and we are
+
+And this is what I was about to change
+
+11
+
+subject to a little bit, the two misconceptions that
+
+12
+
+fundamentally affect Comcast's view of the world --
+
+13
+
+JUSTICE ALITO:
+
+Well, before you do that,
+
+14
+
+let me ask a question related to what Justice Kagan just
+
+15
+
+asked.
+
+16
+
+reformulated, I take it your answer would be that a
+
+17
+
+district court under those circumstances may not certify
+
+18
+
+a class action; is that right?
+
+19
+
+If we were to answer the question presented as
+
+MR. BARNETT:
+
+If there is a proper
+
+20
+
+objection, properly and timely presented, it's preserved
+
+21
+
+up through the appellate courts and all the things that
+
+22
+
+you need to do in order to be fair to the judge, as well
+
+23
+
+as make sure you get it -- give it as good a chance to
+
+24
+
+be right as possible, the answer would be yes.
+
+25
+
+that's a lot of caveats before you get -­
+41
+
+Alderson Reporting Company
+
+But
+
+Official
+
+1
+
+JUSTICE ALITO:
+
+Well, then the only
+
+2
+
+remaining question is whether the issue was in the case
+
+3
+
+as a factual -- as a matter of the record here; isn't
+
+4
+
+that right?
+
+5
+
+MR. BARNETT:
+
+Well, if the issue of
+
+6
+
+admissibility is in the case, I don't think it is.
+
+If
+
+7
+
+evidence comes in -- again, this is -- this was not a
+
+8
+
+bunch of expert reports that were just piled up on
+
+9
+
+the -- in chambers, and Judge Padova went through them.
+
+10
+
+He actually, at their request, had a four-day hearing,
+
+11
+
+and then a fifth day, where he posed a series -- I think
+
+12
+
+it was a four-page letter where the judge says, I'm
+
+13
+
+concerned about this, I'm concerned about that, y'all
+
+14
+
+come back and tell me why it's okay.
+
+15
+
+And what --
+
+16
+
+JUSTICE ALITO:
+
+17
+18
+
+Well, could this report be
+
+probative if it did not satisfy Daubert?
+MR. BARNETT:
+
+The answer, Your Honor -- and
+
+19
+
+my source is Section 274 of Trial and Corpus Juris
+
+20
+
+Secundum, well-recognized in this Court, no doubt.
+
+21
+
+says that, if it's in the record, if it comes in
+
+22
+
+unobjected to, it has whatever probative value the
+
+23
+
+court -- the trier-of-fact chooses to place on it.
+
+24
+25
+
+JUSTICE KENNEDY:
+
+It
+
+That the court as the
+
+trier-of-fact chooses to -- that the -- not reserved to
+42
+
+Alderson Reporting Company
+
+Official
+
+1
+
+cases where there's a jury?
+
+2
+
+MR. BARNETT:
+
+3
+
+JUSTICE KENNEDY:
+
+Is that --
+
+No, Your Honor.
+It seems to me that, as I
+
+4
+
+indicated before, that the whole question of weight and
+
+5
+
+admissibility is somewhat less important when the trial
+
+6
+
+judge is not the gatekeeper.
+
+7
+
+end of the day, can hear the testimony and say, you
+
+8
+
+know, I admitted this testimony, but it doesn't make any
+
+9
+
+sense, it doesn't work.
+
+10
+
+MR. BARNETT:
+
+The trial judge, at the
+
+What's happening, Your Honor,
+
+11
+
+is you have got to satisfy -- Rule 23(b)(3) says the
+
+12
+
+judge has to make findings.
+
+13
+
+parts of Rule 23 that talks about findings.
+
+14
+15
+
+JUSTICE KENNEDY:
+
+That's one of the few
+
+Well, he does what I said,
+
+but then he has 100 pages of findings.
+
+16
+
+MR. BARNETT:
+
+Yes, Your Honor.
+
+But he's --
+
+17
+
+he's acting as a gatekeeper, and what he's doing -- or
+
+18
+
+she's doing is projecting, what's this trial going to
+
+19
+
+look like, based on the evidence in front of me?
+
+20
+
+JUSTICE KENNEDY:
+
+No, I think that's where
+
+21
+
+we disagree.
+
+22
+
+that, in his view, the -- the class can be certified.
+
+23
+24
+25
+
+The judge has to make a determination
+
+MR. BARNETT:
+
+Absolutely.
+
+He does.
+
+And
+
+if -JUSTICE KENNEDY:
+
+And that includes some
+
+43
+
+Alderson Reporting Company
+
+Official
+
+1
+
+factual inquiries as -- as to the damages alleged and
+
+2
+
+the cause of the injury and whether or not there is a
+
+3
+
+common -- whether or not there's a commonality.
+
+4
+
+MR. BARNETT:
+
+The -- Justice Kennedy, the
+
+5
+
+district judge asks, prove to me -- to the plaintiff,
+
+6
+
+that you can prove it at trial, prove to me now that, at
+
+7
+
+trial, you will be able to submit a damages model that
+
+8
+
+passes muster, under Daubert or whatever test there is,
+
+9
+
+depending on what the objections are.
+
+10
+
+So the judge is acting in a gatekeeper role,
+
+11
+
+right then, kind of projecting into the future about
+
+12
+
+what am I going to do when the jury's in the box --
+
+13
+
+JUSTICE KENNEDY:
+
+Well, that's not -- I'll
+
+14
+
+think about it, but that's not my understanding.
+
+15
+
+thought the judge has to make a determination that, in
+
+16
+
+the next case we are going to hear this morning, that
+
+17
+
+the representation is material or it affects the market.
+
+18
+
+The judge has to make that conclusion, make that
+
+19
+
+finding.
+
+20
+
+MR. BARNETT:
+
+I
+
+And the finding that the judge
+
+21
+
+makes, based on preponderance of the evidence,
+
+22
+
+plaintiffs have shown to me that, more likely than not,
+
+23
+
+at trial, plaintiffs will be able to show, on a
+
+24
+
+class-wide basis, some evidence, enough to get a verdict
+
+25
+
+that could be upheld, enough that satisfies to some
+44
+
+Alderson Reporting Company
+
+Official
+
+1
+
+evidence or whatever the test is at trial, that shows
+
+2
+
+damages on a class-wide basis.
+
+3
+
+So the judge isn't saying, this is it, you
+
+4
+
+can't fix it, you can't change it, you can't modify it,
+
+5
+
+you can't enhance it between now and trial.
+
+6
+
+that you can do it.
+
+7
+
+satisfaction, that, more likely than not, that the
+
+8
+
+evidence that you will present to the jury at trial is
+
+9
+
+going to be admissible, and it's going to be
+
+He says
+
+You have shown to me -- to my
+
+10
+
+sufficiently persuasive if the jury chooses to accept
+
+11
+
+it.
+
+12
+
+And this is where -- I really want to get to
+
+13
+
+this about the merits.
+
+14
+
+deal of confusion about what Judge Aldisert meant in the
+
+15
+
+Third Circuit when he talked about the merits.
+
+16
+
+This -- I think there is a great
+
+Comcast, each time construes, when he uses
+
+17
+
+the word "merits," talk about incantation of magic
+
+18
+
+words, that that means whether it's good or bad, that
+
+19
+
+that is what Judge Aldisert was talking about.
+
+20
+
+not what he was talking about at all.
+
+21
+
+about trial on the merits.
+
+22
+
+now, we don't have to decide whether this model is
+
+23
+
+perfect.
+
+24
+25
+
+That is
+
+He was talking
+
+He was saying that, right
+
+It's enough.
+The test -- this issue isn't before us
+
+because it's been waived, Daubert and all that, but if
+45
+
+Alderson Reporting Company
+
+Official
+
+1
+
+you want to know what our observation would be, if this
+
+2
+
+were presented in a proper case, then observation is it
+
+3
+
+doesn't have to be perfect, and it can be enhanced
+
+4
+
+between now -- which is supposed to happen at an early,
+
+5
+
+practicable time -- and trial, so that the jury can see
+
+6
+
+it.
+
+7
+
+JUSTICE SOTOMAYOR:
+
+Counsel, tell me -- you
+
+8
+
+articulate for me what you think -- what the district
+
+9
+
+court found when it accepted your expert's theory as
+
+10
+
+adequate.
+
+11
+
+MR. BARNETT:
+
+12
+
+JUSTICE SOTOMAYOR:
+
+13
+14
+
+What Judge -What do you think that
+
+means, legally?
+MR. BARNETT:
+
+What Judge Padova found was
+
+15
+
+that the McClave damages model is persuasive to him --
+
+16
+
+sufficiently persuasive to him, that it could be used at
+
+17
+
+trial to prove damages on a class-wide basis.
+
+18
+19
+
+JUSTICE SOTOMAYOR:
+"sufficiently persuasive" mean?
+
+20
+
+MR. BARNETT:
+
+21
+
+JUSTICE SOTOMAYOR:
+
+22
+23
+
+And so what does
+
+That more likely than not -It sounds nice, but more
+
+likely than not -MR. BARNETT:
+
+More likely than not that it
+
+24
+
+will be admissible at trial, and it will meet the
+
+25
+
+standard that's required to get to a verdict.
+46
+
+Alderson Reporting Company
+
+Not that
+
+Official
+
+1
+
+it's I'm convinced that you're right.
+
+2
+
+Judge Aldisert was talking about.
+
+3
+
+And that's what
+
+He said, it's not time for us to say Comcast
+
+4
+
+wins or plaintiffs win, based on all this evidence.
+
+5
+
+only thing that's really before the court is whether,
+
+6
+
+more likely than not, the plaintiffs have presented a
+
+7
+
+model -- we're talking about a model in this case.
+
+8
+
+could be a different issue in a different case.
+
+9
+
+the Amgen case that's coming up, it could be a different
+
+10
+
+The
+
+It
+
+In the
+
+issue.
+
+11
+
+JUSTICE GINSBURG:
+
+Mr. Barnett, this is on a
+
+12
+
+different issue, but you had originally suggested that
+
+13
+
+you had -- that the motion -- that the settlement that's
+
+14
+
+looming was a reason that this Court ought not to decide
+
+15
+
+this case.
+
+16
+
+district court's denial of your motion to enforce the
+
+17
+
+settlement, that the proposed settlement has no bearing
+
+18
+
+on this Court's consideration of the case?
+
+19
+
+But do you now agree that, given the
+
+MR. BARNETT:
+
+At this time, Your Honor, I
+
+20
+
+think -- I think it has no bearing on what this Court
+
+21
+
+does or does not do in this case.
+
+22
+
+we would have the right to appeal at an appropriate
+
+23
+
+time, but we're not doing that now.
+
+24
+25
+
+CHIEF JUSTICE ROBERTS:
+
+It is something that
+
+Counsel, it -- it
+
+seems to me that your answer to Justice Sotomayor, which
+47
+
+Alderson Reporting Company
+
+Official
+
+1
+
+is whether it's more likely than not that this will be
+
+2
+
+something that can be used at trial, one way to capture
+
+3
+
+that is whether or not this evidence is usable, right?
+
+4
+5
+
+MR. BARNETT:
+
+I would not say that.
+
+And
+
+partly --
+
+6
+
+CHIEF JUSTICE ROBERTS:
+
+More likely than not
+
+7
+
+whether it can be used at trial, that sounds like, is it
+
+8
+
+usable?
+
+9
+
+MR. BARNETT:
+
+10
+
+hesitating is because --
+
+11
+12
+
+Well, the reason I'm
+
+CHIEF JUSTICE ROBERTS:
+
+Well, I know the
+
+reason you're hesitating.
+
+13
+
+(Laughter.)
+
+14
+
+MR. BARNETT:
+
+Well -- and also, it's because
+
+15
+
+it's something you don't know.
+
+16
+
+"unusable," in court, they were talking about common
+
+17
+
+impact.
+
+18
+
+discussion was about.
+
+19
+
+When that word was used,
+
+That's what that was about.
+
+That was what that
+
+It wasn't about this model.
+
+JUSTICE KENNEDY:
+
+Well, of course, there
+
+20
+
+matters for the trier of fact to determine at the merits
+
+21
+
+stage, but under -- under Daubert and under Rule 702,
+
+22
+
+the judge has to say that the evidence is relevant to
+
+23
+
+the task at hand, and it has a reliable foundation.
+
+24
+
+can see a judge saying, well, now, this theory that
+
+25
+
+you're using, this theory works, I think it's accepted
+48
+
+Alderson Reporting Company
+
+I
+
+Official
+
+1
+
+in academia.
+
+2
+
+says, It just doesn't work here.
+
+3
+
+Then he hears all the testimony, and he
+
+MR. BARNETT:
+
+And Judge Padova could have
+
+4
+
+done that, but he didn't do that.
+
+5
+
+persuaded by the evidence that Dr. McClave put on, and
+
+6
+
+he rejected -- because we know from his 81-page opinion
+
+7
+
+that he rejected an awful lot of what Comcast's experts
+
+8
+
+said.
+
+9
+
+I think he was
+
+So he -- he could have made that
+
+10
+
+determination.
+
+11
+
+talking -- if we're not dealing just with an
+
+12
+
+admissibility issue that's been forfeited away, we're
+
+13
+
+dealing with abuse of discretion and clearly erroneous.
+
+14
+
+And this is --
+
+15
+16
+17
+
+And this is why it's an -- if we're
+
+JUSTICE KENNEDY:
+
+I'm -- I'm not sure what I
+
+just described is not Daubert.
+MR. BARNETT:
+
+Your Honor, if you're in a
+
+18
+
+trial court and somebody says Daubert or somebody says
+
+19
+
+Rule 702 or somebody says I object to this expert's
+
+20
+
+testimony, that has profound significance.
+
+21
+
+I think it's -- it's almost disrespectful to the
+
+22
+
+district court to say, it's okay, although this -- this
+
+23
+
+question wasn't on the test that you had when you were
+
+24
+
+trying to decide the case, we're going to add the
+
+25
+
+question to the test, and by the way, you flunked it.
+49
+
+Alderson Reporting Company
+
+And, again,
+
+Official
+
+1
+
+That's not fair.
+
+2
+
+JUSTICE SOTOMAYOR:
+
+Counsel, the bottom line
+
+3
+
+is can a district court ever say that it's persuaded by
+
+4
+
+unreliable or not probative evidence.
+
+5
+
+bottom line question.
+
+6
+
+MR. BARNETT:
+
+7
+
+JUSTICE SOTOMAYOR:
+
+That's really the
+
+I -Does it commit legal
+
+8
+
+error when it finds something that's unreliable and
+
+9
+
+unpersuasive -- or unprobative?
+
+10
+
+MR. BARNETT:
+
+Well, Your Honor, I agree.
+
+11
+
+And of course, that's not the issue in the case because
+
+12
+
+Judge Padova was convinced it was reliable.
+
+13
+
+plenty of proof that there was.
+
+14
+15
+
+JUSTICE SOTOMAYOR:
+
+I -- I think that's a
+
+fair reading of what he said --
+
+16
+
+MR. BARNETT:
+
+17
+
+JUSTICE SOTOMAYOR:
+
+18
+
+And there's
+
+Right.
+-- but if we're
+
+answering a legal question.
+
+19
+
+MR. BARNETT:
+
+We're talking about the -- the
+
+20
+
+edges and all the -- where everything is done properly
+
+21
+
+below.
+
+22
+
+whatever the test is, let's not reformulate it here -- I
+
+23
+
+suppose, yes, then it's not admissible.
+
+24
+25
+
+If it doesn't pass muster under Daubert --
+
+JUSTICE SOTOMAYOR:
+
+The problem everyone's
+
+having is -- I think -- that why do you need Daubert to
+50
+
+Alderson Reporting Company
+
+Official
+
+1
+
+point out that something is not probative or unreliable?
+
+2
+
+Why -- whether it's an expert or a lay witness
+
+3
+
+testifying, wouldn't you apply that same standard to
+
+4
+
+anybody's testimony?
+
+5
+
+MR. BARNETT:
+
+Justice Sotomayor, let me --
+
+6
+
+let me just give you an example.
+
+There were a bunch of
+
+7
+
+issues that the dissenting judge raised, including the
+
+8
+
+overbuilding screen, a particular kind of market screen,
+
+9
+
+mathematical averages.
+
+If -- in the DBS penetration
+
+10
+
+screen, if he had raised any of those, if there had been
+
+11
+
+a whisper of a hint of a suggestion, of a thought, of
+
+12
+
+those things in the district court, we'd have been
+
+13
+
+all over that.
+
+14
+
+false, that those -- that those statements are untrue.
+
+15
+
+And we would have proved that it was
+
+And we know that's accurate because, as I
+
+16
+
+just read to you from the -- the court of appeals
+
+17
+
+record, the DBS screen can, in fact, be taken off,
+
+18
+
+eliminated from the sample, and you still have
+
+19
+
+$550 million worth of damages on a class-wide basis.
+
+20
+
+JUSTICE SCALIA:
+
+21
+
+MR. BARNETT:
+
+Mr. --
+
+And the reason we got to that
+
+22
+
+is because they finally did when -- on the eve of trial,
+
+23
+
+file an actual Daubert motion, and that was our
+
+24
+
+response.
+
+25
+
+And they cited footnote 323 of their brief.
+JUSTICE SCALIA:
+
+Mr. Barnett, suppose -­
+
+51
+
+Alderson Reporting Company
+
+Official
+
+1
+
+suppose we held that where -- where there's a bench
+
+2
+
+trial, it doesn't make any difference what -- what --
+
+3
+
+whether the judge excludes the evidence under Daubert --
+
+4
+
+I never know how to say it.
+
+5
+
+(Laughter.)
+
+6
+
+MR. BARNETT:
+
+7
+
+Is it Daubert or Daubert?
+
+It depends on the time of day,
+
+Your Honor.
+
+8
+
+(Laughter.)
+
+9
+
+JUSTICE SCALIA:
+
+Yes, I think you're right.
+
+10
+
+It doesn't make a dime's worth of difference whether the
+
+11
+
+judge excludes it under -- under Daubert or proceeds to
+
+12
+
+find it simply unreliable -- unreliable.
+
+13
+
+suppose we held that.
+
+14
+
+make in the world?
+
+Suppose --
+
+What -- what difference would it
+
+15
+
+MR. BARNETT:
+
+I would --
+
+16
+
+JUSTICE SCALIA:
+
+So the trial judge could
+
+17
+
+say, yes, I have a Daubert motion, but -- but I'm going
+
+18
+
+to defer that.
+
+19
+
+see whether this evidence is reliable.
+
+20
+
+I'm just going to -- going to proceed to
+
+MR. BARNETT:
+
+Justice Scalia, I would say
+
+21
+
+what you're doing is what I suggest the Court ought to
+
+22
+
+do.
+
+23
+
+discretion in a lot of different things that they do.
+
+24
+
+You just made it this much bigger as a result of saying,
+
+25
+
+we're not even going to bother with the Daubert thing,
+
+Everybody knows that district judges have broad
+
+52
+
+Alderson Reporting Company
+
+Official
+
+1
+
+we're going to trust that the district judge is not
+
+2
+
+going to be persuaded by phony evidence, and we're going
+
+3
+
+to trust-- if he gets it nearly close, right, that he
+
+4
+
+got it right.
+
+5
+
+CHIEF JUSTICE ROBERTS:
+
+6
+
+Mr. Estrada, you have five minutes
+
+7
+8
+9
+
+Thank you, counsel.
+
+remaining.
+REBUTTAL ARGUMENT OF MIGUEL ESTRADA
+ON BEHALF OF THE PETITIONERS
+
+10
+
+MR. ESTRADA:
+
+Thank you, Mr. Chief Justice.
+
+11
+
+Let me -- let me start with the proposition
+
+12
+
+which I continue to find startling, that a damages model
+
+13
+
+can stand up to examination on the theory that it is not
+
+14
+
+linked to any theory of anticompetitive conduct.
+
+15
+
+the theory seems to be that what the McClave model is
+
+16
+
+intended to do is to isolate competitive markets
+
+17
+
+elsewhere that are competitive in some sense, come to
+
+18
+
+the conclusion that the Philadelphia DMA is somehow less
+
+19
+
+competitive, and charge whatever the expert says is the
+
+20
+
+difference to Comcast.
+
+Now,
+
+21
+
+But that has a fundamental failure, as a
+
+22
+
+matter of substantive antitrust law, because we know
+
+23
+
+from cases from this Court and the court of appeals
+
+24
+
+going back to Story Parchment, that the one requirement
+
+25
+
+is that causation link of the damages -- you know, it
+53
+
+Alderson Reporting Company
+
+Official
+
+1
+
+has to be certainly linked to illegal conduct.
+
+2
+
+JUSTICE BREYER:
+
+Is that right?
+
+Is that
+
+3
+
+what Learned Hand said?
+
+Is -- is that what Alcoa holds?
+
+4
+
+Is that United Fruit holds when they bomb their
+
+5
+
+competitor's ship and achieve monopolization?
+
+6
+
+only people who can get damages are the people who run
+
+7
+
+the ship and were bombed --
+
+8
+
+MR. ESTRADA:
+
+9
+
+JUSTICE BREYER:
+
+That the
+
+No, I think --
+
+I didn't know that.
+
+-- who bought those
+
+10
+
+bananas?
+
+11
+
+right, which I tend to doubt, but I'll look it up, if
+
+12
+
+you're right --
+
+13
+
+MR. ESTRADA:
+
+14
+
+JUSTICE BREYER:
+
+But besides, if you're
+
+Story Parchment.
+Yes, all right.
+
+Fine.
+
+15
+
+I'll look that up.
+
+16
+
+out, it's still one of the easiest things in the world
+
+17
+
+to simply change the base for this model.
+
+18
+
+the base being those businesses or homeowners who
+
+19
+
+received their service at competitive prices, we say --
+
+20
+
+we modify it by including those who received services
+
+21
+
+where DBS was involved, and that'll be a higher price,
+
+22
+
+and we subtract that price from the price they paid
+
+23
+
+where there was overbuilding threatened.
+
+24
+25
+
+If you're right and as they pointed
+
+Now, that'll be a new number.
+was a new number.
+
+Instead of
+
+They say it
+
+And I think anybody running a model
+54
+
+Alderson Reporting Company
+
+Official
+
+1
+
+could do that, but I promise you, I don't know.
+
+2
+
+know whether you're right on that, or they're right, I
+
+3
+
+will have to get into the model-building business, where
+
+4
+
+I am not an expert.
+
+5
+
+MR. ESTRADA:
+
+Well, no.
+
+And to
+
+I think all you
+
+6
+
+have to do is whether the proponent -- is to ask whether
+
+7
+
+the proponent of class certification has discharged his
+
+8
+
+duty under this Court's cases, to come forward with
+
+9
+
+evidence that is persuasive under the point whether the
+
+10
+
+case as a whole can be tried as a class.
+
+11
+
+to become an econometrician.
+
+12
+
+assess whether the record that has been proffered is
+
+13
+
+probative on the question before the Court.
+
+14
+
+Here, it isn't.
+
+You don't have
+
+You have to know enough to
+
+And one of the reasons it
+
+15
+
+isn't is because they came to the hearing in class
+
+16
+
+certification in the fall of 2009 after full merits
+
+17
+
+discovery.
+
+18
+
+merits discovery, this model does not work.
+
+19
+
+variants of not usable.
+
+20
+
+all, Justice Kagan, if it's worth taking the time.
+
+21
+
+know, the flaws preclude its use, it's not to be
+
+22
+
+accepted, it's not usable, it does not result in a valid
+
+23
+
+methodology that can be used.
+
+24
+25
+
+The papers -- we said to them, we have full
+We had
+
+Every word -- I can read it
+You
+
+And so, having said all of that, we said,
+this model is bunk.
+
+You have full class merits
+55
+
+
+Alderson Reporting Company
+
+Official
+
+1
+
+discovery.
+
+2
+
+with a better model.
+
+3
+
+You have plenty of opportunity to come up
+Nothing.
+
+We go to the court of appeals.
+
+It is
+
+4
+
+affirmed.
+
+5
+
+court for further trial proceedings.
+
+6
+
+court, having read the court of appeals' opinion,
+
+7
+
+invites them to submit the evolutionary model that the
+
+8
+
+court of appeals had in mind.
+
+9
+
+sticking with our story, McClave's the guy.
+
+10
+
+Then it goes back to the -- to the district
+The district
+
+Nothing.
+
+We are still
+
+And so they have had every conceivable
+
+11
+
+opportunity to develop a model.
+
+12
+
+that, Justice Breyer?
+
+13
+
+problem in the record.
+
+14
+
+the record, which are part of the field supplemental
+
+15
+
+appendix, and you can see the different areas of
+
+16
+
+penetration for DBS -- you know, has different rates of
+
+17
+
+penetration all over the class area.
+
+18
+
+Why haven't they done
+
+Oh, maybe because there is a
+You can take all of the maps in
+
+Same thing for RCN and FiOS.
+
+And you can
+
+19
+
+look at what -- what the market penetration is in each
+
+20
+
+franchise area.
+
+21
+
+different licensing authority, that the overbuilding
+
+22
+
+would have to go to franchise by franchise and radiate
+
+23
+
+out in the fullness of time.
+
+24
+
+is an econometrician that can combine all of that into a
+
+25
+
+single class or subclasses.
+
+Consider that each of them is a
+
+And I don't know if there
+
+56
+
+Alderson Reporting Company
+
+Official
+
+1
+
+They haven't identified one.
+
+And the key
+
+2
+
+point for the resolution of the case in front of you,
+
+3
+
+Justice Kagan, is that the question that comes here is
+
+4
+
+whether a class that is more expansive than the one that
+
+5
+
+you -- that you certified in Wal-Mart can possibly be
+
+6
+
+certified where there is no evidence that is tied to the
+
+7
+
+record in the case that is reliably probative that a
+
+8
+
+class would exist.
+
+9
+
+Thank you, Mr. Chief Justice.
+
+10
+
+CHIEF JUSTICE ROBERTS:
+
+11
+
+The case is submitted.
+
+12
+
+(Whereupon, at 11:05 a.m., the case in the
+
+13
+
+Thank you, counsel.
+
+above-entitled matter was submitted.)
+
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+57
+Alderson Reporting Company
+
+

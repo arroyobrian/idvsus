@@ -1,0 +1,6027 @@
+Official
+
+1
+
+ P R O C E E D I N G S 
+
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+ (11:04 a.m.) 
+ CHIEF JUSTICE ROBERTS: 
+
+We will hear 
+
+argument next in Case 13­7211, Jennings v. Stephens. 
+ Mr. Schaffer. 
+ ORAL ARGUMENT OF MR. RANDOLPH SCHAFFER, JR. 
+ ON BEHALF OF THE PETITIONER 
+ MR. SCHAFFER: 
+
+Mr. Chief Justice, and may it 
+
+please the Court. 
+ Ninety years ago, this Court held in 
+
+11
+
+American Railway that an appellee need not cross­appeal 
+
+12
+
+to raise an argument in support of the judgment that 
+
+13
+
+does not seek to enlarge his rights.  Petitioner, who 
+
+14
+
+prevailed on an ineffective assistance of counsel claim 
+
+15
+
+in the district court, did not have to cross­appeal here 
+
+16
+
+for two reasons. 
+
+17
+
+ First, he did not seek more relief than the 
+
+18
+
+new punishment hearing granted to him in this ­­ in the 
+
+19
+
+judgment. 
+
+20
+
+ Second, he raised an argument that the 
+
+21
+
+district court rejected as an alternate basis to affirm 
+
+22
+
+the judgment, and if he did not need to cross­appeal, he 
+
+23
+
+did not need a COA. 
+
+24
+
+ We made ­­
+
+25
+
+ JUSTICE SOTOMAYOR: 
+
+I'm sorry.  He ­­ I
+
+3
+
+Alderson Reporting Company
+
+Official
+
+1
+
+don't know if this is a new argument or a new issue. 
+
+2
+
+And the reason I raise that is when the judgment issued 
+
+3
+
+here by the district court, it specified two errors that 
+
+4
+
+had occurred and basically told the State court, fix 
+
+5
+
+those two or you have to release the defendant. 
+
+6
+
+ Let's assume they fixed those two, and then 
+
+7
+
+could you come back and say release him anyway because 
+
+8
+
+they didn't fix the third that I lost on? 
+
+9
+10
+11
+12
+
+ MR. SCHAFFER: 
+circumstances. 
+ JUSTICE SOTOMAYOR: 
+
+ MR. SCHAFFER: 
+
+14
+
+ JUSTICE SOTOMAYOR: 
+
+16
+
+So how is it not more 
+
+relief? 
+
+13
+
+15
+
+No, not under those 
+
+I beg your pardon? 
+How is it not more 
+
+relief or different relief? 
+ MR. SCHAFFER: 
+
+Because the single error is 
+
+17
+
+that he was denied the effective assistance of counsel. 
+
+18
+
+That is a single claim, and it was based on three 
+
+19
+
+allegations of deficient performance. 
+
+20
+
+ JUSTICE SCALIA: 
+
+Well, now, wait a minute. 
+
+21
+
+I ­­ you know, I have ­­ we ­­ we don't evaluate whether 
+
+22
+
+you had good counsel or bad counsel.  You may have 
+
+23
+
+Clarence Darrow and still be denied effective assistance 
+
+24
+
+of counsel if Clarence Darrow makes one mistake.  I 
+
+25
+
+mean, when ­­ when we find that there has been
+
+4
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ineffective assistance of counsel, I think that means 
+
+2
+
+counsel failed to do one thing that he should have done. 
+
+3
+
+But there's ­­ there's no such general finding that 
+
+4
+
+counsel was ­­ was, in gross, ineffective. 
+
+5
+
+ You're ­­ you're ­­ you're describing it as 
+
+6
+
+though ­­ as though that's what the finding is.  That ­­
+
+7
+
+that's not what we hold when we find ineffective 
+
+8
+
+assistance of counsel.  We find that this particular 
+
+9
+
+counsel made this mistake.  That's it. 
+
+10
+
+ MR. SCHAFFER: 
+
+Well, let's take that a step 
+
+11
+
+further.  What the Court does to analyze an IAC claim is 
+
+12
+
+to first isolate the errors of counsel.  It could be 
+
+13
+
+one; it could be a hundred.  It doesn't matter.  You 
+
+14
+
+accumulate them and consider them together to determine 
+
+15
+
+prejudice. 
+
+16
+
+ If the deficiencies in performance 
+
+17
+
+constitute sufficient prejudice to undermine confidence 
+
+18
+
+in the verdict, then counsel was constitutionally 
+
+19
+
+ineffective, not because of A, B, C, or D, but because 
+
+20
+
+the totality of his representation did not meet the 
+
+21
+
+constitutional standard. 
+
+22
+
+ So it's not a matter of fixing any 
+
+23
+
+particular error of counsel.  And that's where I believe 
+
+24
+
+the ­­ the State's position is a little awry because a 
+
+25
+
+Federal court judgment in a habeas case is different
+
+5
+
+Alderson Reporting Company
+
+Official
+
+1
+
+than a direct appeal judgment.  On a direct appeal 
+
+2
+
+judgment, the ­­ the court tells the district court, 
+
+3
+
+We're sending the case back to you, do A, B, C, and D or 
+
+4
+
+don't do X, Y, and Z. 
+
+5
+
+ A Federal habeas judgment is a lawsuit 
+
+6
+
+against the warden having to do with the body of the 
+
+7
+
+prisoner.  The Federal court doesn't have authority to 
+
+8
+
+tell the State to do or not do any particular thing. 
+
+9
+
+The effect of the Federal court judgment is to basically 
+
+10
+
+say release the prisoner unless within, in our case, 120 
+
+11
+
+days you resentence him to life or you give a new 
+
+12
+
+punishment hearing. 
+
+13
+
+ JUSTICE ALITO: 
+
+Would your argument be the 
+
+14
+
+same if all of the claims in this case were not 
+
+15
+
+ineffective assistance of counsel claims?  Let's take an 
+
+16
+
+example that's in the briefs ­­
+
+17
+
+ MR. SCHAFFER: 
+
+18
+
+ JUSTICE ALITO: ­­ where there's 
+
+Sure. 
+
+19
+
+ineffective assistance ­­ of ­­ there's a ineffective 
+
+20
+
+assistance of counsel claim and there's a coerced 
+
+21
+
+confession claim.  And so the ­­ the petitioner wins on 
+
+22
+
+the ineffective assistance of counsel claim, loses in 
+
+23
+
+the district court on the coerced confession claim.  The 
+
+24
+
+judgment is that he's entitled to resentencing or, let's 
+
+25
+
+say, it's resentencing due to the ineffective assistance
+
+6
+
+Alderson Reporting Company
+
+Official
+
+1
+
+of counsel, but there will be not be the opportunity to 
+
+2
+
+introduce ­­ to exclude the coerced confession.  So would 
+
+3
+
+you ­­ does your argument apply in that situation as 
+
+4
+
+well? 
+
+5
+
+ MR. SCHAFFER: 
+
+Assuming the coerced 
+
+6
+
+confession involves the punishment phase as opposed to 
+
+7
+
+the guilt/innocence phase. 
+
+8
+
+ JUSTICE ALITO: 
+
+The same phase, yes. 
+
+9
+
+ MR. SCHAFFER: 
+
+Okay.  I think that's a 
+
+10
+
+situation where the State has a decent argument that 
+
+11
+
+because it's a different claim, that would perhaps 
+
+12
+
+entitle you to more relief under the judgment, that is, 
+
+13
+
+not just a new punishment hearing, but a new punishment 
+
+14
+
+hearing without the unconstitutional confession, that on 
+
+15
+
+the state of the law today, I would file a cross­appeal 
+
+16
+
+and move for a COA on a separate claim because I think 
+
+17
+
+that would be Pfeiffer, Alexander, El Paso Natural Gas, 
+
+18
+
+where you're seeking to modify the judgment and obtain 
+
+19
+
+more relief than it would be American Railway. 
+
+20
+
+ JUSTICE ALITO: 
+
+21
+
+ JUSTICE SCALIA: 
+
+22
+23
+
+If you say that ­­
+Well, why do you ­­ go 
+
+ahead.  Sorry. 
+ JUSTICE ALITO: 
+
+Well, if I ­­ yeah, just a 
+
+24
+
+follow­up on that.  If you say that, could not the same 
+
+25
+
+situation arise with respect to different ineffective
+
+7
+
+Alderson Reporting Company
+
+Official
+
+1
+
+assistance of counsel claims? 
+
+2
+
+ Let's say that in this case, you won on your 
+
+3
+
+Spisak claim, things that were said during the closing. 
+
+4
+
+You lost on the Wiggins claim.  Let's say the Wiggins 
+
+5
+
+claim was that there was money available from the 
+
+6
+
+court ­­ from the State to hire experts, but the 
+
+7
+
+attorney didn't apply for the money, didn't do an 
+
+8
+
+investigation, that was ineffective assistance of 
+
+9
+
+counsel.  So if you win on the ­­ on the Spisak claim, 
+
+10
+
+you'll ­­ you'll get a new sentencing hearing, 
+
+11
+
+presumably, free from the errors in the closing, but you 
+
+12
+
+won't get the opportunity to ­­ to go back and do the 
+
+13
+
+time or the money to ­­ to do the investigation. 
+
+14
+
+ MR. SCHAFFER: 
+
+I would respectfully disagree 
+
+15
+
+with that.  Because if you get a new sentencing hearing, 
+
+16
+
+you get to do whatever you want to do at the new 
+
+17
+
+sentencing hearing.  And for our purposes, if you now 
+
+18
+
+know for ­­ in Federal court that the lawyer didn't 
+
+19
+
+investigate mental history and discover X, Y, and Z, you 
+
+20
+
+now know it. 
+
+21
+22
+
+ JUSTICE ALITO: 
+
+they say, well, that ­­ you lost that claim. 
+
+23
+
+ MR. SCHAFFER: 
+
+24
+
+ JUSTICE ALITO: 
+
+25
+
+But on ­­ on remand, they ­­
+
+No.  It ­­
+You lost it, so there's 
+
+no ­­ there's no need for more money.  There's no need
+
+8
+
+Alderson Reporting Company
+
+Official
+
+1
+
+for more time.  Let's do it over with what ­­ you know, 
+
+2
+
+with a ­­ with a proper closing. 
+
+3
+
+ MR. SCHAFFER: 
+
+And that's the thing.  The 
+
+4
+
+Federal habeas judgment cannot direct the State court 
+
+5
+
+what to do or not do at a retrial.  All it can do is 
+
+6
+
+tell them we're releasing this person unless the 
+
+7
+
+constitutional error is fixed. 
+
+8
+9
+
+ JUSTICE SCALIA: 
+
+Well, that's not true. 
+
+It ­­ it can tell them what to do.  The ­­ the basis on 
+
+10
+
+which the conviction was set aside cannot be repeated by 
+
+11
+
+the State court.  You're ­­ you're saying that the State 
+
+12
+
+court can ­­ is ­­ is free to make the same mistake 
+
+13
+
+again? 
+
+14
+
+ MR. SCHAFFER: 
+
+Well, it's actually not me 
+
+15
+
+saying.  It's this Court's opinions have said that on a 
+
+16
+
+Federal habeas judgment does not decide what a State 
+
+17
+
+court may do or not do on remand.  We just direct them 
+
+18
+
+to fix the constitutional error.  We don't tell them how 
+
+19
+
+to do it. 
+
+20
+
+ JUSTICE SCALIA: 
+
+But ­­ but ­­ but once you 
+
+21
+
+say we direct them to fix the constitutional error, that 
+
+22
+
+is something that they have to do on remand, isn't it? 
+
+23
+
+ MR. SCHAFFER: 
+
+Or ­­ or the Federal court 
+
+24
+
+will release the prisoner. 
+
+25
+
+ JUSTICE SCALIA: 
+
+Fix that constitutional
+
+9
+
+Alderson Reporting Company
+
+Official
+
+1
+
+error. 
+
+2
+
+ MR. SCHAFFER: 
+
+3
+
+ JUSTICE SCALIA: 
+
+Correct. 
+But this other 
+
+4
+
+constitutional error, which we didn't rule on in the 
+
+5
+
+habeas thing, they don't have to fix.  It's up to them. 
+
+6
+
+ MR. SCHAFFER: 
+
+But let's remember, in an IAC 
+
+7
+
+claim, it's different than a freestanding admission or 
+
+8
+
+exclusion of evidence claim because a Federal court 
+
+9
+
+habeas judgment cannot ­­ for example, in this case, the 
+
+10
+
+State says, we sought to enlarge our rights under the 
+
+11
+
+judgment by asking the Federal court to order the State 
+
+12
+
+to fix any closing argument error and require a new 
+
+13
+
+trial free of this error. 
+
+14
+
+ We didn't ask that. 
+
+We could not have asked 
+
+15
+
+that.  A Federal court cannot order a State court to fix 
+
+16
+
+any error of defense counsel or tell defense counsel how 
+
+17
+
+to try the case, what to offer, what not to offer, what 
+
+18
+
+arguments to make.  All the Court can do is provide a 
+
+19
+
+remedy for the petitioner if he does not have effective 
+
+20
+
+counsel at the retrial. 
+
+21
+
+ CHIEF JUSTICE ROBERTS: 
+
+22
+
+new ­­ a new trial. 
+
+23
+
+ MR. SCHAFFER: 
+
+24
+
+ CHIEF JUSTICE ROBERTS: 
+
+25
+
+And that remedy is a 
+
+Or a new punishment. 
+What if ­­ what 
+
+if ­­ what if one claim is the ineffective assistance
+
+10
+
+Alderson Reporting Company
+
+Official
+
+1
+
+and the other claim is a violation of the confrontation 
+
+2
+
+clause? 
+
+3
+
+ MR. SCHAFFER: 
+
+4
+
+ CHIEF JUSTICE ROBERTS: 
+
+Separate. 
+And you ­­ and 
+
+5
+
+you ­­ when ­­ when you go back, they can repeat the 
+
+6
+
+error or they can choose not to call their witness, 
+
+7
+
+either way.  And it would seem to me that if you didn't 
+
+8
+
+file a cross­appeal, that the Federal court decision 
+
+9
+
+would be an advisory opinion on the confrontation 
+
+10
+11
+
+clause. 
+ MR. SCHAFFER: 
+
+And so in that circumstance, 
+
+12
+
+if you were seeking additional relief, i.e., keep out 
+
+13
+
+the non ­­
+
+14
+
+ CHIEF JUSTICE ROBERTS: 
+
+15
+
+ MR. SCHAFFER: 
+
+Right. 
+
+­­ constitutional admission 
+
+16
+
+of evidence, then in that situation, I would file a 
+
+17
+
+cross­appeal and move for a COA because I would be 
+
+18
+
+seeking to enlarge my rights under the judgment. 
+
+19
+
+ The judgment that we got here didn't really 
+
+20
+
+give us anything more than the Constitution gives any 
+
+21
+
+citizen the day that he walks into a courtroom, which is 
+
+22
+
+the right to a trial with the effective assistance of 
+
+23
+
+counsel. 
+
+24
+25
+
+ JUSTICE SCALIA: 
+
+No, no, no, no.  The ­­ the 
+
+right to a trial that did not have this ­­ this failure
+
+11
+
+Alderson Reporting Company
+
+Official
+
+1
+
+of counsel, this particular failure.  You're not 
+
+2
+
+entitled to ­­ to competent counsel.  You're ­­ you're 
+
+3
+
+entitled to counsel who doesn't make a mistake.  He 
+
+4
+
+could be the dumbest counsel around so long as he 
+
+5
+
+doesn't make a mistake.  And he could be the smartest 
+
+6
+
+around, and if he does make a mistake, that's 
+
+7
+
+ineffective assistance of counsel. 
+
+8
+9
+
+ MR. SCHAFFER: 
+
+Respectfully, it's not by 
+
+itself.  The mistakes may be mistakes, but unless the 
+
+10
+
+totality of those mistakes constitute sufficient 
+
+11
+
+prejudice to undermine confidence in the verdict ­­
+
+12
+
+ JUSTICE BREYER: 
+
+But was that an issue here? 
+
+13
+
+I mean, I ­­ I ­­ looking at the blue brief and the ­­
+
+14
+
+and the red brief, it seemed to me that the issues here 
+
+15
+
+have turned on a mistake, how many mistakes are there. 
+
+16
+
+It wasn't a question of prejudice.  That is, the lower 
+
+17
+
+court said, even if you're ­­ if you're right ­­ and 
+
+18
+
+they thought you were right ­­
+
+19
+
+ MR. SCHAFFER: 
+
+20
+
+ JUSTICE BREYER: 
+
+21
+22
+
+Correct. 
+­­ that these two errors in 
+
+failing to investigate the background created prejudice. 
+ So I don't think there was an argument on 
+
+23
+
+appeal about whether there was enough prejudice.  It was 
+
+24
+
+a question of was this a mistake. 
+
+25
+
+ Am I right or not?
+
+12
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+3
+
+ MR. SCHAFFER: 
+
+Well, my position on appeal 
+
+was I'm ­­
+ JUSTICE BREYER: 
+
+No, I know.  I'm just 
+
+4
+
+saying was there an argument about that?  Did they 
+
+5
+
+disagree about that? 
+
+6
+7
+8
+9
+
+ MR. SCHAFFER: 
+
+I think the State certainly 
+
+disagreed with ­­
+ JUSTICE BREYER: 
+
+Did they ­­ and they argued 
+
+that before the court. 
+
+10
+
+ MR. SCHAFFER: 
+
+11
+
+ JUSTICE BREYER: 
+
+They ­­ they disagreed ­­
+They said even if their ­­
+
+12
+
+they said the issue before the ­­ the Fifth Circuit is 
+
+13
+
+whether all together these three things amount to 
+
+14
+
+prejudice because our view of the State's view was, all 
+
+15
+
+right, even if there were errors here, it didn't amount 
+
+16
+
+to prejudice? 
+
+17
+
+ MR. SCHAFFER: 
+
+What they basically said is 
+
+18
+
+that the district court didn't defer to the State court 
+
+19
+
+findings and conclusions regarding those matters. 
+
+20
+21
+22
+
+ So ­­ but let's ­­ let's play the State's 
+argument out to its logical conclusion. 
+ Under their theory, let's assume the same 
+
+23
+
+thing happened to the district court.  We win on 
+
+24
+
+A and B, we lose on C, and they say we're not going to 
+
+25
+
+appeal.  Go back to State court, we'll give you a trial,
+
+13
+
+Alderson Reporting Company
+
+Official
+
+1
+
+and you can introduce the evidence of alleged mental 
+
+2
+
+deficits and disadvantaged background.  We'll give you a 
+
+3
+
+chance to save your guy's life by laying it all out to a 
+
+4
+
+jury and letting them decide. 
+
+5
+
+ And I say, nope, I'm going to appeal the 
+
+6
+
+closing argument to the circuit.  And so I file a notice 
+
+7
+
+of appeal and move for a COA.  And the district court ­­
+
+8
+
+let's see how that would play out.  The district judge 
+
+9
+
+would say, did you read my opinion?  You won.  Why do 
+
+10
+
+you need a COA?  Why do you want to take this up?  And I 
+
+11
+
+would say, Judge, because I need an order for you to 
+
+12
+
+tell me that I cannot argue to a jury that I would agree 
+
+13
+
+with the death sentence.  I need that order to keep me 
+
+14
+
+from doing that.  And the judge would say:  You are out 
+
+15
+
+of your mind; COA denied. 
+
+16
+
+ I would appeal to the circuit. 
+
+The State 
+
+17
+
+would take the exact opposite position they are taking 
+
+18
+
+here.  They would say this is a frivolous appeal, he 
+
+19
+
+got all the relief he wanted in the judgment, which is a 
+
+20
+
+new punishment hearing, he doesn't have the right to 
+
+21
+
+appeal this, this is an example of death row inmates 
+
+22
+
+abusing the system and filing frivolous appeals to delay 
+
+23
+
+things. 
+
+24
+25
+
+ JUSTICE ALITO: 
+
+The predicate of the 
+
+argument is that again that ineffective assistance of 
+
+14
+
+Alderson Reporting Company
+
+Official
+
+1
+
+counsel claims are different.  You wouldn't think that it 
+
+2
+
+was crazy in the situation where you've got the ineffective 
+
+3
+
+assistance of counsel claim and the coerced confession 
+
+4
+
+claim.  You win on the ineffective assistance of counsel 
+
+5
+
+claim, they don't reach the coerced confession claim or 
+
+6
+
+the confrontation clause claim.  It wouldn't be crazy 
+
+7
+
+for you to appeal the loss on either of those things 
+
+8
+
+because if you don't get relief on that then you are 
+
+9
+
+going to have the same thing when you go back, right? 
+
+10
+
+ MR. SCHAFFER: 
+
+That's right.  And in that 
+
+11
+
+situation I would be seeking to enlarge my rights under 
+
+12
+
+the judgment by having evidence excluded at a retrial 
+
+13
+
+that's beyond the scope of the judgment.  In this case 
+
+14
+
+the judgment gave me everything I wanted.  There is not 
+
+15
+
+a word in that judgment that's adverse to me.  There's 
+
+16
+
+not a thing I could have asked for. 
+
+17
+
+ JUSTICE GINSBURG: 
+
+The argument is that what 
+
+18
+
+the judgment was is the relief that you got is a new 
+
+19
+
+sentencing hearing shorn of the particular errors the 
+
+20
+
+district court found and those particular errors did not 
+
+21
+
+relate to the Spisak or closing argument.  So you are 
+
+22
+
+trying to say we had a judgment, we won, and ordinarily a 
+
+23
+
+judgment winner can appeal if they won and if there is an 
+
+24
+
+argument that was made on which the judgment won or 
+
+25
+
+lost, that is not preclusive because he didn't have a
+
+15
+
+Alderson Reporting Company
+
+Official
+
+1
+
+chance to appeal.  A judgment winner can't appeal.  But 
+
+2
+
+this is peculiar because the ­­ there were ­­ the ­­ the 
+
+3
+
+order is you are entitled to a new trial shorn of these 
+
+4
+
+particular errors.  The court of appeals says they are 
+
+5
+
+not errors.  And then you want to bring up another 
+
+6
+
+error. 
+
+7
+
+ MR. SCHAFFER: 
+
+Well, I want to ­­ let's ­­
+
+8
+
+let's break down the way IAC is analyzed.  The issue in 
+
+9
+
+this case was, was Petitioner ­­ denied the effective 
+
+10
+
+assistance of counsel at the punishment phase.  In the 
+
+11
+
+vernacular, we made an IAC claim.  We made ­­ an IAC 
+
+12
+
+claim, this Court said in Strickland, has two 
+
+13
+
+components:  Deficient performance and prejudice.  We 
+
+14
+
+made three arguments in support of deficient 
+
+15
+
+performance.  We won two; we lost one. 
+
+16
+
+ We won the claim. 
+
+We got the new punishment 
+
+17
+
+hearing.  So at the new punishment hearing ­­ let's 
+
+18
+
+assume we got one, and I was ­­ it doesn't mean I would 
+
+19
+
+have to put on the evidence of mental health history and 
+
+20
+
+disadvantaged background.  I could make a strategic 
+
+21
+
+decision based on the landscape of the retrial what to 
+
+22
+
+use or not use.  So the Federal court order would give 
+
+23
+
+the Petitioner a new punishment hearing, but it would 
+
+24
+
+not dictate to me what evidence I had to put on, what 
+
+25
+
+arguments I had to make, nor could the State or the
+
+16
+
+Alderson Reporting Company
+
+Official
+
+1
+
+trial court compel me to do or not do anything.  It 
+
+2
+
+could only provide a remedy if I didn't do it correctly. 
+
+3
+
+ JUSTICE SCALIA: 
+
+But if you fail to put 
+
+4
+
+on the same evidence which the court of appeals had said 
+
+5
+
+the failure to produce constituted ineffective 
+
+6
+
+performance of counsel, if you do the same thing again, 
+
+7
+
+why wouldn't be that ineffective assistance of counsel? 
+
+8
+9
+
+ MR. SCHAFFER: 
+
+Well, it might or might not 
+
+depending on how the case was retried.  What if, for 
+
+10
+
+example, on the mental ­­ let's just take an example: 
+
+11
+
+The mental health history.  Okay.  The State went out 
+
+12
+
+and got a doctor to controvert the opinions of our 
+
+13
+
+doctors.  What if I decided at the retrial, you know, I 
+
+14
+
+think that getting into this mental health history would 
+
+15
+
+create more harm than good based on what the State's 
+
+16
+
+doctor is going to say.  I'm not going to put that on, 
+
+17
+
+I'm just going to go with the disadvantaged background 
+
+18
+
+and argue that they haven't proven future dangerousness 
+
+19
+
+because he's got no history of violence when he is 
+
+20
+
+incarcerated.  I could make that strategic decision.  If 
+
+21
+
+somebody wanted to come along later and grade my papers, 
+
+22
+
+they could, and they could say it was thumbs up or 
+
+23
+
+thumbs down as the case may be. 
+
+24
+
+ Let's examine the State's argument ­­
+
+25
+
+ JUSTICE BREYER: 
+
+Now, you couldn't put ­­ if
+
+17
+
+Alderson Reporting Company
+
+Official
+
+1
+
+all things otherwise were the same, you couldn't do what 
+
+2
+
+the lawyer did here without being ineffective 
+
+3
+
+assistance.  That's what ­­ isn't that their holding, 
+
+4
+
+the holding of the district court?  The district court 
+
+5
+
+says the lawyer in these circumstances did not give 
+
+6
+
+effective assistance as to two things.  So of course 
+
+7
+
+things could change in the new trial, and then you could 
+
+8
+
+act differently, but if they didn't change, you would 
+
+9
+
+have to do ­­ act ­­ what the district court said, 
+
+10
+11
+
+wouldn't you? 
+ MR. SCHAFFER: 
+
+I would agree with regard to 
+
+12
+
+the evidence of disadvantaged background, because that 
+
+13
+
+is written in stone.  That doesn't change. 
+
+14
+
+ JUSTICE BREYER: 
+
+All right.  Now, once that 
+
+15
+
+is so, there is nothing in the order that would, things 
+
+16
+
+being identical, stop the prosecutor from making 
+
+17
+
+precisely the same remarks that you are challenging. 
+
+18
+19
+
+ MR. SCHAFFER: 
+prosecutor. 
+
+20
+
+ JUSTICE BREYER: 
+
+21
+
+ MR. SCHAFFER: 
+
+22
+23
+24
+25
+
+Well, but see, it wasn't the 
+
+Is that ­­
+It wasn't the prosecutor that 
+
+made the argument.  It was the defense ­­
+ JUSTICE BREYER: 
+
+All right, fine.  Whatever 
+
+the third error is ­­
+ MR. SCHAFFER: 
+
+Right.
+
+18
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ JUSTICE BREYER: 
+
+­­ there is nothing in the 
+
+2
+
+order that would prevent the lawyer from doing precisely 
+
+3
+
+the same thing.  There is something in the order that 
+
+4
+
+would prevent you from doing the same first two things, 
+
+5
+
+other things being precisely equal. 
+
+6
+
+ MR. SCHAFFER: 
+
+If I may, let's look at the 
+
+7
+
+mental health history for a moment.  The mental health 
+
+8
+
+history was not even known by the trial lawyer.  Okay? 
+
+9
+
+So if he was ineffective, he was ineffective based on a 
+
+10
+11
+
+Wiggins failure to investigate type of situation. 
+ That's a different question. 
+
+Let's assume 
+
+12
+
+he had investigated and he found the same things that I 
+
+13
+
+found during habeas, and he decided not to put it 
+
+14
+
+on.  Then it would be a strategic decision which he 
+
+15
+
+would have to defend.  And so that's where we come back, 
+
+16
+
+because that evidence was never known ­­
+
+17
+
+ JUSTICE GINSBURG: 
+
+But why are we talking 
+
+18
+
+about the claim on which you lost on appeal?  You are 
+
+19
+
+not going to get a chance to go back with disadvantaged, 
+
+20
+
+with mental health, because you lost on those on appeal. 
+
+21
+
+ MR. SCHAFFER: 
+
+22
+
+ JUSTICE GINSBURG: 
+
+23
+24
+25
+
+I don't think ­­
+I thought the Wiggins 
+
+claims were rejected on appeal. 
+ MR. SCHAFFER: 
+
+They were.  But let's play 
+
+this ­­ let's assume that we get merits review on the
+
+19
+
+Alderson Reporting Company
+
+Official
+
+1
+
+closing argument.  And remember, it's not a claim, in my 
+
+2
+
+view.  It's an argument in support of a claim.  And I 
+
+3
+
+think that the key portion of the government's ­­
+
+4
+
+ JUSTICE GINSBURG: 
+
+5
+
+ MR. SCHAFFER: 
+
+6
+
+ JUSTICE GINSBURG: 
+
+May I just clarify it? 
+Sure. 
+Everything that you are 
+
+7
+
+arguing rides on our treating ineffective assistance of 
+
+8
+
+counsel as one claim rather than ineffective assistance 
+
+9
+
+of counsel, confrontation clause, some other violation. 
+
+10
+
+If we don't buy your argument that ineffective 
+
+11
+
+assistance of counsel is one monolithic claim and we 
+
+12
+
+think the division between what they ­­ what they're 
+
+13
+
+calling Wiggins error and the ­­ those ­­
+
+14
+
+ MR. SCHAFFER: 
+
+15
+
+ JUSTICE GINSBURG: 
+
+16
+
+ MR. SCHAFFER: 
+
+The two Spisak claims. 
+­­ you would lose. 
+I disagree.  I don't think 
+
+17
+
+you even need to reach the issue of is IAC one claim or 
+
+18
+
+not.  It's here because they've split my claim into 
+
+19
+
+thirds by saying I made three claims instead of one.  I 
+
+20
+
+can still win under a pure interpretation of American 
+
+21
+
+Railway because I am not seeking greater relief than 
+
+22
+
+what I got in the judgment, which is a new punishment 
+
+23
+
+hearing. 
+
+24
+25
+
+ JUSTICE KENNEDY: 
+
+Would ­­ would you agree 
+
+that to include all of the counsel's errors it's
+
+20
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+3
+4
+
+important to show the substantiality of the error? 
+ MR. SCHAFFER: 
+
+That's what I did in the 
+
+Fifth Circuit, was say, look ­­
+ JUSTICE KENNEDY: 
+
+All right.  Would you 
+
+5
+
+agree that that goes to show how substantial the 
+
+6
+
+incompetence was? 
+
+7
+8
+9
+
+ MR. SCHAFFER: 
+relates ­­
+ JUSTICE KENNEDY: 
+
+10
+
+ MR. SCHAFFER: 
+
+11
+
+ JUSTICE KENNEDY: 
+
+12
+
+ MR. SCHAFFER: 
+
+13
+
+The combined effect 
+
+Yes. 
+­­ to the prejudice ­­
+All right. 
+­­ inquiry, but of course one 
+
+alone can be sufficiently prejudicial. 
+
+14
+
+ JUSTICE KENNEDY: 
+
+15
+
+to turn to the COA statute. 
+
+16
+
+ MR. SCHAFFER: 
+
+17
+
+ JUSTICE KENNEDY: 
+
+With that in mind, I want 
+
+Sure. 
+Let's assume that we 
+
+18
+
+accept your argument that you did not have to file a 
+
+19
+
+separate notice of appeal. 
+
+20
+
+ MR. SCHAFFER: 
+
+21
+
+ JUSTICE KENNEDY: 
+
+Okay. 
+Does that mean that you 
+
+22
+
+automatically comply with the COA?  Because the COA 
+
+23
+
+statute says that a certificate of appeal ­­
+
+24
+
+appealability must show that the applicant has made a 
+
+25
+
+substantial showing.  And you've conceded that all
+
+21
+
+Alderson Reporting Company
+
+Official
+
+1
+
+aspects of the incompetence of counsel go to 
+
+2
+
+substantiality, so why is it that you have complied with 
+
+3
+
+the COA statute? 
+
+4
+
+ MR. SCHAFFER: 
+
+5
+
+ JUSTICE KENNEDY: 
+
+Well, I haven't complied ­­
+And the under ­­ and the 
+
+6
+
+overlying question is once you ­­ if you were to 
+
+7
+
+convince us that no notice of appeal was required, does 
+
+8
+
+it automatically follow that you are not required to 
+
+9
+
+have a COA? 
+
+10
+
+ MR. SCHAFFER: 
+
+I think that's the key issue. 
+
+11
+
+The rule I propose, that I think is based on the statute 
+
+12
+
+and the ­­ and the text of the rules, is if you need to 
+
+13
+
+cross­appeal, you need a COA.  If you do not need to 
+
+14
+
+cross­appeal, you don't need a COA.  And let me give you 
+
+15
+
+two ­­ let me hit the government's arguments head­on, 
+
+16
+
+and I think this is key. 
+
+17
+
+ They say the COA requirement should be read 
+
+18
+
+into the statute or adopted as a matter of Federal 
+
+19
+
+common law.  That is a tacit acknowledgment that the 
+
+20
+
+statute does not require a COA for the non­appealing 
+
+21
+
+petitioner appellee.  In their brief, they do not rely 
+
+22
+
+on the text of 2253(c) or the associated rules, 
+
+23
+
+FRAP 22(b), or Habeas Rule 11(a).  They want you all 
+
+24
+
+to ­­ the Court to read that into the statute.  And that 
+
+25
+
+is not appropriate where the text is clear, where
+
+22
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+Congress ­­
+ JUSTICE GINSBURG: 
+
+Are you saying that the 
+
+3
+
+COA statute itself says you need a COA to appeal from 
+
+4
+
+the final order and you don't want to appeal from the 
+
+5
+
+final order because you like the final order? 
+
+6
+
+ MR. SCHAFFER: 
+
+Well, correct ­­ in part 
+
+7
+
+correct.  2253(c) says a COA is required for an appeal 
+
+8
+
+to be taken to the court of appeals.  Now, we know that 
+
+9
+
+doesn't apply to the government for two reasons.  First, 
+
+10
+
+under (c)(2) a governmental entity could never show the 
+
+11
+
+denial of a Federal constitutional right.  Secondly, 
+
+12
+
+under FRAP 22(b)(3) the government is expressly 
+
+13
+
+excluded.  So if it doesn't apply to the government, who 
+
+14
+
+does it apply to?  Who did Congress intend for 2253(c) 
+
+15
+
+to apply to? 
+
+16
+
+ The answer is clear. 
+
+Petitioner­appellants 
+
+17
+
+who take the appeal, or petitioner­appellees who take a 
+
+18
+
+cross­appeal. 
+
+19
+20
+21
+
+ JUSTICE BREYER: 
+
+So why wouldn't you have to 
+
+take a cross­appeal? 
+ MR. SCHAFFER: 
+
+Because, well, I ­­ that gets 
+
+22
+
+us back to where we were ­­
+
+23
+
+ JUSTICE BREYER: 
+
+It's the same problem, 
+
+24
+
+isn't it?  I mean, do you help yourself by saying, okay, 
+
+25
+
+we need to cross­appeal, it only applies there, because
+
+23
+
+Alderson Reporting Company
+
+Official
+
+1
+
+then we get into exactly the same argument, whether you 
+
+2
+
+need a cross­appeal. 
+
+3
+
+ MR. SCHAFFER: 
+
+Well, I'd say I don't need to 
+
+4
+
+cross­appeal because I'm not seeking to enlarge my 
+
+5
+
+rights in the judgment. 
+
+6
+7
+
+ JUSTICE BREYER: 
+then ­­
+
+8
+
+ MR. SCHAFFER: 
+
+9
+
+ JUSTICE BREYER: 
+
+10
+
+13
+
+­­ and IAC is a single claim. 
+­­ we're back to the same 
+
+argument.  What? 
+
+11
+12
+
+Well, yes, you are, because 
+
+ MR. SCHAFFER: 
+
+IAC is a single claim, and 
+
+I ­­
+ JUSTICE SOTOMAYOR: 
+
+Let's assume that we 
+
+14
+
+disagree with you that you needed a cross­appeal.  Could 
+
+15
+
+you answer or didn't ­­ or agree with you, you didn't 
+
+16
+
+need a cross­appeal. 
+
+17
+
+ MR. SCHAFFER: 
+
+18
+
+ JUSTICE SOTOMAYOR: 
+
+19
+
+Okay. 
+Answer Justice Kennedy's 
+
+question of why you don't need the COA. 
+
+20
+
+ MR. SCHAFFER: 
+
+21
+
+ JUSTICE SOTOMAYOR: 
+
+Sure. 
+Because a cross­appeal 
+
+22
+
+doesn't have to make a substantial showing of ­­ of a 
+
+23
+
+denial of a constitutional right. 
+
+24
+25
+
+ MR. SCHAFFER: 
+
+A cross­appeal is just a 
+
+piece of paper that you file.  It doesn't have to show
+
+24
+
+Alderson Reporting Company
+
+Official
+
+1
+
+anything.  It just says I want to appeal.  It's the 
+
+2
+
+COA ­­
+
+3
+4
+5
+
+ JUSTICE SOTOMAYOR: 
+
+Exactly.  So why are the 
+
+two tied together, in your mind? 
+ MR. SCHAFFER: 
+
+Well, because I think when 
+
+6
+
+you read 2253(c) it's clear it applies only to the 
+
+7
+
+petitioner appellant who lost, obviously, on everything 
+
+8
+
+below or the petitioner appellee who lost on a separate 
+
+9
+
+claim that he's now desiring to appeal.  And ­­ and this 
+
+10
+
+is kind of, I think, obvious to me if you look at habeas 
+
+11
+
+Rule 11(a), which says that, "The district court must 
+
+12
+
+issue or deny a COA when it enters a final order adverse 
+
+13
+
+to the applicant."  The applicant is the party taking 
+
+14
+
+the appeal. 
+
+15
+
+ Here the district court did not enter a 
+
+16
+
+final order adverse to me, and I didn't take the appeal. 
+
+17
+
+So you don't reach that part of 11(a) that says if a COA 
+
+18
+
+is required, it has to specify the issue or issues that 
+
+19
+
+satisfy the showing of the denial of the Federal 
+
+20
+
+constitutional right. 
+
+21
+
+ JUSTICE ALITO: 
+
+Do you agree that a 
+
+22
+
+petitioner who has to take a cross­appeal, because the 
+
+23
+
+petitioner wants to enlarge the judgment, does not have 
+
+24
+
+to get a certificate of appealability? 
+
+25
+
+ MR. SCHAFFER: 
+
+Do I agree that he does or
+
+25
+
+Alderson Reporting Company
+
+Official
+
+1
+
+does not? 
+
+2
+
+ JUSTICE ALITO: 
+
+3
+
+ MR. SCHAFFER: 
+
+4
+
+ JUSTICE ALITO: 
+
+5
+
+ MR. SCHAFFER: 
+
+6
+7
+
+Does not. 
+No. 
+He has to. 
+I think if you take a 
+
+cross­appeal, you need a COA. 
+ And here's ­­ here's the other thing and I 
+
+8
+
+do want to hit this.  The government ­­ the State says 
+
+9
+
+the COA should be required as a matter of policy to 
+
+10
+
+screen frivolous appeals, and indeed, that's the most 
+
+11
+
+attractive argument they make because what court doesn't 
+
+12
+
+want to screen frivolous appeals. 
+
+13
+
+ I want you to bear in mind, please, that 
+
+14
+
+there's only a few cases each year in which the 
+
+15
+
+petitioner prevails in the district court under the 
+
+16
+
+daunting AEDPA standard of review and the State appeals, 
+
+17
+
+the information we received off of the public databases 
+
+18
+
+that we were able to check.  And so I put an asterisk 
+
+19
+
+next to this, is that in 2013, there were 18 cases in 
+
+20
+
+the Federal circuits that have our scenario where the 
+
+21
+
+petitioner won and the State took the appeal.  So that's 
+
+22
+
+less than 2 per ­­ per circuit.  That's a speck of sand 
+
+23
+
+on the beach of cases. 
+
+24
+25
+
+ Where a petitioner prevails in the district 
+court under the AEDPA standard of review, that appeal is
+
+26
+
+Alderson Reporting Company
+
+Official
+
+1
+
+not a frivolous appeal.  The appellate court is going to 
+
+2
+
+have to spend its time on it.  It's serious, especially 
+
+3
+
+in a death penalty case.  And the briefing rules, the 
+
+4
+
+page limits, the fact that the petitioner would have an 
+
+5
+
+incentive to protect his judgment and focus his efforts 
+
+6
+
+on the claim he won would certainly discourage people 
+
+7
+
+from doing what the government says, which is to raise 
+
+8
+
+100 frivolous arguments in response. 
+
+9
+
+ If that were to happen in this speck of sand 
+
+10
+
+number of cases in the appellate courts, I'm totally 
+
+11
+
+confident that the circuit courts can dispose of 
+
+12
+
+frivolous arguments in a sentence, a footnote or a 
+
+13
+
+paragraph like that. 
+
+14
+
+ Before I reserve the rest of my time for 
+
+15
+
+rebuttal, I want you ­­ I don't know whether this Court 
+
+16
+
+appreciates irony, but I suspect that you do, and I 
+
+17
+
+consider it ironic that the State is basically trying to 
+
+18
+
+scare this Court into reading a COA requirement into the 
+
+19
+
+statute for a petitioner appellee under the guise of the 
+
+20
+
+appellate courts being inundated with 100 frivolous 
+
+21
+
+arguments by prevailing petitioners in a case where the 
+
+22
+
+prevailing petitioner raised exactly one argument, and 
+
+23
+
+it comprised 3 pages out of a 53­page brief in which the 
+
+24
+
+first 50 pages sought to protect the judgment. 
+
+25
+
+ A final thought. 
+
+If this Court were to rule
+
+27
+
+Alderson Reporting Company
+
+Official
+
+1
+
+in our favor, I don't see there being any seismic shift 
+
+2
+
+in the Federal habeas landscape.  This case, in the 
+
+3
+
+great scheme of things, is a blip on the Federal habeas 
+
+4
+
+radar.  But if you accept the State's position and rule 
+
+5
+
+in their favor, in my judgment, the Court would have to 
+
+6
+
+find that ineffective assistance of counsel constitutes 
+
+7
+
+separate claims based on the number of allegations of 
+
+8
+
+deficient performance and that cannot be harmonized with 
+
+9
+
+Strickland. 
+
+10
+
+ Under the State's theory, there would be no 
+
+11
+
+circumstances, there would be no case in which the 
+
+12
+
+petitioner appellee did not need to cross­appeal and 
+
+13
+
+obtain the COA.  Viewing this in context and boiling it 
+
+14
+
+down to the bottom line, I filed one IAC claim.  I had 
+
+15
+
+one child, and I named him Strickland.  The State cannot 
+
+16
+
+come back now and tell you that I had triplets and their 
+
+17
+
+names are Wiggins I, Wiggins II and Spisak. 
+
+18
+
+ JUSTICE ALITO: 
+
+In other contexts, however, 
+
+19
+
+IAC is not a unitary concept, is it?  I don't want to 
+
+20
+
+take up your rebuttal time, but in other contexts like 
+
+21
+
+repetitive litigation or exhaustion, IAC is not a 
+
+22
+
+unitary concept. 
+
+23
+
+ MR. SCHAFFER: 
+
+24
+
+ JUSTICE ALITO: 
+
+25
+
+Well ­­
+Talk about it on rebuttal if 
+
+you ­­
+
+28
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ MR. SCHAFFER: 
+
+I don't want to get too far 
+
+2
+
+into that, but it's a totally different situation there, 
+
+3
+
+because those cases, Trevino and so forth, they're based 
+
+4
+
+on principles ­­ principles of federalism and comity. 
+
+5
+
+It's not a lack of jurisdiction.  It's that the Court 
+
+6
+
+can decide to excuse some procedural default based on 
+
+7
+
+cause and prejudice.  In our case, it's a pure question 
+
+8
+
+of appellate court jurisdiction.  Does the court of 
+
+9
+
+appeals have jurisdiction to rule on an argument in 
+
+10
+
+support of ineffective assistance where I've already won 
+
+11
+
+on the claim?  All I'm asking them to do is consider the 
+
+12
+
+argument as an alternate basis to affirm the judgment of 
+
+13
+
+the district court. 
+
+14
+
+ And for that reason, this Court should 
+
+15
+
+reverse the judgment of the Fifth Circuit and remand for 
+
+16
+
+consideration of the closing argument on the merits. 
+
+17
+18
+19
+20
+
+ Thank you. 
+
+I will save the rest of my time 
+
+for rebuttal. 
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, 
+
+counselor. 
+
+21
+
+ Mr. Oldham. 
+
+22
+
+ ORAL ARGUMENT OF ANDREW S. OLDHAM 
+
+23
+24
+25
+
+ ON BEHALF OF THE RESPONDENT 
+ MR. OLDHAM: 
+
+Mr. Chief Justice, and may it 
+
+please the Court:
+
+29
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ It's now common ground that Petitioner would 
+
+2
+
+need to cross­appeal to add some conditions to a 
+
+3
+
+conditional release order issued by the district court. 
+
+4
+
+The only question in this case now is whether the 
+
+5
+
+particular condition requested by this particular 
+
+6
+
+Petitioner was necessary or sufficient to add to the 
+
+7
+
+conditional release order, and we think that it was.  We 
+
+8
+
+think that this particular condition, the Spisak error, 
+
+9
+
+was a meaningful condition and it necessitated a 
+
+10
+11
+
+cross­appeal for two reasons. 
+ First, if Petitioner had cross­appealed and 
+
+12
+
+prevailed on the Spisak claim, the State would have been 
+
+13
+
+obligated to fix that error, to cure that error upon 
+
+14
+
+pain of immediate release of the prisoner.  And that is 
+
+15
+
+a dramatically form ­­ dramatically expanded form of 
+
+16
+
+relief that would necessitate a cross­appeal. 
+
+17
+18
+19
+
+ CHIEF JUSTICE ROBERTS: 
+
+How would you do 
+
+that?  How would you cure the Spisak error? 
+ MR. OLDHAM: 
+
+Well, there are many ways that 
+
+20
+
+the State and the defense and ­­ I'm sorry, I should say 
+
+21
+
+the prosecution and the defense and the State court 
+
+22
+
+could cure the Spisak error.  It starts with the 
+
+23
+
+enunciation of the standard from the Federal district 
+
+24
+
+court as to exactly what the Sixth Amendment requires of 
+
+25
+
+a closing argument, which then guides both the ­­
+
+30
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, the Spisak 
+
+2
+
+error is something that the lawyer said in closing 
+
+3
+
+argument. 
+
+4
+
+ You're going to have a new trial, right? 
+
+5
+
+Well, presumably, I mean, the lawyer may say the same 
+
+6
+
+thing or the new lawyer may say the exact same thing or 
+
+7
+
+he may not.  It seems to me that it's a fairly academic 
+
+8
+
+dispute as to whether or not you have a separate claim 
+
+9
+
+once you have the relief of a new trial. 
+
+10
+
+ MR. OLDHAM: 
+
+Well, we don't think it's an 
+
+11
+
+academic claim with respect to adding the condition that 
+
+12
+
+requires a certain level of constitutional performance 
+
+13
+
+for the defense counsel ­­
+
+14
+
+ CHIEF JUSTICE ROBERTS: 
+
+There's always ­­
+
+15
+
+you always have the same level of constitutional 
+
+16
+
+performance.  This is only going to come up as a 
+
+17
+
+particular problem if for some reason the lawyer says 
+
+18
+
+exactly the same thing in closing as the prior lawyer 
+
+19
+
+did.  And I don't anticipate that happening. 
+
+20
+
+ MR. OLDHAM: 
+
+Well, this actually happens in 
+
+21
+
+ineffective assistance of counsel claims in other 
+
+22
+
+contexts where the State court has the power, for 
+
+23
+
+example, to conduct a colloquy with the defense lawyer 
+
+24
+
+to probe what the judgment is that has informed the 
+
+25
+
+defense lawyer's representation, what the defense lawyer
+
+31
+
+Alderson Reporting Company
+
+Official
+
+1
+
+has done, what the defense lawyer plans to do.  And, of 
+
+2
+
+course, the State has the ability to object and move for 
+
+3
+
+curative instructions if the error recurs. 
+
+4
+
+ But the fundamental ­­ the really important 
+
+5
+
+point is that if the error recurs or if the State fails 
+
+6
+
+to fix it, the remedy is immediate release, which we 
+
+7
+
+should all agree is a dramatically expanded form of ­­
+
+8
+
+of relief, which would necessitate a cross­appeal. 
+
+9
+
+ JUSTICE SCALIA: 
+
+Mr. Oldham, some of my 
+
+10
+
+questions to ­­ to your opposing counsel suggest that 
+
+11
+
+ineffective assistance of counsel is mistake by mistake. 
+
+12
+
+That there are here three claims of ineffective 
+
+13
+
+assistance, not just one.  Maybe that's so. 
+
+14
+
+ What do you do with this case where the ­­
+
+15
+
+the trial court finds two instances of ineffective 
+
+16
+
+assistance, the State agrees that those two are valid. 
+
+17
+
+But appeals on the ground that it was harmless error, 
+
+18
+
+that the cumulative effect of those two mistakes was not 
+
+19
+
+enough to change the outcome of the trial. 
+
+20
+
+ The defendant, on the other hand, wants to 
+
+21
+
+raise the issue that there was, indeed, a third instance 
+
+22
+
+of ineffective assistance, and then if you combined all 
+
+23
+
+three, there would have been sufficient harm to enable 
+
+24
+
+setting aside the verdict. 
+
+25
+
+ What do you do with that case? 
+
+32
+
+Alderson Reporting Company
+
+There ­­
+
+Official
+
+1
+
+there the three separate instances have sort of been 
+
+2
+
+combined into one where ­­ where the issue is the 
+
+3
+
+harmful effect. 
+
+4
+
+ MR. OLDHAM: 
+
+The answer, Justice Scalia, 
+
+5
+
+would turn on the particularities of the third error of 
+
+6
+
+the hypothetical.  That is, if the third error was 
+
+7
+
+sufficient to push it across the line of the Sixth 
+
+8
+
+Amendment in the deficient performance standard, then 
+
+9
+
+that would be the contours of the ineffective assistance 
+
+10
+11
+12
+
+of counsel claim. 
+ JUSTICE SCALIA: 
+
+Okay.  So you would allow 
+
+that one to be ­­ to be raised without a cross­appeal. 
+
+13
+
+ MR. OLDHAM: 
+
+14
+
+ JUSTICE SCALIA: 
+
+But it would ­­
+So long as it ­­ it 
+
+15
+
+would ­­ or at least so long as it's argued that that 
+
+16
+
+would produce the incremental effect of reversing the 
+
+17
+
+judgment. 
+
+18
+
+ MR. OLDHAM: 
+
+Yes.  We agree with the 
+
+19
+
+Clarence Darrow hypothetical from the top half of the 
+
+20
+
+argument, which is that you measure the constitutional 
+
+21
+
+error based on where the lawyer's performance 
+
+22
+
+transgresses the balance of the Sixth Amendment.  And so 
+
+23
+
+if in the hypothetical, if that happened to have 
+
+24
+
+been on the third error, then that would be the contours 
+
+25
+
+of the ineffectiveness claim.
+
+33
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ To return to the Chief Justice's ­­
+
+2
+
+ JUSTICE BREYER: 
+
+Before you leave that, I 
+
+3
+
+thought that your opposing counsel said that did happen 
+
+4
+
+here.  It was ­­ you did raise a question of ­­ of 
+
+5
+
+whether there was enough prejudice and, therefore, they 
+
+6
+
+were entitled to bring in the third as showing that even 
+
+7
+
+if the first two weren't sufficient, the third made up 
+
+8
+
+for it. 
+
+9
+
+ MR. OLDHAM: 
+
+Justice Breyer, we disagree 
+
+10
+
+with that characterization of what happened in the court 
+
+11
+
+below.  What happened in the court below and in the 
+
+12
+
+District Court was that petitioner raised three 
+
+13
+
+allegations of deficiency.  This is how he characterized 
+
+14
+
+it in his own certiorari petition to this Court.  Three 
+
+15
+
+allegations of deficiency, each of which standing alone 
+
+16
+
+both transgressed the bounds of the Sixth Amendment and 
+
+17
+
+was a prejudicial error. 
+
+18
+
+ We fought back on two because the District 
+
+19
+
+Court had granted two, and those were reversed in the 
+
+20
+
+Fifth Circuit.  He raised a third independent error and 
+
+21
+
+if he wants to add that third independent error to the 
+
+22
+
+conditional release order, that is he wants the State to 
+
+23
+
+be held responsible and a constitutional error imputed 
+
+24
+
+to the State sufficient to command his immediate release 
+
+25
+
+upon failing to fix it at the second trial ­­
+
+34
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+ JUSTICE SCALIA: 
+
+The first two were thrown 
+
+out on the grounds that there was no error; right? 
+
+3
+
+ MR. OLDHAM: 
+
+4
+
+ JUSTICE SCALIA: 
+
+That's correct. 
+Not on the ground that the 
+
+5
+
+effect was not harmful enough to warrant setting aside 
+
+6
+
+the judgment. 
+
+7
+
+ MR. OLDHAM: 
+
+That's correct.  They were 
+
+8
+
+under ­­ that's correct.  And although the State did 
+
+9
+
+brief it ­­
+
+10
+
+ JUSTICE SOTOMAYOR: 
+
+Counsel, what do you do 
+
+11
+
+with the COA?  I mean, however we rule, we may be 
+
+12
+
+creating headaches.  Okay. 
+
+13
+
+ So petitioner wins on two and he loses on 
+
+14
+
+the third issue, the ­­ the closing summation. 
+
+15
+
+ Does he have to then go for the COA? 
+
+16
+
+can't wait for you to appeal and then make that 
+
+17
+
+decision, can he? 
+
+18
+
+ MR. OLDHAM: 
+
+He 
+
+Well, under our view and under 
+
+19
+
+the hypothetical given on the top side of the argument 
+
+20
+
+he could cross­appeal and that actually ­­ and of course 
+
+21
+
+would have to get a COA.  But this is actually ­­
+
+22
+23
+
+ JUSTICE GINSBURG: 
+
+Cross­appeal when there's 
+
+no appeal? 
+
+24
+
+ MR. OLDHAM: 
+
+25
+
+taken the first appeal.
+
+He could have ­­ he could have 
+
+35
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+3
+
+ JUSTICE GINSBURG: 
+
+He could not have taken 
+
+an appeal.  Only the State could take an appeal; right? 
+ MR. OLDHAM: 
+
+Our view is that on this 
+
+4
+
+particular judgment he could have taken the first 
+
+5
+
+appeal.  And that's incredibly important because it 
+
+6
+
+would give him an additional protection if there was a 
+
+7
+
+second trial.  In particular, if he could get a Federal 
+
+8
+
+court to say the Sixth Amendment demands this level of 
+
+9
+
+competence ­­
+
+10
+
+ JUSTICE GINSBURG: 
+
+Where does the statute or 
+
+11
+
+the rule talk about somebody who loses on a particular 
+
+12
+
+claim but wins the judgment, I thought ­­ I'm looking at 
+
+13
+
+the order.  The order is on page 33 of the appendix and 
+
+14
+
+it doesn't say anything about Spisak or about ­­ what 
+
+15
+
+was the other one ­­ Wiggins.  It just says the order is 
+
+16
+
+three choices, release him from custody or give him a 
+
+17
+
+new sentencing hearing or sentence him to a term in 
+
+18
+
+prison.  That's it.  That's the order that we’re 
+
+19
+
+reviewing ­­
+
+20
+
+ MR. OLDHAM: 
+
+That's correct, 
+
+21
+
+Justice Ginsburg, but it must be read in the context of 
+
+22
+
+the entire opinion.  As we pointed out in footnote 6 of 
+
+23
+
+the red brief, this Court and other Federal courts often 
+
+24
+
+write their conditional release orders differently.  To 
+
+25
+
+say, for example, as Judge Pollack did in the Lamb case, 
+
+36
+
+Alderson Reporting Company
+
+Official
+
+1
+
+these particular errors have to be fixed.  And everyone
+
+2
+
+seems to agree that if the judgment said these 
+
+3
+
+particular errors have to be fixed, he could have taken 
+
+4
+
+the first appeal or he could take a cross­appeal. 
+
+5
+
+ JUSTICE BREYER: 
+
+If he could take his first 
+
+6
+
+appeal, how does it work?  That is, it seems to me that 
+
+7
+
+I've seen lots of petitions in habeas where an 
+
+8
+
+incarcerated person will bring up 40 arguments.  Now, 
+
+9
+
+suppose that he loses on 39 and he wins on one and he 
+
+10
+
+gets his new trial, and the court ­­ the prosecution 
+
+11
+
+says fine, we'll go ahead, we'll give you the new trial. 
+
+12
+
+Is the lawyer then supposed to appeal his 39 losses? 
+
+13
+
+ MR. OLDHAM: 
+
+Well, as a practical matter, 
+
+14
+
+the notice of appeal deadline would be far in advance of 
+
+15
+
+the retrial decision. 
+
+16
+
+ JUSTICE BREYER: 
+
+No, no.  You said he could 
+
+17
+
+take the first appeal.  So before the new trial goes on 
+
+18
+
+he says, I think I'll take the first appeal on the other 
+
+19
+
+39 that I lost on.  Can he do that? 
+
+20
+
+ MR. OLDHAM: 
+
+21
+
+ JUSTICE BREYER: 
+
+Absolutely.  And for ­­
+Well, then a lot of people, 
+
+22
+
+you know, I'm not saying they're badly motivated, 
+
+23
+
+they're in prison, they might think this sort of 
+
+24
+
+interesting, I might lose at trial, let's just see if I 
+
+25
+
+can't find a few other grounds here. 
+
+37
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+3
+4
+5
+
+ MR. OLDHAM: 
+
+Well, it's obviously not a lot
+
+of people.  It's ­­
+ JUSTICE BREYER: 
+
+I've never heard of that. 
+
+Have you found examples where that's happened? 
+ MR. OLDHAM: 
+
+Well, as the petitioner points 
+
+6
+
+out, there's only 18 of these cases in the Court of 
+
+7
+
+Appeals from last year, but a great example ­­
+
+8
+9
+
+ JUSTICE BREYER: 
+
+Wait.  Have you found many, 
+
+one, cases where a petitioner won in the District Court, 
+
+10
+
+there is no State appeal, but he did lose on other 
+
+11
+
+grounds and he decided to take a first appeal on several 
+
+12
+
+of those other grounds? 
+
+13
+14
+15
+
+ MR. OLDHAM: 
+
+I'm unaware of any but I ­­
+
+only because the State often appeals ­­
+ CHIEF JUSTICE ROBERTS: 
+
+Well, the reason 
+
+16
+
+there might not be any, I mean, any decision by the 
+
+17
+
+Federal court in that situation would be, I think, a 
+
+18
+
+purely advisory opinion.  Let's say he loses on a 
+
+19
+
+confrontation clause claim, he wins on inadequate 
+
+20
+
+assistance of counsel.  He takes the appeal.  If I'm the 
+
+21
+
+judge on appeal I say, well, in the new trial, they may 
+
+22
+
+not call the witness that you said shouldn't have been 
+
+23
+
+called and you want me to issue an advisory opinion just 
+
+24
+
+in case they do.  I don't see how he can do that. 
+
+25
+
+ MR. OLDHAM: 
+
+Well, it wouldn't be an 
+
+38
+
+Alderson Reporting Company
+
+Official
+
+1
+
+advisory opinion in this sense.  It would say that what
+
+2
+
+happened in the previous trial transgressed the 
+
+3
+
+confrontation clause or the Sixth Amendment, depending 
+
+4
+
+on which case ­­ which claimant lost below and it would 
+
+5
+
+give him a very valuable procedural protection at the 
+
+6
+
+second trial. 
+
+7
+
+ JUSTICE SCALIA: 
+
+No.  It's superfluous in 
+
+8
+
+the sense that it is unnecessary to the judgment.  He 
+
+9
+
+got the judgment, he won it.  The trial was set aside. 
+
+10
+
+The conviction was set aside, he got a new trial.  And 
+
+11
+
+he's saying, oh, there are additional reasons why I 
+
+12
+
+should have gotten a new trial.  I'm not going to listen 
+
+13
+
+to that.  That's absurd.  You got what you wanted.  Now 
+
+14
+
+go away. 
+
+15
+
+ (Laughter.) 
+
+16
+
+ MR. OLDHAM: 
+
+That ­­ Justice Scalia, our 
+
+17
+
+view of the conditional release order is significantly 
+
+18
+
+weightier than that.  What we think a conditional 
+
+19
+
+release order is and what we think that this Court's 
+
+20
+
+habeas cases demand is that a conditional release order 
+
+21
+
+is a Federal court's order on a constitutional claim 
+
+22
+
+that says the State must release, that is the actual 
+
+23
+
+quintessential habeas remedy, or fix these errors. 
+
+24
+
+Never does the conditional release order say, you get a 
+
+25
+
+new trial. 
+
+39
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ JUSTICE SOTOMAYOR: 
+
+But let's ­­ you may
+
+2
+
+be ­­ this one did, said release ­­ give him a new 
+
+3
+
+hearing or release him. 
+
+4
+
+ But—I’m taking­­ I do want you to answer 
+
+5
+
+my COA question, okay, because what you're saying is 
+
+6
+
+exactly what Justice Scalia is worried about, which is, 
+
+7
+
+is he going to go present the COA and are we going to 
+
+8
+
+even entertain it since he won his release?  But if he 
+
+9
+
+­­ does he have to get a COA? 
+
+10
+
+ But more importantly, what happens when 
+
+11
+
+there's a new hearing?  Those two mistakes are not 
+
+12
+
+repeated but a new one is introduced and the old one is 
+
+13
+
+repeated. 
+
+14
+
+ Are you saying he can't appeal again? 
+
+15
+
+ MR. OLDHAM: 
+
+16
+
+ JUSTICE SOTOMAYOR: 
+
+17
+18
+
+No. 
+On the old one or the 
+
+new one? 
+ MR. OLDHAM: 
+
+Our rule is actually much more 
+
+19
+
+­­ much more protective of the prisoner than that. 
+
+20
+
+Because if the old error is recommitted he gets 
+
+21
+
+immediate release.  And that's the ­­
+
+22
+
+ JUSTICE SOTOMAYOR: 
+
+No, that's ­­ you're 
+
+23
+
+saying he only gets immediate release if it's the old 
+
+24
+
+error that the judge found on the first habeas. 
+
+25
+
+ MR. OLDHAM: 
+
+That's right. 
+
+40
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ JUSTICE SOTOMAYOR: 
+
+But let's assume that
+
+2
+
+the second error is ­­ the third error is committed and 
+
+3
+
+even a new one is committed that wasn't a part of the 
+
+4
+
+first function, can he appeal? 
+
+5
+
+ MR. OLDHAM: 
+
+Of course.  Of course.  And he 
+
+6
+
+has ­­ yes, he has a new judgment.  He can challenge the 
+
+7
+
+new judgment.  The only question is how much relief 
+
+8
+
+affords to him.  Because he agrees with us, to go back 
+
+9
+
+to Justice Scalia's example, he agrees with us that he 
+
+10
+11
+
+could ­­
+ JUSTICE GINSBURG: 
+
+Can we go back to basics. 
+
+12
+
+Isn't it true that a judgment winner does not have to 
+
+13
+
+appeal an issue on which he lost but he is ­­ if he's 
+
+14
+
+content with the judgment, he can present arguments that 
+
+15
+
+would entitle him to relief.  He can assert defensively. 
+
+16
+
+A judgment winner doesn't have to appeal, doesn't have 
+
+17
+
+to cross­appeal.  That is the general rule; right? 
+
+18
+
+ MR. OLDHAM: 
+
+Yes, we agree.  The only 
+
+19
+
+question is whether he's a judgment winner and we 
+
+20
+
+pointed out many examples where people can be prevailing 
+
+21
+
+parties in the sense that the judgment imposes no 
+
+22
+
+liability on them but they can nonetheless appeal and we 
+
+23
+
+would submit that this is one of them, and it's 
+
+24
+
+precisely because he wants the additional protection. 
+
+25
+
+ To go back to Justice Scalia's example, 
+
+41
+
+Alderson Reporting Company
+
+Official
+
+1
+
+everyone agrees that if the petitioner wins on one claim
+
+2
+
+ but he wants to raise a coerced confession claim he can 
+
+3
+
+ file a first appeal or a cross­appeal. 
+
+4
+
+ JUSTICE KAGAN: 
+
+Mr. Oldham, suppose it were he 
+
+5
+
+ just had two Wiggins claims.  One was the lawyer 
+
+6
+
+ didn't find the psychological report and the other was 
+
+7
+
+ the lawyer failed to put on my mother as a character 
+
+8
+
+ witness.  He loses one, he wins the other.  Does he have 
+
+9
+
+ to take a cross­appeal on that? 
+
+10
+
+ MR. OLDHAM: 
+
+He has to take a cross­appeal 
+
+11
+
+ if he wants the one he lost on added to the conditional 
+
+12
+
+ release order.  That is, he wants the protection that 
+
+13
+
+ the Federal court would provide against that error being 
+
+14
+
+ either recommitted or failing ­­ the State failing to 
+
+15
+
+ fix it. 
+
+16
+
+ CHIEF JUSTICE ROBERTS: 
+
+But they ­­ you keep 
+
+17
+
+ talking about the conditional release order.  It doesn't 
+
+18
+
+ say anything about what the State must do, what errors 
+
+19
+
+ it must correct, it's on page 35, it just says give him 
+
+20
+
+ a new sentencing hearing or sentence him to a term of 
+
+21
+
+ imprisonment.  It doesn't say, because of this, because 
+
+22
+
+ of that, because of this. 
+
+23
+
+ MR. OLDHAM: 
+
+And that's absolutely correct. 
+
+24
+
+ But we ­­ it seems like both sides agree that it could 
+
+25
+
+ have said exactly what the opinion says.  That is, I 
+
+42
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ found two errors here, I have not found an error on the
+
+2
+
+ third ground and therefore, it could have been 
+
+3
+
+ incorporated in the text, as they often do. 
+
+4
+
+ As I say, footnote 6 of the red brief 
+
+5
+
+ collects a series of the ways that Federal courts phrase 
+
+6
+
+ them, and it would be a bizarre cross­appeal that would 
+
+7
+
+ turn on the particular phraseology of the conditional 
+
+8
+
+ release order when everyone agrees that the meaning of 
+
+9
+
+ it is the same. 
+
+10
+
+ JUSTICE KENNEDY: 
+
+Let ­­ let me just ask you 
+
+11
+
+ this question about COAs.  Let's just take a case ­­
+
+12
+
+ there's no cross­appeal or anything.  The prisoner 
+
+13
+
+ alleges in ­­ inadequate assistance of counsel, and he 
+
+14
+
+ loses.  He files a COA.  He says, my counsel was 
+
+15
+
+ inadequate because there were two Wiggins errors, he did 
+
+16
+
+ not ­­ two Wiggins errors.  That is what he says in the 
+
+17
+
+ COA. 
+
+18
+19
+20
+
+ The COA is granted. 
+
+Now he files his brief. 
+
+ Can he allege a Spisak error as well? 
+ MR. OLDHAM: 
+
+As far as I know, no court in 
+
+21
+
+ the United States ­­ no circuit court in the United 
+
+22
+
+ States would allow him to do that because of 2253(c)(3). 
+
+23
+
+ JUSTICE KENNEDY: 
+
+So ­­ so can he ­­ so in 
+
+24
+
+ other words, in a COA, you have to list every error that 
+
+25
+
+ counsel made and at ­­ at ­­ on ­­ on pain of not being 
+
+43
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+ able to argue that in your brief?
+ MR. OLDHAM: 
+
+Yes, Your Honor.  That is what 
+
+3
+
+ 2253(c)(3) says, issue­by­issue specification.  And 
+
+4
+
+ every court of appeals in the United States agrees, even 
+
+5
+
+ the Seventh Circuit, that would seem to ­­ would say all 
+
+6
+
+ three of the errors that you hypothesize would be the 
+
+7
+
+ same.  Even in the Seventh Circuit, you would have to 
+
+8
+
+ get a certificate of appealability in that circumstance. 
+
+9
+
+ JUSTICE GINSBURG: 
+
+But that's ­­ (c)(3) 
+
+10
+
+ comes after (c)(1).  And (c)(1) says you need a COA to 
+
+11
+
+ appeal from the final order.  And so if you don't need a 
+
+12
+
+ COA to appeal from the final order, you go on and appeal 
+
+13
+
+ from the final order.  The final order is fine.  You 
+
+14
+
+ would never get to (c)(3). 
+
+15
+
+ (C)(3) says if you need a COA, then you will 
+
+16
+
+ indicate which specific issues.  But it doesn't ­­
+
+17
+
+ (c)(3) doesn't tell you when you need a COA.  (C)(1)(A) 
+
+18
+
+ tells you that. 
+
+19
+
+ MR. OLDHAM: 
+
+That's correct, Justice 
+
+20
+
+ Ginsburg.  And (c)(1), as it's currently written, 
+
+21
+
+ predated even AEDPA.  And even before AEDPA, that is in 
+
+22
+
+ 1986, the Second Circuit interpreted (c)(1) as it is 
+
+23
+
+ currently written to require prisoners, when they are 
+
+24
+
+ the appellees, to nonetheless get COAs. 
+
+25
+
+ And as we sit here today, 6 out the 8 ­­
+
+44
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ JUSTICE GINSBURG: 
+
+Where does that ­­ where
+
+2
+
+ does that come from in the statute?  I mean, the statute 
+
+3
+
+ says you need the COA to appeal from the final order in 
+
+4
+
+ a habeas proceeding.  Well ­­ in the final order.  I 
+
+5
+
+ don't want an appeal from the final order.  It's good. 
+
+6
+
+ MR. OLDHAM: 
+
+So the pre­AEDPA standard was 
+
+7
+
+ the certificate of probable cause standard, which courts 
+
+8
+
+ of appeal, starting with the Roman decision in 1986, 
+
+9
+
+ required prisoners to satisfy the issue ­­ the ­­ the 
+
+10
+
+ CPC requirement even as the appellee.  And as we sit 
+
+11
+
+ here today, 6 out of the 8 courts of appeals would 
+
+12
+
+ require the Petitioner in this case to get a certificate 
+
+13
+
+ of appealability. 
+
+14
+15
+16
+
+ JUSTICE BREYER: 
+
+All right.  Suppose the ­­
+
+ isn't it ­­
+ JUSTICE GINSBURG: 
+
+In fact, you get it from 
+
+17
+
+ the language of the statute, which says you need a 
+
+18
+
+ certificate to appeal from the final order. 
+
+19
+
+ MR. OLDHAM: 
+
+Well, Justice Ginsburg, as this 
+
+20
+
+ Court has said twice in both the Miller­El and in Slack, 
+
+21
+
+ the language of this statute, 2253(c), imposes a list of 
+
+22
+
+ necessary but not sufficient conditions.  And it is 
+
+23
+
+ entirely within the provenance of the courts of appeals, 
+
+24
+
+ to deal with these issues on a regular basis, to 
+
+25
+
+ interpret that language to also apply to a prisoner who 
+
+45
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ is the appellee, who wants to raise an issue for the
+
+2
+
+ court of appeal's consideration, both because that's the 
+
+3
+
+ purpose of the statute and because it was the pre­AEDPA 
+
+4
+
+ standard upon which the statute was enacted. 
+
+5
+
+ And so if I might just return to the Chief 
+
+6
+
+ Justice's hypothetical about the potential for something 
+
+7
+
+ not happening again.  This is ­­ it's much more 
+
+8
+
+ significant than simply that.  If you think about the 
+
+9
+
+ quintessential error that could never recur, it would 
+
+10
+
+ be, for example, a Brady violation, that is, the 
+
+11
+
+ withholding of exculpatory evidence.  Once it's in the 
+
+12
+
+ possession of the defendant, how could it ever recur? 
+
+13
+
+ But it's in precisely that circumstance that 
+
+14
+
+ one of the most powerful exhibitions of a conditional 
+
+15
+
+ release order has worked out because in the ­­ in the 
+
+16
+
+ Wolf v. Clark case, the Fourth Circuit, the Commonwealth 
+
+17
+
+ of Virginia received a Brady remedy, that is, it ­­ it 
+
+18
+
+ had its conviction vacated because the ­­ the particular 
+
+19
+
+ evidence had not been turned over to the defense. 
+
+20
+
+ Now, that error, that particular error could 
+
+21
+
+ never be recommitted, but the Commonwealth violated the 
+
+22
+
+ spirit and the intention of that conditional release 
+
+23
+
+ order by interviewing the jailhouse informant that gave 
+
+24
+
+ the evidence, threatening him with perjury, and 
+
+25
+
+ convincing him not to testify at the second trial. 
+
+46
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ And in that circumstance, because the
+
+2
+
+ conditional release order ­­ which was phrased 
+
+3
+
+ materially identically to ours, by the way ­­ the 
+
+4
+
+ phraseology did not mention Brady, but because he had 
+
+5
+
+ the power of a Federal conditional release order, 
+
+6
+
+ instead of having to sit through another trial, instead 
+
+7
+
+ of having to have the Brady evidence excluded, he was 
+
+8
+
+ able to go back to the Federal district court that 
+
+9
+
+ issued the original conditional order and ­­
+
+10
+
+ CHIEF JUSTICE ROBERTS: 
+
+Oh, sure.  I mean, 
+
+11
+
+ there may be situations in which the State or the 
+
+12
+
+ ineffective counsel, they do repeat the error, or they 
+
+13
+
+ may not. 
+
+14
+
+ MR. OLDHAM: 
+
+Well, this one couldn't have 
+
+15
+
+ been repeated.  It was, by definition, not repeatable. 
+
+16
+
+ But it was because the State failed to fix it.  See, 
+
+17
+
+ it's actually a significantly greater obligation on the 
+
+18
+
+ State than not ­­ than simply not doing the same thing 
+
+19
+
+ over again.  Right? 
+
+20
+
+ JUSTICE BREYER: 
+
+Thinking here to the ­­ the 
+
+21
+
+ Criminal Justice Foundation filed a brief, and ­­ and as 
+
+22
+
+ I read it, I thought, well, the point ­­ the point of 
+
+23
+
+ this is don't make it too complicated.  So they say, 
+
+24
+
+ well, let's just consider what Estelle says, you 
+
+25
+
+ Can’t be deprived of­­ you have to make a substantial
+
+47
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+ showing of the denial of a Federal right.
+ So they're saying the Federal right here 
+
+3
+
+ that we're deprived of is a Sixth Amendment right to ­­
+
+4
+
+ to counsel, period. 
+
+5
+
+ There are a lot of different bases for it. 
+
+6
+
+ There are a lot of different things that happen, but 
+
+7
+
+ that's the single ground or right or, in this case, 
+
+8
+
+ issue doesn't change the word of ­­ that it used to 
+
+9
+
+ mean.  So call it this one thing.  It's so simple, and 
+
+10
+11
+
+ at that point, let the court of appeals deal with it. 
+ As soon as we try to separate different 
+
+12
+
+ bases for saying that this was a deprivation of the 
+
+13
+
+ right to counsel, we are going to produce a pretty good 
+
+14
+
+ nightmare because they shade into each other often. 
+
+15
+
+ They're related in a variety of ways.  They may be or 
+
+16
+
+ may not be related through the prejudice problem.  And 
+
+17
+
+ lawyers will start wondering when they have to file a 
+
+18
+
+ court cross­appeal, and we will create a ­­ a mess. 
+
+19
+
+ So that's the basic argument, I think, of 
+
+20
+
+ this brief, and it is one of the arguments that they're 
+
+21
+
+ trying to make. 
+
+22
+23
+24
+25
+
+ Now, what is your simple, clear answer to 
+ that? 
+ MR. OLDHAM: 
+
+The current rule in 6 out of 
+
+ the 8 Courts of Appeals is not a nightmare.  And the 
+
+48
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ current rule reads issue in 2253(c)(3) to mean issue,
+
+2
+
+ not to mean a single claim.  And so the nightmare that's 
+
+3
+
+ predicted or the ­­ the pragmatic solution isn't in want 
+
+4
+
+ of a problem in the sense that this is the ­­ the rule 
+
+5
+
+ that we have advanced on the certificate of 
+
+6
+
+ appealability is the majority rule.  And as far as ­­
+
+7
+
+ JUSTICE SOTOMAYOR: 
+
+But isn't that a rule 
+
+8
+
+ that was set up, as Justice Ginsburg said, only when the 
+
+9
+
+ petitioner hasn't won.  But here, there's a judgment for 
+
+10
+
+ resentencing.  As the Chief Justice indicates, the error 
+
+11
+
+ may or may not ­­ the third error may or may not be 
+
+12
+
+ repeated.  So go back to that point, which is if you're 
+
+13
+
+ a successful litigant, do you even have a right to try 
+
+14
+
+ to go get a COA? 
+
+15
+
+ MR. OLDHAM: 
+
+So the rule that I'm providing, 
+
+16
+
+ the 6 out of 8, is in the circumstance where the 
+
+17
+
+ prisoner won and wants to, nonetheless, raise additional 
+
+18
+
+ issues.  So it's exactly this case. 
+
+19
+
+ And the simple fact of recurrence is both 
+
+20
+
+ a ­­ a difficult rule to predict ex­ante as the Wolf 
+
+21
+
+ case would illustrate, but it's also ­­ would give short 
+
+22
+
+ shrift to ineffective assistance of counsel claims 
+
+23
+
+ because ­­
+
+24
+25
+
+ JUSTICE GINSBURG: 
+
+Why doesn't this fit ­­
+
+ why doesn't this case just fit what is the standard rule 
+
+49
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ that a party who's content with the judgment doesn't
+
+2
+
+ have to cross­appeal to preserve arguments that enabled 
+
+3
+
+ him to retain the benefits of the judgment?  That's the 
+
+4
+
+ standard rule. 
+
+5
+
+ MR. OLDHAM: 
+
+Justice Ginsburg, it fits 
+
+6
+
+ within that rule.  It just begs the question of what the 
+
+7
+
+ judgment is.  And in our ­­ in our view, the judgment 
+
+8
+
+ entitles him to ­­ to ­­ to either release or to a 
+
+9
+
+ resentencing under particular terms.  And if he wants to 
+
+10
+
+ change the terms of the resentencing, he's attacking the 
+
+11
+
+ judgment and expanding his relief. 
+
+12
+
+ We all agree that he would be attacking the 
+
+13
+
+ judgment and expanding his relief if he wanted to add 
+
+14
+
+ coerced confession.  Our view is that ineffective 
+
+15
+
+ assistance of counsel is not a second class right.  It 
+
+16
+
+ is not one that can be subordinated to a coerced 
+
+17
+
+ confession claim, and that for the exact same reasons 
+
+18
+
+ that the coerced confession claim may come up, may not 
+
+19
+
+ come up, may be difficult to understand ex­ante, the 
+
+20
+
+ practical significance of it may be difficult to discern 
+
+21
+
+ ex­ante, he still has to cross­appeal in both 
+
+22
+
+ circumstances.  Yes, he conceded in the top ­­
+
+23
+
+ JUSTICE KAGAN: 
+
+But if I understand the 
+
+24
+
+ implications ­­ this goes back to, I guess, the 
+
+25
+
+ hypothetical I asked before.  Now I have 5 Wiggins 
+
+50
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ claims.  You didn't put on my mother, and you didn't put
+
+2
+
+ on my brother, and you didn't put on my sister, you 
+
+3
+
+ didn't put on my uncle, you didn't put on my aunt, and 
+
+4
+
+ the court says, you know, we think your brother and your 
+
+5
+
+ mother really did have something to say, we're not so 
+
+6
+
+ sure about the others. 
+
+7
+
+ Do you think I have to cross­appeal on my 
+
+8
+
+ aunt and my sister and my uncle, and not only did you 
+
+9
+
+ think I have to cross­appeal, but you think that if I 
+
+10
+
+ had won and the State had not taken an appeal, I would 
+
+11
+
+ have had to appeal myself? 
+
+12
+
+ MR. OLDHAM: 
+
+Well, two things, Justice 
+
+13
+
+ Kagan.  One is that on ­­ on that particular 
+
+14
+
+ hypothetical, I would suggest that there's just one 
+
+15
+
+ Wiggins claim, and that is failure to call family to 
+
+16
+
+ testify.  And so there is sort of a tension in how we 
+
+17
+
+ conceive of the claim in this case and it's ­­
+
+18
+
+ JUSTICE KAGAN: 
+
+19
+
+ another hypothetical ­­
+
+20
+
+ MR. OLDHAM: 
+
+21
+
+ JUSTICE KAGAN: 
+
+Well, you know, I could do 
+
+Sure. 
+­­ failure to call family, 
+
+22
+
+ failure to call the psychiatrist, failure to find the 
+
+23
+
+ psychiatric report ­­
+
+24
+
+ MR. OLDHAM: 
+
+25
+
+ JUSTICE KAGAN: 
+
+Sure. 
+­­ failure to go investigate 
+
+51
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+ my mental background.
+ MR. OLDHAM: 
+
+Absolutely.  And our position 
+
+3
+
+ is, yes, it's not that you have to cross­appeal, it's 
+
+4
+
+ that you can cross­appeal, right, in the sense that you 
+
+5
+
+ could, if you wanted to go back and have a second trial 
+
+6
+
+ without having the ones that you lost protected by the 
+
+7
+
+ Federal Constitution, then you can.  But if you want to 
+
+8
+
+ have a conditional release order that commands the State 
+
+9
+
+ to fix those particular errors upon pain of immediately 
+
+10
+
+ releasing you, our rule allows you to cross­appeal, 
+
+11
+
+ whereas their rule does not. 
+
+12
+
+ JUSTICE SOTOMAYOR: 
+
+13
+14
+15
+16
+
+So do you need a COA, 
+
+ too? 
+ MR. OLDHAM: 
+
+Yes.  Yes, Your Honor.  You 
+
+ would always need a certificate of appealability. 
+ JUSTICE SOTOMAYOR: 
+
+How do you do that? 
+
+17
+
+ If ­­ take Justice Kagan's example.  You've won, and you 
+
+18
+
+ want to ­­ you're ­­ you're willing to forego unless 
+
+19
+
+ there's an appeal by you.  Now I'm going to 
+
+20
+
+ cross­appeal.  Now I need a COA, too, before I know what 
+
+21
+
+ you're doing? 
+
+22
+
+ MR. OLDHAM: 
+
+Well, the prisoner ­­ it's 
+
+23
+
+ common ground that if the prisoner appeals on the top or 
+
+24
+
+ the bottom the prisoner needs a certificate of 
+
+25
+
+ appealability.  And our position is that the particular 
+
+52
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ rules that we're offering here offer protection to
+
+2
+
+ prisoners in the sense that ­­ and it offers protections 
+
+3
+
+ to the State as well, right?  It lets everyone know before 
+
+4
+
+ we have to go back and have another trial about the mother 
+
+5
+
+ or the sister or the cousin or the psychiatric report 
+
+6
+
+ what the rules of the Sixth Amendment game are.  It 
+
+7
+
+ allows the prisoner to know that if the State doesn't 
+
+8
+
+ fix that error he gets to go free and it allows the 
+
+9
+
+ State to make a decision as to perhaps not even 
+
+10
+
+ conducting a trial again. 
+
+11
+
+ We've offered this example in the briefs, 
+
+12
+
+ it's been ­­ and it's unrebutted in the reply that 
+
+13
+
+ depending on what the particular conditions are, the 
+
+14
+
+ State may forego and commute to a term of years, which 
+
+15
+
+ is the ultimate benefit to the prisoner.  And so it's 
+
+16
+
+ incredibly important to give a prisoner the right to 
+
+17
+
+ cross­appeal in that circumstance.  And if he wants 
+
+18
+
+ the court of appeals to address that issue he has to 
+
+19
+
+ cross­appeal because it would be expanding that relief 
+
+20
+
+ by adding a condition on a conditional release order 
+
+21
+
+ that the State must obey or fix or otherwise let him go 
+
+22
+
+ immediately. 
+
+23
+
+ If there are no further questions. 
+
+24
+
+ CHIEF JUSTICE ROBERTS: 
+
+25
+
+ Mr. Schaffer, two minutes left. 
+
+53
+
+Alderson Reporting Company
+
+Thank you, counsel. 
+
+Official
+
+1
+2
+3
+
+ REBUTTAL ARGUMENT OF RANDOLPH L. SCHAFFER, JR.
+ ON BEHALF OF THE PETITIONER 
+ MR. SCHAFFER: 
+
+I'm a ­­ as the Court can 
+
+4
+
+ probably tell, I'm a fairly simple­minded person, and 
+
+5
+
+ when I looked at this and said is there anything I need 
+
+6
+
+ to do to get this closing argument in front of the 
+
+7
+
+ circuit in response to the State's appeal, I said: 
+
+8
+
+ Well, no; I won on ineffective assistance of counsel. 
+
+9
+
+ I'm just making another argument in support of the 
+
+10
+
+ judgment as to why there was prejudice, end of story. 
+
+11
+
+ That's the extent of my thought. 
+
+12
+
+ The bulk of these Federal habeas cases, as 
+
+13
+
+ I'm sure the Court knows, 90 percent or more are pro se 
+
+14
+
+ State court prisoners trying to navigate the treacherous 
+
+15
+
+ AEDPA waters without any help at all.  And it's tough 
+
+16
+
+ enough to win on the merits.  To create the procedural 
+
+17
+
+ nightmare of even getting into the ballpark that the 
+
+18
+
+ State would have you create is like throwing out the 
+
+19
+
+ baby with the bath water.  The simple thing is we want 
+
+20
+
+ to make it easy for the courts to acquire jurisdiction. 
+
+21
+
+ JUSTICE SOTOMAYOR: 
+
+The only way you can win 
+
+22
+
+ this, according to you, is if we rule IAC claims are one 
+
+23
+
+ claim? 
+
+24
+25
+
+ MR. SCHAFFER: 
+
+No.  I can also win, Justice 
+
+ Sotomayor, on the basis that, even if IAC is multiple 
+
+54
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ claims, I did not seek to enlarge my rights under the
+
+2
+
+ judgment.  And it goes back to the State's position ­­
+
+3
+4
+5
+
+ JUSTICE SOTOMAYOR: 
+
+So when is it that you 
+
+ have to cross­appeal? 
+ MR. SCHAFFER: 
+
+If I want to enlarge my 
+
+6
+
+ rights.  For example, if I win on punishment phase IAC 
+
+7
+
+ and I lose on guilt phase whatever and I want more than 
+
+8
+
+ a new punishment hearing, I would have to cross­appeal 
+
+9
+
+ obviously in that situation. 
+
+10
+
+ JUSTICE SCALIA: 
+
+Well, you answered no, but 
+
+11
+
+ then your explanation produces yes.  You're saying you 
+
+12
+
+ don't have to cross­appeal because you won on an 
+
+13
+
+ ineffective assistance of counsel claim; right?  There 
+
+14
+
+ is one, you know, omnibus ineffective assistance of 
+
+15
+
+ counsel claim.  You won on that; right? 
+
+16
+
+ MR. SCHAFFER: 
+
+17
+
+ JUSTICE SCALIA: 
+
+Correct. 
+So your answer to Justice 
+
+18
+
+ Sotomayor should have been the opposite of what it was. 
+
+19
+
+ If you said yes, you should have said no. If you said no, 
+
+20
+
+ you should of said yes. 
+
+21
+
+ MR. SCHAFFER: 
+
+I do that all the time.  But 
+
+22
+
+ my understanding was she was asking me when would you 
+
+23
+
+ need to cross­appeal, and I was saying the scenario in 
+
+24
+
+ which you would.  This is not one of them. 
+
+25
+
+ Thank you. 
+
+55
+
+Alderson Reporting Company
+
+Official
+
+1
+
+
+ CHIEF JUSTICE ROBERTS: 
+
+2
+
+
+ The case is submitted.
+
+
+3
+
+
+ (Whereupon, at 12:01 p.m., the case in the 
+
+
+Thank you, counsel. 
+
+
+4
+
+
+ above­entitled matter was submitted.) 
+
+
+5
+
+
+   
+
+6
+
+
+   
+
+7
+
+
+   
+
+8
+
+
+   
+
+9
+
+
+   
+
+10
+
+
+   
+
+11
+
+
+   
+
+12
+
+
+   
+
+13
+
+
+   
+
+14
+
+
+   
+
+15
+
+
+   
+
+16
+
+
+   
+
+17
+
+
+   
+
+18
+
+
+   
+
+19
+
+
+   
+
+20
+
+
+   
+
+21
+
+
+   
+
+22
+
+
+   
+
+23
+
+
+   
+
+24
+
+
+   
+
+25
+
+
+   
+
+56
+
+Alderson Reporting Company
+
+

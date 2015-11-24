@@ -1,0 +1,6441 @@
+Official
+
+1
+
+P R O C E E D I N G S
+
+2
+
+(10:02 a.m.)
+
+3
+
+CHIEF JUSTICE ROBERTS:
+
+We'll hear argument
+
+4
+
+first this morning in Case 11-9335, Alleyne v. United
+
+5
+
+States.
+
+6
+
+Ms. Maguire?
+
+7
+
+ORAL ARGUMENT OF MARY E. MAGUIRE
+
+8
+
+ON BEHALF OF THE PETITIONER
+
+9
+10
+
+MS. MAGUIRE:
+
+Mr. Chief Justice, and may it
+
+please the Court:
+
+11
+
+This case is about who gets to decide the
+
+12
+
+facts that trigger a mandatory minimum sentence.
+
+Any
+
+13
+
+fact that entitles a prosecution by law to a sentence
+
+14
+
+more severe than a judge could otherwise impose must be
+
+15
+
+found by the jury beyond a reasonable doubt.
+
+16
+
+Under Harris, the government is entitled --
+
+17
+
+JUSTICE SOTOMAYOR:
+
+Counsel, could you
+
+18
+
+address an issue that's very important to me, the one of
+
+19
+
+stare decisis.
+
+And so that -- hone in on that.
+
+MS. MAGUIRE:
+
+20
+
+Yes, Justice Sotomayor.
+
+I do
+
+21
+
+not believe that stare decisis poses a problem for the
+
+22
+
+Court in this case because Harris was a plurality
+
+23
+
+opinion.
+
+24
+
+I'm sorry, five of the Justices voted to uphold
+
+25
+
+McMillan, only four of the Justices found that McMillan
+
+And while four of the Justices found that --
+
+3
+
+Alderson Reporting Company
+
+Official
+
+1
+
+was consistent with Apprendi.
+
+2
+
+And so we have a plurality opinion, and, for
+
+3
+
+our constitutional position, we do not believe that
+
+4
+
+Harris --
+
+5
+
+JUSTICE SOTOMAYOR:
+
+Well, the problem is,
+
+6
+
+whether you're right or wrong -- and you're absolutely
+
+7
+
+right, it was a plurality opinion -- your adversary says
+
+8
+
+States have passed laws relying on it, the Federal
+
+9
+
+system is now structured around it, why isn't the damage
+
+10
+
+as great as they claim -- potential damage, I should
+
+11
+
+say.
+
+12
+
+MS. MAGUIRE:
+
+Well, first of all, I would
+
+13
+
+just note that, even though McMillan was decided in
+
+14
+
+1986, there is nothing in the legislative history that
+
+15
+
+indicates that Congress referred on McMillan when it
+
+16
+
+passed 924(c).
+
+17
+
+In addition, 924(c) is silent as to who
+
+18
+
+should be the fact-finder that triggers the mandatory
+
+19
+
+minimum.
+
+20
+
+not really a Sixth Amendment case --
+
+21
+22
+
+And, finally, in the McMillan case, that was
+
+JUSTICE SOTOMAYOR:
+practical consequences.
+
+23
+
+MS. MAGUIRE:
+
+24
+
+JUSTICE SOTOMAYOR:
+
+25
+
+Address, please, the
+
+Certainly.
+How many -- how many
+
+Federal courts are you aware are already charging the
+4
+
+Alderson Reporting Company
+
+Official
+
+1
+
+924(c) facts to a jury, notwithstanding the -- the fact
+
+2
+
+that it's not required?
+
+3
+
+MS. MAGUIRE:
+
+Yes, I -- I would say that
+
+4
+
+there is little to no practical effect, if the Court is
+
+5
+
+to adopt a rule, because the majority of the Federal
+
+6
+
+courts are already -- and Federal prosecutors are
+
+7
+
+already -- alleging these facts in the indictment and
+
+8
+
+proving them to a jury beyond a reasonable doubt.
+
+9
+
+think that this case is the exact example of that.
+It was alleged in the indictment.
+
+10
+
+And I
+
+It went
+
+11
+
+to the jury, the jury got a special verdict form, so
+
+12
+
+there is no difficulty in implementing this rule --
+
+13
+
+JUSTICE ALITO:
+
+But isn't your position that
+
+14
+
+a decision of this Court is not entitled to stare
+
+15
+
+decisis protection, if there isn't a majority opinion in
+
+16
+
+that case?
+
+17
+
+MS. MAGUIRE:
+
+Yes, Your Honor.
+
+I do not
+
+18
+
+believe that Harris has precedential value because it is
+
+19
+
+a plurality opinion.
+
+20
+
+In our --
+
+JUSTICE ALITO:
+
+Well, I can think of some
+
+21
+
+pretty important decisions of this Court that were not
+
+22
+
+the result of a majority opinion.
+
+23
+
+adopt that as a blanket rule?
+
+24
+25
+
+MS. MAGUIRE:
+
+Do you want us to
+
+No, Your Honor, but I would
+
+note that, in constitutional questions like this one,
+5
+
+Alderson Reporting Company
+
+Official
+
+1
+
+stare decisis is at its weakness -- weakest.
+
+2
+
+also --
+
+3
+
+JUSTICE ALITO:
+
+All right.
+
+I would
+
+Constitutional
+
+4
+
+decisions of this Court not decided with the majority
+
+5
+
+opinion, no stare decisis effect.
+
+6
+
+MS. MAGUIRE:
+
+That's your argument?
+
+Well, and also, Your Honor,
+
+7
+
+what I think is significant in this case, in terms of
+
+8
+
+the issue of stare decisis, is that McMillan was not a
+
+9
+
+Sixth Amendment case.
+
+McMillan was decided more on due
+
+10
+
+process grounds.
+
+11
+
+Amendment in McMillan comes in the last paragraph, when
+
+12
+
+it talks to the fact that the defendant has no right to
+
+13
+
+jury sentencing.
+
+14
+15
+
+And the only discussion of the Sixth
+
+And so, for those reasons, we do not believe
+that stare decisis poses a problem.
+
+16
+
+JUSTICE SCALIA:
+
+You haven't distinguished
+
+17
+
+McMillan.
+
+18
+
+distinguish McMillan?
+
+19
+
+distinguishing that is it was not a
+
+20
+
+Sixth Amendment case, even though the opinion refers to
+
+21
+
+the Sixth Amendment?
+
+22
+
+You've distinguished Harris.
+
+How do you
+
+Your -- your only grounds for
+
+MS. MAGUIRE:
+
+Well, Your Honor, it does, in
+
+23
+
+fact, refer to the Sixth Amendment in the very last
+
+24
+
+paragraph.
+
+25
+
+was a due process claim --
+
+But what McMillan was mostly concerned about
+
+6
+
+Alderson Reporting Company
+
+Official
+
+1
+
+JUSTICE SCALIA:
+
+I don't care about
+
+2
+
+"mostly."
+
+The issue is whether McMillan was a
+
+3
+
+Sixth Amendment case, in part or in whole.
+
+4
+
+know how you can say it wasn't.
+
+5
+
+cases on -- on what a case mostly says.
+
+6
+
+what it says.
+
+7
+
+MS. MAGUIRE:
+
+8
+
+JUSTICE GINSBURG:
+
+9
+
+And I don't
+
+We -- we don't decide
+We decide on
+
+That's absolutely -Ms. Maguire, you don't --
+
+you don't have to take the position that there's no
+
+10
+
+stare decisis effect.
+
+In a unanimous -- a recent
+
+11
+
+unanimous decision of this Court, obviously, would carry
+
+12
+
+more weight than one that has a plurality opinion, so
+
+13
+
+you don't have to say -- it isn't a question of yes or
+
+14
+
+no, it's a question of the degree of respect that we
+
+15
+
+would give to our former decision.
+
+16
+
+MS. MAGUIRE:
+
+17
+
+right, Justice Ginsburg.
+
+18
+
+factors that the Court considers when looking at stare
+
+19
+
+decisis is what were the margins of vote on the previous
+
+20
+
+cases, and McMillan was decided on a 5-4 decision,
+
+21
+
+whereas Harris, as we've noted, was a plurality
+
+22
+
+decision.
+
+23
+
+I think that that is exactly
+And, in fact, the other
+
+Both opinions were found over spirited
+
+24
+
+dissents.
+
+They have been criticized by this Court and
+
+25
+
+the lower courts, and, in all of those instances, we
+7
+
+Alderson Reporting Company
+
+Official
+
+1
+
+believe that stare decisis is at its weakest --
+
+2
+
+JUSTICE ALITO:
+
+Well, I think it's important
+
+3
+
+for this Court to have a consistent doctrine of stare
+
+4
+
+decisis.
+
+5
+
+decisions that we don't like, but we will stick with 
+
+
+6
+
+decisions that the majority does like."
+
+7
+
+looking for your understanding of what stare decisis 
+
+
+8
+
+means in constitutional cases. 
+
+
+The doctrine can't be, "We will overrule
+
+So I'm still 
+
+
+Now, with the suggestion of 
+
+
+9
+10
+
+Justice Ginsburg, I gather that your position is, if
+
+11
+
+it's a narrow decision, then it's -- stare decisis has
+
+12
+
+less weight; is that it?
+
+13
+
+it has less weight.
+
+14
+
+Why does it have insufficient weight here?
+
+Now, what other factors?
+
+Why isn't it controlling, though?
+
+MS. MAGUIRE:
+
+15
+
+So
+
+Because, Justice Alito,
+
+16
+
+another thing that you look -- look to, when you are
+
+17
+
+considering stare decisis, is whether or not the rule is
+
+18
+
+workable, whether or not the prior decision was badly
+
+19
+
+reasoned, and those are other factors that the Court can
+
+20
+
+consider.
+
+21
+
+And, if you look at this Court's Sixth
+
+22
+
+Amendment jurisprudence, as it has developed since
+
+23
+
+Apprendi, then in Booker, then in Blakely, then in
+
+24
+
+Cunningham, what we are asking for today is a logical --
+
+25
+
+JUSTICE KAGAN:
+
+But why is this not
+8
+
+
+Alderson Reporting Company
+
+Official
+
+1
+
+workable?
+
+2
+
+whether it was right or wrong.
+
+3
+
+whether it has created some incongruity in the system.
+
+4
+
+I mean, you can -- you can argue about
+You can argue about
+
+But haven't the last number of years
+
+5
+
+suggested that it's perfectly workable?
+
+6
+
+what they are supposed to do; everybody does it.
+
+7
+
+why is this not workable?
+
+8
+9
+
+MS. MAGUIRE:
+
+Everybody knows
+Why --
+
+Well, the Harris rule is not
+
+workable on a practical level because what happens under
+
+10
+
+the Harris rule is the government is entitled to a fact
+
+11
+
+that drives a more severe punishment that never goes to
+
+12
+
+the jury.
+
+13
+
+that the court find that, where there is a fact that
+
+14
+
+triggers a mandatory minimum, that that fact be found by
+
+15
+
+the jury.
+
+If -- if -- and what we are asking here is
+
+16
+
+JUSTICE SOTOMAYOR:
+
+Now I understand --
+
+17
+
+CHIEF JUSTICE ROBERTS:
+
+That sounds like --
+
+18
+
+that sounds like an argument that it's wrong, and that
+
+19
+
+is, of course, the first step in -- in the stare decisis
+
+20
+
+analysis.
+
+21
+
+Justice Kagan's question is, in what sense is it
+
+22
+
+unworkable?
+
+23
+
+It doesn't sound, to me, responsive to
+
+MS. MAGUIRE:
+
+Well, I think it becomes
+
+24
+
+unworkable in the drug cases, Your Honor, and in the
+
+25
+
+9841 statute because what you have there is you have, in
+9
+
+Alderson Reporting Company
+
+Official
+
+1
+
+some circuits, people alleging drug weight, but, in 
+
+
+2
+
+other circuits, you have they called this mixing and 
+
+
+3
+
+matching.
+
+4
+
+not exceed 20 years, the prosecutors are not alleging 
+
+
+5
+
+the drug weights in the indictment. 
+
+
+And, as long as the statutory maximum does 
+
+
+And that becomes unworkable and quite 
+
+
+6
+
+And the lower courts have 
+
+
+7
+
+confusing to the courts.
+
+8
+
+criticized the Harris rule, primarily in cases like 
+
+
+9
+
+Krieger and others that we -- are cited in our amicus 
+
+
+10
+
+brief, that the rule is somewhat unworkable.
+
+11
+
+JUSTICE SCALIA:
+
+Why wouldn't that be a
+
+12
+
+problem if -- if the question had to be decided by the
+
+13
+
+jury?
+
+14
+
+by the jury eliminate that -- that problem of the -- of
+
+15
+
+the mixing or not mixing?
+
+Why does -- why does requiring it to be decided
+
+16
+
+MS. MAGUIRE:
+
+Well, asking it to be found by
+
+17
+
+a jury solves the problem because it -- it allows the
+
+18
+
+fact to go to the jury, the jury finds it.
+
+19
+
+a long history in this country that jury verdicts drive
+
+20
+
+punishment.
+
+21
+
+somebody is open to should be driven by the jury
+
+22
+
+verdict.
+
+23
+
+And we have
+
+And so the idea is that the punishment that
+
+JUSTICE GINSBURG:
+
+You mentioned drug
+
+24
+
+weight.
+
+Let's -- so you're making -- your argument
+
+25
+
+would mean that drug weight also has to be found by the
+10
+
+Alderson Reporting Company
+
+Official
+
+1
+
+jury because that can -- the length of the sentence can
+
+2
+
+depend on the -- the drug weight.
+
+3
+
+MS. MAGUIRE:
+
+If the drug weight is going to
+
+4
+
+trigger a mandatory minimum, Your Honor, yes, we would
+
+5
+
+say that, under our rule, that that would have to be
+
+6
+
+alleged in the indictment and proved to the jury beyond
+
+7
+
+a reasonable doubt, which, as our amicus briefs point
+
+8
+
+out, is being done already in the majority of circuits
+
+9
+
+throughout the country.
+
+10
+
+And so this is not going to put -- put any
+
+11
+
+additional burden on the prosecutors to be doing this.
+
+12
+
+And, fundamentally, what it does is that it levels the
+
+13
+
+playing field because what it does in trial situations
+
+14
+
+is it allows a defendant to know exactly what it is that
+
+15
+
+the government is going to prove.
+
+16
+
+The government then has to bring in those
+
+17
+
+witnesses at the time of trial, so that they can be
+
+18
+
+cross-examined on this fact that is going to trigger the
+
+19
+
+mandatory minimum in their case.
+
+20
+
+the playing field in that regard.
+
+21
+
+JUSTICE ALITO:
+
+And so it helps level
+
+Now, if you were defending a
+
+22
+
+case involving drug weight and your client maintained
+
+23
+
+that he or she had nothing to do with these drugs, how
+
+24
+
+would you proceed?
+
+25
+
+my drugs, but if they were my drugs, they weren't --
+
+Your argument would be:
+
+11
+
+Alderson Reporting Company
+
+They're not
+
+Official
+
+1
+
+they didn't weigh more than one kilo.
+
+2
+
+MS. MAGUIRE:
+
+Well, Justice Alito, those are
+
+3
+
+strategical questions that come up in every trial case
+
+4
+
+that we have.
+
+5
+
+lawyer, what your theory of the defense is going to be.
+
+6
+
+It's simply going to be, I wasn't there; or you may
+
+7
+
+decide to challenge the drug weight.
+
+8
+9
+10
+
+And you have to decide, as a trial
+
+But those -- those strategic decisions exist
+whether or not the Court adopts this rule or doesn't
+adopt the rule --
+
+11
+
+JUSTICE KENNEDY:
+
+But the question was
+
+12
+
+what -- what strategic decision do you think the lawyer
+
+13
+
+should make?
+
+14
+
+MS. MAGUIRE:
+
+Well, any strategic decision a
+
+15
+
+lawyer makes is going to depend on the individual facts
+
+16
+
+of the case.
+
+17
+
+For example -JUSTICE KENNEDY:
+
+So you -- but -- but
+
+18
+
+Justice Alito has a real problem.
+
+19
+
+the defense in a very difficult position?
+MS. MAGUIRE:
+
+20
+
+What -- don't you put
+
+You don't put the defense in a
+
+21
+
+very difficult position because, in fact, if you adopt
+
+22
+
+our rule, we believe that you are protecting the
+
+23
+
+defendant's Sixth Amendment right to a jury because this
+
+24
+
+is a fact that is going to be triggering a mandatory
+
+25
+
+minimum.
+12
+
+Alderson Reporting Company
+
+Official
+
+1
+
+And, if the government has to prove it, they
+
+2
+
+then have to bring in the witness to the trial, who is
+
+3
+
+then subject to cross-examination, which is a far
+
+4
+
+more --
+
+5
+
+JUSTICE KENNEDY:
+
+But -- but isn't it
+
+6
+
+difficult for you to say he had nothing to do with the
+
+7
+
+drugs, plus the drugs didn't weigh more than a certain
+
+8
+
+amount?
+
+9
+
+MS. MAGUIRE:
+
+I don't believe that that is
+
+10
+
+difficult, and I believe that those are decisions that
+
+11
+
+you make in every case.
+
+12
+
+this case -- in Mr. Alleyne's case, our theory --
+
+13
+
+For example, in the case -- in
+
+JUSTICE KENNEDY:
+
+I think that I am hearing
+
+14
+
+that, in every case, you are going to want witnesses --
+
+15
+
+you are going to insist on a jury determination of the
+
+16
+
+amount.
+
+17
+
+That's kind of what I'm hearing.
+MS. MAGUIRE:
+
+That is the rule,
+
+18
+
+Justice Kennedy, that we are asking the Court to adopt,
+
+19
+
+that if there's a fact -JUSTICE KENNEDY:
+
+20
+
+Justice Alito says why
+
+21
+
+doesn't that put defense counsel in a very difficult
+
+22
+
+position?
+
+23
+
+MS. MAGUIRE:
+
+Well, it doesn't put defense
+
+24
+
+counsel in a difficult position at all because those are
+
+25
+
+the same decisions that you make, whether or not you
+13
+
+Alderson Reporting Company
+
+Official
+
+1
+
+adopt this rule or you don't adopt this rule.
+
+2
+
+JUSTICE KENNEDY:
+
+Well, we're not getting
+
+3
+
+far with this.
+
+4
+
+order to preserve the constitutional right, you want us
+
+5
+
+to have a bifurcated trial.
+
+6
+
+say that.
+
+7
+
+But one answer you could say is that, in
+
+MS. MAGUIRE:
+
+I thought you were -- might
+
+No, we are not -- we are not
+
+8
+
+asking for a bifurcated trial.
+
+9
+
+if there's one -JUSTICE KENNEDY:
+
+10
+11
+
+We are just asking that
+
+That's good because that's
+
+an extra problem.
+
+12
+
+(Laughter.)
+
+13
+
+JUSTICE KAGAN:
+
+Ms. Maguire, could I take
+
+14
+
+you to a different kind of question?
+
+15
+
+MS. MAGUIRE:
+
+16
+
+JUSTICE KAGAN:
+
+Certainly.
+Let's assume that there were
+
+17
+
+a statute, and it said carrying a gun is an offense and
+
+18
+
+that the range is 5 to 10 years.
+
+19
+
+further in the real word, but let's just say 5 to 10
+
+20
+
+years.
+
+21
+
+that range, the judge shall consider whether the
+
+22
+
+defendant brandished the gun and whether the defendant
+
+23
+
+discharged the gun.
+
+24
+
+said.
+
+25
+
+I realize it goes up
+
+And Congress said, in setting the penalty within
+
+Now -- and that's all the statute
+
+That would be constitutional; is that not
+14
+
+Alderson Reporting Company
+
+Official
+
+1
+
+right?
+
+2
+
+MS. MAGUIRE:
+
+Yes, Justice Kagan, that would
+
+3
+
+be constitutional because it doesn't have the mandatory
+
+4
+
+effect.
+
+5
+
+JUSTICE KAGAN:
+
+Okay.
+
+So it's
+
+6
+
+constitutional for the judge to say, seven years because
+
+7
+
+you brandished, nine years because you discharged.
+
+8
+9
+
+So what makes it unconstitutional, what
+makes it a violation of the Sixth Amendment, when, now,
+
+10
+
+Congress just provides something extra in the statute?
+
+11
+
+It says not just you shall consider brandishing and
+
+12
+
+discharging, but, if you find brandishing, you get 7; if
+
+13
+
+you find discharging, you get 9.
+
+14
+
+MS. MAGUIRE:
+
+Okay.
+
+What makes that
+
+15
+
+unconstitutional is because you are stripping the judge
+
+16
+
+of all authority, and, by operation of law, you are
+
+17
+
+telling that judge that you must impose this sentence.
+
+18
+
+JUSTICE KAGAN:
+
+Well, that seems right as a
+
+19
+
+definitional matter, as a descriptive matter.
+
+But I
+
+20
+
+guess the question I'm having difficulty with is why
+
+21
+
+does that matter for purposes of the Sixth Amendment?
+
+22
+
+The jury is doing the exact same thing, which is the
+
+23
+
+jury isn't doing anything in either of my examples.
+
+24
+
+So the only difference between example
+
+25
+
+number one, which you said was constitutional, and
+15
+
+Alderson Reporting Company
+
+Official
+
+1
+
+example number two is that, now, Congress is giving
+
+2
+
+further instruction to the judge, but nothing more is
+
+3
+
+being taken away from the jury; is it?
+
+4
+
+MS. MAGUIRE:
+
+Well, yes, it is because, in
+
+5
+
+your second hypothetical, where it is the mandatory
+
+6
+
+minimum, which is exactly what we have in this case,
+
+7
+
+this notion that somehow Congress is channelling
+
+8
+
+discretion is a fiction because what it does is it tells
+
+9
+
+the judge, you must impose seven years, and you cannot
+
+10
+
+even consider what is authorized by the jury verdict in
+
+11
+
+this case.
+
+12
+
+And the jury verdict in this case authorized
+
+13
+
+a range of five years as the bottom.
+
+14
+
+happens is, when you have Congress coming in and saying
+
+15
+
+that, if you find this fact on a mere preponderance
+
+16
+
+standard, you must impose seven years, then you are
+
+17
+
+stripping the defendant of the benefit of the full jury
+
+18
+
+verdict in this case, which authorized a range that had
+
+19
+
+a lower floor than that called for by the Federal
+
+20
+
+statute.
+
+21
+
+JUSTICE SCALIA:
+
+And so what
+
+Ms. Maguire, could -- could
+
+22
+
+you repeat the first sentence you uttered in this
+
+23
+
+argument?
+
+24
+
+could you repeat it verbatim?
+
+25
+
+it to memory.
+
+I -- I hesitated to jump in so early, but
+Maybe you had committed
+
+Good -- good counsel often does that.
+16
+
+Alderson Reporting Company
+
+Official
+
+1
+
+(Laughter.)
+
+2
+
+MS. MAGUIRE:
+
+Thank you, Justice Scalia.
+
+3
+
+It's -- my very first sentence was, "This case is about
+
+4
+
+who gets to decide the facts that trigger a mandatory
+
+5
+
+minimum sentence." 
+
+No, that wasn't it. 
+
+
+6
+
+JUSTICE SCALIA:
+
+7
+
+(Laughter.) 
+
+
+8
+
+CHIEF JUSTICE ROBERTS:
+
+9
+
+It started, 
+
+
+"Mr. Chief Justice." 
+
+
+10
+
+(Laughter.)
+
+11
+
+JUSTICE SCALIA:
+
+I think what you said was
+
+12
+
+who has to decide a fact which causes a defendant to be
+
+13
+
+subject to a penalty that he would not otherwise be
+
+14
+
+subject to?
+
+15
+
+mandatory minimum, the defendant could have been given
+
+16
+
+that mandatory minimum.
+
+17
+
+And the fact is that, in the case of a
+
+It was up to the judge.
+
+So this mandatory minimum does not increase
+
+18
+
+the penalty to which the defendant is subject.
+
+19
+
+subject, in Justice Kagan's example, to any penalty
+
+20
+
+between one years -- one year and 10.
+
+21
+
+without the statute that she mentioned, could have given
+
+22
+
+him seven years because he -- he brandished a gun.
+
+23
+
+There -- there is really no -- no increase in the
+
+24
+
+penalty to which he is exposed.
+
+25
+
+The judge, even
+
+And I thought that is what Apprendi
+17
+
+Alderson Reporting Company
+
+He's
+
+Official
+
+1
+
+addressed, any increase in the penalty to which you are
+
+2
+
+exposed, so that when you decide, I'm going to rob a
+
+3
+
+bank -- you know -- you know, when you go in, you are
+
+4
+
+going to get between one and 10 years, and, with a
+
+5
+
+mandatory minimum, you get between one and 10 years.
+
+6
+7
+
+So what's the complaint, as far as Apprendi
+is concerned?
+
+8
+9
+
+MS. MAGUIRE:
+
+The complaint is that -- and
+
+why we believe that the rule we are asking the Court to
+
+10
+
+adopt, Justice Scalia, is a natural -- it follows the
+
+11
+
+logic of Apprendi, is because, in both cases, you have
+
+12
+
+judicial factfinding that's leading to a more harsh
+
+13
+
+sentence.
+
+14
+
+In your -JUSTICE SCALIA:
+
+It isn't leading to a more
+
+15
+
+harsh -- more harsh sentence.
+
+16
+
+Apprendi.
+
+17
+
+than the judge would otherwise be authorized to impose?
+
+18
+
+And, in the case of a mandatory minimum, it never is.
+
+19
+
+The judge could impose that, if he was a hanging judge.
+
+20
+
+You know, you have some hanging judges; you have some
+
+21
+
+bleeding heart judges.
+
+22
+
+That's the whole point of
+
+Does it lead to a sentence which is greater
+
+And -- and what a mandatory minimum simply
+
+23
+
+says is -- you know, we don't care what kind of a judge
+
+24
+
+you are, at least this much.
+
+25
+
+defendant to any greater penalty.
+
+But it doesn't expose the
+He's -- he's at risk
+
+18
+
+Alderson Reporting Company
+
+Official
+
+1
+
+between one and 10 years.
+
+2
+
+MS. MAGUIRE:
+
+Well -- and I think,
+
+3
+
+Justice Scalia, that's -- that's a false presumption.
+
+4
+
+think that's the position of the government, that,
+
+5
+
+somehow, mandatory minimums channel discretion within a
+
+6
+
+range.
+
+7
+
+told, you must impose this, you have no choice, you
+
+8
+
+cannot go below this.
+
+9
+
+mandatory minimum.
+
+That is a fiction because a judge is being
+
+That is the whole nature of a
+
+And so this --
+
+JUSTICE SOTOMAYOR:
+
+10
+
+I
+
+Do you have any
+
+11
+
+statistics, on at least 924(c), of how often the greater
+
+12
+
+is the sentence than the absolute minimum required by
+
+13
+
+law?
+
+14
+
+MS. MAGUIRE:
+
+Well, Justice Sotomayor, this
+
+15
+
+Court found in O'Brien -- and I think that it's also
+
+16
+
+cited in the Lucas briefs and Dorsey briefs that this
+
+17
+
+Court is holding, that the majority of all defendants
+
+18
+
+convicted under 924(c) are, in fact, sentenced at the
+
+19
+
+mandatory minimum.
+
+20
+
+JUSTICE SOTOMAYOR:
+
+So, in fact, your
+
+21
+
+argument is that fixing a sentence is different than
+
+22
+
+giving a judge discretion because it ignores the fact
+
+23
+
+that a judge might have given you less?
+
+24
+
+MS. MAGUIRE:
+
+That is exactly right.
+
+25
+
+JUSTICE SCALIA:
+
+That seems to me --
+
+19
+
+Alderson Reporting Company
+
+Official
+
+1
+
+JUSTICE SOTOMAYOR:
+
+So it's depriving you of 
+
+
+2
+
+the constitutional right to have a jury decide what your 
+
+
+3
+
+sentence could be? 
+
+That is exactly right. 
+
+
+4
+
+MS. MAGUIRE:
+
+5
+
+JUSTICE SOTOMAYOR:
+
+6
+7
+
+Of having a judge decide 
+
+
+what your sentence could be? 
+
+MS. MAGUIRE:
+
+And 
+
+
+That is exactly right.
+
+8
+
+it's further depriving you -- it is depriving the 
+
+
+9
+
+defendant of liberty interests.
+
+It is imposing a 
+
+
+10
+
+stigma, and it is entitling the prosecutor to a greater
+
+11
+
+and more severe punishment.
+
+12
+
+CHIEF JUSTICE ROBERTS:
+
+That's -- I'm not
+
+13
+
+sure that that's -- you've emphasized several times that
+
+14
+
+it takes away the discretion of the judge.
+
+15
+
+to me, to be a matter between Congress and the Judiciary
+
+16
+
+and not a Sixth Amendment question.
+
+17
+
+MS. MAGUIRE:
+
+That seems,
+
+Well, Mr. Chief Justice,
+
+18
+
+actually, the language of this Court in Apprendi said
+
+19
+
+that it is unconstitutional for the legislature to
+
+20
+
+remove from the jury the assessment of facts that
+
+21
+
+increase the prescribed range of penalties to which a
+
+22
+
+criminal defendant is exposed.
+
+23
+24
+25
+
+And that is exactly what's happening in this
+context because -JUSTICE KAGAN:
+
+Well, Apprendi, thought, did it
+20
+
+
+Alderson Reporting Company
+
+Official
+
+1
+
+both ways.
+
+2
+
+Apprendi, but there are other sentences in Apprendi
+
+3
+
+which more go towards what Justice Scalia suggested,
+
+4
+
+that the question was increasing it above the maximum
+
+5
+
+that the jury authorized.
+
+6
+
+I mean, that's the best sentence for you in
+
+So I'm not sure that we can get from the
+
+7
+
+language of Apprendi -- and I guess the question is, as
+
+8
+
+a matter of principle, why I -- I completely understand
+
+9
+
+why a defendant would care about this.
+
+The question is
+
+10
+
+does it -- does it create a Sixth Amendment violation,
+
+11
+
+which is -- you know, the jury has to do this, when --
+
+12
+
+when Congress is decreasing the judge's discretion, but
+
+13
+
+it's -- either way, the jury isn't deciding this.
+
+14
+
+MS. MAGUIRE:
+
+Well, Justice Kagan, we do
+
+15
+
+believe the Sixth Amendment is implicated because we
+
+16
+
+think the history of the Sixth Amendment in this country
+
+17
+
+shows that the role of the jury is the buffer between
+
+18
+
+the citizen meant to protect and the government.
+
+19
+
+And mandatory minimums give the prosecution
+
+20
+
+far much power.
+
+And, in fact, if you do not adopt our
+
+21
+
+rule and -- and make the government have to prove it
+
+22
+
+beyond a reasonable doubt, what happens is then the
+
+23
+
+average citizen does not get the benefit of a jury
+
+24
+
+verdict, and his sentence is not driven wholly by the
+
+25
+
+jury verdict because, in this case, we had a jury
+21
+
+Alderson Reporting Company
+
+Official
+
+1
+
+verdict, the government alleged the fact, we had a
+
+2
+
+special verdict form, the jury failed to find that fact.
+
+3
+
+As a result of that, then, the range to --
+
+4
+
+that Mr. Alleyne should have been exposed was a
+
+5
+
+five-year mandatory minimum and for the constitutional
+
+6
+
+argument assuming a maximum of life.
+
+7
+
+happened and at the sentencing hearing was on a mere
+
+8
+
+preponderance, the judge had to impose seven.
+
+9
+
+believe that is where you have the Sixth Amendment
+
+10
+11
+
+Here, what
+
+And so we
+
+problem because the defendant -JUSTICE SCALIA:
+
+But you -- you quoted
+
+12
+
+Apprendi correctly as saying that the jury has to decide
+
+13
+
+any fact which increases the sentence to which the
+
+14
+
+defendant is exposed.
+
+15
+
+and it's accurate.
+
+16
+
+That's the language you quoted,
+
+Why does a mandatory minimum increase the
+
+17
+
+sentence to which the defendant is exposed?
+
+18
+
+get the mandatory minimum sentence, even if there were
+
+19
+
+no mandatory minimum prescribed.
+
+20
+
+sentence of one to 10 years.
+
+21
+
+you must impose seven years if he brandishes.
+
+22
+
+He is exposed to a
+
+A mandatory minimum says,
+
+But the sentence to which he is exposed is
+
+23
+
+one to 10 years.
+
+24
+
+change that at all.
+
+25
+
+He could
+
+And the mandatory minimum does not
+He is at risk for one to 10 years.
+
+MS. MAGUIRE:
+
+Well, I understand that that
+22
+
+
+Alderson Reporting Company
+
+Official
+
+What it does, on a 
+
+
+1
+
+may not change the exposure.
+
+2
+
+practical level, is it prevents the judge from even 
+
+
+3
+
+considering anything less than the seven years. 
+
+
+4
+
+JUSTICE SCALIA:
+
+5
+
+MS. MAGUIRE:
+
+6
+
+JUSTICE SCALIA:
+
+7
+8
+9
+
+That's true. 
+
+
+And that becomes the problem.
+That's true.
+
+But you must
+
+acknowledge that that's not the theory of Apprendi.
+MS. MAGUIRE:
+
+Well, I think the theory of
+
+Apprendi if you -- if you take it out to its logical
+
+10
+
+step, is that, if you have judicial factfinding that is
+
+11
+
+resulting in a more harsh sentence being imposed, then,
+
+12
+
+in fact, you have a Sixth Amendment problem.
+
+13
+
+And so what happens on the mandatory
+
+14
+
+minimums is that, if a judge finds the mandatory
+
+15
+
+minimum, a more harsh sentence is being imposed because,
+
+16
+
+as an example, in this case, the judge could not even
+
+17
+
+consider giving the five-year year floor as a mandatory
+
+18
+
+minimum, which we've already noted is, in fact, how most
+
+19
+
+criminal defendants are sentenced under the 924(c)
+
+20
+
+statute at the mandatory minimum level.
+
+21
+
+JUSTICE SCALIA:
+
+I think the logic of
+
+22
+
+Apprendi is that the jury has to decide it if it
+
+23
+
+increases the sentence to which the defendant is
+
+24
+
+exposed, not if it eliminates some discretion of the --
+
+25
+
+of the Court.
+
+He's exposed.
+23
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+JUSTICE SOTOMAYOR:
+
+What
+
+did Booker do --
+
+3
+
+MS. MAGUIRE:
+
+4
+
+JUSTICE SOTOMAYOR:
+
+5
+
+How about Booker?
+
+Well, I think --- to the logic of
+
+Apprendi?
+
+6
+
+MS. MAGUIRE:
+
+Justice Sotomayor, what I
+
+7
+
+believe that Booker did is that Booker indicated that
+
+8
+
+when you have a fact that drives -- a finding of fact
+
+9
+
+that drives a mandatory sentence to be imposed, that,
+
+10
+
+obviously, that was the Sixth Amendment problem.
+
+11
+
+Now, I understand and appreciate --
+
+12
+
+JUSTICE SOTOMAYOR:
+
+13
+
+Even when the statutes
+
+had a higher maximum?
+
+14
+
+MS. MAGUIRE:
+
+That is correct, Your Honor.
+
+15
+
+JUSTICE SOTOMAYOR:
+
+Because the jury was --
+
+16
+
+because the judge was constrained within a different
+
+17
+
+maximum?
+
+18
+
+MS. MAGUIRE:
+
+19
+
+JUSTICE SOTOMAYOR:
+
+Is that your argument
+
+MS. MAGUIRE:
+
+And so what I believe is
+
+20
+21
+
+That is correct, Your Honor.
+
+here?
+Yes.
+
+22
+
+that what Booker indicates is that it is this mandatory
+
+23
+
+effect which may -- and that is why this Court found --
+
+24
+
+extending Apprendi in the Booker case, that, in fact,
+
+25
+
+the guidelines then had to become advisory.
+24
+
+Alderson Reporting Company
+
+It is the
+
+Official
+
+1
+
+mandatory effect of the factfinding that is essential in
+
+2
+
+these cases.
+
+3
+
+JUSTICE SCALIA:
+
+It wasn't a mandatory
+
+4
+
+minimum case.
+
+5
+
+was increased on the basis of judge finding of fact.
+
+6
+
+The maximum was increased.
+
+7
+
+Booker, the -- the exposure of the defendant was,
+
+8
+
+indeed, increased on the basis of judge factfinding.
+
+9
+
+Instead of one to 10, the statute in -- in Booker said,
+
+10
+
+Booker was a case in which the maximum
+
+So, under the situation in
+
+if you brandish a gun, you can get 15.
+
+11
+
+That's a -- that's a quite different
+
+12
+
+situation from saying, yes, you are still on the hook
+
+13
+
+for one to 10, but, if you brandish, you got to get 7.
+
+14
+
+MS. MAGUIRE:
+
+Well, Justice Scalia, I think
+
+15
+
+the concern in Booker was the mandatory nature of the
+
+16
+
+guidelines.
+
+17
+
+Court, in its constitutional part of the Booker
+
+18
+
+decision, did, in fact, look to the increase in the
+
+19
+
+maximums, it is the same problem.
+
+20
+
+judicial factfinding that is mandating a particular
+
+21
+
+sentence.
+
+And while I would agree with you, that this
+
+You have judge --
+
+22
+
+And that is where you have the Sixth--
+
+23
+
+JUSTICE ALITO:
+
+Why is Booker -- why is
+
+24
+
+Booker entitled to greater stare decisis weight than
+
+25
+
+Harris and McMillan?
+25
+
+Alderson Reporting Company
+
+Official
+
+1
+
+MS. MAGUIRE:
+
+Well, I believe that Booker
+
+2
+
+is -- is entitled to greater weight because it was more
+
+3
+
+recently decided by this Court, and I also believe that
+
+4
+
+it is a more recent interpretation of this Court of the
+
+5
+
+principles held in Apprendi.
+
+6
+7
+
+I would like to reserve the remainder of my
+time.
+
+8
+
+CHIEF JUSTICE ROBERTS:
+
+9
+
+Mr. Dreeben?
+
+Thank you, counsel.
+
+10
+
+ORAL ARGUMENT OF MICHAEL R. DREEBEN
+
+11
+
+ON BEHALF OF THE RESPONDENT
+
+12
+13
+
+MR. DREEBEN:
+
+Mr. Chief Justice, and may it
+
+please the Court:
+
+14
+
+This Court should adhere to its decision in
+
+15
+
+Harris v. United States, which reaffirmed
+
+16
+
+McMillan v. Pennsylvania because those decisions
+
+17
+
+properly respected the fact that a mandatory minimum
+
+18
+
+divests the defendant of the right to judicial leniency.
+
+19
+
+JUSTICE SOTOMAYOR:
+
+Could I go back to a
+
+20
+
+simple question on the stare decisis, the practicality
+
+21
+
+question?
+
+22
+
+What is so impractical about letting a jury
+
+23
+
+decide an issue that sets a mandatory sentence of any
+
+24
+
+kind?
+
+25
+
+whether a gun was carried or brandished?
+
+Why -- why are juries incapable of figuring out
+
+26
+
+Alderson Reporting Company
+
+Why are they
+
+Official
+
+1
+
+incapable of figuring out how many -- how much drugs
+
+2
+
+were sold or whether someone was driven by any of the
+
+3
+
+factors that States want to commit to judges, but the
+
+4
+
+Sixth Amendment might require them to submit to juries?
+
+5
+
+MR. DREEBEN:
+
+Justice Sotomayor, the
+
+6
+
+government's argument here is not that juries are
+
+7
+
+incapable of finding facts under the Federal statutes
+
+8
+
+that involve mandatory minimums.
+
+9
+
+sound reasons for wishing to allocate that factfinding
+
+It's that Congress has
+
+10
+
+to the sentencing process and that it is not
+
+11
+
+unconstitutional for Congress to do so.
+
+12
+
+JUSTICE SOTOMAYOR:
+
+But what does that have
+
+13
+
+to do with the needs -- the constitutional need to make
+
+14
+
+sure that juries are driving a fixed sentence of any
+
+15
+
+kind?
+
+16
+
+MR. DREEBEN:
+
+The -- the constitutional
+
+17
+
+question, in my view, Justice Sotomayor, turns on
+
+18
+
+whether there is a right to the mercy of a tenderhearted
+
+19
+
+judge.
+
+20
+
+finds a mandatory minimum fact.
+
+21
+
+That is what a defendant loses when a judge
+
+JUSTICE BREYER:
+
+No, no, it isn't quite.
+
+I
+
+22
+
+mean, the -- the linguistic difference -- I agree with
+
+23
+
+Justice Scalia, and I agree with you.
+
+24
+
+word "exposed."
+
+25
+
+as it was just stated, this is a different case because
+
+It turns on the
+
+I mean, if you state Apprendi's holding
+
+27
+
+Alderson Reporting Company
+
+Official
+
+1
+
+you could, in fact, if you were the defendant, have been
+
+2
+
+sentenced to that anyway.
+
+That's your argument.
+
+3
+
+MR. DREEBEN:
+
+Correct.
+
+4
+
+JUSTICE BREYER:
+
+Now, let's put it
+
+5
+
+differently.
+
+There is a fact in the world.
+
+6
+
+gun, or there wasn't a gun.
+
+7
+
+the fact turns out to be gun, you could get two more
+
+8
+
+years.
+
+9
+
+here there's a fact in the world, gun or not gun.
+
+All right?
+
+There's a
+
+In the Apprendi case, if
+
+We have to go to the jury.
+
+Now,
+
+If it turns out not gun, you get a lower
+
+10
+11
+
+sentence, you could.
+
+12
+
+fact, gun, you can't -- the judge cannot put you in that
+
+13
+
+box.
+
+14
+
+you in a worse box.
+
+15
+
+more than the three years, two years, or one year.
+
+16
+
+has to.
+
+17
+
+And, if it turns out to be the
+
+He has to put you in a worse box.
+
+He has to put
+
+He has to give you more than -He
+
+Okay?
+Now, from the point of view of the
+
+18
+
+defendant, worse or not -- at least as bad.
+
+19
+
+point of view of Congress, same.
+
+20
+
+want a judge to administer them, and they turn on facts.
+
+21
+
+And the sentence very often will turn on those facts.
+
+22
+
+From the
+
+They drew some lines,
+
+From the point of view of the judge, same.
+
+23
+
+It's the jury decides or he decides.
+
+24
+
+his discretion is cut off to give a lower sentence.
+
+25
+
+the other case, his discretion is granted to give a
+28
+
+Alderson Reporting Company
+
+In the one case,
+In
+
+Official
+
+1
+
+higher sentence.
+
+2
+
+Now, I see tremendous similarities, though I
+
+3
+
+grant you the words are different, but can you -- can
+
+4
+
+you just explain --
+
+5
+
+MR. DREEBEN:
+
+Justice Breyer, yes.
+
+6
+
+JUSTICE BREYER:
+
+-- why the difference in
+
+7
+
+the words should overcome the fact that I can't think of
+
+8
+
+a -- of a difference, other than those words that
+
+9
+
+happened to be used in Apprendi?
+MR. DREEBEN:
+
+10
+
+Well, Justice Breyer, we have
+
+11
+
+a chart in our brief that I think is addressed
+
+12
+
+explicitly to the question that you are asking, and it's
+
+13
+
+on page 36 of our brief.
+
+14
+
+difference between an Apprendi situation and a
+
+15
+
+Harris-McMillan situation.
+
+16
+
+brief.
+
+And it illustrates the
+
+So the government's gray
+
+17
+
+And the point of the chart is this --
+
+18
+
+JUSTICE SCALIA:
+
+19
+
+MR. DREEBEN:
+
+20
+21
+22
+23
+
+What page?
+
+What page?
+
+This is page 36 of the
+
+government's brief.
+JUSTICE BREYER:
+
+I'm afraid the other side
+
+was upside down, and I saw what you meant.
+MR. DREEBEN:
+
+Okay.
+
+The point of Apprendi
+
+24
+
+is a jury cannot be reduced to low-level gatekeeping.
+
+25
+
+Congress cannot pass a statute that says it is a crime
+29
+
+Alderson Reporting Company
+
+Official
+
+1
+
+to assault someone, and that's punishable by one year in
+
+2
+
+prison.
+
+3
+
+punishable by 10 years in prison.
+
+4
+
+involves attempted murder, then it's punishable by up to
+
+5
+
+life.
+
+But if the crime involves rape, then it's
+
+6
+
+Or if the crime
+
+Congress can't do that because it would
+
+7
+
+diminish the role of the jury in finding the critical
+
+8
+
+facts that constitute the crime that sets the
+
+9
+
+defendant's maximum exposure.
+
+10
+
+Apprendi protects against
+
+that.
+
+11
+
+In a Harris situation, the defendant is
+
+12
+
+already exposed to the maximum penalty that the
+
+13
+
+defendant incurs under the statute, and that's what the
+
+14
+
+second column illustrates.
+
+15
+
+Section 924(c) crime knows that the defendant faces up
+
+16
+
+to life in prison.
+
+17
+
+The defendant who commits a
+
+When the mandatory minimum comes along, it
+
+18
+
+doesn't increase the defendant's exposure to the most
+
+19
+
+severe punishment he can get.
+
+20
+
+of a degree of judicial discretion.
+
+21
+
+Amendment does not protect a right to judicial
+
+22
+
+discretion.
+
+It divests the defendant
+
+23
+
+JUSTICE SOTOMAYOR:
+
+24
+
+JUSTICE BREYER:
+
+25
+
+JUSTICE SOTOMAYOR:
+
+But the Sixth
+
+You know, but that --
+
+But -I'm sorry.
+
+30
+
+Alderson Reporting Company
+
+Official
+
+1
+
+JUSTICE BREYER:
+
+That's the -- that's the --
+
+2
+
+you've used all the words, which do make the difference,
+
+3
+
+in your mind.
+
+4
+5
+
+MR. DREEBEN:
+
+JUSTICE BREYER:
+
+-- is why should those
+
+words make a difference?
+
+8
+9
+
+It's not just in my mind,
+
+Justice --
+
+6
+7
+
+But my question --
+
+Look, in the one case -- I'll be repeating
+myself, but I want you to see it.
+
+In the one case,
+
+10
+
+presence of a fact or not means the defendant goes into
+
+11
+
+a higher sentencing box.
+
+12
+
+a fact or not means that he cannot go into the low
+
+13
+
+sentencing box.
+
+In the other case, presence of
+
+14
+
+MR. DREEBEN:
+
+And when he cannot --
+
+15
+
+JUSTICE BREYER:
+
+In the one case, he cannot
+
+16
+
+go into the low sentencing box; in the other case, he
+
+17
+
+can't go into the high sentencing box.
+
+18
+
+difference.
+
+19
+20
+21
+
+I got that
+
+My only problem is why does it make a
+difference.
+MR. DREEBEN:
+
+It matters because the Sixth
+
+22
+
+Amendment protects a right to a jury trial; it does not
+
+23
+
+protect a right to judicial leniency.
+
+24
+25
+
+JUSTICE BREYER:
+
+No, it's not -- well, you
+
+can call it judicial leniency, but you could call the
+31
+
+Alderson Reporting Company
+
+Official
+
+1
+
+other judicial harshness.
+
+2
+
+turning out --
+
+
+3
+
+MR. DREEBEN:
+
+I mean, what is, in fact, 
+
+
+No, because, in -- in the 
+
+
+4
+
+other situation, it protects the right of the jury to 
+
+
+5
+
+determine the ingredients of the crime that Congress has
+
+6
+
+determined exposed the defendant --
+
+7
+
+JUSTICE BREYER:
+
+And, here, we have the
+
+8
+
+ingredients of a crime that Congress has determined that
+
+9
+
+you have to get the five years.
+
+10
+
+MR. DREEBEN:
+
+Well, we know --
+
+11
+
+JUSTICE BREYER:
+
+I mean, in the one case,
+
+12
+
+you can say all that Apprendi did.
+
+13
+
+been decided -- I mean, some of us thought that --
+
+14
+
+because, in fact --
+
+15
+16
+
+JUSTICE SCALIA:
+
+It never should have
+
+I wonder who -- I wonder
+
+who that could have been.
+
+17
+
+(Laughter.)
+
+18
+
+JUSTICE BREYER:
+
+All you're talking about
+
+19
+
+there is that you are stopping the judge from exhibiting
+
+20
+
+his otherwise discretion towards harshness, and that's a
+
+21
+
+matter for judges.
+
+22
+
+before, you see.
+
+I've heard all these arguments
+
+23
+
+MR. DREEBEN:
+
+24
+
+JUSTICE BREYER:
+
+25
+
+Well -And I've just heard them in
+
+the context of harshness, and, now, I don't know why
+32
+
+Alderson Reporting Company
+
+Official
+
+1
+
+changing it to leniency makes them somehow more
+
+2
+
+relevant.
+
+3
+
+situation; so why are they relevant in this one?
+
+4
+
+They weren't apparently relevant in the first
+
+MR. DREEBEN:
+
+They weren't relevant
+
+5
+
+in the first situation because, if there is no cap from
+
+6
+
+the maximum that a judge could impose based on judicial
+
+7
+
+factfinding, the role of a jury can be shrunk to what
+
+8
+
+the Court has called low-level gatekeeping.
+
+9
+
+never happen under a statute that increases only the
+
+10
+
+That can
+
+mandatory minimum.
+
+11
+
+JUSTICE KAGAN:
+
+Well, is that --
+
+12
+
+Mr. Dreeben, and -- and I think it's -- it's a great
+
+13
+
+question.
+
+14
+
+gatekeeper under the Harris rule?
+
+15
+
+the argument that, in fact, it is -- you know, you take
+
+16
+
+a statute, and it says, five and up for carrying, and
+
+17
+
+seven and up for brandishing, right?
+
+18
+
+even a hypothetical.
+
+19
+
+Is the jury functioning as a low-level
+Because I could make
+
+And this isn't
+
+This is pretty close to this case.
+
+It goes to the jury.
+
+The jury says, we
+
+20
+
+think he was carrying, we do not think that he was
+
+21
+
+brandishing, all right?
+
+22
+
+And, now, the judge says, you know what, if I had my
+
+23
+
+druthers, I would only give five years.
+
+24
+
+druthers, I absolutely would defer to the jury verdict,
+
+25
+
+but I can't defer to the jury verdict because Congress
+
+And then it goes to the judge.
+
+33
+
+Alderson Reporting Company
+
+If I had my
+
+Official
+
+1
+
+has said I have to make this special factfinding, and
+
+2
+
+the truth of the matter is I think he did brandish, and
+
+3
+
+so I have to give seven years.
+
+4
+
+So the judge is not deferring to the jury,
+
+5
+
+and he's not deferring to the jury when he would prefer
+
+6
+
+to do so.
+
+7
+
+practical sense -- doesn't the mandatory minimum
+
+8
+
+effectively increase the maximum punishment that the --
+
+9
+
+that the defendant otherwise would get?
+
+I guess the question is isn't that, in every
+
+MR. DREEBEN:
+
+10
+
+Well, it certainly doesn't
+
+11
+
+increase the maximum punishment that's authorized under
+
+12
+
+the statute.
+
+13
+
+making the exact same finding by a preponderance of the
+
+14
+
+evidence that the jury did not make beyond a reasonable
+
+15
+
+doubt and giving seven years, even if there were no
+
+16
+
+mandatory minimums.
+
+17
+
+And it doesn't prevent the judge from
+
+JUSTICE KAGAN:
+
+Yes.
+
+But what I'm
+
+18
+
+suggesting is that in the world of judges -- you know,
+
+19
+
+this -- the graph you wrote has this very little
+
+20
+
+difference in the Harris situation between five and
+
+21
+
+seven.
+
+22
+
+mean, that's the truth of the matter, that -- you know,
+
+23
+
+nobody's giving a 97-year sentence.
+
+24
+25
+
+But, in fact, most judges want to give five.
+
+I
+
+So -- so the action in the criminal justice
+system is at this lower range.
+
+And, at this lower
+
+34
+
+Alderson Reporting Company
+
+Official
+
+1
+
+range, what the mandatory minimums do is effectively
+
+2
+
+tell a judge that they cannot defer to a jury verdict.
+
+3
+
+MR. DREEBEN:
+
+Well, it's, first of all, not
+
+4
+
+entirely accurate that judges do not give higher
+
+5
+
+sentences than the minimum.
+
+6
+
+in which they do so.
+
+There are plenty of cases
+
+If the 920 --
+
+7
+
+JUSTICE GINSBURG:
+
+8
+
+JUSTICE KAGAN:
+
+9
+
+cases.
+
+But let's say --
+
+I know there are plenty of
+
+All I'm saying is it's not the unusual case to
+
+10
+
+find ourselves in exactly this position, where the judge
+
+11
+
+wants to give five, the jury wants to give five, the
+
+12
+
+judge can't defer to the jury's verdict that it should
+
+13
+
+be five.
+
+14
+
+MR. DREEBEN:
+
+But taking away judicial
+
+15
+
+discretion to treat a fact within the range differently
+
+16
+
+than what Congress wants doesn't infringe the jury trial
+
+17
+
+right.
+
+18
+
+The jury can find facts by a -- beyond a
+
+19
+
+reasonable doubt, but, when the judge is at sentencing,
+
+20
+
+he is not operating under that burden, so the
+
+21
+
+factfinding role of the jury --
+
+22
+
+JUSTICE KENNEDY:
+
+But you could say that
+
+23
+
+with reference to the -- to the maximum.
+
+24
+
+said could be applied to the maximum, and Apprendi says
+
+25
+
+you can't say that.
+35
+
+Alderson Reporting Company
+
+Everything you
+
+Official
+
+1
+
+MR. DREEBEN:
+
+I don't think that it's quite
+
+2
+
+true that everything that I said applies to the maximum,
+
+3
+
+Justice Kennedy, because, as the plurality opinion in
+
+4
+
+Harris explained, once the court has been confronted
+
+5
+
+with a defendant who's convicted, the judge's discretion
+
+6
+
+extends up to the statutory maximum.
+
+7
+
+factfinding ability to increase the defendant's exposure
+
+8
+
+to criminal punishment.
+
+9
+
+that.
+
+10
+
+He can't use his
+
+Mandatory minimums can never do
+
+The defendant is already exposed to the
+
+11
+
+sentence that the judge could give.
+
+12
+
+Justice Kagan, that some judges might choose to give a
+
+13
+
+lower sentence.
+
+14
+
+reflects judicial leniency, tenderheartedness, something
+
+15
+
+that the Sixth Amendment does not speak to.
+
+16
+
+And I grant you,
+
+But the fact that they might choose to
+
+JUSTICE GINSBURG:
+
+How about in deference to
+
+17
+
+the jury's finding?
+
+18
+
+very case, wasn't it so that the judge said, I could
+
+19
+
+just say seven years because it's within the range, but
+
+20
+
+it would be dishonest of me to do that, wouldn't it?
+
+21
+
+have to say seven because it's the mandatory minimum.
+
+22
+
+I mean, in this -- this -- this
+
+I
+
+I think this is a case where the effect
+
+23
+
+is -- is shown graphically, that the judge says, I'm
+
+24
+
+stuck with the seven; I would prefer five.
+
+25
+
+the jury would lead me to do, but I'm -- my hands are
+36
+
+Alderson Reporting Company
+
+That's what
+
+Official
+
+1
+2
+
+tied, I cannot respect the jury's finding. 
+
+MR. DREEBEN:
+
+I think, Justice Ginsburg, 
+
+
+3
+
+that the judge said he would be intellectually honest 
+
+
+4
+
+and not ignore the fact that the -- the finding of 
+
+
+5
+
+brandishing did trigger the mandatory minimum.
+
+6
+
+not say, I otherwise would have given five.
+
+7
+
+that this case --
+
+8
+9
+10
+11
+12
+13
+
+JUSTICE SCALIA:
+
+He did
+
+And I think
+
+But is it the usual case
+
+that a judge, when faced with this decision, has before
+him a jury finding?
+
+I -- that --
+
+MR. DREEBEN:
+
+It's not the usual case,
+
+Justice Scalia.
+JUSTICE SCALIA:
+
+The Petitioner is asking
+
+14
+
+these cases to be thrown out, even if there has been no
+
+15
+
+jury finding.
+
+16
+
+MR. DREEBEN:
+
+Correct.
+
+17
+
+JUSTICE SCALIA:
+
+And the judge says -- you
+
+18
+
+know, I have to decide whether he brandished or not; I
+
+19
+
+think he brandished.
+
+20
+
+here wants to say, the judge cannot consider himself
+
+21
+
+bound by a mandatory minimum.
+
+22
+
+unusual case in which you have a jury finding, that the
+
+23
+
+judge must ignore in -- in -- he actually doesn't ignore
+
+24
+
+it, he goes along with it.
+
+25
+
+But I -- you know, the Petitioner
+
+It seems to me the
+
+The jury may well be right, that it's
+37
+
+Alderson Reporting Company
+
+Official
+
+1
+
+impossible to prove beyond a reasonable doubt that --
+
+2
+
+that the felon brandished a gun, but it's -- it -- it's
+
+3
+
+quite easy to say that it's very likely he branded a
+
+4
+
+gun -- brandished a gun, which is what the judge has to
+
+5
+
+find.
+
+So he -- he's not even ignoring the jury finding.
+
+6
+
+MR. DREEBEN:
+
+No, there is no inconsistency
+
+7
+
+between -- and I think, if you look at the way this case
+
+8
+
+evolves, it's not even clear that the jury rejected
+
+9
+
+brandishing.
+
+What's very interesting about this case is
+
+10
+
+it's possibly the best illustration of the unfairness
+
+11
+
+problem that Justice Alito alluded to and that
+
+12
+
+Justice Breyer has written about in his opinions.
+
+13
+
+issue at trial in this case was identity.
+
+14
+
+The
+
+Was the defendant actually the person
+
+15
+
+sitting in the car, while his accomplice walked up to
+
+16
+
+the victim and -- and put a revolver into his neck and
+
+17
+
+asked for money?
+
+18
+
+was no discussion of brandishing whatsoever.
+
+19
+
+That was the issue at trial.
+
+There
+
+Nobody focused on it, and it allowed the
+
+20
+
+defendant, after the jury rejected his identity
+
+21
+
+argument, to go to the judge and say, even though the
+
+22
+
+jury has now found that my guy did it, he could not have
+
+23
+
+foreseen that a gun would have been used.
+
+24
+25
+
+JUSTICE SOTOMAYOR:
+
+Mr. Dreeben, can I go
+
+back to a point you made earlier?
+
+You talked about a
+
+38
+
+Alderson Reporting Company
+
+Official
+
+1
+
+legislature not attempting to supplant the jury's role
+
+2
+
+on the maximum.
+
+3
+
+started out in a country where almost all sentencing was
+
+4
+
+in the discretion of the judge; whatever crime you
+
+5
+
+committed, the judge could decide where to sentence you.
+
+6
+
+You don't see the same danger -- we
+
+As Apprendi and its subsequent progeny laid
+
+7
+
+out, these sentencing changes that have come into
+
+8
+
+existence have really come into existence the latter
+
+9
+
+half of the last century.
+What -- don't you fear that, at some point,
+
+10
+11
+
+the legislature will go back to the old system of
+
+12
+
+supplanting the jury by just saying what it said in
+
+13
+
+924(c)?
+
+14
+
+Every single crime has a maximum of life.
+And all the -- and every single fact that's
+
+15
+
+going to set a real sentence for the defendant, a
+
+16
+
+minimum, we're going to let the judge decide by a
+
+17
+
+preponderance of the evidence.
+
+18
+
+The bottom line of my question is, when
+
+19
+
+Apprendi was decided, what should be the driving force
+
+20
+
+of protecting the jury system?
+
+21
+
+discretion, whether that's permissible or not, or
+
+22
+
+whether a sentence is fixed in a range, whatever it
+
+23
+
+might be, by a jury?
+
+24
+
+MR. DREEBEN:
+
+25
+
+JUSTICE SOTOMAYOR:
+
+The deprivation of
+
+Justice -What's the better rule
+
+39
+
+Alderson Reporting Company
+
+Official
+
+1
+
+to keep both extremes from happening?
+
+2
+
+MR. DREEBEN:
+
+I think, Justice Sotomayor,
+
+3
+
+that the Court recognized, in Apprendi, that its rule
+
+4
+
+was limited and to certain extent could be evaded by
+
+5
+
+legislatures, if they were inclined to do so.
+
+6
+
+JUSTICE SCALIA:
+
+Mr. Dreeben, I think that
+
+7
+
+history is wrong.
+
+In fact, the way the country started,
+
+8
+
+there was no judicial discretion.
+
+9
+
+fixed penalties for crimes.
+
+There were simply
+
+If you stole a horse, you
+
+10
+
+were guilty of a felony, and you would be hanged.
+
+11
+
+That's where we started.
+
+12
+
+MR. DREEBEN:
+
+13
+
+JUSTICE SCALIA:
+
+Well -And I would think that the
+
+14
+
+risk involved is whether, if we come out the way that
+
+15
+
+the Petitioner here urges us to do, legislatures will
+
+16
+
+consider going back to -- to where we started from and
+
+17
+
+simply saying, if you brandish, you get seven years,
+
+18
+
+period, with no discretion in the judge.
+
+19
+
+That, it seems to me, is the greater risk.
+
+20
+
+MR. DREEBEN:
+
+Well, Justice Scalia, I agree
+
+21
+
+in part with both you and Justice Sotomayor on history.
+
+22
+
+In fact, if you look at the 1790 Crimes Act that the
+
+23
+
+First Congress passed, many of the set sentences are
+
+24
+
+determinant sentences.
+
+25
+
+Others of the sentences were -- were
+40
+
+Alderson Reporting Company
+
+Official
+
+1
+
+prescribed up to a certain amount of years.
+
+2
+
+that, it was well understood that judges would find
+
+3
+
+facts to graduate the penalties according to the gravity
+
+4
+
+of the crime.
+
+5
+
+And, within
+
+And what the legislatures have done in the
+
+6
+
+20th Century innovation of mandatory minimums within an
+
+7
+
+otherwise authorized range, as you have with 924(c), is
+
+8
+
+say, we would prefer that judges take into account
+
+9
+
+brandishing and discharging, as under Justice Kagan's
+
+10
+
+hypothetical statute, but we would like to -- to do that
+
+11
+
+in a uniform manner.
+
+12
+
+We know that they can find, by a
+
+13
+
+preponderance of the evidence, that brandishing exists.
+
+14
+
+We know that many, if not most, judges would consider
+
+15
+
+that worse than simple possession of a firearm in a
+
+16
+
+crime of violence, and we want judges to behave
+
+17
+
+consistently.
+
+18
+
+By proscribing consistency, they are acting
+
+19
+
+in accord with the historical tradition of having
+
+20
+
+determinate sentences, a tradition that this Court held
+
+21
+
+in Chapman v. --
+
+22
+
+JUSTICE SOTOMAYOR:
+
+I'm sorry, the
+
+23
+
+historical -- you said, earlier, that most of the
+
+24
+
+historical evidence was that determinate sentences would
+
+25
+
+be decided by juries; they found facts, and a
+41
+
+Alderson Reporting Company
+
+Official
+
+1
+
+determinate sentence was given.
+
+2
+3
+
+MR. DREEBEN:
+
+And there was no judicial
+
+discretion, which I think makes --
+
+4
+
+JUSTICE SOTOMAYOR:
+
+So what is the judicial
+
+5
+
+discretion now?
+
+6
+
+evidence, and a mandatory minimum makes you give seven.
+
+7
+
+So where is the judicial discretion?
+
+8
+
+MR. DREEBEN:
+
+9
+
+You find by a preponderance of the
+
+The judicial discretion is
+
+what the defendant is losing.
+
+He is not losing the
+
+10
+
+right to a jury trial because the very same verdict
+
+11
+
+authorizes the judge to find brandishing and impose
+
+12
+
+seven years.
+
+13
+
+JUSTICE SOTOMAYOR:
+
+You think, for a
+
+14
+
+defendant in a constitutional right, that they are
+
+15
+
+more -- that it's constitutional to have a determinate
+
+16
+
+sentence at seven and still constitutional -- and make
+
+17
+
+the jury find it by a -- beyond a reasonable doubt and
+
+18
+
+that it's still constitutional to have a determinative
+
+19
+
+sentence of seven years, but have the jury find it by a
+
+20
+
+preponderance of the evidence?
+
+21
+22
+23
+24
+25
+
+MR. DREEBEN:
+
+To have the jury find it by a
+
+preponderance of the -JUSTICE SOTOMAYOR:
+
+Those are equal?
+
+Those
+
+are -- those are equal?
+MR. DREEBEN:
+
+It's not just my position that
+42
+
+
+Alderson Reporting Company
+
+Official
+
+1
+
+it's constitutional for a -- a judge to find mandatory
+
+2
+
+minimum triggering facts by a preponderance.
+
+3
+
+that a legislature could allocate that to a jury, if it
+
+4
+
+wishes to.
+
+5
+6
+
+JUSTICE SOTOMAYOR:
+
+No, I know we said it in
+
+Harris.
+
+7
+
+MR. DREEBEN:
+
+8
+
+JUSTICE SOTOMAYOR:
+
+9
+
+I'm sure
+
+Yes.
+The question here before
+
+us today is -MR. DREEBEN:
+
+10
+
+Yes.
+
+And I think that -- that
+
+11
+
+not only does it not contradict any decision of this
+
+12
+
+Court to allow the judge to make those findings, it
+
+13
+
+doesn't contradict the principle behind the jury trial
+
+14
+
+right or the right to proof beyond a reasonable doubt.
+JUSTICE BREYER:
+
+15
+
+Look, look, here's another
+
+16
+
+way of putting the same point:
+
+With the mandatory
+
+17
+
+minimum, the judge can't go below the five years, okay?
+
+18
+
+But you say, well, he could have gone below
+
+19
+
+the five years anyway, couldn't he have?
+
+20
+
+he could have given you the five years anyway -- sorry.
+
+21
+
+He could have given you the five years anyway.
+
+22
+
+your point.
+
+23
+
+MR. DREEBEN:
+
+24
+
+JUSTICE BREYER:
+
+25
+
+I mean, you --
+
+That's
+
+Correct.
+All right.
+
+He could have
+
+given you the five years -- he could have given you the
+43
+
+Alderson Reporting Company
+
+Official
+
+1
+
+five years if you'd been -- if you had been convicted of
+
+2
+
+a different crime.
+
+3
+4
+
+MR. DREEBEN:
+
+And that's the difference
+
+between this and Apprendi.
+
+5
+
+JUSTICE BREYER:
+
+But why does that make a
+
+6
+
+difference?
+
+7
+
+heading on page 6 of their reply brief is almost right,
+
+8
+
+I think.
+
+9
+
+The best way I thought of putting it is the
+
+I mean, I -- it says it's -- it's permitting
+
+10
+
+judges to find facts by a preponderance of the evidence
+
+11
+
+that compels sentences higher than a set of those
+
+12
+
+permitted by the jury's verdict.
+
+13
+
+That's exactly what's going on here.
+
+14
+
+MR. DREEBEN:
+
+15
+
+JUSTICE BREYER:
+
+16
+
+know, what is it?
+
+Well -And -- and I -- I want to
+
+And the trouble is --
+
+17
+
+MR. DREEBEN:
+
+That's --
+
+18
+
+JUSTICE BREYER:
+
+You're just going to say,
+
+19
+
+well, he could have given the same sentence anyway.
+
+20
+
+I'm going to say, well, so what, why does that matter?
+
+21
+
+MR. DREEBEN:
+
+And
+
+It's descriptively accurate,
+
+22
+
+but it says nothing about the constitutionality of the
+
+23
+
+procedure.
+
+24
+
+focus not only on the fact that stare decisis is in
+
+25
+
+play, but that Apprendi has been a very history-driven
+
+And I think that it's very important to
+
+44
+
+Alderson Reporting Company
+
+Official
+
+1
+
+area of the law.
+
+2
+
+Apprendi to fines, it has found an ample historical basis
+
+3
+
+for doing so.
+
+4
+
+Last term, when the Court extended
+
+In this case, by comparison, there is no
+
+5
+
+historical showing that would justify extending Apprendi
+
+6
+
+to fines.
+
+7
+
+924(c) type statute, but the three pillars of their
+
+8
+
+historical argument are extremely weak and strained
+
+9
+
+analogies.
+
+10
+
+Not only is there no direct analogy to a
+
+The first one is simply that, to get a
+
+11
+
+statutory crime that was parallel to a common law crime,
+
+12
+
+but differed, the prosecutor had to charge all of the
+
+13
+
+elements of the statutory crime in the indictment.
+
+14
+
+says nothing about mandatory minimum sentencing.
+
+15
+
+That
+
+The sentence -- second pillar of their
+
+16
+
+historical argument is the procedure called benefit of
+
+17
+
+clergy, which was a form of what Blackstone called a
+
+18
+
+statute pardon, that allowed a defendant to avoid a
+
+19
+
+capital sentence.
+
+20
+
+In the First Crimes Act, in Section 31, in
+
+21
+
+1790, Congress said, "Benefit of clergy shall not exist
+
+22
+
+in the United States for any crime punishable by a
+
+23
+
+capital sentence."
+
+24
+
+part of this -- this country's Sixth Amendment heritage.
+
+25
+
+It was abolished before the Sixth Amendment was even
+
+Benefit of clergy has never been
+
+45
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ratified. 
+
+And the third pillar of their historical 
+
+
+2
+3
+
+argument are three late 19th Century cases, Jones, 
+
+
+4
+
+Garcia, and Lacy, each of which involve statutes that 
+
+
+5
+
+both raised the maximum and the minimum, not a single
+
+6
+
+one of them spoke about the Constitution.
+
+7
+
+purported to define what a legislature could do if it
+
+8
+
+wanted to raise only the minimum, and that's it.
+
+9
+
+None of them
+
+And I would suggest to the Court that this
+
+10
+
+kind of Gertrude Stein history, where there's really no
+
+11
+
+"there" there, is not sufficient to overturn the
+
+12
+
+legislative prerogative to make uniform the findings of
+
+13
+
+fact within a range --
+
+14
+
+JUSTICE KAGAN:
+
+Mr. Dreeben, could I take
+
+15
+
+you back to the principles involved?
+
+16
+
+that, instead of this statute, which is 579, you had a
+
+17
+
+statute which was five for carrying, five up to life, and
+
+18
+
+then, for brandishing, 40.
+
+19
+
+we're discharging, 60.
+
+20
+
+Is your argument still the same?
+
+21
+
+All right?
+
+All right.
+
+MR. DREEBEN:
+
+Let's suppose
+
+And maybe if
+
+So a very large gap.
+
+The constitutional argument is
+
+22
+
+the same.
+
+I think this Court's decision in O'Brien
+
+23
+
+suggests that, unless the legislature were absolutely
+
+24
+
+clear about it, the Court would conclude that those
+
+25
+
+would be deemed elements.
+46
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+JUSTICE KAGAN:
+legislature --
+
+3
+4
+
+But suppose the
+
+JUSTICE SCALIA:
+your last word.
+
+5
+
+I'm sorry.
+
+I didn't hear
+
+Those would be?
+
+MR. DREEBEN:
+
+"Deemed elements."
+
+Under the
+
+6
+
+decision in O'Brien, where the machine gun finding
+
+7
+
+raised the minimum to 30 years, the Court held that it
+
+8
+
+should be deemed to be an element, but --
+
+9
+
+JUSTICE KAGAN:
+
+But suppose -- suppose that
+
+10
+
+Congress is absolutely clear about it, and you say --
+
+11
+
+and I think that you're right, you've got to be right
+
+12
+
+about this -- it's a constitutional matter, it's the
+
+13
+
+same, but the hypothetical sort of suggests exactly what
+
+14
+
+you said our inquiry ought to be, is that, in a world
+
+15
+
+like that, the jury is, in fact, functioning only as a
+
+16
+
+low-level gatekeeper; isn't that right?
+
+17
+
+MR. DREEBEN:
+
+18
+
+JUSTICE KAGAN:
+
+No.
+And that the only reason we
+
+19
+
+see it in the hypothetical a little bit more clearly is
+
+20
+
+because the numbers are a bit more dramatic.
+
+21
+
+MR. DREEBEN:
+
+I wouldn't suggest that the
+
+22
+
+jury is being a low-level gatekeeper in that situation
+
+23
+
+because the jury's verdict alone -- and this is a
+
+24
+
+serious crime -- exposes the defendant to a life
+
+25
+
+sentence.
+
+This is a crime that involves either a
+47
+
+Alderson Reporting Company
+
+Official
+
+1
+
+predicate Federal crime of violence or a Federal drug
+
+2
+
+trafficking crime, plus the use of the gun in it.
+
+3
+
+And I think Congress could reasonably expect
+
+4
+
+that the worse the use of the gun, the more extreme, the
+
+5
+
+higher the corresponding penalty.
+
+6
+
+924(c) violation is charged by itself, and a defendant
+
+7
+
+is an armed career criminal, then his sentencing range
+
+8
+
+goes up to 360 months to life --
+
+9
+
+JUSTICE KAGAN:
+
+And, indeed, if a
+
+I mean, there's something
+
+10
+
+deeply incongruous, isn't there, where you have an
+
+11
+
+Apprendi rule which says if the maximum is -- you know,
+
+12
+
+if it's five to seven, and then the -- the judge says
+
+13
+
+seven years and a day, we're going to take that out, but
+
+14
+
+as a mandatory minimum that will leapfrog you from five
+
+15
+
+to 40 doesn't get the same result?
+
+16
+
+MR. DREEBEN:
+
+It's not incongruous if you
+
+17
+
+look at it from the point of view of the fact that the
+
+18
+
+jury verdict itself allows a life sentence.
+
+19
+
+defendant draws the proverbial hanging judge who, in his
+
+20
+
+discretion -- or her discretion, wants to give that life
+
+21
+
+sentence, the defendant knew, from day one, when he
+
+22
+
+committed the crime, that, if the jury finds him guilty
+
+23
+
+of it, he's exposed to a life sentence.
+
+And if the
+
+24
+
+And the Court, in Apprendi, said structural
+
+25
+
+democratic constraints will preclude legislatures -- or
+48
+
+Alderson Reporting Company
+
+Official
+
+1
+
+at least discourage them from assigning maximum
+
+2
+
+sentences to crimes that are higher than what the
+
+3
+
+legislature deemed --
+
+4
+
+JUSTICE SOTOMAYOR:
+
+So how about in O'Brien,
+
+5
+
+if the legislature had said 40 years for a machine gun?
+
+6
+
+Would we -- how do we justify saying, no, that has to
+
+7
+
+remain an element?
+
+8
+
+process didn't work.
+
+9
+
+MR. DREEBEN:
+
+No, I think that --
+
+JUSTICE SOTOMAYOR:
+
+10
+11
+
+Under your theory, the democratic
+
+So how -- what would we
+
+do in that situation?
+
+12
+
+MR. DREEBEN:
+
+In that situation, the
+
+13
+
+democratic process would have concluded that firearms
+
+14
+
+brandishing, discharge, or use of a machine gun is an
+
+15
+
+extremely serious component of this crime.
+
+16
+
+judges will take that into account in sentencing.
+
+17
+
+simply want them to take that into account in the same
+
+18
+
+particularly harsh way.
+
+19
+
+We know
+We
+
+And in -- in trying to achieve uniformity
+
+20
+
+among judicial actors, when finding facts at sentencing,
+
+21
+
+which everybody knows that they will do, does not
+
+22
+
+deprive the defendant of a right to a jury trial on the
+
+23
+
+elements of the crime; it deprives him of the right to a
+
+24
+
+judge who might show mercy under a particular set of
+
+25
+
+facts.
+49
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+And that simply is not the right that's
+embodied in the Sixth Amendment.
+
+3
+
+JUSTICE BREYER:
+
+That -- that's -- I don't
+
+4
+
+know if you can add anything to this, but, remember, I
+
+5
+
+agree with you about the history, but I just apply it to
+
+6
+
+Apprendi, too.
+
+7
+8
+9
+10
+
+So the one --
+
+JUSTICE SCALIA:
+
+It is so bad he wants to
+
+extend it.
+(Laughter.)
+JUSTICE BREYER:
+
+I thought -- are you sure
+
+11
+
+it was Gertrude Stein and not Dorothy Parker?
+
+12
+
+think you're probably right about that.
+
+13
+
+But I
+
+But the -- the -- I'm thinking of this as,
+
+14
+
+well, Apprendi, I see what they're thinking.
+
+15
+
+thinking that, once you have to add the extra fact to
+
+16
+
+get above the otherwise ceiling, it's like a new crime.
+
+17
+
+It isn't really a new crime, but it's like a new crime.
+
+18
+
+Okay.
+
+They're
+
+But then I can say, well, once you
+
+19
+
+have to really cut off that five years and less and
+
+20
+
+really send him to jail for five years, hey, that's just
+
+21
+
+like a new crime.
+
+22
+
+like a new crime.
+
+It isn't really a new crime, but it's
+
+23
+
+So why can't I say everything that we said
+
+24
+
+about Apprendi here, except I can't deny what you say,
+
+25
+
+the judge could have given the sentence anyway.
+50
+
+Alderson Reporting Company
+
+That's
+
+Official
+
+1
+
+absolutely right.
+
+2
+
+Is that true?
+
+3
+4
+
+But all the other things, I can say.
+
+MR. DREEBEN:
+
+Well, I agree that you can say
+
+them, Justice Breyer --
+
+5
+
+JUSTICE BREYER:
+
+6
+
+(Laughter.)
+
+7
+
+MR. DREEBEN:
+
+8
+
+We -- the critical point about Apprendi is,
+
+9
+
+But, I mean, are they true?
+
+Respectfully, no.
+
+by assigning the role of constitutional element status
+
+10
+
+to a fact that increases the maximum, the Court has
+
+11
+
+preserved the jury trial right against its reduction to,
+
+12
+
+essentially, a formality on a particular subset of
+
+13
+
+elements.
+
+14
+
+covered by Apprendi and the so-called base crime is like
+
+15
+
+a greater included offense and a lesser included
+
+16
+
+offense.
+
+17
+
+And the relationship of a crime that's
+
+Whereas, in the mandatory minimum situation,
+
+18
+
+we know that the judge will be engaged in sentencing.
+
+19
+
+We know that the judge will find facts that extend
+
+20
+
+beyond the elements of the crime to inform himself about
+
+21
+
+how the basic crime is committed.
+
+22
+
+different judges may treat those facts differently after
+
+23
+
+finding them by the preponderance of the evidence.
+
+24
+
+The mandatory minimum changes only one
+
+25
+
+thing.
+
+We also know that
+
+It says, Judge, if you find this fact,
+51
+
+Alderson Reporting Company
+
+Official
+
+1
+
+brandishing or discharge, you will impose the same
+
+2
+
+sentence as your neighboring judge down the hall, not a
+
+3
+
+different one based on your different perception of
+
+4
+
+sentencing philosophy.
+
+5
+
+So it allows the legislature to intervene
+
+6
+
+after having defined a sufficiently serious enough crime
+
+7
+
+and determine how the judges will treat those facts.
+
+8
+9
+10
+
+JUSTICE SOTOMAYOR:
+
+Why is the legislature
+
+being deprived of that right, if they give it to the
+jury?
+
+11
+
+MR. DREEBEN:
+
+The legislature --
+
+12
+
+JUSTICE SOTOMAYOR:
+
+I mean, it seems to me
+
+13
+
+that, whether you give it to a jury or a judge, the
+
+14
+
+legislature protects itself by declaring a minimum
+
+15
+
+sentence.
+
+16
+
+MR. DREEBEN:
+
+17
+
+JUSTICE SOTOMAYOR:
+
+18
+19
+
+There are many ways -It determines the
+
+sentence, really.
+MR. DREEBEN:
+
+There are many ways that a
+
+20
+
+legislature could achieve a goal that allows the judge's
+
+21
+
+factfinding to carry more weight.
+
+22
+
+could extend the maximum punishments and convert
+
+23
+
+everything into an affirmative defense, which this Court
+
+24
+
+said last week is constitutional.
+
+25
+
+For one thing, it
+
+The point is whether the defendant has
+52
+
+Alderson Reporting Company
+
+Official
+
+1
+
+really been divested of a jury trial right when he loses
+
+2
+
+the right to the mercy of a judge.
+
+3
+
+Thank you.
+
+4
+
+CHIEF JUSTICE ROBERTS:
+
+5
+
+Mr. Dreeben. 
+
+Ms. Maguire, you have five minutes 
+
+
+6
+7
+8
+9
+10
+
+Thank you,
+
+remaining. 
+
+REBUTTAL ARGUMENT OF MARY E. MAGUIRE 
+
+ON BEHALF OF THE PETITIONER 
+
+MS. MAGUIRE:
+
+It is the effect of the
+
+11
+
+factfinding that is important, not what it is called.
+
+12
+
+mandatory minimum does, in fact, increase the exposure
+
+13
+
+that a defendant is -- is exposed to because his range
+
+14
+
+then goes from five to life, which was wholly authorized
+
+15
+
+by the jury's verdict in this case, to seven to life,
+
+16
+
+and that is an increase.
+
+17
+
+A
+
+And we are not talking about a right to
+
+18
+
+leniency, but a right for the judge to consider the full
+
+19
+
+range that the jury authorized.
+
+20
+
+language in Apprendi did, in fact, address this issue of
+
+21
+
+range when it said, "One need only look to the kind,
+
+22
+
+degree, or range of punishment to which the prosecution
+
+23
+
+is, by law, entitled for a given set of facts."
+
+And I would note the
+
+24
+
+Thank you.
+
+25
+
+CHIEF JUSTICE ROBERTS:
+53
+
+Alderson Reporting Company
+
+Thank you, counsel.
+
+Official
+
+1
+
+The case is submitted. 
+
+
+2
+
+(Whereupon, at 10:59 a.m., the case in the 
+
+
+3
+
+above-entitled matter was submitted.) 
+
+
+4 
+
+5
+6 
+
+7 
+
+8 
+
+9 
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+54
+
+Alderson Reporting Company
+
+Official
+
+55
+A
+ability 36:7
+abolished 45:25
+above-entitled
+1:11 54:3
+absolute 19:12
+absolutely 4:6
+7:7 33:24
+46:23 47:10
+51:1
+accomplice
+38:15
+accord 41:19
+account 41:8
+49:16,17
+accurate 22:15
+35:4 44:21
+achieve 49:19
+52:20
+acknowledge
+23:7
+Act 40:22 45:20
+acting 41:18
+action 34:24
+actors 49:20
+add 50:4,15
+addition 4:17
+additional 11:11
+address 3:18
+4:21 53:20
+addressed 18:1
+29:11
+adhere 26:14
+administer
+28:20
+adopt 5:5,23
+12:10,21 13:18
+14:1,1 18:10
+21:20
+adopts 12:9
+adversary 4:7
+advisory 24:25
+affirmative
+52:23
+afraid 29:21
+agree 25:16
+27:22,23 40:20
+
+50:5 51:3
+Alito 5:13,20 6:3
+8:2,15 11:21
+12:2,18 13:20
+25:23 38:11
+alleged 5:10
+11:6 22:1
+alleging 5:7 10:1
+10:4
+ALLEN 1:3
+Alleyne 1:3 3:4
+22:4
+Alleyne's 13:12
+allocate 27:9
+43:3
+allow 43:12
+allowed 38:19
+45:18
+allows 10:17
+11:14 48:18
+52:5,20
+alluded 38:11
+Amendment
+4:20 6:9,11,20
+6:21,23 7:3
+8:22 12:23
+15:9,21 20:16
+21:10,15,16
+22:9 23:12
+24:10 27:4
+30:21 31:22
+36:15 45:24,25
+50:2
+amicus 10:9
+11:7
+amount 13:8,16
+41:1
+ample 45:2
+analogies 45:9
+analogy 45:6
+analysis 9:20
+answer 14:3
+anyway 28:2
+43:19,20,21
+44:19 50:25
+apparently 33:2
+APPEARAN...
+
+1:14
+applied 35:24
+applies 36:2
+apply 50:5
+appreciate
+24:11
+Apprendi 4:1
+8:23 17:25
+18:6,11,16
+20:18,25 21:2
+21:2,7 22:12
+23:7,9,22 24:5
+24:24 26:5
+28:6 29:9,14
+29:23 30:9
+32:12 35:24
+39:6,19 40:3
+44:4,25 45:2,5
+48:11,24 50:6
+50:14,24 51:8
+51:14 53:20
+Apprendi's
+27:24
+area 45:1
+argue 9:1,2
+argument 1:12
+2:2,5,8 3:3,7
+6:5 9:18 10:24
+11:24 16:23
+19:21 22:6
+24:19 26:10
+27:6 28:2
+33:15 38:21
+45:8,16 46:3
+46:20,21 53:8
+arguments
+32:21
+armed 48:7
+asked 38:17
+asking 8:24 9:12
+10:16 13:18
+14:8,8 18:9
+29:12 37:13
+assault 30:1
+assessment
+20:20
+assigning 49:1
+
+51:9
+Assistant 1:15
+assume 14:16
+assuming 22:6
+attempted 30:4
+attempting 39:1
+authority 15:16
+authorized
+16:10,12,18
+18:17 21:5
+34:11 41:7
+53:14,19
+authorizes
+42:11
+average 21:23
+avoid 45:18
+aware 4:25
+a.m 1:13 3:2
+54:2
+
+beyond 3:15 5:8
+11:6 21:22
+34:14 35:18
+38:1 42:17
+43:14 51:20
+bifurcated 14:5
+14:8
+bit 47:19,20
+Blackstone
+45:17
+Blakely 8:23
+blanket 5:23
+bleeding 18:21
+Booker 8:23
+24:1,2,7,7,22
+24:24 25:4,7,9
+25:15,17,23,24
+26:1
+bottom 16:13
+39:18
+B
+bound 37:21
+back 26:19
+box 28:13,13,14
+38:25 39:11
+31:11,13,16,17
+40:16 46:15
+branded 38:3
+bad 28:18 50:7
+brandish 25:10
+badly 8:18
+25:13 34:2
+bank 18:3
+40:17
+base 51:14
+brandished
+based 33:6 52:3
+14:22 15:7
+basic 51:21
+17:22 26:25
+basis 25:5,8 45:2
+37:18,19 38:2
+behalf 1:16,19
+38:4
+2:4,7,10 3:8
+brandishes
+26:11 53:9
+22:21
+behave 41:16
+brandishing
+believe 3:21 4:3
+15:11,12 33:17
+5:18 6:14 8:1
+33:21 37:5
+12:22 13:9,10
+38:9,18 41:9
+18:9 21:15
+41:13 42:11
+22:9 24:7,21
+46:18 49:14
+26:1,3
+52:1
+benefit 16:17
+Breyer 27:21
+21:23 45:16,21
+28:4 29:5,6,10
+45:23
+29:21 30:24
+best 21:1 38:10
+31:1,6,15,24
+44:6
+32:7,11,18,24
+better 39:25
+38:12 43:15,24
+
+Alderson Reporting Company
+
+

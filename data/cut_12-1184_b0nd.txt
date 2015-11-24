@@ -1,0 +1,5529 @@
+Official
+
+1
+2
+3
+
+ P R O C E E D I N G S 
+ (10:17 a.m.) 
+ CHIEF JUSTICE ROBERTS: 
+
+We will hear 
+
+4
+
+argument first this morning in Case 12­1184, Octane 
+
+5
+
+Fitness v. ICON Health and Fitness, Incorporated. 
+
+6
+7
+8
+9
+10
+11
+
+ Mr. Telscher. 
+ ORAL ARGUMENT OF RUDOLPH A. TELSCHER 
+ ON BEHALF OF THE PETITIONER 
+ MR. TELSCHER: 
+
+Mr. Chief Justice, and may it 
+
+please the Court: 
+ An exceptional case under Section 285 
+
+12
+
+requires a court to assess the full range of traditional 
+
+13
+
+equitable considerations, including the degree of 
+
+14
+
+reasonableness of the merits by the plaintiff's action, 
+
+15
+
+procedural aspects of the case, and evidence of economic 
+
+16
+
+coercion.  Frivolous and bad­faith cases are not 
+
+17
+
+prerequisites to an award of fees under Section 285. 
+
+18
+
+ The Federal Circuit's test conflicts with 
+
+19
+
+the statutory language, it violates established canons 
+
+20
+
+of statutory construction, and it deprives district 
+
+21
+
+courts of the discretion they need to effectively combat 
+
+22
+
+abusive patent litigation practices. 
+
+23
+
+ Below, the Federal Circuit found that ICON's 
+
+24
+
+claims require a C­channel structure and that ICON's 
+
+25
+
+claim construction to the contrary was without merit;
+
+3
+
+Alderson Reporting Company
+
+Official
+
+1
+
+appendix at A10.  The Federal Circuit also affirmed the 
+
+2
+
+district court's grant of summary judgment that no 
+
+3
+
+reasonable juror could find, as a matter of law, that 
+
+4
+
+Octane's structure had an equivalent to the C­channel; 
+
+5
+
+appendix A13. 
+
+6
+
+ This means that ICON's infringement 
+
+7
+
+allegations against Octane were meritless.  This fact, 
+
+8
+
+in combination with other undisputed evidence of 
+
+9
+
+record ­­ namely the worthless nature of the patent, 
+
+10
+
+evidence of economic coercion, and the fact that two 
+
+11
+
+other elements of the claimed ­­ the core elements of 
+
+12
+
+the claim were missing as well ­­ make this case 
+
+13
+
+exceptional.  And it's such that this Court should 
+
+14
+
+reverse the district court and award fees on its own. 
+
+15
+
+ JUSTICE KENNEDY: 
+
+You were talking about 
+
+16
+
+economic coercion.  Suppose it were reversed.  Suppose 
+
+17
+
+that Octane had the patent and sued ICON.  Would the 
+
+18
+
+analysis be precisely the same? 
+
+19
+
+ MR. TELSCHER: 
+
+The analysis would be 
+
+20
+
+primarily the same.  The evidence of economic coercion 
+
+21
+
+may be less.  So, for example, if you're a smaller 
+
+22
+
+competitor and you're suing a larger competitor, there 
+
+23
+
+would be less opportunity for abuse.  Knowing, if ICON 
+
+24
+
+was the competitor with the weak patent, they would know 
+
+25
+
+that their larger competitor would stand up to them.  So
+
+4
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+the opportunity for economic abuse would be less. 
+ JUSTICE KENNEDY: 
+
+I've been listening to 
+
+3
+
+your adjectives ­­ this is a search for adjectives, in 
+
+4
+
+part.  I think you used the word meritless.  What ­­ is 
+
+5
+
+there a difference between merit ­­ meritlessness and 
+
+6
+
+objectively baseless? 
+
+7
+
+ MR. TELSCHER: 
+
+I don't know that the case 
+
+8
+
+law is perfectly clear.  In Christiansburg, this Court 
+
+9
+
+did define meritless to the tune of it's unjustified and 
+
+10
+11
+
+without foundation. 
+ JUSTICE KENNEDY: 
+
+Because if we remand to 
+
+12
+
+the district court, the district court's already said 
+
+13
+
+it's not objectively baseless, it's not brought in bad 
+
+14
+
+faith.  I'm not quite sure what words we're going to 
+
+15
+
+give to the district court if you're to prevail. 
+
+16
+
+ MR. TELSCHER: 
+
+17
+
+ JUSTICE GINSBURG: 
+
+Well ­­
+You ­­ you had just said 
+
+18
+
+that we should return it to the district court with 
+
+19
+
+orders to require fee shifting.  And how could that be 
+
+20
+
+if the discretion is to be exercised by the district 
+
+21
+
+court? 
+
+22
+
+ I can understand your asking for a remand, 
+
+23
+
+but I can't understand your asking for a reversal and an 
+
+24
+
+order that the fees be reimbursed. 
+
+25
+
+ MR. TELSCHER: 
+
+We understand the tension
+
+5
+
+Alderson Reporting Company
+
+Official
+
+1
+
+between the discretionary standard and asking for a remand 
+
+2
+
+with a finding.  However, there are cases that are 
+
+3
+
+rare ­­ not that rare, but they are rare enough ­­ where 
+
+4
+
+appellate courts look at a record and have a firm and 
+
+5
+
+definite conviction that an award should be made such 
+
+6
+
+that it would be an abuse of discretion ­­
+
+7
+
+ JUSTICE GINSBURG: 
+
+And you think this Court 
+
+8
+
+is the proper court to look at the record and make that 
+
+9
+
+determination, that the district court got it wrong when 
+
+10
+
+the district court didn't think this was an exceptional 
+
+11
+
+case. 
+
+12
+
+ MR. TELSCHER: 
+
+On this record, yes, Your 
+
+13
+
+Honor.  The ­­ the Federal Circuit's finding is such 
+
+14
+
+that the ­­ the infringement claim is meritless.  As a 
+
+15
+
+matter of law, the claim construction position had no 
+
+16
+
+possibility of success under 35 U.S.C. Section 112, 
+
+17
+
+paragraph (f). 
+
+18
+
+ JUSTICE SCALIA: 
+
+Well, what do you ­­ what 
+
+19
+
+do you want to add to meritless?  Don't you have to add 
+
+20
+
+something to meritless?  I mean, every time you win the 
+
+21
+
+summary judgment motion, that's a determination that the 
+
+22
+
+claim is without merit, isn't it? 
+
+23
+
+ MR. TELSCHER: 
+
+24
+
+ JUSTICE SCALIA: 
+
+25
+
+It is not, Your Honor. 
+Doesn't meritless just mean 
+
+without merit?
+
+6
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ MR. TELSCHER: 
+
+No, it ­­ for example, in 
+
+2
+
+most patent cases, there is the Markman phase.  So a 
+
+3
+
+district court judge, as a matter of law, is required to 
+
+4
+
+find on the claim construction.  So there could be a 
+
+5
+
+reasonable dispute about the meaning of a term that's 
+
+6
+
+resolved against the plaintiff, so it ­­ just because 
+
+7
+
+they lose a claim construction doesn't mean their 
+
+8
+
+position was meritless. 
+
+9
+
+ JUSTICE SCALIA: 
+
+Okay.  I understand.  Well, 
+
+10
+
+all right.  What ­­ what must be added to the word 
+
+11
+
+meritless? 
+
+12
+
+ MR. TELSCHER: 
+
+13
+
+ JUSTICE SCALIA: 
+
+14
+15
+
+In our strong view ­­
+That no ­­ no reasonable 
+
+judge could have found it to be with merit? 
+ MR. TELSCHER: 
+
+If someone brings a claim 
+
+16
+
+construction position that's unreasonably weak, in our 
+
+17
+
+view that qualifies under Section 285 and is consistent 
+
+18
+
+with the words that other cases have used. 
+
+19
+
+ JUSTICE SCALIA: 
+
+That ­­ that's not a 
+
+20
+
+standard I would ­­ I would want to, you know ­­ you 
+
+21
+
+realize how ­­ how differently various district courts 
+
+22
+
+would operate if ­­ if you just say ­­ what was your 
+
+23
+
+phrase?  Unreasonably weak? 
+
+24
+
+ MR. TELSCHER: 
+
+25
+
+ JUSTICE SCALIA: 
+
+And yet, that's the ­­
+You've got to give me
+
+7
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+something tighter than that. 
+ MR. TELSCHER: 
+
+That is the standard, 
+
+3
+
+however, that this Court used in Martin and in Pierce. 
+
+4
+
+ And if we're looking at ­­ if ­­ if we want 
+
+5
+
+to make ­­ so ­­ so in ­­ for example, in most of these 
+
+6
+
+cases what we're talking about is going to typically 
+
+7
+
+involve the merits.  And so if we say that the only way 
+
+8
+
+you can get a fee award is to have a zero­merit, 
+
+9
+
+frivolous case, it's impossible to show.  It's 
+
+10
+11
+
+inconsistent with the statutory language. 
+ So when we're looking at this from a 
+
+12
+
+statutory context, on the merits, what should qualify? 
+
+13
+
+And there comes a point at which a case goes from strong 
+
+14
+
+to medium and it crosses into the territory of weak.  It 
+
+15
+
+gets weaker and weaker, and then it becomes frivolous. 
+
+16
+
+ This Court, even in Pierce, recognized that 
+
+17
+
+the reasonableness standard was something more than 
+
+18
+
+frivolous.  And we think if Section 285 is to have any 
+
+19
+
+teeth in deterring the abusive practices currently in 
+
+20
+
+the system, something more than frivolousness is 
+
+21
+
+required, and it is consistent with this Court's prior 
+
+22
+
+precedent. 
+
+23
+
+ CHIEF JUSTICE ROBERTS: 
+
+We're deal ­­ we're 
+
+24
+
+dealing with a term that could be read in many different 
+
+25
+
+ways:  exceptional.  Right?  Maybe that means 1 out of
+
+8
+
+Alderson Reporting Company
+
+Official
+
+1
+
+100; maybe it means 10 out of 100.  And why shouldn't we 
+
+2
+
+give some deference to the decision of the court that 
+
+3
+
+was set up to develop patent law in a uniform way?  They 
+
+4
+
+have a much better idea than we do about the 
+
+5
+
+consequences of these fee awards in particular cases. 
+
+6
+
+And since we're just ­­ as Justice Kennedy pointed 
+
+7
+
+out ­­ dealing with adjectives ­­ you know, meritless, 
+
+8
+
+frivolous, exceptional ­­ why don't give some deference 
+
+9
+
+to their judgment? 
+
+10
+
+ MR. TELSCHER: 
+
+Well, I think we need to look 
+
+11
+
+at the basis of the judgment, which is grounded in the 
+
+12
+
+fact that they've ­­ they've found constitutionally that 
+
+13
+
+the ­­ the PRE standard was required.  And I think this 
+
+14
+
+Court's precedent in BE&K just two years earlier says 
+
+15
+
+that the validity of fee­shifting statutes is not 
+
+16
+
+governed by the PRE standard. 
+
+17
+
+ And if ­­ if the Court were to so hold, that 
+
+18
+
+would throw into question all of the fee statutes of 
+
+19
+
+this country because, accordingly, they presumptively 
+
+20
+
+would have to have the sham litigation test to be 
+
+21
+
+constitutional. 
+
+22
+
+ JUSTICE SOTOMAYOR: 
+
+What is the difference 
+
+23
+
+between the Federal Circuit's use of objective 
+
+24
+
+reasonable ­­ objectively meritless and your standard? 
+
+25
+
+ MR. TELSCHER: 
+
+To my way ­­
+
+9
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ JUSTICE SOTOMAYOR: 
+
+I know that you've been 
+
+2
+
+arguing that they shouldn't be using subjective intent, 
+
+3
+
+so I'm putting that aside.  And you can tell me why 
+
+4
+
+Kilopass doesn't answer that now. 
+
+5
+
+ But what's the difference you see? 
+
+6
+
+ MR. TELSCHER: 
+
+To my way of thinking, when 
+
+7
+
+you say meritless or baseless, it means there's 
+
+8
+
+absolutely no foundation of zero merit.  When we talk 
+
+9
+
+about objectively unreasonable ­­ and, again, as this 
+
+10
+
+Court found in Pierce ­­ it suggests something lesser 
+
+11
+
+than frivolousness.  And the reality of ­­ I think of 
+
+12
+
+district court litigation is it's near impossible to 
+
+13
+
+show that something is frivolous, that somebody had no 
+
+14
+
+argument ­­
+
+15
+
+ JUSTICE SCALIA: 
+
+I don't understand your 
+
+16
+
+answer to the question.  How does the first part of the 
+
+17
+
+Federal Circuit's test differ from your perception of 
+
+18
+
+what meritless means? 
+
+19
+
+ MR. TELSCHER: 
+
+We understand the first part 
+
+20
+
+of the Federal Circuit's test to require zero merit or 
+
+21
+
+frivolousness, which is what the district court ­­ she 
+
+22
+
+used interchangeably "objectively baseless" and 
+
+23
+
+"frivolousness."  So we think frivolousness is too low 
+
+24
+
+of a standard under 285. 
+
+25
+
+ JUSTICE KENNEDY: 
+
+So would you say without
+
+10
+
+Alderson Reporting Company
+
+Official
+
+1
+
+substantial merit?  I mean, if we're playing around with 
+
+2
+
+words again. 
+
+3
+
+ MR. TELSCHER: 
+
+Without substantial merit, 
+
+4
+
+unreasonably weak, or low likelihood of success, I think 
+
+5
+
+those are all ways of getting to the same point, which 
+
+6
+
+is something less than zero merit will satisfy under 
+
+7
+
+285. 
+
+8
+
+ JUSTICE ALITO: 
+
+You have several objections, 
+
+9
+
+I take it, to what the Federal Circuit has said.  One is 
+
+10
+
+that you think objectively baseless is too low, correct? 
+
+11
+
+ MR. TELSCHER: 
+
+12
+
+ JUSTICE ALITO: 
+
+13
+
+faith is necessary. 
+
+14
+
+ MR. TELSCHER: 
+
+15
+
+ JUSTICE ALITO: 
+
+Yes. 
+You also don't think bad 
+
+Agreed. 
+And do you also believe that 
+
+16
+
+litigation misconduct taken in conjunction with a case 
+
+17
+
+that is, let's say, of little merit, but perhaps not as 
+
+18
+
+low as the standard that you have, that you're 
+
+19
+
+suggesting, would justify an award of fees? 
+
+20
+
+ MR. TELSCHER: 
+
+Yes.  We believe litigation 
+
+21
+
+misconduct, especially in consideration with a weak case 
+
+22
+
+on the merits, makes for a strong candidate for 
+
+23
+
+exceptional. 
+
+24
+25
+
+ JUSTICE ALITO: 
+
+Well, now I'm a ­­ say I'm a 
+
+district judge someplace and I rarely get a patent case.
+
+11
+
+Alderson Reporting Company
+
+Official
+
+1
+
+How am I supposed to determine whether the case is 
+
+2
+
+exceptional if the standard is take everything into 
+
+3
+
+account, litigation misconduct, the strength of the 
+
+4
+
+case, any indication of bad faith, and decide whether 
+
+5
+
+it's exceptional?  Exceptional compared to what?  I have 
+
+6
+
+very little basis for comparison.  How do I do that? 
+
+7
+
+ MR. TELSCHER: 
+
+So, I do not think it's a 
+
+8
+
+numerical comparison.  I think when we're talking about 
+
+9
+
+an uncommon case, it's what would we expect of a 
+
+10
+
+reasonable litigant.  So in the normal course, a 
+
+11
+
+plaintiff develops a product, they bring it to market, 
+
+12
+
+they get a patent, they're successful.  A defendant 
+
+13
+
+recognizes the success.  They look at the patent, and 
+
+14
+
+they try to design around and a reasonable dispute 
+
+15
+
+ensues.  So that's a normal case. 
+
+16
+
+ What we're saying to a district court judge, 
+
+17
+
+the guidance we would give them is that this litigant, 
+
+18
+
+this plaintiff acted in reasonable ways, and district 
+
+19
+
+court judges are called on every single day to make 
+
+20
+
+those determinations. 
+
+21
+
+ JUSTICE ALITO: 
+
+Compared to what?  Compared 
+
+22
+
+to the types of cases that the district court hears on a 
+
+23
+
+more regular basis? 
+
+24
+
+ MR. TELSCHER: 
+
+25
+
+ JUSTICE ALITO: 
+
+District courts handle ­­
+Or compared to patent cases?
+
+12
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ MR. TELSCHER: 
+
+I think all cases.  Complex 
+
+2
+
+litigation requires litigants to act reasonably in 
+
+3
+
+procedural aspects and on the merits.  I think ­­
+
+4
+
+ JUSTICE ALITO: 
+
+See, this is what I find 
+
+5
+
+somewhat troubling about your "take everything into 
+
+6
+
+account" standard.  Most district court judges do not 
+
+7
+
+see a lot of patent cases, and when they see one, it's 
+
+8
+
+very unusual.  So you've got these patent attorneys 
+
+9
+
+showing up in court.  They are different from other 
+
+10
+
+attorneys. 
+
+11
+
+ (Laughter.) 
+
+12
+
+ JUSTICE ALITO: 
+
+Sometimes they ­­
+
+13
+
+particularly if it's a very technical case, they speak a 
+
+14
+
+different language.  They do things differently.  The 
+
+15
+
+district judge is struggling to figure out how to handle 
+
+16
+
+the case.  And then the ­­ one ­­ one party wins, the 
+
+17
+
+other party loses, and the party that wins says, this 
+
+18
+
+was an exceptional case and you should award fees in my 
+
+19
+
+favor under 285. 
+
+20
+
+ And the district judge says: 
+
+How can I tell 
+
+21
+
+whether this is exceptional?  If I had had ­­ if I had 
+
+22
+
+25 patent cases, I could make some comparisons.  But I 
+
+23
+
+don't have a basis for doing that. 
+
+24
+25
+
+ Now, the Federal Circuit has a basis for 
+doing it.
+
+13
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ MR. TELSCHER: 
+
+Well, first of all, 
+
+2
+
+Congress ­­ Congress has spoken and said that in 
+
+3
+
+exceptional cases, the district court should do this. 
+
+4
+
+And I also ­­ I think if you went back 10 to 15 years 
+
+5
+
+ago, perhaps the notion that district court judges 
+
+6
+
+haven't seen a lot of patent cases might be true. 
+
+7
+
+ District court judges see lots and lots of 
+
+8
+
+patent cases.  Many of those cases may not be decided on 
+
+9
+
+the merits.  The only thing that the Federal Circuit 
+
+10
+
+sees are the ones that went to final conclusion.  So I 
+
+11
+
+do think district court judges see a lot of patent 
+
+12
+
+litigation. 
+
+13
+
+ I also think ­­
+
+14
+
+ JUSTICE ALITO: 
+
+Is that really true? 
+
+15
+
+There's nearly 700 district judges in the country. 
+
+16
+
+If ­­ if we had a statistic about the average number of 
+
+17
+
+patent cases that a district judge hears and receives 
+
+18
+
+on, let's say, a 5­year period, what would it be? 
+
+19
+
+ MR. TELSCHER: 
+
+I don't know what that number 
+
+20
+
+is, Your Honor.  But I know that district court judges 
+
+21
+
+carry a widely varying docket of different areas of law 
+
+22
+
+and are called upon to learn the law and assess the 
+
+23
+
+reasonableness of those positions. 
+
+24
+25
+
+ JUSTICE SCALIA: 
+
+Mr. Telscher, it occurs to 
+
+me that you really cannot answer the question of what
+
+14
+
+Alderson Reporting Company
+
+Official
+
+1
+
+adjectives should be attached to meritless.  And the 
+
+2
+
+reason you can't is, since it is a totality of the 
+
+3
+
+circumstances test, that is only one factor and it 
+
+4
+
+doesn't have to be an absolute degree of meritlessness. 
+
+5
+
+Even in a ­­ I assume you would say that even in a very 
+
+6
+
+close case, if there has been outrageous litigation 
+
+7
+
+abuse by the other side, the court would be able to say: 
+
+8
+
+My goodness, I've never seen lawyers behave like this. 
+
+9
+
+You're going to pay the attorneys' fees for the other 
+
+10
+11
+12
+13
+
+side.  Couldn't the ­­ couldn't the court do that? 
+ MR. TELSCHER: 
+
+That's absolutely correct, 
+
+Your Honor. 
+ JUSTICE SCALIA: 
+
+So then how can we possibly 
+
+14
+
+define meritless?  We can't, because it goes up and 
+
+15
+
+down, even in a case where it's ­­ it's a close case, it 
+
+16
+
+could still be exceptional. 
+
+17
+18
+19
+
+ MR. TELSCHER: 
+
+It's the degree of the 
+
+unreasonable nature of the case as one factor. 
+ CHIEF JUSTICE ROBERTS: 
+
+Do you agree with 
+
+20
+
+the Solicitor General's test that fees are authorized 
+
+21
+
+when they are ­­ I'm quoting ­­ "necessary to prevent 
+
+22
+
+gross injustice"? 
+
+23
+
+ MR. TELSCHER: 
+
+24
+
+ CHIEF JUSTICE ROBERTS: 
+
+25
+
+Yes, we do, Your Honor. 
+Well, now, I was 
+
+surprised at that because I would have thought your
+
+15
+
+Alderson Reporting Company
+
+Official
+
+1
+
+friend on the other side would say that.  I mean, gross 
+
+2
+
+injustice sounds like a very tiny portion of cases; 
+
+3
+
+lower than meritless.  I mean it's ­­ injustice is bad 
+
+4
+
+too.  It's doesn't mean you just loss, but there's 
+
+5
+
+something very unjust about it.  Gross injustice, well, 
+
+6
+
+it's just some more adjectives, and it's the test ­­ I 
+
+7
+
+gather that's the test you adopt. 
+
+8
+9
+10
+11
+
+ MR. TELSCHER: 
+
+Well, it's certainly what 
+
+the ­­ what's ­­ what Congress said in the legislative 
+history and what was adopted by the courts. 
+ CHIEF JUSTICE ROBERTS: 
+
+Well, but you've 
+
+12
+
+been up here for several minutes and you haven't even 
+
+13
+
+used those particular ­­ or that adjective, which is 
+
+14
+
+your test. 
+
+15
+
+ MR. TELSCHER: 
+
+Section 285 is remedial, so 
+
+16
+
+certainly in order to remedy something there must be 
+
+17
+
+some level of injustice.  I think consistent with the 
+
+18
+
+notion that a case is exceptional and uncommon is the 
+
+19
+
+notion that it's gross injustice, not justice.  And to 
+
+20
+
+my way of thinking, when somebody brings a very weak 
+
+21
+
+case, which we believe this one was, and it costs 
+
+22
+
+someone $2 million to defend it, and they go through 
+
+23
+
+that and they pay that price tag, a district court 
+
+24
+
+should be able to find that that is gross injustice. 
+
+25
+
+And I think it is, especially for many of the small
+
+16
+
+Alderson Reporting Company
+
+Official
+
+1
+
+businesses in this country when they face these types of 
+
+2
+
+suits. 
+
+3
+
+ JUSTICE KAGAN: 
+
+Mr. Telscher, can I just 
+
+4
+
+ask very quickly the factors that you would think a 
+
+5
+
+court should consider.  One is the degree to which the 
+
+6
+
+case is meritless.  Another, I presume, is bad faith. 
+
+7
+
+Another is litigation misconduct.  Is there anything 
+
+8
+
+else or are those the three? 
+
+9
+
+ MR. TELSCHER: 
+
+No, there ­­ there's more.  I 
+
+10
+
+think it's ­­ there's no exhaustive list and, for 
+
+11
+
+example, even in this case ­­ and in Park­in­Theatres 
+
+12
+
+where the court said other equitable consideration.  We 
+
+13
+
+believe it is a totality of the circumstances.  Anything 
+
+14
+
+that bears on the gross injustice and the uncommon 
+
+15
+
+nature of the case. 
+
+16
+
+ So, for example, in this case, the fact that 
+
+17
+
+Icon brought a patent that it, with all of its 
+
+18
+
+resources, couldn't commercialize, was indisputably 
+
+19
+
+worthless.  To this day they've never made a product 
+
+20
+
+under this patent.  That's a factor that bears on the 
+
+21
+
+equities of this case and the uncommon nature and is one 
+
+22
+
+that doesn't fall neatly within those categories. 
+
+23
+
+ The fact that our client licensed under a 
+
+24
+
+different patent that shows its linkage is another 
+
+25
+
+factor that shows that what they are asserting isn't
+
+17
+
+Alderson Reporting Company
+
+Official
+
+1
+
+reasonable.  So I don't think there is a laundry list, 
+
+2
+
+but the categories that you identified are the big ones. 
+
+3
+
+ JUSTICE GINSBURG: 
+
+I think you ­­ you did 
+
+4
+
+say if it's an exceptional case, the district court must 
+
+5
+
+award fees, but the statute says may.  So even in the 
+
+6
+
+exceptional case, according to the statute, the district 
+
+7
+
+court is not required to award fees.  Or do you read may 
+
+8
+
+to mean something else? 
+
+9
+
+ MR. TELSCHER: 
+
+Certainly, there ­­ there has 
+
+10
+
+been the issue of whether this determination is a 
+
+11
+
+one­ or two­step finding.  My belief is that district 
+
+12
+
+courts will look at all of the factors and make up their 
+
+13
+
+mind whether it's exceptional and in that same step 
+
+14
+
+award fees.  There has been the notion that first we 
+
+15
+
+determine a case is exceptional and then we make the 
+
+16
+
+determination of whether fees should be granted.  I'm 
+
+17
+
+not sure once a court determines that a case is 
+
+18
+
+exceptional, what other factor would bear on that ­­ on 
+
+19
+
+that determination. 
+
+20
+21
+
+ If there are no other questions, I'd like to 
+reserve the rest of my time for rebuttal. 
+
+22
+
+ CHIEF JUSTICE ROBERTS: 
+
+23
+
+ Mr. Martinez. 
+
+24
+
+ ORAL ARGUMENT OF ROMAN MARTINEZ 
+
+25
+
+Thank you, counsel. 
+
+ FOR THE UNITED STATES, AS AMICUS CURIAE,
+
+18
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+3
+4
+
+ SUPPORTING THE PETITIONER 
+ MR. MARTINEZ: 
+
+Mr. Chief Justice, and may it 
+
+please the Court: 
+ Section 285 grants district courts 
+
+5
+
+discretionary authority to look at the totality of the 
+
+6
+
+circumstances and award fees when necessary to prevent 
+
+7
+
+gross injustice.  Such awards can be proper in unusual 
+
+8
+
+cases where the losing party has committed bad faith or 
+
+9
+
+harassing conduct during the litigation, or has advanced 
+
+10
+
+objectively unreasonable legal arguments, just as courts 
+
+11
+
+had held under the 1946 statute.  The Court should 
+
+12
+
+restore this understanding of Section 285 and make four 
+
+13
+
+additional points that we think will clarify the inquiry 
+
+14
+
+for the district courts: 
+
+15
+
+ First and most importantly, the Court should 
+
+16
+
+say that baselessness and bad faith do not both have to 
+
+17
+
+be present in a case in order to justify a fee award; 
+
+18
+
+ Second, the Court should ­­ the Court should 
+
+19
+
+say that district courts can grant fees based on a 
+
+20
+
+combination of different factors even if no single 
+
+21
+
+factor would necessarily support the award on its own; 
+
+22
+
+ Third, the Court should say that an 
+
+23
+
+objectively unreasonable argument can trigger a fee 
+
+24
+
+award, even if that argument is not so unreasonable that 
+
+25
+
+it's actually considered frivolous;
+
+19
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+3
+
+ And fourth, the Court should say that clear 
+and convincing evidence is not required. 
+ I'd like to turn to Justice Scalia's 
+
+4
+
+question and the discussion that occurred earlier about 
+
+5
+
+the battle of the adjectives, so to speak.  We think 
+
+6
+
+that, as I said earlier, that the ­­ a fee award should 
+
+7
+
+be appropriate or can be appropriate in a case in which 
+
+8
+
+there's an objectively unreasonable litigating position 
+
+9
+
+or objectively unreasonable arguments that are made in a 
+
+10
+
+case.  We appreciate that that's not a ­­ a 100 percent 
+
+11
+
+precise, bright­line test, but we think it's similar 
+
+12
+
+to ­­ it's, in fact, the same as what the Court has said 
+
+13
+
+in other contexts, such as EAJA in the Pierce case ­­
+
+14
+15
+
+ JUSTICE SCALIA: 
+
+No matter what other 
+
+factors exist, it has to be objectively unreasonable. 
+
+16
+
+ MR. MARTINEZ: 
+
+17
+
+ JUSTICE SCALIA: 
+
+I ­­
+I mean, even if it is clear 
+
+18
+
+from other factors that this is a shakedown, a big 
+
+19
+
+country ­­ a big company trying to suppress a little 
+
+20
+
+company, even if it's clear that there has been 
+
+21
+
+outrageous litigation abuse, misconduct by attorneys? 
+
+22
+23
+24
+25
+
+ MR. MARTINEZ: 
+
+It is an important point, 
+
+Justice Scalia ­­
+ JUSTICE SCALIA: 
+
+All of those things cannot 
+
+justify shifting the award unless it is objectively
+
+20
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+3
+
+unreasonable. 
+ MR. MARTINEZ: 
+
+No, Justice Scalia, that's 
+
+not our position. 
+
+4
+
+ JUSTICE SCALIA: 
+
+5
+
+ MR. MARTINEZ: 
+
+Oh, okay. 
+Our position is if the only 
+
+6
+
+factor is an objectively unreasonable argument, that in 
+
+7
+
+appropriate circumstances, that can be sufficient.  We 
+
+8
+
+believe very, very strongly that if there are other 
+
+9
+
+factors present, that would only strengthen the case for 
+
+10
+11
+
+appeal. 
+ JUSTICE BREYER: 
+
+I see that.  But, look, 
+
+12
+
+what you listed in your brief on page 17, which I think 
+
+13
+
+was nonexclusive:  Willful infringement, litigation 
+
+14
+
+misconduct, inequitable conduct by the patentee in 
+
+15
+
+securing the patent, vexatious or unjustified 
+
+16
+
+litigation, bad faith, the assertion of frivolous claims 
+
+17
+
+and defenses.  And then you cite cases which say all of 
+
+18
+
+those in different instances have been sufficient, 
+
+19
+
+either alone or together.  Well, why don't we just copy 
+
+20
+
+that?  Isn't that your view? 
+
+21
+22
+23
+24
+25
+
+ MR. MARTINEZ: 
+
+I think our view is that 
+
+those are the kinds of circumstances ­­
+ JUSTICE BREYER: 
+
+All right.  Do you want to 
+
+add to that list, or to subtract? 
+ MR. MARTINEZ: 
+
+I think as long as the Court
+
+21
+
+Alderson Reporting Company
+
+Official
+
+1
+
+makes clear that that is an illustrative list that I 
+
+2
+
+think captures the kind of bad faith ­­
+
+3
+4
+5
+
+ JUSTICE SCALIA: 
+
+You want to add et cetera, 
+
+right? 
+ MR. MARTINEZ: 
+
+And add "or similar," 
+
+6
+
+"similar equitable" ­­ "similar inequitable conduct," 
+
+7
+
+which is what the Ninth Circuit said in the 
+
+8
+
+Park­in­Theatres case, which I think all the parties 
+
+9
+
+agree is a ­­ fairly captures what Congress intended to 
+
+10
+11
+
+incorporate from the cases decided in the late '40s. 
+ CHIEF JUSTICE ROBERTS: 
+
+So where does gross 
+
+12
+
+injustice come from?  I understood that to be your test. 
+
+13
+
+You say, Fees are authorized when necessary to prevent 
+
+14
+
+gross injustice to the defendant. 
+
+15
+
+ MR. MARTINEZ: 
+
+16
+
+ CHIEF JUSTICE ROBERTS: 
+
+I think ­­
+Again, you have your 
+
+17
+
+long laundry list that doesn't say anything about gross 
+
+18
+
+injustice. 
+
+19
+
+ MR. MARTINEZ: 
+
+Well, I think the long 
+
+20
+
+laundry list reflects the kinds of circumstances in 
+
+21
+
+which courts operating between 1946 and 1952 
+
+22
+
+interpreting the prior statute, those are the 
+
+23
+
+circumstances in which those courts had concluded that 
+
+24
+
+there was a gross injustice.  So in other words, we 
+
+25
+
+think gross injustice is maybe the umbrella term and ­­
+
+22
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ JUSTICE BREYER: 
+
+You don't think it.  Where 
+
+2
+
+it comes from, which maybe you don't want to say, is the 
+
+3
+
+Senate report on the bill, that is similar to this one 
+
+4
+
+enacted in 1946.  Still, there are some of us who think 
+
+5
+
+that's a highly relevant consideration. 
+
+6
+
+ MR. MARTINEZ: 
+
+We are comfortable saying 
+
+7
+
+that and we ­­ and we do say that and we think it's 
+
+8
+
+especially salient and worth relying on here, not just 
+
+9
+
+because it's the legislative history, but also because 
+
+10
+
+that same legislative history and that same gross 
+
+11
+
+injustice language was repeatedly cited and talked about 
+
+12
+
+in the 1946 to '52 cases. 
+
+13
+
+ JUSTICE KAGAN: 
+
+But I think, Mr. Martinez, 
+
+14
+
+what the Chief Justice is driving at is there's a bit of 
+
+15
+
+a disconnect between your list of factors and those two 
+
+16
+
+words.  Gross injustice, I mean that's kind ­­ that's 
+
+17
+
+really, really exceptional.  That sounds like, shocks 
+
+18
+
+the conscience.  That sounds like something you've never 
+
+19
+
+seen happen in the litigation system ever. 
+
+20
+
+ But then you're saying essentially ratchet 
+
+21
+
+it down when you list all of these various factors.  And 
+
+22
+
+maybe that's ­­ that's right, we shouldn't be obsessed 
+
+23
+
+with this word, gross injustice.  It just seems a 
+
+24
+
+disconnect between the two words and all the factors. 
+
+25
+
+ MR. MARTINEZ: 
+
+Let me ­­ let me explain by
+
+23
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+3
+
+stepping back. 
+ JUSTICE SCALIA: 
+
+But it's in the Senate 
+
+report, so ­­
+
+4
+
+ (Laughter.) 
+
+5
+
+ MR. MARTINEZ: 
+
+Justice Kagan, we think that 
+
+6
+
+the way to look at the statute is to try to figure out 
+
+7
+
+what Congress understood the statute to mean in 1952. 
+
+8
+
+And it's very clear and I think both sides agree that 
+
+9
+
+Congress intended to essentially incorporate the ­­ the 
+
+10
+
+thrust of the judicial opinions that had been issued 
+
+11
+
+under the 1946 statute.  Those opinions repeatedly 
+
+12
+
+talked about gross injustice, drawing from the prior 
+
+13
+
+legislative history, and when they awarded fees and then 
+
+14
+
+when ­­ and when they discussed when fees would be 
+
+15
+
+appropriate, the ­­ the circumstances that we list in 
+
+16
+
+our brief are what they said would equate to gross 
+
+17
+
+injustice. 
+
+18
+
+ So I think in the abstract you may be right, 
+
+19
+
+that gross injustice is a broader standard or maybe it's 
+
+20
+
+a little bit ­­ it's a, you know, only the most 
+
+21
+
+exceptional of exceptional cases would be covered.  But 
+
+22
+
+in practice what Congress was looking at and what they 
+
+23
+
+were responding to and what they were intending to put 
+
+24
+
+in this statute was an idea of gross injustice that 
+
+25
+
+reflected those bad faith, harassing, and unreasonable
+
+24
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+situations that were presented earlier. 
+ JUSTICE SCALIA: 
+
+So if that's what you mean, 
+
+3
+
+why don't you say exceptional injustice instead of gross 
+
+4
+
+injustice? 
+
+5
+6
+7
+8
+9
+
+ MR. MARTINEZ: 
+
+We're trying to tie the 
+
+interpretation of the statute to the language ­­
+ JUSTICE SCALIA: 
+
+To the Senate ­­ to the 
+
+Senate report. 
+ MR. MARTINEZ: 
+
+Not just to the Senate 
+
+10
+
+report, Justice Scalia, but to the judicial decisions. 
+
+11
+
+And this Court has often looked to judicial decisions ­­
+
+12
+
+judicial decisions as a backdrop against ­­ against 
+
+13
+
+which Congress legislates. 
+
+14
+
+ JUSTICE KENNEDY: 
+
+It's a different statute. 
+
+15
+
+Could we borrow from ­­ you mentioned EAJA.  I take it 
+
+16
+
+that's substantially justified? 
+
+17
+18
+19
+20
+21
+
+ MR. MARTINEZ: 
+
+Yes, Your Honor.  We think 
+
+that ­­ that ­­
+ JUSTICE KENNEDY: 
+
+It's a different statute, 
+
+It was passed later, all of ­­ all those problems. 
+ MR. MARTINEZ: 
+
+We think that when ­­ when 
+
+22
+
+the situation involves, say, just an objectively 
+
+23
+
+unreasonable argument, we think that essentially the 
+
+24
+
+same test would apply from the EAJA context. 
+
+25
+
+ JUSTICE SOTOMAYOR: 
+
+So is there anything
+
+25
+
+Alderson Reporting Company
+
+Official
+
+1
+
+other than the objectively baseless and bad faith of the 
+
+2
+
+Brooks Furniture test that you would change?  Doesn't 
+
+3
+
+all of the other factors that the Court uses ­­
+
+4
+
+litigation misconduct, all of that other stuff ­­
+
+5
+
+encompass all the factors you're talking about? 
+
+6
+
+ MR. MARTINEZ: 
+
+I think it does, but I think 
+
+7
+
+it's ­­ it's very important if the Court were to go in 
+
+8
+
+that direction, as long as it elaborates a couple of the 
+
+9
+
+additional points that I mentioned earlier. 
+
+10
+11
+12
+
+ JUSTICE SOTOMAYOR: 
+
+That it has to be a 
+
+combination, a combination of factors, and ­­
+ MR. MARTINEZ: 
+
+Both, yes, right, that both 
+
+13
+
+are not required, that it can be a combination of 
+
+14
+
+factors, that when the Brooks Furniture test says 
+
+15
+
+unjustified, that is a ­­ that embraces the concept of 
+
+16
+
+objective unreasonableness. 
+
+17
+
+ JUSTICE SOTOMAYOR: 
+
+By the way, I thought ­­
+
+18
+
+I thought the Federal Circuit said that you only use the 
+
+19
+
+objective unreasonable if there isn't one of the other 
+
+20
+
+things.  So it seems to be saying that ­­
+
+21
+
+ MR. MARTINEZ: 
+
+I think they do, but I think 
+
+22
+
+that catch­all category in which they apply the 
+
+23
+
+two­pronged Brooks Furniture test covers potentially a 
+
+24
+
+very wide array of cases, because it covers any case in 
+
+25
+
+which perhaps there's bad faith conduct in bringing the
+
+26
+
+Alderson Reporting Company
+
+Official
+
+1
+
+litigation, and also it covers the range of 
+
+2
+
+circumstances in which frivolous or unreasonable 
+
+3
+
+arguments are made. 
+
+4
+
+ JUSTICE SOTOMAYOR: 
+
+And could you spend a 
+
+5
+
+moment on clear and convincing, and ­­ because there's 
+
+6
+
+not a whole lot in your briefs on that part of it, 
+
+7
+
+although you do mention it in passing. 
+
+8
+9
+
+ MR. MARTINEZ: 
+
+Right.  Yes, Justice 
+
+Sotomayor.  As the Court well knows, the standard rule 
+
+10
+
+in civil litigation is that ­­ that facts need to be 
+
+11
+
+established by a preponderance of the evidence unless 
+
+12
+
+Congress says otherwise.  The i4i case, decided a few 
+
+13
+
+terms ago, I think confirmed that general view. 
+
+14
+
+ Here, Congress did not say otherwise. 
+
+15
+
+Congress did not embrace a clear and convincing 
+
+16
+
+standard.  There's nothing in the text or the history of 
+
+17
+
+Section 285 that suggests that it did.  Appreciate we 
+
+18
+
+didn't have enough ­­ I wish we had had more time in our 
+
+19
+
+brief to get into this issue, but I would just suggest 
+
+20
+
+that if the Court wants to look more deeply, it can look 
+
+21
+
+at Judge O'Malley's opinion in the Kilopass case, which 
+
+22
+
+I think has a very thorough and very convincing 
+
+23
+
+discussion of the clear and convincing evidence issue. 
+
+24
+25
+
+ JUSTICE ALITO: 
+
+What is the difference 
+
+between ­­ you say the correct phrase is objectively
+
+27
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+3
+4
+
+unreasonable? 
+ MR. MARTINEZ: 
+
+When we're dealing with just 
+
+that, a ­­ a case that raises a weak legal argument. 
+ JUSTICE ALITO: 
+
+That's different from 
+
+5
+
+objectively baseless.  That's a little higher than 
+
+6
+
+objectively baseless? 
+
+7
+
+ MR. MARTINEZ: 
+
+It's not clear, Justice 
+
+8
+
+Alito, how the Federal Circuit conceives of it, And let 
+
+9
+
+me just explain why.  I think they use the term 
+
+10
+
+objectively baseless.  In some of their opinions when 
+
+11
+
+they are talking about that term, they seem to use 
+
+12
+
+frivolous as a synonym.  In other cases when they're 
+
+13
+
+talking about that term, they seem to use objectively 
+
+14
+
+unreasonable.  And so we think there's a little bit of 
+
+15
+
+confusion. 
+
+16
+
+ We think the Pierce case makes very clear 
+
+17
+
+that justified and reasonableness are the same thing, 
+
+18
+
+and to ­­ that a reasonable argument is not the same as 
+
+19
+
+merely a non­frivolous argument. 
+
+20
+21
+22
+
+ JUSTICE ALITO: 
+
+And that's higher than the 
+
+Rule 11 standard? 
+ MR. MARTINEZ: 
+
+The Rule 11 standard, when it 
+
+23
+
+comes to unreasonable arguments, is frivolous.  And so 
+
+24
+
+we think that it should be a little bit lower than that 
+
+25
+
+standard and it should be closer to something like in
+
+28
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+EAJA. 
+ The ­­ I would like to get to the Chief 
+
+3
+
+Justice's question earlier about why not defer to the 
+
+4
+
+Federal Circuit's view on this statute, and I think two 
+
+5
+
+principal reasons.  First of all, I don't think the 
+
+6
+
+Federal Circuit's view really has any basis in either 
+
+7
+
+the text or the history of ­­ of the ­­ of Section 285. 
+
+8
+
+So that's reason number one. 
+
+9
+
+ Reason number two is I think if the Federal 
+
+10
+
+Circuit had had a consistent view over its history or if 
+
+11
+
+the Federal Circuit were not internally divided on this 
+
+12
+
+issue, that may be a consideration.  Deference might be 
+
+13
+
+more appropriate.  But here there is no consistent 
+
+14
+
+history and the Federal Circuit, as we've seen in 
+
+15
+
+Kilopass, is divided. 
+
+16
+
+ CHIEF JUSTICE ROBERTS: 
+
+17
+
+ Mr. Phillips. 
+
+18
+19
+
+ ORAL ARGUMENT OF CARTER G. PHILLIPS 
+ ON BEHALF OF THE RESPONDENT 
+
+20
+
+ CHIEF JUSTICE ROBERTS: 
+
+21
+
+ MR. PHILLIPS: 
+
+22
+23
+
+Thank you, counsel. 
+
+Mr. Phillips. 
+
+Thank you, Mr. Chief Justice, 
+
+and may it please the Court: 
+ I'd like to start with the objective 
+
+24
+
+baseless issue in this particular case, because it seems 
+
+25
+
+to me the district court has done a very thorough job of
+
+29
+
+Alderson Reporting Company
+
+Official
+
+1
+
+analyzing every element of this case.  The district 
+
+2
+
+judge obviously presided over the entirety of this 
+
+3
+
+litigation, analyzed the case for purposes of summary 
+
+4
+
+judgment, and then reanalyzed the case for purposes of 
+
+5
+
+analyzing the merits of ­­ of the claim and to ­­ and 
+
+6
+
+whether or not this would be an exceptional case. 
+
+7
+
+ To be sure, it applied the Brooks standard, 
+
+8
+
+but basically what it analyzed was just simply whether 
+
+9
+
+there was an objectively legitimate basis for the 
+
+10
+
+decision.  It's not that it has zero merit.  Counsel 
+
+11
+
+keeps saying zero merit is objectively baseless.  That's 
+
+12
+
+not the standard.  This Court held in PRE that 
+
+13
+
+objectively baseless means that there has to be probable 
+
+14
+
+cause ­­ that it lacks probable cause to go forward, 
+
+15
+
+that it has to be reasonably possible. 
+
+16
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, in PRE, of 
+
+17
+
+course, we were concerned about infringing on First 
+
+18
+
+Amendment rights, and that's not the case here. 
+
+19
+
+ MR. PHILLIPS: 
+
+Well, I think you could argue 
+
+20
+
+that there is at least a First Amendment concern that's 
+
+21
+
+in here.  But ­­ but in any event, what it seems to me 
+
+22
+
+you really ­­
+
+23
+24
+25
+
+ CHIEF JUSTICE ROBERTS: 
+
+First Amendment 
+
+concern, what, to bring a patent case? 
+ MR. PHILLIPS: 
+
+Well, access to the courts,
+
+30
+
+Alderson Reporting Company
+
+Official
+
+1
+
+access to the courts.  Any time you talk about imposing 
+
+2
+
+multimillion dollar fee awards at the end of the 
+
+3
+
+litigation, particularly if you do it on a fairly 
+
+4
+
+arbitrary basis ­­
+
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+
+ JUSTICE SCALIA: 
+
+Do you think Congress could 
+
+not require the loser to pay ­­ in all cases? 
+ MR. PHILLIPS: 
+
+Oh, I have no doubt that 
+
+Congress could ­­
+ JUSTICE SCALIA: 
+ MR. PHILLIPS: 
+
+­­ in all cases? 
+Well, I'm not sure about in 
+
+all cases. 
+ JUSTICE SCALIA: 
+
+I mean, if it can do that, 
+
+there's certainly no First Amendment problem. 
+ MR. PHILLIPS: 
+
+Well, I'm not sure I concede 
+
+15
+
+that in all cases.  I do think in the run­of­the­mill 
+
+16
+
+cases, but when you're talking about a situation where 
+
+17
+
+you're talk ­­ where the assertion is that the conduct 
+
+18
+
+of the litigation, the bringing of the litigation itself 
+
+19
+
+is inappropriate ­­
+
+20
+
+ JUSTICE SCALIA: 
+
+That's the English rule.  It 
+
+21
+
+used to be our rule.  I don't see how you can possibly 
+
+22
+
+say that it's unconstitutional to make the loser pay. 
+
+23
+24
+25
+
+ JUSTICE KENNEDY: 
+
+This is not your best 
+
+argument. 
+ MR. PHILLIPS: 
+
+It is not my best argument, I
+
+31
+
+Alderson Reporting Company
+
+Official
+
+1
+
+appreciate that, Justice Kennedy. 
+
+2
+
+ (Laughter.) 
+
+3
+
+ MR. PHILLIPS: 
+
+On the other hand, if you ­­
+
+4
+
+if you go back and look at Christiansburg, 
+
+5
+
+Christiansburg, in that case the court also didn't treat 
+
+6
+
+it as a First Amendment issue, but it still recognizes 
+
+7
+
+an important policy of ­­ of trying not to have too much 
+
+8
+
+interference with access to the courts. 
+
+9
+
+ In any event, objectively baseless is a 
+
+10
+
+standard that every court knows how to use and it goes 
+
+11
+
+directly to the ultimate ­­
+
+12
+
+ JUSTICE SOTOMAYOR: 
+
+How different is this 
+
+13
+
+from sanctionable misconduct?  It seems to me that under 
+
+14
+
+the way you're articulating things, the conduct has to 
+
+15
+
+be sanctionable before you can give attorneys' fees 
+
+16
+
+under this provision.  So why bother having the 
+
+17
+
+provision? 
+
+18
+
+ MR. PHILLIPS: 
+
+Well, because the provision 
+
+19
+
+was enacted in 1952, Justice Sotomayor, long before this 
+
+20
+
+kind of litigation ­­ these kind of rules that would 
+
+21
+
+have rendered the litigation sanctionable existed, and 
+
+22
+
+so as a consequence of that ­­ and I think it's 
+
+23
+
+important to put it in context.  Because, you know, when 
+
+24
+
+Congress did this initially in 1946, to be sure, it's 
+
+25
+
+the Senate report that talks about gross injustice, but
+
+32
+
+Alderson Reporting Company
+
+Official
+
+1
+
+it is the decisions of the courts that adopted that 
+
+2
+
+approach of gross injustice.  And then when Congress, in 
+
+3
+
+1952, incorporates the exceptional case standard, the 
+
+4
+
+revisor's notes say it's designed to go back to the 
+
+5
+
+legislative history and the decisions that have been 
+
+6
+
+interpreting that. 
+
+7
+
+ JUSTICE BREYER: 
+
+Why does it always have to 
+
+8
+
+be objectively baseless?  I mean, I've read enough cases 
+
+9
+
+in this area to be able to approach it as a district 
+
+10
+
+court judge who's not expert. 
+
+11
+
+ I patent the following: 
+
+For a computer, 
+
+12
+
+enter somebody's name; ask phone number, and they'll 
+
+13
+
+give you the phone number if you put in the right city. 
+
+14
+
+That puts some lists in the computer.  They can patent 
+
+15
+
+that?  Well, you add a couple of things, and then, 
+
+16
+
+apparently, you can have an argument that they can 
+
+17
+
+patent it.  Okay?  Because it'll be very abstract 
+
+18
+
+language.  It will be able to patent almost anything. 
+
+19
+
+No, you can't finally, but objectively baseless?  Patent 
+
+20
+
+attorneys are very brilliant at figuring out just how to 
+
+21
+
+do this.  So we're never going to have attorneys' fees 
+
+22
+
+in a suit if that's your standard. 
+
+23
+
+ MR. PHILLIPS: 
+
+24
+
+ JUSTICE BREYER: 
+
+25
+
+Well ­­
+But you could couple that 
+
+with just barely over the line.  What line?  This vague
+
+33
+
+Alderson Reporting Company
+
+Official
+
+1
+
+line, no one knows what it is.  In addition, all they 
+
+2
+
+did was say, We don't want to go to court and cost you 
+
+3
+
+$2 million.  Please send us a check for 1,000, we'll 
+
+4
+
+license it for you.  They do that to 40,000 people, and 
+
+5
+
+when somebody challenges it and goes to court, it costs 
+
+6
+
+them about 2 million because every discovery in sight. 
+
+7
+
+Okay?  You see where I'm going? 
+
+8
+
+ MR. PHILLIPS: 
+
+9
+
+ JUSTICE BREYER: 
+
+Yes. 
+And so I do not see why you 
+
+10
+
+couldn't have an exceptional case where attorneys' fees 
+
+11
+
+should be shifted.  But if I'm honest about it, I cannot 
+
+12
+
+say it's objectively baseless.  I can just say it's 
+
+13
+
+pretty close to whatever that line is, which I can't 
+
+14
+
+describe and look at all this other stuff.  Are you 
+
+15
+
+going to say that I can't shift? 
+
+16
+
+ MR. PHILLIPS: 
+
+I think the problem with the 
+
+17
+
+approach you propose there, Justice Breyer, is you're 
+
+18
+
+trying to deal with a very small slice of the problem of 
+
+19
+
+litigation.  You know, what you've described ­­
+
+20
+
+ JUSTICE BREYER: 
+
+No, no, but I’m ­­ of course, 
+
+21
+
+it may be a small slice of litigation, but it is a slice 
+
+22
+
+that costs a lot of people a lot of money. 
+
+23
+
+ MR. PHILLIPS: 
+
+24
+
+ JUSTICE BREYER: 
+
+25
+
+But the problem ­­
+And so I would like to know 
+
+if I do run across that small slice why cannot I, the
+
+34
+
+Alderson Reporting Company
+
+Official
+
+1
+
+district judge, say, I've see all these things, taken 
+
+2
+
+together they spell serious injustice, and therefore, 
+
+3
+
+I'm shifting the fees.  Okay? 
+
+4
+
+ Why can I not do that even though, as I've 
+
+5
+
+just said and repeat, I cannot in honesty say it's 
+
+6
+
+frivolous given the standards for patenting that seem to 
+
+7
+
+be administered? 
+
+8
+9
+
+ MR. PHILLIPS: 
+
+Because when Congress enacted 
+
+the statute, adopted the exceptional­case standard, it 
+
+10
+
+meant, essentially, to require that the litigation be 
+
+11
+
+unjustified and vexatious.  Unjustified means that it is 
+
+12
+
+baseless.  That's the understanding that existed all 
+
+13
+
+along.  It has to have ­­ it's not that it has zero 
+
+14
+
+merit, but it has to have enough merit to be ­­ to 
+
+15
+
+satisfy the standards of probable cause. 
+
+16
+
+ JUSTICE KENNEDY: 
+
+Well, baseless is at the 
+
+17
+
+end of the day ­­ I mean, you have a case that involves 
+
+18
+
+a straight stroke rail that at one end goes in an 
+
+19
+
+elliptical arc, and the district judge had to figure 
+
+20
+
+this out with all the experts.  After he goes through 
+
+21
+
+all the underbrush, he finds there's nothing there.  And 
+
+22
+
+it's hard to say that that's objectively baseless to a 
+
+23
+
+district judge who's spent weeks studying this thing. 
+
+24
+
+But at the end of the day, suppose he finds there's 
+
+25
+
+nothing there?
+
+35
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ MR. PHILLIPS: 
+
+Well, if at the end of the 
+
+2
+
+day there's nothing there, then I think it is 
+
+3
+
+objectively baseless, even though they've gone through 
+
+4
+
+the litigation.  But what the district judge ­­
+
+5
+
+ JUSTICE BREYER: 
+
+Not nothing there.  It's 
+
+6
+
+highly abstract language.  I gather you, like I, have 
+
+7
+
+read some of these claims.  They are very hard to 
+
+8
+
+understand and when you get to the bottom of it, the 
+
+9
+
+abstract nature of the language, plus the fact that it 
+
+10
+
+has something to do with computer input, plus the fact 
+
+11
+
+that, you know, you suspect very strongly it's baseless, 
+
+12
+
+but you really don't like to say something that isn't 
+
+13
+
+true and you can say, well, I could see how somebody 
+
+14
+
+might think there was something to this claim, just in 
+
+15
+
+that tone of voice, which you can't write down that tone 
+
+16
+
+of voice.  You see? 
+
+17
+
+ (Laughter.) 
+
+18
+
+ MR. PHILLIPS: 
+
+19
+
+the opinions, actually. 
+
+It usually comes through in 
+
+20
+
+ JUSTICE BREYER: 
+
+21
+
+ You see the problem. 
+
+22
+23
+
+Yes. 
+I don't see why it 
+
+shouldn't be ­­
+ MR. PHILLIPS: 
+
+But, Justice Breyer, you 
+
+24
+
+know, the case you have in front of you though is not a 
+
+25
+
+case like that.
+
+36
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ JUSTICE BREYER: 
+
+Well, let's send it back 
+
+2
+
+and tell them that they were imposing a standard that 
+
+3
+
+was too narrow, that was ­­ didn't take count of all the 
+
+4
+
+circumstances where something could be unusually ­­
+
+5
+
+ MR. PHILLIPS: 
+
+6
+
+ JUSTICE BREYER: 
+
+But see ­­
+­­ unjust, and then let 
+
+7
+
+them, no clear and convincing, but it's up to you, 
+
+8
+
+district judge.  You're the expert on litigation.  You 
+
+9
+
+decide. 
+
+10
+
+ MR. PHILLIPS: 
+
+Can I say two things about 
+
+11
+
+that?  First of all, the clear and convincing evidence 
+
+12
+
+issue is not in the case.  It wasn't ­­ they didn't seek 
+
+13
+
+certiorari on that issue.  You know, if the Court ­­
+
+14
+
+ JUSTICE GINSBURG: 
+
+If the Court is dealing 
+
+15
+
+with the Federal Circuit's test and it's got these two 
+
+16
+
+things, baseless and ­­
+
+17
+
+ MR. PHILLIPS: 
+
+18
+
+ JUSTICE GINSBURG: 
+
+Subjective ­­
+­­ subjectively, and 
+
+19
+
+clear and convincing evidence, I think to leave out that 
+
+20
+
+piece of it when it all comes out of that one paragraph 
+
+21
+
+in the Brooks Furniture case, so I think once the case 
+
+22
+
+is before us, if we leave out that one piece ­­
+
+23
+
+ MR. PHILLIPS: 
+
+I don't ­­ well, Justice 
+
+24
+
+Ginsburg, I do not believe that the clear and convincing 
+
+25
+
+evidence standard is fairly subsumed within the question
+
+37
+
+Alderson Reporting Company
+
+Official
+
+1
+
+of whether or not the objective baselessness standard 
+
+2
+
+ought to be applied, any more than the second case 
+
+3
+
+you're going to hear today is subsumed by this case. 
+
+4
+
+Those are ­­ I mean, they all come out of the Federal 
+
+5
+
+Circuit, but it seems to me you ought to hear ­­ you 
+
+6
+
+ought to grant separately on the question of the 
+
+7
+
+standard of review or the standard of proof at the 
+
+8
+
+appropriate time. 
+
+9
+
+ JUSTICE GINSBURG: 
+
+Well, why don't why don't 
+
+10
+
+we just take ­­ there's another statute, as you know, 
+
+11
+
+that has identical wording, the Lanham Act, and that 
+
+12
+
+says exceptional means not run of the mine, uncommon. 
+
+13
+
+And then there's a nice illustration, a case from the 
+
+14
+
+D.C. Circuit. 
+
+15
+
+ MR. PHILLIPS: 
+
+16
+
+ JUSTICE GINSBURG: 
+
+17
+18
+
+I read that opinion. 
+Why don't we say, Well, 
+
+we have it there in the Lanham Act, the same words. 
+ MR. PHILLIPS: 
+
+Right.  But there are a 
+
+19
+
+couple of reasons for that.  One is obviously this 
+
+20
+
+statute was passed long before the Lanham Act was 
+
+21
+
+enacted and against a very different backdrop, and 
+
+22
+
+Congress clearly, in literally sticking its toe in the 
+
+23
+
+water of allowing prevailing defendants to get fees from 
+
+24
+
+plaintiffs in a situation was pretty unprecedented at 
+
+25
+
+that point in time, set the standard very high and
+
+38
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+intended for it to prevent gross injustice. 
+ The legislative history of the Lanham Act, 
+
+3
+
+which this Court apparently was willing to read for 
+
+4
+
+those purposes at that time, doesn't ­­ doesn't remotely 
+
+5
+
+suggest that.  And the Court didn't take into account in 
+
+6
+
+that opinion the ­­ the standards under the Patent Act 
+
+7
+
+in interpreting the Lanham Act.  So it seems to me you 
+
+8
+
+could make the argument the opposite way ­­
+
+9
+10
+11
+
+ JUSTICE GINSBURG: 
+ MR. PHILLIPS: 
+
+But you just look to ­­
+­­ which is that the Lanham 
+
+Act ought to be interpreted ­­
+
+12
+
+ JUSTICE GINSBURG: 
+
+13
+
+ MR. PHILLIPS: 
+
+14
+
+ JUSTICE GINSBURG: ­­ and the text is 
+
+You look to the text ­­
+­­ the way I propose. 
+
+15
+
+identical in both.  The legislative history, some people 
+
+16
+
+like it, some people don't.  But the text is identical. 
+
+17
+
+So I think it would be odd to construe the very same 
+
+18
+
+words in the context of the Lanham Act one way and a 
+
+19
+
+different way in the context of the Patent Act. 
+
+20
+
+ MR. PHILLIPS: 
+
+Well, I ­­ I ­­ two answers 
+
+21
+
+to that.  One is, you know, if you ­­ if you want to ­­
+
+22
+
+if you want to interpret them in tandem, I would say you 
+
+23
+
+should interpret the Patent Act in the strict way that 
+
+24
+
+Congress intended it to be interpreted in 1952, and the 
+
+25
+
+Lanham Act should follow that.
+
+39
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ The alternative is there is a different 
+
+2
+
+history.  Patent litigation and trademark litigation are 
+
+3
+
+very, very different in the impact that they have.  And 
+
+4
+
+as a consequence, you could in fact say that Congress 
+
+5
+
+didn't intend that. 
+
+6
+
+ But ­­ but, you know, I ­­ that seems to me, 
+
+7
+
+in some ways, the tail wagging the dog, and that ­­ and 
+
+8
+
+that's a mistake. 
+
+9
+
+ JUSTICE SOTOMAYOR: 
+
+10
+
+ MR. PHILLIPS: 
+
+11
+
+ JUSTICE SOTOMAYOR: 
+
+12
+
+ MR. PHILLIPS: 
+
+Mr. Phillips ­­
+Justice Breyer ­­
+Please ­­
+The one thing I do want to 
+
+13
+
+say, Justice Breyer, in ­­ in response to ­­ to your 
+
+14
+
+argument about why don't you leave it for the district 
+
+15
+
+court in that ­­ in that circumstance.  The problem is, 
+
+16
+
+is what you're saying to plaintiffs who bring patent 
+
+17
+
+litigation with ­­ with, in this case, counsel's advice 
+
+18
+
+and experts' advice.  They got the machines.  They did 
+
+19
+
+everything you'd want a litigant to do before bringing a 
+
+20
+
+litigation.  They handled the case.  They spend more 
+
+21
+
+money on legal fees as the plaintiff than the defendants 
+
+22
+
+did in this case.  They have to hire an expert.  They 
+
+23
+
+put in ­­ in play the validity of their patent. 
+
+24
+25
+
+ There are lots of disincentives for 
+plaintiffs to bring in this case.  And at the end of the
+
+40
+
+Alderson Reporting Company
+
+Official
+
+1
+
+process, based on a completely indeterminate standard, 
+
+2
+
+the district court would then retain authority to say, I 
+
+3
+
+conclude that what you did here is unreasonable. 
+
+4
+
+ JUSTICE BREYER: 
+
+That's true, but you could 
+
+5
+
+then appeal.  I mean, you're making an argument on the 
+
+6
+
+merits there.  And really the question is, is who's 
+
+7
+
+better suited to figure out whether this is a ­­ whether 
+
+8
+
+this is a really special case. 
+
+9
+
+ And if, you know, of course, you're right. 
+
+10
+
+Plaintiffs are often right in these things, and 
+
+11
+
+sometimes they are wrong.  So ­­ and they costs 
+
+12
+
+everybody a lot of money.  So you go to the Federal 
+
+13
+
+Circuit and ask them to review it for an abuse of 
+
+14
+
+discretion. 
+
+15
+
+ JUSTICE SCALIA: 
+
+Mr. Phillips, their lawyers 
+
+16
+
+might well have given them different advice if they 
+
+17
+
+didn't know that, Hey, nothing to lose, given the test 
+
+18
+
+that the Federal Circuit has, you know. 
+
+19
+
+ MR. PHILLIPS: 
+
+Well, I mean, the idea that 
+
+20
+
+there's nothing to lose ­­
+
+21
+
+ JUSTICE SCALIA: 
+
+22
+
+would give the same advice.  Bring the suit. 
+
+23
+
+ MR. PHILLIPS: 
+
+24
+
+ JUSTICE SCALIA: 
+
+25
+
+Hey, I would give ­­ I 
+
+Justice Scalia ­­
+This guy is a possible 
+
+competitor, sue him.  Hey, there's nothing to lose.
+
+41
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ MR. PHILLIPS: 
+
+But there is something to 
+
+2
+
+lose.  First of all, as I say, the plaintiff ­­ this ­­
+
+3
+
+you know, there's a reason why you don't see 
+
+4
+
+advertisements on television when Saiontz & Kirk says, 
+
+5
+
+If you think your patent has been infringed, call us. 
+
+6
+
+ Why? 
+
+Because there's not a long line of 
+
+7
+
+people who can bring plaintiffs' patent cases.  They are 
+
+8
+
+expensive to litigate, and the ultimate effect ­­ and 
+
+9
+
+you have to get an expert, and ­­ and at the end, you 
+
+10
+11
+
+put your patent into validity. 
+ JUSTICE SCALIA: 
+
+If it goes to litigation, 
+
+12
+
+yes.  But if ­­ if the alternative for the defendant is 
+
+13
+
+either, you know, spend $2 million defending or pay off 
+
+14
+
+the $10,000 that ­­ that the plaintiff demands to go 
+
+15
+
+away, hey, that's an easy call. 
+
+16
+
+ MR. PHILLIPS: 
+
+Well, I mean, I don't know 
+
+17
+
+whether that's an easy call for the defendant.  Doesn't 
+
+18
+
+make the ­­ it doesn't make the decision for the 
+
+19
+
+plaintiff all that easy to ­­ at the beginning of the 
+
+20
+
+process because, as I say, it's both expensive and it 
+
+21
+
+puts the validity of the patent at issue. 
+
+22
+
+ And in most cases, you know, the Federal 
+
+23
+
+Circuit, long time ago ­­ or not that long ago said that 
+
+24
+
+the inequitable conduct, that is challenging what the 
+
+25
+
+plaintiff did before the PTO had become a plague of
+
+42
+
+Alderson Reporting Company
+
+Official
+
+1
+
+patent litigation.  So plaintiffs who walk into court 
+
+2
+
+under those circumstances are not doing it without risk. 
+
+3
+
+ JUSTICE BREYER: 
+
+Yeah, but the ­­ the 
+
+4
+
+difficulty here, I not ­­ see it from my point of view 
+
+5
+
+for a second.  Of course I think that ­­ that there's no 
+
+6
+
+plaintiff/defendant necessary difference of who can act 
+
+7
+
+badly. 
+
+8
+
+ MR. PHILLIPS: 
+
+9
+
+ JUSTICE BREYER: 
+
+Of course. 
+All right.  And ­­ and so 
+
+10
+
+the question is really who is likely most to know.  And 
+
+11
+
+I think probably the district court.  But then if you 
+
+12
+
+give the power to the district court, there's a problem, 
+
+13
+
+of course, that you'll abuse it. 
+
+14
+
+ So I say, Well, then go to the Federal 
+
+15
+
+Circuit, and say they have.  You see, well, there's 
+
+16
+
+another way of approaching it, and that is have definite 
+
+17
+
+standards, which is what you want.  And then the 
+
+18
+
+difficulty with definite standards is I can't think of a 
+
+19
+
+set of definite standards that doesn't do what you don't 
+
+20
+
+want to have happen, that it leans one way or the other. 
+
+21
+
+ I mean, it looks as if, you see, the Federal 
+
+22
+
+Circuit's current standards leaned pretty much against 
+
+23
+
+the person who was sued.  And it looks like the ­­
+
+24
+
+the ­­ and so the government comes up, well, we can't do 
+
+25
+
+better than this.  It's a long list.
+
+43
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ And ­­ and nobody's been able to think of 
+
+2
+
+some, so then I say, Okay, let's try the first approach, 
+
+3
+
+which is what we do with the Lanham Act.  That's the 
+
+4
+
+whole long story. 
+
+5
+6
+7
+
+ And what you would like to say, I'd like to 
+listen. 
+ MR. PHILLIPS: 
+
+Right.  And the answer to 
+
+8
+
+that is that the standards for inequitable conduct are 
+
+9
+
+reasonably well set.  They get applied pretty routinely, 
+
+10
+11
+
+and they create exceptional­case determinations. 
+ Litigation misconduct, the standards are 
+
+12
+
+pretty well set, pretty well understood, and they give 
+
+13
+
+rise to the exceptional­case determinations and award of 
+
+14
+
+attorneys' fees. 
+
+15
+
+ This case is unusual in the sense that all 
+
+16
+
+it deals with is that bucket that talks about whether or 
+
+17
+
+not you had a substantial basis for putting before the 
+
+18
+
+Court this litigation in the first instance.  And ­­
+
+19
+
+ JUSTICE KAGAN: 
+
+Mr. Phillips, I realize that 
+
+20
+
+you have this argument that this statute was before 
+
+21
+
+Rule 11, so the superfluity argument doesn't work. 
+
+22
+
+ But just as a matter of fact, would your 
+
+23
+
+standard give the court authority to order fees in any 
+
+24
+
+case in which it does not have authority by virtue of 
+
+25
+
+either Rule 11 or its inherent authority?
+
+44
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ MR. PHILLIPS: 
+
+Are ­­ are you ­­ are you 
+
+2
+
+asking me that just about the baseless litigation or all 
+
+3
+
+of 285?  Because clearly, inequitable conduct, willful 
+
+4
+
+infringement, and ­­ and certain forms of litigation 
+
+5
+
+misconduct, which might ­­ might create a basis for fees 
+
+6
+
+against the lawyer, might not actually operate against 
+
+7
+
+the ­­ against the party where that obviously 285 
+
+8
+
+operates against the party.  So there's a whole range 
+
+9
+
+of ­­ of behavior that is controlled by 285 that has 
+
+10
+11
+
+nothing to do with Rule 11, et cetera. 
+ So, yeah, I mean, there ­­ there's clearly 
+
+12
+
+some overlap between them, but that ­­ that overlap 
+
+13
+
+shouldn't be shocking because, again, 285 was enacted in 
+
+14
+
+1952, and Rule 11 didn't come into being a serious force 
+
+15
+
+until 1983. 
+
+16
+
+ JUSTICE KAGAN: 
+
+But let me make sure I 
+
+17
+
+understand you.  Give me an example of a case in which 
+
+18
+
+under your standard, 285 could be used to order a 
+
+19
+
+payment of fees, but Rule 11 and inherent authority 
+
+20
+
+would not allow. 
+
+21
+
+ MR. PHILLIPS: 
+
+Again, I mean, the ­­ the 
+
+22
+
+clear one ­­ again, if you're only talking about the 
+
+23
+
+baselessness component, I don't know that there is one 
+
+24
+
+like that. 
+
+25
+
+ If you're talking about inequitable conduct,
+
+45
+
+Alderson Reporting Company
+
+Official
+
+1
+
+they would all be because Rule 11 will never reach 
+
+2
+
+inequitable conduct involving the Patent and Trademark 
+
+3
+
+Office because it's completely irrelevant to that.  So 
+
+4
+
+the ­­ the statutes do have some overlap, but they don't 
+
+5
+
+have complete correspondence. 
+
+6
+
+ But that ­­ but to me, that's the key. 
+
+7
+
+ JUSTICE KAGAN: 
+
+Inequitable conduct to the 
+
+8
+
+Trademark Office, but not with respect to the suit 
+
+9
+
+itself? 
+
+10
+11
+
+ MR. PHILLIPS: 
+
+Right.  Right.  There is 
+
+patent misconduct. 
+
+12
+
+ JUSTICE KAGAN: 
+
+13
+
+ MR. PHILLIPS: 
+
+14
+
+ JUSTICE KAGAN: 
+
+So there's nothing ­­
+There is ­­
+There's nothing with respect 
+
+15
+
+to the suit itself that Rule 11 and inherent authority 
+
+16
+
+wouldn't get you anyway. 
+
+17
+
+ MR. PHILLIPS: 
+
+Well, litigation misconduct 
+
+18
+
+is something that may or may not go against the party, 
+
+19
+
+depending on which rule it is and how it plays out.  So 
+
+20
+
+there ­­ and the courts have long recognized that 
+
+21
+
+certain forms of vexatious behavior by litigants may 
+
+22
+
+lead you to a particular ­­ to ­­ to determine that 
+
+23
+
+something's an exceptional case.  So there ­­ there seem 
+
+24
+
+to me clearly there might be. 
+
+25
+
+ What I'm ­­ what I am conceding is that I ­­
+
+46
+
+Alderson Reporting Company
+
+Official
+
+1
+
+I can't envision a situation where you have brought what 
+
+2
+
+a court has said is objectively baseless litigation in 
+
+3
+
+the first instance that might not have been actionable 
+
+4
+
+under Rule 11.  The question would be ­­ it would be ­­
+
+5
+
+at this ­­ at this stage it would go immediately against 
+
+6
+
+the party as opposed to potentially against the lawyer. 
+
+7
+
+And ­­ and to that extent, it obviously provides broader 
+
+8
+
+relief, depending on which of the two parties might 
+
+9
+
+actually have more resources. 
+
+10
+
+ JUSTICE GINSBURG: 
+
+What about the inherent 
+
+11
+
+authority ­­ Justice Kagan brought this up ­­ not just 
+
+12
+
+Rule 11, but inherent authority when the court finds 
+
+13
+
+that the litigation is baseless and brought in bad 
+
+14
+
+faith?  It seems to me that your standard is the same as 
+
+15
+
+what the Court could do without any statute.  Are there 
+
+16
+
+other pieces ­­
+
+17
+
+ MR. PHILLIPS: 
+
+Well, today ­­ today 
+
+18
+
+that's ­­ I think that may be true.  I don't think that 
+
+19
+
+was true in 1946 and then again in 1952.  The ­­ the 
+
+20
+
+whole notion of shifting fees to a ­­ to a losing 
+
+21
+
+plaintiff was ­­ was all but unprecedented at the time. 
+
+22
+
+And the best evidence we have of ­­ of the circumstances 
+
+23
+
+in which Congress wanted to have those fees imposed 
+
+24
+
+is ­­ is to prevent a gross injustice.  And it seems to 
+
+25
+
+me nothing better suits that test than something that is
+
+47
+
+Alderson Reporting Company
+
+Official
+
+1
+
+objectively baseless, as ­­ as just that one bucket 
+
+2
+
+within which 285 operates.  The other buckets, 
+
+3
+
+obviously, equally involve situations of gross 
+
+4
+
+injustice. 
+
+5
+6
+
+ JUSTICE SOTOMAYOR: 
+faith come in? 
+
+7
+
+ MR. PHILLIPS: 
+
+8
+
+ JUSTICE SOTOMAYOR: 
+
+9
+10
+
+So where does the bad 
+
+I'm sorry? 
+Where does the bad faith 
+
+come in?  Rule 11 doesn't include bad faith.  It just ­­
+ MR. PHILLIPS: 
+
+I mean, we ­­ we obviously 
+
+11
+
+have, because it's in the Federal Circuit's standard, 
+
+12
+
+we ­­ we embrace it, but the reality is we ­­ I don't 
+
+13
+
+need to win the bad faith argument if this Court 
+
+14
+
+concluded that bad faith is ­­ it shouldn't be an 
+
+15
+
+independent factor.  That would ­­ that would not bother 
+
+16
+
+me because the district judge already found that this is 
+
+17
+
+objectively not baseless, so there ought to be a basis 
+
+18
+
+for affirmance on that ground alone. 
+
+19
+
+ Alternatively, the Court obviously could 
+
+20
+
+wait for another case in which to take up that issue. 
+
+21
+
+I ­­ I ­­ but we don't need to win that in order to 
+
+22
+
+prevail on this particular case, and it certainly 
+
+23
+
+wouldn't cause me any heartburn if the Court were to ­­
+
+24
+
+to jettison that part of it. 
+
+25
+
+ JUSTICE SOTOMAYOR: 
+
+Would you address the
+
+48
+
+Alderson Reporting Company
+
+Official
+
+1
+
+clear and convincing? 
+
+2
+
+ MR. PHILLIPS: 
+
+3
+
+ JUSTICE SOTOMAYOR: 
+
+4
+5
+
+Yeah, I ­­ well. 
+I know your argument 
+
+that it's not ­­
+ MR. PHILLIPS: 
+
+It's not in the ­­ that it's 
+
+6
+
+not before us.  I mean, the rationale of clear and 
+
+7
+
+convincing obviously is that ­­ is whether you assume 
+
+8
+
+that the patent is being implemented in good faith or being 
+
+9
+
+­­ being brought in good faith and therefore creates 
+
+10
+
+sort of a presumption in favor of the ­­ of infringement 
+
+11
+
+and legitimacy; and then clear and convincing evidence 
+
+12
+
+is obviously designed to make it harder to get over that 
+
+13
+
+hurdle. 
+
+14
+
+ Again, I ­­ I'm not here to defend the clear 
+
+15
+
+and convincing evidence standard.  I ­­ I read the 
+
+16
+
+concurring opinion in the Federal Circuit as well and ­­
+
+17
+
+but it seems to me clearly not in this case.  It's not 
+
+18
+
+subsumed by the question presented and that's ­­ that's 
+
+19
+
+an issue that the Court ought to wait for another day. 
+
+20
+
+Hopefully I won't have to defend it at that time. 
+
+21
+
+ (Laughter.) 
+
+22
+
+ MR. PHILLIPS: 
+
+If there are no further 
+
+23
+
+questions, Your Honors, I'd urge you to affirm.  Thank 
+
+24
+
+you. 
+
+25
+
+ CHIEF JUSTICE ROBERTS: 
+
+49
+
+Alderson Reporting Company
+
+Thank you, counsel.
+
+Official
+
+1
+
+ Mr. Telscher, you have 3 minutes remaining. 
+
+2
+
+ JUSTICE KENNEDY: 
+
+3
+4
+5
+6
+
+Take ­­ take your time, 
+
+take your time. 
+ REBUTTAL ARGUMENT OF RUDOLPH A. TELSCHER 
+ ON BEHALF OF THE PETITIONER 
+ MR. TELSCHER: 
+
+Thank you.  What we're all 
+
+7
+
+really talking about here is how extreme should the test 
+
+8
+
+be for an exceptional case.  I mean, that's what this 
+
+9
+
+boils down to.  Should it be at the extreme of 
+
+10
+
+frivolousness, or what we believe objectively baseless 
+
+11
+
+means the same thing ­­ that's how the district court 
+
+12
+
+used it ­­ or should it be something lesser that's 
+
+13
+
+practical. 
+
+14
+
+ The plain meaning of exceptional doesn't 
+
+15
+
+mean extreme.  As the D.C. Circuit found in Noxell, it's 
+
+16
+
+not a hardly ever rule.  So when we look at the plain 
+
+17
+
+meaning it doesn't signal extreme.  When we consider the 
+
+18
+
+larger objectives of the Patent Act which this Court has 
+
+19
+
+discussed in numerous cases.  You look at Pope and Lear, 
+
+20
+
+where this Court said there's an important public 
+
+21
+
+interest in making sure, quote, worthless patents are 
+
+22
+
+not used to restrain trade. 
+
+23
+
+ Four weeks ago in Medtronic this Court found 
+
+24
+
+that we should have a paramount interest in making sure 
+
+25
+
+the bounds of patents are not unreasonably stretched to
+
+50
+
+Alderson Reporting Company
+
+Official
+
+1
+
+get royalties.  And so when we consider the larger 
+
+2
+
+objective, what we're looking for is a balance, and if 
+
+3
+
+you look to this Court's precedent in Martin, where 
+
+4
+
+there was no standard, what this Court found is when you 
+
+5
+
+look to the larger objectives and you want to encourage 
+
+6
+
+good conduct and you want to discourage bad conduct, you 
+
+7
+
+set it at reasonable.  You don't set it at the extreme 
+
+8
+
+of frivolousness, which smart lawyers know how not to do 
+
+9
+
+that, how not to get sanctioned under Rule 11. 
+
+10
+
+ And in the complex world of patent cases 
+
+11
+
+it's not hard to avoid frivolous cases.  So setting an 
+
+12
+
+extreme standard would defeat the whole purpose of the 
+
+13
+
+Act and it's inconsistent with the language. 
+
+14
+
+ On the topic of injustice versus gross 
+
+15
+
+injustice, I found that very interesting, because 
+
+16
+
+certainly exceptional, there's nothing about it that 
+
+17
+
+signals gross injustice versus injustice.  And to the 
+
+18
+
+extent ­­ because I think the question was asked by one 
+
+19
+
+of the Justices, well, doesn't that ­­ that signal 
+
+20
+
+extreme conduct?  I don't know that it does or doesn't, 
+
+21
+
+but certainly the plain meaning of the statute doesn't. 
+
+22
+
+ And so to the extent that gross injustice, 
+
+23
+
+as used in this Court's opinion, it has to signal 
+
+24
+
+something other than the extreme conduct.  We could debate 
+
+25
+
+whether winning a hard­fought case and spending
+
+51
+
+Alderson Reporting Company
+
+Official
+
+1
+
+2 million is injustice.  Certainly, in my view, if you 
+
+2
+
+defend a case and spend $2 million, especially one like 
+
+3
+
+this where every core element was missing, that's gross 
+
+4
+
+injustice. 
+
+5
+
+ But I don't know what the standard is, 
+
+6
+
+justice or injustice ­­ or gross injustice.  It's just 
+
+7
+
+not extreme, and that's how this Court's opinion need to 
+
+8
+
+be written if we're going to discourage the maintenance 
+
+9
+
+of unreasonable cases. 
+
+10
+
+ And there's not 15 amici briefs and some of 
+
+11
+
+the largest technologies companies in this country 
+
+12
+
+before this Court if it weren't the case that there's a 
+
+13
+
+problem.  These are companies with a self­interest in a 
+
+14
+
+strong patent system.  They have patents; they sue.  And 
+
+15
+
+yet they are here telling this Court to not pick an 
+
+16
+
+extreme standard. 
+
+17
+
+ CHIEF JUSTICE ROBERTS: 
+
+18
+
+ The case is submitted. 
+
+19
+
+ (Whereupon at 11:09 a.m., the case in the 
+
+Thank you, counsel. 
+
+20
+
+above­entitled matter was submitted.) 
+
+21
+
+ 
+
+22
+
+ 
+
+23
+
+ 
+
+24
+
+ 
+
+25
+
+ 
+
+52
+Alderson Reporting Company
+
+

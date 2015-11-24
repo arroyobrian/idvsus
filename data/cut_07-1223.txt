@@ -1,0 +1,6760 @@
+Official - Subject to Final Review
+
+1
+
+P R O C E E D I N G S
+
+2
+
+(11:15 a.m.)
+
+3
+4
+
+CHIEF JUSTICE ROBERTS:
+
+We'll hear argument
+
+next in Case 07-1223, Bell versus Kelly.
+
+5
+
+Mr. Bress.
+
+6
+
+ORAL ARGUMENT OF RICHARD P. BRESS
+
+7
+
+ON BEHALF OF THE PETITIONER
+
+8
+9
+
+MR. BRESS:
+
+Thank you, Mr. Chief Justice,
+
+and may it please the Court:
+
+10
+
+The problem at the heart of this case is
+
+11
+
+construing subsections (d) and (e) of 28 U.S.C. 2254
+
+12
+
+together in a way that makes sense.
+
+13
+
+this Court construed those two provisions together was
+
+14
+
+in Michael Williams.
+
+15
+
+different issue.
+
+16
+
+The last time that
+
+Michael Williams presented a
+
+But we believe that looking at how Michael
+
+17
+
+Williams would play out with a small change in the facts
+
+18
+
+will help frame the issue that's before the court today.
+
+19
+
+Now, as the Court recalls, in Michael
+
+20
+
+Williams the Virginia Supreme Court denied Williams the
+
+21
+
+investigative assistance he needed in order to help
+
+22
+
+develop a claim based on his suspicions of jury
+
+23
+
+misconduct.
+
+24
+
+State court.
+
+25
+
+He, therefore, didn't make the claim in
+
+On -- in Federal court he got investigative
+3
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+assistance; and, in speaking with the investigator, two
+
+2
+
+of the jurors referred to the foreperson, Bonnie
+
+3
+
+Stinette, as Bonnie Minehart.
+
+4
+
+JUSTICE ALITO:
+
+Mr. Bress, before we get
+
+5
+
+into that, could I just ask you a threshold question?
+
+6
+
+We took this case to decide a question, and one of the
+
+7
+
+factual predicates of the question is that the State
+
+8
+
+court refused to consider certain evidence.
+
+9
+
+puzzled about that.
+
+And I'm
+
+10
+
+What was the evidence that the State court
+
+11
+
+-- do you say that the State court refused to consider
+
+12
+
+evidence that was proffered to it?
+
+13
+
+MR. BRESS:
+
+No, Your Honor.
+
+The State court
+
+14
+
+did not refuse to consider evidence proffered to it.
+
+15
+
+The State court refused to permit the full development
+
+16
+
+of the evidence.
+
+17
+
+--
+
+18
+19
+20
+
+And it -- I mean it misled the court
+
+JUSTICE GINSBURG:
+
+I didn't hear the -- the
+
+last part.
+MR. BRESS:
+
+The State court refused to
+
+21
+
+permit the evidence to be fully developed, Your Honor.
+
+22
+
+They didn't refuse to consider evidence.
+
+23
+24
+25
+
+JUSTICE SOUTER:
+
+What do you mean by that?
+
+What specifically did they MR. BRESS:
+
+Specifically, Your Honor, the
+4
+
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+State provided 120 days to develop the State habeas
+
+2
+
+petition.
+
+3
+
+different claims, including the claim that's at issue
+
+4
+
+here today.
+
+5
+
+The Petitioners during that time developed 14
+
+In the course of that they interviewed, I
+
+6
+
+think, 11 different witnesses.
+
+7
+
+assistance-of-counsel claim they got affidavits.
+
+8
+
+also interviewed all 12 jurors for five different claims
+
+9
+
+of juror misconduct.
+
+10
+11
+
+For the ineffective
+They
+
+They interviewed five different
+
+witnesses for Brady claims, et cetera.
+They ran out of time, Your Honor, and they
+
+12
+
+asked the court for more time on repeated occasions.
+
+13
+
+They asked the court to investigate -
+
+14
+
+JUSTICE ALITO:
+
+15
+16
+
+But that really does not
+
+present the question that you asked the Court to decide.
+MR. BRESS:
+
+Well, Your Honor, if you read it
+
+17
+
+that way, it would not, but I don't read the question
+
+18
+
+presented that way.
+
+19
+
+present the question of when the district court properly
+
+20
+
+hears evidence after a finding of diligence by the
+
+21
+
+prisoner and holds that the State court didn't provide a
+
+22
+
+full and fair opportunity to that prisoner to develop
+
+23
+
+the facts in State court, that where the evidence is
+
+24
+
+important the -- the district court may consider that
+
+25
+
+evidence, rather than giving deference to the State
+
+I read the question presented to
+
+5
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+court.
+
+2
+
+And giving deference to the State court is
+
+3
+
+not even on the table any longer in this case.
+
+4
+
+-- what the Fourth Circuit did, the Fourth Circuit took
+
+5
+
+the new evidence into account and deferred to the State
+
+6
+
+court nonetheless.
+
+7
+
+JUSTICE SCALIA:
+
+It was
+
+Why wouldn't he have
+
+8
+
+brought that new evidence to the attention of the State
+
+9
+
+court first?
+
+10
+
+attention of the State court?
+
+11
+12
+
+MR. BRESS:
+
+JUSTICE SCALIA:
+
+Well, he could have a
+
+post-conviction proceeding in the State court.
+
+15
+16
+
+He didn't have the new evidence,
+
+Your Honor.
+
+13
+14
+
+Why wasn't he obliged to bring it to the
+
+MR. BRESS:
+
+Actually, no, he couldn't, Your
+
+Honor.
+
+17
+
+JUSTICE SCALIA:
+
+18
+
+MR. BRESS:
+
+A State habeas.
+
+I'm sorry.
+
+The -- as the
+
+19
+
+Virginia Commonwealth attorneys point out in their
+
+20
+
+amicus brief, there is a rule in the Virginia State
+
+21
+
+court that any facts not set out in the habeas petition
+
+22
+
+at the State level can't be brought in later.
+
+23
+
+able to bring the facts in afterwards.
+
+24
+25
+
+CHIEF JUSTICE ROBERTS:
+
+He wasn't
+
+Well, weren't the
+
+facts merely cumulative evidence of his claim that was
+6
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+before the State court?
+
+2
+
+MR. BRESS:
+
+No, they weren't, Your Honor.
+
+3
+
+There were three categories of new facts or new evidence
+
+4
+
+that came in on Federal habeas.
+
+5
+
+And if I may, the first -- the first of them
+
+6
+
+had to do with facts that undermined the State's claim
+
+7
+
+of aggravation.
+
+8
+
+aggravating factor.
+
+9
+
+in the course of that, in developing it, their number
+
+The State relied on only one
+That was future dangerousness.
+
+And
+
+10
+
+one emphasis was on one adjudicated -- unadjudicated bad
+
+11
+
+act, and this was a story told by Billy Jo Swartz about
+
+12
+
+an alleged horrific assault on her and of Tracy
+
+13
+
+Nicholson, who was a girlfriend of the Petitioner.
+
+14
+
+What the jury didn't know at the time was
+
+15
+
+that both Tracy and her mother, who were there, said
+
+16
+
+that the incident did not occur, that there was no
+
+17
+
+assault there, and Billy Jo Swartz was a liar.
+
+18
+
+Now, on State habeas, Joanne did submit an
+
+19
+
+affidavit and, in that affidavit, said that Billy Jo
+
+20
+
+Swartz had lied.
+
+21
+
+State level, but unfortunately rather than hear the
+
+22
+
+witnesses to determine the credibility and -- the
+
+23
+
+Virginia Supreme Court instead decided against
+
+24
+
+Petitioner.
+
+25
+
+That created a dispute of fact at the
+
+CHIEF JUSTICE ROBERTS:
+7
+
+Alderson Reporting Company
+
+Well, I think that
+
+Official - Subject to Final Review
+
+1
+
+supports my suggestion, which is that the evidence was
+
+2
+
+cumulative.
+
+3
+
+was evidence on both sides.
+
+4
+
+got more evidence.
+
+5
+
+There was a dispute on that issue.
+
+MR. BRESS:
+
+There
+
+And now you say, hey, we've
+
+Well, it's not more evidence,
+
+6
+
+Your Honor; it's just that a dispute over the facts
+
+7
+
+where credibility is at issue shouldn't be decided on
+
+8
+
+the papers.
+
+9
+
+JUSTICE GINSBURG:
+
+But the Virginia Supreme
+
+10
+
+Court, on habeas, said we are going to accept as true
+
+11
+
+all the facts as the Petitioner alleged them.
+
+12
+
+specifically "all facts alleged in the petition will be
+
+13
+
+taken as true."
+
+14
+15
+
+MR. BRESS:
+
+They said
+
+And if they had done that, Your
+
+Honor, I think that we'd be in a different position.
+
+16
+
+JUSTICE GINSBURG:
+
+17
+
+MR. BRESS:
+
+They said they did.
+
+They said, on the one hand, they
+
+18
+
+did, and yet, on the other hand, when they were looking,
+
+19
+
+for example, at Joanne Nicholson's testimony, they said
+
+20
+
+she could have been effectively impeached by other
+
+21
+
+statements that she had made, that in their household,
+
+22
+
+she had never seen Bell be physically abusive to her
+
+23
+
+daughter.
+
+24
+
+have said throughout that he was never physically
+
+25
+
+abusive to Tracy.
+
+Now, Joanne Nicholson and Tracy Nicholson
+
+The supposed impeachment would have
+8
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+come from police court records that have never been
+
+2
+
+introduced in this case.
+
+3
+
+without a hearing, just said, on the one hand, we accept
+
+4
+
+these facts as true and, on the other hand, even though
+
+5
+
+Joanne Nicholson would testify that this event never
+
+6
+
+occurred that way, she would have been impeached so the
+
+7
+
+jury wouldn't have believed it.
+
+8
+9
+
+JUSTICE ALITO:
+
+So the Virginia Supreme Court,
+
+Well, your argument is
+
+dependent on the proposition that the claim that was
+
+10
+
+advanced in the Federal habeas proceeding is a different
+
+11
+
+claim from a claim that was adjudicated on the merits in
+
+12
+
+the State court?
+
+13
+
+MR. BRESS:
+
+That's right, Your Honor.
+
+14
+
+JUSTICE ALITO:
+
+And if that's the case, I
+
+15
+
+don't understand why your adversary is not correct that
+
+16
+
+it will always be possible in capital cases for an
+
+17
+
+ineffective assistance of counsel claim that has been
+
+18
+
+adjudicated on the merits in the State court to be
+
+19
+
+advanced and get de novo review in Federal habeas, where
+
+20
+
+every aspect of the defendant's life that is potentially
+
+21
+
+favorable can be advanced as a basis for mitigation.
+
+22
+
+You know, when your firm with all of its expertise and
+
+23
+
+resources comes into the case at the Federal habeas
+
+24
+
+level, will it not always be the case that you will be
+
+25
+
+able to find some additional mitigation evidence and
+9
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+then, under your theory, that will be a new claim and it
+
+2
+
+well get de novo review?
+
+3
+
+MR. BRESS:
+
+I'd like to answer that
+
+4
+
+question, Justice Alito, in two ways:
+
+5
+
+practical, which is that the Ninth and Tenth Circuits
+
+6
+
+have adopted the rule that we advocated for years.
+
+7
+
+Sixth Circuit and the Fourth Circuit have adopted that
+
+8
+
+rule for Brady claims, and we haven't seen the flood
+
+9
+
+that supposedly is going to come through the gates.
+
+10
+
+One very
+
+Secondly, on a more theoretical level, for
+
+11
+
+someone to be able to introduce this new evidence on
+
+12
+
+Federal habeas, they have to first be able to
+
+13
+
+demonstrate that they were diligent in attempting
+
+14
+
+formulate it in the State court.
+
+15
+
+be able to demonstrate that it's important and
+
+16
+
+importantly changes the overall factual mix.
+
+17
+
+The
+
+JUSTICE GINSBURG:
+
+Second, they've got to
+
+Now -
+
+I don't get the diligence
+
+18
+
+part because the whole ineffective assistance of counsel
+
+19
+
+is the client isn't expected to do any of this; it's
+
+20
+
+counsel that's been ineffective.
+
+21
+
+MR. BRESS:
+
+Your Honor, I'm referring to
+
+22
+
+Michael Williams, which talks about diligence by the
+
+23
+
+State habeas counsel.
+
+24
+25
+
+JUSTICE GINSBURG:
+
+So, it doesn't translate
+
+into ineffective assistance of counsel because the
+10
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+client is not the one -- the lawyer has been -- has not
+
+2
+
+been diligent, but there is nothing that the client
+
+3
+
+could do.
+
+I just don't see how -
+
+4
+
+MR. BRESS:
+
+Well -
+
+5
+
+JUSTICE GINSBURG:
+
+-- how you could talk
+
+6
+
+about the diligent -- the diligent client bringing up
+
+7
+
+the ineffectiveness of his lawyer.
+
+8
+
+MR. BRESS:
+
+9
+
+Your Honor, we understand and
+
+appreciate the diligence of habeas counsel is not any
+
+10
+
+kind of excuse and can't be -- statutorily it can't be,
+
+11
+
+actually under 2554, but what we are talking about is
+
+12
+
+whether the prisoner and his counsel were diligent in
+
+13
+
+seeking to develop the facts for their claim when they
+
+14
+
+were on State habeas.
+
+15
+
+to do with it.
+
+16
+
+reasonable efforts and said that the contrary would be
+
+17
+
+negligence.
+
+18
+
+That's what Michael Williams had
+
+Michael Williams equated diligence with
+
+In this case we've got a finding by the
+
+19
+
+district court that Bell and his lawyers were diligent
+
+20
+
+in seeking to develop their ineffective assistance of
+
+21
+
+counsel claim at State habeas.
+
+22
+
+them under (e), that's what says that they didn't fail
+
+23
+
+to develop the evidence under (e)(2) and allows them to
+
+24
+
+go through the gate of (e).
+
+25
+
+And that's what allows
+
+Now, in order to get here, you have to
+11
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+demonstrate that diligence.
+
+2
+
+demonstrate that you're able to develop new facts that
+
+3
+
+matter, that are important, that are significant.
+
+4
+
+JUSTICE GINSBURG:
+
+You also have to
+
+But you use the -- to say
+
+5
+
+that it's a new claim, because that's what it has to be,
+
+6
+
+right, but it's such an extraordinary use of "claim."
+
+7
+
+mean, we have exhibit cases, the notion is a claim, is a
+
+8
+
+tort claim or a contract claim, but not additional
+
+9
+
+evidence in support of the basic claim.
+
+10
+11
+
+I
+
+The basic claim
+
+is ineffective assistance of counsel.
+MR. BRESS:
+
+Your Honor, I appreciate that
+
+12
+
+it's not "claim" as it's used ordinarily in the Rules of
+
+13
+
+Civil Procedure or when you're talking about making
+
+14
+
+claims in that sort of a complaint.
+
+15
+
+Court, including an opinion -- Banks v. Dretke, for
+
+16
+
+example, talked about the two different Brady claims in
+
+17
+
+that case as separate claims, even though they were
+
+18
+
+withholdings by the same prosecutor.
+
+19
+
+in Michael Williams, there were two separate
+
+20
+
+withholdings of evidence to impeach the same witness.
+
+21
+22
+
+JUSTICE BREYER:
+
+More closely even,
+
+All right.
+
+So I'm trying
+
+to figure out how the statute works.
+
+23
+
+MR. BRESS:
+
+24
+
+JUSTICE BREYER:
+
+25
+
+However, this
+
+Yes.
+And it seems to me that the
+
+way it's supposed to work -- have you read, by the way,
+12
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+the facts of the case for December in Bell v. Cohen?
+
+2
+
+No?
+
+3
+
+because it's similar to the hypothetical I'm thinking
+
+4
+
+of.
+
+Okay.
+
+5
+
+Forget that.
+
+I was going to shorthand that
+
+What happens is that the -- the State court
+
+6
+
+now says, okay, I assume all the facts in your favor and
+
+7
+
+you don't prevail.
+
+8
+
+Federal court and he has some new facts.
+
+9
+
+they are such that they transform the claim and it's a
+
+All right.
+
+Now, he goes into
+Now, either
+
+10
+
+new claim.
+
+11
+
+for that, maybe not in yours, or they aren't.
+
+12
+
+they aren't, then what he is supposed to do, the judge,
+
+13
+
+is go look and decide on the basis of what they
+
+14
+
+presented to the State.
+
+15
+
+I mean, in that case there is an argument
+Now, if
+
+That's the end of it.
+
+Now, if they are, he is supposed to exhaust.
+
+16
+
+You go back, you exhaust this new claim like any other
+
+17
+
+new claim, and if the State bars it, then you go and see
+
+18
+
+if there was cause and prejudice.
+
+19
+
+supposed to work.
+
+20
+
+then you have the hearing.
+
+21
+
+supposed to work factually.
+
+22
+
+And that's how it's
+
+And if there was cause and prejudice,
+Okay?
+
+That's how it's
+
+I have no idea if that's what went on here,
+
+23
+
+but if it -- it didn't seem to me -- there was some
+
+24
+
+confusion about whether the procedures are adequate in
+
+25
+
+the State.
+
+Then there is some other thing that this
+13
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+might be the same claim.
+
+2
+
+to the question we took this case to decide, frankly,
+
+3
+
+without knowing what the basis was and whether it was
+
+4
+
+correct for the district court to give him any hearing
+
+5
+
+at all.
+
+6
+
+MR. BRESS:
+
+I mean, I don't see how we get
+
+Okay, Your Honor.
+
+I'd like to
+
+7
+
+address that.
+
+I think that that's essentially how this
+
+8
+
+works in this case.
+
+9
+
+district court did here is it first made a finding of
+
+What the district -- what the
+
+10
+
+was there diligence?
+
+11
+
+Michael Williams to even take the next step.
+
+12
+
+Petitioner -
+
+13
+
+Because it has to do that under
+
+JUSTICE BREYER:
+
+Did the
+
+That's the first step.
+
+14
+
+first step, I'd go and see -- but at any rate, you go
+
+15
+
+ahead.
+
+16
+
+MR. BRESS:
+
+Right.
+
+The
+
+But it had to take that
+
+17
+
+step.
+
+And it had to take that step, by the way, of
+
+18
+
+course, with (d) in mind as well, because this Court in
+
+19
+
+Schriro said there is no reason to have hearing if it is
+
+20
+
+separately precluded by another predicate.
+
+21
+
+obviously, it was the refusal to -- to allow mitigating
+
+22
+
+evidence.
+
+23
+
+separately under Townsend, was there a problem in State
+
+24
+
+court that -- did you have a full and fair hearing, and
+
+25
+
+if you can prove the facts that you state, would you
+
+So it does that.
+
+In Schriro,
+
+Then it determines
+
+14
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+win, and so those allowed the court the discretion to
+
+2
+
+hold a hearing.
+
+3
+
+JUSTICE BREYER:
+
+Well, why wouldn't you say
+
+4
+
+right off the bat, new claim, go present it to the State
+
+5
+
+court, and exhausts it?
+
+6
+7
+
+MR. BRESS:
+
+Well this couldn't have been
+
+presented in the State court.
+
+8
+
+JUSTICE BREYER:
+
+9
+
+MR. BRESS:
+
+10
+11
+
+Why not?
+
+Well as the State argued below,
+
+it would have been procedurally deficient.
+JUSTICE BREYER:
+
+No, no, no.
+
+Suppose we
+
+12
+
+have -- that's what I want, not these facts, but I want
+
+13
+
+the facts where really, he couldn't have discovered
+
+14
+
+this, because the first time that the district attorney
+
+15
+
+opened his files for the Brady claim was 140 days after.
+
+16
+
+So we now have some totally new, which he couldn't have
+
+17
+
+gotten; no one disputes it.
+
+18
+
+thing -- I think he would have to present it to the
+
+19
+
+State court, wouldn't he?
+
+20
+
+MR. BRESS:
+
+Where, that kind of
+
+Well, Your Honor, according to
+
+21
+
+the warden at least, in this case if you took let's say
+
+22
+
+the facts of Banks v Dretke, which this Court decided,
+
+23
+
+where when you were in front of the State court, what
+
+24
+
+you knew was that the girlfriend of the prisoner had
+
+25
+
+said that one of the witnesses was particularly close to
+15
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+law enforcement, and on that basis they made a claim, a
+
+2
+
+Brady claim in State court.
+
+3
+
+wasn't factually developed enough, all right?
+
+4
+
+It was denied because it
+
+So they went to Federal court and in Federal
+
+5
+
+court they got a lot more evidence that supported that
+
+6
+
+claim.
+
+7
+
+was a Government informant, and on that basis this Court
+
+8
+
+found cause and prejudice and addressed that that
+
+9
+
+claim -
+
+10
+
+They actually found out that in fact this person
+
+JUSTICE BREYER:
+
+Well, you must have been
+
+11
+
+assuming then that the State would not give that person
+
+12
+
+a -- a new opportunity to consider the new evidence.
+
+13
+
+MR. BRESS:
+
+14
+
+JUSTICE BREYER:
+
+15
+
+MR. BRESS:
+
+16
+17
+
+Well, that's absolutely true Suppose it were really new.
+
+The State statute is
+
+unequivocal.
+JUSTICE BREYER:
+
+Yes, but so is it in
+
+18
+
+Tennessee, and in Tennessee there is an exception where
+
+19
+
+you could bring the thing up because you couldn't
+
+20
+
+possibly have gotten over it.
+
+21
+
+MR. BRESS:
+
+Your Honor, there is no
+
+22
+
+exception here in Virginia.
+
+23
+
+JUSTICE BREYER:
+
+So in Virginia a person
+
+24
+
+discovers for the first time, 140 days later looks at
+
+25
+
+the D.A.'s files, and discovers something that shows the
+16
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+whole trial was a farce -- I mean, something
+
+2
+
+unbelievable, and there is no way for the person under
+
+3
+
+Virginia law to bring that up in a State court?
+
+4
+5
+
+MR. BRESS:
+
+Not in this sort of a claim.
+
+No, Your Honor, there isn't.
+
+6
+
+CHIEF JUSTICE ROBERTS:
+
+Mr. Bress, your -
+
+7
+
+you're argument that this can't be brought up assumes
+
+8
+
+that it is a new claim rather than the same claim,
+
+9
+
+right?
+
+Because if it were just the same claim then the
+
+10
+
+question would be it is simply cumulative rather than
+
+11
+
+new?
+
+12
+
+MR. BRESS:
+
+If it's the same claim for
+
+13
+
+2254(d) purposes, yes, Your Honor.
+
+14
+
+CHIEF JUSTICE ROBERTS:
+
+Right.
+
+And I guess
+
+15
+
+it gets back to Justice Ginsburg's question.
+
+We usually
+
+16
+
+don't consider claims different if there is just new
+
+17
+
+evidence, but here didn't the Fourth Circuit necessarily
+
+18
+
+determine that this was the same claim in deciding to
+
+19
+
+defer to the State court findings?
+
+20
+
+MR. BRESS:
+
+Yes, it did, Your Honor.
+
+The
+
+21
+
+Fourth Circuit viewed this as the same claim and that's
+
+22
+
+the root of some of our disagreement with them.
+
+23
+
+CHIEF JUSTICE ROBERTS:
+
+And if fact you got
+
+24
+
+more than you were entitled to, because it did look at
+
+25
+
+the new evidence, albeit through the guise of deference,
+17
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+but it shouldn't have even looked at that at all.
+
+2
+
+MR. BRESS:
+
+Your Honor.
+
+We would agree that
+
+3
+
+that -- that interim solution is not a plausible
+
+4
+
+solution, so we would agree with that, on the new
+
+5
+
+evidence -
+
+6
+
+CHIEF JUSTICE ROBERTS:
+
+So if we think that
+
+7
+
+they were right -- and we are, I think we are getting
+
+8
+
+away from the question presented -- if we agree that
+
+9
+
+they are right, that this is the same claim and it's
+
+10
+
+just additional evidence, then you lose.
+
+11
+
+MR. BRESS:
+
+No, not necessarily, Your Honor.
+
+12
+
+We also argued on separate grounds where the State's
+
+13
+
+procedure is inadequate, then the -- the State's
+
+14
+
+application of -- of Federal law would have been
+
+15
+
+unreasonable.
+
+16
+17
+
+JUSTICE SOUTER:
+
+Mr. Bress, may I ask you a
+
+question -
+
+18
+
+MR. BRESS:
+
+And if that's true -
+
+19
+
+JUSTICE SOUTER:
+
+May I ask you a question
+
+20
+
+which sort of goes to the utility of raising that issue
+
+21
+
+here, and it's a preliminary, not a doctrinal question.
+
+22
+
+But -
+
+23
+
+MR. BRESS:
+
+24
+
+JUSTICE SOUTER:
+
+25
+
+Sure.
+-- my understanding is that
+
+in the United States District Court on the Federal habe
+18
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+-- the district court made a -- drew a conclusion based
+
+2
+
+on the evidence before it, no deference to the State
+
+3
+
+court, that in fact your client did not demonstrate
+
+4
+
+prejudice.
+
+5
+
+although the Fourth Circuit did not rely upon that, my
+
+6
+
+understanding is that that -- that finding remains
+
+7
+
+undisturbed.
+
+8
+
+And my understanding is that that -
+
+Is that correct?
+
+MR. BRESS:
+
+Your Honor, what the district
+
+9
+
+court found, as the Fourth Circuit saw it and as we see
+
+10
+
+it, was that the State court's finding of prejudice was
+
+11
+
+not unreasonable.
+
+12
+
+the district court's oral ruling you won't see a
+
+13
+
+reference to 2254(d).
+
+Now, I acknowledge that when you read
+
+14
+
+JUSTICE SOUTER:
+
+15
+
+MR. BRESS:
+
+No.
+
+However, when you look at what
+
+16
+
+the State court wrote in its written ruling, what it
+
+17
+
+says is there is a colorable claim that the State court
+
+18
+
+was unreasonable, on -- in application of law to the
+
+19
+
+facts and development of the facts, and then it said
+
+20
+
+that they will -- that the court would not decide this
+
+21
+
+issue yet, until it has a hearing; and so the Fourth
+
+22
+
+Circuit looked at what the district court wrote and
+
+23
+
+presumed that consistent with what it had written, it
+
+24
+
+then confronted this issue, the issue of reasonability,
+
+25
+
+orally; and it didn't require that when a judge is
+19
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+saying something orally, as opposed to putting it in a
+
+2
+
+written opinion, that it dot every i and cross every t.
+
+3
+
+It assumed that it meant what it had said earlier.
+
+4
+
+this Court has any doubt about that, however, it could
+
+5
+
+certainly remand with instructions.
+
+6
+
+JUSTICE GINSBURG:
+
+If
+
+I that what it was saying
+
+7
+
+is there is legitimate -- this is a Strickland question.
+
+8
+
+Strickland has two parts.
+
+9
+
+inadequate; and Part B is did it make any difference?
+
+Part A is were counsel
+
+10
+
+It seemed to me the district court was just making a
+
+11
+
+straight out Strickland determination and not deferring
+
+12
+
+to anything else.
+
+13
+
+all the evidence, and yes -- they certainly were -- they
+
+14
+
+were not effective.
+
+15
+
+prejudice because using the strict Strickland test,
+
+16
+
+there was no reasonable likelihood that a jury would
+
+17
+
+have come out differently.
+
+18
+
+It was just saying no, I've looked at
+
+On the other hand, there is no
+
+MR. BRESS:
+
+Your Honor, consistent with the
+
+19
+
+Fourth Circuit, we don't read him to say that.
+
+20
+
+if he meant that, the Fourth Circuit certainly on -
+
+21
+
+looked at this from a reasonableness standpoint, and not
+
+22
+
+from a de novo standpoint.
+
+23
+
+court meant a de novo review and engaged in it, we still
+
+24
+
+didn't get the correct standard or review on appeal.
+
+25
+
+But even
+
+So even had the district
+
+JUSTICE SOUTER:
+
+Oh, that may be.
+
+20
+Alderson Reporting Company
+
+I didn't
+
+Official - Subject to Final Review
+
+1
+
+mean to imply you didn't have a Fourth Circuit question.
+
+2
+
+I -- I guess I was raising a question to whether it is
+
+3
+
+wise to make this the case to decide the Fourth Circuit
+
+4
+
+issue.
+
+5
+
+JUSTICE SCALIA:
+
+Mr. Bress, this case
+
+6
+
+involves Section 2254(d), right?
+
+7
+
+somewhere in the briefs?
+
+8
+
+front of me.
+
+9
+
+MR. BRESS:
+
+10
+
+It would be nice to have it in
+
+Yes, Your Honor.
+
+JUSTICE SCALIA:
+
+11
+
+thing the case is about.
+
+12
+
+briefs.
+
+13
+
+got to go back to that.
+
+14
+
+enough to be in your brief?
+
+15
+
+Does that appear
+
+I mean, it's a central
+
+I cannot find it in any of the
+
+Appendix to the petition for cert; I got -- I
+
+MR. BRESS:
+
+Don't you think it's important
+
+If I may return to the Chief
+
+16
+
+Judge's -- Chief Justice's question from earlier, there
+
+17
+
+are other new claims, new facts here that are equally
+
+18
+
+important in deciding whether this is a new claim.
+
+19
+
+example, physical child abuse first came into this case,
+
+20
+
+and really was first discovered -
+
+21
+
+CHIEF JUSTICE ROBERTS:
+
+For
+
+I know, but they're
+
+22
+
+-- your underlying theory is that if you get a lot of
+
+23
+
+new evidence, that somehow changes the claim.
+
+24
+
+again, I think Justice Ginsburg -- I'm having trouble
+
+25
+
+getting my arms around that, and particularly since it's
+21
+Alderson Reporting Company
+
+And
+
+Official - Subject to Final Review
+
+1
+
+problematic in this area where there is always new
+
+2
+
+evidence.
+
+3
+
+You're looking at someone's childhood.
+
+You
+
+4
+
+can always find a new anecdote, a new concern going
+
+5
+
+either way, that you know, this was unusual because he
+
+6
+
+was a good child, or this is excused because he had such
+
+7
+
+a bad upbringing.
+
+8
+9
+
+MR. BRESS:
+to this.
+
+Mr. Chief Justice, two responses
+
+Number one -- and you know, as I've said
+
+10
+
+before, this Court has used claim I think in similar
+
+11
+
+ways.
+
+12
+
+demonstrates that it can use it.
+
+It may have been colloquial but it at least
+
+13
+
+I'm not saying it's the most normal, or the
+
+14
+
+ordinary course definition, but I am saying that it's
+
+15
+
+the definition that's necessary to read (d) and (e)
+
+16
+
+together in a way that makes sense; and if I can just
+
+17
+
+explain why I think that's true.
+
+18
+
+If you look at (e), (e) says that you can
+
+19
+
+get a hearing even if you weren't diligent in State
+
+20
+
+court, if the facts that you need to develop were not
+
+21
+
+reasonably available in State court and if they would
+
+22
+
+prove by clear and convincing evidence that you are
+
+23
+
+innocent.
+
+24
+25
+
+CHIEF JUSTICE ROBERTS:
+
+All right, well
+
+just -- we've got two but just to stop you on one.
+22
+Alderson Reporting Company
+
+The
+
+Official - Subject to Final Review
+
+1
+
+fact that they excuse your failure to raise and present
+
+2
+
+the evidence in State court doesn't mean that when you
+
+3
+
+get the evidence you have a new claim.
+
+4
+
+that they are going to let you raise a claim you could
+
+5
+
+have raised before.
+
+6
+
+MR. BRESS:
+
+It just means
+
+Well, if what they are talking
+
+7
+
+about is -- if that includes the ability when you are in
+
+8
+
+State court -- assume, for instance, House versus Bell,
+
+9
+
+just if can take that as an example.
+
+10
+
+I'm sorry, Your Honor.
+
+11
+
+CHIEF JUSTICE ROBERTS:
+
+12
+
+MR. BRESS:
+
+I've gotten over it.
+
+I don't know, but if we can -
+
+13
+
+if we can just look at the facts of that case briefly:
+
+14
+
+Assume that in State court, despite diligent a effort,
+
+15
+
+they were able to come up with some of the evidence but
+
+16
+
+not all of the evidence that they later came up with in
+
+17
+
+terms of the blood spattering, the DNA, and such.
+
+18
+
+Their claim is denied on the -- on the
+
+19
+
+merits because they weren't able to get much of the
+
+20
+
+evidence in and denied in State courts.
+
+21
+
+go to Federal courts where they were able to bring in
+
+22
+
+all of that evidence, and let's say even more, enough to
+
+23
+
+prove by clear and convincing evidence that they were
+
+24
+
+innocent.
+
+25
+
+They couldn't
+
+Under the warden's view, you'd still go back
+23
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+to the State court opinion and decide whether it was
+
+2
+
+intrinsically reasonable.
+
+3
+
+wouldn't -- the State court gets affirmed, and none of
+
+4
+
+that new evidence of innocence comes in.
+
+5
+
+Now, I guess it's a possible solution, but
+
+6
+
+the question is:
+
+7
+
+here?
+
+8
+9
+
+And so long as it is, you
+
+Is that what Congress really intended
+
+JUSTICE BREYER:
+-- okay, so it's a new claim.
+
+I might say the new claim
+I don't know if yours is,
+
+10
+
+by the way, but suppose it's a new claim.
+
+11
+
+ought to do is go back to the State court and exhaust.
+
+12
+
+So now what you show is that that's futile.
+
+13
+
+Now we get to your question before us.
+
+14
+
+Okay.
+
+15
+
+in December than here.
+
+16
+
+get back to the State court.
+
+17
+
+happen?
+
+18
+
+So it's an imaginary case.
+
+It's less imaginary
+
+But, anyway, the -- the -- you
+Now, what is supposed to
+
+At that point I guess the statute leaves the
+
+19
+
+judge free to develop the facts.
+
+20
+
+can't.
+
+21
+
+Then what you
+
+Okay.
+
+It doesn't say you
+
+So then you do it.
+
+Now we have the question, which when we took
+
+22
+
+this we thought we could reach, but I don't know if we
+
+23
+
+can -- now we have the question:
+
+24
+
+the decision on the basis of those facts, if they have
+
+25
+
+never developed any of this in State court, fine.
+
+When the judge makes
+
+24
+Alderson Reporting Company
+
+Then
+
+Official - Subject to Final Review
+
+1
+
+have -- then just do it.
+
+2
+
+defer it.
+
+3
+
+If it is a regular case, don't
+
+But suppose some of the things have been in
+
+4
+
+State court related to this but not others.
+
+5
+
+we do?
+
+6
+
+MR. BRESS:
+
+7
+
+JUSTICE BREYER:
+
+8
+
+obvious answer to that one.
+
+9
+
+MR. BRESS:
+
+Now what do
+
+Well, Your Honor I mean that's not an
+
+I -- I think that in -- in that
+
+10
+
+case, by the way, you still have to defer to the State
+
+11
+
+factfinding.
+
+12
+
+determines particular facts.
+
+13
+
+I think you always have to when the State
+
+JUSTICE BREYER:
+
+What it's going to do is
+
+14
+
+it's going to be finding facts on the basis of certain
+
+15
+
+evidence.
+
+16
+
+granted on is the fact that you found some new evidence
+
+17
+
+that's very significant, and you couldn't possibly have
+
+18
+
+found it before.
+
+19
+20
+21
+
+And what you will have gotten your new claim
+
+Now what do we do?
+
+Do we defer in part; do
+
+we defer -- I mean now what does the district judge do?
+MR. BRESS:
+
+Well, I think that, again, you
+
+22
+
+have to defer under (e)(1) presumably to particular fact
+
+23
+
+findings and find that by clear and convincing evidence
+
+24
+
+you've disproved those facts.
+
+25
+
+think you could find the application of law to fact.
+
+But, otherwise, I don't
+
+25
+Alderson Reporting Company
+
+I
+
+Official - Subject to Final Review
+
+1
+
+don't think you can under Holland, et cetera.
+
+2
+
+Now, you know, just to make this a little
+
+3
+
+bit clearer, hopefully, in -- in Keeney, upon which this
+
+4
+
+Court drew in Michael Williams, the Court looked -- the
+
+5
+
+Court did -- looked at a potential distinction between
+
+6
+
+the failure properly to make a claim in State court and
+
+7
+
+the failure properly to develop the facts for that
+
+8
+
+claim.
+
+9
+
+Now, the Court looked at that distinction in
+
+10
+
+the context of seeing whether cause and prejudice, which
+
+11
+
+applied to certainly the major claim in the State court,
+
+12
+
+should apply to the failure to fully develop it.
+
+13
+
+what it said is that distinguishing between those two
+
+14
+
+circumstances is irrational.
+
+15
+
+And
+
+Now, I would submit that it's similarly
+
+16
+
+irrational to attribute to Congress the intent to
+
+17
+
+distinguish between the circumstances, or because of
+
+18
+
+these limitations you have in State court, despite your
+
+19
+
+effort, you weren't able to fully develop the record.
+
+20
+
+And the State decided the case on an
+
+21
+
+inadequate record.
+
+It comes to Federal court.
+
+Do you
+
+22
+
+simply defer?
+
+23
+
+the State court reasonably decided this case based on an
+
+24
+
+inadequate State court record, or do you allow that
+
+25
+
+record to be fully developed and decide it on its
+
+I mean do you simply stop when you say
+
+26
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+merits?
+
+2
+3
+
+That's, I think, the issue that we are
+presenting today.
+
+4
+
+I'd like to reserve -
+
+JUSTICE SOUTER:
+
+May I just ask one quick
+
+5
+
+question?
+
+6
+
+what you just said, the answer to the -- the need
+
+7
+
+to-exhaust point is you don't have to exhaust because
+
+8
+
+you already tried to exhaust in the State court, and
+
+9
+
+they didn't give you enough time to get your evidence
+
+10
+
+in.
+
+That is -
+
+11
+12
+
+MR. BRESS:
+
+That's precisely it, Your Honor.
+
+Thank you.
+
+13
+14
+
+The -- the answer, I take it, on -- based on
+
+CHIEF JUSTICE ROBERTS:
+
+Thank you,
+
+Mr. Bress.
+
+15
+
+Ms. Burnett.
+
+16
+
+ORAL ARGUMENT OF KATHERINE BURNETT
+
+17
+18
+19
+20
+
+ON BEHALF OF THE RESPONDENT
+MS. BURNETT:
+
+Mr. Chief Justice, and may it
+
+please the Court:
+The claim in Bell's case is the textbook
+
+21
+
+example of a claim that the effective death penalty
+
+22
+
+intended for 2254(d) to apply to.
+
+23
+
+Supreme Court, Bell presented his claim with his
+
+24
+
+allegations of what he says counsel didn't present and
+
+25
+
+didn't find at trial.
+
+In the Virginia
+
+And the Virginia Supreme Court
+27
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+assumed the truth of all of those allegations and did
+
+2
+
+not contest any of them.
+
+3
+
+dispute.
+
+4
+
+There were never any facts in
+
+The State never contested any facts.
+The State court assumed them all true, and
+
+5
+
+then applied -- faithfully applied this Court's
+
+6
+
+established precedent under Strickland and Wiggins, in
+
+7
+
+particular, and weighed that evidence that he had
+
+8
+
+claimed had not been found by his counsel against the
+
+9
+
+aggravating evidence in this case of a drug dealer who
+
+10
+
+killed premeditatedly a police officer in a small town
+
+11
+
+and upon weighing that found as a -- as a matter -- as a
+
+12
+
+de novo matter on the merits that he could not show
+
+13
+
+prejudice.
+
+14
+
+that a jury would have found a life sentence giving -
+
+15
+
+assuming the truth of everything he alleged.
+
+16
+
+Because there was no reasonable probability
+
+Now, when he went to Federal court, the
+
+17
+
+Fourth Circuit faithfully applied 2254(d) to that after
+
+18
+
+addressing all of the same evidence and also agreeing
+
+19
+
+that there was no prejudice, and then said that the
+
+20
+
+State court decision was not unreasonable under 2254(d).
+
+21
+
+Now, Bell comes to this Court and says for
+
+22
+
+the first time that I have a new claim, and that was not
+
+23
+
+made below, and this is not a new claim.
+
+24
+
+that he presented in Federal court was presented to the
+
+25
+
+State court.
+
+Everything
+
+There is absolutely no difference.
+28
+Alderson Reporting Company
+
+In
+
+Official - Subject to Final Review
+
+1
+
+fact, to the effect that there was some difference in
+
+2
+
+the district court and the State alleged -- we pleaded
+
+3
+
+default because he presented a few new affidavits.
+
+4
+
+The district court resolved that and said:
+
+5
+
+I'm not even going to look at those because they aren't
+
+6
+
+critical to my decision.
+
+7
+
+and he described in particular the exact same record
+
+8
+
+that the Virginia Supreme Court had found.
+
+9
+
+district court -
+
+10
+
+I am only going to look at -
+
+JUSTICE GINSBURG:
+
+And then the
+
+Well, what about the
+
+11
+
+point that Mr. Bress made that there wasn't enough time
+
+12
+
+in the Virginia Supreme Court on habeas to develop
+
+13
+
+everything that was later put before the district court;
+
+14
+
+that there was a very short time to get the petition in,
+
+15
+
+and there were many issues other than ineffective
+
+16
+
+assistance of counsel?
+
+17
+
+MS. BURNETT:
+
+Well, Justice Ginsburg, there
+
+18
+
+were approximately 12 issues in this case that the
+
+19
+
+district court disposed of in a very lengthy opinion.
+
+20
+
+It was only this one issue that the district court found
+
+21
+
+-- believed that he needed to have a hearing on, we
+
+22
+
+believe erroneously.
+
+23
+
+hearing and -- and listened to all the same evidence.
+
+24
+25
+
+But, nevertheless, he had the
+
+Nothing, Justice Ginsburg -- in our opinion
+nothing prevented Bell from presenting the allegations
+29
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+that were presented to the Federal court and all the
+
+2
+
+allegations that he presented to the State court.
+
+3
+
+was no State court procedure or denial of anything.
+
+4
+
+JUSTICE SOUTER:
+
+Did he make any request
+
+5
+
+from the State court for more time?
+
+6
+
+MS. BURNETT:
+
+7
+
+Your Honor, I don't -- I don't
+
+--
+
+8
+9
+
+There
+
+JUSTICE SOUTER:
+
+Your brother is nodding
+
+yes.
+
+10
+
+MS. BURNETT:
+
+He may very well have, but the
+
+11
+
+point is that there was nothing that he presented to the
+
+12
+
+Federal court that he didn't also present to the State
+
+13
+
+court.
+
+14
+
+red herring in this case.
+
+So he was not prevented from -- that -- that's a
+
+15
+
+Now, he had some very strong arguments that
+
+16
+
+he made in both the State court and in the district
+
+17
+
+court on other claims; not on this claim but on other
+
+18
+
+claims, that he believed that he should have been able
+
+19
+
+to develop certain evidence.
+
+20
+
+actually on those other claims -- some of them, it found
+
+21
+
+faulted and some not.
+
+22
+
+claim -
+
+23
+
+And the district court
+
+But not on this claim.
+
+JUSTICE SOUTER:
+
+On this
+
+If we had -- if we had -
+
+24
+
+and I -- I emphasize I'm -- I'm not suggesting this is
+
+25
+
+your case.
+
+But if we had a case in which with respect
+30
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+to the disputed issue he had asked for more time -- I'll
+
+2
+
+make it easy.
+
+3
+
+-- had indicated that there were leads that needed to be
+
+4
+
+followed that couldn't be followed unless he got more
+
+5
+
+time and so on, and the State court refused.
+
+6
+
+then come into the Federal court and say:
+
+7
+
+is not only ineffective assistance, but ineffective
+
+8
+
+assistance with the overlay of the refusal of the State
+
+9
+
+courts to give me an adequate opportunity to develop my
+
+He had asked for more time and -- and had
+
+Could he
+
+My claim here
+
+10
+
+-- my ineffective assistance claim?
+
+11
+
+colorable showing on those two issues, would he then
+
+12
+
+have an opportunity for a Federal evidentiary issue, and
+
+13
+
+would the findings that eventuated from that be subject
+
+14
+
+to -- in effect, to -- to being short- circuited by
+
+15
+
+deference to the State court findings?
+
+16
+
+MS. BURNETT:
+
+And if he made a
+
+I think my answer to that has
+
+17
+
+to be that it depends because the statute before the
+
+18
+
+effective Death Penalty Act in 1996 had clearly had what
+
+19
+
+we would call the Chandler v. Dane factors in which
+
+20
+
+would you look at the adequacy of a State court process.
+
+21
+
+Those were removed after 1996, so the statute does not
+
+22
+
+provide authority for a Federal court to go in and
+
+23
+
+determine was the process adequate if the decision,
+
+24
+
+itself, was reasonable.
+
+25
+
+is why this case -
+
+Now if we are talking -- this
+
+31
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+JUSTICE SOUTER:
+
+But if you don't -- I guess
+
+2
+
+what I'm getting at is if we don't in that circumstance
+
+3
+
+recognize that there is a legitimately different claim
+
+4
+
+which is not, for the reason I suggested to Mr. Bress,
+
+5
+
+not subject to further exhaustion requirements because
+
+6
+
+they tried and the State court wouldn't let them do
+
+7
+
+it -- if we don't in that case recognize that there is a
+
+8
+
+claim that can be litigated in the Federal court, which
+
+9
+
+will not be subject to deference to State court
+
+10
+
+findings, then there is a very clear hole in the law,
+
+11
+
+and I assume Congress didn't mean to leave it.
+
+12
+
+understand you're saying that is not this case.
+
+13
+
+isn't that a legitimate problem to-- to face at some
+
+14
+
+point.
+
+15
+
+MS. BURNETT:
+
+I
+But
+
+Justice Souter, we don't
+
+16
+
+believe so and here's why:
+
+17
+
+did not change the procedural default doctrine.
+
+18
+
+Effective Death Penalty Act Congress left that alone.
+
+19
+
+In fact, this Court recognized that in House v. Bell.
+
+20
+
+So when we are talking about new facts or new claims,
+
+21
+
+either one, you're talking about unexhausted or
+
+22
+
+defaulted matters, which the district courts are very
+
+23
+
+familiar how to handle that.
+
+24
+
+prejudice?
+
+25
+
+Because it is true, Congress
+In the
+
+Has he shown cause and
+
+Has he shown diligence?
+JUSTICE SOUTER:
+
+I think you're right in the
+
+32
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+main.
+
+2
+
+I'm concerned with is the case of the -- of the Brady
+
+3
+
+claim, because if we are proceeding under (e) then as I
+
+4
+
+understand the cause and prejudice can only be
+
+5
+
+established in the case we are talking about if there
+
+6
+
+can be shown a probability of a different verdict.
+
+7
+
+I think that's generally correct.
+
+The case that
+
+The Brady standard, however, does not
+
+8
+
+require the probability of a different verdict.
+
+Brady
+
+9
+
+uses the term "reasonable probability that there would
+
+10
+
+have been a different result," but that has been clearly
+
+11
+
+defined in the cases to mean reasonable possibility.
+
+12
+
+that in fact with respect to Brady claims subsection (e)
+
+13
+
+is imposing a higher requirement than Brady did and a
+
+14
+
+higher requirement than would have been applied before
+
+15
+
+Brady.
+
+16
+
+it may not be this case, but that's the case that we've
+
+17
+
+got to be concerned about in coming up with doctrine
+
+18
+
+here.
+
+19
+
+So
+
+And that is the case, it seems to me, that we -
+
+Isn't that a legitimate concern?
+MS. BURNETT:
+
+Justice Souter -- and I agree
+
+20
+
+that's not this case.
+
+But this Court's already crossed
+
+21
+
+that bridge.
+
+22
+
+Williams was where the individual comes to Federal court
+
+23
+
+with brand new evidence and he has no remedy left in
+
+24
+
+State court.
+
+25
+
+that?
+
+That was Michael Williams.
+
+Michael
+
+It is defaulted, and what do we do with
+
+And this Court very clearly -- now, as the issue
+33
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+was presented to this Court in that case it was whether
+
+2
+
+he gets a hearing or not, so that's what was addressed.
+
+3
+
+But this Court also addressed the fact that it most
+
+4
+
+likely was and was a defaulted claim and that it -
+
+5
+
+JUSTICE SOUTER:
+
+But I don't, I don't think
+
+6
+
+this Court understood the implication of it when you get
+
+7
+
+into the Brady issue.
+
+8
+
+to leave that door open because I don't think Williams
+
+9
+
+confronted that.
+
+10
+
+And my only concern is we've got
+
+MS. BURNETT:
+
+And I -- I agree with Your
+
+11
+
+Honor that it's not this case.
+
+I think Michael Williams
+
+12
+
+addresses it and I think that the current existing in
+
+13
+
+place cause and prejudice and actual innocence
+
+14
+
+exceptions to default answer all of that.
+
+15
+
+that -
+
+And I believe
+
+16
+
+JUSTICE SOUTER:
+
+I understand your position.
+
+17
+
+JUSTICE BREYER:
+
+I'm still trying to
+
+18
+
+understand the statute.
+
+I think their point is we get
+
+19
+
+around (d), (d) doesn't bar us because the district
+
+20
+
+court here, the Federal district court, found that it
+
+21
+
+was an unreasonable determination of the facts, not
+
+22
+
+unreasonable on the substance, but unreasonable because
+
+23
+
+of the procedure.
+
+24
+
+this evidence was having an unreasonable procedure and
+
+25
+
+therefore the determination of the facts is
+
+In other words, the State that barred
+
+34
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+unreasonable.
+
+So you're saying that isn't what those
+
+2
+
+words "unreasonable determination of the facts" mean.
+
+3
+
+MS. BURNETT:
+
+Well, what I'm saying -
+
+4
+
+JUSTICE BREYER:
+
+You mean you're saying that
+
+5
+
+(d)(2), "unreasonable determination of the facts," means
+
+6
+
+the factual outcome.
+
+7
+
+outcome is reasonable it doesn't matter if the
+
+8
+
+procedures are inadequate; is that your claim.
+
+9
+
+In other words, if the factual
+
+MS. BURNETT:
+
+Well, no.
+
+10
+
+JUSTICE BREYER:
+
+11
+
+said that in answer to Justice Souter.
+
+12
+
+MS. BURNETT:
+
+No?
+
+I believe that -
+
+I thought you just
+
+I believe that (d)(2) very
+
+13
+
+clearly -- yes, I think I'm agreeing with you that
+
+14
+
+(d)(2) addresses the actual facts which underlay the
+
+15
+
+State court decision.
+
+16
+17
+
+JUSTICE BREYER:
+
+And not whether their
+
+procedures are correct?
+
+18
+
+MS. BURNETT:
+
+Correct.
+
+19
+
+JUSTICE BREYER:
+
+20
+
+MS. BURNETT:
+
+21
+
+JUSTICE BREYER:
+
+Okay.
+
+Correct.
+Okay.
+
+So that's the first
+
+22
+
+thing we have to decide to get to the question.
+
+23
+
+wrong on that -- and I doesn't know the answer to it -
+
+24
+
+if you're wrong on that, then they're rid of (d).
+
+25
+
+they say then, we're rid of (e) because it falls within
+35
+Alderson Reporting Company
+
+If your
+
+So
+
+Official - Subject to Final Review
+
+1
+
+(a)(2), the factual predicate and due diligence, okay.
+
+2
+
+They say we are rid of (e) because of that.
+
+3
+
+they get around capital (B) I'm not sure, but that isn't
+
+4
+
+in the case.
+
+5
+
+MS. BURNETT:
+
+Now, how
+
+Justice Breyer, I'm not sure
+
+6
+
+they they've argued those exceptions (a)(2) at (i) and
+
+7
+
+(ii).
+
+I believe they're simply arguing -
+
+8
+9
+
+JUSTICE BREYER:
+
+They're arguing due
+
+diligence.
+
+10
+
+MS. BURNETT:
+
+My reading of their brief is
+
+11
+
+they are saying:
+
+We are Michael Williams and all
+
+12
+
+Michael Williams dealt with was the opening sentence of
+
+13
+
+(e)(2).
+
+14
+
+JUSTICE BREYER:
+
+15
+
+MS. BURNETT:
+
+16
+
+JUSTICE BREYER:
+
+17
+
+MS. BURNETT:
+
+(I).
+
+You mean of (e)(2) -
+
+Of (e)(2).
+(E)(2).
+
+"If the applicant has failed
+
+18
+
+to develop," and Michael Williams interpreted that as
+
+19
+
+someone who has not been diligent in developing the
+
+20
+
+record.
+
+21
+
+JUSTICE BREYER:
+
+Okay.
+
+So we also get -
+
+22
+
+they get around that because they say the due diligence.
+
+23
+
+You also have an argument about how (2) applies.
+
+24
+
+you're wrong about both of those then we get to the
+
+25
+
+question, which would be:
+
+And if
+
+If the -- if the hearing's
+36
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+properly before us and it's a new claim -- it's also
+
+2
+
+saying it's a new claim -- if it's a new claim it has to
+
+3
+
+be exhausted.
+
+4
+
+law, is it really true that -- suppose, not this case,
+
+5
+
+but suppose a Defendant 140 days after discovers the DA
+
+6
+
+says, makes some remark.
+
+7
+
+it.
+
+8
+
+out about.
+
+9
+
+can imagine, and you can imagine some pretty bad ones
+
+So under Virginia law, under Virginia
+
+He couldn't have known about
+
+He goes to a special file.
+
+He couldn't have found
+
+And lo and behold, it's the worst thing you
+
+10
+
+but this is even worse.
+
+11
+
+you -- is it your view that Virginia courts would say
+
+12
+
+you're out of luck, good-bye?
+
+13
+
+MS. BURNETT:
+
+Now under Virginia law are
+
+Yes, Your Honor, and this
+
+14
+
+Court has recognized that -
+
+15
+
+JUSTICE BREYER:
+
+16
+17
+
+No matter what, it's
+
+goodbye?
+MS. BURNETT:
+
+Yes, and here's why:
+
+Because
+
+18
+
+Virginia has twin statutes that would bar any further
+
+19
+
+applications to State court.
+
+20
+
+limitations that is strictly applied and the other is a
+
+21
+
+statute which says in essence -
+
+22
+
+JUSTICE BREYER:
+
+23
+
+MS. BURNETT:
+
+24
+
+JUSTICE BREYER:
+
+25
+
+MS. BURNETT:
+
+One is the statute of
+
+No excuse?
+
+Even if -
+
+That's correct.
+Okay.
+
+And this Court has 37
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+2
+
+JUSTICE BREYER:
+
+So they are right about,
+
+they are right about the exhaustion being futile.
+
+3
+
+MS. BURNETT:
+
+It is defaulted, yes, Your
+
+4
+
+Honor.
+
+In Virginia those are defaulted claims, and now
+
+5
+
+we are in Federal court with those claims.
+
+6
+
+court judges are very familiar with how to do with them.
+
+7
+
+Has he shown cause and prejudice?
+
+8
+9
+
+JUSTICE BREYER:
+
+The Federal
+
+The first time he discovers
+
+DNA evidence in the DA's file that shows he couldn't
+
+10
+
+have done it, there is no way to get relief under
+
+11
+
+Virginia law?
+
+12
+
+MS. BURNETT:
+
+13
+
+JUSTICE BREYER:
+
+14
+
+MS. BURNETT:
+
+15
+
+JUSTICE BREYER:
+
+16
+17
+
+Not in State court.
+Not in State court.
+
+No, Your Honor.
+Okay, then they're right
+
+about that.
+MS. BURNETT:
+
+That's correct.
+
+So now he is
+
+18
+
+in Federal court and he has -- he has the thresholds of
+
+19
+
+cause and prejudice or actual innocence.
+
+20
+
+very familiar thing, is what I'm saying, is that the
+
+21
+
+district courts are familiar with.
+
+22
+
+JUSTICE BREYER:
+
+And that's a
+
+Okay, then let me ask you
+
+23
+
+on the merits.
+
+If he's right there and it's exhaustion
+
+24
+
+and it really was a new claim, then wouldn't we apply a
+
+25
+
+decision that does not defer to the State court, because
+38
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+after all the State court never heard this issue?
+
+2
+
+MS. BURNETT:
+
+That's not this case.
+
+But in
+
+3
+
+a hypothetical case where there are new facts,
+
+4
+
+unexhausted defaulted claims or facts that are presented
+
+5
+
+to a Federal court -
+
+6
+
+JUSTICE BREYER:
+
+Okay.
+
+There is no real
+
+7
+
+argument between the two of you as to the -- as to the
+
+8
+
+issue that we thought was presented.
+
+9
+
+MS. BURNETT:
+
+10
+11
+
+Well, I think not.
+
+JUSTICE BREYER:
+argument -
+
+12
+
+MS. BURNETT:
+
+13
+
+JUSTICE BREYER:
+
+14
+15
+
+But there's certainly an
+
+The argument is If it's really a new claim,
+
+you're going to say they applied MS. BURNETT:
+
+Well, our argument is that,
+
+16
+
+Court, don't use this case to say that, because if the
+
+17
+
+Court uses this case to say that it will be putting its
+
+18
+
+imprimatur on what the district court did in holding a
+
+19
+
+hearing when we don't think it was appropriate.
+
+20
+
+CHIEF JUSTICE ROBERTS:
+
+The Fourth Circuit
+
+21
+
+-- I'm sorry to interrupt you, but the Fourth Circuit
+
+22
+
+didn't decide that question either.
+
+23
+
+MS. BURNETT:
+
+24
+25
+
+They did not.
+
+presented to them, Your Honor.
+Nothing 39
+Alderson Reporting Company
+
+It was not
+
+Official - Subject to Final Review
+
+1
+
+JUSTICE SCALIA:
+
+How do you want us to
+
+2
+
+dispose of the case that doesn't, that doesn't do that?
+
+3
+
+What do you want us to do?
+
+4
+
+MS. BURNETT:
+
+I think the Court could
+
+5
+
+dismiss this as improvidently granted.
+
+6
+
+JUSTICE SCALIA:
+
+7
+
+MS. BURNETT:
+
+8
+
+That's it?
+
+I think the Court could do
+
+that.
+
+9
+
+JUSTICE STEVENS:
+
+May I ask you, so I
+
+10
+
+understand your position on the underlying question if
+
+11
+
+we don't dismiss.
+
+12
+
+evidentiary hearing was based on a showing by the
+
+13
+
+Petitioner that he failed to develop facts which might
+
+14
+
+change the result?
+
+15
+
+Am I correct that the granting of an
+
+MS. BURNETT:
+
+Justice Stevens, there was
+
+16
+
+never any showing, there was never any showing of
+
+17
+
+diligence.
+
+18
+19
+20
+
+JUSTICE STEVENS:
+
+Why did the -- why did the
+
+Federal court grant a hearing?
+MS. BURNETT:
+
+The Federal court simply
+
+21
+
+announced that he was going to hold a hearing on this
+
+22
+
+claim and decide later -
+
+23
+
+JUSTICE STEVENS:
+
+Wasn't he only entitled to
+
+24
+
+do that on the basis of a showing that there was more
+
+25
+
+evidence that the State court did not consider?
+40
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+2
+
+MS. BURNETT:
+
+Yes, Your Honor.
+
+I believe
+
+first he had -
+
+3
+
+JUSTICE STEVENS:
+
+So maybe the district
+
+4
+
+court was dead wrong, but the assumption I think we made
+
+5
+
+when we took the case was that there was a body of
+
+6
+
+evidence that had not been available in the State
+
+7
+
+proceeding that might be available in the Federal
+
+8
+
+proceeding.
+
+9
+10
+
+MS. BURNETT:
+
+I think that was the
+
+misunderstanding.
+
+11
+
+JUSTICE STEVENS:
+
+And if that were true -- I
+
+12
+
+know you disagree with that and I understand your
+
+13
+
+argument.
+
+14
+
+if that were true and the Federal court then had to
+
+15
+
+decide on the basis of all the evidence, do you read the
+
+16
+
+statute to say at that time he may only rely on the
+
+17
+
+evidence presented to the State court?
+
+18
+
+Maybe we shouldn't have taken the case.
+
+MS. BURNETT:
+
+But
+
+The way I read the statute is
+
+19
+
+that that is the first thing that the judge was required
+
+20
+
+to do.
+
+21
+
+court's decision was reasonable.
+
+He had to first determine whether the State
+
+22
+
+JUSTICE STEVENS:
+
+All right.
+
+Suppose he
+
+23
+
+looked at the State court evidence and he says, that was
+
+24
+
+not enough.
+
+25
+
+was reasonable based on that record.
+
+The State court's decision on the merits
+
+41
+Alderson Reporting Company
+
+I have a different
+
+Official - Subject to Final Review
+
+1
+
+record before me.
+
+2
+
+May he look at the different record?
+
+MS. BURNETT:
+
+He can -- I think -- I think
+
+3
+
+then we are talking about what I was just saying, new
+
+4
+
+facts, new claims.
+
+5
+6
+7
+
+JUSTICE STEVENS:
+about.
+
+That's what we're talking
+
+May he look at it?
+MS. BURNETT:
+
+And then the judge has to go
+
+8
+
+through the determination, before he can decide whether
+
+9
+
+he can look at it, of whether these new facts or new
+
+10
+
+claims meet cause and prejudice or actual innocence.
+
+11
+
+JUSTICE STEVENS:
+
+All right.
+
+Forget the
+
+12
+
+cause and prejudice for just a moment.
+
+13
+
+at that new evidence and he decides that any neutral
+
+14
+
+judge would have reached a different result from the
+
+15
+
+State judge on that evidence, may he reach that result?
+
+16
+17
+
+MS. BURNETT:
+
+But if he looks
+
+I don't think just -- I do not
+
+believe the judge can do that -
+
+18
+
+JUSTICE STEVENS:
+
+19
+
+MS. BURNETT:
+
+Then what's the point -
+
+-- just simply to say I'm
+
+20
+
+going to look at just the correctness of the decision
+
+21
+
+first, and then decide whether it's correct.
+
+22
+
+JUSTICE STEVENS:
+
+What you're saying is the
+
+23
+
+correctness of decision based on the State court record.
+
+24
+
+And if he decides there was a sound decision on that
+
+25
+
+record, that's the end of the ball game; is that your
+42
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+position?
+
+2
+
+MS. BURNETT:
+
+Well, I think it is, unless -
+
+3
+
+unless there are actually new matters that are presented
+
+4
+
+to the Federal court that the Federal court now is going
+
+5
+
+to -
+
+6
+7
+
+JUSTICE STEVENS:
+
+It's
+
+the same claim.
+
+8
+
+MS. BURNETT:
+
+9
+
+JUSTICE STEVENS:
+
+10
+
+It's the same claim.
+
+Yes.
+
+Even on the same claim.
+Then it seems to me the
+
+statute has constructed a pointless procedure.
+
+11
+
+MS. BURNETT:
+
+Your Honor, I -- I don't see
+
+12
+
+that at all.
+
+13
+
+progression, that the -- that the -- the Effective Death
+
+14
+
+Penalty Act is now telling district court judges, and
+
+15
+
+has made clear that it's doing this for judicial -- for
+
+16
+
+purposes of judicial economy, for finality, for -
+
+17
+
+It seems to me it's a very orderly
+
+JUSTICE SCALIA:
+
+Why shouldn't the district
+
+18
+
+judge in light of the new evidence decide whether the
+
+19
+
+judgment of the State court was -- would have been
+
+20
+
+reasonable if it came out the same way, including this
+
+21
+
+new evidence in the -- in the consideration?
+
+22
+
+shouldn't he do it that way.
+
+23
+24
+25
+
+MS. BURNETT:
+
+Why
+
+It could do that, Justice
+
+Scalia.
+JUSTICE SCALIA:
+
+I know it could.
+
+43
+Alderson Reporting Company
+
+But I'm
+
+Official - Subject to Final Review
+
+1
+
+asking whether it should.
+
+2
+
+MS. BURNETT:
+
+I think -- I think that
+
+3
+
+doesn't really fit with the statute -- with the
+
+4
+
+statutory language.
+
+5
+
+JUSTICE SCALIA:
+
+Well, it seems to me the
+
+6
+
+statute certainly contemplates that the States have the
+
+7
+
+first -
+
+8
+
+MS. BURNETT:
+
+9
+
+JUSTICE SCALIA:
+
+10
+
+thing, right?
+
+11
+
+Yes.
+-- the first cut at this
+
+How else do you give them the first cut?
+
+MS. BURNETT:
+
+Yes.
+
+Absolutely.
+
+And that's
+
+12
+
+what I'm saying, and I think that -- to -- if the claim
+
+13
+
+is going to in any way differ, it's going to change from
+
+14
+
+what was presented to the State court.
+
+15
+
+that is all new matters that are defaulted, and in a
+
+16
+
+very literal sense how can -- and I don't believe
+
+17
+
+Congress intended for Federal courts to look at new
+
+18
+
+matters, however they got to them, that were not
+
+19
+
+presented to the State court, and on that basis
+
+20
+
+determine whether the State court's decision was
+
+21
+
+reached.
+
+22
+23
+24
+25
+
+JUSTICE SCALIA:
+
+On one level,
+
+So the Federal court is
+
+supposed to do what?
+MS. BURNETT:
+
+The Federal court is supposed
+
+to first look at the claim that was presented to the
+44
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+State court, under 2254(d), and the claimants before it.
+
+2
+
+If it's the same claim, if it's the same matters that
+
+3
+
+were adjudicated on the merits in the State court, it
+
+4
+
+has to make the decision up front, was it reasonable or
+
+5
+
+not?
+
+6
+
+JUSTICE SCALIA:
+
+7
+
+MS. BURNETT:
+
+Okay.
+
+Okay.
+
+Now it makes that
+
+8
+
+decision, and then after that, if the Petitioner says
+
+9
+
+well, I have new matters, that I never presented to the
+
+10
+11
+
+State court, the Federal court has a -- a road map.
+JUSTICE SOUTER:
+
+Now -- but the road map
+
+12
+
+that you are now saying could be followed is the same
+
+13
+
+road map implied by -- in your earlier answer to Justice
+
+14
+
+Scalia, your reference to the new claim as being a
+
+15
+
+defaulted claim.
+
+16
+
+MS. BURNETT:
+
+Yes.
+
+17
+
+JUSTICE SOUTER:
+
+But we are concerned -- I
+
+18
+
+think we are all concerned with the -- with the claim in
+
+19
+
+which it is not defaulted, in the sense that he is at
+
+20
+
+fault in any way for failing to get it into the Federal
+
+21
+
+court -- I'm sorry -- get his entire presentation now
+
+22
+
+into the State court then.
+
+23
+
+defaulted claim in the classic sense.
+
+24
+
+in which he is at fault by having failed to present it
+
+25
+
+in the State court.
+
+So that it is not a
+
+45
+Alderson Reporting Company
+
+It is not a claim
+
+Official - Subject to Final Review
+
+1
+
+And in that case, if it cannot go back, if
+
+2
+
+the State court will not take it back, don't we have to
+
+3
+
+find at least implicit in the totality of subsections
+
+4
+
+(d) and (e) the possibility of litigating the -- the
+
+5
+
+fully developed claim in the Federal court without a
+
+6
+
+need to defer to the State court findings?
+
+7
+
+MS. BURNETT:
+
+If implicit in your question
+
+8
+
+is -- yes, implicit in your question is that the
+
+9
+
+Petitioner has demonstrated cause; and he may or may not
+
+10
+
+have depending on the facts.
+
+11
+
+JUSTICE SOUTER:
+
+Well, he -- I agree with
+
+12
+
+you on the -- on the cause part; but the -- up to this
+
+13
+
+point.
+
+14
+
+at least he has got to develop cause.
+
+15
+
+ask you this question.
+
+16
+
+to get this in to the State court, and he shows that,
+
+17
+
+but the State court for whatever reason just would not
+
+18
+
+take the evidence that he wanted to put in, is that
+
+19
+
+enough for him to have -
+
+20
+
+MS. BURNETT:
+
+21
+22
+23
+
+He has got to demonstrate cause and prejudice or
+Let me put it -
+
+If he simply says look, I tried
+
+It may be.
+
+It may be.
+
+And
+
+once again, that's certainly not this case.
+JUSTICE SOUTER:
+
+I'm -- I'm not asking to
+
+you stipulate -
+
+24
+
+MS. BURNETT:
+
+Right.
+
+25
+
+JUSTICE SOUTER:
+
+-- that it's this case.
+
+46
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+But it's the case we are worried about around the
+
+2
+
+corner.
+
+3
+
+MS. BURNETT:
+
+It may be.
+
+4
+
+JUSTICE SOUTER:
+
+If that is -- this Court -
+
+5
+
+that's why I'm saying it's a very established law as to
+
+6
+
+what cause is, and external impediments.
+
+I mean, this
+
+7
+
+Court has many cases that describe that.
+
+The lower
+
+8
+
+courts are very familiar with determining that, and so
+
+9
+
+they can -- they are capable to making that
+
+10
+
+determination as to whether the Federal court can now
+
+11
+
+look at a new matter whether it's a new claim or -
+
+12
+
+JUSTICE SOUTER:
+
+But all we are -- I think
+
+13
+
+all we are really getting at is that there are different
+
+14
+
+kinds of new matters.
+
+15
+
+which he absolutely knew nothing at the State court
+
+16
+
+stage, and he is now saying don't hold that against me:
+
+17
+
+i.e., I'm showing cause and I'll show prejudice.
+
+18
+
+is new matter that he did or potentially know about and
+
+19
+
+tried to get into, and under our hypothesis, the State
+
+20
+
+court says no, I'm not going to hear it, or I won't give
+
+21
+
+you the time, whatever the case may be.
+
+22
+
+There are some new matters of
+
+This
+
+In that case, isn't it -- don't we have to
+
+23
+
+say under the statute all he has got to show is cause in
+
+24
+
+the sense that he tried and the State court wouldn't let
+
+25
+
+him?
+
+In order to 47
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+2
+
+MS. BURNETT:
+
+And that may -- and that may
+
+very well constitute an external impediment -
+
+3
+
+JUSTICE SOUTER:
+
+4
+
+MS. BURNETT:
+
+5
+
+Okay.
+
+-- to him being able to
+
+present it.
+
+6
+
+JUSTICE SCALIA:
+
+Having established cause,
+
+7
+
+he would then in your view not have the Federal court
+
+8
+
+decide the matter de novo.
+
+9
+
+the Federal court was whether there was in addition
+
+10
+
+But the only question before
+
+prejudice.
+
+11
+
+MS. BURNETT:
+
+Correct.
+
+12
+
+JUSTICE SCALIA:
+
+That is to say, whether -
+
+13
+
+but for the error, any reasonable factfinder would find
+
+14
+
+by clear and convincing evidence that he was innocent -
+
+15
+
+MS. BURNETT:
+
+Correct.
+
+16
+
+JUSTICE SCALIA:
+
+17
+
+MS. BURNETT:
+
+18
+
+JUSTICE KENNEDY:
+
+-- right?
+
+Correct.
+
+And -
+
+In that instance is there
+
+19
+
+room for the district court to hold an evidentiary
+
+20
+
+hearing?
+
+21
+
+MS. BURNETT:
+
+Well, I think then you get -
+
+22
+
+that's -- I think it's actually a separate matter.
+
+We
+
+23
+
+first have to get to whether the Federal court can look
+
+24
+
+at a new matter de novo.
+
+25
+
+then I think we go to the pre-Effective Death Penalty
+
+If it can look at it de novo
+
+48
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+Act law about when you have a hearing.
+
+2
+
+disputed facts?
+
+3
+
+Is it something that actually, you know, needs to have
+
+4
+
+resolution in a hearing?
+
+5
+
+Are they --
+
+JUSTICE KENNEDY:
+
+Are there
+
+that make a difference?
+
+Can you envisage
+
+6
+
+circumstances in which an ineffective counsel
+
+7
+
+assistance, an ineffective assistance of counsel claim
+
+8
+
+was presented in the State court and then there is a
+
+9
+
+second ineffective assistance in counsel's claims or a
+
+10
+
+further supplemental ineffective assistance of counsel
+
+11
+
+claim based on new evidence that the district court
+
+12
+
+might hear?
+
+13
+
+Does that ever happen?
+MS. BURNETT:
+
+I think it can happen,
+
+14
+
+certainly.
+
+15
+
+I mean, I think that it -- it is -- it is the same
+
+16
+
+analysis, no matter what the claim is, it's the same
+
+17
+
+analysis that the Federal court needs to go through to
+
+18
+
+look -- to see whether it can consider new matter.
+
+19
+
+I don't think it's restricted just to Brady.
+
+JUSTICE KENNEDY:
+
+So you think there could
+
+20
+
+be instances, we might imagine, in which there could be
+
+21
+
+two ineffective assistance of counsel claims, the second
+
+22
+
+of which could be heard in the district court with
+
+23
+
+evidentiary -- with an evidentiary hearing?
+
+24
+25
+
+MS. BURNETT:
+possible.
+
+I think it's certainly
+
+I think that the statutory setup and this
+49
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+Court's established habeas procedures that it had in
+
+2
+
+place for decades permits that.
+
+3
+
+JUSTICE SCALIA:
+
+I guess the State court can
+
+4
+
+say, you know, 60 days after the trial is -- is
+
+5
+
+doomsday.
+
+6
+
+consider anything new after that, even if you find Brady
+
+7
+
+stuff or anything else.
+
+8
+
+unconstitutional -- but it isn't.
+
+9
+
+unconstitutional?
+
+10
+
+No more new evidence.
+
+MS. BURNETT:
+
+We are not going to
+
+Suppose that's
+I mean, is that
+
+Well, no, Your Honor, I don't
+
+11
+
+believe it is.
+
+12
+
+have to provide for direct appeals.
+
+13
+
+In fact, the State court -- we don't
+
+JUSTICE SCALIA:
+
+Right.
+
+So if it's not
+
+14
+
+unconstitutional, then you just provide what you say,
+
+15
+
+that the district court sees whether by clear and
+
+16
+
+convincing evidence the case would have come out the
+
+17
+
+other way.
+
+18
+
+If it were unconstitutional, and I guess
+
+19
+
+this is what is sticking in our craw -- my craw,
+
+20
+
+anyway -- if it were unconstitutional, it seems to me
+
+21
+
+there ought to be a way to make the State take the first
+
+22
+
+cut at it.
+
+23
+
+new evidence we would still find this person guilty; and
+
+24
+
+then in Federal habeas you would -- you would apply the
+
+25
+
+deference that 2254(d) requires.
+
+Make the State say oh, yes, even with this
+
+You'd ask whether that
+
+50
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+2
+
+was a reasonable determination.
+MS. BURNETT:
+
+Right.
+
+And all I can say to
+
+3
+
+that, Justice Scalia, is this Court has never held that
+
+4
+
+the Constitution applies anywhere after the direct
+
+5
+
+appeal, and that's only the right to cancel.
+
+6
+
+JUSTICE SCALIA:
+
+That's the fallacy in my -
+
+7
+
+in my reasoning.
+
+8
+
+troubled by what has been troubling me, namely that he
+
+9
+
+had no way to get this before the State court.
+
+10
+11
+
+Or you're saying I shouldn't be
+
+They are
+
+entitled to close -- close the gates?
+MS. BURNETT:
+
+Yes, Your Honor.
+
+And as a
+
+12
+
+collateral review; that's where they are closing the
+
+13
+
+gate, not on direct review.
+
+14
+15
+
+If there are no further questions, I simply
+ask to affirm.
+
+16
+
+CHIEF JUSTICE ROBERTS:
+
+17
+
+MR. BRESS:
+
+18
+
+CHIEF JUSTICE ROBERTS:
+
+19
+
+Thank you, counsel.
+
+I'd like to start where You have three
+
+minute remaining.
+
+20
+
+REBUTTAL ARGUMENT OF RICHARD P. BRESS
+
+21
+
+ON BEHALF OF THE PETITIONER
+
+22
+
+MR. BRESS:
+
+23
+
+CHIEF JUSTICE ROBERTS:
+
+24
+25
+
+I'd like to start where You have three
+
+minutes remaining.
+MR. BRESS:
+
+I'd like to start where the
+51
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+General left off.
+
+2
+
+hold that, in certain instances, a State habeas court
+
+3
+
+must hold a hearing if there are facts in dispute and
+
+4
+
+they are not willing to assume them.
+
+5
+
+State doesn't have to have a proceeding at all, but if
+
+6
+
+it has one, it has to be fair.
+
+7
+8
+
+In McNeal and Claudy, this Court did
+
+I agree that a
+
+I know that my time is short.
+
+I'd like to
+
+go through some of the questions you've asked.
+
+9
+
+The State did deny us additional time,
+
+10
+
+expert assistance discovery, and a hearing in this case.
+
+11
+
+The Federal court specifically found that we were
+
+12
+
+diligent.
+
+13
+
+court said that the finding of diligence also
+
+14
+
+constituted a finding of cause for purposes of cause and
+
+15
+
+prejudice, which makes sense because you've got a
+
+16
+
+prisoner who has done the most they can and yet hasn't
+
+17
+
+been able to fully develop the record.
+
+18
+
+external impediment.
+
+19
+
+Williams, the information was there; it was just very
+
+20
+
+hard to find.
+
+21
+
+That's at 84a.
+
+And in Michael Williams, this
+
+There was no
+
+As you'll recall, in Michael
+
+Finally, we presented very substantial new
+
+22
+
+evidence on the Federal level here.
+
+It's simply not
+
+23
+
+true that there is no new evidence.
+
+The new evidence
+
+24
+
+included evidence undermining the sole aggravating
+
+25
+
+factor, both the live testimony of Joanne Nicholson,
+52
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+which allowed the court actually to determine whether
+
+2
+
+she would have been a credible person to undermine the
+
+3
+
+testimony.
+
+4
+
+credible, which the State can't do on the papers.
+
+5
+
+The State had held on the papers she wasn't
+
+Secondly, the evidence said he was
+
+6
+
+physically abused as a child.
+
+7
+
+electrical cords, with planks, with a belt, leaving the
+
+8
+
+scars on his body that he bears today.
+
+9
+
+father knock his mother's teeth out for trying to
+
+10
+11
+
+He was beaten with
+
+He saw his
+
+protect him.
+JUSTICE ALITO:
+
+What is the test for
+
+12
+
+determining whether the addition of new evidence is
+
+13
+
+sufficient to make it a new claim?
+
+14
+
+MR. BRESS:
+
+Your Honor, I think the test
+
+15
+
+really ought to be whether an objectively reasonable
+
+16
+
+jurist could find it important in the overall mix of
+
+17
+
+information.
+
+18
+
+judge in that kind of a case, what you're going to go
+
+19
+
+through is -- if I accept that the State court was right
+
+20
+
+with the evidence that it had and I sort of put myself
+
+21
+
+in that frame, would I, nonetheless, if I were that
+
+22
+
+State court, have found this evidence important when I'm
+
+23
+
+making this decision?
+
+24
+25
+
+And it just strikes me that, if you're the
+
+JUSTICE SOUTER:
+
+It's a materiality
+
+standard, really.
+53
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+MR. BRESS:
+
+Exactly, Your Honor.
+
+2
+
+CHIEF JUSTICE ROBERTS:
+
+So, it's a new claim
+
+3
+
+if it is one on which you would have prevailed, but it's
+
+4
+
+the same claim if the result would be the same.
+
+5
+
+MR. BRESS:
+
+I don't -- I don't think it
+
+6
+
+necessarily has to be that way, Your Honor.
+
+I think you
+
+7
+
+can have a case where the evidence that was before them
+
+8
+
+was absolutely nil; now they're offering a good bit of
+
+9
+
+evidence that you would at least want to weigh as an
+
+10
+
+objective jurist, even though you decide against them.
+
+11
+
+I think that's possible.
+
+12
+
+I think the reason you've got to adopt this
+
+13
+
+position, however, is that there is no DNA -- I mean, no
+
+14
+
+innocence exception that the General has put forward.
+
+15
+
+If the General is right, it isn't a new claim just
+
+16
+
+because you now have DNA evidence that proves you're
+
+17
+
+innocent.
+
+18
+
+the proceeding, in your earlier ineffective assistance
+
+19
+
+of counsel claim.
+
+What you have new now is you've got
+
+20
+
+the DNA evidence.
+
+In her view, it's the same claim.
+
+21
+
+You made that claim of innocence earlier in
+
+JUSTICE SCALIA:
+
+Well, you know, it does
+
+22
+
+read -- 2254(e) -- it does read, "a factual predicate
+
+23
+
+that could not have been previously discovered through
+
+24
+
+the exercise of due diligence."
+
+25
+
+exactly what you're describing, the discovery of DNA
+
+That sounds like
+
+54
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+evidence you didn't know about.
+
+2
+
+MR. BRESS:
+
+And I agree completely, Your
+
+3
+
+Honor, that (e) says you can hear it, but the Attorney
+
+4
+
+General says you can't because under (d), she'd say,
+
+5
+
+you'd already be foreclose because the State court has
+
+6
+
+already adjudicated your claim on the merits -
+
+7
+
+JUSTICE GINSBURG:
+
+8
+
+MR. BRESS:
+
+9
+
+I think she said -
+
+-- and these new facts don't
+
+count.
+
+10
+
+JUSTICE GINSBURG:
+
+-- she answered -- the
+
+11
+
+answer that I wrote is the same thing that you could
+
+12
+
+have on the Brady claim you could also have for
+
+13
+
+ineffective assistance of counsel.
+
+14
+
+matter.
+
+15
+
+It's a wholly new
+
+I thought that's what she said.
+MR. BRESS:
+
+Your Honor, I think she said
+
+16
+
+that what you would have to look for, I think, is
+
+17
+
+whether "wholly new matter" means "new evidence."
+
+18
+
+she says it's new evidence, such as new DNA evidence, we
+
+19
+
+agree completely.
+
+20
+
+in this case.
+
+21
+
+evidence in that sense, like DNA evidence, can't make
+
+22
+
+that claim a new claim and, therefore, you're foreclosed
+
+23
+
+under 2254(d), so long as the State court's opinion is
+
+24
+
+intrinsically reasonable based on its inadequate record.
+
+25
+
+If
+
+That's not what she said previously
+
+Previously, she had said that new
+
+JUSTICE SCALIA:
+
+Mr. Bress, I want to
+
+55
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+apologize to you for accusing you of not printing
+
+2
+
+2254(d) and (e) in your brief.
+
+3
+4
+5
+6
+
+MR. BRESS:
+
+You indeed did.
+
+Well, thank you, Your Honor.
+
+thought JUSTICE SCALIA:
+
+I'm grateful for your not
+
+throwing it in my teeth.
+
+7
+
+(Laughter.)
+
+8
+
+CHIEF JUSTICE ROBERTS:
+
+9
+
+The case is submitted.
+
+10
+11
+
+I
+
+Thank you, counsel.
+
+(Whereupon, at 12:12 p.m., the case in the
+above-entitled matter was submitted.)
+
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+56
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+A
+ability 23:7
+able 6:23 9:25
+10:11,12,15
+12:2 23:15,19
+23:21 26:19
+30:18 48:4
+52:17
+above-entitled
+1:11 56:11
+absolutely 16:13
+28:25 44:11
+47:15 54:8
+abuse 21:19
+abused 53:6
+abusive 8:22,25
+accept 8:10 9:3
+53:19
+account 6:5
+accusing 56:1
+acknowledge
+19:11
+act 7:11 31:18
+32:18 43:14
+49:1
+actual 34:13
+35:14 38:19
+42:10
+addition 48:9
+53:12
+additional 9:25
+12:8 18:10
+52:9
+address 14:7
+addressed 16:8
+34:2,3
+addresses 34:12
+35:14
+addressing
+28:18
+adequacy 31:20
+adequate 13:24
+31:9,23
+adjudicated
+7:10 9:11,18
+45:3 55:6
+adopt 54:12
+
+adopted 10:6,7
+advanced 9:10
+9:19,21
+adversary 9:15
+advocated 10:6
+affidavit 7:19,19
+affidavits 5:7
+29:3
+affirm 51:15
+affirmed 24:3
+aggravating 7:8
+28:9 52:24
+aggravation 7:7
+agree 18:2,4,8
+33:19 34:10
+46:11 52:4
+55:2,19
+agreeing 28:18
+35:13
+ahead 14:15
+albeit 17:25
+Alito 4:4 5:14
+9:8,14 10:4
+53:11
+allegations
+27:24 28:1
+29:25 30:2
+alleged 7:12
+8:11,12 28:15
+29:2
+allow 14:21
+26:24
+allowed 15:1
+53:1
+allows 11:21,23
+amicus 6:20
+analysis 49:16
+49:17
+anecdote 22:4
+announced
+40:21
+answer 10:3
+25:8 27:5,6
+31:16 34:14
+35:11,23 45:13
+55:11
+answered 55:10
+
+anyway 24:15
+50:20
+apologize 56:1
+appeal 20:24
+51:5
+appeals 50:12
+appear 21:6
+APPEARAN...
+1:14
+Appendix 21:12
+applicant 36:17
+application
+18:14 19:18
+25:25
+applications
+37:19
+applied 26:11
+28:5,5,17
+33:14 37:20
+39:14
+applies 36:23
+51:4
+apply 26:12
+27:22 38:24
+50:24
+appreciate 11:9
+12:11
+appropriate
+39:19
+approximately
+29:18
+area 22:1
+argued 15:9
+18:12 36:6
+arguing 36:7,8
+argument 1:12
+2:2,7 3:3,6 9:8
+13:10 17:7
+27:16 36:23
+39:7,11,12,15
+41:13 51:20
+arguments
+30:15
+arms 21:25
+asked 5:12,13
+5:15 31:1,2
+52:8
+
+asking 44:1
+46:22
+aspect 9:20
+assault 7:12,17
+assistance 3:21
+4:1 9:17 10:18
+10:25 11:20
+12:10 29:16
+31:7,8,10 49:7
+49:7,9,10,21
+52:10 54:18
+55:13
+assistance-of-...
+5:7
+Assistant 1:17
+assume 13:6
+23:8,14 32:11
+52:4
+assumed 20:3
+28:1,4
+assumes 17:7
+assuming 16:11
+28:15
+assumption 41:4
+attempting
+10:13
+attention 6:8,10
+attorney 1:17
+15:14 55:3
+attorneys 6:19
+attribute 26:16
+authority 31:22
+available 22:21
+41:6,7
+a.m 1:13 3:2
+
+bar 34:19 37:18
+barred 34:23
+bars 13:17
+based 3:22 19:1
+26:23 27:5
+40:12 41:25
+42:23 49:11
+55:24
+basic 12:9,9
+basis 9:21 13:13
+14:3 16:1,7
+24:24 25:14
+40:24 41:15
+44:19
+bat 15:4
+bears 53:8
+beaten 53:6
+behalf 1:15,18
+2:4,6,9 3:7
+27:17 51:21
+behold 37:8
+believe 3:16
+29:22 32:16
+34:14 35:9,12
+36:7 41:1
+42:17 44:16
+50:11
+believed 9:7
+29:21 30:18
+Bell 1:3 3:4 8:22
+11:19 13:1
+23:8 27:23
+28:21 29:25
+32:19
+Bell's 27:20
+belt 53:7
+B
+Billy 7:11,17,19
+B 20:9 36:3
+bit 26:3 54:8
+back 13:16
+blood 23:17
+17:15 21:13
+body 41:5 53:8
+23:25 24:11,16 Bonnie 4:2,3
+46:1,2
+Brady 5:10 10:8
+bad 7:10 22:7
+12:16 15:15
+37:9
+16:2 33:2,7,8
+ball 42:25
+33:12,13,15
+Banks 12:15
+34:7 49:14
+15:22
+50:6 55:12
+
+57
+Alderson Reporting Company
+
+

@@ -1,0 +1,4531 @@
+Official - Subject to Final Review
+
+1
+
+P R O C E E D I N G S
+
+2
+
+(11:06 a.m.)
+
+3
+
+CHIEF JUSTICE ROBERTS:
+
+We will hear
+
+4
+
+argument next this morning in Case 09-658, Premo v.
+
+5
+
+Moore.
+
+6
+
+Mr. Kroger.
+
+7
+
+ORAL ARGUMENT OF GENERAL JOHN R. KROGER
+
+8
+
+ON BEHALF OF THE PETITIONER
+
+9
+10
+
+MR. KROGER:
+
+Mr. Chief Justice, and may it
+
+please the Court:
+
+11
+
+The court of appeals held that Arizona v.
+
+12
+
+Fulminante was the clearly established Federal law to
+
+13
+
+control and govern the outcome of this case.
+
+14
+
+an error, because this Court has never applied
+
+15
+
+Fulminante's direct appeal harmless error standard,
+
+16
+
+which places the burden of proof on the government, to a
+
+17
+
+collateral ineffective assistance of counsel claim,
+
+18
+
+where the burden of proof is on the inmate.
+
+19
+
+This was
+
+In Boyer, unlike Fulminante, there is no
+
+20
+
+trial transcript to review because the defendant pleaded
+
+21
+
+no contest or guilty before trial.
+
+22
+
+appeals' decision conflicts with both
+
+23
+
+Strickland v. Washington and Hill v. Lockhart and will
+
+24
+
+have grave negative consequences for our criminal
+
+25
+
+justice system.
+3
+
+Alderson Reporting Company
+
+The court of
+
+Official - Subject to Final Review
+
+1
+
+JUSTICE GINSBURG:
+
+But isn't -- isn't
+
+2
+
+Fulminante relevant as -- just for the proposition that
+
+3
+
+a defendant's own confession carries heavy weight,
+
+4
+
+leaving the rest of it -- the statement that -- in
+
+5
+
+Fulminante that when a defendant confesses to the crime,
+
+6
+
+that carries heavy weight?
+
+7
+
+MR. KROGER:
+
+Yes, Your Honor, I think it's
+
+8
+
+relevant to that extent, that a confession from a
+
+9
+
+defendant is significant evidence.
+
+However, it
+
+10
+
+certainly does not imply, as the court of appeals
+
+11
+
+proceeded to do here, that it controls the prejudice
+
+12
+
+prong of Strickland, that it sets a new standard of
+
+13
+
+review of harmlessness, that it shifts the burden of
+
+14
+
+proof onto the government, or that it limits the
+
+15
+
+prejudice analysis to that question of the potential
+
+16
+
+impact of the confession at trial.
+
+17
+
+And so for all those reasons, I -- I think
+
+18
+
+the -- the court of appeals has gone well beyond any
+
+19
+
+potential relevance of the Fulminante decision.
+
+20
+
+JUSTICE SOTOMAYOR:
+
+Is it -- if I am
+
+21
+
+understanding your argument, it is that the Court erred
+
+22
+
+in assuming that if the confession had been
+
+23
+
+suppressed -- which you're not arguing for or against.
+
+24
+
+I'm assuming you are not taking your amicus's position
+
+25
+
+that we have to get to the question of what would have
+4
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+happened in a motion to suppress -- but that under all
+
+2
+
+circumstances, if there's a suppressible confession, a
+
+3
+
+defendant should never plead guilty.
+
+4
+5
+6
+
+You are saying that that conclusion is what
+the Ninth Circuit drew and that was wrong?
+MR. KROGER:
+
+Your Honor, we're -- we are
+
+7
+
+suggesting that the court was wrong both in stating
+
+8
+
+Fulminante provided the standard of review, as well as
+
+9
+
+holding that you can, in effect, assume prejudice simply
+
+10
+
+because defense counsel failed to file a motion which
+
+11
+
+defense counsel believed was not -­
+
+12
+
+JUSTICE SOTOMAYOR:
+
+So it's another way of
+
+13
+
+saying what I said, which is, no defendant should plead
+
+14
+
+guilty if it's a suppressible confession?
+
+15
+16
+17
+
+MR. KROGER:
+
+That is correct, Your Honor.
+
+That is correct, Your Honor.
+JUSTICE SOTOMAYOR:
+
+All right.
+
+So now, what
+
+18
+
+is the other information that would have made a plain
+
+19
+
+guilty in this case inevitable?
+
+20
+
+higher standard than you need to meet, but -­
+
+21
+
+MR. KROGER:
+
+However, that's a
+
+As -- as Your Honor noted, that
+
+22
+
+is a much higher standard than we have to meet under
+
+23
+
+Hill v. Lockhart.
+
+24
+
+defense counsel's advice that this defendant plead
+
+25
+
+guilty was sound and reasonable advice.
+
+There were very good reasons why
+
+5
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+First of all, the defendant faced a very
+
+2
+
+strong government case, even at that stage of the
+
+3
+
+investigation.
+
+4
+
+Second, there was a potential charge of
+
+5
+
+aggravated murder that could be brought if the case were
+
+6
+
+taken to the grand jury.
+
+7
+
+Third, the plea offer that was extended to
+
+8
+
+the defendant and which the defendant took was very
+
+9
+
+favorable to the defendant, both in terms of -- of
+
+10
+
+capping the amount of time that the defendant would
+
+11
+
+serve, as well as dismissing two additional mandatory
+
+12
+
+minimum charges of assault and kidnapping.
+
+13
+
+JUSTICE SOTOMAYOR:
+
+14
+
+the minimum he pled to?
+
+15
+
+higher?
+
+16
+17
+18
+
+MR. KROGER:
+
+So -­
+
+Were those higher than
+
+Were those mandatory minimums
+
+No, Your Honor, but they could
+
+have been run consecutive rather than concurrent.
+I -- I think more significant is the fact
+
+19
+
+that when the defendant himself testified about the
+
+20
+
+reasons he pled guilty, none of the reasons he provided
+
+21
+
+had anything to do with the strength of the government's
+
+22
+
+case or the failure of counsel to file the motion.
+
+23
+
+What the defendant said motivated his guilty
+
+24
+
+plea was a concern about an aggravated murder charge, a
+
+25
+
+desire not to have to testify against his brother, which
+6
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+he believed would be the outcome of a guilty plea.
+
+2
+
+those factors were in the defendant's mind when he
+
+3
+
+decided to take the guilty plea.
+
+And
+
+4
+
+So in this case, even if one were to shift
+
+5
+
+the burden onto the government -- and I do not believe
+
+6
+
+that -- that that is consistent with Strickland -- the
+
+7
+
+government would prevail here.
+
+8
+9
+
+This case raises, I think, significant
+consequences for application of Strickland and
+
+10
+
+Hill v. Lockhart.
+
+11
+
+burden of proof in a collateral proceeding on the
+
+12
+
+inmate.
+
+13
+
+Strickland and Hill clearly place the
+
+The court of appeals here shifted the burden
+
+14
+
+of proof, pursuant to Fulminante, onto the government.
+
+15
+
+One can see this in the petition appendix at page 48
+
+16
+
+where the court states that there is not enough evidence
+
+17
+
+in the record to prove that the defendant would have
+
+18
+
+pled guilty had the confession been denied.
+
+19
+
+As I stated to Justice Sotomayor, I believe
+
+20
+
+the government actually could meet that burden, but that
+
+21
+
+is certainly not the burden that either Strickland or -­
+
+22
+
+or Hill requires.
+
+23
+
+Second, the Court's application of
+
+24
+
+Fulminante transforms the Hill v. Lockhart analysis.
+
+25
+
+narrows it to one degree, because it's focused on one
+7
+
+Alderson Reporting Company
+
+It
+
+Official - Subject to Final Review
+
+1
+
+issue, what the government's evidence would be at trial,
+
+2
+
+rather than looking at the broad array of issues which
+
+3
+
+might motivate a defendant to plead guilty which the
+
+4
+
+courts will look at under -- under Hill v. Lockhart.
+
+5
+
+For example, under Hill v. Lockhart the
+
+6
+
+court will not only look at the defendant's testimony
+
+7
+
+with respect to the estimate of the strength of the
+
+8
+
+government's case, but also look at the potential for an
+
+9
+
+additional sentence that is higher or additional charges
+
+10
+
+that carry a higher sentence if the defendant proceeds
+
+11
+
+with litigation rather than pleading guilty.
+
+12
+
+It will look at the investigation risk that
+
+13
+
+additional evidence would be found in, if the case
+
+14
+
+continued rather than terminating in an early plea.
+
+15
+
+it will look at personal factors such as the ones that
+
+16
+
+were evident in this case that might motivate a guilty
+
+17
+
+plea.
+
+18
+
+For those reasons, the Hill v. Lockhart
+
+19
+
+standard encompasses a broader array of factors in
+
+20
+
+determining whether there is prejudice than a simple
+
+21
+
+application of Fulminante's direct appeal post-trial
+
+22
+
+standards.
+
+23
+
+And
+
+It is also the case that the application of
+
+24
+
+Fulminante will substantially increase the amount of
+
+25
+
+speculation which courts have to engage in compared with
+8
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+applying the proper Hill v. Lockhart test.
+
+2
+
+Hill v. Lockhart limits the amount of
+
+3
+
+speculation by focusing on the defendant's motive in
+
+4
+
+pleading guilty and whether the ineffective assistance
+
+5
+
+could have influenced that decision to plead guilty.
+
+6
+
+JUSTICE GINSBURG:
+
+What about Judge Berzon's
+
+7
+
+test, that seems to be simple and a matter of common
+
+8
+
+sense, that if you get rid of the confession, then you
+
+9
+
+have a better chance of getting a good deal in the plea
+
+10
+
+bargain?
+
+11
+
+the defendant to get rid of that as well as weight on
+
+12
+
+the prosecution's side.
+
+13
+
+MR. KROGER:
+
+The confession certainly -- it -- this serves
+
+Your Honor, I would say two
+
+14
+
+things:
+
+15
+
+Berzon in the concurrence has never been recognized or
+
+16
+
+promulgated by this Court.
+
+17
+
+proceeding pursuant to 28 U.S. Code 2254, it would not
+
+18
+
+be clearly established law that the State court was
+
+19
+
+required to follow.
+
+20
+
+First, the test which is proposed by Judge
+
+So in a collateral
+
+And second, application of that standard, as
+
+21
+
+Judge Bybee noted in his concurrence, would require an
+
+22
+
+immense amount of speculation.
+
+23
+
+majority in the Ninth Circuit hypothesized that filing
+
+24
+
+the motion to suppress the confession would strengthen
+
+25
+
+the defendant's position in negotiation vis-à-vis the
+
+In this case, the
+
+9
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+Government.
+
+2
+
+It is also very possible, however, that the
+
+3
+
+Government would respond to filing a motion as opposed
+
+4
+
+to taking an early offer of guilty plea by taking the
+
+5
+
+case to the grand jury, seeking an aggravated murder
+
+6
+
+charge, and thus, putting the defendant in a worse
+
+7
+
+position in the case.
+
+8
+
+noted, he questioned whether the courts have the proper
+
+9
+
+tools to be able to speculate years after the guilty
+
+And, in fact, as Judge Bybee
+
+10
+
+plea whether a particular motion may have increased or
+
+11
+
+may have decreased the amount of leverage that a
+
+12
+
+defendant has, or what kind of response that that motion
+
+13
+
+might have drawn from the prosecution.
+
+14
+
+JUSTICE BREYER:
+
+But you have to, don't you?
+
+15
+
+I mean, what's the alternative?
+
+16
+
+where it's clear there was a malpractice or an
+
+17
+
+inadequate assistance, and it happened a long time ago
+
+18
+
+and now you have to decide, well, was it prejudicial or
+
+19
+
+not?
+
+20
+
+would have gone to trial or wouldn't have pleaded
+
+21
+
+guilty, or -- and what's the alternative to trying to
+
+22
+
+figure out whether that's so?
+
+It's prejudicial if in the absence of that he
+
+23
+
+MR. KROGER:
+
+24
+
+JUSTICE BREYER:
+
+25
+
+I mean, imagine a case
+
+Your Honor -­
+It can't be the State
+
+always wins and it can't be the defendant always wins.
+10
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+2
+
+So -- so what's the alternative?
+MR. KROGER:
+
+I think the alternative, Your
+
+3
+
+Honor, is application of Hill v. Lockhart, which looks
+
+4
+
+not at speculation about how this could or could not
+
+5
+
+have affected the plea bargaining process, but looks
+
+6
+
+very concretely at the defendant's pretrial
+
+7
+
+decision-making process and examines the record to
+
+8
+
+determine why the defendant pled guilty and whether they
+
+9
+
+can prove with a reasonable probability that he would
+
+10
+11
+
+not have pled guilty -­
+JUSTICE BREYER:
+
+Oh, but that is -- isn't
+
+12
+
+that -- sorry, maybe we are just quibbling.
+
+13
+
+don't quite see it.
+
+14
+
+into the plea bargaining process.
+
+15
+
+guilty, what would have happened?
+
+16
+
+I -- I
+
+That would seem to me to be going
+
+MR. KROGER:
+
+Would he have pleaded
+
+I -- I think the difference,
+
+17
+
+Your Honor, is that when you are applying
+
+18
+
+Hill v. Lockhart, you almost always have at least three
+
+19
+
+very concrete pieces evidence to show the defendant's
+
+20
+
+state of mind.
+
+21
+
+or deposition, or in this case both.
+
+22
+
+counsel's affidavit for testimony about the
+
+23
+
+decision-making process his client engaged in, and then
+
+24
+
+you have the guilty plea colloquy itself.
+
+25
+
+You have the defendant's own testimony
+You have the trial
+
+So you always have a -- a concrete record
+11
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+that the court years later can review in order to
+
+2
+
+determine what motivated the -- the decision to plead
+
+3
+
+guilty.
+
+4
+
+If one were applying Judge Berzon's proposed
+
+5
+
+alternative prejudice finding, one would have to engage
+
+6
+
+in a great deal of speculation.
+
+7
+
+have defense counsel and the government make claims
+
+8
+
+about what they might have done in response to
+
+9
+
+hypotheticals, which does not seem to be a -- a -- a
+
+10
+
+reasonably judicable standard.
+
+11
+
+JUSTICE SOTOMAYOR:
+
+One would, I presume,
+
+As a -­
+Without any
+
+12
+
+confession -- forget about the brother or the
+
+13
+
+girlfriend -- assume that there had been no confession,
+
+14
+
+wouldn't it have been a fair conclusion to draw that
+
+15
+
+without any confession whatsoever that the plea
+
+16
+
+bargaining strength of the defendant in this case would
+
+17
+
+have been appreciably higher and that the prosecutor
+
+18
+
+would have had to offer something -­
+
+19
+20
+
+MR. KROGER:
+
+Your Honor, if none of -- none
+
+of the three confessions -­
+
+21
+
+JUSTICE SOTOMAYOR:
+
+None of the three -­
+
+22
+
+MR. KROGER -- had been made.
+
+23
+
+JUSTICE SOTOMAYOR:
+
+-- whatsoever.
+
+I mean,
+
+24
+
+if the brother's confession -- or the confession to the
+
+25
+
+brother is a very big piece of why a plea would have
+12
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+been reasonable in this case.
+
+2
+
+confession.
+
+3
+
+MR. KROGER:
+
+Let's assume no
+
+Your Honor, I still think
+
+4
+
+taking, recommending a guilty plea and taking of a
+
+5
+
+guilty plea would be a rational response to the
+
+6
+
+remaining evidence.
+
+7
+
+proceeding, the police had uncovered certainly the body
+
+8
+
+with the direct shot to the temple.
+
+9
+
+the -- the murder weapon.
+
+Even at this early stage in the
+
+It had recovered
+
+It had recovered the car
+
+10
+
+which the defendants had borrowed and which had blood in
+
+11
+
+the trunk where the victim had been locked and
+
+12
+
+transported.
+
+13
+
+They had four witnesses who were present
+
+14
+
+when the plan to kidnap and assault the victim was
+
+15
+
+hatched.
+
+16
+
+about the forming of the plot.
+
+17
+
+So they would have testified very directly
+
+There was an eyewitness who identified the
+
+18
+
+defendant, Mr. Moore, at the trailer where the victim
+
+19
+
+was abducted.
+
+20
+
+co-conspirator, Mr. Salyer, who was cooperating with the
+
+21
+
+Government prior to the confession and whose -- whose
+
+22
+
+cooperation was known to the defendant.
+
+23
+
+And then, of course, there was a
+
+So, with all of those pieces, even if one
+
+24
+
+stripped the three confessions out of the case, you
+
+25
+
+would still have a situation where the Government 's
+13
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+case was strong, where there was a very severe risk the
+
+2
+
+Government would go to the grand jury and obtain an
+
+3
+
+aggravated murder charge, and where there was
+
+4
+
+significant advantages to pleading early and locking in
+
+5
+
+a lower sentence to a felony murder charge.
+
+6
+
+JUSTICE GINSBURG:
+
+Mr. Kroger, from -­
+
+7
+
+General Kroger -- from everything you said, and I take
+
+8
+
+it -- from your brief, too, that you are not urging
+
+9
+
+the -- that -- that counsel's assistance was adequate?
+
+10
+
+You are not contesting that the confession was
+
+11
+
+involuntary?
+
+12
+
+prejudice issue; is that right?
+
+13
+
+You seem to be putting everything on the
+
+MR. KROGER:
+
+No, Your Honor.
+
+We -- we
+
+14
+
+concede and forfeited the issue that the -- the motion
+
+15
+
+to suppress would have been meritorious, but believed
+
+16
+
+the district court got it right when it held that on
+
+17
+
+both prongs of Strickland, both on deficient performance
+
+18
+
+and on prejudice, the defendant has failed to make
+
+19
+
+his -- his -- meet his burden of proof.
+
+20
+
+I think the -- the prejudice argument here
+
+21
+
+is extraordinarily strong, but I think the deficient
+
+22
+
+performance, even if one concedes that the motion would
+
+23
+
+have been meritorious, the deficient performance prong
+
+24
+
+is strong as well, because the defendant can't meet his
+
+25
+
+burden of proof that defense counsel's representation
+14
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+was unreasonable, given the strength of the government's
+
+2
+
+case, given the quality of the plea offer that was made,
+
+3
+
+and given the defendant's own reasoning for why he pled
+
+4
+
+guilty.
+
+5
+
+The case has significant practical
+
+6
+
+consequences for the criminal justice system.
+
+One is
+
+7
+
+that if the Ninth Circuit's opinion stands, it will be
+
+8
+
+much easier to challenge guilty pleas years after the
+
+9
+
+fact on collateral challenge, and this will undercut the
+
+10
+
+principle of finality.
+
+11
+
+see fewer Government plea offers in cases like this, if
+
+12
+
+the Government believed years later it would have to
+
+13
+
+present all of its trial evidence in a collateral
+
+14
+
+proceeding in order to rebut the presumption under
+
+15
+
+Fulminante that there was prejudice.
+
+16
+
+One would certainly expect to
+
+Second, it has severe implications for the
+
+17
+
+freedom of defense counsel to exercise its discretion
+
+18
+
+and represent its client using the wide latitude that
+
+19
+
+Strickland recognized was necessary.
+
+20
+
+stated that it's a mistake to hem in defense counsel
+
+21
+
+with strict rules about what should or should not be
+
+22
+
+done, because defense counsel needs that wide latitude.
+
+23
+
+If there is a -- a virtual presumption that motions to
+
+24
+
+suppress must be filed, even where defense counsel
+
+25
+
+reasonably believes it will not resound to the advantage
+15
+
+Alderson Reporting Company
+
+Strickland itself
+
+Official - Subject to Final Review
+
+1
+
+of his client and may cost the client a chance to plea
+
+2
+
+early, the defense counsel must take that option, it's a
+
+3
+
+severe restriction on the -­
+
+4
+
+JUSTICE BREYER:
+
+If -- if he had gone to
+
+5
+
+trial, what's the sentence -- what's the range of
+
+6
+
+sentence he could have gotten?
+
+7
+
+MR. KROGER:
+
+Your Honor, if he had gone to
+
+8
+
+trial on the charges that were pending, and these -­
+
+9
+
+these were not charges from the grand jury, he would
+
+10
+
+have faced at least the mandatory minimum of 25 years
+
+11
+
+that he pled guilty to, plus the potential of
+
+12
+
+additional -- an additional sentence both on that charge
+
+13
+
+perhaps as high as life, given the two other potential
+
+14
+
+mandatory minimum sentences of -- of kidnapping and
+
+15
+
+assault that could be brought.
+
+16
+
+JUSTICE BREYER:
+
+And if they had gone back
+
+17
+
+to the grand jury, as the prosecutor I guess could have
+
+18
+
+done, it could have gone to the grand jury?
+
+19
+20
+
+MR. KROGER:
+Your Honor, yes.
+
+21
+grand jury.
+
+23
+
+gotten?
+
+25
+
+So -­
+
+JUSTICE BREYER:
+
+22
+
+24
+
+This case pled guilty before,
+
+It could have gone to the
+
+Then what is the maximum he could have
+
+MR. KROGER:
+case, Your Honor.
+
+It could have been a capital
+
+This could have been an aggravated
+16
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+murder case because the facts involved a very severe
+
+2
+
+beating to the extent perhaps of torture where a
+
+3
+
+Defendant who was very vulnerable who had a protruding
+
+4
+
+hernia that was in a truss was savagely beaten, his nose
+
+5
+
+was broken, he was locked in the trunk of the car, taken
+
+6
+
+to a remote location and shot in the temple with one
+
+7
+
+shot of a revolver.
+
+8
+9
+
+It is distinctly possible that the state
+would have come from the Grand Jury as a capital case
+
+10
+
+and at the very least have been an aggravated murder
+
+11
+
+carrying a life sentence, not a 25-year sentence.
+
+12
+
+JUSTICE GINSBURG:
+
+What about his argument
+
+13
+
+that his failure -- the Defendant in the case arising
+
+14
+
+out of this episode, if Salyer did go to trial and he
+
+15
+
+ended up getting that exact same sentence that this
+
+16
+
+Defendant did?
+
+17
+
+MR. KROGER:
+
+Yes, Your Honor.
+
+Mr. Salyer
+
+18
+
+did receive the same sentence after he went to trial.
+
+19
+
+His case, though, was very different from that of the
+
+20
+
+Petitioner, because the Petitioner was the individual
+
+21
+
+who cocked the pistol and fired the round into the head
+
+22
+
+of the victim killing him.
+
+23
+
+that the other two co-conspirators would have found
+
+24
+
+themselves charged with an intentional murder based on
+
+25
+
+the facts of this case.
+
+And so it is very unlikely
+
+But because this pistol could
+17
+
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+only be fired if it were cocked and because the round
+
+2
+
+went into the temple, it would have been a reasonably
+
+3
+
+strong aggravated murder case against this Defendant who
+
+4
+
+was the triggerman.
+
+5
+
+The final point I would like to make to the
+
+6
+
+Court is that this case involves or should involve
+
+7
+
+significant deference to the State court decision.
+
+8
+
+was not a summary denial by the State court.
+
+9
+
+court held a hearing at which it received all testimony
+
+This
+
+The State
+
+10
+
+that was available.
+
+11
+
+fact about the facts in the case.
+
+12
+
+finding about the evidence that had been submitted by
+
+13
+
+the Petitioner, and it ruled after citing the proper
+
+14
+
+Strickland standard that the Defendant had failed to
+
+15
+
+carry his burden of proof.
+
+16
+
+It made very explicit findings of
+
+JUSTICE KENNEDY:
+
+It made a credibility
+
+It's a little hard when we
+
+17
+
+take away the finding that the confession was
+
+18
+
+admissible.
+
+We have to extract that.
+
+19
+
+MR. KROGER:
+
+Your Honor, even if you -­
+
+20
+
+JUSTICE KENNEDY:
+
+I'm not quite sure what to
+
+21
+
+do with the State court's case, assuming we have to
+
+22
+
+presume, because of the posture of the case, that the
+
+23
+
+confession was inadmissible.
+
+24
+25
+
+MR. KROGER:
+
+Your Honor, I would say two
+
+things with respect to that.
+
+First of all, the State
+
+18
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+court's decision, even if it were incorrect in its
+
+2
+
+ruling that the confession would not have been
+
+3
+
+admissible, the State court's conclusion that the motion
+
+4
+
+would not have assisted the Defendant in any way, the
+
+5
+
+finding that it would have been fruitless because of the
+
+6
+
+other confessions, the other two confessions in the
+
+7
+
+case, is a reasonable decision that the Court made and
+
+8
+
+is dispositive and thus under AEDPA should receive
+
+9
+
+deference.
+
+10
+
+I would also suggest the case is somewhat
+
+11
+
+similar to Yarborough v. Alvarado.
+
+12
+
+issue at stake and this Court explicitly held that one
+
+13
+
+might come out one way or the other on the custody
+
+14
+
+issue, that reasonable jurists might split, but that
+
+15
+
+that fact alone rendered the State court's opinion on
+
+16
+
+voluntariness or on custody in that issue as reasonable.
+
+17
+
+There was a custody
+
+And again, as here, though we are not
+
+18
+
+asserting that this confession was admissible, should
+
+19
+
+the Court consider it, it's clearly a close question on
+
+20
+
+voluntariness and somewhat factually similar to
+
+21
+
+Yarborough where even if the State court were was wrong,
+
+22
+
+it was still a reasonable adjudication of the claims.
+
+23
+
+If there were no further questions from the
+
+24
+
+Court, Your Honor, I would like to reserve the remainder
+
+25
+
+of my time for rebuttal.
+19
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+CHIEF JUSTICE ROBERTS:
+
+2
+
+Mr. Wax?
+
+3
+
+ORAL ARGUMENT OF STEVEN T. WAX
+
+4
+
+ON BEHALF OF THE RESPONDENT
+
+5
+6
+
+Thank you, counsel.
+
+MR. WAX:
+
+Mr. Chief Justice, and may it
+
+please the Court:
+
+7
+
+Mr. Moore established prejudice under Hill
+
+8
+
+from his attorney's failure to recognize the
+
+9
+
+involuntariness and inadmissibility of the lengthy tape
+
+10
+
+recorded statement obtained from him by the police.
+
+11
+
+most critical type of evidence that the State can have
+
+12
+
+in any case.
+
+13
+
+The
+
+The Ninth Circuit's conclusion to that
+
+14
+
+effect was correct, and was correctly based on this
+
+15
+
+Court's precedence of Strickland, Hill, and Kimmelman.
+
+16
+
+JUSTICE SOTOMAYOR:
+
+I am having a little bit
+
+17
+
+of trouble here with your argument for the following
+
+18
+
+reasons.
+
+19
+
+unreasonable for the defense attorney to have concluded
+
+20
+
+that the evidence showing your client's presence at the
+
+21
+
+shooting, and identification as the shooter, that it was
+
+22
+
+solely that he should have gone to trial on a defense
+
+23
+
+that he wasn't involved in the shooting at all.
+
+24
+25
+
+Assume we suppress the confession.
+
+Why is it
+
+Once you put him in this shooting, then the
+only issue he seems to be confused about is that he
+20
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+thinks that because it was accidental that that presents
+
+2
+
+a defense to felony murder.
+
+3
+
+erroneous position on his part.
+
+4
+
+And that's clearly an
+
+So what made the case so weak that the
+
+5
+
+Government was never going without the confession to
+
+6
+
+prove felony murder?
+
+7
+
+MR. WAX:
+
+Well, Your Honor, we believe that
+
+8
+
+the case is not as the State would have it, a strong
+
+9
+
+case in the absence of this confession.
+
+10
+
+We also believe that the proper focus is not
+
+11
+
+solely on the strength of the State's case, and that
+
+12
+
+under Hill it is necessary to look at the totality of
+
+13
+
+the circumstances, and look for the objective factors in
+
+14
+
+this record that inform the decision of what Mr. Moore
+
+15
+
+would have done or would have been likely to have done
+
+16
+
+in the absence of his counsel's mistakes.
+
+17
+
+JUSTICE ALITO:
+
+What does your office do in
+
+18
+
+this situation, all right, a client is indicted in
+
+19
+
+Federal court and you anticipate that there are all
+
+20
+
+sorts of motions that you might make if this case is
+
+21
+
+going to trial, but at an early point the prosecution
+
+22
+
+offers you what looks like a really good plea bargain.
+
+23
+
+Now do you litigate all those motions?
+
+24
+
+know, you have a chance of winning, of suppressing some
+
+25
+
+statements that your client made, suppressing physical
+21
+
+Alderson Reporting Company
+
+If you have, you
+
+Official - Subject to Final Review
+
+1
+
+evidence, getting certain evidence excluded with a
+
+2
+
+motion in limine, maybe you could win on a severance
+
+3
+
+motion, do you think you litigate all those rather than
+
+4
+
+grabbing a good plea deal when it's offered to you?
+
+5
+6
+7
+
+MR. WAX:
+
+Your Honor, the answer is
+
+certainly no, we do not litigate all of the motions.
+JUSTICE ALITO:
+
+So if you take the deal,
+
+8
+
+then you want it later to be open to the Defendant if
+
+9
+
+he's not, you know, after the Defendant has spent some
+
+10
+
+time in jail, he's not too happy with the deal any more,
+
+11
+
+he can now come back and say, well, the Federal public
+
+12
+
+defender's office was ineffective because they could
+
+13
+
+have moved to suppress my confession and the illegal
+
+14
+
+search, et cetera, et cetera, et cetera, that is all
+
+15
+
+open for relitigation years later?
+
+16
+
+MR. WAX:
+
+No, Your Honor.
+
+17
+
+JUSTICE ALITO:
+
+18
+
+MR. WAX:
+
+No?
+
+And the issue here is not as we
+
+19
+
+have attempted to articulate in our brief solely and in
+
+20
+
+the abstract the failure to file the motion.
+
+21
+
+problem is that Mr. Moore's attorney did not understand
+
+22
+
+that the statement was suppressible.
+
+23
+
+that you are putting to me, if I or an assistant in my
+
+24
+
+office says to a client, look, there is a strong motion
+
+25
+
+to suppress the confession, the drugs, what have you,
+22
+
+Alderson Reporting Company
+
+The
+
+In the situation
+
+Official - Subject to Final Review
+
+1
+
+but here are other factors that we should look at.
+
+2
+
+at the conclusion and with that proper advice the client
+
+3
+
+decides I will take the deal, then I have performed
+
+4
+
+effectively, and the case is not one that could be
+
+5
+
+subject to a collateral attack as this case is.
+
+6
+7
+
+JUSTICE SOTOMAYOR:
+
+And
+
+What would have been the
+
+defense?
+
+8
+
+MR. WAX:
+
+9
+
+JUSTICE SOTOMAYOR:
+
+What would have been the
+
+10
+
+defense absent the confession?
+
+You have one at trial on
+
+11
+
+the confession, suppressing it, how would he have defend
+
+12
+
+the this case?
+
+13
+
+MR. WAX:
+
+Excuse me, Your Honor.
+
+Your Honor, he would have been
+
+14
+
+able to defend this case first by articulating the
+
+15
+
+Government's obligation to prove his guilt beyond a
+
+16
+
+reasonable doubt.
+
+17
+
+posit it in your questioning of Attorney General Kroger
+
+18
+
+that the strength of his brother's confession is a
+
+19
+
+given.
+
+20
+
+is a police -­
+
+21
+
+You take out the confession and you
+
+We respectfully disagree.
+
+JUSTICE SOTOMAYOR:
+
+The brother Raymond
+
+What motive would his
+
+22
+
+brother have had to put him at the scene of this
+
+23
+
+shooting as the accidental killer?
+
+24
+
+brother would have had to say.
+
+25
+
+accidentally -- this gun went accidentally off.
+
+That's all his
+
+He was at the scene, he
+
+23
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+2
+
+MR. WAX:
+
+The brother describes himself in the deposition.
+
+3
+4
+
+JUSTICE SOTOMAYOR:
+
+His brother had no
+
+pending charges against him at the time.
+
+5
+6
+
+The brother is a police informant.
+
+MR. WAX:
+
+That is true, Your Honor, but the
+
+police had used them as their agent.
+
+7
+
+JUSTICE SOTOMAYOR:
+
+So what does that have
+
+8
+
+to do with what interest does his brother have when he
+
+9
+
+has no pending charges against him at the time, he's
+
+10
+
+going to use this as a future chip in case he does
+
+11
+
+something wrong?
+
+12
+13
+
+MR. WAX:
+he -­
+
+14
+15
+
+Your Honor, the point is that
+
+JUSTICE SOTOMAYOR:
+jail for 25 years?
+
+16
+
+To put his brother into
+
+This is illogical, counsel.
+
+MR. WAX:
+
+If he were to appear and testify,
+
+17
+
+which is one of the points that I believe the Ninth
+
+18
+
+Circuit properly pointed out, that Mr. Moore knowing his
+
+19
+
+brother might have had every confidence -­
+
+20
+
+JUSTICE BREYER:
+
+Might.
+
+See, that's the
+
+21
+
+trouble.
+
+We have a lot of evidence, I think, here, at
+
+22
+
+least by first glance, that -- a lot of evidence he shot
+
+23
+
+the guy.
+
+24
+
+All right?
+
+25
+
+but if it was accidental, it's still felony murder; and
+
+A lot of evidence he carried -- kidnapped him.
+And now the -- now, maybe it was accidental,
+
+24
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+he received through the plea bargaining the minimum
+
+2
+
+sentence he could get for that.
+
+3
+
+You started out by saying that the -- the
+
+4
+
+State court's conclusion that this was not prejudicial
+
+5
+
+was clearly wrong.
+
+6
+
+what is it so clear, that he could get off if he went to
+
+7
+
+trial?
+
+8
+9
+
+All right.
+
+MR. WAX:
+
+Your Honor, I will respond to the
+
+second part but I believe there is a premise in which
+
+10
+
+you said, that we reject.
+
+11
+
+finding under Hill.
+
+12
+13
+
+16
+
+There is no State court
+
+And there is no deference -­
+
+JUSTICE BREYER:
+
+There is no -- there is no
+
+State court finding that this was not prejudicial?
+
+14
+15
+
+If it's clearly wrong,
+
+MR. WAX:
+
+The court never reached the Hill
+
+question.
+JUSTICE BREYER:
+
+I'm not talking about Hill.
+
+17
+
+I don't know the names of the cases associated.
+
+18
+
+thought that the court in the State court said -- but I
+
+19
+
+might be wrong; I'd like to know -- made a finding that
+
+20
+
+one, this was not ineffective assistance of counsel and
+
+21
+
+two, it was not prejudicial.
+
+22
+
+MR. WAX:
+
+23
+
+JUSTICE BREYER:
+
+I
+
+The State -­
+Now I haven't read this
+
+24
+
+very thoroughly, so -- so you -- yet -- so you tell me
+
+25
+
+if I'm wrong about that.
+25
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+MR. WAX:
+
+At pages 205 and 206 in the
+
+2
+
+appendix in the findings of fact and conclusions of law,
+
+3
+
+there are 11 findings of fact.
+
+4
+
+of fact, in findings of fact 8 and 9, the State court
+
+5
+
+used the word fruitless in describing the motion to
+
+6
+
+suppress.
+
+7
+
+solely addressed Strickland.
+
+8
+
+analysis is there any reference to the question of what
+
+9
+
+Mr. Moore would have done.
+
+10
+11
+12
+
+In one of those findings
+
+In the conclusions of law the State court
+
+JUSTICE BREYER:
+
+And nowhere in the
+
+Doesn't Strickland require
+
+that it be prejudicial?
+MR. WAX:
+
+Yes, of course.
+
+However, the
+
+13
+
+analysis that was undertaken here never reached the
+
+14
+
+question of what Mr. Moore would have done.
+
+15
+
+JUSTICE BREYER:
+
+If I assume that the word
+
+16
+
+"fruitless" and the reference to Strickland were a
+
+17
+
+finding, that this is not prejudicial -- if I assume
+
+18
+
+that for the sake of argument for the moment, what is it
+
+19
+
+that you can show that shows it was prejudicial?
+
+20
+
+MR. WAX:
+
+21
+
+JUSTICE BREYER:
+
+22
+23
+
+Your Honor, I think -­
+That was the same question
+
+I think Justice -- Justice Sotomayor started with.
+MR. WAX:
+
+Your Honor, there is no question
+
+24
+
+that the evidence with respect to the strength of the
+
+25
+
+State's case includes the facts that the attorney
+26
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+general has identified.
+
+2
+
+no question but that the objective record showed that
+
+3
+
+the brother's testimony would have been highly
+
+4
+
+impeachable based on his prior work as an informant, his
+
+5
+
+description of himself -­
+
+6
+
+There is also as we perceive it
+
+JUSTICE SOTOMAYOR:
+
+Impeachable how?
+
+What
+
+7
+
+motive did he have to implicate his brother?
+
+You still
+
+8
+
+haven't answered that question.
+
+9
+
+he was a past cooperator, he had no pending charges, and
+
+All you keep saying is,
+
+10
+
+now he has a motive to do this against his brother
+
+11
+
+because of that?
+
+12
+
+MR. WAX:
+
+Your Honor, I cannot point in the
+
+13
+
+record to a motive.
+
+14
+
+that there is in the record his self-description of
+
+15
+
+himself as the golden boy for the police, his working
+
+16
+
+with the same detective who interrogated his brother
+
+17
+
+years before when he completely avoided a murder charge.
+
+18
+
+What I can point to is the fact
+
+And as a defense attorney, in a case
+
+19
+
+involving a group of men who are not necessarily as
+
+20
+
+socialized and well educated as some other group, that
+
+21
+
+his testimony would have been subject to impeachment.
+
+22
+
+JUSTICE ALITO:
+
+Even without his testimony,
+
+23
+
+isn't there a very strong case of kidnapping?
+
+24
+
+just take it step-by-step.
+
+25
+
+defense to the kidnapping charge?
+
+Let's
+
+What would have been the
+
+27
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+MR. WAX:
+
+The defense to the kidnapping
+
+2
+
+charge in the absence of the confessions could well have
+
+3
+
+been a mere presence defense, that Mr. Moore did not
+
+4
+
+participate in the kidnapping.
+
+5
+
+put the State to his -- to its burden of proof.
+
+6
+
+JUSTICE ALITO:
+
+He had every right to
+
+He didn't -- that he didn't
+
+7
+
+go to the -- to the victim's RV with the other men?
+
+8
+
+That would have been the defense?
+
+9
+
+MR. WAX:
+
+He could certainly have argued
+
+10
+
+that he did not participate in the kidnapping.
+
+11
+
+there, he's in the car, and he had no participation in
+
+12
+
+it.
+
+13
+
+discussion, if I may, is the focus on the question
+
+14
+
+required to be analyzed in Hill.
+
+15
+
+gone to trial?
+
+He's
+
+But what I believe is being missed in this
+
+Would Mr. Moore have
+
+Would he have accepted the plea?
+
+16
+
+JUSTICE GINSBURG:
+
+17
+
+MR. WAX:
+
+18
+
+JUSTICE GINSBURG:
+
+On this -­
+
+And on that there are highly -­
+Mr. Wax, just to clear
+
+19
+
+out some of the underbrush, the Ninth Circuit did say
+
+20
+
+that Fulminante was really established law controlling
+
+21
+
+this case.
+
+22
+
+I take it that you are not defending that?
+MR. WAX:
+
+That is correct.
+
+The clearly
+
+23
+
+established law that governs here is Strickland, Hill
+
+24
+
+and Kimmelman.
+
+25
+
+JUSTICE BREYER:
+
+Okay.
+
+28
+
+Alderson Reporting Company
+
+I've got on the
+
+Official - Subject to Final Review
+
+1
+
+other -- I've got -- the other reason I asked the
+
+2
+
+question, to be clear about it, is that -- is that he
+
+3
+
+wouldn't have gone to trial in my mind unless he had a
+
+4
+
+pretty good chance of getting a better deal.
+
+5
+
+he -- like getting off.
+
+6
+
+minimum.
+
+7
+
+And what
+
+And what he got was the
+
+
+Okay?
+
+One thing I've written down is that the
+
+
+8
+
+State would not have the confession.
+
+9
+
+Number two is he could say his brother is not a very
+
+
+10
+
+good brother.
+
+11
+
+there, and bring all that -- stuff.
+
+12
+
+else?
+
+Moreover he's a rather dubious character
+
+13
+
+MR. WAX:
+
+14
+
+JUSTICE BREYER:
+
+15
+
+That's correct.
+
+
+Was there anything
+
+Yes, Your Honor.
+
+I don't want to miss
+
+
+anything.
+MR. WAX:
+
+16
+
+Yes, Your Honor.
+
+What we have in
+
+
+17
+
+this record is highly unusual combination of four facts
+
+18
+
+appearing at three different stages in the proceeding.
+
+19
+
+First, from his attorney, who articulated this in the
+
+20
+
+sentencing -- it's in the supplemental appendix at page
+
+21
+
+7:
+
+22
+
+fact that this was a felony murder charge, or a felony
+
+23
+
+murder offer.
+
+24
+
+Moore did not plead guilty.
+
+25
+
+Mr. Moore had a very difficult time accepting the
+
+That leads directly to the fact that Mr.
+
+This is only a nolo plea.
+29
+
+Alderson Reporting Company
+
+And while in some
+
+Official - Subject to Final Review
+
+1
+
+circumstances the court will equate a nolo plea with a
+
+2
+
+plea of guilty, in these circumstances the fact that he
+
+3
+
+entered a nolo plea only is highly significant on the
+
+4
+
+question of whether or not he would have rolled the
+
+5
+
+dice.
+
+6
+
+JUSTICE SOTOMAYOR:
+
+And a competent -- and a
+
+7
+
+competent counsel is supposed to accept their irrational
+
+8
+
+client, who doesn't want to understand the law, and let
+
+9
+
+him risk getting an aggravated felony charge brought
+
+10
+
+against him, or a capital murder charge brought against
+
+11
+
+him, and not -- and just go ahead?
+
+12
+
+because he's not going to recommend to the client, go to
+
+13
+
+trial, take the plea, because you're irrational?
+
+14
+
+MR. WAX:
+
+15
+
+JUSTICE SOTOMAYOR:
+
+And try the case
+
+Your Honor -­
+That's really what you
+
+16
+
+are saying, that a competent attorney would not
+
+17
+
+recommend to his client take the plea, and that his
+
+18
+
+client wouldn't ultimately accept the plea, because the
+
+19
+
+objective reality is his upside horrible and his
+
+20
+
+downside is almost a given.
+
+21
+
+MR. WAX:
+
+Your Honor, a competent counsel
+
+22
+
+might advise his counsel to accept a plea.
+
+23
+
+of the irrational client is however one with which I
+
+24
+
+regrettably deal on a regular basis.
+
+25
+
+always accept my advice, and for whatever it is worth in
+30
+
+Alderson Reporting Company
+
+The question
+
+Clients do not
+
+Official - Subject to Final Review
+
+1
+
+the footnote toward the end of his opinion, Judge
+
+2
+
+Reinhardt responds to Judge Bybee by saying:
+
+3
+
+may not be better off by pursuing this habeas corpus
+
+4
+
+action; it is, however, his choice.
+
+5
+
+JUSTICE SCALIA:
+
+Look, he
+
+Yes, but Judge Reinhardt
+
+6
+
+and the court of appeals did not in fact apply the test
+
+7
+
+of Hill, which you are asserting.
+
+8
+
+he would have gone to trial.
+
+9
+
+opinion as ever saying that he would have gone to trial.
+
+10
+
+The test is whether
+
+I -- I didn't read the
+
+The opinion says he could have gotten a better deal.
+
+11
+
+That's quite a different -- quite a
+
+12
+
+different question, and I -- I'm not prepared to make
+
+13
+
+that the test.
+
+14
+
+MR. WAX:
+
+15
+
+JUSTICE SCALIA:
+
+16
+
+Your Honor -­
+But it's not the test
+
+that -- that Hill prescribed.
+
+17
+
+MR. WAX:
+
+I am not advocating for the test
+
+18
+
+articulated by Judge Berzon; I believe that it is a
+
+19
+
+sound approach but it is not what we are advocating for
+
+20
+
+here.
+
+21
+
+would have gone to trial.
+
+22
+
+We believe that this record shows that Mr. Moore
+
+JUSTICE GINSBURG:
+
+Did he say that?
+
+Is
+
+23
+
+there a statement in the record that Moore said he would
+
+24
+
+have insisted on going to trial had he been advised that
+
+25
+
+the suppression motion had merit?
+31
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+MR. WAX:
+
+There is -- there is no direct
+
+2
+
+statement to that effect.
+
+In all the cases where we
+
+3
+
+have found where there is such a direct statement, the
+
+4
+
+courts almost always discount them.
+
+5
+
+we submit, is something more significant, and that is he
+
+6
+
+did not want to enter a plea.
+
+7
+
+and then at the first opportunity that he learned that
+
+8
+
+his attorney had been ineffective, he moved to undo the
+
+9
+
+conviction.
+
+What we have here,
+
+He did not enter a plea,
+
+And we submit that the decision in
+
+10
+
+Roe v. Flores-Ortega, in which this Court found it
+
+11
+
+highly significant that Flores-Ortega moved to initiate
+
+12
+
+an appeal at the first opportunity that he learned that
+
+13
+
+the appeal had been lost, is applicable here.
+
+14
+15
+
+That is an objective fact that this Court
+has found relevant -- and -­
+
+16
+
+JUSTICE BREYER:
+
+That is an irrelevant
+
+17
+
+question.
+
+I don't see how we could go back to a
+
+18
+
+possibly irrational state of mind.
+
+19
+
+when you're trying to figure out what a defendant would
+
+20
+
+have done in the absence of an error in respect to a
+
+21
+
+plea, don't you have to ask a question:
+
+22
+
+rational person have done.
+
+I mean, don't -­
+
+What would a
+
+23
+
+I mean, I would say that's a good question.
+
+24
+
+I don't know the answer, but if we are trying to figure
+
+25
+
+out he might have been totally irrational and would have
+32
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+gone to trial even though he was likely to end up in
+
+2
+
+jail for life as opposed to 25 years, we should then
+
+3
+
+reverse it and give him a trial?
+
+4
+
+by that.
+
+5
+6
+
+MR. WAX:
+
+Your Honor, I am not suggesting
+
+that the -­
+
+7
+8
+
+I'm rather disturbed
+
+JUSTICE BREYER:
+
+What do you actually think
+
+about this?
+
+9
+
+MR. WAX:
+
+I believe that Mr. Moore was
+
+10
+
+making a reasoned judgment.
+
+11
+
+brought the gun to the scene, who by the confessions, is
+
+12
+
+the one who pistol-whipped the victim, received the
+
+13
+
+10-year manslaughter sentence that Mr. Moore believed he
+
+14
+
+should have obtained.
+
+15
+
+received the same sentence that Mr. Moore received.
+
+16
+
+His codefendant brother who
+
+Mr. Salyer, who went to trial,
+
+Mr. Moore's judgment that this should be
+
+17
+
+viewed as an accident and that it was a highly mitigated
+
+18
+
+situation -­
+
+19
+
+JUSTICE GINSBURG:
+
+I think you -- I think
+
+20
+
+General Kroger brought up that Moore carried the gun.
+
+21
+
+It was cocked, and he shot -- who was it?
+
+22
+
+MR. WAX:
+
+Roger.
+
+Your Honor, the gun is brought to
+
+23
+
+the scene -- and this is in the record -- by the
+
+24
+
+codefendant, Lonnie Woolhiser.
+
+25
+
+goes into the trailer and assaults Mr. Rogers.
+
+He has the gun when he
+
+33
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+What the district attorney said, the
+
+2
+
+prosecutor on the scene who understood what was
+
+3
+
+happening, the prosecutor's description at pages 227 and
+
+4
+
+228 of the appendix is:
+
+5
+
+prosecutors states:
+
+6
+
+sole intent here was to put the fear of God into
+
+7
+
+Mr. Rogers for his having ripped off his friend
+
+8
+
+Mr. Salyer.
+
+9
+
+This is an accident.
+
+They had no intent to kill.
+
+hill as follows:
+
+11
+
+pushing Mr. Rogers up the hill.
+
+12
+
+Oregon day and a wet and muddy Oregon hill.
+
+13
+
+Mr. Rogers and Mr. Woolhiser go down -­
+
+15
+16
+
+The
+
+The prosecutor describes the incident on the
+
+10
+
+14
+
+The
+
+That Mr. Woolhiser, with the gun, is
+
+JUSTICE ALITO:
+
+This is a wet and muddy
+
+Excuse me.
+
+And
+
+Where was the
+
+citation for this?
+MR. WAX:
+
+Pages 227 and 228 in the appendix.
+
+17
+
+And he also reiterates the fact in the sentencing, which
+
+18
+
+I believe is at -- at page 3 and 4, the sentencing
+
+19
+
+proceeding in the -­
+
+20
+
+JUSTICE BREYER:
+
+21
+
+believes it was an accident.
+
+22
+
+a lighter sentence?
+
+23
+
+MR. WAX:
+
+They believe it.
+
+The jury
+
+Now, how does that get him
+
+If he goes to trial, the
+
+24
+
+likelihood, first, of a death penalty needs to be put
+
+25
+
+off the table.
+34
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+JUSTICE BREYER:
+
+No.
+
+The sentence is
+
+2
+
+25 years mandatory for felony murder.
+
+3
+
+believes just as you said.
+
+4
+
+accident; he never intended to pull the trigger.
+
+5
+6
+
+Now, the jury
+
+It believes it was an
+
+How does that get him a lighter sentence?
+That's my question.
+
+7
+
+MR. WAX:
+
+If he is convicted solely of the
+
+8
+
+kidnapping, if he is convicted of an assault, he can
+
+9
+
+receive a lighter sentence.
+
+10
+
+If he is convicted of the
+
+felony murder, to be sure the mandatory -­
+
+11
+
+JUSTICE BREYER:
+
+12
+
+MR. WAX:
+
+13
+
+JUSTICE BREYER:
+
+Yes.
+
+Isn't kidnapping a felony?
+But if he -­
+Well, then, if he is
+
+14
+
+kidnapped -- if he is convicted of the kidnapping and
+
+15
+
+there was an accidental murder that took place, I
+
+16
+
+believe that that would be felony murder.
+
+17
+18
+
+MR. WAX:
+
+that, his sentence will -­
+
+19
+
+JUSTICE BREYER:
+
+20
+
+kidnapping was what?
+
+21
+
+MR. WAX:
+
+22
+
+If the jury finds him guilty of
+
+Yes.
+
+Mere presence.
+
+argued a mere presence defense.
+
+23
+
+And the defense to
+
+JUSTICE SOTOMAYOR:
+
+He could have
+
+In the absence -­
+But four witnesses put
+
+24
+
+him at the scene to kidnap this guy and scare him to
+
+25
+
+death.
+
+Or scare him.
+35
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+MR. WAX:
+
+Well, Your Honor, the record shows
+
+2
+
+there was one witness who put him at the scene.
+
+3
+
+record shows that one of the issues that was previously
+
+4
+
+raised, and that in our winnowing of the issues is not
+
+5
+
+currently before this Court, is a challenge to the
+
+6
+
+admissibility of the eyewitness identification at the
+
+7
+
+Rogers trailer.
+
+8
+9
+
+The
+
+One witness there only, and that would be
+subject to challenge, and does not put him into the
+
+10
+
+trailer or participating in the kidnapping or the
+
+11
+
+assault.
+
+12
+
+JUSTICE SCALIA:
+
+Mr. Wax, as far as the
+
+13
+
+confession is concerned and its excludability, what
+
+14
+
+effect do you think we ought to give to this passage in
+
+15
+
+the -- in the defendant's agreement to the plea:
+
+16
+
+understand that any admissions, statements, or
+
+17
+
+confessions which I may have made or any evidence
+
+18
+
+obtained by virtue of the search and seizure of my
+
+19
+
+property may well be inadmissible against me in
+
+20
+
+evidence, unless my constitutional rights have been
+
+21
+
+safeguarded.
+
+22
+
+to an attorney concerning my constitutional rights, that
+
+23
+
+the Court will grant me time for that purpose."
+
+24
+25
+
+"I
+
+I understand that if I would like to speak
+
+MR. WAX:
+
+I believe you should give no
+
+credit to that, because that statement by Mr. Moore is
+36
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+based on the incorrect advice of his attorney.
+
+2
+
+believe that the record here -­
+
+3
+
+JUSTICE SCALIA:
+
+Well, wait.
+
+Wait.
+
+And we
+
+This is
+
+4
+
+not the attorney speaking.
+
+I mean, this is what he
+
+5
+
+said.
+
+6
+
+statements or confessions which I have made may well
+
+7
+
+be" -- "may well be inadmissible against me in
+
+8
+
+evidence."
+
+He said, "I understand that any admissions,
+
+9
+
+MR. WAX:
+
+Your Honor, he had previously been
+
+10
+
+told by his attorney that they were not.
+
+11
+
+was questioned in the post-conviction proceeding before
+
+12
+
+the point of the prejudice under Hill, he says:
+
+13
+
+and entered this nolo plea on the advice of counsel.
+
+14
+15
+
+And when he
+
+I acted
+
+Now, to be sure there is a boilerplate
+statement to the contrary.
+
+16
+
+JUSTICE SCALIA:
+
+Well, boilerplate -- I
+
+17
+
+mean, the man signed it.
+
+18
+
+protect himself against the person who signs a plea
+
+19
+
+agreement later -- later coming in and saying:
+
+20
+
+attorney misadvised me.
+
+21
+
+How can a prosecutor ever
+
+Oh, my
+
+I don't care what your attorney advised you.
+
+22
+
+The plea agreement itself advises you that this stuff
+
+23
+
+may be inadmissible.
+
+24
+
+MR. WAX:
+
+25
+
+said is:
+
+Your Honor, what Mr. Moore has
+
+I enter this plea on the advice of my
+37
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+attorney.
+
+2
+
+been incorrect, and the full record of the case includes
+
+3
+
+that plea petition document.
+
+4
+
+concession that the advice provided was incorrect.
+
+5
+
+That advice is conceded by the State to have
+
+It includes the State's
+
+And while a plea petition form is standard
+
+6
+
+in many State courts, as it is in the Federal court, the
+
+7
+
+reality is that those forms often include statements
+
+8
+
+that are not consistent with the facts that have been
+
+9
+
+presented or that have occurred previously.
+
+10
+11
+12
+
+JUSTICE ALITO:
+
+Could I just clarify
+
+something?
+Is it your position that the prosecutor, in
+
+13
+
+making his offer of proof at the plea on 227 to 228,
+
+14
+
+affirmatively said that this was an accident or did
+
+15
+
+not -- did not allege that it was intentional?
+
+16
+17
+
+MR. WAX:
+
+He affirmatively states that there
+
+was no intent to kill.
+
+18
+
+JUSTICE ALITO:
+
+19
+
+MR. WAX:
+
+20
+21
+
+Where is that?
+
+I -­
+
+I believe it's on page 228, where
+
+he comes back in and says one more thing.
+It is on 228.
+
+And just something that I
+
+22
+
+missed early on:
+
+23
+
+was to instill fear to the point that the victim would
+
+24
+
+not again rip them off. " The description -­
+
+25
+
+"The indicated intent of the defendant
+
+JUSTICE ALITO:
+
+You read that as a -- as a
+
+38
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+claim that there was no intent to kill?
+
+2
+
+MR. WAX:
+
+Yes, sir.
+
+And I believe it is
+
+3
+
+also consistent with the statement of the judge at the
+
+4
+
+sentencing, who described this as a case involving two
+
+5
+
+tragedies.
+
+6
+
+the defendants, the prosecutor, and the judge -­
+
+7
+
+recognized this was an accident.
+
+8
+
+Everyone who participated -- the lawyers for
+
+This was a tragedy.
+
+The judge saying,
+
+9
+
+Mr. Moore, the person who had led a good, law-abiding
+
+10
+
+life, a person who had been a productive member of -­
+
+11
+
+JUSTICE ALITO:
+
+I have to say, I think
+
+12
+
+that's a very aggressive reading of what was said here.
+
+13
+
+It was not necessary for the plea to this offense to
+
+14
+
+prove an intent to kill, and the statement that the
+
+15
+
+intent that was necessary, which is lesser intent but
+
+16
+
+sufficient to support this plea, was present is not a
+
+17
+
+statement that a greater mens rea was absent.
+
+18
+
+And I thought you argued to us that the
+
+19
+
+prosecutor said this was not intentional.
+
+20
+
+accident.
+
+21
+
+MR. WAX:
+
+It was an
+
+Well, I believe, Your Honor, that
+
+22
+
+is the portion to the record to which I am referring at
+
+23
+
+page 228.
+
+24
+
+of the case as facts involving and consistent with the
+
+25
+
+slip and the fall.
+
+He also described at the sentencing the facts
+
+39
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+His description of the incident is a
+
+2
+
+description of Mr. Rogers falling back into the gun.
+
+3
+
+did that both at the plea, which I believe is on page
+
+4
+
+227, and he did it again at the sentencing.
+
+5
+
+is followed by the judge, who articulates the
+
+6
+
+circumstances of this case as involving two tragedies:
+
+7
+
+To be sure, the death of Mr. Rogers, but also the
+
+8
+
+tragedy of Mr. Moore having accidentally killed his
+
+9
+
+friend.
+
+10
+11
+
+And then he
+
+If there are no further questions, I thank
+the Court.
+
+
+12
+
+
+CHIEF JUSTICE ROBERTS:
+
+13
+
+
+General Kroger, you have eight minutes
+
+14
+
+Thank you, counsel.
+
+remaining.
+
+
+15
+
+REBUTTAL ARGUMENT OF GENERAL JOHN R. KROGER
+
+16
+
+ON BEHALF OF THE PETITIONER
+
+17
+18
+
+MR. KROGER:
+
+Mr. Chief Justice, and may it
+
+please the Court:
+
+19
+
+The Court of Appeals here did not apply
+
+20
+
+clearly established Federal law, but applied, for the
+
+21
+
+first time in a way that is non-mandated by the
+
+22
+
+decisions of this Court, Fulminante to a collateral
+
+23
+
+proceeding.
+
+24
+25
+
+He
+
+The State court's adjudication of this claim
+was eminently reasonable on both prongs of Strickland.
+40
+
+Alderson Reporting Company
+
+

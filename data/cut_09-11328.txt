@@ -1,0 +1,5886 @@
+Official - Subject to Final Review
+
+1
+
+P R O C E E D I N G S
+(10:05 a.m.)
+
+2
+3
+
+CHIEF JUSTICE ROBERTS:
+
+We will hear
+
+4
+
+argument first this morning in Case 09-11328, Davis v.
+
+5
+
+United States.
+
+6
+
+Mr. Kerr.
+
+7
+
+ORAL ARGUMENT OF ORIN S. KERR
+
+8
+
+ON BEHALF OF THE PETITIONER
+
+9
+10
+11
+
+MR. KERR:
+
+Thank you, Mr. Chief Justice, and
+
+may it please the Court:
+This case raises the intersection of two
+
+12
+
+similar doctrines of the same vintage that point in
+
+13
+
+exactly opposite directions:
+
+14
+
+and the second, the good faith exception.
+
+15
+
+should reverse and hold that the good faith exception
+
+16
+
+does not apply to reliance on precedent, and instead,
+
+17
+
+that should be governed by the retroactivity principles
+
+18
+
+of Griffith v. Kentucky.
+
+19
+
+The first, retroactivity;
+This Court
+
+I think it's helpful to start with
+
+20
+
+Linkletter v. Walker, the 1965 decision that introduced
+
+21
+
+the concept of retroactivity.
+
+22
+
+Mapp v. Ohio, which had held that the exclusionary rule
+
+23
+
+applied to State violations of the Fourth Amendment, is
+
+24
+
+not retroactive.
+
+25
+
+on a simple syllogism:
+
+Linkletter held that
+
+The Linkletter decision was premised
+The exclusionary rule is about
+3
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+deterrence; a decision that postdates a search cannot
+
+2
+
+deter the police; and therefore, the exclusionary rule
+
+3
+
+should not be available in cases before Mapp.
+
+4
+
+Linkletter's syllogism is the same syllogism
+
+5
+
+that the Court is attempting -- that, sorry, the
+
+6
+
+government is attempting to rely on in this case.
+
+7
+
+History has shown that that syllogism is powerful in the
+
+8
+
+context of collateral review and habeas corpus
+
+9
+
+proceedings, but it should not apply on direct review.
+
+10
+
+It should not apply on direct review for two
+
+11
+
+basic reasons.
+
+12
+
+first case must be treated like other cases on direct
+
+13
+
+review, the exclusionary rule must be available in order
+
+14
+
+to protect the adversary process and avoid advisory
+
+15
+
+opinions, which -­
+
+16
+
+First, because on direct review the
+
+JUSTICE SCALIA:
+
+Excuse me.
+
+You lose me in
+
+17
+
+the argument because it doesn't seem to me that we -- if
+
+18
+
+we did apply the good faith rule, we would be denying
+
+19
+
+retroactive effect to the altered judgment.
+
+20
+
+continues to apply to matters beforehand, but it's a
+
+21
+
+totally different question whether, assuming it is
+
+22
+
+retroactive, the good faith exception to the
+
+23
+
+exclusionary rule applies.
+
+24
+
+question from retroactivity, it seems to me.
+
+25
+
+MR. KERR:
+
+It
+
+It's a -- it's a separate
+
+I disagree, Justice Scalia.
+4
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+During the Linkletter period, the scope of the
+
+2
+
+exclusionary rule for the Fourth Amendment was an
+
+3
+
+essential concern in a series of retroactivity cases,
+
+4
+
+Linkletter being the first, Desist v. United States
+
+5
+
+being the second.
+
+6
+
+era retroactivity cases were concerned with the Fourth
+
+7
+
+Amendment exclusionary rule.
+
+8
+
+JUSTICE KENNEDY:
+
+9
+
+There were -- many of the Linkletter
+
+Justice Scalia's point:
+
+Yes, but just to pursue
+
+The good faith rule is itself a
+
+10
+
+rule that's intact, that's a precedent, that was on the
+
+11
+
+books, and the good faith rule qualifies the
+
+12
+
+exclusionary rule.
+
+13
+
+good faith rule here?
+
+14
+
+MR. KERR:
+
+15
+
+JUSTICE KENNEDY:
+
+So why aren't we just following the
+
+The -­
+I mean, there's nothing
+
+16
+
+retroactive or prospective about it.
+
+17
+
+just applying the existing law.
+MR. KERR:
+
+18
+
+It's just -- it's
+
+I disagree, Justice Kennedy.
+
+19
+
+It's not applying existing law, because the effect of
+
+20
+
+what is labeled the good faith exception in this setting
+
+21
+
+is actually to apply the prior decision; that is, to
+
+22
+
+have all of the substance and effect of a retroactivity
+
+23
+
+decision.
+
+24
+25
+
+JUSTICE KENNEDY:
+
+Well, that's an
+
+application of -- that's a subset, it's one application,
+5
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+of the good faith rule, which is an overall principle.
+
+2
+
+But we're being faithful, under the government's view,
+
+3
+
+it seems to me, to the overall principle.
+
+4
+
+MR. KERR:
+
+I think the Court needs to take
+
+5
+
+away the labels here.
+
+The government is using a label
+
+6
+
+of good faith for what is essentially a retroactivity
+
+7
+
+argument.
+JUSTICE SCALIA:
+
+8
+9
+
+It's not a label at all.
+
+You're -- we're not denying the application of the
+
+10
+
+altered rule to your client's conduct.
+
+11
+
+the question of whether, when it does apply, the good
+
+12
+
+faith disregard of it by a police officer nonetheless
+
+13
+
+allows the evidence to be admitted, it's a totally
+
+14
+
+different -- we're giving full retroactive effect to
+
+15
+
+the -- to the change in the law.
+MR. KERR:
+
+16
+
+It applies.
+
+But
+
+At the same time, Justice Scalia,
+
+17
+
+whatever rule is applied in this case would have to be
+
+18
+
+the same rule that applies in Gant itself, and without
+
+19
+
+the incentive of counsel to argue in favor of the change
+
+20
+
+in the law, that would block claims by defense attorneys
+
+21
+
+to overturn the precedents of this Court.
+CHIEF JUSTICE ROBERTS:
+
+22
+
+Well, Mr. Kerr, our
+
+23
+
+cases have talked about the deterrence impact on police
+
+24
+
+conduct.
+
+25
+
+notion to cover incentives for defendants, and as I
+
+It seems to me you're trying to expand that
+
+6
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+read -- I guess it's Leon, in footnote 25, it says the
+
+2
+
+argument that defendants will lose their incentive to
+
+3
+
+litigate meritorious Fourth Amendment claims as a result
+
+4
+
+of a good faith exception is -- is unpersuasive.
+MR. KERR:
+
+5
+
+Leon, I think, raised a different
+
+6
+
+setting.
+
+It raised the question of reliance on errors
+
+7
+
+by a magistrate judge, which simply does not implicate
+
+8
+
+the concerns of retroactivity, which is this Court
+
+9
+
+changing its interpretation of the Fourth Amendment.
+
+10
+
+think that raises a distinct set of principles, as
+
+11
+
+Justice Harlan recognized in his dissent in Desist and
+
+12
+
+his separate opinion -­
+
+13
+
+CHIEF JUSTICE ROBERTS:
+
+I
+
+Well, I think our -­
+
+14
+
+our theory on the exclusionary rule across the board,
+
+15
+
+without regard to the underlying substantive violation,
+
+16
+
+is that you look to deterrence of police conduct.
+
+17
+
+here, I mean -- I mean, you agree the police did nothing
+
+18
+
+wrong in this case, don't you?
+
+19
+
+MR. KERR:
+
+20
+
+CHIEF JUSTICE ROBERTS:
+
+21
+22
+
+And
+
+Yes.
+So what impact -­
+
+why do we want to deter them from doing what's right?
+MR. KERR:
+
+Because it takes two branches of
+
+23
+
+government for the exclusionary rule to deter
+
+24
+
+constitutional violations.
+
+25
+
+construe the Fourth Amendment and the police need to
+
+The Court has to properly
+
+7
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+then properly follow the Court's precedents.
+
+2
+
+can't turn away from the role of this Court's precedents
+
+3
+
+in the enforcement of the Fourth Amendment.
+
+4
+
+JUSTICE ALITO:
+
+The Court
+
+Well, I understand your
+
+5
+
+argument with respect to decisions of this Court, and I
+
+6
+
+think that's your strongest argument, but would you
+
+7
+
+concede that that argument does not apply when the
+
+8
+
+precedent on which the police are relying is a decision
+
+9
+
+of one of the courts of appeals or a State supreme court
+
+10
+11
+
+Fourth Amendment decision?
+In that situation, there will be plenty of
+
+12
+
+avenues for obtaining review of the correctness of those
+
+13
+
+decisions; isn't that right?
+
+14
+
+MR. KERR:
+
+Justice Alito, I think it depends
+
+15
+
+on what the good faith exception is.
+
+16
+
+brief I think does not exactly articulate what the
+
+17
+
+standard is that -- to which it would like to apply.
+
+18
+
+The government's
+
+Even so, most Circuit Court decisions
+
+19
+
+interpreting the Fourth Amendment are derivative of this
+
+20
+
+Court's decisions interpreting the Fourth Amendment.
+
+21
+
+And this case is a good example.
+
+22
+
+are quite similar to the facts of Belton.
+
+23
+
+Circuit had not actually expanded upon Belton; it had
+
+24
+
+merely had relatively routine applications of Belton.
+
+25
+
+JUSTICE ALITO:
+
+The facts of this case
+The Eleventh
+
+Well, it applied its
+
+8
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+understanding of Belton, which turned out to be
+
+2
+
+different from the understanding of the Arizona Supreme
+
+3
+
+Court in Gant and the understanding of at least four
+
+4
+
+members of this Court when Gant got here.
+MR. KERR:
+
+5
+
+At the same time, the Eleventh
+
+6
+
+Circuit's development of the law was -- went no further
+
+7
+
+than Belton itself, and this Court needs adversaries to
+
+8
+
+make forthright arguments to this Court which may
+
+9
+
+involve distinguishing precedent and may involve
+
+10
+
+overturning precedent.
+JUSTICE ALITO:
+
+11
+
+If I could just come back to
+
+12
+
+my question:
+
+13
+
+courts of appeals that says certain conduct is permitted
+
+14
+
+under the Fourth Amendment, and the police in that
+
+15
+
+circuit, Federal law enforcement officers in that
+
+16
+
+circuit, follow that precedent.
+
+17
+
+Suppose you have a decision in one of the
+
+Now, is -- will there not be plenty of
+
+18
+
+opportunities to review the correctness of that decision
+
+19
+
+because the issue may arise in other circuits where the
+
+20
+
+matter isn't settled?
+
+21
+
+MR. KERR:
+
+If this Court adopts a good faith
+
+22
+
+exception that is quite narrow and would not allow an
+
+23
+
+officer in one circuit to reasonably rely on the clear
+
+24
+
+circuit court decisions of another circuit, that's
+
+25
+
+certainly a possibility.
+
+However, it's not clear as to
+9
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+why the Court would adopt such a narrow version of the
+
+2
+
+exception.
+
+3
+
+at least, seems to be the language of qualified
+
+4
+
+immunity; the notion of reasonable reliance on a
+
+5
+
+decision being believed to be lawful.
+
+6
+
+The language that the government proposes,
+
+JUSTICE GINSBURG:
+
+Mr. Kerr, the line that
+
+7
+
+has been suggested by Justice Scalia and Justice
+
+8
+
+Kennedy, that is exactly the line that the Eleventh
+
+9
+
+Circuit took; is it not the case?
+
+10
+
+I mean, Judge Kravitch said:
+
+Yes, the
+
+11
+
+Fourth Amendment was violated, so to that extent we're
+
+12
+
+following retroactivity precedent.
+
+13
+
+something different.
+
+14
+
+took, wasn't it?
+
+But the remedy is
+
+That was exactly the line that she
+
+15
+
+MR. KERR:
+
+That's correct.
+
+16
+
+JUSTICE GINSBURG:
+
+And on your theory, I
+
+17
+
+mean, there's another question in this case; that is,
+
+18
+
+perhaps this evidence would come in under the inventory,
+
+19
+
+as a -- as a legitimate inventory search, and if the
+
+20
+
+Court decided that question, then -- then the question
+
+21
+
+you're arguing, the exclusionary rule question, would
+
+22
+
+have no practical consequences.
+
+23
+
+On your theory, the way you reasoned,
+
+24
+
+shouldn't the Court first decide was this a legitimate
+
+25
+
+inventory search, and if so, then we never get to any
+10
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+exclusionary rule question?
+MR. KERR:
+
+2
+
+That issue, of course, has not
+
+3
+
+been briefed in this case.
+
+4
+
+Eleventh Circuit to apply that in the event the Court
+
+5
+
+reverses.
+
+6
+
+It would remain for the
+
+At the same time, I wish to be clear that
+
+7
+
+I'm not arguing that the exclusionary rule is available
+
+8
+
+in every case when the Court overturns its precedent,
+
+9
+
+merely that it is a remedy in some cases, and I think
+
+10
+11
+
+it's actually a necessary cost.
+CHIEF JUSTICE ROBERTS:
+
+If I could just
+
+12
+
+follow up on Justice Ginsburg's question.
+
+13
+
+defendant have any incentive to bring his constitutional
+
+14
+
+claim if, as may or may not appear too likely, the
+
+15
+
+inventory search is going to result in the admission of
+
+16
+
+the evidence anyway?
+
+17
+
+Why did this
+
+It seems that your theory goes too far in
+
+18
+
+saying that defendants will never have an incentive to
+
+19
+
+bring a constitutional challenge if there's some other
+
+20
+
+ground on which the evidence might be admitted, and
+
+21
+
+that's never been our law.
+
+22
+
+MR. KERR:
+
+I agree that's never been the
+
+23
+
+Court's law, and I think there's an important
+
+24
+
+distinction to be made here.
+
+25
+
+an argument that has a remote chance of success, and
+
+The distinction is between
+
+11
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+defendants will make those claims, and arguments that
+
+2
+
+have no chance of success, which is no -­
+CHIEF JUSTICE ROBERTS:
+
+3
+
+Well, it's often -­
+
+4
+
+we do that.
+
+We take cases where you can bring a
+
+5
+
+constitutional challenge or a different challenge all
+
+6
+
+the time, qualified immunity cases, you know, what was
+
+7
+
+the law and was it clearly established?
+
+8
+
+bring the qualified immunity cases all the time even if
+
+9
+
+they have a tough case on whether it's clearly
+
+Defendants
+
+10
+
+established.
+
+Harmless error cases, the underlying
+
+11
+
+violation, whether it's a harmless error, and the Court
+
+12
+
+can decide the case on either ground, but that doesn't
+
+13
+
+keep defendants from bringing the claims.
+
+14
+
+MR. KERR:
+
+15
+
+between a tough case and no case.
+
+16
+
+government's claim is the defendant would know any
+
+17
+
+effort to challenge this Court's precedent cannot
+
+18
+
+logically lead to any relief.
+
+19
+
+lose on the merits, if the Court upholds its precedent
+
+20
+
+or the defendant will lose under the good faith
+
+21
+
+exception.
+
+22
+
+But there's a big difference
+The difficulty of the
+
+Either the defendant will
+
+CHIEF JUSTICE ROBERTS:
+
+So your incentive
+
+23
+
+argument really only holds up when the ground on the
+
+24
+
+alternative ground is hopeless?
+
+25
+
+the defendants to bring a Fourth Amendment claim because
+
+Otherwise we'll expect
+
+12
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+it's pretty easy to bring.
+
+2
+
+MR. KERR:
+
+3
+
+chance of likelihood.
+
+4
+
+government's position, is that it -­
+
+5
+
+Hopeless meaning a zero percent
+That's the difficulty of the
+
+JUSTICE KAGAN:
+
+Mr. Kerr, let's say I'm
+
+6
+
+concerned about the kinds of issues that you're raise,
+
+7
+
+the incentives on defense counsel and also the oddity of
+
+8
+
+the Court deciding a case in which it's absolutely not
+
+9
+
+possible to grant a remedy.
+
+Wouldn't the solution to
+
+10
+
+that be not the rule that you are advocating, but
+
+11
+
+instead a much more limited rule which said that in that
+
+12
+
+case the exclusionary rule applied, but not in any other
+
+13
+
+case, not in any case on direct appeal?
+
+14
+
+MR. KERR:
+
+I think Justice Harlan's answer
+
+15
+
+to that is persuasive, that it's inconsistent with basic
+
+16
+
+norms of constitutional adjudication to treat the first
+
+17
+
+case differently from other cases not on -- other cases
+
+18
+
+on direct review.
+
+19
+
+JUSTICE KAGAN:
+
+I guess, Mr. Kerr, I'm not
+
+20
+
+sure that that's right.
+
+Justice Harlan was talking
+
+21
+
+about constitutional rights at a period where, as the
+
+22
+
+Chief Justice said, the exclusionary rule was viewed as
+
+23
+
+part of the constitutional right.
+
+24
+
+doesn't view the exclusionary rule that way any more, if
+
+25
+
+it views the exclusionary rule as simply a prophylactic
+13
+Alderson Reporting Company
+
+But if this Court
+
+Official - Subject to Final Review
+
+1
+
+rule which gives a particular defendant a windfall in
+
+2
+
+order to gain systemic effects, systemic benefits, why
+
+3
+
+would we do it any more broadly than we would need to do
+
+4
+
+it?
+
+5
+
+point that this would very much change the incentives
+
+6
+
+for defense counsel.
+
+7
+
+kind of, I don't know, maybe inconsistent with Article
+
+8
+
+III to take a case in which there was absolutely no
+
+9
+
+chance of relief being granted, but we can deal with
+
+And we would just say:
+
+Look, we understand your
+
+We understand your point that it's
+
+10
+
+those issues simply by saying that in your case you get
+
+11
+
+relief, but not in any other.
+
+12
+
+MR. KERR:
+
+Justice Kagan, that was the
+
+13
+
+precise premise of the Linkletter regime.
+
+14
+
+the exclusionary rule as a judge-created remedy, the
+
+15
+
+idea of the exclusionary rule as not being a personal
+
+16
+
+right, that actually was the premise of Linkletter.
+
+17
+
+to go back to something that resembles that regime in
+
+18
+
+substance, even if with a new label.
+
+19
+
+advised in light of the history of the Linkletter era,
+
+20
+
+and the Court's struggles to try to articulate a
+
+21
+
+consistent standard that can treat the first case and
+
+22
+
+other cases similarly.
+
+23
+
+The idea of
+
+So
+
+I think is ill­
+
+I think Desist was a Fourth Amendment case,
+
+24
+
+Peltier also a Fourth Amendment case, Peltier also a
+
+25
+
+Fourth Amendment case.
+
+The government's proposal is
+14
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+essentially a return to Peltier with a difference.
+
+2
+
+the Court wants to treat the first case differently than
+
+3
+
+later cases, it is essentially recreating Peltier.
+JUSTICE ALITO:
+
+4
+
+If
+
+With respect to the
+
+5
+
+incentives that you're talking about, is there really
+
+6
+
+much difference between what would apply in a case like
+
+7
+
+this and what already applies in cases that fall under
+
+8
+
+Krull?
+
+9
+
+authorizes a search under particular circumstances, as
+
+Suppose Congress enacts a statute that
+
+10
+
+it did, as was the case in Almeida-Sanchez.
+
+Now, under
+
+11
+
+Krull nobody is going to be able to, and no one who is
+
+12
+
+subjected to a search under that statute is going to be
+
+13
+
+able, to challenge, to obtain suppression, unless you
+
+14
+
+can say that a reasonable law enforcement officer
+
+15
+
+couldn't have thought that this statute which was
+
+16
+
+enacted by Congress and signed by the President was a
+
+17
+
+correct interpretation of the Fourth Amendment.
+Now, maybe there'll be a few cases like
+
+18
+19
+
+that, but in the great majority, the vast majority of
+
+20
+
+cases, the person will not be able to mount such a
+
+21
+
+challenge.
+
+22
+
+situation here and the situation that the Court already
+
+23
+
+approved in Krull?
+MR. KERR:
+
+24
+25
+
+So what is the difference between the
+
+differences.
+
+I think there are two
+
+One is that there is a substantial
+15
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+difference from the standpoint of a defendant or defense
+
+2
+
+attorney between a remote chance of success in a legal
+
+3
+
+claim and no chance of success on a legal claim.
+
+4
+
+leaves open the possibility -- and it may be remote, but
+
+5
+
+nonetheless a possibility -- of relief if the defendant
+
+6
+
+can persuade a court that a reasonable officer would
+
+7
+
+have known in light of this Court's precedent that the
+
+8
+
+statute allowed unconstitutional searches.
+JUSTICE ALITO:
+
+9
+
+Krull
+
+Well, we could leave that
+
+10
+
+open here.
+
+11
+
+immunity if a reasonable officer couldn't have believed
+
+12
+
+that a prior decision of this Court was a correct
+
+13
+
+interpretation of the Fourth Amendment.
+
+14
+
+sounds strange only because we have a higher opinion of
+
+15
+
+ourselves than we do of the Congress and the President.
+
+16
+
+We could say that there's no good faith
+
+MR. KERR:
+
+Maybe that
+
+And yet I think your -- your
+
+17
+
+hypothetical, your suggestion that perhaps the Court
+
+18
+
+could adopt that standard, shows the difficulty of
+
+19
+
+trying to craft a good faith exception that ends up
+
+20
+
+running up against the Linkletter problem.
+
+21
+
+exactly the issue the Court struggled with during the
+
+22
+
+Linkletter era that Justice Harlan -­
+
+23
+
+JUSTICE GINSBURG:
+
+This is
+
+Essentially, is your
+
+24
+
+argument essentially that we should distinguish never,
+
+25
+
+which would be this case if your position is not right,
+16
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+and hardly ever.
+
+Is that -­
+
+MR. KERR:
+
+2
+
+That's correct.
+
+Where the rule
+
+3
+
+is never, defendants are unlikely to make any sort of
+
+4
+
+claim, and this Court would be denied the opportunity to
+
+5
+
+review its own precedents, and that's an essential role
+
+6
+
+of this Court's decisions in the Fourth Amendment
+
+7
+
+setting.
+JUSTICE KENNEDY:
+
+8
+9
+
+Well, you might respond
+
+that the government's going to say, well, there's Monell
+
+10
+
+that's in their brief, and you'll probably say that
+
+11
+
+that's a weak substitute for a criminal defense
+
+12
+
+attorney's doing it in the trial itself.
+MR. KERR:
+
+13
+
+It is a weak substitute.
+
+There's
+
+14
+
+been no case that I'm aware of at least involving
+
+15
+
+liability against a municipality seeking law reform.
+
+16
+
+It's because the Court has rejected the notion of
+
+17
+
+municipal liability as being based on respondeat
+
+18
+
+superior.
+
+19
+
+JUSTICE KENNEDY:
+
+Suppose we were concerned
+
+20
+
+with the costs of your rule in the sense that Gant does
+
+21
+
+have some exception for the safety of the officers, and
+
+22
+
+I think you can read the case if there's some general
+
+23
+
+safety considerations for not securing the car in a
+
+24
+
+neighborhood rather than leave it by itself.
+
+25
+
+adopted your rule, the prosecution in all those cases
+17
+Alderson Reporting Company
+
+If we
+
+Official - Subject to Final Review
+
+1
+
+would not have had the opportunity to make those
+
+2
+
+additional defenses or those -- to advance those
+
+3
+
+additional justifications for the search.
+
+4
+
+say, well, I'm just trying to resurrect Linkletter.
+MR. KERR:
+
+5
+
+I disagree.
+
+Maybe you'll
+
+Just to explain,
+
+6
+
+Justice Kennedy, my rule would be to retain the existing
+
+7
+
+practice of this Court.
+
+8
+
+the practice of this Court, and that is when the Court
+
+9
+
+recognized the need to overturn Belton or at least to
+
+I'm suggesting no changes in
+
+10
+
+substantially change Belton in the Gant case, the Court,
+
+11
+
+Justice Alito in his dissent, recognized that there were
+
+12
+
+costs along with that and that led to review of cases in
+
+13
+
+the lower courts.
+
+14
+
+decisions, the lower courts held that the searches were
+
+15
+
+nonetheless constitutional under Gant, and that was
+
+16
+
+absolutely proper.
+
+17
+
+constitutional violation, no one goes -­
+
+18
+
+JUSTICE KENNEDY:
+
+19
+
+pending.
+
+20
+
+suppose.
+
+In many of those lower court
+
+In those situations there is no
+
+I was concerned with cases that were closed, I
+
+MR. KERR:
+
+21
+
+Well, those cases were
+
+In the closed cases, I'm not in
+
+22
+
+any way challenging the traditional rule of Teague v.
+
+23
+
+Layne and Stone v. Powell that the new rule is not
+
+24
+
+available.
+
+25
+
+is closed and no defendant can seek review.
+
+As soon as the conviction is final, the door
+
+18
+Alderson Reporting Company
+
+This is
+
+Official - Subject to Final Review
+
+1
+
+only about direct review and the initial case in which
+
+2
+
+the rule is announced, and that's why I think it raises
+
+3
+
+a special set of jurisprudential problems because it
+
+4
+
+implicates this Court's need to avoid advisory opinions
+
+5
+
+and to avoid what would amount to a one-way street.
+
+6
+
+Under the government's proposed rules, proposed rule,
+
+7
+
+defendants would have a limited ability to challenge
+
+8
+
+precedents that construe the Fourth Amendment too
+
+9
+
+narrowly, but of course of government would be free in
+
+10
+
+any case to challenge precedents that the government
+
+11
+
+believes construes the Fourth Amendment too broadly.
+
+12
+
+The concern is that over time that would lead to an
+
+13
+
+asymmetry in the Court's outcomes, not as a result of
+
+14
+
+the measured judgments of this Court, but rather as a
+
+15
+
+result of the incentives on counsel, and the Court
+
+16
+
+should strive to avoid that sort of result.
+
+17
+
+CHIEF JUSTICE ROBERTS:
+
+You're asking us for
+
+18
+
+an exception to our general approach, assuming the
+
+19
+
+general approach is not the one you succeed, for, as you
+
+20
+
+put it, cases where there's zero possibility of success,
+
+21
+
+while allowing application of the good faith precedent,
+
+22
+
+even if the chances of success are remote.
+
+23
+
+Is it really worth the candle to have
+
+24
+
+litigation over whether it was a difference between zero
+
+25
+
+chance and remote chance, as opposed to continuing to
+19
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+2
+
+apply the good faith rule across the board?
+MR. KERR:
+
+Just to be clear, the Court has
+
+3
+
+not applied the good faith exception in this setting.
+
+4
+
+The government is arguing for an expansion of the good
+
+5
+
+faith exception into territory which has traditionally
+
+6
+
+been thought to be the regime of retroactivity.
+
+7
+
+CHIEF JUSTICE ROBERTS:
+
+I understand your
+
+8
+
+position on that.
+
+Now, getting to my question, is it
+
+9
+
+really worth it for us to have litigation over the
+
+10
+
+difference between zero and remote in determining what
+
+11
+
+rule we should apply in this case?
+
+12
+
+MR. KERR:
+
+I don't foresee litigation on
+
+13
+
+that point because, at least as I understand the
+
+14
+
+government's rule, as soon as a defendant utters the
+
+15
+
+phrase "This court should overturn its precedent," then
+
+16
+
+the good faith exception would automatically apply.
+
+17
+
+That's at least how I understand the government's
+
+18
+
+proposed rule.
+
+19
+
+exactly what the standard would be, but if the standard
+
+20
+
+is broad enough such that upon asking for -­
+
+21
+
+So it would be up to this Court to craft
+
+CHIEF JUSTICE ROBERTS:
+
+Most lawyers don't
+
+22
+
+take that position.
+
+Most lawyers would argue the
+
+23
+
+Court's precedents should be overturned and, if not,
+
+24
+
+here's why our case is different.
+
+25
+
+required under your theory to look if that second
+20
+Alderson Reporting Company
+
+And we would still be
+
+Official - Subject to Final Review
+
+1
+2
+
+argument has zero chance or only a remote chance.
+MR. KERR:
+
+In that circumstance I think the
+
+3
+
+Court would be forced with issuing what -- forced to
+
+4
+
+issue what may amount to an advisory opinion.
+
+5
+
+CHIEF JUSTICE ROBERTS:
+
+And it seems to
+
+6
+
+me -- I mean, in terms of the incentives on the defense
+
+7
+
+counsel, it would be an odd defense lawyer who is going
+
+8
+
+to say you should consider argument A because my second
+
+9
+
+argument has got zero chance of succeeding.
+
+10
+
+MR. KERR:
+
+I think the incentive on defense
+
+11
+
+counsel, if the government's rule is adopted, is to
+
+12
+
+never argue that cases should be overturned, and instead
+
+13
+
+make not terribly candid arguments to this Court that
+
+14
+
+every case is distinguishable.
+
+15
+
+JUSTICE SCALIA:
+
+Mr. Kerr, I've been on the
+
+16
+
+bench 30 years or so now.
+
+17
+
+counsel come before the court and say that we should
+
+18
+
+overrule a case without making the argument:
+
+19
+
+of this case are not within the prior decision anyway.
+
+20
+
+It just doesn't happen.
+
+21
+
+MR. KERR:
+
+I have never, never heard
+
+The facts
+
+Katz v. United States is perhaps
+
+22
+
+a case worth focusing on, where the Court overturned the
+
+23
+
+rule of Goldman and Olmstead that wiretapping does not
+
+24
+
+implicate the Fourth Amendment.
+
+25
+
+Court argued that the Goldman-Olmstead regime had -- was
+
+Katz's brief to this
+
+21
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+no longer applicable, had been implicitly overturned by
+
+2
+
+prior cases, and then said if it has not been implicitly
+
+3
+
+overturned, it must be overruled.
+
+4
+
+to try to distinguish the facts of the Katz case from
+
+5
+
+the Goldman-Olmstead regime.
+JUSTICE SCALIA:
+
+6
+
+There was no attempt
+
+There was still not the
+
+7
+
+argument you should overrule the prior case, period,
+
+8
+
+with no effort to show why you could come out that way
+
+9
+
+without overruling the prior cases.
+
+10
+
+know -­
+MR. KERR:
+
+11
+12
+
+Scalia, are rare.
+
+13
+
+arguments.
+
+16
+17
+
+Those arguments, I agree, Justice
+
+At the same time they are important
+
+It is an -- it is an alternative argument -­
+JUSTICE SCALIA:
+
+14
+15
+
+I just don't
+
+nonexistent.
+
+I'm saying they're
+
+I'm not saying they're rare.
+CHIEF JUSTICE ROBERTS:
+
+The difference
+
+between zero and remote.
+
+18
+
+(Laughter.)
+
+19
+
+MR. KERR:
+
+Nonetheless, the incentive on
+
+20
+
+counsel under the government's rule would be not to ever
+
+21
+
+make the claim that a precedent should be overturned.
+
+22
+
+And the Court needs that argument to be made in
+
+23
+
+appropriate cases so the Court can enter decisions and
+
+24
+
+consider the balance of the considerations
+
+25
+
+appropriately.
+
+It has done so under the current
+22
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+practice, and that is really as a result of Griffith v.
+
+2
+
+Kentucky, which applies not only -- allows the
+
+3
+
+exclusionary rule to be available in the first case, but
+
+4
+
+in other cases on direct review.
+If there are no further questions, I would
+
+5
+6
+
+like to reserve the balance of my time.
+
+7
+
+CHIEF JUSTICE ROBERTS:
+
+8
+
+Mr. Dreeben.
+ORAL ARGUMENT OF MICHAEL R. DREEBEN
+
+9
+
+ON BEHALF OF THE RESPONDENT
+
+10
+
+MR. DREEBEN:
+
+11
+12
+
+Thank you, counsel.
+
+Mr. Chief Justice, and may it
+
+please the Court:
+Because the exclusionary rule has severe
+
+13
+14
+
+consequences for the truth-seeking function of a
+
+15
+
+criminal trial, this Court has restricted its
+
+16
+
+application to those situations in which it's necessary
+
+17
+
+to further the deterrent purpose of the exclusionary
+
+18
+
+rule, namely to shape police conduct.
+The Court has repeatedly rejected efforts to
+
+19
+20
+
+expand the exclusionary rule to serve other purposes,
+
+21
+
+such as schooling judges who issue warrants on the need
+
+22
+
+to respect the Fourth Amendment, reminding legislatures
+
+23
+
+about their obligations under the Fourth Amendment, and
+
+24
+
+for other purposes such as to preserve judicial
+
+25
+
+integrity.
+23
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+JUSTICE GINSBURG:
+
+Mr. Dreeben, what about
+
+2
+
+Gant itself?
+
+Gant severely qualified Belton.
+
+3
+
+there have been a suppression remedy for Gant, as
+
+4
+
+Justice Kagan suggested, the very case that changes the
+
+5
+
+law?
+MR. DREEBEN:
+
+6
+
+Should
+
+Justice Ginsburg, let me give
+
+7
+
+two responses to that.
+
+First of all, the rule that the
+
+8
+
+Eleventh Circuit adopted in this case, and that is the
+
+9
+
+only rule before the Court, involves a situation in
+
+10
+
+which there is binding appellant precedent that
+
+11
+
+instructs the officer, tells the officer, what you're
+
+12
+
+about to do complies with the Fourth Amendment.
+
+13
+
+The state of the law in Arizona would not
+
+14
+
+necessarily have risen to that level, in light of the
+
+15
+
+dissonance in that court's opinions, in the Arizona
+
+16
+
+Supreme Court opinions, about the reach and scope of
+
+17
+
+Belton.
+So the question about whether the rule that
+
+18
+19
+
+we're urging here would have applied in Arizona is a
+
+20
+
+separate question from the one that the Eleventh Circuit
+
+21
+
+resolved.
+JUSTICE GINSBURG:
+
+22
+23
+
+it?
+
+24
+
+the exclusionary rule?
+
+25
+
+And how would you answer
+
+Was Gant purely prospective or did Gant itself get
+
+MR. DREEBEN:
+
+Gant obtained relief.
+24
+
+Alderson Reporting Company
+
+This
+
+Official - Subject to Final Review
+
+1
+
+Court granted certiorari in Gant limited to the Fourth
+
+2
+
+Amendment question, and Arizona never raised any good
+
+3
+
+faith exception to the exclusionary rule in that case,
+
+4
+
+so the Court did not address the good faith issue.
+JUSTICE GINSBURG:
+
+5
+6
+
+Suppose -- suppose it had
+
+been raised?
+MR. DREEBEN:
+
+7
+
+The logic of our position
+
+8
+
+would be that, to the extent that Gant was seeking
+
+9
+
+Belton to be overruled, he would not be able to impugn
+
+10
+
+the actions of the officers who relied on it.
+
+11
+
+extent that he was doing what he actually did do and
+
+12
+
+which this Court's opinion in Gant accepted, which is to
+
+13
+
+say that the Gant opinion, that the Belton opinion did
+
+14
+
+not resolve the fact pattern in Gant, he would not be
+
+15
+
+automatically governed by the good faith exception.
+
+16
+
+as a result, Gant is really the best illustration of how
+
+17
+
+unusual it is for a lawyer to come to this Court and
+
+18
+
+say, please outright overrule a Fourth Amendment
+
+19
+
+decision.
+
+20
+
+JUSTICE KAGAN:
+
+To the
+
+And
+
+Mr. Dreeben, do you think
+
+21
+
+that if a lawyer did that, if a lawyer filed a cert
+
+22
+
+petition and said you should overturn the following
+
+23
+
+Fourth Amendment precedent, and that was all that was in
+
+24
+
+the cert petition, would we be able to grant that cert
+
+25
+
+petition knowing that there was no possibility of relief
+25
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+for that petitioner?
+MR. DREEBEN:
+
+2
+
+Yes, Justice Kagan, I believe
+
+3
+
+the Court could grant that petition, although it's
+
+4
+
+highly likely that any criminal defendant who filed it
+
+5
+
+would couple it with a claim that this Court should
+
+6
+
+either reverse, modify, or limit any holding that came
+
+7
+
+out.
+
+8
+9
+
+JUSTICE KAGAN:
+
+But you think that we would
+
+have appropriate Article III authority to decide that
+
+10
+
+question without any hope of relief?
+
+11
+
+MR. DREEBEN:
+
+Certainly the Court would have
+
+12
+
+Article III authority, because it's always free to
+
+13
+
+limit, modify or abrogate one of its precedents,
+
+14
+
+including a holding, if one issued from this decision,
+
+15
+
+that the good faith rule applies when the Court
+
+16
+
+overrules its decision.
+
+17
+
+Litigants can all the time be faced with
+
+18
+
+impossible arguments under existing precedent, but that
+
+19
+
+doesn't preclude this Court's Article III jurisdiction
+
+20
+
+to adjudicate challenges to that precedent.
+
+21
+
+indeed the very premise of Petitioner's argument.
+
+22
+
+JUSTICE SCALIA:
+
+That's
+
+I assume if Petitioner says
+
+23
+
+we should be able to overrule our prior substantive
+
+24
+
+precedent, he should also logically say that we should
+
+25
+
+be able to overrule our prior precedent regarding the
+26
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+exclusionary rule.
+
+So that whenever somebody wants to
+
+2
+
+come up here to challenge prior precedent, he can just
+
+3
+
+say:
+
+4
+
+overrule two cases:
+
+5
+
+of Fourth Amendment law; and secondly, whether that -­
+
+6
+
+that change in law can govern the action of the
+
+7
+
+policeman who didn't realize that the law was going to
+
+8
+
+be changed.
+
+You know, Your Honors, we're asking you to
+The first one, the substantive rule
+
+MR. DREEBEN:
+
+9
+
+That's correct, Justice
+
+10
+
+Scalia, and I think it illustrates why there is no
+
+11
+
+Article III impediment.
+
+12
+
+prudentially be reluctant to take a case in which it
+
+13
+
+knows that its resolution of the Fourth Amendment issue
+
+14
+
+would not dictate a reversal of the judgment, even if
+
+15
+
+the Fourth Amendment issue went in favor of the
+
+16
+
+defendant, but it is not that dissimilar from the
+
+17
+
+situation in qualified immunity, when there is no law on
+
+18
+
+the books that governs an issue and a petitioner asks
+
+19
+
+the Court to resolve the Fourth Amendment issue.
+
+Now, this Court may
+
+JUSTICE SCALIA:
+
+20
+
+And if he asks for the
+
+21
+
+double overruling that I just suggested, I guess there's
+
+22
+
+some chance that the Court would do it?
+MR. DREEBEN:
+
+23
+24
+25
+
+It would be remote, but not
+
+zero.
+(Laughter.)
+27
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+JUSTICE SOTOMAYOR:
+
+You've just raised the
+
+2
+
+question of qualified immunity and the similarities.
+
+3
+
+There is one problem that I have with the regime that
+
+4
+
+you are suggesting, which is that because laws differ
+
+5
+
+among circuits, now we've created a regime where we say
+
+6
+
+if the law was clear or if there was law on this issue
+
+7
+
+in your circuit, and the police officer relied on it,
+
+8
+
+the exclusionary rule won't apply; but if the law was
+
+9
+
+uncertain or not clear in another circuit, then the
+
+10
+
+exclusionary rule does apply.
+There's something illogical about permitting
+
+11
+12
+
+that kind of difference to control the outcome of
+
+13
+
+suppression.
+
+14
+
+get in a qualified immunity thing?
+
+15
+
+officer has a reasonable cause to believe their conduct
+
+16
+
+didn't violate the Constitution, then no suppression?
+
+17
+
+That is what it sounds like your brief is ultimately
+
+18
+
+suggesting.
+
+Are you through the back door trying to
+
+MR. DREEBEN:
+
+19
+
+If any police
+
+Well, Justice Sotomayor, we're
+
+20
+
+not kind -- trying to come in through the back door with
+
+21
+
+qualified immunity as a standard in this case.
+
+22
+
+ever were to urge that, it would be through the front
+
+23
+
+door.
+
+24
+25
+
+If we
+
+We would make the argument overtly.
+This case doesn't involve that issue.
+
+Kravitch's opinion for the Eleventh Circuit very
+28
+Alderson Reporting Company
+
+Judge
+
+Official - Subject to Final Review
+
+1
+
+carefully distinguished between cases in which governing
+
+2
+
+precedent instructed the officers, your conduct is
+
+3
+
+lawful if you do this, from cases in which the law is
+
+4
+
+unclear and there is no governing precedent.
+JUSTICE SOTOMAYOR:
+
+5
+
+So there's no value in
+
+6
+
+your mind to the fact, as your adversary is saying -- I
+
+7
+
+don't -- I haven't found one case previously by this
+
+8
+
+Court where it has applied the good faith exception to
+
+9
+
+the finding by the Court of a Fourth Amendment
+
+10
+
+violation.
+
+11
+
+correct?
+
+12
+
+Have you?
+
+It's never been done in any case,
+
+MR. DREEBEN:
+
+Not directly under the
+
+13
+
+exclusionary rule.
+
+14
+
+the factors that now go into the good faith exception
+
+15
+
+under the rubric of then-prevailing retroactivity law.
+
+16
+
+United States v. Peltier considered
+
+JUSTICE SOTOMAYOR:
+
+Well, what we're doing
+
+17
+
+is sort of -- your adversary is right, we're returning
+
+18
+
+to Linkletter, aren't we?
+
+19
+
+going to apply, the exclusionary rule is going to apply
+
+20
+
+in some cases, but not all.
+
+21
+
+MR. DREEBEN:
+
+We're sort of saying it's
+
+Not returning to Linkletter,
+
+22
+
+Justice Sotomayor, because Linkletter was an
+
+23
+
+across-the-board rule that said that this Court had the
+
+24
+
+authority to render -­
+
+25
+
+JUSTICE SOTOMAYOR:
+
+I'm talking about what
+
+29
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+happened before then.
+
+2
+
+MR. DREEBEN:
+
+3
+
+JUSTICE SOTOMAYOR:
+
+4
+
+Before -­
+We're going to have the
+
+exclusionary rule apply sometimes but not other times.
+MR. DREEBEN:
+
+5
+
+That's true, but that's a
+
+6
+
+direct consequence of the logic of the good faith
+
+7
+
+exception itself; and the considerations that had
+
+8
+
+informed this Court's retroactivity jurisprudence in the
+
+9
+
+Peltier decision were taken out of the law of
+
+10
+
+retroactivity when the Court decided Griffith v.
+
+11
+
+Kentucky; but those same considerations became relevant
+
+12
+
+to the good faith exception, which is tied to the
+
+13
+
+question of whether there is a need to deter police
+
+14
+
+misconduct because the police have disregarded the
+
+15
+
+governing law.
+JUSTICE BREYER:
+
+16
+
+Is there -- is there
+
+17
+
+anything to be said for simplicity?
+
+18
+
+when the police violate the Fourth Amendment you exclude
+
+19
+
+the evidence.
+
+20
+
+exceptions, good faith, et cetera.
+
+21
+
+normal rule.
+
+22
+
+That's the rule.
+
+The normal rule is
+
+Then there are some
+But that's the
+
+You have a new law in this Court.
+
+The new
+
+23
+
+law says, now this is a violation; we didn't previously
+
+24
+
+think it is, but it is; and that applies to the case in
+
+25
+
+front us and to other cases on direct appeal.
+30
+Alderson Reporting Company
+
+The
+
+Official - Subject to Final Review
+
+1
+
+reason that's simple is that's what we've always done.
+
+2
+
+And somebody says let's make an exception here, bring in
+
+3
+
+the exception, good faith, and we say no.
+
+4
+
+because any of the policy arguments are wrong, but just
+
+5
+
+because, as this last 40 minutes demonstrates, once we
+
+6
+
+do that it's so complicated, only 14 people are going to
+
+7
+
+understand it and they're not going to understand it,
+
+8
+
+either.
+MR. DREEBEN:
+
+9
+
+Why?
+
+Not
+
+Well, Justice Breyer, I think
+
+10
+
+nine of the people who will understand it are on this
+
+11
+
+Court.
+
+12
+
+JUSTICE BREYER:
+
+13
+
+(Laughter.)
+
+14
+
+MR. DREEBEN:
+
+15
+
+JUSTICE GINSBURG:
+
+16
+
+JUSTICE SCALIA:
+
+17
+
+complicated, counsel.
+
+That's very optimistic.
+
+I'm an optimist.
+I don't think that -­
+I don't think it's so
+
+Don't worry about it.
+
+18
+
+(Laughter.)
+
+19
+
+MR. DREEBEN:
+
+The principle is very
+
+20
+
+straightforward.
+
+The principle is that the exclusionary
+
+21
+
+rule applies only when it can deter police misconduct.
+
+22
+
+When police rely on a warrant issued by a magistrate, a
+
+23
+
+statute or a judicial decision issued by a court of
+
+24
+
+appeals that governs their conduct, they are not making
+
+25
+
+a decision about what the Fourth Amendment requires.
+31
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+They are following a different actor in the system, and
+
+2
+
+this Court has held that there is no deterrent value to
+
+3
+
+suppress evidence with an important cost to the
+
+4
+
+truth-seeking function of the criminal trial, which is
+
+5
+
+why, even if it makes for a simpler rule, the Court does
+
+6
+
+not automatically suppress evidence just to achieve
+
+7
+
+simplicity.
+
+JUSTICE SCALIA:
+
+8
+9
+
+It does -­
+Actually, why don't we just
+
+abolish the exclusionary rule?
+
+That would be really
+
+10
+
+simple.
+
+11
+
+comes in.
+
+12
+
+looking for just simplicity, wouldn't it?
+
+17
+
+It would be an extremely
+
+simple system.
+JUSTICE SCALIA:
+
+15
+16
+
+That would be a very simple system if we're
+
+MR. DREEBEN:
+
+13
+14
+
+Whatever evidence tends to prove the truth
+
+You're not proposing that,
+
+though?
+MR. DREEBEN:
+
+Not in this case, because this
+
+18
+
+case represents only an application of existing doctrine
+
+19
+
+in the Court with respect to the purposes of the
+
+20
+
+exclusionary rule.
+
+21
+
+JUSTICE KENNEDY:
+
+There is something ironic
+
+22
+
+in your position that the defendant who lives in the
+
+23
+
+circuit that is most clearly wrong is treated worst.
+
+24
+25
+
+MR. DREEBEN:
+
+The defendant in these cases
+
+is not the object of the Court's protection.
+32
+Alderson Reporting Company
+
+I think,
+
+Official - Subject to Final Review
+
+1
+
+as Justice Kagan's question made clear, the exclusionary
+
+2
+
+rule is not a personal individual right.
+
+3
+
+constitutional right at all.
+
+4
+
+Court has devised, not to protect the defendant's
+
+5
+
+interests as such.
+
+6
+
+happened out of court.
+
+7
+
+purpose of the exclusionary rule is to deter future
+
+8
+
+conduct by other counterparts of that police officer or
+
+9
+
+the police officer himself, so that when he confronts
+
+It's not a
+
+It is a remedy that this
+
+The Fourth Amendment violation has
+It cannot be repaired.
+
+The
+
+10
+
+the situation in the future he will be more solicitous
+
+11
+
+of Fourth Amendment rights.
+JUSTICE SOTOMAYOR:
+
+12
+
+Well, if there's a
+
+13
+
+circuit split, how do we encourage police officers to be
+
+14
+
+careful about the Fourth Amendment?
+
+15
+
+presumption somehow that because a circuit precedent
+
+16
+
+exists that says it's okay to do this, that police
+
+17
+
+officers have to do this.
+
+18
+
+that.
+
+19
+
+knows that other circuits are saying this is
+
+20
+
+unconstitutional, why are we taking away the deterrent
+
+21
+
+effect of having thoughts occur to the officer about
+
+22
+
+thinking through whether there's a better way and a
+
+23
+
+legal way to do things?
+
+24
+25
+
+There's a
+
+I don't necessarily believe
+
+If there's a circuit split and a police officer
+
+With respect to the Fourth Amendment, we've
+built -- your adversary is right, we've built in so many
+33
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+exceptions, and including in this case the inventory
+
+2
+
+search, that the officers have many different ways of
+
+3
+
+doing things than merely doing what this particular
+
+4
+
+court thought was legal or this circuit.
+
+5
+
+question is, when there's a circuit split, why are we,
+
+6
+
+as Justice Kennedy is saying, giving protection to the
+
+7
+
+circuit that's plain wrong and to the officer who chose
+
+8
+
+to follow that advice?
+
+9
+
+MR. DREEBEN:
+
+So I guess my
+
+Justice Sotomayor, we don't
+
+10
+
+expect police officers to attempt to define the content
+
+11
+
+of the Fourth Amendment on their own.
+
+12
+
+recipients of the status of the law from the courts that
+
+13
+
+govern their activities; training programs will be
+
+14
+
+instituted based on that law.
+
+15
+
+training programs will advise officers that there may be
+
+16
+
+some legal risk if there's a circuit split, and that a
+
+17
+
+decision may ultimately be reversed; but we don't expect
+
+18
+
+police departments to try to make the Fourth Amendment
+
+19
+
+decision on their own.
+
+20
+21
+
+JUSTICE SOTOMAYOR:
+
+But they're going to be
+
+protected -- they're going to be protected from that -­
+MR. DREEBEN:
+
+23
+
+JUSTICE SOTOMAYOR:
+
+25
+
+I'm sure that careful
+
+And there's some sound -­
+
+22
+
+24
+
+They are
+
+Well -­
+-- meaning they're going
+
+to get qualified immunity from any personal liability.
+MR. DREEBEN:
+
+Yes, but the reason that the
+34
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+Fourth Amendment balance has been struck in any given
+
+2
+
+way in a particular court is because that is felt to be
+
+3
+
+the reasonable way for officers to operate.
+
+4
+
+words -­
+JUSTICE SCALIA:
+
+5
+
+In other
+
+I assume that an officer
+
+6
+
+when he goes out to do his job does not have primarily
+
+7
+
+in mind not to get sued, but I think primarily in mind
+
+8
+
+he wants to arrest somebody in such a manner that the
+
+9
+
+person can be convicted of the crime that he's done,
+
+10
+
+right?
+MR. DREEBEN:
+
+11
+
+Justice Scalia, that's exactly
+
+12
+
+right.
+
+13
+
+interest, and by not taking advantage of decisions in
+
+14
+
+their circuits that explain that certain behavior is
+
+15
+
+reasonable, they can be putting the public interest at
+
+16
+
+risk by relinquishing procedures that have been held to
+
+17
+
+comply with the Fourth Amendment and yet allow the
+
+18
+
+police to solve crime or to arrest suspects.
+
+19
+
+The officers are seeking to protect the public
+
+Now, there's been a lot of discussion in
+
+20
+
+Petitioner's argument about the need to provide an
+
+21
+
+incentive to counsel to raise Fourth Amendment
+
+22
+
+challenges to existing precedent.
+
+23
+
+at the outset to look a little bit empirically at that
+
+24
+
+question, because some members of the Court have
+
+25
+
+expressed concern about that possibility.
+35
+Alderson Reporting Company
+
+I think it's useful
+
+Official - Subject to Final Review
+
+1
+
+From as best as I can tell, this Court has
+
+2
+
+not overruled one of its Fourth Amendment precedents in
+
+3
+
+a manner that favored defendants' interests since 1969.
+
+4
+
+Despite whatever incentives may have existed as a result
+
+5
+
+of the exclusionary rule, defendants will typically
+
+6
+
+understand that stare decisis is the normal course that
+
+7
+
+this Court follows, and as a result, they are highly
+
+8
+
+likely to structure their arguments in a manner that
+
+9
+
+will seek to distinguish, limit, or undermine a
+
+10
+
+precedent rather than calling for its outright
+
+11
+
+overruling.
+JUSTICE ALITO:
+
+12
+
+Well, particularly in light
+
+13
+
+of that, what is wrong with the suggestion that Justice
+
+14
+
+Kagan raised in one of her questions about retaining an
+
+15
+
+exception to the good faith exception for the situation,
+
+16
+
+for the defendant whose case comes up here and results
+
+17
+
+in the overruling of one of this Court's precedents?
+The Court invented the exclusionary rule.
+
+18
+19
+
+The Court invented the good faith exception to the
+
+20
+
+exclusionary rule.
+
+21
+
+Court from inventing a new exception to the exception to
+
+22
+
+the exclusionary rule?
+
+Is there anything to prevent the
+
+MR. DREEBEN:
+
+23
+
+No, Justice Alito, there is
+
+24
+
+nothing to prevent this Court from inventing that
+
+25
+
+exception.
+
+That exception would serve the purpose of
+36
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+encouraging litigants to ask the Court to overrule its
+
+2
+
+decisions and thereby to receive a benefit when they do
+
+3
+
+so.
+
+4
+
+actually succeeds in that endeavor, it would limit the
+
+5
+
+costs of the exclusionary rule, which, after all, result
+
+6
+
+in the exclusion of reliable probative evidence of guilt
+
+7
+
+in every case where it's applied.
+And the Court could tailor the exclusionary
+
+8
+9
+
+If it's limited to the first individual who
+
+rule in that manner.
+
+If it did so, it would certainly
+
+10
+
+minimize the costs, and it would represent the least
+
+11
+
+amount of intrusion on the purposes of the exclusionary
+
+12
+
+rule.
+
+13
+
+If the Court were to adopt another purpose for the
+
+14
+
+exclusionary rule, namely creating incentives for
+
+15
+
+counsel to challenge existing precedent, that will
+
+16
+
+represent a substantial departure from this Court's
+
+17
+
+consistent holdings that the only function of the
+
+18
+
+exclusionary rule is to deter police misconduct, and
+
+19
+
+once the Court has acknowledged that an additional
+
+20
+
+exception to the exclusionary rule is justified, even if
+
+21
+
+in these rare situations, it will create pressure for
+
+22
+
+litigants to urge that additional policy interests of
+
+23
+
+the administration of justice would be served if the
+
+24
+
+Court would create yet another exception.
+
+25
+
+But I would caution the Court in this respect.
+
+JUSTICE SCALIA:
+
+I don't think we'd look
+
+37
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+particularly good, either, do you?
+
+I mean, if.
+
+We had one case raising a Fourth Amendment
+
+2
+3
+
+question, and let's say six others who raise -- that
+
+4
+
+raise the same question, what would we do?
+
+5
+
+grant the first and hold the second?
+
+6
+
+second, because they're going to lose anyway, right?
+
+7
+
+MR. DREEBEN:
+
+8
+
+JUSTICE SCALIA:
+
+9
+10
+
+No use to hold the
+
+Yes.
+So I guess we would -- we
+
+would just grant the first and deny all the rest, even
+though they're raising the same issue?
+MR. DREEBEN:
+
+11
+12
+
+We would
+
+I think the strongest argument
+
+against -­
+
+13
+
+JUSTICE SCALIA:
+
+14
+
+MR. DREEBEN:
+
+It doesn't smell very good.
+
+-- the proposal, Justice
+
+15
+
+Scalia, would be an appearance of arbitrariness in the
+
+16
+
+Court's actions.
+JUSTICE BREYER:
+
+17
+
+So that's why, isn't it -­
+
+18
+
+that's why the normal rule has been that the person
+
+19
+
+litigating the case gets the advantage of the new rule,
+
+20
+
+as do other people whose initial appeals are not final,
+
+21
+
+and there we are.
+
+22
+
+a long time.
+
+23
+
+raised the question in their case.
+
+24
+
+asked for it.
+
+25
+
+rules.
+
+That's a rule existing, I guess, for
+
+I guess these other people have to have
+They have to have
+
+They can't -- they have to follow normal
+
+Has that caused havoc, or has that caused
+38
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+things -- the legal system, even before -­
+MR. DREEBEN:
+
+2
+
+Justice Breyer, it hasn't
+
+3
+
+caused havoc, for several reasons.
+
+One is it's
+
+4
+
+extraordinarily rare for this Court to overrule its own
+
+5
+
+Fourth Amendment precedent.
+
+6
+
+rare, or almost equally rare, for the courts of appeals
+
+7
+
+to overrule their precedent and adopt a more
+
+8
+
+defendant-friendly Fourth Amendment rule.
+
+It's apparently equally
+
+9
+
+I cannot claim to have done an exhaustive
+
+10
+
+survey of all of the courts of appeals decisions that
+
+11
+
+possibly overruled Fourth Amendment holdings, but the
+
+12
+
+results of my research disclose only one case in which a
+
+13
+
+court of appeals overruled its precedent to favor a
+
+14
+
+defendant, and that occurred in 1987 in the Fifth
+
+15
+
+Circuit, and the Fifth Circuit adopted a good faith
+
+16
+
+exception precisely like the one that the government is
+
+17
+
+urging the court to adopt today and declined to suppress
+
+18
+
+the evidence for that reason.
+
+19
+
+apparently confronted the question of whether overruling
+
+20
+
+a decision triggers the good faith exception.
+JUSTICE BREYER:
+
+21
+
+No other circuit has
+
+I would have thought it was
+
+22
+
+more for this Court, actually, anyway.
+
+I don't know if
+
+23
+
+it has to be the words "overruling."
+
+24
+
+was:
+
+25
+
+it goes back to Cardozo, Sunburst or something, that if
+
+My recollection
+
+Has the Court created a new rule of law?
+
+39
+Alderson Reporting Company
+
+I think
+
+Official - Subject to Final Review
+
+1
+
+the Court creates a new rule of law, then does it apply
+
+2
+
+prospective, retroactively?
+
+3
+
+was it applies retroactively, but to the litigant and to
+
+4
+
+those whose appeals are not final if they raised it.
+
+5
+
+MR. DREEBEN:
+
+6
+
+JUSTICE BREYER:
+
+7
+
+MR. DREEBEN:
+
+And you want to change
+
+No.
+
+That is the retroactivity
+
+question, and the retroactivity question is -­
+JUSTICE BREYER:
+
+10
+11
+
+Yes, Justice Breyer.
+
+that, it seems to me.
+
+8
+9
+
+And the worked-out position
+
+the suppression.
+
+I understand.
+
+MR. DREEBEN:
+
+12
+
+You're hiving off the -­
+
+This Court has acknowledged
+
+13
+
+that the exclusionary rule is not an individual right,
+
+14
+
+it's a remedy.
+
+15
+
+constitutional rights of the defendant.
+
+16
+
+that this Court devised after finding a Fourth
+
+17
+
+Amendment.
+
+18
+
+It doesn't involve any violation of
+It's a remedy
+
+And I think, as Justice Ginsburg pointed
+
+19
+
+out, in Judge Kravitch's opinion for the Eleventh
+
+20
+
+Circuit, Judge Kravitch acknowledged that Gant is the
+
+21
+
+law; the search in that case was unconstitutional.
+
+22
+
+next question is an entirely separate issue of remedy,
+
+23
+
+and that remedy issue is governed by this Court's good
+
+24
+
+faith precedents.
+
+25
+
+appeals have confronted this simply reflects the fact
+
+The
+
+The rarity with which courts of
+
+40
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+that, even without the lack of incentive that Petitioner
+
+2
+
+says will result if the Court agrees with the government
+
+3
+
+today, holdings that overrule Fourth Amendment decisions
+
+4
+
+squarely and favor defendants do not occur all that
+
+5
+
+often.
+JUSTICE GINSBURG:
+
+6
+
+Were we right that -­
+
+7
+
+there were several cases that were TBR'd in light of
+
+8
+
+Gant.
+
+9
+
+under your theory.
+
+Maybe some of them shouldn't have been TBR'd
+
+MR. DREEBEN:
+
+10
+
+Well, Justice Ginsburg, before
+
+11
+
+the litigation that occurred in the wake of Gant, there
+
+12
+
+was only one precedent on the books in any circuit that
+
+13
+
+I'm aware of that had applied the -- in the Federal
+
+14
+
+system -- that had applied a good faith rule to overrule
+
+15
+
+judicial decisions.
+
+16
+
+in the Fifth Circuit.
+
+17
+
+Circuit's opinion in this case.
+
+That was United States v. Jackson
+It's cited in the Eleventh
+It happened in 1987.
+
+So I think it's fair to say that prosecutors
+
+18
+19
+
+and government officials were not raising good faith
+
+20
+
+exclusionary rule arguments in the cases that were held
+
+21
+
+for Gant.
+
+22
+
+done so, and as a result, it was perfectly logical and
+
+23
+
+in accordance with this Court's normal practice to
+
+24
+
+grant, vacate, and remand those cases for further
+
+25
+
+consideration under Gant.
+
+I don't believe that the United States had
+
+41
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+But in the wake of Gant, courts began to
+
+2
+
+think of the logic of Leon and Krull and this Court's
+
+3
+
+recent decision in Herring v. United States and attempt
+
+4
+
+to apply the logic of those decisions to a circumstance
+
+5
+
+in which a police officer relies on a binding and
+
+6
+
+governing appellate precedent, and they concluded that
+
+7
+
+courts that announce precedents have every reason to
+
+8
+
+expect that litigants will rely on them and that police
+
+9
+
+officers will rely on them.
+
+Therefore, there is no
+
+10
+
+deterrent purpose to be served by suppressing the
+
+11
+
+evidence.
+
+It's all cost.
+And the cost would be that individuals whose
+
+12
+13
+
+convictions have been obtained based on evidence that
+
+14
+
+was seized in reasonable good faith reliance on existing
+
+15
+
+appellate precedent will now be able to overturn their
+
+16
+
+convictions, and that's a heavy cost to the
+
+17
+
+administration of justice.
+
+18
+
+rule has been confined to particularized circumstances
+
+19
+
+where it's thought that it will actually achieve a
+
+20
+
+benefit, and it has not been expanded beyond those
+
+21
+
+purposes.
+
+22
+
+It's why the exclusionary
+
+So given that litigants, criminal
+
+23
+
+defendants, have a tremendous incentive to challenge
+
+24
+
+their convictions and to try to navigate around
+
+25
+
+precedents while simultaneously showing that those
+42
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+precedents may have underlying material flaws, this
+
+2
+
+Court is highly unlikely to be deprived of cases in
+
+3
+
+which litigants attempt to undermine precedents without
+
+4
+
+actually calling for their overruling.
+
+5
+
+happened, for example, in Batson v. Kentucky, where the
+
+6
+
+Petitioner in that case did not want to head-on confront
+
+7
+
+Swain v. Alabama and ask for its overruling, and as a
+
+8
+
+result asserted that racially discriminatory peremptory
+
+9
+
+challenges were invalid under the Sixth Amendment,
+
+That is what
+
+10
+
+rather than the Equal Protection Clause.
+
+This Court got
+
+11
+
+the case and concluded that the proper analysis was the
+
+12
+
+Equal Protection Clause and it accordingly overruled
+
+13
+
+Swain in relevant part.
+
+14
+
+So it's highly unlikely that if, in fact, a
+
+15
+
+precedent of this Court is beginning to fray around the
+
+16
+
+edges and justices of this Court have written
+
+17
+
+concurrences or dissents that explain that they no
+
+18
+
+longer believe that the logic of that is sound,
+
+19
+
+litigants will exploit those statements in an effort to
+
+20
+
+narrow the precedent and ultimately expose its flaws, so
+
+21
+
+that if this Court determines it can overrule the
+
+22
+
+precedent, and it can do so even if the exclusionary
+
+23
+
+remedy will not follow.
+
+24
+25
+
+JUSTICE ALITO:
+
+Would the rule that you're
+
+arguing for apply only in the situation where there is a
+43
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+binding precedent that affirmatively approves a
+
+2
+
+particular police practice, or would it also apply in
+
+3
+
+the situation in which there is simply absolutely
+
+4
+
+nothing on the books that prohibits the police practice,
+
+5
+
+so that a reasonable officer wouldn't have any reason to
+
+6
+
+think that the practice was unconstitutional?
+MR. DREEBEN:
+
+7
+
+This case, Justice Alito, only
+
+8
+
+involves the example of binding appellate precedent, and
+
+9
+
+Judge Kravitch's opinion for the Eleventh Circuit
+
+10
+
+distinguished between the two situations.
+
+11
+
+situation in which there is no precedent, such that an
+
+12
+
+officer would not be instructed that his conduct is
+
+13
+
+affirmatively unconstitutional, qualified immunity
+
+14
+
+applies, and there would be arguments that there is
+
+15
+
+nothing to deter if an officer acts within that empty
+
+16
+
+space.
+
+17
+
+In the
+
+But there is a countervailing argument, and
+
+18
+
+the countervailing argument, which Judge Kravitch talked
+
+19
+
+about in the Eleventh Circuit, opinion, would be that
+
+20
+
+when there's no law on the books courts should give
+
+21
+
+officers to -- an incentive to act in favor of the more
+
+22
+
+constitutionally protective manner, rather than taking a
+
+23
+
+flier on what might turn out to be unconstitutional.
+
+24
+25
+
+JUSTICE GINSBURG:
+
+She did say that if there
+
+is ambiguity, then the police must err on the side of
+44
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+not searching.
+
+2
+
+accept that?
+
+Do you think that that's -- do you
+
+MR. DREEBEN:
+
+3
+
+No, Justice Ginsburg, I would
+
+4
+
+not submit to the Court that the United States
+
+5
+
+necessarily agrees with that.
+
+6
+
+doesn't involve that problem and, as I said, there are
+
+7
+
+contrary arguments that could be advanced based on this
+
+8
+
+Court's description in Herring of the purpose of the
+
+9
+
+exclusionary rule to reach conduct that is either
+
+I think that this case
+
+10
+
+reckless or intentional or at the least systematically
+
+11
+
+negligent.
+
+12
+
+And, so, some day this Court may have to
+
+13
+
+confront whether the narrow limitation that Judge
+
+14
+
+Kravitch adapted -- adopted in her opinion is the
+
+15
+
+correct rule of law versus a broader view that exclusion
+
+16
+
+is only appropriate when the officers have engaged in
+
+17
+
+truly culpable conduct.
+
+18
+
+the Court needs to cross in this case.
+
+19
+
+argument that the United States is advancing for
+
+20
+
+affirmance of the judgment.
+
+21
+
+But that's not a bridge that
+It's not an
+
+This judgment can be affirmed simply by
+
+22
+
+holding that the syllogism that the court of appeals
+
+23
+
+adopted that, absent a deterrent purpose there is no
+
+24
+
+basis for exclusion, there is no deterrent purpose here,
+
+25
+
+that's sufficient to resolve this case and the Court can
+45
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+leave for another day, if it agrees with that
+
+2
+
+proposition, whether the exclusionary rule should have
+
+3
+
+any broader exception for good faith behavior.
+
+4
+
+If the Court has no further questions -­
+
+5
+
+CHIEF JUSTICE ROBERTS:
+
+6
+
+Thank you,
+
+Mr. Dreeben.
+
+7
+
+Mr. Kerr, you have 6 minutes.
+
+8
+
+REBUTTAL ARGUMENT OF ORIN S. KERR
+
+9
+
+ON BEHALF OF THE PETITIONER
+
+10
+
+MR. KERR:
+
+Thank you.
+
+11
+
+I would like to start with the costs -- or
+
+12
+
+return to the costs here of the exclusionary rule.
+
+13
+
+First, the plain error doctrine is going to largely
+
+14
+
+address the concerns that the government has in this
+
+15
+
+case.
+
+16
+
+the exclusionary rule when the Court overturns
+
+17
+
+precedents under the plain error doctrine, if defendants
+
+18
+
+don't raise a challenge to the search or seizure in
+
+19
+
+their case there will be no relief available to them.
+
+If this Court is seeking to limit the scope of
+
+20
+
+So therefore, the only possible relief that
+
+21
+
+could be granted is for individuals that saw the issue,
+
+22
+
+raised the issue, and that will, of course, include the
+
+23
+
+individual who raises the claim in a case where the
+
+24
+
+Court overturns its precedent, therefore avoiding any of
+
+25
+
+the difficulties similar to that of retroactivity.
+46
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+JUSTICE KENNEDY:
+
+In -- in -- in one -- in
+
+2
+
+one sense if we're talking about costs, the rule the
+
+3
+
+government proposes is -- is defendant friendly, in that
+
+4
+
+this Court may be more willing to impose stricter rules
+
+5
+
+under the Fourth Amendment, if it knows that the good
+
+6
+
+faith rule will protect against the -- the costs of -­
+
+7
+
+of overturning the conviction.
+MR. KERR:
+
+8
+9
+
+Kennedy.
+
+That's exactly right, Justice
+
+And, in fact, that exact argument was one of
+
+10
+
+the reasons Justice Harlan concluded that the
+
+11
+
+exclusionary rule should be available in the first case
+
+12
+
+and on direct review.
+
+13
+
+the costs when it overturns precedent.
+
+14
+
+depart from precedent lightly.
+
+15
+
+The Court needs to be aware of
+It should not
+
+And I think Gant is a good example.
+
+Justice
+
+16
+
+Alito's dissent nicely points out the very real costs of
+
+17
+
+the shift from the Belton rule to the Gant rule, and if
+
+18
+
+there were no costs in a regime of pure prospectivity,
+
+19
+
+the Court would feel much more free to overturn its
+
+20
+
+precedents because no one would actually be affected by
+
+21
+
+the rule of any cases that are either on direct review
+
+22
+
+or in the initial case or of those individuals whose
+
+23
+
+convictions are already final.
+
+24
+25
+
+JUSTICE KENNEDY:
+
+But that could work to the
+
+benefit of defendants as a class, not the particular
+47
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+defendant?
+MR. KERR:
+
+2
+
+That works to the benefit of
+
+3
+
+defendants as a class, absolutely.
+
+In fact, going back
+
+4
+
+to the Linkletter era, that was one of the -- perceived
+
+5
+
+as one of the benefits of Linkletter, that it freed the
+
+6
+
+Court to overturn precedent.
+
+7
+
+improper consideration.
+
+8
+
+Amendment decisionmaking for the Court to accurately
+
+9
+
+weigh the costs and benefits of any shift in the rules.
+
+But I think that is an
+
+It is necessary for Fourth
+
+10
+
+And so I think that the costs of the exclusionary rule
+
+11
+
+in that setting are actually necessary costs.
+And I also think concerns of a windfall that
+
+12
+13
+
+are available to defendants are overstated because of
+
+14
+
+the many doctrines that limit the scope of the
+
+15
+
+exclusionary rule such as inevitable discovery or
+
+16
+
+standing.
+
+17
+
+receive the benefit of the exclusionary rule would be
+
+18
+
+those individuals who were not searched in the first
+
+19
+
+place if the Constitution were followed.
+
+20
+
+Actually the only individuals who would
+
+So, those are individuals who actually did
+
+21
+
+not receive -- will not receive a windfall.
+
+They will
+
+22
+
+essentially, if they were lucky enough to raise the
+
+23
+
+issue, go back to the state that they were before the
+
+24
+
+Constitution was violated.
+
+25
+
+group of people, and those are, I think, the necessary
+
+And again, that's a limited
+
+48
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+costs required by the basic norms of constitutional
+
+2
+
+adjudication that Justice Harlan raised in his dissent
+
+3
+
+in Desist v.
+
+4
+
+ways this case does return to those concerns of Justice
+
+5
+
+Harlan, raised both in his Desist dissent and his
+
+6
+
+separate opinion for the Court in Mackey v. United
+
+7
+
+States.
+
+United States, and I think in a lot of
+
+8
+
+I also wanted to focus on how similar the
+
+9
+
+issue is in this case to -- in the Linkletter era, if
+
+10
+
+you read the Desist dissent, in particular Justice
+
+11
+
+Harlan's dissent, it's clear that he's considering the
+
+12
+
+issue of retroactivity to be about the scope of the
+
+13
+
+exclusionary rule.
+The Eleventh Circuit below had this idea
+
+14
+15
+
+that retroactivity is about the availability of a rule,
+
+16
+
+but rules are not sort of ephemeral ideas that are
+
+17
+
+available or not without any impact.
+
+18
+
+they are available, they are available independently of
+
+19
+
+when they were announced and should be enforced
+
+20
+
+accordingly.
+
+It must be that if
+
+21
+
+If there are no further questions -­
+
+22
+
+CHIEF JUSTICE ROBERTS:
+
+23
+24
+25
+
+Thank you, Mr. Kerr.
+
+The case is submitted.
+(Whereupon, at 11:02 a.m., the case in the
+above-entitled matter was submitted.)
+49
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+A
+ability 19:7
+able 15:11,13,20
+25:9,24 26:23
+26:25 42:15
+abolish32:9
+above-entitled
+1:11 49:25
+abrogate 26:13
+absent 45:23
+absolutely 13:8
+14:8 18:16 44:3
+48:3
+accept 45:2
+accepted25:12
+accurately 48:8
+achieve 32:6
+42:19
+acknowledged
+37:19 40:12,20
+across-the-boa...
+29:23
+act 44:21
+action 27:6
+actions 25:10
+38:16
+activities 34:13
+actor 32:1
+acts 44:15
+adapted45:14
+additional 18:2,3
+37:19,22
+address 25:4
+46:14
+adjudicate 26:20
+adjudication
+13:16 49:2
+administration
+37:23 42:17
+admission 11:15
+admitted6:13
+11:20
+adopt 10:1 16:18
+37:13 39:7,17
+
+adopted17:25
+21:11 24:8
+39:15 45:14,23
+adopts 9:21
+advance 18:2
+advanced45:7
+advancing 45:19
+advantage 35:13
+38:19
+adversaries 9:7
+adversary 4:14
+29:6,17 33:25
+advice 34:8
+advise 34:15
+advised14:19
+advisory 4:14
+19:4 21:4
+advocating 13:10
+affirmance 45:20
+affirmatively
+44:1,13
+affirmed45:21
+agree 7:17 11:22
+22:11
+agrees 41:2 45:5
+46:1
+Alabama 43:7
+Alito 8:4,14,25
+9:11 15:4 16:9
+18:11 36:12,23
+43:24 44:7
+Alito's 47:16
+allow9:22 35:17
+allowed16:8
+allowing 19:21
+allows 6:13 23:2
+Almeida-Sanc...
+15:10
+altered4:19 6:10
+alternative 12:24
+22:13
+ambiguity 44:25
+Amendment 3:23
+5:2,7 7:3,9,25
+
+8:3,10,19,20
+9:14 10:11
+12:25 14:23,24
+14:25 15:17
+16:13 17:6 19:8
+19:11 21:24
+23:22,23 24:12
+25:2,18,23 27:5
+27:13,15,19
+29:9 30:18
+31:25 33:5,11
+33:14,24 34:11
+34:18 35:1,17
+35:21 36:2 38:2
+39:5,8,11 40:17
+41:3 43:9 47:5
+48:8
+amount 19:5 21:4
+37:11
+analysis 43:11
+announce 42:7
+announced19:2
+49:19
+answer13:14
+24:22
+anyway 11:16
+21:19 38:6
+39:22
+apparently 39:5
+39:19
+appeal 13:13
+30:25
+appeals 8:9 9:13
+31:24 38:20
+39:6,10,13 40:4
+40:25 45:22
+appear 11:14
+appearance
+38:15
+APPEARANC...
+1:14
+appellant 24:10
+appellate 42:6
+42:15 44:8
+
+applicable 22:1
+application 5:25
+5:25 6:9 19:21
+23:16 32:18
+applications 8:24
+applied3:23 6:17
+8:25 13:12 20:3
+24:19 29:8 37:7
+41:13,14
+applies 4:23 6:10
+6:18 15:7 23:2
+26:15 30:24
+31:21 40:3
+44:14
+apply 3:16 4:9,10
+4:18,20 5:21
+6:11 8:7,17
+11:4 15:6 20:1
+20:11,16 28:8
+28:10 29:19,19
+30:4 40:1 42:4
+43:25 44:2
+applying 5:17,19
+approach 19:18
+19:19
+appropriate
+22:23 26:9
+45:16
+appropriately
+22:25
+approved15:23
+approves 44:1
+arbitrariness
+38:15
+argue 6:19 20:22
+21:12
+argued21:25
+arguing 10:21
+11:7 20:4 43:25
+argument 1:12
+2:2,5,8 3:4,7
+4:17 6:7 7:2 8:5
+8:6,7 11:25
+12:23 16:24
+
+50
+Alderson Reporting Company
+
+21:1,8,9,18
+22:7,13,22 23:9
+26:21 28:23
+35:20 38:11
+44:17,18 45:19
+46:8 47:9
+arguments 9:8
+12:1 21:13
+22:11,13 26:18
+31:4 36:8 41:20
+44:14 45:7
+Arizona 9:2
+24:13,15,19
+25:2
+arrest 35:8,18
+Article 14:7 26:9
+26:12,19 27:11
+articulate 8:16
+14:20
+asked38:24
+asking 19:17
+20:20 27:3
+asks 27:18,20
+asserted43:8
+assume 26:22
+35:5
+assuming 4:21
+19:18
+asymmetry
+19:13
+attempt 22:3
+34:10 42:3 43:3
+attempting 4:5,6
+attorney 16:2
+attorneys 6:20
+attorney's 17:12
+authority 26:9,12
+29:24
+authorizes 15:9
+automatically
+20:16 25:15
+32:6
+availability
+49:15
+
+Official - Subject to Final Review
+
+available 4:3,13
+11:7 18:24 23:3
+46:19 47:11
+48:13 49:17,18
+49:18
+avenues 8:12
+avoid 4:14 19:4,5
+19:16
+avoiding 46:24
+aware 17:14
+41:13 47:12
+a.m 1:13 3:2
+49:24
+B
+back 9:11 14:17
+28:13,20 39:25
+48:3,23
+balance 22:24
+23:6 35:1
+based17:17
+34:14 42:13
+45:7
+basic 4:11 13:15
+49:1
+basis 45:24
+Batson 43:5
+began 42:1
+beginning 43:15
+behalf 1:15,19
+2:4,7,10 3:8
+23:10 46:9
+behavior 35:14
+46:3
+believe 26:2
+28:15 33:17
+41:21 43:18
+believed10:5
+16:11
+believes 19:11
+Belton 8:22,23
+8:24 9:1,7 18:9
+18:10 24:2,17
+25:9,13 47:17
+bench 21:16
+
+benefit 37:2
+34:14
+42:20 47:25
+carefully 29:1
+48:2,17
+case 3:4,11 4:6
+benefits 14:2
+4:12 6:17 7:18
+48:5,9
+8:21,21 10:9,17
+best 25:16 36:1
+11:3,8 12:9,12
+better33:22
+12:15,15 13:8
+beyond 42:20
+13:12,13,13,17
+big 12:14
+14:8,10,21,23
+binding 24:10
+14:24,25 15:2,6
+42:5 44:1,8
+15:10 16:25
+bit 35:23
+17:14,22 18:10
+block 6:20
+19:1,10 20:11
+board 7:14 20:1
+20:24 21:14,18
+books 5:11 27:18
+21:19,22 22:4,7
+41:12 44:4,20
+23:3 24:4,8
+branches 7:22
+25:3 27:12
+Breyer30:16
+28:21,24 29:7
+31:9,12 38:17
+29:10 30:24
+39:2,21 40:5,6
+32:17,18 34:1
+40:10
+36:16 37:7 38:2
+bridge 45:17
+38:19,23 39:12
+brief 8:16 17:10
+40:21 41:17
+21:24 28:17
+43:6,11 44:7
+briefed11:3
+45:5,18,25
+bring 11:13,19
+46:15,19,23
+12:4,8,25 13:1
+47:11,22 49:4,9
+31:2
+49:23,24
+bringing 12:13
+cases 4:3,12 5:3
+broad 20:20
+5:6 6:23 11:9
+broader45:15
+12:4,6,8,10
+46:3
+13:17,17 14:22
+broadly 14:3
+15:3,7,18,20
+19:11
+17:25 18:12,18
+built 33:25,25
+18:19,21 19:20
+21:12 22:2,9,23
+C
+23:4 27:4 29:1
+C 2:1 3:1
+29:3,20 30:25
+calling 36:10
+32:24 41:7,20
+43:4
+41:24 43:2
+candid 21:13
+47:21
+candle 19:23
+cause 28:15
+car 17:23
+caused38:25,25
+Cardozo 39:25
+39:3
+careful 33:14
+
+caution 37:12
+cert 25:21,24,24
+certain 9:13
+35:14
+certainly 9:25
+26:11 37:9
+certiorari 25:1
+cetera 30:20
+challenge 11:19
+12:5,5,17 15:13
+15:21 19:7,10
+27:2 37:15
+42:23 46:18
+challenges 26:20
+35:22 43:9
+challenging
+18:22
+chance 11:25
+12:2 13:3 14:9
+16:2,3 19:25,25
+21:1,1,9 27:22
+chances 19:22
+change 6:15,19
+14:5 18:10 27:6
+40:6
+changed27:8
+changes 18:7
+24:4
+changing 7:9
+Chief 3:3,9 6:22
+7:13,20 11:11
+12:3,22 13:22
+19:17 20:7,21
+21:5 22:16 23:7
+23:11 46:5
+49:22
+chose 34:7
+circuit 8:18,23
+9:15,16,23,24
+9:24 10:9 11:4
+24:8,20 28:7,9
+28:25 32:23
+33:13,15,18
+34:4,5,7,16
+
+51
+Alderson Reporting Company
+
+39:15,15,18
+40:20 41:12,16
+44:9,19 49:14
+circuits 9:19 28:5
+33:19 35:14
+Circuit's 9:6
+41:17
+circumstance
+21:2 42:4
+circumstances
+15:9 42:18
+cited41:16
+claim 11:14
+12:16,25 16:3,3
+17:4 22:21 26:5
+39:9 46:23
+claims 6:20 7:3
+12:1,13
+class 47:25 48:3
+Clause 43:10,12
+clear 9:23,25
+11:6 20:2 28:6
+28:9 33:1 49:11
+clearly 12:7,9
+32:23
+client's 6:10
+closed18:19,21
+18:25
+collateral 4:8
+come 9:11 10:18
+21:17 22:8
+25:17 27:2
+28:20
+comes 32:11
+36:16
+complicated31:6
+31:17
+complies 24:12
+comply 35:17
+concede 8:7
+concept 3:21
+concern 5:3
+19:12 35:25
+concerned5:6
+
+

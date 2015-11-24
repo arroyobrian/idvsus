@@ -1,0 +1,4876 @@
+Official
+
+3
+1
+
+ P R O C E E D I N G S 
+
+2
+3
+4
+
+ (11:20 a.m.) 
+ CHIEF JUSTICE ROBERTS: 
+
+We'll hear argument 
+
+next in Case 14­185, Mata v. Lynch. 
+
+5
+
+ Mr. Fleming. 
+
+6
+
+ ORAL ARGUMENT OF MARK C. FLEMING 
+
+7
+8
+9
+10
+
+ ON BEHALF OF THE PETITIONER 
+ MR. FLEMING: 
+
+Mr. Chief Justice, and may it 
+
+please the Court: 
+ The Court has been offered two ways to 
+
+11
+
+approach this case, a short way and a long way.  We 
+
+12
+
+believe we prevail under both and I will address both, 
+
+13
+
+but I would start with the short way, which we think is 
+
+14
+
+the right way.  This is a case about appellate 
+
+15
+
+jurisdiction ­­
+
+16
+17
+
+ JUSTICE KENNEDY: 
+hearts. 
+
+18
+
+ (Laughter.) 
+
+19
+
+ MR. FLEMING: 
+
+20
+
+You know the way to our 
+
+I try to please, Justice 
+
+Kennedy. 
+
+21
+
+ This is a case about appellate jurisdiction 
+
+22
+
+and specifically whether Congress has given the courts 
+
+23
+
+of appeals jurisdiction to review the denial of a motion 
+
+24
+
+to reopen that would be timely through the application 
+
+25
+
+of equitable tolling.  And that question is answered by
+
+Alderson Reporting Company
+
+Official
+
+4
+1
+
+Section 1252 of the INA, which creates jurisdiction over 
+
+2
+
+denials of motion to reopen as the Court confirmed in 
+
+3
+
+Kucana and it makes no distinction based on the grounds 
+
+4
+
+of the denial of the motion to reopen. 
+
+5
+
+ In this case the board denied Mr. Mata's 
+
+6
+
+motion as untimely, it ruled that equitable tolling was 
+
+7
+
+generally available, but that Mr. Mata was not entitled 
+
+8
+
+to it because it erroneously believed that his 
+
+9
+
+misdemeanor assault conviction qualified as a crime 
+
+10
+
+involving moral turpitude.  That legal error was 
+
+11
+
+reviewable.  It would have been reviewed in any other 
+
+12
+
+circuit.  It should have been reviewed here and the 
+
+13
+
+government agrees, and Mr. Peterson as amicus, does not 
+
+14
+
+mount any argument that that denial somehow does not 
+
+15
+
+fall within the jurisdictional grant of Section 1252. 
+
+16
+
+ JUSTICE GINSBURG: 
+
+Can you explain why ­­ on 
+
+17
+
+the surface, he beats up his girlfriend.  But why that 
+
+18
+
+is not a crime involving moral turpitude?  Because I had 
+
+19
+
+thought that the ­­ the rest of this is academic if the 
+
+20
+
+bottom line is he's committed a crime of moral 
+
+21
+
+turpitude? 
+
+22
+
+ MR. FLEMING: 
+
+Justice Ginsburg, first of 
+
+23
+
+all, that ­­ that is a question that the First Circuit 
+
+24
+
+did not reach and we submit should have reached.  But to 
+
+25
+
+answer the question, the BIA has a very developed
+
+Alderson Reporting Company
+
+Official
+
+5
+1
+
+jurisprudence regarding when assault crimes qualify as 
+
+2
+
+crimes involving moral turpitude and it involves 
+
+3
+
+consideration of a number of factors. 
+
+4
+
+ It involves not only the level of injury 
+
+5
+
+that was either intended or caused, but also the level 
+
+6
+
+of intent.  And as the level of intent that is 
+
+7
+
+chargeable under the offense decreases from 
+
+8
+
+intentionality to, say, recklessness, then the level of 
+
+9
+
+bodily injury that is required has to concomitantly 
+
+10
+11
+
+increase in order for it to constitute moral turpitude. 
+ In Texas, the simple assault statute that 
+
+12
+
+Mr. Mata pled guilty under is not an aggravated assault 
+
+13
+
+statute.  It can be charged based only on bodily injury 
+
+14
+
+and that is defined in a purposely broad way, as the 
+
+15
+
+Texas court of appeals has stated, to include even 
+
+16
+
+injury caused by relatively minor physical contact. 
+
+17
+
+ So simple assault that can be charged under 
+
+18
+
+that provision is not turpitudeness and that's what the 
+
+19
+
+Board should have ruled and that was the argument that 
+
+20
+
+was presented to the Fifth Circuit, but the Fifth 
+
+21
+
+Circuit determined that it did not have jurisdiction to 
+
+22
+
+decide. That is the issue we've asked this Court to 
+
+23
+
+review.  Of course, it does not need to go into the 
+
+24
+
+turpitudeness or not quality of the offense under 
+
+25
+
+Section 2201(a)(1)of the Texas Penal Code.
+
+Alderson Reporting Company
+
+Official
+
+6
+1
+
+ Because this is a jurisdictional question, 
+
+2
+
+there is no need to go further to the issues that Mr. 
+
+3
+
+Peterson is raising regarding whether there is equitable 
+
+4
+
+tolling as a matter of merits under the INA.  We don't 
+
+5
+
+think it's necessary.  We think the Fifth Circuit can 
+
+6
+
+address that if appropriate, if it chooses to on remand. 
+
+7
+
+ JUSTICE GINSBURG: 
+
+8
+
+ JUSTICE SCALIA: 
+
+9
+
+ JUSTICE GINSBURG: 
+
+What if ­­
+Well, wait ­­
+Wouldn't the Fifth 
+
+10
+
+Circuit need to be ­­ I mean, the Fifth Circuit view was 
+
+11
+
+no equitable tolling, period.  The statute says 90 days. 
+
+12
+
+It has a couple of exceptions and that's it.  So if we 
+
+13
+
+simply say you have jurisdiction, the ­­ the answer 
+
+14
+
+would likely be fine, you told us we have jurisdiction. 
+
+15
+
+We think this limitation period has no give, end of 
+
+16
+
+case. 
+
+17
+
+ MR. FLEMING: 
+
+Justice Ginsburg, we don't 
+
+18
+
+think that's what the Fifth Circuit did in this case or 
+
+19
+
+in any other.  In this case, the Court specifically 
+
+20
+
+disavowed any ruling on the merits of the equitable 
+
+21
+
+tolling claim.  It simply dismissed the petition for 
+
+22
+
+lack of jurisdiction.  Notably, the BIA in 2012 in a 
+
+23
+
+case called Chavez­Guzman, which we cite in our reply, 
+
+24
+
+recognized that the Fifth Circuit has not addressed in a 
+
+25
+
+published decision whether the motion time limitations
+
+Alderson Reporting Company
+
+Official
+
+7
+1
+
+may be equitably tolled in cases claiming 
+
+2
+
+ineffectiveness of counsel. 
+
+3
+
+ JUSTICE SCALIA: 
+
+Why did ­­ why did the 
+
+4
+
+Fifth Circuit treat this, therefore, as a ­­ as it 
+
+5
+
+requested review the sua sponte extension granted below? 
+
+6
+
+ MR. FLEMING: 
+
+7
+
+ JUSTICE SCALIA: 
+
+It's ­­
+Why ­­ why would it have 
+
+8
+
+done that if it ­­ if it thought that, in fact, there 
+
+9
+
+was some argument about whether ­­ whether they could 
+
+10
+
+appeal the denial of extension in law as opposed to in 
+
+11
+
+the sua sponte discretion of the agency? 
+
+12
+
+ MR. FLEMING: 
+
+It's ­­ there are two stages 
+
+13
+
+to the answer, Justice Scalia.  And it's regrettable 
+
+14
+
+that the decisions that issue from the Fifth Circuit do 
+
+15
+
+not ­­ they have conclusory statements in them and not a 
+
+16
+
+lot of reasoning. 
+
+17
+
+ First of all, you have the unpublished 
+
+18
+
+decisions which say that the circuit will construe a 
+
+19
+
+request for equitable tolling as a request for sua 
+
+20
+
+sponte reopening. 
+
+21
+22
+23
+
+ JUSTICE SCALIA: 
+
+Why?  Why would one do 
+
+that? 
+ MR. FLEMING: 
+
+So my best reading of them ­­
+
+24
+
+and again, the reasoning is sparse.  They say that in 
+
+25
+
+their view, equitable tolling is not a basis for filing
+
+Alderson Reporting Company
+
+Official
+
+8
+1
+2
+3
+4
+
+a motion after 90 days.  Now, because they have not ­­
+ JUSTICE SCALIA: 
+
+Which means there ­­
+
+there's no equitable tolling. 
+ MR. FLEMING: 
+
+I ­­ I ­­ now, that's not 
+
+5
+
+something that they've ever adopted in a published 
+
+6
+
+decision.  I think one reading of that ­­ and this is 
+
+7
+
+the reading the government, I think, endorses or at the 
+
+8
+
+very least there's a dispute about it ­­ is that the 
+
+9
+
+Fifth Circuit was saying the statue and the regulations 
+
+10
+
+on their terms do not use the words "equitable tolling." 
+
+11
+
+That, of course, does not resolve the fundamental 
+
+12
+
+question whether as a matter of statutory 
+
+13
+
+interpretation ­­
+
+14
+
+ JUSTICE SCALIA: 
+
+15
+
+ MR. FLEMING: 
+
+Sure. 
+­­ or as a matter of 
+
+16
+
+administrative authority equitable tolling can be 
+
+17
+
+applied. 
+
+18
+
+ But I ­­ I want to be clear, we ­­ we do not 
+
+19
+
+fear this question at all.  And if the Court wishes to 
+
+20
+
+reach the merits issues that Mr. Peterson has put before 
+
+21
+
+the Court, we are happy to fight on that ground.  We 
+
+22
+
+simply want it to be plain that we didn't present the ­­
+
+23
+
+the jurisdictional question as including a merits 
+
+24
+
+question.  If the Court thinks it needs to be decided, 
+
+25
+
+then the Court has the briefing and I'm prepared to talk
+
+Alderson Reporting Company
+
+Official
+
+9
+1
+2
+
+about it. 
+ JUSTICE SCALIA: 
+
+Do you acknowledge that 
+
+3
+
+if ­­ if you view this as the Fifth Circuit viewed it, 
+
+4
+
+as a request to review the sua sponte extension granted 
+
+5
+
+by the agency, that the Fifth Circuit would have had no 
+
+6
+
+jurisdiction over that? 
+
+7
+
+ MR. FLEMING: 
+
+We do not, Justice Scalia. 
+
+8
+
+And I just want to be clear the context in which I 
+
+9
+
+answer that question.  That requires a lot of steps 
+
+10
+
+before the Court even gets to that.  First of all, it 
+
+11
+
+not only requires getting to the merits issues, it 
+
+12
+
+requires rejecting our primary ­­ our contention on the 
+
+13
+
+merits, which is that as a matter of statutory 
+
+14
+
+interpretation, this is tollable.  It requires rejecting 
+
+15
+
+the government's position that at the very least, the 
+
+16
+
+statute does not prohibit the board from implementing 
+
+17
+
+the 90­day time limit by using equitable tolling.  And 
+
+18
+
+if you get to that point such that you're in a 
+
+19
+
+through­the­looking­glass world where the board was, in 
+
+20
+
+fact, not doing what it thought it was doing, namely, 
+
+21
+
+exercising authority under the statute, but instead, 
+
+22
+
+exercising regulatory sua sponte authority, then you get 
+
+23
+
+to the question, are there judicially manageable 
+
+24
+
+standards to review what the board, in fact, did in this 
+
+25
+
+case?
+
+Alderson Reporting Company
+
+Official
+
+10
+1
+
+ And there clearly are. 
+
+They have ­­ they're 
+
+2
+
+being reviewed in every other circuit when there is a 
+
+3
+
+request for equitable tolling based on ineffective 
+
+4
+
+assistance of counsel.  The equitable tolling standards 
+
+5
+
+are well settled under this Court's decision in Pace v. 
+
+6
+
+DiGuglielmo.  The ineffective assistance standards are 
+
+7
+
+well settled by the board's own Lozada decision. 
+
+8
+9
+
+ Now, it may well be that there are other 
+situations where the board simply says request denied 
+
+10
+
+and that may be a situation where jurisdiction would be 
+
+11
+
+in doubt.  But if you are talking about a case like this 
+
+12
+
+one where the board writes an opinion that says, here 
+
+13
+
+are the standards we are applying and we believe that 
+
+14
+
+the Petitioner is ineligible for equitable tolling 
+
+15
+
+because his conviction is for a crime involving moral 
+
+16
+
+turpitude, that is a legal question that is reviewable, 
+
+17
+
+regardless of how you caption the authority under which 
+
+18
+
+the board is acting. 
+
+19
+
+ JUSTICE SOTOMAYOR: 
+
+Now, I've ­­ I've 
+
+20
+
+forgotten, but is there a circuit split on that third ­­
+
+21
+
+on the sua sponte review? 
+
+22
+
+ MR. FLEMING: 
+
+There is no circuit split as 
+
+23
+
+such because every other circuit believes, as we think 
+
+24
+
+is correct, that this kind of decision is reviewable as 
+
+25
+
+a matter of statutory authority.  And that's what the
+
+Alderson Reporting Company
+
+Official
+
+11
+1
+
+board is doing.  That's what the board itself thinks 
+
+2
+
+it's doing.  So every other circuit to have decided the 
+
+3
+
+issue does say it has jurisdiction to review this kind 
+
+4
+
+of decision.  They don't call it sua sponte. 
+
+5
+
+ JUSTICE GINSBURG: Then how do we make it clear 
+
+6
+
+to the Fifth Circuit?  We say Fifth Circuit, you have 
+
+7
+
+jurisdiction.  They say fine.  We said before and we say 
+
+8
+
+again that this statute is not susceptible to equitable 
+
+9
+
+tolling and then we're right back where we are. 
+
+10
+
+ MR. FLEMING: 
+
+If that is, in fact, what the 
+
+11
+
+Fifth Circuit does, then it may well be, because then 
+
+12
+
+there would be a clear circuit split on the merits 
+
+13
+
+question of the availability of equitable tolling.  I 
+
+14
+
+would hold out hope that the Fifth Circuit would not 
+
+15
+
+create that circuit split; that when disabused of the 
+
+16
+
+belief that it lacks jurisdiction, it would then engage 
+
+17
+
+in the analysis that we and the government believe it 
+
+18
+
+should engage in and find that like every other circuit 
+
+19
+
+to have addressed the issue, there is, in fact, 
+
+20
+
+equitable tolling available and would address Mr. Mata's 
+
+21
+
+request for it on the merits. 
+
+22
+
+ JUSTICE GINSBURG: 
+
+Well, it knew at the time 
+
+23
+
+it rendered its decision that the other circuits were 
+
+24
+
+taking a different position on whether the 90­day period 
+
+25
+
+was susceptible to extension.
+
+Alderson Reporting Company
+
+Official
+
+12
+1
+
+ MR. FLEMING: 
+
+It did, Your Honor.  The panel 
+
+2
+
+felt ­­ felt itself bound by prior precedent on the 
+
+3
+
+jurisdictional question.  This is why I don't think 
+
+4
+
+fundamentally that it reached a decision in this case or 
+
+5
+
+in any published opinion on the merits of that. 
+
+6
+
+ JUSTICE SCALIA: 
+
+I'm not sure ­­ did the 
+
+7
+
+First Circuit say it has no jurisdiction to review 
+
+8
+
+the ­­ the statutory question? 
+
+9
+10
+
+ MR. FLEMING: 
+ JUSTICE SCALIA: 
+
+The ­­
+I thought all it did was, 
+
+11
+
+since there is no tolling under the statute, we're going 
+
+12
+
+to interpret this as a sua sponte thing, and the only 
+
+13
+
+question before them is whether that sua sponte thing 
+
+14
+
+conferred jurisdiction or not.  Isn't that what 
+
+15
+
+happened? 
+
+16
+17
+
+ MR. FLEMING: 
+
+It ­­ I ­­ I don't think so, 
+
+Justice Scalia. 
+
+18
+
+ JUSTICE SCALIA: 
+
+19
+
+ MR. FLEMING: 
+
+Okay. 
+I think if that had happened, 
+
+20
+
+if that was really what the Fifth Circuit meant to do, 
+
+21
+
+then it should have assumed jurisdiction over our 
+
+22
+
+request for statutory tolling.  It should have denied 
+
+23
+
+the petition to that extent, and then it could have 
+
+24
+
+dismissed the request for sua sponte reopening.  But it 
+
+25
+
+didn't do that.  It dismissed the entire thing for lack
+
+Alderson Reporting Company
+
+Official
+
+13
+1
+
+of jurisdiction, which is why we think there is no 
+
+2
+
+merits ruling here that the Court needs to reach. 
+
+3
+
+ Again, however, I say that if the Court 
+
+4
+
+wishes to reach it, we believe the answer is clear and 
+
+5
+
+correct under this Court's precedence that the 90­day 
+
+6
+
+time limit is a statute of limitations, and that it 
+
+7
+
+should be ­­ there is no reason to think that the 
+
+8
+
+presumption of tolling either doesn't apply or has been 
+
+9
+
+rebutted. 
+
+10
+
+ CHIEF JUSTICE ROBERTS: 
+
+11
+
+Mr. Mata at this point? 
+
+12
+
+ MR. FLEMING: 
+
+13
+14
+15
+16
+
+Where ­­ where is 
+
+He's ­­ he's at home with his 
+
+family.  His ­­ his order has been ­­
+ CHIEF JUSTICE ROBERTS: 
+
+So you don't mind if 
+
+this goes back to the Fifth Circuit. 
+ MR. FLEMING: 
+
+This should go back to the 
+
+17
+
+Fifth Circuit, and the question is simply that Mr. 
+
+18
+
+Peterson has raised is, what does it go back with?  Does 
+
+19
+
+it go back solely with directions that the court has 
+
+20
+
+jurisdiction and everything else should be addressed by 
+
+21
+
+the ­­ the Fifth Circuit in the first instance, or does 
+
+22
+
+it go back with a decision that, in addition to there 
+
+23
+
+being jurisdiction, there is also equitable tolling, and 
+
+24
+
+then the Fifth Circuit can address the question on the 
+
+25
+
+merits.
+
+Alderson Reporting Company
+
+Official
+
+14
+1
+
+ CHIEF JUSTICE ROBERTS: 
+
+2
+
+ MR. FLEMING: 
+
+3
+
+Thank you, counsel. 
+
+With the Court's permission, 
+
+I'll reserve the balance of my time.  Thank you. 
+
+4
+
+ CHIEF JUSTICE ROBERTS: 
+
+5
+
+ ORAL ARGUMENT OF ANTHONY A. YANG 
+
+6
+
+Mr. Yang. 
+
+ ON BEHALF OF THE RESPONDENT 
+
+7
+
+ IN SUPPORT OF REVERSAL AND REMAND 
+
+8
+
+ MR. YANG: 
+
+9
+10
+
+Mr. Chief Justice, and may it 
+
+please the Court: 
+ The court of appeals here rested its 
+
+11
+
+decision on a basic and fundamental error of 
+
+12
+
+administrative law.  Rather than review the board's 
+
+13
+
+decision on its own terms, the court of appeals 
+
+14
+
+recharacterized the question before it into a different 
+
+15
+
+question over which it lacked jurisdiction.  That course 
+
+16
+
+is inconsistent with the Chenery rule, which, since even 
+
+17
+
+before the APA, required that judicial review of agency 
+
+18
+
+action be based on the rationale adopted by the agency. 
+
+19
+
+ JUSTICE SCALIA: 
+
+But the way you put it 
+
+20
+
+causes me to believe that you agreed that the Fifth 
+
+21
+
+Circuit would have had no jurisdiction. 
+
+22
+
+ MR. YANG: 
+
+23
+
+ JUSTICE SCALIA: 
+
+24
+25
+
+We ­­
+If indeed it was the sua 
+
+sponte action that they were reviewing. 
+ MR. YANG: 
+
+That's right.  We disagree with
+
+Alderson Reporting Company
+
+Official
+
+15
+1
+
+Petitioner on this point ­­
+
+2
+
+ JUSTICE SCALIA: 
+
+3
+
+ MR. YANG: 
+
+On that point. 
+But we don't think it affects the 
+
+4
+
+disposition here.  Also I would note that every single 
+
+5
+
+court of appeals with jurisdiction over immigration 
+
+6
+
+cases agrees with our position.  There is no circuit 
+
+7
+
+split because it's unanimous in our favor. 
+
+8
+9
+
+ JUSTICE KAGAN: 
+
+And Mr. Yang, could you 
+
+point me to the place in the board's decision that you 
+
+10
+
+think makes clear what the board was doing?  Because as 
+
+11
+
+I looked at the board's decision, honestly, I found it a 
+
+12
+
+little bit difficult to tell whether the board was 
+
+13
+
+denying it on statutory grounds or on sua sponte 
+
+14
+
+grounds. 
+
+15
+
+ MR. YANG: 
+
+I agree with you that the board's 
+
+16
+
+decision could be a little bit more clear.  Some 
+
+17
+
+background is helpful. 
+
+18
+
+ This is a question of equitable tolling for 
+
+19
+
+ineffective assistance of counsel.  That's the claim. 
+
+20
+
+And so that claim embodies at least four requirements. 
+
+21
+
+One, you have to have normal equitable tolling 
+
+22
+
+satisfied. 
+
+23
+
+ You have to also show ineffective 
+
+24
+
+assistance, and that has subparts, including prejudice 
+
+25
+
+from the ineffective assistance, and you have to show
+
+Alderson Reporting Company
+
+Official
+
+16
+1
+
+that you've met the requirements of the Lozada decision, 
+
+2
+
+which has certain procedural showings that have to be 
+
+3
+
+made. 
+
+4
+
+ Now, in order to get to equitable tolling, 
+
+5
+
+you therefore have to show prejudice.  And if you look 
+
+6
+
+at Petition Appendix 7, after talking about Lozada in 
+
+7
+
+the first full paragraph, in the second paragraph, they 
+
+8
+
+say, you know, in Lozada, although the resulting 
+
+9
+
+summary ­­ there was a summary dismissal of appeal, did 
+
+10
+
+not amount to a deprivation of due process and was not 
+
+11
+
+prejudicial. 
+
+12
+
+ And then with respect to prejudice, they 
+
+13
+
+explain on two bases, the decision here, or the alleged 
+
+14
+
+ineffective assistance was not prejudicial, one, because 
+
+15
+
+it was not a crime of ­­ there was a crime of moral 
+
+16
+
+turpitude which precluded relief; and, two, the alien 
+
+17
+
+failed to submit at the motion to reopen stage, evidence 
+
+18
+
+showing that there was exceptional and extremely unusual 
+
+19
+
+hardship. 
+
+20
+
+ All of that goes to prejudice, which goes to 
+
+21
+
+the tolling question.  And the predicate, of course, was 
+
+22
+
+the statement earlier that the time for filing a motion 
+
+23
+
+to reopen may be tolled in cases of ineffective 
+
+24
+
+assistance of counsel, but then they were just focusing 
+
+25
+
+on the second.
+
+Alderson Reporting Company
+
+Official
+
+17
+1
+
+ So the way that we read the board, which I 
+
+2
+
+think is the way the board has decided these cases 
+
+3
+
+generally is that the questions of ineffective 
+
+4
+
+assistance and equitable tolling here are kind of mixed. 
+
+5
+
+And the board's decision addressed the ­­ the prejudice 
+
+6
+
+prong of that ­­ those requirements. 
+
+7
+
+ JUSTICE BREYER: 
+
+I somehow have the 
+
+8
+
+impression, I don't know, the AG is going to have some 
+
+9
+
+kind of rulemaking relevant to this. 
+
+10
+
+ MR. YANG: 
+
+There is pending rulemaking, as 
+
+11
+
+we noted in our brief.  There is a notice of proposed 
+
+12
+
+rulemaking that the Department has submitted to OMD that 
+
+13
+
+is expected to, you know, hopefully go forward. 
+
+14
+
+ JUSTICE BREYER: 
+
+Rulemaking has to do with 
+
+15
+
+the existence or nonexistence of equitable tolling under 
+
+16
+
+this provision? 
+
+17
+
+ MR. YANG: 
+
+18
+
+The rulemaking, of course, is not 
+
+public, but what I can tell you ­­
+
+19
+
+ JUSTICE BREYER: 
+
+20
+
+ MR. YANG: 
+
+Yes. 
+­­ is that the ­­ in the Compean 
+
+21
+
+decision, the Attorney General addressed generally 
+
+22
+
+questions of ineffective assistance of counsel.  One of 
+
+23
+
+the components of that was equitable tolling of the 
+
+24
+
+deadline for ineffective assistance.  It would be 
+
+25
+
+logical to assume that because the ­­ that Compean
+
+Alderson Reporting Company
+
+Official
+
+18
+1
+
+ruling was vacated in favor of the rulemaking, the 
+
+2
+
+rulemaking scope could be similar to the Attorney 
+
+3
+
+General's decision. 
+
+4
+
+ JUSTICE KAGAN: 
+
+So on that assumption, that 
+
+5
+
+would, as I understand it, give the Fifth Circuit 
+
+6
+
+something new to think about in ­­ in addressing this 
+
+7
+
+question; is that right? 
+
+8
+9
+
+ MR. YANG: 
+
+It certainly would, and it would 
+
+also have the benefit, on remand, of the government's 
+
+10
+
+clear view that there is equitable tolling here, 
+
+11
+
+although not applicable to this alien, but just 
+
+12
+
+generally equitable tolling is available as all the 
+
+13
+
+courts of appeals have decided.  And as we note in our 
+
+14
+
+brief, we don't think the Fifth Circuit is precluded 
+
+15
+
+even at the panel level from reaching that decision. 
+
+16
+
+ JUSTICE GINSBURG: 
+
+Would the ­­ would the 
+
+17
+
+Fifth Circuit, with this rulemaking, you can't tell us 
+
+18
+
+what it is at this stage, this early stage, would it be 
+
+19
+
+available, will they have a rule should we remand this 
+
+20
+
+case to the Fifth Circuit? 
+
+21
+
+ MR. YANG: 
+
+I think it's unlikely there's 
+
+22
+
+going to be a final rule by the time this Court's 
+
+23
+
+decision is issued.  The unified agenda projects a 
+
+24
+
+notice of proposed rulemaking being issued late this 
+
+25
+
+year.  And then the notice and comment period would have
+
+Alderson Reporting Company
+
+Official
+
+19
+1
+
+to elapse, and we'd have to get to a final rule.  So I 
+
+2
+
+don't think by the time June rolls around, we'll get the 
+
+3
+
+final rule. 
+
+4
+5
+6
+7
+8
+9
+
+ JUSTICE KAGAN: 
+
+I'm ­­ I'm sorry, but there 
+
+would be an NPR when?  Late this calendar year? 
+ MR. YANG: 
+
+Late this calendar year.  That's 
+
+what the unified agenda projects. 
+ So ­­ but again, I don't think sending this 
+case back on the very basic point that the Fifth Circuit 
+
+10
+
+can't sidestep its obligation to review a motion to 
+
+11
+
+reopen by characterizing it as something that it's not, 
+
+12
+
+would wipe the slate clean.  The Fifth Circuit in its 
+
+13
+
+first ­­ in an earlier unpublished decision, in fact, 
+
+14
+
+found that there was equitable tolling and reversed the 
+
+15
+
+board to apply equitable tolling.  Only later did it 
+
+16
+
+change course without any reasoning and assert, again 
+
+17
+
+with zero reasoning, that there was not equitable 
+
+18
+
+tolling, and then adopted this construal rule. 
+
+19
+
+ But the construal rule itself is just 
+
+20
+
+fundamentally into the teeth of the Chenery doctrine. 
+
+21
+
+And had the court of appeals recognized that what it had 
+
+22
+
+to review was the denial of the alien's motion to 
+
+23
+
+reopen, it would have had jurisdiction.  And it doesn't 
+
+24
+
+matter, you know, amicus has tried to ­­ I think 
+
+25
+
+artfully tried to recharacterize this jurisdictional
+
+Alderson Reporting Company
+
+Official
+
+20
+1
+
+question into a question of the merits, but the answer 
+
+2
+
+to the merits doesn't affect the jurisdiction. 
+
+3
+
+ If you were to assume, as the amicus has 
+
+4
+
+argued, that there is no equitable tolling in this 
+
+5
+
+context because the statute precludes it, that would not 
+
+6
+
+be a jurisdictional problem.  What it would mean is that 
+
+7
+
+the court of appeals would simply affirm the board on 
+
+8
+
+the merits; that is affirm the board's denial of a 
+
+9
+
+motion to reopen, because there can be no equitable 
+
+10
+
+tolling. 
+
+11
+
+ Again, we come back to the ­­ this case is a 
+
+12
+
+very simple case.  It's an appropriate case to end the 
+
+13
+
+term on; it's quick, it's easy.  The court of appeals 
+
+14
+
+should have simply done what courts of appeals do all 
+
+15
+
+the time when they're conducting agency review, a review 
+
+16
+
+of agency action; that is, review the action before it 
+
+17
+
+and not recharacterize it into something that it's not. 
+
+18
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, to be fair to 
+
+19
+
+the Fifth Circuit, I mean, I can't put myself in their 
+
+20
+
+mind, but I think they may well have been trying to give 
+
+21
+
+Mr. Mata the benefit of the doubt or give him every 
+
+22
+
+chance.  I mean, they say it's equitable tolling but, 
+
+23
+
+you know, you're not going to get equitable tolling, so 
+
+24
+
+that's no relief.  And since you can't get it, maybe 
+
+25
+
+you're trying to get something else.  And so we'll look
+
+Alderson Reporting Company
+
+Official
+
+21
+1
+
+at whether you get something else, and then too bad, it 
+
+2
+
+turns out you don't get that either. 
+
+3
+
+ MR. YANG: 
+
+Well, I won't speculate what 
+
+4
+
+to ­­ what the court of appeals' motivations might have 
+
+5
+
+been for its ruling, but the ruling itself is again just 
+
+6
+
+fundamentally into the teeth of Chenery.  It's true that 
+
+7
+
+whencourts are addressing a pleading that's filed 
+
+8
+
+before the court, itself, the court can say, well, I'm 
+
+9
+
+going to read this generously.  They do this in certain 
+
+10
+
+contexts. 
+
+11
+
+ But when you're conducting review of agency 
+
+12
+
+action, the rule that has always existed in the modern 
+
+13
+
+APA era has been you look to what the agency has done. 
+
+14
+
+And when you look to what the agency has done here, it 
+
+15
+
+addressed and rejected the alien's motion to reopen. 
+
+16
+
+ JUSTICE KAGAN: 
+
+Just to try to be a little 
+
+17
+
+bit generous to the Fifth Circuit, again, I mean, I 
+
+18
+
+started off by saying, I found it a little bit hard to 
+
+19
+
+tell what the agency was doing.  And you presented a 
+
+20
+
+very good explanation, but it's an explanation that 
+
+21
+
+actually requires some background knowledge, and I'm not 
+
+22
+
+sure that they would have gotten that from just looking 
+
+23
+
+at the face of the thing. 
+
+24
+25
+
+ MR. YANG: 
+
+And I don't mean to ­­ to fault 
+
+the Fifth Circuit.
+
+Alderson Reporting Company
+
+Official
+
+22
+1
+
+ JUSTICE KAGAN: 
+
+But, I mean, you can't 
+
+2
+
+really ­­ Chenery can't really operate very well if you 
+
+3
+
+can't figure it out. 
+
+4
+
+ MR. YANG: 
+
+Well, that's true.  But the ­­
+
+5
+
+that is true, but the answer then is always to remand. 
+
+6
+
+If you can't discern what the ­­ the course of the 
+
+7
+
+agency's decision is, the other established rule is you 
+
+8
+
+remand. And, you know, the ­­ this is not an unfamiliar 
+
+9
+
+question to the courts.  Generally, if you can discern, 
+
+10
+
+even if it's in a cryptic way, what ­­ what the ­­ the 
+
+11
+
+alien's ­­ excuse me ­­ the agency's path in an agency 
+
+12
+
+decision, you review that.  If you ­­
+
+13
+
+ JUSTICE GINSBURG: 
+
+Is it true that the ­­
+
+14
+
+the ­­ the agency, the BIA, has, a number of times, 
+
+15
+
+recognized the existence of equitable tolling of this 
+
+16
+
+90­day period, but has never done so in a 
+
+17
+
+precedential opinion? 
+
+18
+
+ MR. YANG: 
+
+That ­­ that is correct.  That is 
+
+19
+
+correct.  It ­­ there is no precedential opinion.  There 
+
+20
+
+was, of course, the Attorney General's opinion in 
+
+21
+
+Compean, which addressed both the standards for 
+
+22
+
+ineffective assistance claims, as well as the 
+
+23
+
+application of equitable tolling for cases involving 
+
+24
+
+ineffective assistance.  So the AG made that ruling, and 
+
+25
+
+it's a way that's consistent with, I think, the ­­ what
+
+Alderson Reporting Company
+
+Official
+
+23
+1
+
+we've articulated in the brief.  That was vacated in 
+
+2
+
+lieu of what ­­ what we will now have, which is a 
+
+3
+
+rulemaking process to address the questions.  So there 
+
+4
+
+is no precedent, although the Attorney General has 
+
+5
+
+briefly spoken on the issue. 
+
+6
+7
+
+ If there's no further questions, I'm going 
+to ­­
+
+8
+
+ CHIEF JUSTICE ROBERTS: 
+
+9
+
+ MR. YANG: 
+
+10
+11
+12
+
+Thank you, counsel. 
+
+Thank you. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Mr. Peterson. 
+
+ ORAL ARGUMENT OF WILLIAM R. PETERSON 
+ ON BEHALF OF THE COURT­APPOINTED AMICUS CURIAE, 
+
+13
+
+ SUPPORTING THE JUDGMENT BELOW 
+
+14
+
+ MR. PETERSON: 
+
+15
+16
+
+Mr. Chief Justice, and may it 
+
+please the Court: 
+ We agree with the government that orders 
+
+17
+
+denying statutory motions to reopen are reviewable in 
+
+18
+
+the courts of appeals, and we agree with the government 
+
+19
+
+that orders of the board denying invitations for the 
+
+20
+
+board to reopen sua sponte are not reviewable in the 
+
+21
+
+courts of appeals because they're committed to agency 
+
+22
+
+discretion by law. 
+
+23
+
+ Where we part ways with the government is on 
+
+24
+
+how you distinguish between the two of them.  And we 
+
+25
+
+offer what we think is the easiest test, which is the
+
+Alderson Reporting Company
+
+Official
+
+24
+1
+
+timeliness.  If an alien asks the board to reopen within 
+
+2
+
+the statutory deadline, within the 90 days, he has a 
+
+3
+
+right to reopening that is reviewable under Kucana if 
+
+4
+
+the board denies it. 
+
+5
+
+ On the other hand, if the alien requests 
+
+6
+
+reopening after the expiration of the 90­day statutory 
+
+7
+
+period, the board is not obligated to grant reopening in 
+
+8
+
+those circumstances.  The board could grant reopening 
+
+9
+
+only through its exercise of its sua sponte authority, 
+
+10
+
+and as a result, that decision is wholly in the board's 
+
+11
+
+discretion. 
+
+12
+
+ Now, the government turns to Chenery to 
+
+13
+
+suggest a rule that courts must always characterize 
+
+14
+
+agency decisions in precisely the way the agencies did. 
+
+15
+
+This Court, we think, rejected that argument in 
+
+16
+
+Brotherhood of Locomotive Engineers where it explained 
+
+17
+
+that Chenery has nothing whatever to do with whether 
+
+18
+
+agency action is reviewable.  So we see Brotherhood as a 
+
+19
+
+remarkably analogous case.  There the request being made 
+
+20
+
+of the commission was to reconsider a previous decision, 
+
+21
+
+and the court distinguished between two types of ways 
+
+22
+
+that a party could ask the commission to change one of 
+
+23
+
+its earlier decisions. 
+
+24
+25
+
+ It could file a motion for reconsideration, 
+simply suggesting that the law was wrong, the earlier
+
+Alderson Reporting Company
+
+Official
+
+25
+1
+
+decision was simply incorrect on the same record.  The 
+
+2
+
+court held that that is not reviewable.  Or the party 
+
+3
+
+could file a motion to reopen with new evidence 
+
+4
+
+attached, which would be reviewable.  And what the court 
+
+5
+
+said was that in determining whether the court of 
+
+6
+
+appeals had jurisdiction over the petition for review, 
+
+7
+
+it didn't need to focus on how the agency characterized 
+
+8
+
+its order.  It could focus on whether that order was 
+
+9
+
+reviewable. 
+
+10
+
+ So in this case, Petitioner acknowledges 
+
+11
+
+that if equitable tolling is unavailable, his motion to 
+
+12
+
+reopen was untimely.  If he filed 115 days, his only 
+
+13
+
+argument in favor of timeliness is equitable tolling. 
+
+14
+
+ JUSTICE SOTOMAYOR: 
+
+Well, I'm ­­ I'm a 
+
+15
+
+little concerned because we do have to, on some levels, 
+
+16
+
+address the question of whether a sua ­­ sua sponte 
+
+17
+
+decision not to ­­ not to reopen is ­­ is reviewable. 
+
+18
+
+I ­­ I think as a general matter, one could say that 
+
+19
+
+given the vast discretion that the BIA gets in denying, 
+
+20
+
+that one should basically defer to their decisions in 
+
+21
+
+sua sponte reopenings.  But occasionally, they do it not 
+
+22
+
+as an exercise of discretion, but as an erroneous 
+
+23
+
+interpretation of law.  And there's plenty of standards 
+
+24
+
+to correcting that.  And so even for me, in sua sponte 
+
+25
+
+openings ­­ and I do understand I'm probably on a losing
+
+Alderson Reporting Company
+
+Official
+
+26
+1
+
+slope ­­ and I think that's what the ­­ the board is 
+
+2
+
+basically saying.  It's a matter of ­­ of deciding 
+
+3
+
+whether there was ineffective assistance of counsel, and 
+
+4
+
+we have a right and this is the standard we're going to 
+
+5
+
+set.  Lozada sets the standard that we're going to look 
+
+6
+
+at, and for that reason, there is equitable tolling. 
+
+7
+
+That's basically all they're saying, in my judgment. 
+
+8
+
+ MR. PETERSON: 
+
+Your Honor, we disagree that 
+
+9
+
+Lozada sets the standard for ineffective assistance of 
+
+10
+
+counsel.  We believe that Lozada sets the standard for 
+
+11
+
+how an ineffective assistance of counsel claim must be 
+
+12
+
+raised. 
+
+13
+
+ JUSTICE SOTOMAYOR: 
+
+You're right.  How it ­­
+
+14
+
+but here, they basically said it ­­ you didn't have due 
+
+15
+
+diligence, I believe, and so you failed the 
+
+16
+
+prerequisites. 
+
+17
+
+ MR. PETERSON: 
+
+Your Honor, we would disagree 
+
+18
+
+that in this case, the board actually construed 
+
+19
+
+Petitioner as asking for equitable tolling.  And there's 
+
+20
+
+a reason for that, which is that Petitioner did not ask 
+
+21
+
+for equitable tolling before the Board of Immigration 
+
+22
+
+Appeals.  His initial motion to reopen does not 
+
+23
+
+acknowledge its untimeliness.  It says nothing about 
+
+24
+
+untimeliness at all.  He mentions, in his reply in 
+
+25
+
+support of the  motion to reopen, that it is not
+
+Alderson Reporting Company
+
+Official
+
+27
+1
+
+untimely if there are exceptional circumstances.  You 
+
+2
+
+will not find the phrase "equitable tolling" in any of 
+
+3
+
+the papers the Petitioner filed with the Board of 
+
+4
+
+Immigration ­­
+
+5
+
+ JUSTICE GINSBURG: 
+
+6
+
+ MR. PETERSON: 
+
+7
+
+ JUSTICE GINSBURG: 
+
+Well, who was he ­­
+­­ Appeals. 
+­­ represented by at that 
+
+8
+
+stage?  I mean, is ­­ this is a case involving 
+
+9
+
+ineffective assistance of counsel when he brought the ­­
+
+10
+11
+
+at ­­ at what stage was there competent counsel? 
+ MR. PETERSON: 
+
+Justice Ginsburg, my 
+
+12
+
+understanding is that  Petitioner's current theory is that 
+
+13
+
+he was represented by competent counsel when he retained 
+
+14
+
+new counsel after the board's initial denial of his 
+
+15
+
+appeal.  That was October 10th, 19 days after the 
+
+16
+
+board's decision.  You'll see ­­
+
+17
+
+ JUSTICE BREYER: 
+
+What we have here is a 
+
+18
+
+question that we agreed to review.  The question is 
+
+19
+
+whether the Fifth Circuit Court of Appeals erred in this 
+
+20
+
+case in holding it has no jurisdiction to review 
+
+21
+
+Petitioner's request that the board equitably tolled the 
+
+22
+
+90­day deadline on his motion to reopen as a result of 
+
+23
+
+ineffective assistance of counsel.  We granted review on 
+
+24
+
+that. 
+
+25
+
+ As far as what the Fifth Circuit said, among
+
+Alderson Reporting Company
+
+Official
+
+28
+1
+
+other things it says, it lacks jurisdiction to review 
+
+2
+
+the BIA's denial of Mata's untimely motion to reopen, 
+
+3
+
+and so it need not address the merits.  Now, it said 
+
+4
+
+other things, too, which tend to support you as going on 
+
+5
+
+this other ground, but it did say that.  And you read, 
+
+6
+
+at least somewhat possibly, you could say he did ask the 
+
+7
+
+board to equitably toll his motion.  And the board said, 
+
+8
+
+no, we won't equitably do that because it's not going to 
+
+9
+
+make any difference, basically.  You weren't really 
+
+10
+
+prejudiced. 
+
+11
+
+ Okay. 
+
+Given all that, why should we decide 
+
+12
+
+a different question?  Why don't we decide the question 
+
+13
+
+that we said we would decide?  And if we're going to 
+
+14
+
+decide the question we said we'd decide, I would think 
+
+15
+
+the answer is pretty clear.  They did have jurisdiction 
+
+16
+
+to review it.  They can review it and say the board was 
+
+17
+
+right because they have a lot of discretion here, 
+
+18
+
+et cetera, or for whatever reason, because there is no 
+
+19
+
+equitable tolling, whatever they want to say.  I 
+
+20
+
+wouldn't guess that. 
+
+21
+
+ But I've never heard of any precedent that 
+
+22
+
+would ­­ I can't think of one that would suggest that 
+
+23
+
+when an agency does something like this, requests 
+
+24
+
+equitably to toll, denied, appeal, that a court of 
+
+25
+
+appeals wouldn't consider whether they're right or
+
+Alderson Reporting Company
+
+Official
+
+29
+1
+
+wrong.  I mean, what ­­ what ­­ if we get to that 
+
+2
+
+question, is there any case?  No, because I thought 
+
+3
+
+normally, courts of appeals do review that kind of 
+
+4
+
+question.  You may have a weak argument, but then 
+
+5
+
+they'll review it.  They'll say no. 
+
+6
+
+ MR. PETERSON: 
+
+Justice Breyer, as we 
+
+7
+
+understand what the Fifth Circuit did here, the Fifth 
+
+8
+
+Circuit has already established in its jurisprudence 
+
+9
+
+that equitable tolling is unavailable for statutory 
+
+10
+11
+
+motions. 
+ I know Petitioner now takes a different 
+
+12
+
+view.  I point you to Petitioner's arguments before the 
+
+13
+
+court of appeals in his reply brief on page 8 where he 
+
+14
+
+asked the court of appeals to reexamine its holding in 
+
+15
+
+Ramos­Bonilla that motions to reopen are not subject to 
+
+16
+
+equitable tolling.  So at least before the court of 
+
+17
+
+appeals, Petitioner saw the Fifth Circuit's 
+
+18
+
+jurisprudence the same way that we did. 
+
+19
+
+ Now, because, in the Fifth Circuit, 
+
+20
+
+equitable tolling of the 90­day deadline is unavailable, 
+
+21
+
+the Board of Immigration Appeals could have granted 
+
+22
+
+relief only by exercising its sua sponte authority to 
+
+23
+
+reopen.  That is the only basis on which the Board of 
+
+24
+
+Immigration Appeals could have reopened in this case. 
+
+25
+
+Therefore, the Board of Immigration Appeals' decision
+
+Alderson Reporting Company
+
+Official
+
+30
+1
+
+whether or not to reopen is a decision that is committed 
+
+2
+
+to agency discretion by law. 
+
+3
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, but normally 
+
+4
+
+it's a ­­ a circuit precedent establishing a particular 
+
+5
+
+rule on the merits doesn't operate as a bar to 
+
+6
+
+jurisdiction.  I mean ­­ I mean, they may give you a 
+
+7
+
+very short order citing the decision that controls the 
+
+8
+
+precedent in the particular case, but they certainly 
+
+9
+
+have jurisdiction in reviewing. 
+
+10
+
+ For example, I mean, let's suppose you've 
+
+11
+
+got an argument that you want to overturn the precedent. 
+
+12
+
+They would have had jurisdiction to do that. 
+
+13
+
+ MR. PETERSON: 
+
+Mr. Chief Justice, we think 
+
+14
+
+the difference here is that the deadline isn't simply a 
+
+15
+
+question of whether the board was right or wrong in 
+
+16
+
+denying the statutory motion.  We see the timeliness as 
+
+17
+
+the key distinction between whether the board's 
+
+18
+
+discretion was unfettered on reopening or fettered on 
+
+19
+
+reopening.  And so the first question as we see it ­­
+
+20
+
+that is how we distinguish orders denying statutory 
+
+21
+
+motions to reopen from orders denying motions to reopen 
+
+22
+
+sua sponte. 
+
+23
+
+ And so the first question we would say that 
+
+24
+
+a court of appeals would need to address is whether the 
+
+25
+
+alien's motion to reopen before the Board of Immigration
+
+Alderson Reporting Company
+
+Official
+
+31
+1
+2
+
+Appeals was timely. 
+ If that motion was untimely, then it rested 
+
+3
+
+solely in the board's discretion whether to grant or 
+
+4
+
+deny reopening.  And for that reason, under Heckler v. 
+
+5
+
+Chaney, under Brotherhood of Locomotive Engineers, the 
+
+6
+
+Fifth Circuit properly dismissed for lack of 
+
+7
+
+jurisdiction. 
+
+8
+9
+
+ JUSTICE KAGAN: 
+
+Do you deny that the 
+
+plaintiff here ­­ that Petitioner thought that he was 
+
+10
+
+asking for equitable tolling?  Because I guess ­­ I 
+
+11
+
+guess this is very similar to the Chief Justice's 
+
+12
+
+question, but it seems to me if somebody comes in and he 
+
+13
+
+says, I'm entitled to equitable tolling, and the court 
+
+14
+
+thinks, no, you're not, equitable tolling is 
+
+15
+
+unavailable.  Then what the court should do is something 
+
+16
+
+like this.  It should first say, sorry, equitable 
+
+17
+
+tolling is not available. 
+
+18
+
+ Now, is there a different way we can 
+
+19
+
+construe your petition?  Oh, maybe there is.  We can 
+
+20
+
+construe it as a sua sponte decision.  Now in the end 
+
+21
+
+that's going to lead you to the same results because we 
+
+22
+
+don't have jurisdiction over that, but that that's the 
+
+23
+
+proper order of things.  You know, first we'll say, oop, 
+
+24
+
+sorry you lose equitable tolling is unavailable, and 
+
+25
+
+then we'll do whatever construing we can do to see if
+
+Alderson Reporting Company
+
+Official
+
+32
+1
+
+there are any alternative avenues, and then we decide 
+
+2
+
+there are not. 
+
+3
+
+ MR. PETERSON: 
+
+Well, Justice Kagan we 
+
+4
+
+believe that's what the Fifth Circuit did, albeit 
+
+5
+
+implicitly.  I point to page 3 of the Petition Appendix: 
+
+6
+
+We lacked jurisdiction to review the BIA's denial of 
+
+7
+
+Mata's untimely motion to reopen. 
+
+8
+
+ JUSTICE KAGAN: 
+
+No, but there's a ­­ there 
+
+9
+
+is something, and this is what the Chief Justice was 
+
+10
+
+saying, too.  There is something that the court does 
+
+11
+
+have jurisdiction over and it's the question of whether 
+
+12
+
+equitable tolling was available.  That's a merits 
+
+13
+
+question, I have jurisdiction over whether equitable 
+
+14
+
+tolling is available.  I say it's not or I say it is; 
+
+15
+
+doesn't matter, I have jurisdiction over that question 
+
+16
+
+either way. 
+
+17
+
+ MR. PETERSON: 
+
+The court of appeals 
+
+18
+
+certainly always has jurisdiction to determine whether 
+
+19
+
+it has jurisdiction.  So on the way to a jurisdictional 
+
+20
+
+ruling ­­
+
+21
+
+ JUSTICE KAGAN: 
+
+It's not determining whether 
+
+22
+
+it has jurisdiction.  That ­­ whether equitable tolling 
+
+23
+
+is available or is unavailable is ­­ is not itself a 
+
+24
+
+jurisdictional question.  That's a merits question. 
+
+25
+
+ And then when you decide that it's
+
+Alderson Reporting Company
+
+Official
+
+33
+1
+
+unavailable you can say, okay, is there another way to 
+
+2
+
+construe the thing, and that ends ­­ that lands you in a 
+
+3
+
+jurisdictional question as to whether you have 
+
+4
+
+jurisdiction over sua sponte decisions. 
+
+5
+
+ MR. PETERSON: 
+
+Justice Kagan, as we've tried 
+
+6
+
+to suggest it, the timeliness is related to the 
+
+7
+
+jurisdiction, because the timeliness of the motion to 
+
+8
+
+reopen tells you whether the board's order denying 
+
+9
+
+reopening is an order that was solely in the board's 
+
+10
+11
+
+discretion or not. 
+ JUSTICE GINSBURG: 
+
+Well  it's really ­­
+
+12
+
+you're taking a merits first.  You decide the merits and 
+
+13
+
+then we say, then there's no jurisdiction.  This is ­­
+
+14
+
+this is what ­­ whatever the rule is ­­ as you recognize, 
+
+15
+
+is a claim­processing rule.  You ­­ that rule needs to be 
+
+16
+
+interpreted whether it has any give. 
+
+17
+
+ But it's ­­ it's ­­ there's jurisdiction to 
+
+18
+
+decide that question.  I think you agree that there is 
+
+19
+
+jurisdiction in the Fifth Circuit to decide whether or 
+
+20
+
+not this 90­day limit can be equitably tolled. 
+
+21
+
+ MR. PETERSON: 
+
+Your Honor, yes, Justice 
+
+22
+
+Ginsburg, we do agree the Fifth Circuit can decide 
+
+23
+
+that ­­ has decided it, and as a result of deciding 
+
+24
+
+that, did properly reach the judgement it reached in 
+
+25
+
+this case.
+
+Alderson Reporting Company
+
+Official
+
+34
+1
+
+ JUSTICE KAGAN: 
+
+But you see there's a little 
+
+2
+
+bit of a problem with the way the Fifth Circuit is going 
+
+3
+
+about this thing, because what the Fifth Circuit has 
+
+4
+
+done is to say that equitable tolling is unavailable and 
+
+5
+
+the only time it ever uttered those words is in an 
+
+6
+
+unpublished opinion.  And in all the published opinions 
+
+7
+
+it's just said, you know, we're construing this as 
+
+8
+
+something else and we have no jurisdiction over that. 
+
+9
+
+And what that effectively has done is to insulate from 
+
+10
+
+our review the determination that the Fifth Circuit has 
+
+11
+
+made, if the Fifth Circuit has made it, that equitable 
+
+12
+
+tolling is unavailable. 
+
+13
+
+ MR. PETERSON: 
+
+14
+15
+16
+
+Ramos­Bonilla adopted the ­­
+ JUSTICE KAGAN: 
+
+ (Laughter.) 
+
+18
+
+ MR. PETERSON: 
+
+19
+
+ JUSTICE KAGAN: 
+
+I'm very sorry ­­
+And we're not often 
+
+confused. 
+
+21
+
+ (Laughter.) 
+
+22
+
+ JUSTICE SCALIA: 
+
+23
+
+He's definitely Justice 
+
+Scalia. 
+
+17
+
+20
+
+Justice Scalia, when 
+
+It's a good question, 
+
+though. 
+
+24
+
+ (Laughter.) 
+
+25
+
+ MR. PETERSON: 
+
+Thank you.  When the Fifth
+
+Alderson Reporting Company
+
+Official
+
+35
+1
+
+Circuit in Ramos­Bonilla adopted the second half of ­­
+
+2
+
+adopted the construal rule from Lin v. Mukasey, we think 
+
+3
+
+the Fifth Circuit necessarily adopted the premise for 
+
+4
+
+that construal rule as well. 
+
+5
+
+ So when the Fifth Circuit quotes Lin v. 
+
+6
+
+Mukasey for the proposition that an argument seeking 
+
+7
+
+equitable tolling is in essence an argument that the BIA 
+
+8
+
+should have exercised its discretion to reopen sua 
+
+9
+
+sponte, we think that Ramos­Bonilla necessarily adopted 
+
+10
+
+Lin's premise of that, that equitable tolling is not a 
+
+11
+
+basis for filing an untimely or numerically barred 
+
+12
+
+motion. 
+
+13
+
+ JUSTICE GINSBURG: 
+
+14
+
+ JUSTICE BREYER: 
+
+Wouldn't the ­­
+But the problem that I 
+
+15
+
+actually have, I guess, at your reaction, is if we don't 
+
+16
+
+follow what I think is the fairly simple thing of the 
+
+17
+
+question presented, you announce two things that I think 
+
+18
+
+there's a huge argument about. 
+
+19
+
+ One is whether there is court review of the 
+
+20
+
+sua sponte thing because, as you probably know, there 
+
+21
+
+has been a long argument for 40 years about the meaning 
+
+22
+
+of that first part of the APA in Davis; or somebody 
+
+23
+
+says, well, when they say there's no court review when 
+
+24
+
+you commit a matter of discretion to the agency by law, 
+
+25
+
+of course there isn't.  They're acting lawfully.  But
+
+Alderson Reporting Company
+
+Official
+
+36
+1
+
+you can still get review of whether they acted as an 
+
+2
+
+abuse of that discretion.  Of course.  And I think you 
+
+3
+
+can. 
+
+4
+
+ But I understand there are different points 
+
+5
+
+on that.  Do we really want to open up that big 
+
+6
+
+question? 
+
+7
+
+And as far as the other question you want us 
+
+8
+
+to open up about whether this is statutorily 
+
+9
+
+forbidden ­­ you say whether ­­ whether equitable 
+
+10
+
+tolling is forbidden here, again there are two views. 
+
+11
+
+Lots of the circuits think, no, it isn't, and moreover 
+
+12
+
+the SG thinks that, moreover they're having a rulemaking 
+
+13
+
+on that in a year or so that could encompass that, but 
+
+14
+
+it's secret.  But nonetheless ­­ nonetheless it might. 
+
+15
+
+ And ­­ and so we're getting into what's 
+
+16
+
+actually I think a tough question.  And maybe it's 
+
+17
+
+cowardly.  But I'm thinking why go into those two tough 
+
+18
+
+questions, when in fact we asked for the answer to a 
+
+19
+
+simple question.  There are ­­ you have written a very 
+
+20
+
+good brief and I understand what you're doing and ­­ but 
+
+21
+
+I still am sort of stuck on this, which I'll put to you. 
+
+22
+
+ MR. PETERSON: 
+
+Well, thank you, Justice 
+
+23
+
+Breyer.  I know it's the end of the term and I'm asking 
+
+24
+
+you to complicate the case ­­
+
+25
+
+ JUSTICE BREYER: 
+
+Yes.
+
+Alderson Reporting Company
+
+Official
+
+37
+1
+
+ MR. PETERSON: 
+
+But let me point out though 
+
+2
+
+that the Solicitor General might agree that equitable 
+
+3
+
+tolling is available, but agrees with us that every 
+
+4
+
+court of appeals other than the Fifth Circuit to have 
+
+5
+
+addressed the availability of equitable tolling has 
+
+6
+
+gotten its analysis wrong.  The Solicitor General agrees 
+
+7
+
+with us that the presumption of equitable tolling is 
+
+8
+
+inapplicable to these sorts of statutes. 
+
+9
+
+ Every court of appeals to have reached this, 
+
+10
+
+as Petitioner does, reaches the result that equitable 
+
+11
+
+tolling is available through the presumption of 
+
+12
+
+equitable tolling.  And now the Solicitor General 
+
+13
+
+suggests that the administrative rulemaking might 
+
+14
+
+provide a solution to this.  Well, in at least two 
+
+15
+
+circuits, and likely more, that's been foreclosed.  If 
+
+16
+
+you look at the Second Circuit's decision in Iavorski, 
+
+17
+
+the Ninth Circuit's decision in Soca­Gonzalez, both of 
+
+18
+
+them note that Board of Immigrations Appeals' position 
+
+19
+
+is that equitable tolling is unavailable.  Both of them 
+
+20
+
+conclude that the statute unambiguously requires 
+
+21
+
+equitable tolling and reject deference to the agency. 
+
+22
+
+ So to the extent that you have 
+
+23
+
+administrative rulemaking here, as best I can 
+
+24
+
+understand, the Fifth Circuit is the only circuit that 
+
+25
+
+would actually be able to even potentially give effect
+
+Alderson Reporting Company
+
+Official
+
+38
+1
+2
+
+to it.  And ­­
+ JUSTICE SOTOMAYOR: 
+
+I'm sorry.  I'm totally 
+
+3
+
+confused.  I ­­ I think what the agency is saying, at 
+
+4
+
+least in this situation, is there is no explicit command 
+
+5
+
+in the statute about equitable tolling.  There is a time 
+
+6
+
+limit in the statute.  But can it be tolled or not? 
+
+7
+
+There's no explicit command in the statute it can't. 
+
+8
+9
+
+ And so as a matter of procedure, which 
+generally we give a huge amount of deference to the 
+
+10
+
+agency, it has, albeit in unpublished opinions, followed 
+
+11
+
+a practice of considering it in motions to reopen.  And 
+
+12
+
+from that practice, they're telling us, there is, 
+
+13
+
+because the agency has determined that, with respect to 
+
+14
+
+IAC claims, that they will do it. 
+
+15
+
+ I don't actually see that much problem with 
+
+16
+
+the problem, but I do agree with Justice Breyer that we 
+
+17
+
+don't need to get to that question here, because we 
+
+18
+
+really don't know whether that's the view of the Fifth 
+
+19
+
+Circuit or not.  And if they find it or if they say it 
+
+20
+
+doesn't exist, I want to consider their reasons.  That's 
+
+21
+
+what we usually do. 
+
+22
+
+ But they haven't really given us reasons, 
+
+23
+
+other than to say the statute requires it, but I don't 
+
+24
+
+see why. 
+
+25
+
+ MR. PETERSON: 
+
+Justice Sotomayor, with
+
+Alderson Reporting Company
+
+Official
+
+39
+1
+
+respect to the Fifth Circuit, I believe, I would hope, 
+
+2
+
+that we've supplied the reasonings ­­ reasoning for why 
+
+3
+
+the Fifth Circuit's decision on equitable tolling is 
+
+4
+
+correct. 
+
+5
+
+ With respect to the agency determinations, 
+
+6
+
+the Board of Immigration Appeals, with rare 
+
+7
+
+exceptions ­­ and there's no suggestion that this case 
+
+8
+
+is one ­­ will follow the authority of the circuit in 
+
+9
+
+which it sits.  So you can certainly find numerous 
+
+10
+
+unpublished Board of Immigration Appeals decisions 
+
+11
+
+applying equitable tolling to the statutory deadline, 
+
+12
+
+but they do so primarily because they are following the 
+
+13
+
+circuit authority. 
+
+14
+
+ Now, the government agrees with us that the 
+
+15
+
+Board of Immigration Appeals has not independently 
+
+16
+
+interpreted the statute in a way that would receive 
+
+17
+
+Chevron deference to require equitable tolling.  So 
+
+18
+
+right now, I don't believe the board has taken an 
+
+19
+
+official position, except for in the government's brief, 
+
+20
+
+that equitable tolling of the statutory deadline is 
+
+21
+
+available. 
+
+22
+23
+
+ JUSTICE GINSBURG: 
+
+The odd thing with 
+
+saying ­­
+
+24
+
+ JUSTICE SOTOMAYOR: 
+
+That's ­­ that's ­­
+
+25
+
+ JUSTICE GINSBURG: 
+
+­­ the Fifth Circuit 
+
+Alderson Reporting Company
+
+Official
+
+40
+1
+
+was right in saying we ­­ we ­­ so ­­ so we're going to
+
+2
+
+give the Petitioner another chance, we'll consider it 
+
+3
+
+under sua sponte.  But the board said twice that its 
+
+4
+
+power to reopen on its own motion is not meant as a cure 
+
+5
+
+for filing defects or otherwise circumvent the 
+
+6
+
+regulation. 
+
+7
+
+ So I think what they're saying is that if 
+
+8
+
+there's a ­­ if there's a flaw, if the 90 days ­­ if the 
+
+9
+
+90 days is ­­ can't be stretched, then we shouldn't 
+
+10
+
+reach that same conclusion by saying, oh, but we can do 
+
+11
+
+this sua sponte. 
+
+12
+
+ They ­­ they seem to be saying their 
+
+13
+
+exercise of their sua sponte authority is controlled by, 
+
+14
+
+do we have a rule that says 90 days and no more?  If we 
+
+15
+
+do have such a rule, we shouldn't be exercising our 
+
+16
+
+authority sua sponte to get around that.  And that's ­­
+
+17
+
+that's in the Petitioner Appendix at both 5 and 9, when 
+
+18
+
+they say we shouldn't use our power to reopen on our own 
+
+19
+
+motion that way, to get around what is the rule. 
+
+20
+
+ MR. PETERSON: 
+
+Yes, Justice Ginsburg.  We do 
+
+21
+
+think the Board of Immigration Appeals certainly uses 
+
+22
+
+its sua sponte authority to reopen sparingly and 
+
+23
+
+respectfully of the statutory deadlines.  As we see 
+
+24
+
+here, the problem is giving effect to a deadline that 
+
+25
+
+Congress set.  Congress certainly meant something when 
+
+Alderson Reporting Company
+
+Official
+
+41
+1
+
+it required these motions to reopen to be filed within
+
+2
+
+90 days. 
+
+3
+
+ And that means that the board's decision 
+
+4
+
+whether to reopen sua sponte, in order to exist 
+
+5
+
+alongside and not simply swallow that statutory 
+
+6
+
+deadline, needs to be in some way different in kind. 
+
+7
+
+And we think the way that it's different is that when 
+
+8
+
+the board is reopening sua sponte, when it's considering 
+
+9
+
+reopening on its own motion, that's a decision that is 
+
+10
+
+wholly in the board's discretion, and that is 
+
+11
+
+unreviewable in the courts under Heckler v. Chaney. 
+
+12
+
+ And so when an alien properly invokes the 
+
+13
+
+statutory authority for reopening, the ability to reopen 
+
+14
+
+within the 90 days that we all agree under Kucana is 
+
+15
+
+reviewable, it's, of course, reviewable.  When the alien 
+
+16
+
+misses that statutory window, when he asks the board to 
+
+17
+
+reopen after the 90­day period is done, the board's 
+
+18
+
+decision whether or not to grant or to reopen is wholly 
+
+19
+
+in the board's discretion. 
+
+20
+
+ So when an alien asks the board to reopen ­­
+
+21
+
+and I think this case is the best example.  When you 
+
+22
+
+look at the request for reopening, you don't see, please 
+
+23
+
+reopen using your statutory authority.  You don't see, 
+
+24
+
+please reopen using your sua sponte authority to reopen. 
+
+25
+
+You simply see, Board of Immigration Appeals, please 
+
+Alderson Reporting Company
+
+Official
+
+42
+1
+2
+
+reopen my case.
+ The way you determine what the true nature 
+
+3
+
+of the board's authority is for the decision that it's 
+
+4
+
+denying is whether that motion was filed within the 
+
+5
+
+statutory time limit or without. 
+
+6
+
+ So if the court of appeals looks at it and 
+
+7
+
+determines the alien asked for reopening after the end 
+
+8
+
+of the statutory deadline, the answer there is that the 
+
+9
+
+board's decision, its order that says, we deny 
+
+10
+
+reopening, is wholly within the discretion of the board 
+
+11
+
+and is unreviewable under Heckler v. Chaney. 
+
+12
+
+ JUSTICE SCALIA: 
+
+So ­­ so you ­­ you say the 
+
+13
+
+Fifth Circuit did not implicitly hold that there was no 
+
+14
+
+review of ­­ of the statutory deadline period ­­
+
+15
+
+ MR. PETERSON: 
+
+16
+
+ JUSTICE SCALIA: 
+
+As we understand ­­
+­­ because you think the 
+
+17
+
+Fifth Circuit read the ­­ the board's decision, since it 
+
+18
+
+came after the 90 days, to be a sua sponte decision and, 
+
+19
+
+hence, nonreviewable. 
+
+20
+
+ But that's not consistent with their earlier 
+
+21
+
+decisions, which said, we're going to interpret it this 
+
+22
+
+way because we have no jurisdiction to do it if you 
+
+23
+
+interpret it the other way. 
+
+24
+
+ I mean, they didn't say that, if it's after 
+
+25
+
+the 90 days, the ­­ the board should consider it to be 
+
+Alderson Reporting Company
+
+Official
+
+43
+1
+
+an appeal to its sua sponte authority.  They said, since
+
+2
+
+we believe that ­­ that there is ­­ that there is no 
+
+3
+
+extension of the 90­day period under the statute, in 
+
+4
+
+order to help the Petitioner, we're going to interpret 
+
+5
+
+it as a request for review of the sua sponte authority. 
+
+6
+
+ Isn't that ­­ isn't that what they said. 
+
+7
+
+ MR. PETERSON: 
+
+Yes, Your Honor, but we see 
+
+8
+
+the two as essentially indistinguishable.  Because the 
+
+9
+
+Petitioner's request came after the expiration of the 
+
+10
+
+90­day period, it could have been granted only through 
+
+11
+
+the board's exercise of its sua sponte authority.  And a 
+
+12
+
+decision whether to grant or deny the board's exercise 
+
+13
+
+of its sua sponte, in our view, is unreviewable. 
+
+14
+
+ Let me point out one possible concern in 
+
+15
+
+writing an opinion here.  And that's the habeas context. 
+
+16
+
+As the Court's aware, prisoners can be quite creative in 
+
+17
+
+attempting to circumvent the bar on second or successive 
+
+18
+
+petitions under 2254 and 2255 and will frequently file 
+
+19
+
+motions captioned under 2241 or possibly obscure common 
+
+20
+
+law writs, seeking relief that's properly available 
+
+21
+
+under 2254 or 2255. 
+
+22
+
+ In those circumstances, the district courts 
+
+23
+
+will properly look at the merits of petitioner's 
+
+24
+
+request, determine that it is a request that could truly 
+
+25
+
+be granted only under 2254, 2255, and whatever the 
+
+Alderson Reporting Company
+
+Official
+
+44
+1
+
+caption the prisoner has placed on it will enforce
+
+2
+
+AEDPA's jurisdictional bar. 
+
+3
+
+ And finally, with respect to merits of 
+
+4
+
+equitable tolling, we would simply note that, in our 
+
+5
+
+view, Justice Ginsburg, I believe the Fifth Circuit has 
+
+6
+
+already determined that Petitioner's motion to reopen 
+
+7
+
+was untimely.  And in the event that the Court remands 
+
+8
+
+to the Fifth Circuit without addressing anything other 
+
+9
+
+than the jurisdictional question, the inevitable result 
+
+10
+
+in the Fifth Circuit would simply be to deny on the 
+
+11
+
+merits, which is a result that would not lead to any 
+
+12
+
+greater benefit for Petitioner. 
+
+13
+
+ If there are no further questions. 
+
+14
+
+ CHIEF JUSTICE ROBERTS: 
+
+15
+
+ Mr. Fleming, you have four minutes 
+
+16
+17
+18
+
+Thank you, counsel. 
+
+remaining. 
+ REBUTTAL ARGUMENT OF MARK C. FLEMING 
+ ON BEHALF OF THE PETITIONER 
+
+19
+
+ MR. FLEMING: 
+
+20
+
+ I ­­ I would simply clarify the ­­ the issue 
+
+Thank you, Mr. Chief Justice. 
+
+21
+
+raised, I think, first by Justice Kagan, but then by 
+
+22
+
+others, as to whether there was any confusion in either 
+
+23
+
+the board or the Fifth Circuit as to what relief my 
+
+24
+
+client was seeking. 
+
+25
+
+ In the board decision, on page 7 of the 
+
+Alderson Reporting Company
+
+Official
+
+45
+1
+
+Petition Appendix, the board makes clear that it
+
+2
+
+understands that Mr. Mata was seeking tolling.  It says, 
+
+3
+
+in bringing this untimely motion to reopen, the 
+
+4
+
+Respondent claims ineffective assistance of counsel, and 
+
+5
+
+then a description of matter of Lozada.  And then the 
+
+6
+
+board says, and the time for filing a motion to reopen 
+
+7
+
+may be tolled.  In cases of ineffective ­­
+
+8
+
+ineffectiveness of counsel, the alien must show that he 
+
+9
+
+was prejudiced by counsel's performance.  And then the 
+
+10
+11
+
+analysis of this particular case continues. 
+ And in the Fifth Circuit, the panel opinion 
+
+12
+
+says, when it is summarizing the decision or the 
+
+13
+
+proceedings below ­­ and this is on page 2 of the 
+
+14
+
+Petition Appendix ­­ Mata subsequently filed an untimely 
+
+15
+
+motion to reopen his removal proceedings based on a 
+
+16
+
+claim of ineffective assistance of counsel and asking 
+
+17
+
+the BIA to equitably toll the applicable finding ­­
+
+18
+
+filing period, or exercise its authority to reopen his 
+
+19
+
+proceedings sua sponte. 
+
+20
+
+ The Fifth Circuit knew exactly what was 
+
+21
+
+going on.  There was a request for statutory tolling or 
+
+22
+
+sua sponte reopening. 
+
+23
+
+ So I don't mean to be ungenerous to this 
+
+24
+
+circuit at all.  I think they got this exactly right. 
+
+25
+
+They understood the nature of the relief requested. 
+
+Alderson Reporting Company
+
+Official
+
+46
+1
+
+Where they went wrong is they believed they lacked
+
+2
+
+jurisdiction over the first request, and that everything 
+
+3
+
+had to fall into the second request, where they believe 
+
+4
+
+they also lacked jurisdiction.  And so they dismissed 
+
+5
+
+the entire petition.  That error ­­
+
+6
+
+ JUSTICE GINSBURG: 
+
+7
+
+ MR. FLEMING: 
+
+8
+9
+
+Do you ­­
+­­ is the one that should 
+
+be ­­
+ JUSTICE GINSBURG: 
+
+­­ do you disagree with 
+
+10
+
+Mr. Peterson that if we were simply to say, Fifth 
+
+11
+
+Circuit, you have jurisdiction to decide this issue of 
+
+12
+
+equitable tolling, that then the ­­ from what they've 
+
+13
+
+done so far, the likelihood is they'll say, fine, we 
+
+14
+
+have jurisdiction, there is no equitable tolling? 
+
+15
+
+ MR. FLEMING: 
+
+I do disagree because I don't 
+
+16
+
+think that's a foregone conclusion.  I think there is 
+
+17
+
+every likelihood that the Fifth Circuit, once freed from 
+
+18
+
+its erroneous view that it is bound by panel precedent 
+
+19
+
+or by some other principle to not exercise appellate 
+
+20
+
+jurisdiction, will then look at the reasoning that other 
+
+21
+
+courts of appeals, every other court of appeals to have 
+
+22
+
+addressed this, have applied, and conclude that there 
+
+23
+
+is, in fact, equitable tolling. 
+
+24
+25
+
+ Will they review Mr. Mata's appeal on the 
+merits and necessarily rule in his favor?  I think they 
+
+Alderson Reporting Company
+
+Official
+
+47
+1
+
+should and those are the arguments we will press on the
+
+2
+
+merits. 
+
+3
+
+ But I don't think that it's our burden to 
+
+4
+
+show ultimate victory on every issue in order to show 
+
+5
+
+that the Fifth Circuit misconstrued its jurisdiction. 
+
+6
+
+ JUSTICE GINSBURG: 
+
+What ­­ what of the 
+
+7
+
+argument that ­­ that the presumption of equitable 
+
+8
+
+tolling applies to statutes of limitations, but not for 
+
+9
+
+procedural time limits like this? 
+
+10
+
+ MR. FLEMING: 
+
+Our ­­ our position, Justice 
+
+11
+
+Ginsburg, as laid out in our reply brief, is that this 
+
+12
+
+is a statute of limitations.  It serves the policies 
+
+13
+
+that this Court recognized in Young that are advanced by 
+
+14
+
+a statute of limitations, namely, the advancing of 
+
+15
+
+repose.  It will ensure in most cases that after 90 
+
+16
+
+days, the BIA's order of removal will be final, and it 
+
+17
+
+does also encourage the bringing of timely ­­ a prompt 
+
+18
+
+motion to reopen claims, so that they are not lagging on 
+
+19
+
+for a long time.  And that was Congress's intent. 
+
+20
+
+ None of that is inconsistent with tolling. 
+
+21
+
+This Court has said repeatedly in cases like Bowen and 
+
+22
+
+Holland that when you have a situation like extreme 
+
+23
+
+misconduct by counsel, where there is a ­­ an 
+
+24
+
+extraordinary hurdle that diligence will not get you 
+
+25
+
+over, it is consistent with the principle of ­­ of 
+
+Alderson Reporting Company
+
+

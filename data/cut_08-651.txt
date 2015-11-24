@@ -1,0 +1,6727 @@
+Official
+
+1
+
+P R O C E E D I N G S
+
+2
+
+(10:04 a.m.)
+CHIEF JUSTICE ROBERTS:
+
+3
+
+We will hear
+
+4
+
+argument first this morning in Case 08-651, Padilla v.
+
+5
+
+Kentucky.
+
+6
+
+Mr. Kinnaird.
+
+7
+
+ORAL ARGUMENT OF STEPHEN B. KINNAIRD
+
+8
+
+ON BEHALF OF THE PETITIONER
+MR. KINNAIRD:
+
+9
+10
+
+Mr. Chief Justice, and may it
+
+please the Court:
+The Kentucky Supreme Court announced a
+
+11
+12
+
+categorical rule so restrictive of the Sixth Amendment
+
+13
+
+that the United States Government disavows it.
+
+14
+
+court held that the Sixth Amendment never provides a
+
+15
+
+remedy to a defendant who pleads guilty to a crime on
+
+16
+
+the false advice of his attorney that he would not be
+
+17
+
+deported as a result.
+
+The
+
+The narrowest ground on which this Court may
+
+18
+19
+
+reverse the Kentucky Supreme Court is to hold that
+
+20
+
+misadvice claims are cognizable under the Sixth
+
+21
+
+Amendment.
+
+22
+
+Any advice that a lawyer actually gives to a
+
+23
+
+defendant on whether to plead guilty is advice affecting
+
+24
+
+criminal liability.
+
+25
+
+Amendment competency standards.
+
+Such advice must meet Sixth
+
+3
+Alderson Reporting Company
+
+Official
+
+1
+
+CHIEF JUSTICE ROBERTS:
+
+Well, other advice
+
+2
+
+-- for example, advice about whether to take the stand
+
+3
+
+--that can have significant collateral consequences –
+
+4
+
+you know, he might lose his job or lose government
+
+5
+
+contracts based on what he says, is that the sort of
+
+6
+
+advice that would be covered in -- under your position?
+
+7
+
+MR. KINNAIRD:
+
+I think, for misadvice, the
+
+8
+
+test would be whether it's a material misrepresentation
+
+9
+
+that would be material to a reasonable defendant in
+
+10
+
+deciding whether to plead guilty, so it would -CHIEF JUSTICE ROBERTS:
+
+11
+
+Only plead guilty?
+
+12
+
+Not, for example, whether it would be material to the
+
+13
+
+defendant in deciding whether or not to take the stand?
+MR. KINNAIRD:
+
+14
+
+I think to plead guilty is
+
+15
+
+the key strategic decision that is in the -- in the
+
+16
+
+client's sole duty and prerogative, to make that
+
+17
+
+decision.
+
+18
+
+JUSTICE ALITO:
+
+Why would it be limited to a
+
+19
+
+decision to plead guilty?
+
+20
+
+guilty would have lesser immigration consequences than a
+
+21
+
+guilty verdict after -- after going to trial?
+
+22
+
+you have the same situation there?
+
+23
+
+MR. KINNAIRD:
+
+What if a decision to plead
+
+Wouldn't
+
+I'm not aware of any
+
+24
+
+consequences that would depend on whether the conviction
+
+25
+
+was based on a guilty plea or trial.
+
+4
+Alderson Reporting Company
+
+Official
+
+1
+
+JUSTICE ALITO:
+
+Well, what if -- what if an
+
+2
+
+offer is made for a plea to an offense that would have
+
+3
+
+lesser immigration consequences than the offense for
+
+4
+
+which the person might be convicted if the person goes
+
+5
+
+to trial?
+
+6
+7
+
+MR. KINNAIRD:
+subject --
+
+8
+9
+
+Well, that would be
+
+JUSTICE ALITO:
+
+And the -- and the attorney
+
+doesn't fully apprise the client of the situation?
+
+10
+
+MR. KINNAIRD:
+
+11
+
+JUSTICE ALITO:
+
+12
+
+MR. KINNAIRD:
+
+And he goes to trial?
+Right.
+I think that -- that would
+
+13
+
+only be a Strickland claim if this Court were prepared
+
+14
+
+to rule that going to trial is ever prejudice under
+
+15
+
+Strickland, and there is a circuit split on that.
+
+16
+
+But the concern of the Sixth Amendment --
+
+17
+
+JUSTICE ALITO:
+
+But do you see a difference
+
+18
+
+in principle between the two situations with respect to
+
+19
+
+the issue that is before us here?
+MR. KINNAIRD:
+
+20
+
+I'm not sure that there would
+
+21
+
+be.
+
+22
+
+prejudice, I think they would all be under Strickland
+
+23
+
+claims.
+
+24
+25
+
+Provided the Court would recognize that as
+
+JUSTICE GINSBURG:
+
+How do you decide which
+
+of the many consequences your rule would cover?
+
+5
+Alderson Reporting Company
+
+I mean,
+
+Official
+
+1
+
+you are now talking about a narrow ground, misadvice.
+
+2
+
+But you are also urging that when the lawyer is
+
+3
+
+silent on a matter that he should inform the defendant,
+
+4
+
+that, too, is covered.
+
+5
+
+But whichever way you do it, how do you --
+
+6
+
+you say certainly deportation is a consequence that the
+
+7
+
+defendant should be told about.
+
+8
+9
+
+What about -- how do you distinguish that
+from, say, you'll lose your driver's license, you'll
+
+10
+
+lose your right to vote?
+
+11
+
+consequences that count and those that don't?
+
+12
+
+MR. KINNAIRD:
+
+How do we distinguish the
+
+Your Honor, the issue here is
+
+13
+
+simply the legal standard that applies to any -- any
+
+14
+
+of these claims, and it would be the same two-part
+
+15
+
+standard under Strickland v. Washington.
+
+16
+
+there is no need to draw lines.
+
+17
+
+So there --
+
+If this Court is troubled by a broad rule
+
+18
+
+and is inclined not to issue a general rule, it may
+
+19
+
+simply recognize deportation as among the few collateral
+
+20
+
+consequences that is so severe and so material in a high
+
+21
+
+number of cases in which it applies that the Strickland
+
+22
+
+claim should be allowed to go forward.
+
+23
+
+And it can leave for another day whether
+
+24
+
+there are other consequences that are too burdensome for
+
+25
+
+the system to recognize.
+
+6
+Alderson Reporting Company
+
+Official
+
+1
+
+JUSTICE SCALIA:
+
+Well, we can't leave that
+
+2
+
+for another day.
+
+3
+
+whether we are opening a Pandora's box here, whether
+
+4
+
+there is any sensible way to restrict it to -- to
+
+5
+
+deportation.
+
+6
+
+I mean, we -- we have to decide
+
+What about advice on whether pleading guilty
+
+7
+
+would -- would cause him to lose custody of his
+
+8
+
+children?
+
+9
+
+That's -- that's pretty serious.
+What if pleading guilty will -- will affect
+
+10
+
+whether he can keep his truck, which is his main means
+
+11
+
+of livelihood, or whether -- whether it would be seized
+
+12
+
+by the government as the instrument of his crime?
+
+13
+
+There are so many pieces of advice which
+
+14
+
+involve legal issues that -- that counsel can provide
+
+15
+
+advice on.
+MR. KINNAIRD:
+
+16
+
+Your Honor, I think that is
+
+17
+
+precisely why we have the contextual inquiry of
+
+18
+
+Strickland.
+
+19
+
+a given case be so severe a consequence --
+
+And, certainly, parental termination may in
+
+20
+
+JUSTICE SCALIA:
+
+21
+
+MR. KINNAIRD:
+
+22
+
+-- that it would be
+
+material.
+
+23
+
+JUSTICE SCALIA:
+
+24
+
+MR. KINNAIRD:
+
+25
+
+Sure.
+
+Sure.
+But that -- most of these
+
+failure to advise claims will be very difficult to plead
+
+7
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+and to prove -JUSTICE KENNEDY:
+
+If we were in -- if we
+
+3
+
+were in the contract, civil contract situation, and
+
+4
+
+there’s a mistake, the usual rule -- Restatement of
+
+5
+
+Contracts -- is that the -- the question is whether or
+
+6
+
+not it's reasonable to have the party who made the
+
+7
+
+mistake bear the risk.
+
+8
+9
+
+Suppose we just had an instruction, Rule 11
+-- I recognize this is a State case -- but we had a Rule
+
+10
+
+11 instruction, which said the only thing the court is
+
+11
+
+going to inquire about and the only thing that was of
+
+12
+
+relevance to your plea are criminal consequences.
+
+13
+
+You take the risk of any misadvice, any
+
+14
+
+misunderstanding, with respect to collateral conduct.
+
+15
+
+That's your risk, and it's part of the guilty plea.
+
+16
+
+we said that, would that foreclose this kind of argument
+
+17
+
+in your case?
+
+18
+
+MR. KINNAIRD:
+
+If
+
+No, Your Honor, because the
+
+19
+
+Sixth Amendment is a source of independent rights, and
+
+20
+
+the question is:
+
+21
+
+distinct from the court?
+
+22
+
+distinct duty to assess the advantages and disadvantages
+
+23
+
+of the plea --
+
+24
+25
+
+What is the -- the lawyer's duty as
+And the lawyer has the
+
+JUSTICE KENNEDY:
+
+Well, then there’s no way
+
+the government or the court can protect itself against
+
+8
+Alderson Reporting Company
+
+Official
+
+1
+
+the -- these consequences, and there are any number of
+
+2
+
+them.
+
+3
+
+be civil liability in tort once he pleads guilty,
+
+4
+
+because then that's a fact that's concluded and it's
+
+5
+
+just a question of damages.
+
+6
+
+indicated, there are many, many instances.
+
+7
+
+Suppose he doesn't advise that there’s going to
+
+And as Justice Scalia
+
+I just see no way for the courts to protect
+
+8
+
+themselves against -- against this.
+
+And -- and if the
+
+9
+
+client, or the accused, is told that he accepts these
+
+10
+
+risks, he can say, well, you know, there may be some
+
+11
+
+risks I don't know about, I'll go to trial.
+
+12
+
+accepts the risks.
+
+13
+
+MR. KINNAIRD:
+
+He just
+
+That may be true for a due
+
+14
+
+process claim, Your Honor, but the lawyer still has an
+
+15
+
+obligation to competently represent him, competently
+
+16
+
+assess the legal risks, and advise the client.
+
+17
+
+are fundamental to lawyering.
+
+18
+
+JUSTICE GINSBURG:
+
+Those
+
+And Strickland -But even -- even if we
+
+19
+
+accept that, wouldn't a competent counsel, after telling
+
+20
+
+him the deportation consequences, then say:
+
+21
+
+a case where the evidence is so strong against you, I
+
+22
+
+advise you to take the plea rather than go to trial.
+
+23
+
+you go to trial, you are likely to lose and you will get
+
+24
+
+a longer sentence.
+
+25
+
+competent counsel would have said, this is a good plea,
+
+But this is
+
+If
+
+So does it matter in the end if
+
+9
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+take it?
+MR. KINNAIRD:
+
+Yes, it certainly matters,
+
+3
+
+because that goes to the question of prejudice at an
+
+4
+
+evidentiary hearing.
+
+5
+
+subjective in the sense that it must account for the
+
+6
+
+subjective risk preferences of the defendant as between
+
+7
+
+incarceration and deportation.
+
+8
+
+hearing the defendant must be able to prove that he has
+
+9
+
+a triable case, that a rational jury could find beyond a
+
+The prejudice standard is
+
+But at an evidentiary
+
+10
+
+reasonable doubt -- or could find reasonable doubt,
+
+11
+
+rather, as to at least one element of -- of the offense.
+
+12
+
+JUSTICE ALITO:
+
+Your argument has -- has an
+
+13
+
+appeal because removal is such a harsh consequence,
+
+14
+
+particularly for someone like your client who had been
+
+15
+
+in the United States for a long time.
+
+16
+
+me about it is the situation in which the defendant
+
+17
+
+claims -- you know, let's say 5 years after entering a
+
+18
+
+guilty plea or after the passage of some time – that
+
+19
+
+misadvice was given, and the -- the attorney on the
+
+20
+
+other side is a busy public defender who by that time
+
+21
+
+has handled 500 cases and is unable to remember what, if
+
+22
+
+anything, was said about the immigration consequences of
+
+23
+
+the case; there is nothing in the file.
+
+24
+
+those cases going to be handled?
+
+25
+
+MR. KINNAIRD:
+
+But what troubles
+
+I mean, how are
+
+Well, I think that, Your
+
+10
+Alderson Reporting Company
+
+Official
+
+1
+
+Honor, that’s no different than any Strickland claim
+
+2
+
+that would be brought in the same time frame.
+
+3
+
+are -- remember that ineffective assistance claims are
+
+4
+
+almost always brought as collateral attacks, and there
+
+5
+
+are many Federal and State strictures on bringing those
+
+6
+
+claims, including time limits.
+
+7
+
+anything categorically different from the ordinary
+
+8
+
+Strickland claim in your case.
+
+9
+
+JUSTICE ALITO:
+
+And there
+
+So I don't think there’s
+
+Well, isn't there -- isn’t
+
+10
+
+it different in that the ordinary Strickland claim
+
+11
+
+concerns things that happen at trial and relate to
+
+12
+
+strategy in a criminal case, as to which the public
+
+13
+
+defender or other defense attorney is presumably –- has
+
+14
+
+expertise?
+
+15
+
+question:
+
+16
+
+attorney said that, don't worry about it, you are not
+
+17
+
+going to get removed.
+
+18
+
+my file; I have nothing in this whatsoever about having
+
+19
+
+said anything about removal, and I can't remember the
+
+20
+
+particulars of every single conversation I had with this
+
+21
+
+attorney 5 -- with this client, 5 years ago.
+
+22
+
+But what's -- what’s the answer to this
+The defendant takes the stand and says:
+
+My
+
+And the lawyer says: Well, here's
+
+MR. KINNAIRD:
+
+Your Honor, I think witness
+
+23
+
+recollection arises in any number of Strickland claims.
+
+24
+
+And certainly I think that the courts can resolve that
+
+25
+
+as to whether they found -- find that he proved by a
+
+11
+Alderson Reporting Company
+
+Official
+
+1
+
+preponderance of the evidence that -- that that
+
+2
+
+statement was made.
+CHIEF JUSTICE ROBERTS:
+
+3
+
+Counsel, I suppose
+
+4
+
+-- before a guilty plea is accepted, the district court
+
+5
+
+judge is obligated to go through a colloquy to make sure
+
+6
+
+the defendant knows the consequences of accepting the
+
+7
+
+plea.
+
+8
+
+would have to be expanded to include something like:
+
+9
+
+you understand the deportation consequences, if any, of
+
+10
+11
+
+I would suppose if you prevail that that colloquy
+Do
+
+pleading guilty?
+MR. KINNAIRD:
+
+No, Your Honor, it would not.
+
+12
+
+The -- that's a due process inquiry that is implemented
+
+13
+
+by Rule 11 in the Federal courts.
+
+14
+
+JUSTICE SCALIA:
+
+But that's -- that's --
+
+15
+
+with due respect, that's ridiculous.
+
+16
+
+enough to be required to be told to the defendant by his
+
+17
+
+counsel, surely it's important enough to be advised to
+
+18
+
+the defendant by the court before the guilty plea is
+
+19
+
+accepted as -- as voluntary, which includes knowing –-
+
+20
+
+knowing the consequences.
+
+21
+
+draw between what we are going to hold counsel to and
+
+22
+
+what we are going to require the defendant to be advised
+
+23
+
+of by the court.
+
+24
+25
+
+MR. KINNAIRD:
+
+If it's important
+
+It's a very strange line you
+
+I don't think that's true,
+
+Your Honor, and the reason is that there are all manner
+
+12
+Alderson Reporting Company
+
+Official
+
+1
+
+of strategic types of advice that counsel give that are
+
+2
+
+no province of the district court.
+JUSTICE KENNEDY:
+
+3
+
+Well, do you think it
+
+4
+
+would be wrong for a district court to say, now, I want
+
+5
+
+to be very careful, and I'm going to add -- let's take
+
+6
+
+Rule 11 as the standard.
+
+It's a Federal case.
+
+7
+
+going to add to Rule 11.
+
+I'm going to say, in addition
+
+8
+
+to the Rule 11 questions that you've all answered, I
+
+9
+
+want to make sure:
+
+Have you been advised about
+
+10
+
+immigration?
+
+11
+
+collateral consequences?
+
+Have you been advised about other
+
+Do you think that would be error for the –-
+
+12
+13
+
+I'm
+
+or inappropriate for a district judge to do?
+MR. KINNAIRD:
+
+14
+
+It would not.
+
+It would be --
+
+15
+
+it would probably be a salutary practice, and in about
+
+16
+
+half the States, there is --
+
+17
+
+JUSTICE KENNEDY:
+
+The -- the judge would not
+
+18
+
+be exceeding his -- his commission, his authority, to
+
+19
+
+determine just whether this is knowing and voluntary in
+
+20
+
+the sense of knowing -- knowing the criminal
+
+21
+
+consequences of -- I mean, in the criminal system
+
+22
+
+itself?
+
+23
+
+MR. KINNAIRD:
+
+No, Your Honor.
+
+My only
+
+24
+
+point is it would not be required under Rule 11 or
+
+25
+
+required under the Due Process Clause.
+
+13
+Alderson Reporting Company
+
+Official
+
+1
+
+JUSTICE KENNEDY:
+
+But it seems to me a
+
+2
+
+careful district judge would have to do this if you
+
+3
+
+prevail.
+
+4
+
+MR. KINNAIRD:
+
+It -- it would be a
+
+5
+
+beneficial practice, but if the attorneys live up to
+
+6
+
+their obligations to properly apprise the clients, then
+
+7
+
+that is unnecessary, because the Brady voluntariness
+
+8
+
+standard is predicated on an assumption that the
+
+9
+
+defendant has been competently advised by his counsel.
+
+10
+
+JUSTICE GINSBURG:
+
+You were about to say
+
+11
+
+that in many States the trial judge does inform a
+
+12
+
+defendant who is an alien of immigration consequences.
+
+13
+
+MR. KINNAIRD:
+
+It's -- it’s a much more
+
+14
+
+limited advisement.
+
+15
+
+you may be subject to immigration consequences.
+
+16
+
+they don't actually make any determination.
+
+17
+
+that goes to the difference between the function of the
+
+18
+
+counsel and a court.
+
+19
+
+defendant's circumstances.
+
+20
+
+the case.
+
+21
+
+that actually advises you whether to accept the plea or
+
+22
+
+not.
+
+23
+
+What they tend to advise is that
+But
+
+And, again,
+
+The court is not aware of the
+It does no investigation of
+
+Counsel does, and counsel is the only one
+
+And that's the key distinction between a court -CHIEF JUSTICE ROBERTS:
+
+No, but that's -- I
+
+24
+
+don't see why that doesn't apply to the more fundamental
+
+25
+
+question about whether the district court has to inquire
+
+14
+Alderson Reporting Company
+
+Official
+
+1
+
+into the plea circumstances in any event.
+
+2
+
+your answer to Justice Scalia that, oh, well, all sorts
+
+3
+
+of things can come up at trial and the district judge
+
+4
+
+doesn't have to inquire into those, I think proves too
+
+5
+
+much.
+
+6
+
+the guilty plea.
+
+7
+
+about.
+
+8
+
+extend to a fundamental piece of information that
+
+9
+
+would -- that would, under your theory, make acceptance
+
+10
+11
+
+I thought --
+
+It goes to -- and it departs from your focus on
+That's all the judge is inquiring
+
+And I don't know why that obligation doesn't
+
+of the plea involuntary.
+MR. KINNAIRD:
+
+Your Honor, I am not
+
+12
+
+departing from the focus on the guilty plea.
+
+13
+
+distinction is that the counsel has a duty to recommend
+
+14
+
+whether the defendant accepts the plea or not.
+
+15
+
+cannot do that by simply focusing on -- in isolation, on
+
+16
+
+the criminal consequences.
+
+17
+
+CHIEF JUSTICE ROBERTS:
+
+The
+
+And he
+
+Well, but what
+
+18
+
+you’re saying is he has got to tell him all the stuff
+
+19
+
+that’s necessary to make the decision to accept the plea
+
+20
+
+knowing and intelligent, voluntary.
+
+21
+
+was pretty much what the district court was doing when
+
+22
+
+they have the colloquy.
+
+23
+
+make sure the defendant knows what he is agreeing to.
+
+24
+25
+
+MR. KINNAIRD:
+
+And I thought that
+
+That district judge wants to
+
+No, Your Honor.
+
+I think that
+
+the -- the touchstone for the attorney's advice is
+
+15
+Alderson Reporting Company
+
+Official
+
+1
+
+whether it's in the interests of the client.
+
+2
+
+duty is to inform the client -- and this is true of all
+
+3
+
+lawyering -- to inform the client of the legal risks of
+
+4
+
+the recommended course of action.
+
+5
+
+happens to attach the most dramatic and severe
+
+6
+
+consequences under a civil law, but to attach them to a
+
+7
+
+conviction, then -- and that consequence can only be
+
+8
+
+averted in the criminal prosecution, I believe it is the
+
+9
+
+duty of the criminal lawyer to advise.
+
+10
+
+JUSTICE SCALIA:
+
+And his
+
+And if the law
+
+But at a --
+
+I would think that the duty
+
+11
+
+of the criminal lawyer is to make sure that the
+
+12
+
+defendant's guilty plea is informed, it is an informed
+
+13
+
+guilty plea.
+
+14
+
+in the colloquy, to be sure that it's an informed plea.
+
+15
+
+And if you say it's uninformed for counsel not to go
+
+16
+
+into the myriad collateral consequences, then I assume
+
+17
+
+it's -- it's improper for the court not to go into those
+
+18
+
+consequences.
+
+19
+
+plea is informed.
+
+20
+
+That is the same obligation of the court
+
+They both pertain to whether the guilty
+That's counsel's responsibility.
+
+MR. KINNAIRD:
+
+Your Honor, I believe that
+
+21
+
+counsel's responsibility is to ensure that he makes an
+
+22
+
+informed strategic decision whether to plead guilty.
+
+23
+
+That is no business of the court's, and I think that is
+
+24
+
+the distinction.
+
+25
+
+JUSTICE SCALIA:
+
+Well --
+
+16
+Alderson Reporting Company
+
+Official
+
+1
+
+JUSTICE STEVENS:
+
+May I ask this question:
+
+2
+
+What do you think -- if there is deficient advice by
+
+3
+
+counsel under Strickland, what do you think you have to
+
+4
+
+prove in order to get relief under Strickland?
+
+5
+
+MR. KINNAIRD:
+
+6
+
+JUSTICE STEVENS:
+
+7
+
+No, assume that advice is
+
+inadequate -- to prove prejudice.
+
+8
+9
+
+For a misadvice claim?
+
+MR. KINNAIRD:
+
+First of all, what you would
+
+have to prove on the competency prong is that the
+
+10
+
+misadvice was about an issue that was material to the
+
+11
+
+strategic decision to plead guilty.
+
+12
+
+JUSTICE STEVENS:
+
+13
+
+MR. KINNAIRD:
+
+Right.
+
+At the prejudice prong, you
+
+14
+
+would you have to prove that this defendant -- and this
+
+15
+
+is at the evidentiary hearing -- would have gone to
+
+16
+
+trial.
+
+17
+
+that a rational jury could have found beyond a -- could
+
+18
+
+have found reasonable doubt as to at least one element
+
+19
+
+of the offense.
+
+And in order to prove that, you have to show
+
+JUSTICE GINSBURG:
+
+20
+21
+
+And that would be what in
+
+this case?
+MR. KINNAIRD:
+
+22
+
+In this case, it would be
+
+23
+
+knowledge.
+
+And Kentucky has a special rule that does
+
+24
+
+not permit willful blindness.
+
+25
+
+knowledge that it was marijuana in his truck.
+
+You have to show actual
+
+17
+Alderson Reporting Company
+
+And here
+
+Official
+
+1
+
+you have a commercial truck driver who was found with
+
+2
+
+Styrofoam boxes and wrapped brown cardboard boxes.
+CHIEF JUSTICE ROBERTS:
+
+3
+4
+
+paraphernalia in the cab.
+
+5
+
+marijuana in the cab, too?
+
+And I -- was there some
+
+6
+
+MR. KINNAIRD:
+
+7
+
+The --
+
+8
+
+JUSTICE SCALIA:
+
+9
+10
+
+Oh, and also drug
+
+There was, yes, Your Honor.
+
+I thought -- I thought he
+
+was asked what was in the -- what was in the containers
+and he said marijuana.
+MR. KINNAIRD:
+
+11
+
+No, Your Honor.
+
+What the
+
+12
+
+officer testified -- and a key caveat here is that all
+
+13
+
+we have is the prosecution's charging facts and the
+
+14
+
+officer's testimony from a suppression hearing.
+
+15
+
+don't have the full record.
+
+16
+
+case.
+
+17
+
+what he testified was he was at -- the officer said,
+
+18
+
+when Mr. Padilla was asked what was in the boxes, he
+
+19
+
+shrugged his shoulders and he said, "Maybe drugs." And
+
+20
+
+that --
+
+21
+
+We
+
+We don't have the defense
+
+We don't have the defense version of events.
+
+CHIEF JUSTICE ROBERTS:
+
+22
+
+point is an important one.
+
+23
+
+case.
+
+But
+
+So you -- but your
+
+We don't have the defense
+
+24
+
+MR. KINNAIRD:
+
+Exactly.
+
+25
+
+CHIEF JUSTICE ROBERTS:
+
+18
+Alderson Reporting Company
+
+But you don't have
+
+Official
+
+1
+
+the prosecution case either.
+
+2
+
+what witnesses they are going to call, what the strength
+
+3
+
+of it is.
+
+4
+
+be prejudice or not.
+
+5
+
+have to make quite a prediction about what the case is
+
+6
+
+going to look like to decide if there’s prejudice, to
+
+7
+
+decide if the fellow is going to take the plea or not.
+
+8
+
+And I'm just wondering how you do that.
+
+9
+
+You don't know exactly
+
+So you don't know whether there is going to
+When you see -- it seems to me you
+
+MR. KINNAIRD:
+
+Well, Your Honor, I think in
+
+10
+
+these kinds of claims prejudice is generally going to
+
+11
+
+require an evidentiary hearing.
+
+12
+
+Kentucky Court of Appeals sent this back for an
+
+13
+
+evidentiary hearing.
+
+14
+
+And that’s why the
+
+But this --
+
+CHIEF JUSTICE ROBERTS:
+
+It's -- it's going
+
+15
+
+to require, I guess, kind of a mini-trial to decide if
+
+16
+
+the person would have taken the plea.
+
+17
+
+know what the case -- his case looked like, what the
+
+18
+
+prosecutor's case looked like, to see if it's something
+
+19
+
+he would have made -- it would have made sense for him
+
+20
+
+to go to trial or not.
+
+21
+
+MR. KINNAIRD:
+
+You've got to
+
+I don't think it would
+
+22
+
+necessarily require a mini-trial, but that would be in
+
+23
+
+the trial court's discretion.
+
+24
+25
+
+I would like to point out, though, that this
+was not an issue raised to the State supreme court.
+
+19
+Alderson Reporting Company
+
+And
+
+Official
+
+1
+
+in cases arising from State courts, this Court applies
+
+2
+
+the same rule to respondents who bring forth an
+
+3
+
+alternative ground in support of the judgment that it
+
+4
+
+does to petitioners.
+
+5
+
+passed on or presented below.
+
+6
+
+the legal standard.
+
+7
+
+It will not reach a question not
+The only question here is
+
+Your Honors, if there are no more questions,
+
+8
+
+I’d like to reserve the remainder of my time for
+
+9
+
+rebuttal.
+
+10
+
+CHIEF JUSTICE ROBERTS:
+
+11
+
+Mr. Dreeben.
+
+Thank you, counsel.
+
+12
+
+ORAL ARGUMENT OF MICHAEL R. DREEBEN
+
+13
+
+ON BEHALF OF THE UNITED STATES, AS AMICUS CURIAE,
+
+14
+
+SUPPORTING AFFIRMANCE
+MR. DREEBEN:
+
+15
+16
+
+Thank you, Mr. Chief Justice,
+
+and may it please the Court:
+
+17
+
+There is a fundamental difference between
+
+18
+
+Petitioner's claim that defense counsel has a duty to
+
+19
+
+advise his client about all of the myriad collateral
+
+20
+
+consequences that may stem from a criminal conviction,
+
+21
+
+which the government does not think that a defense
+
+22
+
+counsel has under the Sixth Amendment, and the claim
+
+23
+
+that is focused more precisely on misadvice given by
+
+24
+
+defense counsel on a material collateral consequence to
+
+25
+
+a defendant.
+
+20
+Alderson Reporting Company
+
+Official
+
+1
+
+CHIEF JUSTICE ROBERTS:
+
+Mr. Dreeben, we
+
+2
+
+learn in the first year of law school that the line
+
+3
+
+between an affirmative act and failure to act is a
+
+4
+
+difficult one to draw.
+
+5
+
+going to face 5 years, and the defendant says, is that
+
+6
+
+all that's going to happen to me?
+
+7
+
+yes.
+
+8
+
+affirmative misrepresentation?
+
+What if the lawyer says, you're
+
+And the lawyer says
+
+Is that a failure to advise or is that an
+
+9
+
+MR. DREEBEN:
+
+Well, I think it's certainly
+
+10
+
+not an affirmative misrepresentation.
+
+11
+
+the defense lawyer's purpose is, is to counter the
+
+12
+
+government's criminal case.
+
+13
+
+Amendment provides a lawyer to do.
+
+14
+
+appears through its expert adversary.
+
+15
+
+Amendment provides a counterweight to that in the form
+
+16
+
+of a lawyer to deal with the criminal aspects of
+
+17
+
+the case.
+JUSTICE KENNEDY:
+
+18
+
+In context, what
+
+That’s what the Sixth
+The government
+The Sixth
+
+Well, then you are saying
+
+19
+
+that the more the defense counsel strays from his only
+
+20
+
+professional responsibility, the more at risk the
+
+21
+
+government is.
+
+That seems odd.
+
+MR. DREEBEN:
+
+22
+
+What we think, Justice
+
+23
+
+Kennedy, is that the defense lawyer has two relevant
+
+24
+
+duties here:
+
+25
+
+which means to provide advice to the defendant about his
+
+One is to counter the government's case,
+
+21
+Alderson Reporting Company
+
+Official
+
+1
+
+rights, the nature of the charges, the evidence, and the
+
+2
+
+affirmative defenses that may exist.
+
+3
+
+that is somewhat broader than the court has in
+
+4
+
+conducting a Rule 11 colloquy.
+
+5
+
+into strategic matters in a criminal case with the
+
+6
+
+defendant.
+
+7
+
+And that is a task
+
+The court does not go
+
+Defense counsel must.
+CHIEF JUSTICE ROBERTS:
+
+I think when we --
+
+8
+
+when we decide there's no right to counsel, like on
+
+9
+
+collateral review, we don't even look at what happened,
+
+10
+
+right?
+
+We don't look and see whether the advice was
+
+11
+
+ineffective, how bad the lawyer was.
+
+12
+
+don't have the right at all, you don't have the right to
+
+13
+
+an effective lawyer.
+
+14
+
+MR. DREEBEN:
+
+15
+
+CHIEF JUSTICE ROBERTS:
+
+The idea is if you
+
+That's right.
+Is that right?
+
+16
+
+Okay.
+
+Well, these -- when you are talking about
+
+17
+
+collateral consequences, you don't have a right to
+
+18
+
+counsel on -- with respect to those collateral
+
+19
+
+consequences.
+
+20
+
+there a right to counsel when you are facing a
+
+21
+
+deportation proceeding?
+
+I assume there's -- maybe there is -- is
+
+22
+
+MR. DREEBEN:
+
+23
+
+CHIEF JUSTICE ROBERTS:
+
+24
+
+MR. DREEBEN:
+
+25
+
+Mr. Chief Justice.
+
+Certainly not by virtue -Okay.
+
+-- of the Sixth Amendment,
+
+And --
+
+22
+Alderson Reporting Company
+
+Official
+
+1
+
+CHIEF JUSTICE ROBERTS:
+
+Well, then, if there
+
+2
+
+is no right to counsel, why do we get into whether there
+
+3
+
+is an affirmative misrepresentation or not?
+
+4
+
+MR. DREEBEN:
+
+Because --
+
+5
+
+CHIEF JUSTICE ROBERTS:
+
+Just like in a
+
+6
+
+collateral -- habeas context, we don't care whether
+
+7
+
+there’s an affirmative misreputation –-
+
+8
+
+misrepresentation, because there’s no right to counsel
+
+9
+
+in the first place.
+
+10
+
+MR. DREEBEN:
+
+I think it's because the
+
+11
+
+lawyer has an additional duty in the context of advising
+
+12
+
+his client whether to take a guilty plea, and that is
+
+13
+
+the duty to respect that the decision whether to plead
+
+14
+
+guilty belongs to the defendant personally.
+
+15
+
+decision that can be exercised by proxy by the lawyer.
+
+16
+
+And the lawyer's duty to respect that, whatever advice
+
+17
+
+he gives, the defendant must be able to make his own
+
+18
+
+personal decision, imposes a concomitant duty not to
+
+19
+
+interfere with or undermine the defendant's ability to
+
+20
+
+make an intelligent decision with the information he
+
+21
+
+has.
+
+22
+
+It's not a
+
+So if a lawyer chooses, when asked about
+
+23
+
+collateral consequences, as many aliens will do –- will
+
+24
+
+I get deported? -- the lawyer is perfectly free to say:
+
+25
+
+I am not your immigration counsel.
+
+23
+Alderson Reporting Company
+
+You need a lawyer to
+
+Official
+
+1
+
+advise you about immigration.
+
+2
+
+lawyer.
+
+3
+
+I am your criminal
+
+And that's perfectly fine.
+
+But if a lawyer
+
+4
+
+goes beyond that and says, don't worry about it; you've
+
+5
+
+been in the country so long; you are not going to get
+
+6
+
+deported -- with the understanding and the backdrop
+
+7
+
+that this is an important factor in whether this
+
+8
+
+defendant is going to decide to take a guilty plea or to
+
+9
+
+go to trial -- then the lawyer has used his professional
+
+10
+
+skills to undermine a personal decision that belongs to
+
+11
+
+the defendant alone.
+
+12
+
+JUSTICE SCALIA:
+
+What -- what about
+
+13
+
+misadvice as to whether he will lose custody of his
+
+14
+
+children, or misadvice as to whether his -- his truck
+
+15
+
+which he owns will be confiscated by the government?
+
+16
+
+MR. DREEBEN:
+
+I would put them, Justice
+
+17
+
+Scalia, all in the same general basket, which is to say,
+
+18
+
+misadvice on a legal matter of importance to the
+
+19
+
+defendant that could skew his decision to plead guilty
+
+20
+
+may be deficient representation under Strickland.
+
+21
+
+think what was --
+
+22
+
+CHIEF JUSTICE ROBERTS:
+
+Not the defendant,
+
+23
+
+but a defendant?
+
+In other words, I assume it's an
+
+24
+
+objective inquiry you would make rather than a
+
+25
+
+subjective one?
+
+24
+Alderson Reporting Company
+
+I
+
+Official
+
+1
+2
+3
+
+MR. DREEBEN:
+
+Well, objective in the sense
+
+that -CHIEF JUSTICE ROBERTS:
+
+We assume, for
+
+4
+
+example, that someone who is going to lose the custody
+
+5
+
+of their children would regard that as important.
+
+6
+
+don't want testimony about this guy doesn't care about
+
+7
+
+the children, so it's not a big deal to him.
+
+8
+9
+
+MR. DREEBEN:
+
+You
+
+I actually think that would be
+
+quite relevant, because if any misadvice did not cause
+
+10
+
+the defendant to plead guilty because it was irrelevant
+
+11
+
+to him, then the defendant should not be able to get in
+
+12
+
+the door with an ineffective assistance claim.
+
+13
+
+And I also think if the defendant hasn't
+
+14
+
+manifested in some way that the particular collateral
+
+15
+
+consequence is important to that defendant, then the
+
+16
+
+lawyer certainly has no obligation even under
+
+17
+
+professional standards --
+
+18
+
+CHIEF JUSTICE ROBERTS:
+
+Won't -- won't your
+
+19
+
+test result in a net loss to defendants?
+
+20
+
+this is adopted as a rule, the affirmative
+
+21
+
+misrepresentation rule, then every lawyer is going to
+
+22
+
+say what you said they should say:
+
+23
+
+criminal case; I'm not telling you anything about
+
+24
+
+anything else --
+
+25
+
+MR. DREEBEN:
+
+I'm here for the
+
+No, I don’t --
+
+25
+Alderson Reporting Company
+
+I assume, if
+
+Official
+
+1
+
+CHIEF JUSTICE ROBERTS:
+
+2
+
+saying -- sitting down and saying:
+
+3
+
+to know.
+
+4
+
+professional job.
+
+5
+
+to tell him:
+
+6
+
+you to be deported. Instead, every lawyer now is going
+
+7
+
+to say:
+
+8
+
+else.
+
+9
+
+-- as opposed to
+Here's what you need
+
+And in most cases we expect the lawyer to do a
+If you have got an alien, he is going
+
+Well, what -- you know, this will cause
+
+I'm not giving you any advice about anything
+
+MR. DREEBEN:
+
+No, I don't think that it will
+
+10
+
+lead to sort of defensive malpractice type of counseling
+
+11
+
+where lawyers do not do the job that they feel that they
+
+12
+
+should do, and experience tends to support that.
+
+13
+
+The rule right now in 10 Federal circuits
+
+14
+
+is there’s no duty to advise about collateral
+
+15
+
+consequences.
+
+16
+
+affirmative misadvice about collateral consequences can
+
+17
+
+support a claim.
+
+Seven Federal circuits have a rule that
+
+JUSTICE BREYER:
+
+18
+
+Why -- why do you have a
+
+19
+
+rule?
+
+20
+
+and they all say, Strickland cases in this Court, that
+
+21
+
+you look at all the circumstances.
+
+22
+
+radical on your part -- but tell me it isn't -- is not
+
+23
+
+what the rule is, but that you want one.
+
+24
+25
+
+I mean, I thought -- I’ve looked up six cases,
+
+Now, what I think is
+
+I thought the government's view normally was
+the same as we -- what's the exact words -- did the
+
+26
+Alderson Reporting Company
+
+Official
+
+1
+
+conduct of the lawyer meet professional -- prevailing
+
+2
+
+professional norms?
+
+3
+
+not, whether that led to a situation where he would not
+
+4
+
+have pleaded guilty but for the failure.
+
+5
+
+And then we look to see, if it did
+
+Okay?
+
+Now, the world is filled with 42 billion
+
+6
+
+circumstances.
+
+If we agree with you, we will have set
+
+7
+
+in motion the great legal rule machine.
+
+8
+
+nothing better than lawyers spinning off rules.
+
+9
+
+will be here from now until -- good, we won't have any
+
+And there's
+And we
+
+10
+
+docket problem, because what we'll be doing is reviewing
+
+11
+
+rule after rule after rule after rule.
+
+12
+
+So why has the government -- I think for the
+
+13
+
+first time, maybe not -- told us to abandon Strickland's
+
+14
+
+approach and start spinning off rules?
+MR. DREEBEN:
+
+15
+
+Justice Breyer, we have not
+
+16
+
+abandoned Strickland's approach.
+
+What we have focused
+
+17
+
+on is, what is the Sixth Amendment right in the first
+
+18
+
+place?
+
+19
+
+a State-provided lawyer who will advise you about child
+
+20
+
+custody or about deportation or about --
+
+21
+
+JUSTICE BREYER:
+
+The Sixth Amendment right is not a right to have
+
+No, no.
+
+But it's easy -- I
+
+22
+
+mean, you know one thing we are very good at here is
+
+23
+
+making up hypotheticals.
+
+24
+
+that tough for me to think of a hypothetical where
+
+25
+
+everyone knows this 90-year-old individual who has
+
+So I imagine it wouldn't be
+
+27
+Alderson Reporting Company
+
+Official
+
+1
+
+actually never set foot in the country that he came
+
+2
+
+from, and everyone knows that if he pleads guilty to
+
+3
+
+this chewing gum offense where they have virtually no
+
+4
+
+evidence, he will be sent back, at age 90, to that
+
+5
+
+country.
+
+6
+
+I would say any lawyer would say, be
+
+7
+
+careful, because if we plead guilty, back you go, on the
+
+8
+
+stretcher since you can no longer walk.
+
+9
+
+was spin out a hypothetical.
+
+10
+
+See, all I did
+
+And the reason I can spin those out and why
+
+11
+
+we have the Strickland rule is pretty clearly that you
+
+12
+
+shouldn't have sub-rules here because life is more
+
+13
+
+complicated than rules tell us.
+
+14
+
+prevailing norm and did it cause the harm.
+
+15
+
+why I am back to my question:
+
+16
+
+the government has asked us to adopt rules under
+
+17
+
+Strickland rather than what it says --
+
+18
+
+MR. DREEBEN:
+
+19
+
+JUSTICE BREYER:
+
+20
+21
+
+Just look to see
+And that's
+
+Isn't this the first time
+
+I think, Justice Breyer --- which is "case by case,"
+
+underlined, italics, repeated in the cases?
+MR. DREEBEN:
+
+Justice Breyer, I think that
+
+22
+
+the fundamental point is that this is the first time
+
+23
+
+that the Court has been asked to adopt a rule under
+
+24
+
+Strickland that would require a lawyer, pursuant to
+
+25
+
+Sixth Amendment norms, to give advice that pertains --
+
+28
+Alderson Reporting Company
+
+Official
+
+1
+
+JUSTICE BREYER:
+
+No, no, they are not asking
+
+2
+
+us to have a rule.
+
+3
+
+individual case and ask in this case, did the -- at
+
+4
+
+least that's what I heard him; he's in charge of his own
+
+5
+
+case.
+
+6
+
+this case, it falls below prevailing norms for a lot of
+
+7
+
+reasons.
+
+But I heard him say, look to this case, and in
+
+8
+9
+
+What he is saying is, look to the
+
+MR. DREEBEN:
+
+Well, Justice Breyer, the --
+
+the lower courts that have looked at this I think have
+
+10
+
+correctly recognized that there’s a distinction between
+
+11
+
+saying that Strickland is a case-by-case inquiry into
+
+12
+
+lawyer competence and saying that Strickland requires
+
+13
+
+the lawyer to provide advice about collateral
+
+14
+
+consequences that are not the criminal case -JUSTICE ALITO:
+
+15
+
+But what are you going to do
+
+16
+
+in the situation where the defendant is concerned about
+
+17
+
+removal -- the removal consequences?
+
+18
+
+let's say this is a case out in some rural jurisdiction,
+
+19
+
+you have got a public defender or a retained attorney,
+
+20
+
+and the -- the attorney is -- you know, provides
+
+21
+
+advice based on the criminal law consequences and the
+
+22
+
+client says:
+
+23
+
+immigration consequences.
+
+24
+
+immigration law is very complicated, and I'm not an
+
+25
+
+expert on this and I'm not going to tell you.
+
+And this is --
+
+Well, I'm also concerned about the
+And the lawyer says:
+
+29
+Alderson Reporting Company
+
+Well,
+
+And so
+
+Official
+
+1
+
+the client says -- and the lawyer says:
+
+If you want to
+
+2
+
+know about that you've got to get a deportation –-
+
+3
+
+you’ve got to get an immigration lawyer.
+
+4
+
+defendant says:
+
+5
+
+were appointed to represent me.
+
+6
+
+advice on the immigration law issue?
+
+7
+
+says:
+
+And the alien
+
+Well, I have no money; that's why you
+How am I going to get
+And the lawyer
+
+Well, that's just too bad for you.
+
+8
+
+And that's the line you want us to draw?
+
+9
+
+MR. DREEBEN:
+
+Well, Justice Alito, I don't
+
+10
+
+think that he has a right under the Sixth Amendment to a
+
+11
+
+lawyer who will counsel him about the potential
+
+12
+
+immigration consequences of a guilty plea.
+
+13
+
+what the Sixth Amendment was designed for.
+JUSTICE SCALIA:
+
+14
+
+That’s not
+
+What are the consequences
+
+15
+
+to the lawyer?
+
+16
+
+defender, and you are confronted with this situation.
+
+17
+
+Is it -- how -- how much skin is it off your teeth if
+
+18
+
+you provide the advice, even though you are uncertain,
+
+19
+
+and the advice turns out to be wrong?
+
+20
+
+the lawyer?
+
+21
+22
+
+I mean, let's assume you are a public
+
+MR. DREEBEN:
+
+What happens to
+
+I don't know that anything
+
+happens to the lawyer, Justice Scalia.
+JUSTICE SCALIA:
+
+23
+24
+
+to withhold uncertain advice?
+
+25
+
+all?
+
+So, what incentive is there
+Is there any incentive at
+
+30
+Alderson Reporting Company
+
+Official
+
+1
+
+MR. DREEBEN:
+
+2
+
+JUSTICE SCALIA:
+
+3
+
+Well, I think that -I mean, the worst that can
+
+happen is your client will get off.
+
+4
+
+MR. DREEBEN:
+
+There’s the professional --
+
+5
+
+JUSTICE SCALIA:
+
+He’ll make a guilty plea,
+
+6
+
+and afterwards it will be set aside.
+
+7
+
+MR. DREEBEN:
+
+There is a professional
+
+8
+
+incentive to provide advice where you are competent to
+
+9
+
+provide advice and not to provide it where you are not
+
+10
+
+competent.
+
+11
+
+consequences illustrates two things:
+
+12
+
+And I think that the focus on immigration
+
+One is this is an extraordinarily
+
+13
+
+complicated area of the law, where it is very difficult
+
+14
+
+to give advice.
+
+15
+
+master not only the criminal aspects of the case but
+
+16
+
+also the immigration aspects of the case will only tend
+
+17
+
+to divert attention from what the lawyer is really there
+
+18
+
+to do, advise --
+
+19
+
+And for a lawyer to be expected to
+
+JUSTICE KENNEDY:
+
+Well, why shouldn't we
+
+20
+
+just adopt an amendment to Rule 11 in which the judge
+
+21
+
+says, any collateral consequences with respect to your
+
+22
+
+plea are not the concern of this court and will not be
+
+23
+
+grounds for setting aside this -- this plea?
+
+24
+25
+
+MR. DREEBEN:
+
+Well, the former part is
+
+certainly something that the Court could in its
+
+31
+Alderson Reporting Company
+
+Official
+
+1
+
+rulemaking capacity do.
+
+2
+
+Amendment question.
+
+3
+
+that the rules committee for the criminal rules has
+
+4
+
+twice considered whether to amend Rule 11, and is going
+
+5
+
+to consider it again contemporaneously with this case,
+
+6
+
+to require the judge to say to an alien defendant, you
+
+7
+
+may want to take into account removal consequences of a
+
+8
+
+criminal conviction.
+
+9
+
+The latter part is a Sixth
+
+And I think it's highly notable
+
+In other words, there are rule-based ways to
+
+10
+
+address some of the concerns that Justice Alito raised
+
+11
+
+without constitutionalizing a new area of collateral
+
+12
+
+consequences that would impose new duties that actually
+
+13
+
+would divert the lawyer from his criminal law function,
+
+14
+
+whereas the misadvice line has not created those
+
+15
+
+problems.
+
+16
+
+And as I started to say earlier, the fact
+
+17
+
+that 10 Federal circuits have said no duty to advise on
+
+18
+
+collateral consequences, while 7 have recognized that
+
+19
+
+misadvice on collateral consequences can provide
+
+20
+
+relief, has not led to a series of difficult Strickland
+
+21
+
+hearings that are unmanageable.
+
+Justice Alito --
+
+22
+
+CHIEF JUSTICE ROBERTS:
+
+23
+
+JUSTICE ALITO:
+
+How do we know that?
+
+What about the situation
+
+24
+
+where the attorney says nothing about -- I mean, removal
+
+25
+
+is -- is out there as -- as a real possibility, but it
+
+32
+Alderson Reporting Company
+
+Official
+
+1
+
+just doesn't occur to the -- the defendant, and the
+
+2
+
+attorney doesn't even mention, you know, you might --
+
+3
+
+you might want to think about the removal consequences
+
+4
+
+of this?
+
+5
+
+MR. DREEBEN:
+
+Then the client does not get
+
+6
+
+relief for two reasons:
+
+One is because we believe
+
+7
+
+there’s no duty to give that advice.
+
+8
+
+Court disagreed with me on that, such a defendant could
+
+9
+
+hardly show prejudice because he knew that he went into
+
+But even if the
+
+10
+
+his guilty plea with uncertainty, at best, about
+
+11
+
+removal.
+And I think it would be very difficult to
+
+12
+13
+
+show what he should have to show to establish prejudice:
+
+14
+
+First, that subjectively he would not have pleaded
+
+15
+
+guilty had he been given correct immigration advice;
+
+16
+
+and, second, that a reasonable defendant would have had
+
+17
+
+a basis not to plead guilty, because if the defendant is
+
+18
+
+going to be convicted after a trial in any event, the
+
+19
+
+same collateral consequence is going to ensue.
+
+20
+
+defendant will not evade the collateral consequences of
+
+21
+
+removal if the defendant was going to be convicted at a
+
+22
+
+trial anyway.
+
+And perhaps --
+
+JUSTICE GINSBURG:
+
+23
+
+The
+
+How do you -- how do you
+
+24
+
+know that?
+
+In this case, Mr. Kinnaird told us the
+
+25
+
+defendant might have preferred to go to trial because he
+
+33
+Alderson Reporting Company
+
+Official
+
+1
+
+had this defense that he didn't know what was in the
+
+2
+
+packages.
+MR. DREEBEN:
+
+3
+
+Well, I think courts will
+
+4
+
+evaluate that kind of a claim just the way they evaluate
+
+5
+
+any other Strickland claim and decide whether there was
+
+6
+
+any reasonable probability that such a defense could have
+
+7
+
+prevailed.
+
+8
+9
+
+JUSTICE SCALIA:
+
+After -- after a
+
+mini-trial, which deprives the government of -- of its
+
+10
+
+whole benefit from the guilty plea.
+
+11
+
+guilty pleas in order to avoid the time and expense of
+
+12
+
+going to -- to a trial.
+
+13
+
+and find out what the evidence would have been, so that
+
+14
+
+the court can make the decision you say is so easy.
+
+And here you have to go back
+
+MR. DREEBEN:
+
+15
+
+Governments accept
+
+This is the typical regime
+
+16
+
+that the Court has dictated under Strickland, and it has
+
+17
+
+not proved unmanageable in the courts that have adopted
+
+18
+
+the limited misadvice rule that the government
+
+19
+
+supports.
+CHIEF JUSTICE ROBERTS:
+
+20
+21
+22
+
+Thank you,
+
+Mr. Dreeben.
+Mr. Long.
+
+23
+
+ORAL ARGUMENT OF WM. ROBERT LONG, JR.
+
+24
+
+ON BEHALF OF THE RESPONDENT
+
+25
+
+MR. LONG:
+
+Mr. Chief Justice, may it please
+
+34
+Alderson Reporting Company
+
+Official
+
+1
+
+the Court:
+
+2
+
+In Hill v. Lockhart, this Court again
+
+3
+
+focused on voluntariness and said that voluntariness of
+
+4
+
+the plea depends on counsel's advice and whether that
+
+5
+
+counsel advice is in the range of competence of the
+
+6
+
+attorneys in a criminal proceeding.
+
+7
+
+Again, the focus was on voluntary.
+
+And in
+
+8
+
+Brady, this Court described a voluntary plea as "a plea
+
+9
+
+entered by one possessing full knowledge of direct
+
+10
+
+consequences."
+
+Thus, reading the cases together, it
+
+11
+
+would appear that the defendant need to have only
+
+12
+
+knowledge -- full knowledge of direct consequences, and
+
+13
+
+advice of counsel is just a tool to ensure that.
+JUSTICE SOTOMAYOR:
+
+14
+
+Counsel, a plea is
+
+15
+
+something more than “I'm guilty.”
+
+16
+
+decision not to put the government to its burden of
+
+17
+
+proof.
+
+18
+
+there is only one component to it, do I know what my
+
+19
+
+rights are, as opposed to, do I know what they are and
+
+20
+
+am making an informed decision to waive those rights.
+
+21
+
+Your definition of voluntariness suggests that
+
+Your articulation of the rule leaves out the
+
+22
+
+second component:
+
+23
+
+waive those rights?
+
+24
+25
+
+It is a strategic
+
+Am I making an informed decision to
+
+MR. LONG:
+
+Well, I think under this Court's
+
+precedent, the informed right is to know what those
+
+35
+Alderson Reporting Company
+
+Official
+
+1
+
+rights are, what is the weight of the evidence against
+
+2
+
+you, and to make those strategic decisions.
+JUSTICE SOTOMAYOR:
+
+3
+
+But that --
+
+But how do you do that?
+
+4
+
+I mean, your adversary's argument is, in their
+
+5
+
+particular case -- and I know that you dispute this –-
+
+6
+
+there is a defense that could win at trial.
+
+7
+
+defendant comes in and says:
+
+8
+
+I go to trial and I may serve a longer sentence, but I
+
+9
+
+don't go to trial, I may serve that -- I do go to trial
+
+And the
+
+Okay, what are my choices?
+
+10
+
+and I serve that longer sentence, but it's here in the
+
+11
+
+U.S. and not in my home country, where I might starve to
+
+12
+
+death.
+
+I think I’ll stay here and take that risk.
+
+13
+
+You're -- you're sort of ignoring that
+
+14
+
+component of information in terms of informing the
+
+15
+
+strategic choice of whether to take the risk and go to
+
+16
+
+trial.
+
+17
+
+MR. LONG:
+
+Well, we are not particularly
+
+18
+
+ignoring it.
+
+19
+
+Amendment what is prudent or appropriate may not
+
+20
+
+necessarily be what the inquiry is, but what is
+
+21
+
+constitutional mandated.
+
+22
+
+mandated here is to provide the adversary to waive
+
+23
+
+the -- put the Commonwealth's or the State's proof -- to
+
+24
+
+weigh it, to advise about it.
+
+25
+
+We are saying ultimately under the Sixth
+
+And what is constitutionally
+
+JUSTICE SOTOMAYOR:
+
+Well, then that – that
+
+36
+Alderson Reporting Company
+
+Official
+
+1
+
+goes to the Solicitor General's position, which is:
+
+2
+
+may be right, an attorney doesn't have to give more
+
+3
+
+information than what's necessary.
+
+4
+
+calculus change when the defendant says, this is
+
+5
+
+important to me; give me accurate advice, if you are
+
+6
+
+going to give me advice?
+
+7
+
+MR. LONG:
+
+You
+
+But doesn't the
+
+Well, the calculus may change
+
+8
+
+ever so slightly, but the -- I think the difference is,
+
+9
+
+is that misadvice is still -- is not materially
+
+10
+
+different than the failure to advise.
+
+11
+
+-- the defendant still is left to -- to operate under a
+
+12
+
+misapprehension.
+
+13
+
+Ultimately, the
+
+And the States are more than able to police
+
+14
+
+this kind of conduct, and in fact the States have.
+
+15
+
+think it's approximately 27 States that do add to their,
+
+16
+
+quote, unquote, "Rule 11" and -- and require some sort
+
+17
+
+of inquiry by the -- the courts.
+
+18
+
+the States or the individual courts through their
+
+19
+
+rulemaking process or through legislative prerogative
+
+20
+
+whereby this could better -- best be addressed, rather
+
+21
+
+than constitutionalizing misadvice and trying to draw
+
+22
+
+this really hard distinction between no duty and the
+
+23
+
+duty to advise.
+JUSTICE BREYER:
+
+24
+25
+
+in.
+
+I
+
+And ultimately, it's
+
+Suppose a -- a client comes
+
+You are a criminal lawyer and you learn the facts
+
+37
+Alderson Reporting Company
+
+Official
+
+1
+
+of the case, and it turns out that, after listening to
+
+2
+
+the facts, you think he is being charged with a fairly
+
+3
+
+minor offense, a year maybe max, and he tells you:
+
+4
+
+know, I have a family here, I've -- I've -- you know, he
+
+5
+
+tells you this story where it is quite apparent to you
+
+6
+
+that if he pleads guilty, back he goes, where he might
+
+7
+
+be killed and so might his family.
+
+8
+
+say nothing?
+
+9
+
+Just sit there and
+
+What would you do?
+
+MR. LONG:
+
+Your Honor, my -- my personal --
+
+10
+
+JUSTICE BREYER:
+
+11
+
+MR. LONG:
+
+Yes.
+
+-- personal obligation at that
+
+12
+
+point would be to try to answer the question.
+
+13
+
+again, the question -JUSTICE BREYER:
+
+14
+
+You
+
+But,
+
+What would you do?
+
+I'm
+
+15
+
+asking you, would you tell him?
+
+16
+
+the immigration law.
+
+17
+
+yourself have learned that he probably will be killed,
+
+18
+
+as will his family, if he pleads guilty.
+
+19
+
+him that?
+
+20
+21
+22
+
+MR. LONG:
+
+He doesn't know about
+
+He thinks it's just a year.
+
+Would you tell
+
+If I possessed that knowledge,
+
+yes, Your Honor.
+JUSTICE BREYER:
+
+Of course you would.
+
+23
+
+do you think of any -- can you think of any decent
+
+24
+
+lawyer who wouldn't?
+
+25
+
+You
+
+MR. LONG:
+
+No, Your Honor.
+
+38
+Alderson Reporting Company
+
+But --
+
+And
+
+Official
+
+1
+
+JUSTICE BREYER:
+
+No.
+
+Okay.
+
+Then why have
+
+2
+
+you -- in this case, if they didn't tell him, why has
+
+3
+
+not such a lawyer failed to meet prevailing professional
+
+4
+
+norms in my hypothetical?
+
+5
+
+MR. LONG:
+
+Well, Your Honor, the -- first of
+
+6
+
+all, the prevailing professional norm or ethical
+
+7
+
+obligations that have been enacted in Kentucky and in
+
+8
+
+most States provide very general obligations and they do
+
+9
+
+not actually speak to this kind of situation.
+
+10
+
+JUSTICE BREYER:
+
+Oh, I'm not saying whether
+
+11
+
+-- you have just told me that any lawyer worth his salt,
+
+12
+
+in my example, of course would tell the client, and –- in
+
+13
+
+my case.
+
+14
+
+failed to do so not met the prevailing professional
+
+15
+
+norm?
+
+16
+
+it's how lawyers behave.
+
+17
+
+answering that question "yes".
+
+And so I just asked, then has a lawyer who has
+
+That has nothing to do with ethics or not ethics;
+
+MR. LONG:
+
+18
+
+I don't see how you avoid
+
+Well, I don't know that it's
+
+19
+
+necessarily a prevailing norm.
+
+20
+
+of –-
+
+21
+
+JUSTICE BREYER:
+
+You just told me everyone
+
+22
+
+would do it, everybody'd do it.
+
+23
+
+norm is otherwise.
+
+24
+25
+
+MR. LONG:
+
+It's -- it’s a question
+
+I don't know what a
+
+Pardon me, but it's a question of
+
+morals here to decide whether or not to offer that
+
+39
+Alderson Reporting Company
+
+Official
+
+1
+
+advice.
+
+Now --
+
+2
+
+JUSTICE SCALIA:
+
+Well, but assuming it's a
+
+3
+
+norm and that all lawyers do it, including those that
+
+4
+
+know diddly about immigration law, the norm is to give
+
+5
+
+bad advice.
+
+And -- and here the norm was met, right?
+
+6
+
+(Laughter.)
+
+7
+
+MR. LONG:
+
+Potentially yes, Your Honor.
+
+And
+
+8
+
+in fact it's really unclear what advice was given
+
+9
+
+because, as my opponent has mentioned, there was not an
+
+10
+
+evidentiary hearing, so what was actually said is
+
+11
+
+unclear.
+
+12
+
+distinction made by the Solicitor General's Office does
+
+13
+
+--
+
+But I fear like -- that the misadvice
+
+JUSTICE BREYER:
+
+14
+
+Before we get to the
+
+15
+
+misadvice, to put every -- dot every “i,” every lawyer
+
+16
+
+would do it in my case; that's a professional norm.
+
+17
+
+a lawyer fails to do it, he hasn't met the professional
+
+18
+
+norm.
+
+19
+
+Strickland in that respect, because Strickland says if
+
+20
+
+you fail to meet professional norms, you are guilty of
+
+21
+
+inadequate assistance of counsel, okay?
+
+If
+
+And a rule that's absolute would overturn
+
+So Q.E.D.
+
+22
+
+Now, what’s wrong with what I just said?
+
+23
+
+MR. LONG:
+
+24
+
+disagree a little bit.
+
+25
+
+quite that expansive.
+
+Well, Your Honor, I would have to
+I believe Strickland is not
+Strickland talks with regard to
+
+40
+Alderson Reporting Company
+
+Official
+
+1
+
+professional norms and ethical standards as guides in
+
+2
+
+determining competent counsel, and does not set them as
+
+3
+
+hard, fast rules.
+
+4
+
+And in --
+
+JUSTICE SCALIA:
+
+I thought the point is
+
+5
+
+that -- I thought your point was that –- that Strickland
+
+6
+
+does require professional norms to be observed, but it
+
+7
+
+is professional norms regarding advising a defendant as
+
+8
+
+to the trial consequences of his plea, as to those
+
+9
+
+matters that are involved in the prosecution, and not as
+
+10
+
+to collateral matters.
+
+Isn't that your point?
+
+11
+
+MR. LONG:
+
+Yes, Your Honor.
+
+12
+
+JUSTICE SCALIA:
+
+The --
+
+Those are the only norms
+
+13
+
+that are relevant, what norms oblige counsel to advise a
+
+14
+
+defendant regarding trial matters.
+
+15
+
+MR. LONG:
+
+Correct.
+
+And under Strickland --
+
+16
+
+under the Sixth Amendment, criminal defense attorneys
+
+17
+
+must focus on issues of guilt and innocence and penalty.
+JUSTICE KENNEDY:
+
+18
+
+Well, everyone at the
+
+19
+
+counsel table I assume agrees that the plea has to be
+
+20
+
+voluntary.
+
+21
+
+Number one, it is not coerced or forced.
+
+22
+
+your argument that “voluntary” does not include being
+
+23
+
+fully informed?
+
+24
+25
+
+But “voluntary” has various meanings:
+
+MR. LONG:
+
+Would -- isn't
+
+Our point -- would be not be
+
+fully informed about every possible consequence which
+
+41
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+would be in -- in -- completely -JUSTICE KENNEDY:
+
+Well then, about important
+
+3
+
+collateral consequences.
+
+Is there -- are there any
+
+4
+
+cases that address this point one way or the other?
+
+5
+
+That is to say, the extent to which “voluntary” includes
+
+6
+
+the component of being informed about major
+
+7
+
+consequences, significant consequences of the plea?
+
+8
+
+I go anywhere to -- to read a discussion of this?
+
+Can
+
+9
+
+MR. LONG:
+
+10
+
+a problem, I believe.
+
+11
+
+address this issue seem to focus on voluntariness and
+
+12
+
+they focus upon the definition this Court espoused in
+
+13
+
+Brady, and they uniformly come up with the -- with the
+
+14
+
+conclusion that no affirmative duty is required.
+
+15
+
+then jump from that position to the -- to a position
+
+16
+
+where misadvice somehow changes the inquiry.
+
+17
+
+to focus again on “voluntary,” where -- meaning full
+
+18
+
+knowledge of direct consequences, and instead reached
+
+19
+
+out to these kind of results-driven opinions that are
+
+20
+
+kind of fueled by this feeling of -- of unfairness.
+
+21
+
+Well, Your Honor, that's kind of
+The cases that -- that do
+
+JUSTICE GINSBURG:
+
+They
+
+They fail
+
+Mr. Long, you said that
+
+22
+
+this is a collateral consequence; therefore, the lawyer
+
+23
+
+has no obligation to advise the client.
+
+24
+
+remarkable about the case that you rely on, Hill v.
+
+25
+
+Lockwood, is the Eighth Circuit used the distinction
+
+42
+Alderson Reporting Company
+
+But what was
+
+Official
+
+1
+
+between “direct” and “collateral.”
+
+2
+
+opinion said nothing about “direct” or “collateral”; it
+
+3
+
+just asked the question under Strickland, and it held
+
+4
+
+that Strickland does apply to challenges to guilty pleas
+
+5
+
+based on ineffective assistance of counsel.
+
+6
+
+staring the Court in the face was this direct versus
+
+7
+
+collateral, and the Court was totally silent on that.
+
+8
+
+It didn't consider it relevant to its determination.
+
+9
+
+MR. LONG:
+
+In this Court, the
+
+But it --
+
+You're -- you are correct, Your
+
+10
+
+Honor.
+
+The -- and, again, that silence has then led the
+
+11
+
+circuits to develop a rule.
+
+12
+
+that a voluntary plea following this Court's other
+
+13
+
+decisions which it has -- where it has spoken, that the
+
+14
+
+plea need only be entered by one possessing full
+
+15
+
+knowledge of direct consequences.
+JUSTICE ALITO:
+
+16
+
+And the predominant rule is
+
+The --
+
+What about the situation
+
+17
+
+where the -- the defendant would have made sacrifices
+
+18
+
+and obtained competent immigration advice, were it not
+
+19
+
+for affirmative misrepresentations by criminal
+
+20
+
+defense -- by criminal defense attorneys?
+
+21
+
+defense attorney says:
+
+22
+
+not going to be removed.
+
+23
+
+really sure about that?
+
+24
+
+not,
+
+25
+
+the house and we are going to go hire an immigration
+
+The criminal
+
+Don't worry about it, you are
+And the defendant says:
+
+You
+
+Because, you know, if you’re
+
+my relatives are going to get a second mortgage on
+
+43
+Alderson Reporting Company
+
+Official
+
+1
+
+lawyer so we can be absolutely sure about that -- this.
+
+2
+
+And the criminal attorney says:
+
+3
+
+I've just had, you know, six hours of CLE --
+
+4
+
+I'm an expert on this.
+
+(Laughter.)
+
+5
+
+-- on immigration law.
+
+And in reliance on
+
+6
+
+that faulty advice, the defendant pleads guilty and finds
+
+7
+
+himself facing removal.
+
+8
+9
+
+MR. LONG:
+
+Well, following the logic of this
+
+-- of the circuits and of this Court's guidance in
+
+10
+
+Brady, again, the inquiry for voluntariness is on direct
+
+11
+
+consequences, so it would not rise to a Sixth Amendment
+
+12
+
+claim.
+
+13
+
+Counsel may, nonetheless, be -- I'm not a
+
+14
+
+very -- I’m not a very good counsel in that situation.
+
+15
+
+However, as it was pointed out earlier, sometimes,
+
+16
+
+criminal defendants risk ordinary error with their
+
+17
+
+representation, and in fact, this Court has recognized
+
+18
+
+that in numerous cases.
+
+19
+
+In U.S. v. Ruiz, this Court kind of compiled
+
+20
+
+a group of cases, including Brady, McMann, and Tollett,
+
+21
+
+in which the defendant did, in fact, operate under
+
+22
+
+misapprehensions with regard to things that we most
+
+23
+
+often consider strategic, more direct obligations of the
+
+24
+
+trial.
+
+25
+
+They -- I think it was in Brady -- they
+
+44
+Alderson Reporting Company
+
+Official
+
+1
+
+misapprehended the quality of the evidence and the
+
+2
+
+penalties and such, and this Court ultimately found
+
+3
+
+that, in all those cases, there is a certain amount of
+
+4
+
+ordinary error that is risked when pleading guilty, that
+
+5
+
+you risk a certain amount -- that your counsel may not
+
+6
+
+have made the best strategic decision.
+
+7
+
+JUSTICE STEVENS:
+
+May I ask this
+
+8
+
+question:
+
+Supposing this wasn't a drug crime -- a
+
+9
+
+sexual abuse of a minor, which would lead to all sorts
+
+10
+
+of restrictions on where the defendant could live and
+
+11
+
+report to as a resident, and the like, would there be –-
+
+12
+
+would that be a collateral consequence or a direct
+
+13
+
+consequence, in the advice on that?
+MR. LONG:
+
+14
+
+I believe, Your Honor, that it
+
+15
+
+would be a -- a fine line, that it would technically be
+
+16
+
+a collateral consequence under the classic definition of
+
+17
+
+collateral consequence, that being whether or not it
+
+18
+
+falls under the control or discretion of the sentencing
+
+19
+
+court.
+
+20
+
+The -JUSTICE STEVENS:
+
+Even though the
+
+21
+
+consequence is a -- is something required by the law of
+
+22
+
+the jurisdiction imposing the criminal penalty, it would
+
+23
+
+still be collateral?
+
+24
+25
+
+MR. LONG:
+
+The popular definition -- or the
+
+most common definition focuses on whether it falls under
+
+45
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+the discretion or power of the sentencing court.
+In those jurisdictions that have sexual
+
+3
+
+offender registries, it is not a -- something that is
+
+4
+
+discretionary with the court.
+
+5
+
+executive agency that that is enforced, just like
+
+6
+
+parole, also just like your right -- to lose your right
+
+7
+
+to vote -- losing your right to bear arms.
+
+8
+9
+
+It is through the
+
+All of those things happen automatically by
+action of law, yet they remain collateral because they
+
+10
+
+do not fall under -- with -- under the discretion and
+
+11
+
+power of the sentencing court.
+
+12
+
+If I could remind you all -- I apologize for
+
+13
+
+putting "you all" -- but -- my being from Kentucky is
+
+14
+
+showing a little.
+
+15
+
+(Laughter.)
+
+16
+
+MR. LONG:
+
+The modern rules of professional
+
+17
+
+conduct are very, very broad, and there's -- I don't
+
+18
+
+believe that it can be demonstrated that they were
+
+19
+
+actually violated here, even under the alleged conduct.
+
+20
+
+The prevailing norms that the ABA puts forth in its
+
+21
+
+brief or the criminal justice standards are
+
+22
+
+aspirational.
+
+23
+
+They -- they focus more on what --
+
+CHIEF JUSTICE ROBERTS:
+
+I thought you told
+
+24
+
+Justice Breyer that any good lawyer would give this
+
+25
+
+advice to a client?
+
+46
+Alderson Reporting Company
+
+Official
+
+1
+
+MR. LONG:
+
+I said -- in response to Justice
+
+2
+
+Breyer, in the extreme circumstances, again, it would be
+
+3
+
+my opinion -- not necessarily the opinion of this Court
+
+4
+
+or necessarily it would fall under the Sixth Amendment,
+
+5
+
+but that, if you absolutely knew and that a -- a severe
+
+6
+
+collateral consequence is of great importance, you
+
+7
+
+should explore it.
+
+8
+9
+
+The misadvice rule that the U.S. government
+kind of puts forth as the hybrid position does -- I
+
+10
+
+do believe creates these collateral consequences as land
+
+11
+
+mines to be avoided.
+
+12
+
+I think it does, in fact, encourage criminal
+
+13
+
+defendants to be -- or criminal defense attorneys to be
+
+14
+
+silent in situations where they would otherwise be
+
+15
+
+more free in offering that advice.
+
+16
+
+And, again, offering the advice does not
+
+17
+
+necessarily raise it to Sixth Amendment purview because,
+
+18
+
+again, there are any number of things that are going to
+
+19
+
+come up in that attorney-client relationship.
+
+20
+
+JUSTICE GINSBURG:
+
+We are talking on a
+
+21
+
+highly general level, but what's facing us -- this case,
+
+22
+
+is there are certain crimes -- an increased number of
+
+23
+
+crimes that are classified as aggravated felonies, where
+
+24
+
+the rule is, if you are convicted of an aggravated
+
+25
+
+felony, you are out of the country after you serve your
+
+47
+Alderson Reporting Company
+
+Official
+
+1
+
+time.
+
+2
+
+There’s nothing mysterious about that.
+
+3
+
+There’s nothing intricate about making that
+
+4
+
+determination.
+
+5
+
+an alien have an obligation, when there is an aggravated
+
+6
+
+felony as the charge, to say this will be the
+
+7
+
+consequence?
+
+8
+9
+
+So why wouldn't a lawyer whose client is
+
+MR. LONG:
+
+Well, I think, in this case, we
+
+are focusing on the obligation created by the Sixth
+
+10
+
+Amendment, and the Sixth Amendment obligation refers to
+
+11
+
+the criminal proceeding and the criminal prosecution and
+
+12
+
+then to aid in the defense.
+
+13
+
+Like the -- and we would agree with the
+
+14
+
+Solicitor General there, that the purpose for the
+
+15
+
+criminal attorney in that situation is to counteract the
+
+16
+
+expert of the Commonwealth or the State, is to ensure
+
+17
+
+the fair and just determination of guilt, not to advise
+
+18
+
+on collateral matters such as deportation, child
+
+19
+
+custody, and the like.
+JUSTICE GINSBURG:
+
+20
+
+You keep insisting on the
+
+21
+
+collateral, although you recognized that in Hill v.
+
+22
+
+Lockhart, the Court did not draw that line.
+MR. LONG:
+
+23
+
+Well, ultimately -- and this
+
+24
+
+Court did not -- didn't draw any line.
+
+25
+
+that point.
+
+It was silent on
+
+And given the -- the way the lower courts
+
+48
+Alderson Reporting Company
+
+Official
+
+1
+
+have reacted in drawing the direct and collateral line,
+
+2
+
+I think that's kind of where we have to go.
+That’s what the rule is of the lower courts
+
+3
+4
+
+and it’s the rule that has -- has been applied
+
+5
+
+throughout the nation, and we are testing whether or not
+
+6
+
+that rule makes sense, essentially.
+
+7
+
+And I think, ultimately, there is a
+
+8
+
+potential problem in treating deportation differently
+
+9
+
+than other collateral consequences.
+
+To do so –- I
+
+10
+
+believe, at one point in Mr. Kinnaird's argument, he
+
+11
+
+does make the point that deportation, because it is of
+
+12
+
+such importance or that -- that it should be treated
+
+13
+
+differently.
+
+14
+
+But that is to suggest that it's so
+
+15
+
+important in all situations and it is more important
+
+16
+
+than collateral consequence that may affect citizens.
+
+17
+
+Citizens will lose the right to vote.
+
+18
+
+their right to jury service, perhaps lose custody of
+
+19
+
+their children.
+
+20
+
+They will lose
+
+And there’s no principled reason to really
+
+21
+
+treat deportation differently.
+
+22
+
+it differently because it is viewed as so severe, it's
+
+23
+
+truly then a subjective inquiry as what collateral
+
+24
+
+consequence is severe to this client.
+
+25
+
+If the reason to treat
+
+And it ultimately prefers a class of
+
+49
+Alderson Reporting Company
+
+Official
+
+1
+
+citizens -- those who are non-citizens -- over citizens
+
+2
+
+who may have just as much importance placed on
+
+3
+
+collateral consequences they face.
+
+4
+
+Moving real quickly, if I could just touch
+
+5
+
+briefly on the prejudice prong of Strickland.
+
+6
+
+I'm not -- well, I hesitate to say this a little bit,
+
+7
+
+but it's not completely apparent on the record that
+
+8
+
+counsel's performance was, in fact, deficient.
+
+9
+
+First,
+
+He did not misadvise with regard to any
+
+10
+
+direct consequence.
+
+11
+
+misunderstood any of the rights he was waiving, and at
+
+12
+
+least -- and up until his reply brief, he made no bones
+
+13
+
+about the fact that he was guilty.
+And, in fact, that solemn and sworn
+
+14
+15
+
+Padilla does not allege that he
+
+admission of guilt should not be lightly undone.
+JUSTICE GINSBURG:
+
+16
+
+Well, the defendant might
+
+17
+
+say:
+
+I have been in the United States for 40 years.
+
+18
+
+have a family.
+
+19
+
+jury and get put away for a longer time because at least
+
+20
+
+I'll be in prison where my children can visit me.
+
+21
+
+I’d rather take my chances with a
+
+MR. LONG:
+
+Well, Your Honor, again, that is
+
+22
+
+a risk that is taken when asking questions to your
+
+23
+
+counsel.
+
+24
+
+Amendment requirements.
+
+25
+
+I
+
+It would not necessarily fall under the Sixth
+
+CHIEF JUSTICE ROBERTS:
+
+50
+Alderson Reporting Company
+
+Thank you, counsel.
+
+Official
+
+1
+2
+
+Mr. Kinnaird, you have 4 minutes
+remaining.
+REBUTTAL ARGUMENT OF STEPHEN B. KINNAIRD
+
+3
+4
+
+ON BEHALF OF THE PETITIONER
+
+5
+
+MR. KINNAIRD:
+
+Thank you, Your Honor.
+
+6
+
+Three quick points.
+
+In Hill, the Court did
+
+7
+
+expressly hold that Strickland applies to the collateral
+
+8
+
+consequence of parole eligibility, so it is not just
+
+9
+
+for -- for trial consequences.
+
+10
+
+And, secondly, Brady is predicated on an
+
+11
+
+assumption that there is competent advice on the
+
+12
+
+strategic decisions --
+
+13
+
+JUSTICE SCALIA:
+
+Excue me, I'm not sure that
+
+14
+
+parole eligibility could qualify as a collateral
+
+15
+
+consequence.
+
+16
+
+MR. KINNAIRD:
+
+It certainly would under the
+
+17
+
+-- Kentucky’s test, Your Honor, because it depends on
+
+18
+
+such factors as the actual sentence, the prior
+
+19
+
+convictions of the defendant.
+
+20
+
+are known at the plea colloquy --
+
+21
+
+JUSTICE SCALIA:
+
+Those are not things that
+
+It goes to the sentence.
+
+22
+
+It goes to what the sentence will be, which is certainly
+
+23
+
+part of the trial.
+
+24
+25
+
+MR. KINNAIRD:
+
+Well, under Rule 11, at least
+
+prior to the abolition of parole, there was no
+
+51
+Alderson Reporting Company
+
+Official
+
+1
+
+advisement in the district courts -- the Federal
+
+2
+
+district courts on that.
+The second point is that it is predicated on
+
+3
+4
+
+competency, and so the standard is not voluntariness.
+
+5
+
+When you are in the Sixth Amendment, you go to the
+
+6
+
+Strickland standard of incompetency, and then prejudice
+
+7
+
+within the criminal prosecution.
+
+8
+
+is what we have here, the forfeiture of a jury trial
+
+9
+
+right.
+
+10
+
+And I emphasize that
+
+We are not talking about prejudice outside the
+
+criminal prosecution.
+And, finally, while we agree with the
+
+11
+12
+
+government that the misadvice rule has proven perfectly
+
+13
+
+manageable in the 30 or so jurisdictions in which it has
+
+14
+
+been endorsed, there also have been a handful of
+
+15
+
+jurisdictions -JUSTICE SCALIA:
+
+16
+17
+
+do you say that?
+
+18
+
+or what?
+
+19
+
+Why do you say that?
+
+Why
+
+Or there has not been a revolution
+
+What -- how do you know?
+MR. KINNAIRD:
+
+Well, Your Honor, I mean,
+
+20
+
+there’s -- I think that there are something like 700
+
+21
+
+claims in over a decade or something like that.
+
+22
+
+So we don't know, but it’s -- there has been
+
+23
+
+no evidence, that we are aware of, that the courts are
+
+24
+
+overly burdened by these, and there -- and even in the
+
+25
+
+jurisdictions that apply the broader rule, we, again,
+
+52
+Alderson Reporting Company
+
+Official
+
+1
+
+are not aware of any flood of mini-trials.
+
+2
+
+Strickland -CHIEF JUSTICE ROBERTS:
+
+3
+
+Many use the
+
+What -- what is your
+
+4
+
+answer to the situation that I think has been
+
+5
+
+hypothesized, of the lawyer -- the defendant asks him,
+
+6
+
+what are the deportation consequences?
+
+7
+
+says:
+
+8
+
+a criminal lawyer, but my best guess is that you are all
+
+9
+
+right.
+
+I don't know.
+
+And the lawyer
+
+I'm not a deportation lawyer.
+
+10
+
+What happens there?
+
+11
+
+MR. KINNAIRD:
+
+Well, Your Honor, I think
+
+12
+
+those would be adjudicated under Strickland, and,
+
+13
+
+remember, Strickland --
+
+14
+
+CHIEF JUSTICE ROBERTS:
+
+15
+
+claim when the lawyer disavows knowledge on the
+
+16
+
+question?
+
+17
+
+but he also warns the defendant.
+
+18
+
+I'm
+
+So you can make a
+
+In other words, he is trying to be helpful,
+
+MR. KINNAIRD:
+
+Yes.
+
+Under the broader rule,
+
+19
+
+you would have a Strickland claim.
+
+20
+
+hard to prevail on that because you would have to show
+
+21
+
+that it was unreasonable for him not to investigate
+
+22
+
+the consequences --
+
+23
+
+CHIEF JUSTICE ROBERTS:
+
+It would be very
+
+"To investigate"?
+
+24
+
+So even if he doesn't know deportation and the client
+
+25
+
+asks him, he has to investigate that?
+
+53
+Alderson Reporting Company
+
+Official
+
+1
+
+MR. KINNAIRD:
+
+2
+
+required by competent representation.
+
+3
+
+JUSTICE ALITO:
+
+4
+
+MR. KINNAIRD:
+
+5
+
+JUSTICE ALITO:
+
+He has to do whatever is
+
+Well, just to be -That's the limited standard.
+Just to be clear about the
+
+6
+
+scope of your argument -- maybe you could just clarify.
+
+7
+
+Which, if any, of the following would you not put in the
+
+8
+
+same category as advice about immigration consequences:
+
+9
+
+advice about consequences for a conviction for a sex
+
+10
+
+offense, the loss of professional licensing or future
+
+11
+
+employment opportunities, civil liability, tax
+
+12
+
+liability, right to vote, right to bear arms.
+
+13
+
+Are they all in the same category?
+
+14
+
+you -- do you draw a line some place?
+
+15
+
+MR. KINNAIRD:
+
+Or do
+
+Your Honor, our principal
+
+16
+
+position is that the Court should not draw lines, that
+
+17
+
+that's the whole purpose of Strickland.
+
+18
+
+I would say, in the vast majority of cases,
+
+19
+
+for example, with the right to vote, the chances that
+
+20
+
+that’s going to be material to a plea decision by a
+
+21
+
+defendant, especially one facing significant
+
+22
+
+incarceration, are probably almost nil, but this should
+
+23
+
+be left to the -- to the traditional Strickland inquiry
+
+24
+
+on a case-by-case basis.
+
+25
+
+Thank you.
+
+54
+Alderson Reporting Company
+
+Official
+
+1
+
+CHIEF JUSTICE ROBERTS:
+
+Thank you, counsel.
+
+2
+
+The case is submitted.
+
+3
+
+(Whereupon, at 11:05 a.m., the case in the
+
+4
+
+above-entitled matter was submitted.)
+
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+55
+Alderson Reporting Company
+
+Official
+Page 56
+
+A
+ABA 46:20
+abandon 27:13
+abandoned
+27:16
+ability 23:19
+able 10:8 23:17
+25:11 37:13
+abolition 51:25
+above-entitled
+1:11 55:4
+absolute 40:18
+absolutely 44:1
+47:5
+abuse 45:9
+accept 9:19
+14:21 15:19
+34:10
+acceptance 15:9
+accepted 12:4
+12:19
+accepting 12:6
+accepts 9:9,12
+15:14
+account 10:5
+32:7
+accurate 37:5
+accused 9:9
+act 21:3,3
+action 16:4 46:9
+actual 17:24
+51:18
+add 13:5,7 37:15
+addition 13:7
+additional 23:11
+address 32:10
+42:4,11
+addressed 37:20
+adjudicated
+53:12
+admission 50:15
+adopt 28:16,23
+31:20
+adopted 25:20
+34:17
+advantages 8:22
+
+adversary 21:14
+36:22
+adversary's 36:4
+advice 3:16,22
+3:23,24 4:1,2,6
+7:6,13,15 13:1
+15:25 17:2,6
+21:25 22:10
+23:16 26:7
+28:25 29:13,21
+30:6,18,19,24
+31:8,9,14 33:7
+33:15 35:4,5
+35:13 37:5,6
+40:1,5,8 43:18
+44:6 45:13
+46:25 47:15,16
+51:11 54:8,9
+advise 7:25 9:2
+9:16,22 14:14
+16:9 20:19
+21:7 24:1
+26:14 27:19
+31:18 32:17
+36:24 37:10,23
+41:13 42:23
+48:17
+advised 12:17
+12:22 13:9,10
+14:9
+advisement
+14:14 52:1
+advises 14:21
+advising 23:11
+41:7
+affect 7:9 49:16
+affirmance 1:20
+2:7 20:14
+affirmative 21:3
+21:8,10 22:2
+23:3,7 25:20
+26:16 42:14
+43:19
+age 28:4
+agency 46:5
+aggravated
+
+47:23,24 48:5
+ago 11:21
+agree 27:6 48:13
+52:11
+agreeing 15:23
+agrees 41:19
+aid 48:12
+alien 14:12 26:4
+30:3 32:6 48:5
+aliens 23:23
+Alito 4:18 5:1,8
+5:11,17 10:12
+11:9 29:15
+30:9 32:10,21
+32:23 43:16
+54:3,5
+allege 50:10
+alleged 46:19
+allowed 6:22
+alternative 20:3
+amend 32:4
+amendment
+3:12,14,21,25
+5:16 8:19
+20:22 21:13,15
+22:24 27:17,18
+28:25 30:10,13
+31:20 32:2
+36:19 41:16
+44:11 47:4,17
+48:10,10 50:24
+52:5
+amicus 1:19 2:6
+20:13
+amount 45:3,5
+announced 3:11
+answer 11:14
+15:2 38:12
+53:4
+answered 13:8
+answering 39:17
+anyway 33:22
+apologize 46:12
+apparent 38:5
+50:7
+appeal 10:13
+
+Appeals 19:12
+appear 35:11
+APPEARAN...
+1:14
+appears 21:14
+applied 49:4
+applies 6:13,21
+20:1 51:7
+apply 14:24 43:4
+52:25
+appointed 30:5
+apprise 5:9 14:6
+approach 27:14
+27:16
+appropriate
+36:19
+approximately
+37:15
+area 31:13 32:11
+argument 1:12
+2:2,10 3:4,7
+8:16 10:12
+20:12 34:23
+36:4 41:22
+49:10 51:3
+54:6
+arises 11:23
+arising 20:1
+arms 46:7 54:12
+articulation
+35:21
+aside 31:6,23
+asked 18:9,18
+23:22 28:16,23
+39:13 43:3
+asking 29:1
+38:15 50:22
+asks 53:5,25
+aspects 21:16
+31:15,16
+aspirational
+46:22
+assess 8:22 9:16
+assistance 11:3
+25:12 40:21
+43:5
+
+Alderson Reporting Company
+
+Assistant 1:21
+assume 16:16
+17:6 22:19
+24:23 25:3,19
+30:15 41:19
+assuming 40:2
+assumption 14:8
+51:11
+attach 16:5,6
+attacks 11:4
+attention 31:17
+attorney 1:21
+3:16 5:8 10:19
+11:13,16,21
+29:19,20 32:24
+33:2 37:2
+43:21 44:2
+48:15
+attorneys 14:5
+35:6 41:16
+43:20 47:13
+attorney's 15:25
+attorney-client
+47:19
+authority 13:18
+automatically
+46:8
+averted 16:8
+avoid 34:11
+39:16
+avoided 47:11
+aware 4:23
+14:18 52:23
+53:1
+a.m 1:13 3:2
+55:3
+B
+B 1:15 2:3,11
+3:7 51:3
+back 19:12 28:4
+28:7,15 34:12
+38:6
+backdrop 24:6
+bad 22:11 30:7
+40:5
+based 4:5,25
+
+Official
+Page 57
+
+29:21 43:5
+basis 33:17
+54:24
+basket 24:17
+bear 8:7 46:7
+54:12
+behalf 1:15,18
+1:22 2:4,6,9,12
+3:8 20:13
+34:24 51:4
+behave 39:16
+believe 16:8,20
+33:6 40:24
+42:10 45:14
+46:18 47:10
+49:10
+belongs 23:14
+24:10
+beneficial 14:5
+benefit 34:10
+best 33:10 37:20
+45:6 53:8
+better 27:8
+37:20
+beyond 10:9
+17:17 24:4
+big 25:7
+billion 27:5
+bit 40:24 50:6
+blindness 17:24
+bones 50:12
+box 7:3
+boxes 18:2,2,18
+Brady 14:7 35:8
+42:13 44:10,20
+44:25 51:10
+Breyer 26:18
+27:15,21 28:18
+28:19,21 29:1
+29:8 37:24
+38:10,14,22
+39:1,10,21
+40:14 46:24
+47:2
+brief 46:21
+50:12
+
+briefly 50:5
+bring 20:2
+bringing 11:5
+broad 6:17
+46:17
+broader 22:3
+52:25 53:18
+brought 11:2,4
+brown 18:2
+burden 35:16
+burdened 52:24
+burdensome
+6:24
+business 16:23
+busy 10:20
+
+42:4,10 44:18
+44:20 45:3
+54:18
+case-by-case
+29:11 54:24
+categorical 3:12
+categorically
+11:7
+category 54:8,13
+cause 7:7 25:9
+26:5 28:14
+caveat 18:12
+certain 45:3,5
+47:22
+certainly 6:6
+7:18 10:2
+C
+11:24 21:9
+C 2:1 3:1
+22:22 25:16
+cab 18:4,5
+31:25 51:16,22
+calculus 37:4,7
+challenges 43:4
+call 19:2
+chances 50:18
+capacity 32:1
+54:19
+cardboard 18:2 change 37:4,7
+care 23:6 25:6
+changes 42:16
+careful 13:5
+charge 29:4 48:6
+14:2 28:7
+charged 38:2
+case 3:4 7:19 8:9 charges 22:1
+8:17 9:21 10:9 charging 18:13
+10:23 11:8,12 chewing 28:3
+13:6 14:20
+Chief 3:3,9 4:1
+17:21,22 18:16
+4:11 12:3
+18:23 19:1,5
+14:23 15:17
+19:17,17,18
+18:3,21,25
+21:12,17,24
+19:14 20:10,15
+22:5 25:23
+21:1 22:7,15
+28:19,19 29:3
+22:23,25 23:1
+29:3,5,5,6,14
+23:5 24:22
+29:18 31:15,16
+25:3,18 26:1
+32:5 33:24
+32:22 34:20,25
+36:5 38:1 39:2
+46:23 50:25
+39:13 40:16
+53:3,14,23
+42:24 47:21
+55:1
+48:8 55:2,3
+child 27:19
+cases 6:21 10:21
+48:18
+10:24 20:1
+children 7:8
+26:3,19,20
+24:14 25:5,7
+28:20 35:10
+
+49:19 50:20
+choice 36:15
+choices 36:7
+chooses 23:22
+circuit 5:15
+42:25
+circuits 26:13,15
+32:17 43:11
+44:9
+circumstances
+14:19 15:1
+26:21 27:6
+47:2
+citizens 49:16,17
+50:1,1
+civil 8:3 9:3 16:6
+54:11
+claim 5:13 6:22
+9:14 11:1,8,10
+17:5 20:18,22
+25:12 26:17
+34:4,5 44:12
+53:15,19
+claims 3:20 5:23
+6:14 7:25
+10:17 11:3,6
+11:23 19:10
+52:21
+clarify 54:6
+class 49:25
+classic 45:16
+classified 47:23
+Clause 13:25
+CLE 44:3
+clear 54:5
+clearly 28:11
+client 5:9 9:9,16
+10:14 11:21
+16:1,2,3 20:19
+23:12 29:22
+30:1 31:3 33:5
+37:24 39:12
+42:23 46:25
+48:4 49:24
+53:24
+clients 14:6
+
+Alderson Reporting Company
+
+client's 4:16
+coerced 41:21
+cognizable 3:20
+collateral 4:3
+6:19 8:14 11:4
+13:11 16:16
+20:19,24 22:9
+22:17,18 23:6
+23:23 25:14
+26:14,16 29:13
+31:21 32:11,18
+32:19 33:19,20
+41:10 42:3,22
+43:1,2,7 45:12
+45:16,17,23
+46:9 47:6,10
+48:18,21 49:1
+49:9,16,23
+50:3 51:7,14
+colloquy 12:5,7
+15:22 16:14
+22:4 51:20
+come 15:3 42:13
+47:19
+comes 36:7
+37:24
+commercial
+18:1
+commission
+13:18
+committee 32:3
+common 45:25
+Commonwealth
+48:16
+Commonweal...
+36:23
+competence
+29:12 35:5
+competency
+3:25 17:9 52:4
+competent 9:19
+9:25 31:8,10
+41:2 43:18
+51:11 54:2
+competently
+9:15,15 14:9
+
+

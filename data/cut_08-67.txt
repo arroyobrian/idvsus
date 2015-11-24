@@ -1,0 +1,6009 @@
+Official - Subject to Final Review
+
+1
+
+P R O C E E D I N G S
+
+2
+
+(10:06 a.m.)
+
+3
+4
+
+CHIEF JUSTICE ROBERTS:
+
+We will hear
+
+argument today in Yeager v. United States.
+
+5
+
+Mr. Buffone.
+
+6
+
+ORAL ARGUMENT OF SAMUEL J. BUFFONE
+
+7
+
+ON BEHALF OF THE PETITIONER
+
+8
+9
+
+MR. BUFFONE:
+
+Mr. Chief Justice, and may it
+
+please the Court:
+
+10
+
+When a jury's acquittal resolves an issue in
+
+11
+
+a defendant's favor, that determination is final and the
+
+12
+
+government may not seek an inconsistent determination of
+
+13
+
+that issue from a second jury.
+
+14
+
+counts are not verdicts.
+
+15
+
+therefore a hung count cannot be inconsistent with an
+
+16
+
+acquittal.
+
+17
+
+Court's decision in Ashe v. Swenson is all that is
+
+18
+
+called for in this case.
+
+19
+
+Unlike acquittals, hung
+
+They decide nothing, and
+
+A straightforward application of this
+
+A new rule is not necessary.
+
+JUSTICE SOUTER:
+
+Mr. Buffone, may I raise
+
+20
+
+one preliminary issue?
+
+And it's an issue which is -
+
+21
+
+does not go to the reason we took the case, but I'd like
+
+22
+
+your response to it.
+
+23
+
+Swenson argument, assumes, as you have said in the
+
+24
+
+brief, that the -- that the verdicts of acquittal
+
+25
+
+essentially determined that your client did not possess
+
+Your argument, your Ashe v.
+
+3
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+insider knowledge, and I question whether the verdicts
+
+2
+
+of acquittal did necessarily establish that fact.
+
+3
+
+looked at the -- at the jury instructions, and I will be
+
+4
+
+candid to say I did not parse the whole jury
+
+5
+
+instruction, so you may very well correct me in the
+
+6
+
+assumption that I'm going to make.
+
+7
+
+-- of the jury instruction that seemed to go to your
+
+8
+
+argument is set out on page 105 of the Joint Appendix,
+
+9
+
+and the judge is telling the jurists what they had to
+
+I've
+
+But the point of the
+
+10
+
+find.
+
+11
+
+untrue statement of a material fact or omitted to state
+
+12
+
+a material fact necessary in order to make the
+
+13
+
+statements made, in the light of the circumstances under
+
+14
+
+which they were made, not misleading as charged.
+
+15
+
+And one of them was that your client made any
+
+It seems to me that the jury under that
+
+16
+
+instruction could have come back with a verdict of
+
+17
+
+acquittal simply on the assumption that your client had
+
+18
+
+not made affirmative statements at the -- at the meeting
+
+19
+
+in question, therefore he had no obligation to correct
+
+20
+
+any statements, because it is not clear from this
+
+21
+
+instruction that he had to correction the statements of
+
+22
+
+other people who omitted material facts, and that
+
+23
+
+therefore the only thing that the verdict proves or the
+
+24
+
+only thing that the verdict may have assumed is that he
+
+25
+
+didn't speak up and say anything.
+4
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+Is that a possible analysis?
+
+2
+
+MR. BUFFONE:
+
+I do not believe so, Your
+
+3
+
+Honor, for two reasons.
+
+First, under the Ashe test as
+
+4
+
+interpreted by this Court in Dowling, the record as a
+
+5
+
+whole must be analyzed.
+
+6
+
+at admissions made by the defendant's attorney during
+
+7
+
+the course of the second proceeding that identification
+
+8
+
+of his client was not an issue.
+
+9
+
+at the entirety of the record, in its arguments closing
+
+And in Dowling the Court looked
+
+Similarly here, looking
+
+10
+
+and opening, and most importantly in its
+
+11
+
+cross-examination of Mr. Yeager, the government made
+
+12
+
+clear to the jury its theory of omissions.
+
+13
+
+theory of omission was that Mr. Yeager when he was at
+
+14
+
+the 2000 Analysts Conference had a duty to stand up and
+
+15
+
+correct omissions if there were any misstatements made
+
+16
+
+by others.
+
+17
+
+guilty of omissions if he did not affirmatively correct
+
+18
+
+it.
+
+19
+
+And that
+
+They argued to the jury that he would be
+
+JUSTICE SOUTER:
+
+No, no, I agree that did
+
+20
+
+seem to be the point of the cross-examination, and in
+
+21
+
+fact I guess you set it out in one of the briefs.
+
+22
+
+is that enough?
+
+23
+
+that is enough to convert or, let's say, to -- for us to
+
+24
+
+assume, despite a more protean jury instruction, that
+
+25
+
+the jury necessarily had to find a fact.
+
+But
+
+To my knowledge, we've never held that
+
+5
+
+Alderson Reporting Company
+
+And I guess
+
+Official - Subject to Final Review
+
+1
+
+maybe my question boils down to is:
+
+Why should what
+
+2
+
+perhaps consumed 60 or 80 seconds of cross-examination
+
+3
+
+suffice to tighten up a jury instruction which -- which
+
+4
+
+basically is open-ended?
+
+5
+
+MR. BUFFONE:
+
+Well, Your Honor, first there
+
+6
+
+was more to the trial record than a snippet of
+
+7
+
+cross-examination.
+
+8
+
+government began by arguing to the jury that Mr. Yeager
+
+9
+
+was the man behind the screen, that he was -
+
+10
+
+Again, in opening statement the
+
+JUSTICE ALITO:
+
+That's the government's -
+
+11
+
+that's the government's argument.
+
+12
+
+convict for securities fraud based on an omission, isn't
+
+13
+
+it necessary for there to be a duty to disclose?
+
+14
+
+what would prevent -- how can we be sure that the jury
+
+15
+
+here did not find that there was no securities fraud
+
+16
+
+because, insofar as the government was proceeding on an
+
+17
+
+omissions theory, your client didn't have a duty to
+
+18
+
+disclose, did not cause a material fact to be omitted.
+
+19
+
+MR. BUFFONE:
+
+And in order to
+
+And
+
+Your Honor, first, the
+
+20
+
+instructions permitted alternative ways to reach the
+
+21
+
+first element of securities fraud, and one of the three
+
+22
+
+alternatives was either misstatements or omissions.
+
+23
+
+I think the instruction, for all of its frailty, was
+
+24
+
+clear that the jury could convict on an omissions
+
+25
+
+theory.
+
+Now, Your Honor's question 6
+
+Alderson Reporting Company
+
+And
+
+Official - Subject to Final Review
+
+1
+
+JUSTICE ALITO:
+
+I agree with that, but why
+
+2
+
+couldn't they find that there was no securities fraud
+
+3
+
+based on an omissions theory because there wasn't any
+
+4
+
+duty on Mr. Yeager's part to disclose?
+
+5
+
+MR. BUFFONE:
+
+Your Honor, the indictment was
+
+6
+
+an integrated theory of fraud, that it charged that Mr.
+
+7
+
+Yeager and others had planned to make misrepresentations
+
+8
+
+and material omissions for one purpose, and that purpose
+
+9
+
+was to enhance the price of Enron stock so that they
+
+10
+
+could later engage in insider trading to sell that
+
+11
+
+stock.
+
+12
+
+indictment.
+
+13
+
+it was clarified so that there could be no uncertainty
+
+14
+
+by the cross-examination and arguments of counsel.
+
+15
+
+The omissions theory was grounded in the
+It was elucidated by the instructions, and
+
+This jury -- under an Ashe analysis, the
+
+16
+
+question is what did this jury believe and what did they
+
+17
+
+rationally decide?
+
+18
+
+JUSTICE GINSBURG:
+
+But Ashe is quite a
+
+19
+
+different case.
+
+20
+
+one event, a robbery.
+
+21
+
+number one, the charge relating to victim number one,
+
+22
+
+was an acquittal.
+
+23
+
+defendant was not among the robbers.
+
+24
+
+different situation from what we have here.
+
+25
+
+Ashe is a seriatim prosecution.
+There were six victims.
+
+It was
+Victim
+
+That necessarily decided that the
+
+MR. BUFFONE:
+
+So that is quite a
+
+Justice Ginsburg, first, it is
+7
+
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+my belief that seriatim prosecutions raise no greater
+
+2
+
+threat to the core values of double jeopardy than was
+
+3
+
+raised here.
+
+4
+
+finality of acquittals; and the acquittal here was
+
+5
+
+offended by any effort to retry an issue of fact
+
+6
+
+necessarily decided.
+
+Those core values are, first of all, the
+
+7
+
+JUSTICE GINSBURG:
+
+You're not contending
+
+8
+
+that double jeopardy itself was at issue?
+
+9
+
+words, claim preclusion.
+
+In other
+
+There would be no claim
+
+10
+
+preclusion, so we're talking only about issue
+
+11
+
+preclusion?
+
+12
+13
+14
+15
+16
+
+MR. BUFFONE:
+
+Yes, Your Honor, I would like
+
+to JUSTICE GINSBURG:
+
+That means it was
+
+necessarily, the issue was necessarily decided?
+MR. BUFFONE:
+
+That's correct, Your Honor.
+
+17
+
+We do not argue claim preclusion here.
+
+18
+
+issue preclusion or previously known as collateral
+
+19
+
+estoppel before clarification by this Court.
+
+20
+
+Our argue is
+
+Your Honor, to the question of seriatim
+
+21
+
+prosecution, again, although Ashe was in a sense a
+
+22
+
+seriatim prosecution, in all of the Ashe-type cases
+
+23
+
+decided by this Court jeopardy had not even attached,
+
+24
+
+let alone terminated.
+
+25
+
+The issue we believe should be addressed in
+8
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+terms of what was the finality of the judgment.
+
+2
+
+finality of the judgment here were six acquittals.
+
+3
+
+Those acquittals were final and were not subject to
+
+4
+
+redetermination.
+
+5
+
+from the jury's acquittals, not from the hung counts,
+
+6
+
+the hung counts which were not final and which resolved
+
+7
+
+nothing.
+
+8
+9
+10
+
+The
+
+The issue preclusive effect arises
+
+JUSTICE GINSBURG:
+
+So the hung counts are
+
+equivalent, equivalent to an acquittal?
+MR. BUFFONE:
+
+No, Your Honor, I think
+
+11
+
+precisely the opposite.
+
+12
+
+force of an acquittal.
+
+13
+
+Court has historically recognized as the powerful way
+
+14
+
+that a jury speaks when it acquits in cases such as
+
+15
+
+Martin Linen, where the court recognized that.
+
+16
+
+counts historically, as we set out in our brief, were
+
+17
+
+not even accepted at common law as an option for a jury.
+
+18
+
+Hung counts have none of the
+They have none of what this
+
+JUSTICE SCALIA:
+
+The hung
+
+But we said -- we said in
+
+19
+
+Ashe, didn't we, that you should take into account all
+
+20
+
+the circumstances in determining what was decided in the
+
+21
+
+first acquittal, all the circumstances.
+
+22
+
+can you close your eyes to the circumstance that is
+
+23
+
+alleged here, that the -- the hung jury portion of the
+
+24
+
+jury's verdict is simply inconsistent with the acquittal
+
+25
+
+portion, and therefore you should not count the
+9
+
+Alderson Reporting Company
+
+How can -- how
+
+Official - Subject to Final Review
+
+1
+
+acquittal for double jeopardy purposes?
+
+2
+
+of the total circumstances?
+
+3
+
+MR. BUFFONE:
+
+Isn't this part
+
+Justice Scalia, first, we
+
+4
+
+believe that the -- I believe that the Ashe test relates
+
+5
+
+to the total circumstances on the record.
+
+6
+
+from the record that the Court can derive meaning from?
+
+7
+
+The Court can derive meaning from all that was presented
+
+8
+
+to the jury, and from all that the jury decided.
+
+9
+
+hung counts, the jury did not speak with the unanimity
+
+What is it
+
+In its
+
+10
+
+and the finality that it did in its acquittals.
+
+11
+
+Court, speaking through -- in both the majority and the
+
+12
+
+concurring opinions, dissenting opinions in Sattazahn,
+
+13
+
+recognized, hung counts speak nothing.
+
+14
+
+JUSTICE KENNEDY:
+
+As this
+
+But in a sense that's
+
+15
+
+Justice Scalia's point, that the jury has in effect told
+
+16
+
+us nothing, and in effect that argument hurts your case
+
+17
+
+in one sense.
+
+18
+
+Hung counts are meaningless.
+
+MR. BUFFONE:
+
+Justice Kennedy, I agree that
+
+19
+
+the hung counts are meaningless and that is my point,
+
+20
+
+but I believe that it does further our analysis and the
+
+21
+
+proper analysis that this Court should engage in.
+
+22
+
+that is, do the acquittals have finality, and is there
+
+23
+
+anything inconsistent with the jury's inability to reach
+
+24
+
+a determination with the finality of its acquittals?
+
+25
+
+The jury did not speak unanimously in its acquittals.
+10
+Alderson Reporting Company
+
+And
+
+Official - Subject to Final Review
+
+1
+
+There is no record way to determine why they failed to
+
+2
+
+reach a determination, and they are therefore not
+
+3
+
+inconsistent with the final determination -
+
+4
+
+JUSTICE SCALIA:
+
+It shows -- it shows that
+
+5
+
+-- that the point on which they -- you assert they were
+
+6
+
+unanimous and the point on which you say later
+
+7
+
+prosecution should be disallowed was in fact a point on
+
+8
+
+which the jury was confused, because they would have
+
+9
+
+come out the other way if indeed they were unanimous on
+
+10
+
+the counts that -- that acquitted.
+
+11
+
+come out the same way on the -- on the hung counts.
+
+12
+
+MR. BUFFONE:
+
+They should have
+
+Your Honor, we simply don't
+
+13
+
+know that.
+
+14
+
+for any number of reasons.
+
+15
+
+it's quite possible that the reason that the jury failed
+
+16
+
+to reach a verdict was that it had 176 counts before it;
+
+17
+
+that the jury, as set out in our reply brief, had made
+
+18
+
+known to the district court that it was under severe
+
+19
+
+financial stress.
+
+20
+
+over so that they could get back to their full-time
+
+21
+
+employment, and one of the jurors actually asked to be
+
+22
+
+removed from the jury because of that financial
+
+23
+
+distress.
+
+24
+25
+
+The jury may have failed to reach a verdict
+On the basis of this record,
+
+The jurors wanted the trial to be
+
+In the face of that, the court gave a very
+unusual Allen charge; that after the jury had sent out a
+11
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+note saying that they were deadlocked, the court issued
+
+2
+
+an Allen charge and 70 minutes later discharged the
+
+3
+
+jury.
+
+4
+
+will never know why this jury -
+
+It -- the -- the point, Your Honor, is that we
+
+5
+
+JUSTICE SCALIA:
+
+The point is that they were
+
+6
+
+deadlocked and would not have been deadlocked, assuming
+
+7
+
+we don't inquire into -- into the issue that Justice
+
+8
+
+Souter raised -- they were deadlocked and would not have
+
+9
+
+been deadlocked if indeed they made the -- the acquittal
+
+10
+
+finding that you're relying upon for double jeopardy.
+
+11
+
+MR. BUFFONE:
+
+Your Honor, we know that they
+
+12
+
+acquitted.
+
+13
+
+those acquittals.
+
+14
+
+subject to question again.
+
+15
+
+appeal, and they cannot be subject to overturning, even
+
+16
+
+if they are egregiously erroneous.
+
+17
+
+That is a certainty.
+
+We have finality to
+
+They were unanimous and are not
+They cannot be subject to
+
+When we lay next to that the hung counts and
+
+18
+
+the way that hung counts have historically been looked
+
+19
+
+at, first not tolerated by courts:
+
+20
+
+applied depriving jurors of food and drink and heat in
+
+21
+
+cold climates until they reached a verdict; contemporary
+
+22
+
+law where we permit Allen charges in a quest for
+
+23
+
+unanimity to, wherever possible, have a jury speak its
+
+24
+
+will.
+
+25
+
+and the firm precedent of this Court, an inability to
+
+Coercive means
+
+We cannot equate, in the light of that history
+
+12
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+reach a decision with the finality and persuasion of an
+
+2
+
+acquittal.
+
+3
+
+CHIEF JUSTICE ROBERTS:
+
+Counsel, if Powell
+
+4
+
+extends to subsequent prosecutions -- I know you argue
+
+5
+
+that it doesn't, but if it does, isn't it unusual that
+
+6
+
+the defendant is in better shape if a jury hangs on the
+
+7
+
+non-acquitted count than if he is convicted on the non
+
+8
+
+acquitted count?
+
+9
+
+MR. BUFFONE:
+
+Well, Your Honor, that's a -
+
+10
+
+a two-edged sword, Mr. Chief Justice.
+
+11
+
+on the opposite horns of that dilemma.
+
+12
+
+are not joined, then the effect of the acquittal would
+
+13
+
+be to bar them by res judicata.
+
+14
+
+the other side of that fence.
+
+15
+
+recognized, whose ox is being gored in Powell by either
+
+16
+
+the acquittals or the convictions.
+
+17
+
+of whose ox is being gored by the joinder, and it should
+
+18
+
+not be dispositive.
+
+19
+
+apply to counts within an indictment just as res
+
+20
+
+judicata would apply if they were separated.
+
+21
+
+The defendant is
+If the counts
+
+So by joinder, he's on
+It's, as this Court
+
+Well, this is a case
+
+Collateral estoppel effect should
+
+JUSTICE BREYER:
+
+It's an obvious question, I
+
+22
+
+guess.
+
+I would just like to hear your answer directly.
+
+23
+
+Case 1, count 1, selling drugs; count 2, using the
+
+24
+
+telephone to sell the drugs.
+
+25
+
+acquits of the first, convicts of the second.
+
+All right?
+
+13
+Alderson Reporting Company
+
+The jury
+Logically
+
+Official - Subject to Final Review
+
+1
+
+impossible, but permitted under the law, right?
+
+2
+3
+
+MR. BUFFONE:
+
+I agree, Your Honor.
+
+Under
+
+Powell -
+
+4
+
+JUSTICE BREYER:
+
+5
+
+MR. BUFFONE:
+
+Okay.
+
+Case 2 -
+
+-- there is no question.
+
+We
+
+6
+
+have conflicting verdicts, and we are not going to try
+
+7
+
+to determine what the -
+
+8
+9
+
+JUSTICE BREYER:
+illogical.
+
+Okay.
+
+Absolutely
+
+Case 2, there is no count 1.
+
+10
+
+telephone count, hung jury; we retry it.
+
+11
+
+right?
+
+12
+13
+
+MR. BUFFONE:
+
+Now, Your Honor, that would
+
+JUSTICE BREYER:
+
+All that happened was that
+
+they hung.
+
+16
+17
+
+Permitted,
+
+depend on what happened at the trial.
+
+14
+15
+
+Case 2,
+
+MR. BUFFONE:
+
+Well, if they hung, Your
+
+Honor, yes.
+
+18
+
+JUSTICE BREYER:
+
+Okay.
+
+Case 2, hung jury,
+
+19
+
+telephone count; we retry it.
+
+20
+
+it when we put them together and, case 3, count 1,
+
+21
+
+substantive drugs, acquitted; count 2, telephone, hung
+
+22
+
+jury.
+
+23
+
+telephone count.
+
+24
+
+telephone count now?
+
+25
+
+All right.
+
+So now why is
+
+Well, in case 2 we could get a retrial of the
+Why can't we get a retrial of the
+
+MR. BUFFONE:
+
+Your Honor, it would depend.
+14
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+JUSTICE BREYER:
+
+All that happened is they
+
+2
+
+are retrying it just as they did in case 2.
+
+3
+
+the presence of count 1 there mean that they can't retry
+
+4
+
+it?
+
+5
+
+MR. BUFFONE:
+
+Why does
+
+Your Honor, the presence of
+
+6
+
+count 1 in your hypothetical is not dispositive.
+
+7
+
+acquittal on count 1 says -
+
+8
+
+JUSTICE BREYER:
+
+9
+10
+
+I -- I'm going too fast
+
+because you didn't take the cases in.
+repeat them?
+
+11
+
+An
+
+Do you want me to
+
+Maybe it's too complicated.
+
+I'm just saying case 1, count 1, the
+
+12
+
+substantive count, conviction.
+
+13
+
+count, acquittal.
+
+14
+
+Case 2 is only the telephone.
+
+15
+
+him for.
+
+16
+
+you, retry him?
+
+On count 2, telephone
+
+Everybody agrees that's permissible.
+That's all they indicted
+
+And if they have a hung jury, you can, can't
+
+17
+
+MR. BUFFONE:
+
+Yes, sir.
+
+18
+
+JUSTICE BREYER:
+
+So, now, when we have case
+
+19
+
+3, which is the same as case 1 except that, instead of
+
+20
+
+convicting him, they had a hung jury, why can't you
+
+21
+
+retry him, just as you could in case 2?
+
+22
+23
+24
+25
+
+MR. BUFFONE:
+nothing, Your Honor.
+
+Because a hung jury resolves
+
+It doesn't -
+
+JUSTICE BREYER:
+
+Oh, everybody agrees it
+
+resolves nothing, and that's why you could retry him in
+15
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+-- that's why you could retry him in case 2, because it
+
+2
+
+resolves nothing.
+
+3
+
+why can't you retry him in case 3?
+
+4
+
+presence of this other substantive count have to do with
+
+5
+
+it.
+
+6
+
+count 2, why does it stop you from retrying count 2?
+
+9
+
+What does the
+
+Since it never would have blocked the conviction on
+
+7
+8
+
+So if you could retry him in case 2,
+
+It would never have blocked the conviction
+of count 2.
+
+Why does it stop you from retrying it?
+Do you see -- do you see my -
+
+10
+
+MR. BUFFONE:
+
+Yes, Your Honor.
+
+11
+
+JUSTICE BREYER:
+
+That's the logical point I
+
+12
+
+thought the other side was making, and maybe they're not
+
+13
+
+because it seems to be striking you as surprising or
+
+14
+
+maybe I'm not making it in a clear way.
+
+15
+
+wanted was a clear answer to it.
+
+16
+
+MR. BUFFONE:
+
+But what I
+
+Your Honor, I believe the -
+
+17
+
+the clear answer is that for collateral estoppel to
+
+18
+
+attach, there must be a necessary determination of a
+
+19
+
+factual issue, and the necessary determination of that
+
+20
+
+factual issue can occur in your count 1 through an
+
+21
+
+acquittal or a conviction.
+
+22
+
+hung count because there is nothing to be resolved.
+
+23
+
+There is nothing that would be necessarily decided.
+
+24
+25
+
+It cannot occur through a
+
+JUSTICE SOUTER:
+
+Mr. Buffone, you're -
+
+you're going through a logical analysis.
+16
+Alderson Reporting Company
+
+If I
+
+Official - Subject to Final Review
+
+1
+
+understand your position, the logical analysis is not
+
+2
+
+going to win the case for you because, as I understand
+
+3
+
+the case that we've got in front of us, we have in
+
+4
+
+effect two lines of authority, two models, that describe
+
+5
+
+what the law might be in these circumstances.
+
+6
+
+One model, on -- on the assumption that -- that the
+
+7
+
+acquittals determined what you say they did, on that
+
+8
+
+model there -- there is -- there is an issue preclusion
+
+9
+
+that is raised.
+
+10
+
+On the second model, the model of what we do
+
+11
+
+in the case of a hung jury, there is no -- of course, no
+
+12
+
+preclusion, and there is no bar to a retrial.
+
+13
+
+simply got both in the same case.
+
+14
+
+Which model do we follow?
+
+15
+
+most important issue here, or do we say the
+
+16
+
+open-endedness and uncertainty of the hung jury, the -
+
+17
+
+the failure to reach a verdict, is the model that -
+
+18
+
+that tells us what we ought to do?
+
+19
+
+between those two possibilities, each of which is open
+
+20
+
+to us?
+
+21
+
+MR. BUFFONE:
+
+And we've
+
+The question is:
+
+Do we say preclusion is the
+
+How do we choose
+
+Yes, Your Honor, I believe
+
+22
+
+that that is a clear choice, and the rationale for the
+
+23
+
+clarity of that choice is that acquittals have long been
+
+24
+
+recognized as being important for finality purposes for
+
+25
+
+double jeopardy law.
+
+So, for example 17
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+JUSTICE SOUTER:
+
+Look, I know that, and -
+
+2
+
+and by the same token, hung juries have long been
+
+3
+
+recognized as raising no bar to a further trial.
+
+4
+
+the question is:
+
+5
+
+acquittal case predominating, as you say they are, over
+
+6
+
+the values of the retrial possibilities?
+
+7
+
+choose one rather than another?
+
+8
+9
+
+And
+
+Why are the values in the -- the
+
+MR. BUFFONE:
+
+Why do I
+
+Yes, Your Honor.
+
+The -- the
+
+Perez line that tells us that when there is manifest
+
+10
+
+necessity arising from a jury not reaching a verdict,
+
+11
+
+that retrial is appropriate following a hung count.
+
+12
+
+That line of cases stands in -- as I believe is the
+
+13
+
+basis of Your Honor's question, stands in sharp contrast
+
+14
+
+to the line of cases that require that jury acquittals
+
+15
+
+be given final effect, cases like Foo Fong -- Fong Foo,
+
+16
+
+excuse me.
+
+17
+
+JUSTICE SOUTER:
+
+18
+
+MR. BUFFONE:
+
+19
+
+JUSTICE SOUTER:
+
+We have got both.
+
+All right, so what What -- what is it -- and I
+
+20
+
+would almost suggest THAT it has to be something outside
+
+21
+
+the lines of authority, because the issue here is which
+
+22
+
+line of authority are you going to pick.
+
+23
+
+outside the lines of authority that says we should -- we
+
+24
+
+should pick the acquittal model rather than the hung
+
+25
+
+jury model to determine what to do here?
+18
+Alderson Reporting Company
+
+What is it
+
+Official - Subject to Final Review
+
+1
+
+MR. BUFFONE:
+
+Your Honor, I think we should
+
+2
+
+go -- the Court should go to the history of its double
+
+3
+
+jeopardy jurisprudence, and that makes clear that the
+
+4
+
+core concepts underlying the Double Jeopardy Clause are:
+
+5
+
+First finality of jury verdicts; and, second, to avoid
+
+6
+
+all of the constitutional perils of successive trials,
+
+7
+
+because successive trials -
+
+8
+
+JUSTICE ALITO:
+
+Can I ask you this about the
+
+9
+
+finality of jury verdicts?
+
+Is -- does the Constitution
+
+10
+
+require either Federal or State law to permit the -- a
+
+11
+
+partial verdict?
+
+12
+
+MR. BUFFONE:
+
+Your Honor, I do not believe
+
+13
+
+that -- I am not aware of a constitutional underpinning
+
+14
+
+for that, but certainly the practices in the courts are
+
+15
+
+to permit partial verdicts.
+
+16
+
+JUSTICE ALITO:
+
+17
+
+MR. BUFFONE:
+
+18
+
+In every State?
+I do not know the answer to
+
+that question.
+
+19
+
+JUSTICE ALITO:
+
+Well, if the Constitution
+
+20
+
+doesn't require that, then why does the Constitution, in
+
+21
+
+your view, require that issue preclusion occur when the
+
+22
+
+jury acquits on certain counts but hangs on other
+
+23
+
+counts?
+
+24
+
+and if the jury came back and said, we -- we've reached
+
+25
+
+a verdict on some counts but not all counts, the remedy
+
+If -- if a partial verdict were not required,
+
+19
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+would be a mistrial on all counts and a retrial on all
+
+2
+
+counts.
+
+3
+
+Why -- why is it does the Constitution
+
+4
+
+require a different result if Federal law or State law
+
+5
+
+chooses to allow the return of a partial verdict?
+
+6
+
+MR. BUFFONE:
+
+Your Honor, I don't believe
+
+7
+
+that it would be a different result because I think in
+
+8
+
+most jurisdictions, as I understand it, the reaction to
+
+9
+
+that kind of a split verdict would be to try to get the
+
+10
+
+jury to reach a full and final verdict, to give some
+
+11
+
+form of an Allen charge to encourage additional
+
+12
+
+deliberations, to seek unanimity in the jury's verdict.
+
+13
+
+Where we don't have that unanimity, the Court is forced
+
+14
+
+for collateral estoppel, for issue preclusion purposes,
+
+15
+
+to Justice Ginsburg's point, not to claim preclusion
+
+16
+
+issues.
+
+17
+
+If we set aside claim preclusion, the Perez
+
+18
+
+line of cases tells us to do what we do with claim
+
+19
+
+preclusion.
+
+20
+
+there some finality to what the jury did, in your
+
+21
+
+hypothetical its partial verdict that speaks to the
+
+22
+
+counts that it was not able to resolve.
+
+23
+
+speaks, that after the Ashe analysis that there was an
+
+24
+
+issue necessarily decided, then there is a bar under the
+
+25
+
+doctrine of issue preclusion to the re-litigation of
+
+For issue preclusion, the question is, is
+
+20
+Alderson Reporting Company
+
+And if it
+
+Official - Subject to Final Review
+
+1
+
+that question.
+
+2
+
+If there are no further questions, I would
+
+3
+
+like to reserve the remainder of my time for rebuttal.
+
+4
+
+CHIEF JUSTICE ROBERTS:
+
+5
+
+Mr. Dreeben.
+
+6
+
+ORAL ARGUMENT OF MICHAEL R. DREEBEN
+
+7
+
+ON BEHALF OF THE RESPONDENT
+
+8
+9
+
+Thank you, counsel.
+
+MR. DREEBEN:
+
+Mr. Chief Justice, and may it
+
+please the Court:
+
+10
+
+Two separate lines of double jeopardy
+
+11
+
+analysis lead to the conclusion that the government can
+
+12
+
+retry hung counts that occur in a verdict simultaneously
+
+13
+
+with acquittals.
+
+14
+
+government may, under the doctrine of continuing
+
+15
+
+jeopardy, try to obtain a verdict when a jury is hung.
+
+16
+
+The basic principle there is that the government is
+
+17
+
+entitled to one full and fair opportunity to convict and
+
+18
+
+that the hung counts, when the jury cannot agree,
+
+19
+
+interrupt and prevent the government from achieving
+
+20
+
+that.
+
+21
+
+government from completing its opportunity to obtain a
+
+22
+
+verdict.
+
+23
+
+The first is the principle that the
+
+Double jeopardy therefore does not bar the
+
+The second doctrinal line is that which
+
+24
+
+grows out of the Powell case.
+
+Collateral estoppel is
+
+25
+
+premised on the idea that the jury has acted rationally.
+21
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+CHIEF JUSTICE ROBERTS:
+
+You are asking us
+
+2
+
+for a pretty dramatic extension of Powell.
+
+3
+
+not a case involving subsequent prosecutions.
+
+4
+
+MR. DREEBEN:
+
+No.
+
+Powell is
+
+Powell was a case in
+
+5
+
+which the Court rejected the doctrine of collateral
+
+6
+
+estoppel as a means of upsetting a mixed verdict of
+
+7
+
+acquittals and convictions.
+
+8
+9
+
+CHIEF JUSTICE ROBERTS:
+
+Well, that's because
+
+in the same proceeding you have two different jury
+
+10
+
+verdicts, one going the other way and one -- obviously,
+
+11
+
+one way and one the other way.
+
+12
+
+conclusions, you couldn't give effect to one without
+
+13
+
+undermining the other.
+
+14
+
+So to protect the jury's
+
+It's a very different case here.
+
+The only
+
+15
+
+jury determination you have is the acquittal.
+
+16
+
+give effect -- if you don't give effect to the findings
+
+17
+
+in the acquittal, you are undermining the jury, the only
+
+18
+
+determination by the jury.
+
+19
+
+MR. DREEBEN:
+
+If you
+
+Well, I don't think that it
+
+20
+
+undermines that determination, Mr. Chief Justice,
+
+21
+
+because the acquittals will stand as acquittals, and
+
+22
+
+they will bar reprosecution on that offense.
+
+23
+
+extent that there are determinations that are made by
+
+24
+
+the acquittals that are independent of any inconsistency
+
+25
+
+with the hung counts, that too can have collateral
+22
+Alderson Reporting Company
+
+To the
+
+Official - Subject to Final Review
+
+1
+
+estoppel effect in a successive prosecution.
+
+2
+
+But I think the crucial thing here is that
+
+3
+
+this is not properly viewed as a successive prosecution
+
+4
+
+for double jeopardy purposes.
+
+5
+
+cases -
+
+6
+7
+
+JUSTICE STEVENS:
+
+MR. DREEBEN:
+
+No, it is not in the sense, I
+
+JUSTICE STEVENS:
+
+It is in the sense of an
+
+indictment that took place after the other acquittal.
+
+12
+13
+
+It is a
+
+think, Justice Stevens that the Court used that in Ashe.
+
+10
+11
+
+Well, why not?
+
+successive prosecution.
+
+8
+9
+
+Ashe v. Swenson and the
+
+MR. DREEBEN:
+
+Well, that indictment simply
+
+embodies non-jeopardy-barred counts that -
+
+14
+
+JUSTICE STEVENS:
+
+Isn't there a difference
+
+15
+
+in the fact that in the first case where there was a
+
+16
+
+conflicting simultaneous verdict, one can explain the
+
+17
+
+acquittal on grounds of leniency or compromise or
+
+18
+
+something like that, that says that, therefore, we will
+
+19
+
+give effect to the -- the conviction when they're
+
+20
+
+simultaneous because of the reasons why there may be
+
+21
+
+irrationality in the conflict.
+
+22
+
+to doubt the -- the validity of the acquittal in this
+
+23
+
+case.
+
+24
+25
+
+MR. DREEBEN:
+
+But there is no reason
+
+Well, no, I think that there
+
+is, Justice Stevens, if on the theory that the
+23
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+Petitioner propounds the verdict on the acquittals is
+
+2
+
+inconsistent with the mistrial.
+
+3
+
+in which collateral estoppel could apply, only if the
+
+4
+
+jury had necessarily determined a fact on the acquittals
+
+5
+
+that should have led to acquittals on the insider
+
+6
+
+trading counts.
+
+7
+
+JUSTICE STEVENS:
+
+And that's the only way
+
+But if they had time.
+
+8
+
+when you have 150 counts, it's entirely possible they
+
+9
+
+just didn't reach a decision on it.
+
+10
+
+MR. DREEBEN:
+
+And
+
+Well, I -- Petitioner's theory
+
+11
+
+would be identical if there were one insider trading
+
+12
+
+count.
+
+13
+
+Court should not get too distracted by the number of
+
+14
+
+counts, because all of the insider trading counts turned
+
+15
+
+on a common core of fact.
+
+16
+
+identically -
+
+17
+
+And I think that for purposes of this case, the
+
+They were all resolved
+
+JUSTICE STEVENS:
+
+When you have a case in
+
+18
+
+which there is no conflict between a guilty and an
+
+19
+
+innocent verdict, there isn't -- there is no reason to
+
+20
+
+doubt the integrity of the acquittal.
+
+21
+
+MR. DREEBEN:
+
+We're not questioning the
+
+22
+
+integrity of the acquittal as far as it has direct
+
+23
+
+double jeopardy application.
+
+24
+
+the doctrine of collateral estoppel ought to be applied.
+
+25
+
+JUSTICE BREYER:
+
+The question is whether
+
+And why not?
+
+24
+Alderson Reporting Company
+
+Because the
+
+Official - Subject to Final Review
+
+1
+
+answer to my question was exactly what Justice Stevens
+
+2
+
+said.
+
+3
+
+inconsistent verdicts in Powell, well, then, why can't,
+
+4
+
+since they hung, couldn't you try him again on the hung
+
+5
+
+count?
+
+6
+
+again.
+
+7
+
+Why is it that -- that if you could have the
+
+And the answer is, because you're trying him
+
+And that's why we have all the briefs that
+
+8
+
+we have, because the only way to answer this is to look
+
+9
+
+and see if the policies that underlie the collateral
+
+10
+
+estoppel part of double jeopardy apply here.
+
+11
+
+can't think of one that doesn't.
+
+12
+
+single one that wouldn't apply.
+
+13
+
+Maybe there are some.
+
+And I
+
+I can't think of one
+
+And I can't think of
+
+14
+
+any reason for allowing the government to have a second
+
+15
+
+bite at this apple.
+
+16
+
+What is the reason?
+
+MR. DREEBEN:
+
+The reason, Justice Breyer, is
+
+17
+
+that the hung counts do not constitute a resolution in
+
+18
+
+favor of the defendant.
+
+19
+
+JUSTICE BREYER:
+
+20
+
+course they don't.
+
+21
+
+that hung count.
+
+22
+
+bite at the apple.
+
+23
+
+fortiori you could go ahead.
+
+24
+
+clearly can't go ahead.
+
+25
+
+Of course they don't.
+
+Of
+
+Suppose that they never brought up
+Then you wouldn't even have the first
+So you would think it would be a
+
+MR. DREEBEN:
+
+But that's the case; you
+
+But there's a reason for that,
+25
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+Justice Breyer, that is grounded in double jeopardy
+
+2
+
+policies.
+
+3
+
+Justice Souter asked as well, why the Court should
+
+4
+
+prefer the double jeopardy doctrine that allows the
+
+5
+
+government to retry the hung counts when they are all
+
+6
+
+brought together in the same proceeding?
+
+7
+
+this -- and I think it's made most vivid by imagining
+
+8
+
+Ashe v. Swenson in a slightly different posture.
+
+9
+
+And I think it goes to the question that
+
+And that is
+
+Ashe v. Swenson involved robbery of six
+
+10
+
+individuals at a poker game.
+
+11
+
+each one of them as a separate robbery and the
+
+12
+
+government tried one of them first.
+
+13
+
+the jury's acquittal was understood to mean that the
+
+14
+
+defendant was not the robber.
+
+15
+
+go sequentially through and try the other five, it has
+
+16
+
+the opportunity to try to wear the defendant down or
+
+17
+
+refine its case or improve its case in a way that the
+
+18
+
+Court regarded as impermissible.
+
+19
+
+The government indicted
+
+And in that one,
+
+If the government could
+
+But suppose that in Ashe the government
+
+20
+
+hadn't done that, it had brought all six robbery
+
+21
+
+prosecutions together, and the jury returned one verdict
+
+22
+
+of acquittal on one robber and on the other five it
+
+23
+
+hung?
+
+24
+
+situation we have here -
+
+25
+
+In that situation I think -- which is the
+
+JUSTICE STEVENS:
+
+But the reason for that is
+
+26
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+there are doubts about the integrity of the acquittal.
+
+2
+
+They probably compromised, just to say not to be too
+
+3
+
+tough on -
+
+4
+
+MR. DREEBEN:
+
+5
+
+identical to this case.
+
+6
+
+case -
+
+7
+
+But, Justice Stevens, that is
+There is no difference to this
+
+JUSTICE STEVENS:
+
+No, here you have
+
+8
+
+sequential prosecutions, and there is no reason to
+
+9
+
+question the integrity of the acquittal in this case.
+
+10
+
+MR. DREEBEN:
+
+No.
+
+But, Justice Stevens, if
+
+11
+
+you would question the integrity of the acquittal, if
+
+12
+
+the jury acquits on one robber and hangs on five, that
+
+13
+
+is this case.
+
+14
+
+a securities fraud case.
+
+15
+
+The only difference in this case is it's
+
+JUSTICE BREYER:
+
+I didn't think it had
+
+16
+
+anything to do with integrity of anything.
+
+I thought
+
+17
+
+what it had to do with is that they are being tried at
+
+18
+
+the same time.
+
+19
+
+imagine this.
+
+20
+
+drug count, he's acquitted.
+
+21
+
+telephone count.
+
+And to test that out in my mind, I
+In February we try the individual for the
+In June we bring a
+
+Absolutely forbidden, right?
+
+22
+
+MR. DREEBEN:
+
+Correct.
+
+23
+
+JUSTICE BREYER:
+
+Okay.
+
+So why should the
+
+24
+
+government be one whit better off because, in addition
+
+25
+
+to doing that, they happened to bring a telephone count
+27
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+2
+
+in January along with the other?
+MR. DREEBEN:
+
+There are two reasons for
+
+3
+
+that, Justice Breyer.
+
+4
+
+Jeopardy Clause is not aimed at preventing the
+
+5
+
+government from attempting to bring its -- all of its
+
+6
+
+charges in one indictment against the defendant.
+
+7
+
+the collateral estoppel component is aimed at is the
+
+8
+
+government going sequentially, carving its prosecution
+
+9
+
+up into pieces, and trying in different attempts.
+
+10
+
+The first is that the Double
+
+JUSTICE SOUTER:
+
+What
+
+But -- isn't -- isn't the
+
+11
+
+real problem that you raised by your answer the
+
+12
+
+following problem:
+
+13
+
+as Justice Breyer's hypo suggests, lots of overlapping
+
+14
+
+criminal statutes -- you can indict not only for drugs
+
+15
+
+but for telephones, and I don't know what other
+
+16
+
+overlapping crimes there -- there may be.
+
+17
+
+that gives the government by joining a lot of
+
+18
+
+overlapping charges or lots of charges with common
+
+19
+
+elements in either one indictment through various counts
+
+20
+
+or simply by a series of indictments to be tried
+
+21
+
+together -- it gives the government a bigger chance of
+
+22
+
+getting a hung jury or some irrational resolution on
+
+23
+
+some of those issues.
+
+24
+
+loads of counts, increase the likelihood of getting a
+
+25
+
+hung jury on one issue or one indictment, the government
+
+That in this age in which there are,
+
+Therefore,
+
+And if the government can bring
+
+28
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+in effect has a key to avoiding just what Justice
+
+2
+
+Breyer's hypothetical suggested.
+
+3
+
+If they wait and bring the second count in
+
+4
+
+June, there's an issue preclusion.
+
+But if they bring it
+
+5
+
+together, they've got an irrational verdict and there's
+
+6
+
+no issue preclusion.
+
+7
+
+both double jeopardy and the issue preclusion extension
+
+8
+
+a policy that argues in favor of saying don't let the
+
+9
+
+government have all these bites at the apple, because in
+
+Therefore, isn't the policy behind
+
+10
+
+fact it results or can result in seriatim prosecutions?
+
+11
+
+What's -- what's your response to that argument?
+
+12
+
+MR. DREEBEN:
+
+My response to that, Justice
+
+13
+
+Souter, is that double jeopardy has always consisted of
+
+14
+
+a balance of values.
+
+15
+
+that Your Honor has identified, but the countervailing
+
+16
+
+interest is that the government should have one full and
+
+17
+
+fair opportunity to convict a defendant on charges that
+
+18
+
+have been preferred by a grand jury on a showing of
+
+19
+
+probable cause, and that does not occur when the hung
+
+20
+
+counts deprive the government of that one opportunity.
+
+21
+
+There is of course the interest
+
+JUSTICE SOUTER:
+
+But does the -- does the
+
+22
+
+government ask for something more than one fair chance
+
+23
+
+when it comes in with 117 counts?
+
+24
+
+consists of a fair chance with a number of counts or a
+
+25
+
+number of indictments that one can reasonably expect a
+
+Maybe the fair chance
+
+29
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+-- a jury to handle without either getting totally
+
+2
+
+confused or totally exhausted.
+
+3
+
+MR. DREEBEN:
+
+4
+
+two answers to that, Justice Souter.
+
+5
+
+position for which Petitioner argues does not depend on
+
+6
+
+the number of counts.
+
+7
+
+the indictment -
+
+8
+9
+
+Well, let me -- let me give
+First of all, the
+
+If there had been two counts in
+
+JUSTICE SOUTER:
+
+That's right, I'm making an
+
+argument that he did not make.
+
+10
+
+MR. DREEBEN:
+
+-- it would be the same.
+
+11
+
+But more fundamentally, I think that the
+
+12
+
+number of counts in this indictment should not lead the
+
+13
+
+Court to think that this was a case in which the
+
+14
+
+government overcharged in some nefarious effort.
+
+15
+
+of all, nefarious efforts like that tend to backfire on
+
+16
+
+the government, and that's why sound prosecution policy
+
+17
+
+dictates against overcharging.
+
+18
+
+fair to regard the number of counts as a proxy for
+
+19
+
+overcharging, and that is because they break up into
+
+20
+
+logically distinct units.
+
+21
+
+JUSTICE GINSBURG:
+
+First
+
+Here I don't think it's
+
+Why not, when considering
+
+22
+
+what the government did on its second chance?
+
+It
+
+23
+
+trimmed 5 -- if there were 20 insider trading, on the
+
+24
+
+new indictment, there were 5.
+
+25
+
+laundering, which were trimmed to 8, something within
+
+There were 99 counts of
+
+30
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+the jury's ken.
+
+2
+
+case that the jury was simply exhausted?
+
+3
+
+But isn't the most likely thing in this
+
+MR. DREEBEN:
+
+I don't think so, Justice
+
+4
+
+Ginsburg, because all of the insider trading counts turn
+
+5
+
+on the same fact:
+
+6
+
+information, did he know that the Enron broadband system
+
+7
+
+that he was integrally involved in, was the strategic
+
+8
+
+manager in charge of, wasn't working?
+
+9
+
+knowledge and he traded, the number of counts is really
+
+did Petitioner have inside
+
+If he had that
+
+10
+
+irrelevant, and I think that the fact that the jury
+
+11
+
+resolved all of the insider trading counts the same way
+
+12
+
+and the money laundering counts just had to do with the
+
+13
+
+disposition of the proceeds, they're all resolved the
+
+14
+
+same way.
+
+15
+
+The jury obviously deadlocked on whether
+
+16
+
+some fact that the government needed to prove for those
+
+17
+
+counts was established.
+
+18
+
+about Petitioner's position is that he seeks to get
+
+19
+
+through a legal doctrine, collateral estoppel, which is
+
+20
+
+a big extension from what the Double Jeopardy Clause
+
+21
+
+textually prohibits, exactly what the jury would not
+
+22
+
+give him.
+
+23
+
+And the bizarre thing, I think,
+
+The jury CHIEF JUSTICE ROBERTS:
+
+Well, the -- the
+
+24
+
+point about the big extension, you were rather coy in
+
+25
+
+your brief about what you think about Ashe v. Swenson.
+31
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+Are you asking us to revisit that?
+
+2
+
+MR. DREEBEN:
+
+No, Mr. Chief Justice, I don't
+
+3
+
+think that the Court needs to revisit Ashe v. Swenson in
+
+4
+
+order to resolve this case, but I think it's fair to say
+
+5
+
+that Ashe v. Swenson is a doctrine that transposed
+
+6
+
+certain civil policies that are -- are expressed through
+
+7
+
+the doctrine of issue preclusion into the double
+
+8
+
+jeopardy context in a way that was not supported by the
+
+9
+
+history of the Fifth Amendment and is not supported by
+
+10
+
+the text of the Double Jeopardy Clause, which requires
+
+11
+
+the same events.
+
+12
+
+CHIEF JUSTICE ROBERTS:
+
+Well, you're not
+
+13
+
+going to talk about -- you're not going to talk about
+
+14
+
+the text of the Double Jeopardy Clause, are you?
+
+15
+
+MR. DREEBEN:
+
+16
+
+CHIEF JUSTICE ROBERTS:
+
+17
+
+the case is pretty easy, isn't it?
+
+18
+
+MR. DREEBEN:
+
+Well, I If we rely on that
+
+I think that it is because it
+
+19
+
+says that the same offense is what you're protected
+
+20
+
+against for double jeopardy, and the offenses in this
+
+21
+
+case are distinct under Blockburger.
+
+22
+
+about -
+
+23
+24
+25
+
+CHIEF JUSTICE ROBERTS:
+
+But my point
+
+The person was in
+
+jeopardy on the hung offense as well.
+MR. DREEBEN:
+
+Well, this Court has made
+32
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+clear that the jeopardy continues until the government
+
+2
+
+has the opportunity to obtain a verdict.
+
+3
+
+that his jeopardy began is not what entitles him to -
+
+4
+
+CHIEF JUSTICE ROBERTS:
+
+So the fact
+
+Under this Court's
+
+5
+
+decisions, but not under the text of the Double Jeopardy
+
+6
+
+Clause.
+
+7
+
+MR. DREEBEN:
+
+I think it then becomes a
+
+8
+
+question of what is the meaning of jeopardy.
+
+But
+
+9
+
+insofar as the Court imported collateral estoppel into
+
+10
+
+the Double Jeopardy Clause, it should keep in mind in
+
+11
+
+deciding whether to extend that doctrine that in the
+
+12
+
+civil context a crucial predicate for collateral
+
+13
+
+estoppel is the ability of the adversely affected party
+
+14
+
+to appeal, and that is because before we rely on
+
+15
+
+collateral estoppel, we want to have some assurances
+
+16
+
+that there actually is integrity to the necessarily
+
+17
+
+determined fact that is going to preclude litigation in
+
+18
+
+another case.
+
+19
+
+JUSTICE STEVENS:
+
+But the key to your
+
+20
+
+argument is the government is entitled to one full and
+
+21
+
+fair opportunity to try its case.
+
+22
+
+opportunity the first time around.
+
+23
+24
+25
+
+MR. DREEBEN:
+
+It had that
+
+Well, I think that this
+
+Court's decisions since JUSTICE STEVENS:
+
+If there were no separate
+
+33
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+counts, that would have been -- that would have been a
+
+2
+
+fair -- that would be the end of the matter.
+
+3
+
+MR. DREEBEN:
+
+Since 1824 this Court has
+
+4
+
+defined the government's full and fair opportunity to
+
+5
+
+include the right to retry if the jury hangs, and here
+
+6
+
+what the defendant -
+
+7
+
+JUSTICE STEVENS:
+
+But it has -- but it has
+
+8
+
+the right to retry in the same position as it would have
+
+9
+
+been if it had not brought the first proceeding.
+
+And if
+
+10
+
+it had not brought the first proceeding in this case, it
+
+11
+
+would have been barred.
+
+12
+13
+
+MR. DREEBEN:
+
+No, I don't -- I don't agree
+
+that it's in the same position -
+
+14
+
+JUSTICE STEVENS:
+
+15
+
+MR. DREEBEN:
+
+16
+
+JUSTICE STEVENS:
+
+17
+
+MR. DREEBEN:
+
+Why not?
+
+-- as if it had not bought it.
+Oh.
+
+It's -- it -- in this case
+
+18
+
+what the government did was to bring all of its cases
+
+19
+
+together.
+
+20
+
+Ashe v. Swenson because I think it strikes everyone as
+
+21
+
+very strange to say that if the jury in Ashe v. Swenson
+
+22
+
+had been presented with all six robbers and had
+
+23
+
+acquitted on only one and had a returned -- you know, an
+
+24
+
+inability to reach a verdict -
+
+25
+
+And I return to the hypothetical about
+
+JUSTICE STEVENS:
+
+That's why we have the
+
+34
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+Dunn doctrine, which itself is questionable.
+
+2
+
+basically says there is a certain situation in which we
+
+3
+
+will tolerate what may be an irrational verdict, and the
+
+4
+
+reason we tolerate it is that the acquittal itself may
+
+5
+
+be explained on other grounds.
+
+6
+
+MR. DREEBEN:
+
+It
+
+Namely -
+
+I'm not relying on Dunn in
+
+7
+
+this hypothetical.
+
+I'm presupposing that the jury hung
+
+8
+
+with respect to the other five robbers.
+
+9
+
+government would come back and say is:
+
+And all the
+For two separate
+
+10
+
+reasons, we should be able to retry those counts against
+
+11
+
+the other five robbers.
+
+12
+
+hung jury it's settled double jeopardy law that the
+
+13
+
+government has an opportunity to retry; and the other is
+
+14
+
+if you accept the proposition that the jury's action was
+
+15
+
+inconsistent because one of the robbers earned an
+
+16
+
+acquittal and the other five logically should have been
+
+17
+
+the same if the jury had found that the defendant wasn't
+
+18
+
+the robber, the jury was unable to return a verdict.
+
+19
+
+One is that when there is a
+
+Collateral estoppel depends on the idea that
+
+20
+
+there is a rational jury, and if the jury has acted
+
+21
+
+inconsistently, we don't have that basis of rationality
+
+22
+
+that supports the policy justifications of collateral
+
+23
+
+estoppel.
+
+24
+25
+
+JUSTICE STEVENS:
+
+But the whole -- whole
+
+doctrine of inconsistent verdicts depends on the
+35
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+assumption that what appears to be an irrational
+
+2
+
+inconsistency may have another explanation.
+
+3
+
+MR. DREEBEN:
+
+Yes, such as lenity for the
+
+4
+
+defendant.
+
+The government doesn't get the opportunity
+
+5
+
+to appeal an acquittal.
+
+6
+
+opportunity to go behind the acquittal and ask whether
+
+7
+
+the jury acted rationally.
+
+8
+
+things are true in civil cases where the doctrine of
+
+9
+
+issue preclusion applies.
+
+The government doesn't get the
+
+All of things -- those
+
+10
+
+JUSTICE BREYER:
+
+11
+
+I think Justice Stevens was suggesting.
+
+12
+
+there was only one trial on the substantive count in
+
+13
+
+January.
+
+14
+
+indict him in July on the telephone count.
+
+15
+
+the judge:
+
+16
+
+here because maybe the jury just acquitted him the first
+
+17
+
+time because they were lenient.
+
+18
+
+looks.
+
+19
+
+were, maybe they were -- and we didn't even get an
+
+20
+
+appeal.
+
+Now each -- he's acquitted.
+
+JUSTICE BREYER:
+
+25
+
+You argue to
+
+Maybe they liked his
+Maybe they
+
+Are you going to win that case?
+
+22
+
+24
+
+Now you decide to
+
+Maybe they were distracted by a fly.
+
+MR. DREEBEN:
+
+Okay.
+
+Assume that
+
+Judge, there shouldn't be double jeopardy
+
+21
+
+23
+
+Start the other side, which
+
+Not under No, not even a close.
+
+Not even close.
+Now, since you're going to lose that case, I
+
+grant you there's thousands of case talking about your
+36
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+ability to bring more cases if you have a hung jury.
+
+2
+
+concede all those.
+
+3
+
+jeopardy, to my knowledge.
+
+4
+
+I
+
+None of them talks about double
+
+So we're back to the hypothetical.
+
+You've
+
+5
+
+lost your case.
+
+Now, all that you did to turn that case
+
+6
+
+into a winning case was you also indicted him on the
+
+7
+
+telephone count in January.
+
+8
+
+the first time, and you began to have two answers.
+
+9
+
+just didn't see why the government should be any better
+
+Now, that was my question
+I
+
+10
+
+off because they also indicted him in January.
+
+11
+
+the language "double jeopardy," you might think the
+
+12
+
+government, if anything, should be worse off, but let's
+
+13
+
+keep them neutral.
+
+14
+
+Given
+
+So what is the reason that the government
+
+15
+
+should be worse off because they indicted him in January
+
+16
+
+on the telephone count as well as in June?
+
+17
+18
+
+MR. DREEBEN:
+not be worse off.
+
+19
+20
+21
+
+Well, the government should
+
+JUSTICE BREYER:
+
+No, no -- better.
+
+I
+
+misspoke.
+MR. DREEBEN:
+
+I think the reason is that
+
+22
+
+when, Justice Breyer, you said double jeopardy is not
+
+23
+
+involved in the cases involving the government's ability
+
+24
+
+to retry on a hung count, that's not accurate.
+
+25
+
+Court has regarded the doctrine of double jeopardy as a
+37
+Alderson Reporting Company
+
+The
+
+Official - Subject to Final Review
+
+1
+
+balance of policies, and one of the fundamental policies
+
+2
+
+is when the jury cannot agree, the government has the
+
+3
+
+right to retry.
+
+4
+
+CHIEF JUSTICE ROBERTS:
+
+I think that's
+
+5
+
+right, and your argument depends upon that interest
+
+6
+
+balancing against the interest in giving effect to the
+
+7
+
+acquittal verdict.
+
+8
+9
+
+Now, what if I think, under the Seventh
+Amendment that's -- that what is important is protecting
+
+10
+
+jury verdicts?
+
+11
+
+when you have a conviction and acquittal, is that you
+
+12
+
+have two jury verdicts and you can't go one way or the
+
+13
+
+other without undermining one of them.
+
+14
+
+you can give full effect to the verdict of acquittal
+
+15
+
+without undermining another jury verdict.
+
+16
+
+undermine the government's interest in prosecuting after
+
+17
+
+a hung jury, but if I think what's important under the
+
+18
+
+Seventh Amendment is the jury verdicts, then the case
+
+19
+
+comes out the other way, right?
+
+20
+
+And the interest in the irrational case,
+
+MR. DREEBEN:
+
+Here, however,
+
+You certainly
+
+Well, I don't think so, Mr.
+
+21
+
+Chief Justice, because I think you still have to focus
+
+22
+
+on the intrinsic character of the doctrine of issue
+
+23
+
+preclusion, which does depend on a rational jury.
+
+24
+
+apply it to the facts of this case, because there is -
+
+25
+
+JUSTICE GINSBURG:
+
+Let's
+
+Well, you qualify it in
+
+38
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+your statement of the facts.
+
+2
+
+information with relation to the insider information
+
+3
+
+charges that is different in any respect from the
+
+4
+
+insider information in connection with the substantive
+
+5
+
+challenge?
+
+6
+
+MR. DREEBEN:
+
+Is there any insider
+
+No, Justice Ginsburg, there is
+
+7
+
+not.
+
+The government's theory here was that on the
+
+8
+
+substantive securities fraud count, which related to the
+
+9
+
+January 20th, 2000, analysts meeting, Mr. Yeager was
+
+10
+
+integrally involved in formulating the message and was
+
+11
+
+therefore accountable for misstatements to the
+
+12
+
+marketplace about Enron broadband communications
+
+13
+
+efficacy and effectiveness and technological value.
+
+14
+
+jury, if it rejected that, would acquit on those counts
+
+15
+
+-- on that count, without reaching the question did Mr.
+
+16
+
+Yeager know factually that the statements that were made
+
+17
+
+by others at that analysts conference and in the press
+
+18
+
+releases subsequently were inaccurate?
+
+19
+
+that question is yes, he had the information, then he
+
+20
+
+could be liable for insider trading even though he is
+
+21
+
+not liable for substantive securities fraud because he
+
+22
+
+had nothing to do with creating the statements or
+
+23
+
+misstatements to the marketplace.
+
+The
+
+If the answer to
+
+24
+
+And I think I do take issue with
+
+25
+
+Petitioner's suggestion that the theory of this case was
+39
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+an omissions theory.
+
+The way that Mr. Yeager argued the
+
+2
+
+case to the jury was that I didn't have any involvement
+
+3
+
+in preparing or making statements at that January 20th
+
+4
+
+analysts conference; you can't convict me of what other
+
+5
+
+people may have said.
+
+6
+
+the jury that it had to find that he participated in the
+
+7
+
+scheme and that he either made the statements or caused
+
+8
+
+the statements or omissions to be made.
+
+9
+
+that, it easily acquits on the securities fraud.
+
+And the jury instructions advised
+
+If it rejected
+And as
+
+10
+
+a result even if this Court were inclined to apply
+
+11
+
+collateral estoppel across mixed counts in a verdict of
+
+12
+
+acquittals and hung counts, which we submit it should
+
+13
+
+not do, the defendant still has to carry his burden of
+
+14
+
+showing necessarily that the jury resolved an issue of
+
+15
+
+fact in his favor that would preclude the next
+
+16
+
+prosecution.
+
+17
+18
+19
+
+CHIEF JUSTICE ROBERTS:
+
+Well, he -- he
+
+carried that burden before the court of appeals.
+MR. DREEBEN:
+
+But the court of appeals
+
+20
+
+relied on the view that Mr. Yeager did not contest that
+
+21
+
+he participated in the planning and preparation and
+
+22
+
+statements that were made.
+
+23
+24
+25
+
+CHIEF JUSTICE ROBERTS:
+
+Revisiting of that
+
+issue was not included within the question presented.
+MR. DREEBEN:
+
+Well, I think it's included in
+40
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+our ability to defend the judgment.
+
+2
+
+in this case made it quite clear that collateral
+
+3
+
+estoppel did not apply because the acquittals could rest
+
+4
+
+on the basis that Mr. Yeager did not participate in the
+
+5
+
+analysts conference and in the press statements that
+
+6
+
+were the basis for the wire fraud and the securities
+
+7
+
+fraud omissions.
+
+8
+
+CHIEF JUSTICE ROBERTS:
+
+The District Court
+
+So if we -- if we
+
+9
+
+agree with you on that proposition, then the conflict
+
+10
+
+that we granted cert to resolve would still continue.
+
+11
+
+MR. DREEBEN:
+
+Well, you could resolve it.
+
+I
+
+12
+
+would hope that you would resolve it in a favor of a
+
+13
+
+disposition that doesn't require you to reach the
+
+14
+
+factual issue, but if the Court resolves the legal issue
+
+15
+
+against us, I think it should revisit the analysis of
+
+16
+
+the court of appeals because government isn't defending
+
+17
+
+the precise way in which the court of appeals went about
+
+18
+
+analyzing the double jeopardy issue, and its question of
+
+19
+
+what facts were necessarily determined was resolved
+
+20
+
+incorrectly, I think, as a matter of clear error.
+
+21
+
+don't even think Mr. Yeager will stand up on rebuttal
+
+22
+
+and tell you that he didn't argue to the jury that his
+
+23
+
+client was not involved in -- in the creation of the
+
+24
+
+statements at that analyst meeting because he did make
+
+25
+
+that argument.
+41
+Alderson Reporting Company
+
+I
+
+Official - Subject to Final Review
+
+1
+
+And I do think that it's important that if
+
+2
+
+the Court is going to go down a track of allowing
+
+3
+
+collateral estoppel for mixed verdicts, that it
+
+4
+
+encourage rigor in the way that courts determine whether
+
+5
+
+a fact was necessarily decided by the jury.
+
+6
+
+JUSTICE KENNEDY:
+
+Well, on that first
+
+7
+
+theory, and your theory that a retrial on hung counts is
+
+8
+
+always permitted, I -- I take it there are no court of
+
+9
+
+appeals opinions or decisions that agree with you on
+
+10
+11
+
+that point, or am I incorrect?
+MR. DREEBEN:
+
+They have not reasoned it the
+
+12
+
+way that the government reasons it, but I think that the
+
+13
+
+Fifth Circuit's result is equivalent to what the
+
+14
+
+government argued as well as the D.C. Circuit.
+
+15
+
+JUSTICE KENNEDY:
+
+A different question:
+
+16
+
+Suppose you prevail.
+
+17
+
+the jury hangs again and the jury hangs a second time.
+
+18
+
+Is there any point at which the district court can
+
+19
+
+intervene in the exercise of its own authority and
+
+20
+
+discretion just to dismiss the charges?
+
+21
+
+The hung counts are retried.
+
+MR. DREEBEN:
+
+And
+
+I don't think so, Justice
+
+22
+
+Kennedy, because I think the interest that's being
+
+23
+
+vindicated here is a balance of interests, and it's -
+
+24
+
+as I responded to the Chief Justice and -- and referred
+
+25
+
+to Justice Souter's question earlier, double jeopardy
+42
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+has never been a jurisprudence of black and white.
+
+2
+
+could you read the clause as saying one trial for a
+
+3
+
+defendant.
+
+4
+
+conviction at that trial, game over.
+
+5
+
+never done that because the double jeopardy clause has
+
+6
+
+always involved a balance of the society's very
+
+7
+
+important interests in having the opportunity for a
+
+8
+
+decision up or down on whether a defendant is guilty.
+
+9
+
+If the defendant is -- doesn't get a
+
+JUSTICE KENNEDY:
+
+But the Court has
+
+Then the government can
+
+10
+
+try year after year to get a conviction and were the
+
+11
+
+defendant down?
+
+12
+
+there's a hung jury?
+
+13
+
+Nothing the Court can do so long as
+
+MR. DREEBEN:
+
+If the -- if the jury hangs,
+
+14
+
+the government can retry, and there have been cases
+
+15
+
+where -
+
+16
+
+JUSTICE KENNEDY:
+
+Is that the rule in all of
+
+17
+
+the States?
+
+18
+
+judges to say, enough is enough?
+
+19
+
+You
+
+Don't some States give authority to the
+
+MR. DREEBEN:
+
+I am not aware whether any
+
+20
+
+States do, but certainly as a matter of double jeopardy,
+
+21
+
+this Court has never suggested that there is.
+
+22
+
+as a matter of common sense, prosecutors who are unable
+
+23
+
+to achieve a verdict after a certain number of trials do
+
+24
+
+tend to conclude that it's not in the interest of
+
+25
+
+society to keep trying.
+
+I think
+
+But certainly one hung jury
+43
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+followed by a retrial is customary rather than an
+
+2
+
+exception to the rule, and the reason why that's -
+
+3
+
+JUSTICE STEVENS:
+
+But one hung jury followed
+
+4
+
+by a second when there has been an acquittal the first
+
+5
+
+time around is not customary.
+
+6
+
+MR. DREEBEN:
+
+But the -
+
+7
+
+JUSTICE STEVENS:
+
+So the difference is in
+
+8
+
+the -- in the first trial, you're not impugning the
+
+9
+
+integrity of the jury's verdict.
+
+You're following the
+
+10
+
+acquittal, and that's true in the compromise cases, the
+
+11
+
+Dunn case and those cases, but that's not the case here
+
+12
+
+because you're talking about two different juries.
+
+13
+
+You're saying the second jury should have an -- an
+
+14
+
+opportunity to correct what the first jury did, even
+
+15
+
+though it would not have that opportunity if the first
+
+16
+
+jury had not faced the issue.
+
+17
+
+MR. DREEBEN:
+
+Well, I -- I -- Justice
+
+18
+
+Stevens, all I can say is that if the first jury had
+
+19
+
+really believed that Mr. Yeager acted in good faith and
+
+20
+
+was completely innocent, it should have acquitted on all
+
+21
+
+counts.
+
+22
+
+JUSTICE STEVENS:
+We know that.
+
+It should have, but it
+
+23
+
+didn't.
+
+And we just know they did not
+
+24
+
+reach a conclusion on this issue, but they did reach a
+
+25
+
+conclusion on the count on which they acquitted.
+44
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+MR. DREEBEN:
+
+We should have -- we should
+
+2
+
+presume that, as we do in other areas of the law, that
+
+3
+
+the jury followed the instructions that it was given,
+
+4
+
+and the instructions that it was given -
+
+5
+
+JUSTICE STEVENS:
+
+Do you make the same
+
+6
+
+presumption when there is an inconsistent verdict, but
+
+7
+
+you say even if it's irrational we'll go along with it
+
+8
+
+because of the one jury, and they may have had non -
+
+9
+
+unsound legal reasons for saying, well, we'll let the
+
+10
+
+guy off on the one count.
+
+11
+
+MR. DREEBEN:
+
+But I think that there is no
+
+12
+
+reason for the fact that a jury takes irrational action
+
+13
+
+to then be used for the jury's acquittal to block
+
+14
+
+complete prosecution.
+
+15
+
+JUSTICE STEVENS:
+
+The jury did not take
+
+16
+
+irrational action in this case.
+
+17
+
+that's relevant was the acquittal.
+
+18
+
+didn't act.
+
+19
+
+MR. DREEBEN:
+
+The only action The other they
+
+Well, they acted irrationally
+
+20
+
+in the sense that if a fact necessarily determined
+
+21
+
+acquittals on the -- on the insider trading counts -
+
+22
+
+JUSTICE STEVENS:
+
+It would be irrational if
+
+23
+
+they had returned a verdict, but they said we can't
+
+24
+
+agree for who knows why.
+
+25
+
+MR. DREEBEN:
+
+But the point is they should
+45
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+have agreed logically if they believed that Mr. Yeager
+
+2
+
+never had inside information or acted in good faith.
+
+3
+
+And the jury is instructed to consider each count, count
+
+4
+
+by count, it was given instructions at the Allen phase
+
+5
+
+of the case that it should strive to achieve a verdict,
+
+6
+
+that Mr. Yeager is entitled to a verdict of not guilty
+
+7
+
+if, in fact, the jury believes that he is not guilty and
+
+8
+
+that it should make every effort to reach the verdict.
+
+9
+
+Now, the fact that it didn't, and it would
+
+10
+
+have been very easy for it to do, if it had determined
+
+11
+
+logically that he did not have inside information, is a
+
+12
+
+reason for hesitating before extrapolating out from
+
+13
+
+those acquittals and blocking the government's
+
+14
+
+opportunity to retry the hung counts.
+
+15
+
+Mr. Yeager's position logically -
+
+16
+
+JUSTICE STEVENS:
+
+It's not all that clear,
+
+17
+
+because as you argue the court -- the district court was
+
+18
+
+correct in analyzing the -- the estoppel issue.
+
+19
+
+it's obviously a very difficult issue because judges
+
+20
+
+have disagreed about it and the government and your
+
+21
+
+opponent disagree on it.
+
+22
+
+that the jury wasn't able to figure it all out.
+
+23
+
+MR. DREEBEN:
+
+And
+
+So, it's entirely possible
+
+I -- I don't think it is that
+
+24
+
+difficult of an issue.
+
+I think the district court which
+
+25
+
+was closer to it, which had presided over the trial and
+46
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+which read the closing arguments, made findings that
+
+2
+
+make it quite clear what Mr. Yeager argued and how those
+
+3
+
+arguments were totally consistent -
+
+4
+5
+
+JUSTICE STEVENS:
+
+been as confused as the court of appeals was.
+
+6
+
+MR. DREEBEN:
+
+7
+
+(Laughter.)
+
+8
+
+MR. DREEBEN:
+
+9
+
+The jury could not have
+
+I'm not sure that -
+
+If the jury was confused and
+
+it acted in an irrational manner, that's a reason not to
+
+10
+
+apply collateral estoppel, not a reason to do it.
+
+11
+
+Mr. Yeager's theory implies is that if the jury had come
+
+12
+
+back and -- under the Federal Rules of Criminal
+
+13
+
+Procedure it can return partial verdicts.
+
+14
+
+had come back and said we're struggling on some of the
+
+15
+
+counts, we have a partial verdict on others of them, and
+
+16
+
+the judge said, okay, we'll take the partial verdict;
+
+17
+
+and the jury came in and said, we acquit on five counts,
+
+18
+
+that Mr. Yeager's theory would be that the judge should
+
+19
+
+say that's great, collateral estoppel now means you
+
+20
+
+don't get to finish the deliberations on the counts on
+
+21
+
+which you said you can't agree.
+
+22
+
+no sense, neither does blocking retrial in this case.
+
+23
+
+What
+
+If the jury
+
+And that result makes
+
+CHIEF JUSTICE ROBERTS:
+
+Your -- your theory
+
+24
+
+depends upon viewing a hung jury as constituting some
+
+25
+
+action by the jury.
+
+Now, obviously it does in some
+47
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+sense.
+
+2
+
+But if you view -- if you accept the
+
+3
+
+proposition that juries only act by returning verdicts,
+
+4
+
+and that's the reason you can retry, because with a hung
+
+5
+
+jury the jury hasn't really done anything in the way
+
+6
+
+jurors act, then the case comes out -- then the
+
+7
+
+defendant prevails, right?
+
+8
+9
+
+MR. DREEBEN:
+
+I assume I can answer your
+
+question, Mr. Chief Justice?
+
+10
+
+CHIEF JUSTICE ROBERTS:
+
+11
+
+MR. DREEBEN:
+
+Yes.
+
+No, because the -- the logic
+
+12
+
+of the situation here is that in order for collateral
+
+13
+
+estoppel to apply, there needs to be a rational jury
+
+14
+
+verdict.
+
+15
+
+attempting to decide what the jury rationally resolved,
+
+16
+
+we look at all evidence in the record, not just some.
+
+17
+
+So it isn't necessary to treat the jury's
+
+And Ashe versus Swenson tells us that in
+
+18
+
+hung counts as if they are verdicts of a sort.
+
+They
+
+19
+
+simply are data which show that if the jury had been
+
+20
+
+rational and it had resolved a fact in favor of the
+
+21
+
+defendant that was necessary for the government to prove
+
+22
+
+on the other counts, it would have resolved those as
+
+23
+
+acquittals as well.
+
+24
+
+total record, the doctrine of collateral estoppel with
+
+25
+
+its premise of rationality cannot be applied.
+
+And once you take into account that
+
+48
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+CHIEF JUSTICE ROBERTS:
+
+2
+
+Mr. Buffone, you have six minutes remaining.
+
+3
+
+Thank you, counsel.
+
+REBUTTAL ARGUMENT OF SAMUEL J. BUFFONE
+
+4
+
+ON BEHALF OF THE PETITIONER
+
+5
+
+MR. BUFFONE:
+
+The Solicitor General has
+
+6
+
+essentially asked this Court to take a metaphysical view
+
+7
+
+of the Double Jeopardy Clause, but the teachings of this
+
+8
+
+Court from Sealfon through Ashe is that the important
+
+9
+
+protections of the Double Jeopardy Clause as applied to
+
+10
+
+issue preclusion must be approached with reason, with
+
+11
+
+rationality, with a non-hypertechnical view in order to
+
+12
+
+protect the public policies that underlie the Double
+
+13
+
+Jeopardy Clause.
+
+14
+
+happened here should not occur.
+
+15
+
+not be forced to relitigate before a second jury an
+
+16
+
+issue that was necessarily decided.
+
+17
+
+And that is quite simply that what
+That a defendant should
+
+I sat through and argued through
+
+18
+
+13-and-a-half-week jury trial.
+
+19
+
+rational explanation of what occurred there is that we
+
+20
+
+had a conscientious jury that followed its instructions,
+
+21
+
+that tried to reach through a complex 176-count
+
+22
+
+indictment, and they simply were not able to.
+
+23
+
+spoke the community will, and they spoke it forcefully
+
+24
+
+in their acquittals.
+
+25
+
+A reasonable and
+
+They
+
+Six of them.
+
+And the only conclusion that can be reached
+49
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+from those acquittals is that Mr. Yeager did not possess
+
+2
+
+insider information.
+
+3
+
+At the beginning of this trial we filed two
+
+4
+
+motions, the first challenging the specificity of the
+
+5
+
+indictment, and the second seeking a Bill of
+
+6
+
+Particulars.
+
+The district court answered both with the
+
+7
+
+same answer.
+
+The insider information that Mr. Yeager is
+
+8
+
+charged with possessing in the insider trader counts is
+
+9
+
+the false statements made by others at the 2000 Analysts
+
+10
+
+Conference.
+
+11
+
+The omissions theory was not as the
+
+12
+
+Solicitor General submits, some afterthought.
+
+It was
+
+13
+
+core to the government's prosecution and it was core to
+
+14
+
+the case.
+
+15
+
+was not a basis to convict on the six counts that it
+
+16
+
+acquitted.
+
+17
+
+possess that information.
+
+18
+
+the benefits of those acquittals.
+
+The jury decided that the omissions theory
+
+It determined that Mr. Yeager did not
+And Mr. Yeager is entitled to
+Thank you.
+
+19
+
+CHIEF JUSTICE ROBERTS:
+
+20
+
+The case is submitted.
+
+21
+
+(Whereupon, at 11:04 a.m., the case in the
+
+22
+
+Thank you, counsel.
+
+above-entitled matter was submitted.)
+
+23
+24
+25
+50
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+A
+ability 33:13
+37:1,23 41:1
+able 20:22 35:10
+46:22 49:22
+above-entitled
+1:11 50:22
+Absolutely 14:8
+27:21
+accept 35:14
+48:2
+accepted 9:17
+account 9:19
+48:23
+accountable
+39:11
+accurate 37:24
+achieve 43:23
+46:5
+achieving 21:19
+acquit 39:14
+47:17
+acquits 9:14
+13:25 19:22
+27:12 40:9
+acquittal 3:10
+3:16,24 4:2,17
+7:22 8:4 9:9,12
+9:21,24 10:1
+12:9 13:2,12
+15:7,13 16:21
+18:5,24 22:15
+22:17 23:11,17
+23:22 24:20,22
+26:13,22 27:1
+27:9,11 35:4
+35:16 36:5,6
+38:7,11,14
+44:4,10 45:13
+45:17
+acquittals 3:13
+8:4 9:2,3,5
+10:10,22,24,25
+12:13 13:16
+17:7,23 18:14
+21:13 22:7,21
+22:21,24 24:1
+
+24:4,5 40:12
+41:3 45:21
+46:13 48:23
+49:24 50:1,18
+acquitted 11:10
+12:12 13:8
+14:21 27:20
+34:23 36:13,16
+44:20,25 50:16
+act 45:18 48:3,6
+acted 21:25
+35:20 36:7
+44:19 45:19
+46:2 47:9
+action 35:14
+45:12,16,16
+47:25
+addition 27:24
+additional 20:11
+addressed 8:25
+admissions 5:6
+adversely 33:13
+advised 40:5
+affirmative 4:18
+affirmatively
+5:17
+afterthought
+50:12
+age 28:12
+agree 5:19 7:1
+10:18 14:2
+21:18 34:12
+38:2 41:9 42:9
+45:24 47:21
+agreed 46:1
+agrees 15:13,24
+ahead 25:23,24
+aimed 28:4,7
+ALITO 6:10 7:1
+19:8,16,19
+alleged 9:23
+Allen 11:25 12:2
+12:22 20:11
+46:4
+allow 20:5
+allowing 25:14
+42:2
+
+allows 26:4
+alternative 6:20
+alternatives
+6:22
+Amendment
+32:9 38:9,18
+analysis 5:1 7:15
+10:20,21 16:25
+17:1 20:23
+21:11 41:15
+analyst 41:24
+analysts 5:14
+39:9,17 40:4
+41:5 50:9
+analyzed 5:5
+analyzing 41:18
+46:18
+answer 13:22
+16:15,17 19:17
+25:1,5,8 28:11
+39:18 48:8
+50:7
+answered 50:6
+answers 30:4
+37:8
+appeal 12:15
+33:14 36:5,20
+appeals 40:18
+40:19 41:16,17
+42:9 47:5
+APPEARAN...
+1:14
+appears 36:1
+Appendix 4:8
+apple 25:15,22
+29:9
+application 3:16
+24:23
+applied 12:20
+24:24 48:25
+49:9
+applies 36:9
+apply 13:19,20
+24:3 25:10,12
+38:24 40:10
+41:3 47:10
+48:13
+
+approached
+49:10
+appropriate
+18:11
+areas 45:2
+argue 8:17,17
+13:4 36:14
+41:22 46:17
+argued 5:16
+40:1 42:14
+47:2 49:17
+argues 29:8 30:5
+arguing 6:8
+argument 1:12
+2:2,7 3:4,6,22
+3:23 4:8 6:11
+10:16 21:6
+29:11 30:9
+33:20 38:5
+41:25 49:3
+arguments 5:9
+7:14 47:1,3
+arises 9:4
+arising 18:10
+Ashe 3:17,22 5:3
+7:15,18,19
+8:21 9:19 10:4
+20:23 23:4,9
+26:8,9,19
+31:25 32:3,5
+34:20,21 48:14
+49:8
+Ashe-type 8:22
+aside 20:17
+asked 11:21
+26:3 49:6
+asking 22:1 32:1
+assert 11:5
+assume 5:24
+36:11 48:8
+assumed 4:24
+assumes 3:23
+assuming 12:6
+assumption 4:6
+4:17 17:6 36:1
+assurances
+33:15
+
+51
+Alderson Reporting Company
+
+attach 16:18
+attached 8:23
+attempting 28:5
+48:15
+attempts 28:9
+attorney 5:6
+authority 17:4
+18:21,22,23
+42:19 43:17
+avoid 19:5
+avoiding 29:1
+aware 19:13
+43:19
+a.m 1:13 3:2
+50:21
+B
+back 4:16 11:20
+19:24 35:9
+37:4 47:12,14
+backfire 30:15
+balance 29:14
+38:1 42:23
+43:6
+balancing 38:6
+bar 13:13 17:12
+18:3 20:24
+21:20 22:22
+barred 34:11
+based 6:12 7:3
+basic 21:16
+basically 6:4
+35:2
+basis 11:14
+18:13 35:21
+41:4,6 50:15
+began 6:8 33:3
+37:8
+beginning 50:3
+behalf 1:15,18
+2:4,6,9 3:7
+21:7 49:4
+belief 8:1
+believe 5:2 7:16
+8:25 10:4,4,20
+16:16 17:21
+18:12 19:12
+
+

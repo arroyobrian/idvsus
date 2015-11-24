@@ -10,7 +10,11 @@ pdfs = filter(lambda File: File[-4:] == fileExt, fileList)
 for pdf in pdfs:
     outputFile = PdfFileWriter()
     handle = open(pdf, 'rb')
-    inputFile = PdfFileReader(handle)
+    try:
+        inputFile = PdfFileReader(handle)
+    except Exception:
+        handle.close()
+        continue
 
     pageNum = inputFile.getNumPages()
 
@@ -33,6 +37,6 @@ def shellquote(s):
 baseCommand = "pdftotext"
 for pdf in pdfs:
     finPdf = shellquote('cut_' + pdf)[1:-1]
-    fileDest = "%s%s" % (finPdf[1:-4], "txt")
+    fileDest = "%s%s" % (finPdf[:-4], ".txt")
     call([baseCommand, finPdf, fileDest])
 

@@ -1,0 +1,6454 @@
+Official - Subject to Final Review
+
+1
+
+P R O C E E D I N G S
+
+2
+3
+4
+5
+
+(11:16 a.m.)
+CHIEF JUSTICE ROBERTS:
+
+We will hear
+
+argument in Case 07-1309, Boyle v. United States.
+Mr. Fernich.
+
+6
+
+ORAL ARGUMENT OF MARC FERNICH
+
+7
+
+ON BEHALF OF THE PETITIONER
+
+8
+9
+10
+
+MR. FERNICH:
+
+Thank you, Mr. Chief Justice,
+
+and may it please the Court:
+This is a case about a defendant's right to
+
+11
+
+an independent jury determination of each essential
+
+12
+
+element of a RICO offense, specifically a pattern of
+
+13
+
+racketeering and a separate enterprise that is more than
+
+14
+
+just a duplication of the pattern.
+
+15
+
+To keep the elements apart, ensure their
+
+16
+
+distinct consideration, and give the enterprise
+
+17
+
+independent meaning, juries must be instructed, as in
+
+18
+
+the Seventh Circuit and elsewhere, that an "enterprise"
+
+19
+
+requires a structure separate from the commission of the
+
+20
+
+predicate acts forming the pattern.
+
+21
+
+JUSTICE GINSBURG:
+
+22
+
+MR. FERNICH:
+
+23
+
+JUSTICE GINSBURG:
+
+Mr. Fernich -
+
+Yes, Your Honor.
+-- are we talking just
+
+24
+
+about the instruction to the jury?
+
+25
+
+that the instruction given here was incorrect.
+3
+
+Alderson Reporting Company
+
+I know you think
+But is
+
+Official - Subject to Final Review
+
+1
+
+it just a question of charge error or are you saying
+
+2
+
+that there was insufficient evidence of enterprise for
+
+3
+
+this case to go to the jury?
+
+4
+
+MR. FERNICH:
+
+I am not suggesting, Your
+
+5
+
+Honor, that there was insufficient evidence of -- of
+
+6
+
+enterprise to go to the jury.
+
+7
+
+respect to the charge.
+
+8
+9
+
+My primary point is with
+
+We do contend -
+
+JUSTICE GINSBURG:
+
+You're saying if a proper
+
+charge had been given, this jury on this evidence still
+
+10
+
+could have convicted the defendant?
+
+11
+
+MR. FERNICH:
+
+We contend, to be sure, that
+
+12
+
+the evidence was legally insufficient under Rule 29.
+
+13
+
+But we are pressing principally the first -- the jury
+
+14
+
+argument claim here in this Court.
+
+15
+
+the evidence was legally insufficient.
+
+16
+17
+
+JUSTICE GINSBURG:
+
+We do contend that
+
+Did you make that -- did
+
+you make that objection in the trial court?
+
+18
+
+MR. FERNICH:
+
+19
+
+it in the court of appeals as well.
+
+20
+
+Your Honor knows, no published opinion with respect to
+
+21
+
+either issue, so both issues are preserved.
+
+22
+
+Yes, we did, and we preserved
+And there was, as
+
+Now, Your Honor, under the Second Circuit
+
+23
+
+rule that functionally conflates the two elements, that
+
+24
+
+is enterprise and pattern, the jury in this case was not
+
+25
+
+so instructed as to the need for an enterprise with an
+4
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+existence separate and apart from the racketeering acts
+
+2
+
+forming the pattern.
+
+3
+
+the judgment below must be vacated.
+
+4
+
+For that reason we contend that
+
+JUSTICE ALITO:
+
+The -- the error was the
+
+5
+
+failure to give the instruction that appears on page 95
+
+6
+
+of the joint appendix?
+
+7
+
+complaining about?
+
+8
+9
+
+MR. FERNICH:
+
+Is that the error that you are
+
+Not merely so, Justice Alito.
+
+That is why the entire relevant excerpts from the jury
+
+10
+
+charge are included in the joint appendix.
+
+11
+
+to the entirety of the charge, in addition to requesting
+
+12
+
+specific language of our own.
+
+13
+
+error of which we complain in this Court is the failure
+
+14
+
+of that instruction anywhere to require, as this Court
+
+15
+
+required in the United States v Turkette, and as 18
+
+16
+
+U.S.C. 1962(c) itself requires, an entity with a
+
+17
+
+structure separate and apart from the pattern of
+
+18
+
+racketeering.
+
+19
+
+JUSTICE SCALIA:
+
+We objected
+
+To be sure, the principal
+
+What -- what do you mean by
+
+20
+
+that precisely?
+
+Suppose you have a group of people, the
+
+21
+
+ringleader goes and gets a safecracker, he gets a
+
+22
+
+wheelman, and so forth, all the people he needs for the
+
+23
+
+crime; and he says we are going to call this the -- the
+
+24
+
+Brinks Job Group, okay?
+
+25
+
+But that's the only thing that he has put the group
+
+We are the Brinks Job Group.
+
+5
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+together in order to do.
+
+2
+
+calls it a group and he gets all these guys together and
+
+3
+
+they -- they meet and have lunch together, and do a lot
+
+4
+
+of stuff together.
+
+5
+6
+
+But it's still a group.
+
+He
+
+Would that meet your -- your condition of a
+separate association from the predicate acts?
+
+7
+
+MR. FERNICH:
+
+To be sure, we would contend
+
+8
+
+that it would be a question in the first instance for a
+
+9
+
+properly instructed jury, but without more on the
+
+10
+
+hypothetical that Your Honor has posited, the answer to
+
+11
+
+that question is no.
+
+12
+
+apparatus, no continuing directional mechanism.
+
+There is no ongoing decisional
+
+13
+
+JUSTICE SCALIA:
+
+14
+
+directed to the Brinks job.
+
+15
+
+MR. FERNICH:
+
+Except insofar as it is
+
+Except the degree of
+
+16
+
+organization, I should say, inherent in each individual
+
+17
+
+predicate act.
+
+18
+
+JUSTICE KENNEDY:
+
+But you -- you imported --
+
+19
+
+I'm looking at your quotation from Turkette, at page 5
+
+20
+
+of your brief.
+
+21
+
+point.
+
+22
+
+interpolate, to add various words.
+
+23
+
+you said an ongoing organization with directions or
+
+24
+
+something to that effect.
+
+25
+
+says.
+
+It doesn't seem to me conclusive of your
+
+In order to answer Justice Scalia, you had to
+You had to say -
+
+That is not what Turkette
+
+Turkette says "as proven by evidence of an
+6
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+ongoing organization, formal or informal, that is
+
+2
+
+continuing."
+
+3
+
+That's all it says.
+
+MR. FERNICH:
+
+To be sure, Your Honor, we
+
+4
+
+don't contend that Turkette is directly controlling of
+
+5
+
+the issue and we go through a lengthy textual exegesis
+
+6
+
+in our brief of why we think that implicit in the
+
+7
+
+factors of ongoing organization and continuing unit is a
+
+8
+
+structure requirement.
+
+9
+
+unequivocally say is that there must be an entity
+
+But what Turkette did
+
+10
+
+existing separate and apart from the pattern of
+
+11
+
+racketeering activity.
+
+12
+
+given in this case -- and the word "entity," which
+
+13
+
+appears in section 1961(4) itself and appears twice in
+
+14
+
+the Turkette decision, surely connotes an ascertainable
+
+15
+
+structure with an existence separate and apart from the
+
+16
+
+pattern of racketeering.
+
+17
+
+There was no such instruction
+
+JUSTICE GINSBURG:
+
+What does "structure"
+
+18
+
+mean?
+
+I think you said it doesn't mean that this has to
+
+19
+
+be an organization with a president, a treasurer; it
+
+20
+
+doesn't mean that.
+
+21
+
+MR. FERNICH:
+
+It could mean that in an
+
+22
+
+appropriate case, Your Honor.
+
+23
+
+probative -
+
+It surely would be
+
+24
+
+JUSTICE GINSBURG:
+
+What is -- what is the
+
+25
+
+minimum to qualify as having a structure?
+7
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+MR. FERNICH:
+
+The minimum is a separate,
+
+2
+
+ongoing, continuing existence apart from the commission
+
+3
+
+of the predicate acts themselves, and the members
+
+4
+
+necessary to commit those predicate acts, because that
+
+5
+
+by definition, I should say, is the pattern of
+
+6
+
+racketeering activity; and moreover, it is also inherent
+
+7
+
+in any criminal conspiracy that extends over time.
+
+8
+9
+
+To be more specific, the bare minimum
+requisites for a structure would be:
+
+an ongoing
+
+10
+
+directional mechanism; a continuing decisional-making
+
+11
+
+unit -- decisionmaking unit, I should say -- and some
+
+12
+
+sort of coherent existence between the commission of the
+
+13
+
+racketeering acts themselves.
+
+14
+
+ingredients.
+
+15
+
+Those are the main
+
+CHIEF JUSTICE ROBERTS:
+
+So all you have to
+
+16
+
+do, to pick up on Justice Scalia's hypothetical, is just
+
+17
+
+not the Brinks job, but you have to have one more crime,
+
+18
+
+and that's it; then everything you've talked about is
+
+19
+
+satisfied?
+
+20
+
+MR. FERNICH:
+
+No, that is, respectfully, not
+
+21
+
+what we contend, although in an appropriate case it is
+
+22
+
+conceivable that a properly instructed jury may find
+
+23
+
+structure on those facts.
+
+24
+
+conveying here is that this is principally a jury
+
+25
+
+question, and a jury that is properly instructed will
+
+The point that we are
+
+8
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+make findings, presumably, as to what the -- whether the
+
+2
+
+structure was extant, and those findings would command
+
+3
+
+substantial deference on appeal, as they do in the
+
+4
+
+circuits that have applied a structure requirement; and
+
+5
+
+it would be a relatively easy task for an appellate
+
+6
+
+court to defer to the jury's findings in such a case.
+
+7
+
+There is a -
+
+8
+9
+
+JUSTICE GINSBURG:
+
+The jury -- the words
+
+that you asked for, what was it?
+
+"Ascertainable
+
+10
+
+structural hierarchy."
+
+11
+
+questions from the jury:
+
+12
+
+by ascertainable structural hierarchy?"
+
+13
+14
+15
+16
+
+And suppose the judge gets
+
+MR. FERNICH:
+
+"Your Honor, what do you mean
+
+I'm -- I'm sorry,
+
+Justice Ginsburg.
+JUSTICE GINSBURG:
+
+Those are the words that
+
+you wanted the judge to include in the charge -
+
+17
+
+MR. FERNICH:
+
+To be sure.
+
+18
+
+JUSTICE GINSBURG:
+
+-- and it's your
+
+19
+
+requested charge, as to say to have an enterprise you
+
+20
+
+need to have -- the group has to have an ascertainable
+
+21
+
+structural hierarchy.
+
+22
+
+requested charge.
+
+23
+24
+25
+
+Those are the three words in your
+
+MR. FERNICH:
+
+Well, respectfully, Your
+
+Honor, it goes beyond that, because the end of JUSTICE GINSBURG:
+
+But those -- but you did
+
+9
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+ask for those.
+
+2
+
+MR. FERNICH:
+
+I did, and -
+
+3
+
+JUSTICE GINSBURG:
+
+And now I'm asking you,
+
+4
+
+what does that mean?
+
+5
+
+jury is puzzled:
+
+6
+
+you mean by "ascertainable structural hierarchy"; would
+
+7
+
+you please tell us specifically?
+
+8
+9
+
+The judge gives your charge, the
+
+Your Honor, we don't understand what
+
+MR. FERNICH:
+
+Yes, Your Honor.
+
+First of
+
+all, the charge that we are asking for specifically is a
+
+10
+
+charge that is given in the Seventh and Eighth Circuits
+
+11
+
+which says a structure separate from the commission of
+
+12
+
+the predicate acts themselves.
+
+13
+
+in that instance the judge could, as spelled out in
+
+14
+
+pages 31 through 35 of our reply brief, give examples,
+
+15
+
+any number of examples that have been spelled out by the
+
+16
+
+lower courts in -- that have adopted a structure
+
+17
+
+requirement.
+
+18
+
+JUSTICE GINSBURG:
+
+If a jury were puzzled,
+
+And some of those
+
+19
+
+examples it seems are present here.
+
+20
+
+longevity, well, this has been going on for 10 years;
+
+21
+
+another was a unique way of operating, and they are
+
+22
+
+specialists in deposit boxes and they have look-out
+
+23
+
+people and they have people who actually break into the
+
+24
+
+bank, and they have a certain amount of skill.
+
+25
+
+One you gave was
+
+So we have longevity, modus operandi, and a
+10
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+division of labor.
+
+2
+
+lookouts and other people doing other things.
+
+3
+
+looking at your list in the reply brief, and it seems to
+
+4
+
+me that this organization, this association of
+
+5
+
+individuals, has some of those characteristics.
+
+6
+
+They have some people being their
+
+MR. FERNICH:
+
+So I was
+
+Your Honor, first of all, to
+
+7
+
+get right down to the nitty-gritty of the verdict in the
+
+8
+
+case, it's important to focus on what the jury actually
+
+9
+
+found.
+
+The enterprise as charged was a 10-year
+
+10
+
+enterprise.
+
+11
+
+the jury ranging in date from late December of 1998
+
+12
+
+through early January of 1999.
+
+13
+
+is certainly something that we dispute here.
+
+14
+
+There were three predicate acts found by
+
+So the longevity aspect
+
+Again, to answer Your Honor, to go back to
+
+15
+
+the beginning of our argument, to be sure the thrust of
+
+16
+
+our argument in this Court is directed to the jury
+
+17
+
+instruction in this case.
+
+18
+
+don't for a minute concede that the evidence was legally
+
+19
+
+sufficient under rule 29.
+
+20
+
+properly instructed and made such a finding, i.e., to
+
+21
+
+find a separately structured enterprise, that would be a
+
+22
+
+finding that would command significant deference, and
+
+23
+
+I'd be hard-pressed -
+
+24
+25
+
+It may be conceivable, we
+
+That said, had a jury been
+
+JUSTICE SCALIA:
+hierarchy?
+
+Why -- why do you need a
+
+Why do you need a boss?
+11
+Alderson Reporting Company
+
+Why can't it be a
+
+Official - Subject to Final Review
+
+1
+
+democratic mob?
+
+2
+
+that all of their decisions will be taken unanimously?
+
+3
+4
+
+MR. FERNICH:
+
+We don't contend before this
+
+Court that it must be hierarchical per se.
+
+5
+
+JUSTICE SCALIA:
+
+6
+
+requested.
+
+7
+
+requested?
+
+8
+9
+
+I mean, there is no boss and they agree
+
+Certainly -
+
+Well, that's what you
+
+Isn't -- isn't that the instruction you
+
+MR. FERNICH:
+
+On the facts of this case,
+
+consistent with the examples that are spelled out
+
+10
+
+comprehensively in both the opening brief and the reply
+
+11
+
+brief, that is the one that we focused on.
+
+12
+
+sure -- to be sure, I also objected to the charge as
+
+13
+
+given in its entirety.
+
+14
+
+contention that a hierarchical structure -- hierarchical
+
+15
+
+structure is an irreducible minimum.
+
+16
+
+But to be
+
+In this Court we don't press the
+
+JUSTICE SOUTER:
+
+We do -
+
+Well, you couldn't, could
+
+17
+
+you, because the -- an organization can consist of an
+
+18
+
+individual.
+
+19
+
+requirements that you have been specifying would in an
+
+20
+
+individual case be met simply by showing that there was
+
+21
+
+-- there was an individual in business who had a brain.
+
+22
+
+And it seems to me that all of the
+
+MR. FERNICH:
+
+An individual, Your Honor, is
+
+23
+
+-- is a legal entity under the first clause of 1961(4).
+
+24
+
+It means a sole proprietorship in this context.
+
+25
+
+individual, a legal entity, as set forth in the first
+12
+Alderson Reporting Company
+
+And an
+
+Official - Subject to Final Review
+
+1
+
+clause of 1961(4), by definition -
+
+2
+
+JUSTICE SOUTER:
+
+Well, but, if I set up a
+
+3
+
+newsstand, it's a sole proprietorship and that's all I
+
+4
+
+have to do.
+
+5
+
+decisionmaking mechanism.
+
+6
+
+what I did, so I have continuity.
+
+7
+
+to me that all of these requirements are -- are
+
+8
+
+virtually satisfied as a matter of course by an
+
+9
+
+individual who engages in any kind of business that
+
+10
+
+And if I have a functioning brain, I have a
+I remember from day-to-day
+And -- and it seems
+
+might have interstate-commerce implications.
+
+11
+
+MR. FERNICH:
+
+And that is not an absurd
+
+12
+
+result.
+
+13
+
+the primary purpose of the statute as enacted, which was
+
+14
+
+to prevent the subversion and infiltration of legitimate
+
+15
+
+business by criminal elements.
+
+16
+
+It is a -- and it is a result that squares with
+
+JUSTICE SOUTER:
+
+Oh, absolutely.
+
+But it
+
+17
+
+seems to me that it -- it puts you in sort of a -- a
+
+18
+
+difficult position to -- to be calling for or -- or
+
+19
+
+requiring jury instructions that call for, as necessary
+
+20
+
+conditions, findings of structure, continuity, decision
+
+21
+
+making, capacity and so on, when in fact on -- on at
+
+22
+
+least one variety of enterprise, these conditions are -
+
+23
+
+are met virtually automatically simply by having
+
+24
+
+somebody doing business in any way.
+
+25
+
+MR. FERNICH:
+
+To be sure, Your Honor, we are
+13
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+only calling -- and the problem only arises in the
+
+2
+
+context of an association-in-fact enterprise.
+
+3
+
+weight of authority and the plain language of 1961(4)
+
+4
+
+does not define an individual as an association-in-fact
+
+5
+
+enterprise.
+
+6
+
+language of the statute to call an individual an
+
+7
+
+association-in-fact enterprise.
+
+8
+
+would create a whole set of other problems,
+
+9
+
+distinctly -
+
+The great
+
+And it does not square with the plain
+
+And, moreover, doing so
+
+10
+
+JUSTICE SOUTER:
+
+11
+
+individual can be an -- an enterprise.
+
+12
+
+MR. FERNICH:
+
+13
+
+JUSTICE SOUTER:
+
+Oh, I agree, but an
+
+A legal enterprise.
+And -- and an association,
+
+14
+
+in fact, can be an enterprise.
+
+15
+
+two propositions, then I think you've got a tough row to
+
+16
+
+hoe in saying that any enterprise which is not an
+
+17
+
+individual has got to have all the formal
+
+18
+
+characteristics that you talk about, given the fact that
+
+19
+
+those characteristics are automatically satisfied by an
+
+20
+
+individual.
+
+21
+
+MR. FERNICH:
+
+And if we accept those
+
+We don't -- we don't press
+
+22
+
+that contention, Your Honor.
+
+We specifically press it
+
+23
+
+for the phrase "any union or group of individuals
+
+24
+
+associated in fact, although not a legal entity."
+
+25
+
+"individual" portion appears in the first clause of the
+14
+Alderson Reporting Company
+
+The
+
+Official - Subject to Final Review
+
+1
+
+statute.
+
+The distinctness problem simply does not arise
+
+2
+
+in the context of a legal-entity enterprise.
+
+3
+
+And it's important to note, as this Court
+
+4
+
+said in Salinas -- recognized in Salinas ---virtually
+
+5
+
+every criminal prosecution that is brought under 1962(c)
+
+6
+
+is brought against an illicit association-in-fact
+
+7
+
+enterprise.
+
+8
+
+an association-in-fact enterprise, I don't think it's a
+
+9
+
+valid association-in-fact enterprise as a matter of law.
+
+The -- the scenario of an individual being
+
+10
+
+There is a line of cases from the Seventh Circuit that
+
+11
+
+says it's not.
+
+12
+
+And this structural problem, having a
+
+13
+
+structure that is distinct from the pattern of
+
+14
+
+racketeering activities so that the two elements, I
+
+15
+
+should say, are kept separate and apart, only arises in
+
+16
+
+the context of an association-in-fact enterprise, which
+
+17
+
+is, of course, a very, very wide swath.
+
+18
+
+JUSTICE GINSBURG:
+
+Would it include, let's
+
+19
+
+say, a street gang?
+
+How about -- this may be before
+
+20
+
+your time, but "The Lavender Hill Mob"?
+
+21
+
+MR. FERNICH:
+
+22
+
+JUSTICE GINSBURG:
+
+23
+
+"The Lavender Hill Mob."
+
+24
+
+MR. FERNICH:
+
+25
+
+I'm sorry, Your Honor?
+The Alec Guiness movie,
+
+Oh, well, certainly we don't
+
+have any quarrel with the proposition of street gangs,
+15
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+and many of them are cited in our briefs.
+
+2
+
+preponderance of typical RICO prosecutions are
+
+3
+
+hierarchical, drug-type street gangs which have
+
+4
+
+regimented structures.
+
+5
+
+Justice Scalia's question, we don't contend that that is
+
+6
+
+a strict necessity, but certainly they are not going to
+
+7
+
+have a problem establishing a structured enterprise with
+
+8
+
+a regimented drug gang.
+
+9
+
+The great
+
+And again, to answer
+
+JUSTICE ALITO:
+
+If hierarchy is not
+
+10
+
+required, then I'm not clear what more -- what you think
+
+11
+
+needs to be shown beyond the fact that there was an
+
+12
+
+association in fact and whatever continuity needs to be
+
+13
+
+shown in order to establish the pattern.
+
+14
+
+needs to be shown beyond that?
+
+15
+
+MR. FERNICH:
+
+16
+
+JUSTICE ALITO:
+
+17
+18
+
+What -- what
+
+Well, Your Honor What needs to be charged to
+
+the jury that they must find beyond that?
+MR. FERNICH:
+
+We contend that they must be
+
+19
+
+charged that there has to be a structure separate from
+
+20
+
+the commission of the predicate acts themselves.
+
+21
+
+Seventh and Eighth Circuits use pattern jury
+
+22
+
+instructions that give that precise charge.
+
+23
+
+has been, to my knowledge, no reported difficulties -
+
+24
+
+JUSTICE ALITO:
+
+25
+
+MR. FERNICH:
+
+The
+
+And there
+
+But What does that mean?
+It means -- and -- and I would
+16
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+take the test most prominently from Your Honor's own
+
+2
+
+home circuit as spelled out in the Riccobene case:
+
+3
+
+an ongoing decisional-making apparatus to guide the
+
+4
+
+affairs of the enterprise, a directional mechanism.
+
+5
+
+A -
+
+The Third Circuit in Riccobene said an
+
+6
+
+overseeing, clearinghouse and coordination function, and
+
+7
+
+-- and a cohesive existence between predicate acts.
+
+8
+
+JUSTICE ALITO:
+
+I -- I just -
+
+9
+
+JUSTICE KENNEDY:
+
+Basically, you described
+
+10
+
+this -- this gang.
+
+11
+
+other person brings the hook to pull the -- the box off.
+
+12
+
+Another person scouts it out.
+
+13
+
+scanner.
+
+14
+
+just described.
+
+15
+
+One -- one person is a guard.
+
+The
+
+Another person's got the
+
+It seems to me to fit precisely what you have
+
+MR. FERNICH:
+
+The gang has no structure
+
+16
+
+aside from that which is a necessary incident to the
+
+17
+
+commission of each racketeering act.
+
+18
+
+there has to be a formal organization, but there is no
+
+19
+
+evidence of any continuing, ongoing organization other
+
+20
+
+than that when they get together to commit the predicate
+
+21
+
+crimes.
+
+22
+
+JUSTICE KENNEDY:
+
+We don't contend
+
+Isn't it pretty clear that
+
+23
+
+if the -- the person who is supposed to be the lookout
+
+24
+
+doesn't perform his job, he is not going to be included
+
+25
+
+in that next heist?
+17
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+2
+
+MR. FERNICH:
+
+There is no evidence of that
+
+in the record to my knowledge, Your Honor.
+
+3
+
+JUSTICE GINSBURG:
+
+Isn't there a record that
+
+4
+
+this is a more or less steady group that hangs out
+
+5
+
+together, except when one of them gets caught and put in
+
+6
+
+jail, and then they replace him with someone?
+
+7
+
+is -- this was explained as a group that meets regularly
+
+8
+
+in the Brooklyn Social Club?
+
+9
+
+MR. FERNICH:
+
+But this
+
+Your Honor, the testimony
+
+10
+
+about the Brooklyn Social Club is -- is a little bit
+
+11
+
+overdrawn, I would say.
+
+12
+
+pages 58 and 74 through 75 of the joint appendix, and
+
+13
+
+this is the testimony of the witness Gerard Bellafiore,
+
+14
+
+whose testimony, by the way, is the only testimony we
+
+15
+
+know for a fact that the jury credited.
+
+16
+
+club to hang out in, not for any type of anything."
+
+17
+18
+
+And I would direct the Court to
+
+JUSTICE GINSBURG:
+
+Quote:
+
+"Just a
+
+But one of the members
+
+owned the club, right?
+
+19
+
+MR. FERNICH:
+
+Yes.
+
+That -- that's true.
+
+20
+
+But that -- there is no evidence in the record that they
+
+21
+
+would do anything other than, for example -- and this is
+
+22
+
+not in the record -- for example, shoot pool at the
+
+23
+
+club.
+
+24
+
+qualify it in that way so that he wasn't gilding the
+
+25
+
+lily.
+
+And -- and Bellafiore himself was careful to
+
+18
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+JUSTICE ALITO:
+
+Suppose you have a gang that
+
+2
+
+gets together every Friday afternoon and by democratic
+
+3
+
+means they decide what crime they are going to commit
+
+4
+
+that weekend.
+
+5
+
+they look at the whole list of RICO predicates, and they
+
+6
+
+choose a different one each -- you know, each weekend to
+
+7
+
+commit.
+
+8
+
+in doing that they perform different roles at different
+
+9
+
+times.
+
+10
+
+And they are multi-talented so they -
+
+And they do that over some period of time, and
+
+Is -- is that an enterprise?
+MR. FERNICH:
+
+It sounds to me like a jury
+
+11
+
+could -- if they are having regular Friday meetings and
+
+12
+
+they are using sophisticated means to canvas the RICO
+
+13
+
+statute with a degree of complexity and sophistication
+
+14
+
+to figure out what they are going to do or maybe even
+
+15
+
+try to evade the statute, it probably -
+
+16
+
+JUSTICE ALITO:
+
+We will take that part out
+
+17
+
+of it.
+
+They don't look at the statute.
+
+They just -
+
+18
+
+whatever crime comes to somebody's mind.
+
+19
+
+want to commit a crime every weekend to -- to make some
+
+20
+
+money.
+
+21
+
+means, different roles.
+
+They -- they
+
+But it is a different thing, done by different
+
+22
+
+MR. FERNICH:
+
+23
+
+JUSTICE ALITO:
+
+24
+
+ascertainable structure?
+
+25
+
+MR. FERNICH:
+
+If the jury Does that have an
+
+If the jury were properly
+19
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+instructed that there had to be a structure separate and
+
+2
+
+apart from just that which is inherent in the commission
+
+3
+
+of each act, a properly instructed jury probably could
+
+4
+
+well find the requirements satisfied on -- on the
+
+5
+
+hypothetical that Your Honor has posited.
+
+6
+
+The cases say -- the cases out of the
+
+7
+
+Seventh Circuit say it is not a high hurdle.
+
+8
+
+it's a low hurdle, and there has to be some structure,
+
+9
+
+but not much -- not much to distinguish between -
+
+10
+
+JUSTICE ALITO:
+
+Well, what structure would
+
+11
+
+there be there?
+
+12
+
+would satisfy the structural requirement?
+
+13
+
+They say
+
+What characteristics of that group
+
+MR. FERNICH:
+
+The ongoing existence, the
+
+14
+
+regular meetings, and the degree of sophistication
+
+15
+
+employed.
+
+16
+
+getting together on an impromptu basis as opportunities
+
+17
+
+arise, but they are sitting around on a regular basis
+
+18
+
+for a -- a continuing period of time and planning things
+
+19
+
+out.
+
+20
+
+going to do next weekend?
+
+21
+
+And it implies that they are not just sort of
+
+What are we going to do this weekend?
+
+What are we
+
+Let's twist the hypothetical a little bit.
+
+22
+
+Maybe they project our three or four weeks ahead of
+
+23
+
+time.
+
+24
+
+kind of sophistication, some kind of coordination.
+
+25
+
+is the crux of the statute.
+
+That's what RICO is -- is getting after, some
+
+20
+Alderson Reporting Company
+
+This
+
+Official - Subject to Final Review
+
+1
+2
+
+JUSTICE GINSBURG:
+
+How about during the
+
+period that this man -- what was his name, Mangia -
+
+3
+
+MR. FERNICH:
+
+Mangiavillano, Your Honor.
+
+4
+
+JUSTICE GINSBURG:
+
+Yes.
+
+When he was running
+
+5
+
+the show, it seems that he was a leader, and that the -
+
+6
+
+and that the group wasn't quite as democratic before he
+
+7
+
+got sent to prison.
+
+8
+9
+
+MR. FERNICH:
+
+Your Honor, the testimony in
+
+the record is that -- again, what was found by the jury
+
+10
+
+here.
+
+The testimony is that Mangiavillano and Boyle and
+
+11
+
+Bellafiore never committed any crimes together.
+
+12
+
+-- it is very extensively briefed in -- in the lower
+
+13
+
+court.
+
+14
+
+a long multiple-conspiracies argument.
+
+15
+
+to get into that in this Court.
+
+The Second Circuit never addressed it.
+
+It is
+
+There is
+
+We are not going
+
+16
+
+The fact is that Mangiavillano had nothing
+
+17
+
+to do, nothing to do with the bank burglaries found in
+
+18
+
+this case.
+
+19
+
+I shouldn't say "burglaries" -
+
+There were three burglaries found as RICO --
+
+20
+
+JUSTICE GINSBURG:
+
+21
+
+MR. FERNICH:
+
+22
+
+JUSTICE GINSBURG:
+
+That wasn't what I meant.
+
+Okay.
+I meant, would the
+
+23
+
+organization, as it was described to exist at the time
+
+24
+
+Mangiavillano was there, would that have satisfied the
+
+25
+
+definition of "structure" because it had a leader?
+21
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+MR. FERNICH:
+
+It may have at that point, but
+
+2
+
+there was no evidence -- and -- and because it's outside
+
+3
+
+of the time frame of what the jury has found, there is a
+
+4
+
+lot more diversity in the criminality that was alleged
+
+5
+
+during that period.
+
+6
+
+A properly instructed jury may have found
+
+7
+
+that there was an enterprise existing at that time,
+
+8
+
+Although I'm not even sure a jury could so find under
+
+9
+
+Turkette because the core of the membership changed very
+
+10
+
+dramatically over a period of time.
+
+11
+
+would be one -- to be sure, leadership is something that
+
+12
+
+a jury could take into account and could permissibly
+
+13
+
+find if they were properly instructed.
+
+14
+
+this case, I cannot answer that question definitively.
+
+15
+
+JUSTICE BREYER:
+
+But the leadership
+
+On the facts of
+
+Could you try something out
+
+16
+
+in your mind, and maybe you can't react to it.
+
+17
+
+trying to figure out how the structure requirement, what
+
+18
+
+to say, and a thought was occurring to me which I am not
+
+19
+
+wedded to, I would like some reactions to it:
+
+20
+
+that there is a structure means that among this
+
+21
+
+association of people there must be rules,
+
+22
+
+understandings, or behavior that tend to keep the
+
+23
+
+association together over time, other than those which
+
+24
+
+would be essential to allow them to commit the
+
+25
+
+particular crimes at issue.
+22
+Alderson Reporting Company
+
+I'm
+
+Is to say
+
+Official - Subject to Final Review
+
+1
+
+MR. FERNICH:
+
+2
+
+take a ruling like that, but what -
+
+3
+
+Certainly the defense would
+
+JUSTICE BREYER:
+
+Well, I know, but I'm
+
+4
+
+trying to work out in my mind, is that a sensible thing
+
+5
+
+to say?
+
+6
+
+everything in the universe has a structure, and so it's
+
+7
+
+awfully vague?
+
+8
+
+specific.
+
+9
+
+The trouble with the word "structure" is
+
+I'm trying to make it a little bit more
+
+MR. FERNICH:
+
+A structure -- the structure I
+
+10
+
+don't think entails necessarily rules, regulations, et
+
+11
+
+cetera.
+
+12
+
+I don't think the word "structure" JUSTICE BREYER:
+
+That isn't what I said.
+
+13
+
+said:
+
+14
+
+tend to keep the association together over time, other
+
+15
+
+than those rules, understandings and associations and
+
+16
+
+behaviors that would be necessary -- "necessary" meant
+
+17
+
+strongly -- to commit the particular crimes at issue.
+
+18
+19
+
+Rules, understandings, forms of behavior that
+
+MR. FERNICH:
+
+Is Your Honor's question is
+
+that a sensible definition of "structure"?
+
+20
+
+JUSTICE BREYER:
+
+21
+
+MR. FERNICH:
+
+22
+23
+24
+25
+
+Yes.
+
+Yes, it is a sensible
+
+definition of "structure."
+And if there are no further questions, I
+would like to reserve the rest of my time.
+CHIEF JUSTICE ROBERTS:
+23
+Alderson Reporting Company
+
+Thank you, Mr.
+
+I
+
+Official - Subject to Final Review
+
+1
+
+Fernich.
+
+2
+
+Mr. Yang.
+
+3
+
+ORAL ARGUMENT OF ANTHONY YANG
+
+4
+
+ON BEHALF OF THE RESPONDENT
+
+5
+6
+
+MR. YANG:
+
+Mr. Chief Justice, and may it
+
+please the Court:
+
+7
+
+An association-in-fact enterprise need not
+
+8
+
+have an ascertainable structure distinct from the
+
+9
+
+predicate act of racketeering committed by one of its
+
+10
+
+associates, whatever that means.
+
+RICO's statutory text,
+
+11
+
+its surrounding context, and this Court's construction
+
+12
+
+of the statute show that RICO's definition of
+
+13
+
+"enterprise" is broad and contains no such limitation.
+
+14
+
+Petitioner's primary argument, that the term
+
+15
+
+"enterprise" is rendered superfluous and merges with the
+
+16
+
+charged pattern of racketeering acts, is wrong for at
+
+17
+
+least three reasons:
+
+18
+
+matter.
+
+19
+
+pattern is a series of acts.
+
+20
+
+account for the fact that the relevant pattern of -
+
+21
+
+First, it's wrong as a formal
+
+The enterprise is a group of individuals.
+
+JUSTICE SCALIA:
+
+The
+
+Second, it fails to
+
+Wait, wait, wait, wait,
+
+22
+
+wait.
+
+I assume that he was responding to the argument
+
+23
+
+that you can establish the enterprise from the mere
+
+24
+
+existence of the pattern of the acts, from the separate
+
+25
+
+acts.
+
+And if indeed it takes nothing more than the acts
+24
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+to constitute the enterprise, it seems to me he has a
+
+2
+
+point.
+
+3
+
+MR. YANG:
+
+4
+
+JUSTICE SCALIA:
+
+5
+6
+
+That goes to my second reason.
+Oh, so we'll forget about
+
+your first one.
+MR. YANG:
+
+Well, let me go to -- which I
+
+7
+
+think it addresses the second reason.
+
+It's distinct as
+
+8
+
+a formal matter, which is that have you to have find a
+
+9
+
+group of individuals versus a series of facts.
+
+You can
+
+10
+
+infer the group from their actions, just as can you
+
+11
+
+infer, you know, a relationship between individuals by
+
+12
+
+the way they act together.
+
+But -
+
+13
+
+JUSTICE SCALIA:
+
+14
+
+MR. YANG:
+
+So -
+
+My first point is a formal one.
+
+15
+
+The second point goes straight to the statute:
+
+16
+
+relevant pattern of racketeering acts that is at issue
+
+17
+
+in RICO -- this is 1962(c) -- is a pattern of acts
+
+18
+
+committed by an individual defendant, not a group.
+
+19
+
+fact, in H.J. this Court explained that the premise that
+
+20
+
+the pattern has to be performed by a group or an
+
+21
+
+association -- this is at page 244 of the Court's
+
+22
+
+opinion there -- was wrong and that the pattern can be
+
+23
+
+fully the work of an individual acting alone.
+
+24
+25
+
+That the
+
+In
+
+It's also wrong because an enterprise
+remains wholly distinct and pertinent in numerous RICO
+25
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+contexts under the government's interpretation.
+
+2
+
+JUSTICE BREYER:
+
+When you say "individual,"
+
+3
+
+the first part of the definition of "enterprise" speaks
+
+4
+
+about any individual partnership, corporation,
+
+5
+
+association, or other legal entity.
+
+6
+
+MR. YANG:
+
+That's correct.
+
+7
+
+JUSTICE BREYER:
+
+So then, I've read
+
+8
+
+somewhere that people feel that where that individual is
+
+9
+
+involved, the individual is acting as an -- a legal
+
+10
+
+entity such as a sole proprietorship.
+
+11
+
+MR. YANG:
+
+Is that right?
+
+An individual can be an
+
+12
+
+enterprise as a sole proprietorship, if that's the
+
+13
+
+question.
+
+14
+
+JUSTICE BREYER:
+
+I'm talking about a legal
+
+15
+
+entity.
+
+16
+
+about here, specifically, it is "a corporation, a union,
+
+17
+
+or a group of individuals associated in fact although
+
+18
+
+not a legal entity."
+
+19
+
+And in the second clause, what we are talking
+
+MR. YANG:
+
+That's correct.
+
+I think there
+
+20
+
+may be some miscommunication on my part.
+
+21
+
+the Court to page 5a of the appendix which reproduces
+
+22
+
+section 1962(c).
+
+23
+
+any person" -- it doesn't say "group," "enterprise" or
+
+24
+
+an "association" -- "that is employed or associated with
+
+25
+
+an enterprise" -
+
+It states:
+
+I would direct
+
+"It shall be unlawful for
+
+26
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+2
+
+JUSTICE SCALIA:
+
+Not the
+
+joint appendix?
+
+3
+4
+
+What appendix?
+
+MR. YANG:
+brief.
+
+Excuse me.
+
+The appendix to our
+
+I'm sorry.
+
+5
+
+JUSTICE SCALIA:
+
+6
+
+MR. YANG:
+
+All right.
+
+The gray brief.
+
+So what's
+
+7
+
+relevant for purposes of showing an element of a 1962(c)
+
+8
+
+violation is that the defendant alone, perhaps with
+
+9
+
+others, but the element is the defendant has to commit a
+
+10
+
+pattern of racketeering.
+
+There are other elements.
+
+11
+
+instance, the defendant has to do so in a manner that
+
+12
+
+participates in the conduct of the affairs of the
+
+13
+
+enterprise.
+
+14
+
+distinct concept, that is the enterprise.
+
+For
+
+But, of course, that embraces a wholly
+
+15
+
+Now, in many cases, as you have here, the
+
+16
+
+pattern of racketeering activity of this defendant is
+
+17
+
+proved by evidence that that defendant was also working
+
+18
+
+in concert with others.
+
+19
+
+pattern element, which, again, is the individual's
+
+20
+
+pattern of acts, is proved by the same type of evidence
+
+21
+
+that would prove the -
+
+22
+
+And so in that case, the
+
+CHIEF JUSTICE ROBERTS:
+
+So then you'd have
+
+23
+
+an easy time before the jury.
+
+And same thing with
+
+24
+
+respect to the individual.
+
+25
+
+when you are dealing with one person, it's pretty easy
+
+All that's saying is that
+
+27
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+to prove that he, you know, directs himself or, you
+
+2
+
+know, has an ongoing plan, but that doesn't mean that
+
+3
+
+it's not a separate element that the jury should have to
+
+4
+
+find.
+
+5
+
+MR. YANG:
+
+We don't say that it's not a
+
+6
+
+separate element, and we also don't say that a pattern
+
+7
+
+necessarily would -
+
+8
+9
+
+CHIEF JUSTICE ROBERTS:
+
+Well, you say that
+
+it's not distinct from the underlying offenses.
+
+10
+
+MR. YANG:
+
+No, I don't believe so.
+
+I think
+
+11
+
+what we have said is that the evidence regarding the
+
+12
+
+pattern of activity allows the jury to infer the
+
+13
+
+existence of an enterprise because an enterprise -
+
+14
+
+CHIEF JUSTICE ROBERTS:
+
+But they don't have
+
+15
+
+to be separately instructed that they have to find that,
+
+16
+
+do they?
+
+17
+18
+19
+
+MR. YANG:
+
+No, they do.
+
+And in fact the
+
+jury can CHIEF JUSTICE ROBERTS:
+
+What is the
+
+20
+
+instruction that the Seventh Circuit and the Eighth
+
+21
+
+Circuit give that you don't think is necessary?
+
+22
+
+MR. YANG:
+
+The instruction is pertaining to
+
+23
+
+an ascertainable structure distinct from the pattern of
+
+24
+
+racketeering.
+
+25
+
+enterprise, and the jury may not infer an enterprise
+
+Here you still have to show an
+
+28
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+from the pattern, but certainly it's open to the jury.
+
+2
+
+When that pattern -- again, a pattern is an individual's
+
+3
+
+conduct -- but when that pattern is shown through
+
+4
+
+evidence that the individual is acting with others over
+
+5
+
+a long period of time -- to either establish that it's a
+
+6
+
+pattern of racketeering activity, if that same evidence
+
+7
+
+not only shows that the individual committed a pattern
+
+8
+
+of racketeering activity, but it was done in concert
+
+9
+
+with others and that the -- that evidence shows that a
+
+10
+
+group of individuals had associated in fact for the
+
+11
+
+common purpose of engaging in criminal conduct.
+
+12
+
+JUSTICE ALITO:
+
+Would you agree there could
+
+13
+
+be a situation in which an individual engages in a
+
+14
+
+pattern of racketeering activity together with other
+
+15
+
+people and yet is not participating in the affairs of an
+
+16
+
+enterprise through the pattern of racketeering activity?
+
+17
+
+MR. YANG:
+
+Well, I think that's the case
+
+18
+
+that we gave -- an example that we gave in our brief,
+
+19
+
+which is saying an individual commits a very long string
+
+20
+
+of bank burglaries and -- actually, make it robberies.
+
+21
+
+Robbery is a predicate act; burglary is not.
+
+22
+
+burglaries with individuals, but each time he does it,
+
+23
+
+it's with a different group of individuals.
+
+24
+
+-- the individual would be established -- you could
+
+25
+
+establish a pattern from, say, the relatedness of the
+29
+Alderson Reporting Company
+
+Bank
+
+There you
+
+Official - Subject to Final Review
+
+1
+
+crimes to an M.O. or a -- and in the long continuous
+
+2
+
+string of crimes, more than a few months, perhaps years.
+
+3
+
+But it would not establish an enterprise.
+
+4
+5
+
+JUSTICE ALITO:
+not?
+
+What -
+
+6
+7
+
+And what is -- why would it
+
+MR. YANG:
+
+Because there would be -- you
+
+would -
+
+8
+
+JUSTICE ALITO:
+
+9
+
+MR. YANG:
+
+What's lacking there?
+
+What would show is that the
+
+10
+
+individual is not working in concert with others to
+
+11
+
+achieve an end.
+
+12
+
+any two of the crimes except for the individual acting
+
+13
+
+alone.
+
+14
+
+There's no parallel identity between
+
+CHIEF JUSTICE ROBERTS:
+
+I thought an
+
+15
+
+individual -- I thought an individual could be the
+
+16
+
+enterprise?
+
+17
+
+MR. YANG:
+
+18
+
+CHIEF JUSTICE ROBERTS:
+
+19
+20
+
+One -- he could be An independent
+
+contractor rather than an employee.
+MR. YANG:
+
+He could be an enterprise but not
+
+21
+
+one -- when an individual acts an alone as an
+
+22
+
+enterprise, the individual is not liability for
+
+23
+
+racketeering acts under 1962(c) under this Court's
+
+24
+
+decision in Cedric Kushner, because there's a
+
+25
+
+requirement in 1962(c) that the individual has to be
+30
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+employed by or associated with the enterprise.
+
+2
+
+Court has explained that you have to have some
+
+3
+
+distinctiveness between the enterprise itself and the
+
+4
+
+individual.
+
+5
+
+And this
+
+So with respect to the individual, there
+
+6
+
+would be no -- there might be an enterprise.
+
+7
+
+conceivable that he could be deemed an enterprise, but
+
+8
+
+not one that has any relevance for RICO purposes under
+
+9
+
+1962(c).
+
+10
+
+JUSTICE ALITO:
+
+It is
+
+What if he has a list of 25
+
+11
+
+people who may, on various occasions, want to
+
+12
+
+participate with him in bank robberies?
+
+13
+
+gets the urge to commit a bank robbery, he gets out his
+
+14
+
+rolodex and he picks one or more of them and calls them
+
+15
+
+up and they commit the bank robbery?
+
+16
+
+MR. YANG:
+
+So whenever he
+
+I guess it's unlikely that the
+
+17
+
+government, if that were the only fact, could show an
+
+18
+
+enterprise.
+
+19
+
+the individuals had gotten together and said, yeah, you
+
+20
+
+know what, call me, let's work together, when I'm
+
+21
+
+available call me, but it just happens he never called
+
+22
+
+me twice.
+
+23
+24
+25
+
+If there was some additional evidence that
+
+JUSTICE ALITO:
+
+What is the element, then,
+
+that is missing?
+MR. YANG:
+
+Well, what's required under this
+31
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+Court's decision in Turkette, which we think flows
+
+2
+
+directly from the language, any group of individuals
+
+3
+
+associated in fact, is that the group of persons must be
+
+4
+
+associated together for a common purpose of engaging in
+
+5
+
+a course of conduct.
+
+6
+
+Turkette explained, by evidence of some kind of ongoing
+
+7
+
+organization, formal or informal, that -- whose
+
+8
+
+associates function as an ongoing unit.
+
+9
+
+And that could be shown, as
+
+And in order to prove through one's actions
+
+10
+
+with others that there is an entity -- some agreement
+
+11
+
+and continuing unit behind it, you are going to have to
+
+12
+
+show some identity in the group.
+
+13
+
+identity except for one person, it would be very
+
+14
+
+difficult to show an enterprise.
+
+15
+16
+
+JUSTICE SOUTER:
+I'm losing the argument.
+
+17
+
+MR. YANG:
+
+If there is no
+
+Why -- I guess that's where
+
+Why is it difficult?
+
+It would be difficult to prove an
+
+18
+
+association in fact.
+
+19
+
+to prove an association in fact of more than one person
+
+20
+
+as the enterprise in that context, because it would be
+
+21
+
+difficult to show that that person had joined with
+
+22
+
+others for the common purpose of engaging in a course of
+
+23
+
+common conduct.
+
+24
+
+crimes.
+
+25
+
+I'm sorry.
+
+It would be difficult
+
+It would just be a series of distinct
+
+JUSTICE SOUTER:
+
+Then why don't you dispense
+
+32
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+with the association-in-fact category and simply go with
+
+2
+
+the individual?
+
+3
+
+MR. YANG:
+
+That was my answer to the Chief
+
+4
+
+Justice's question, because under 1962(c), there has to
+
+5
+
+be distinctiveness in that context.
+
+6
+
+JUSTICE BREYER:
+
+Two people -- two people
+
+7
+
+walk along the street and know each other, suppose
+
+8
+
+that's the example, and one of them says I have a great
+
+9
+
+idea.
+
+Let's go in and take some money out of the post
+
+10
+
+office.
+
+The other says, what happens if a policeman
+
+11
+
+comes?
+
+12
+
+Then they do it.
+
+The first one says, we'll bribe him.
+
+13
+14
+
+That's it.
+
+16
+
+JUSTICE BREYER:
+
+19
+20
+21
+22
+
+But is RICO
+
+supposed to catch that?
+MR. YANG:
+
+18
+
+Period.
+
+Now, of course that's illegal.
+
+15
+
+17
+
+Okay.
+
+No.
+What is it that keeps them
+
+out of it?
+MR. YANG:
+
+Well, RICO requires, among other
+
+things, a pattern of racketeering.
+JUSTICE BREYER:
+
+Well, here we have two -
+
+two -- two related crimes.
+MR. YANG:
+
+Well, they can be related, but
+
+23
+
+under this Court's decision in H.J. you also have to
+
+24
+
+show continuing criminal conduct.
+
+25
+
+JUSTICE BREYER:
+
+There was between the two.
+
+33
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+MR. YANG:
+
+Well, no.
+
+That has a particular
+
+2
+
+meaning under H.J., which is that it has to extend over
+
+3
+
+an extended period of time.
+
+4
+
+JUSTICE BREYER:
+
+That is the bribery.
+
+What
+
+5
+
+happens if three months from now the postal inspector
+
+6
+
+comes to catch us, we will bribe him.
+
+7
+
+MR. YANG:
+
+Well, again, I'm not sure that
+
+8
+
+that would meet the continuing aspect, either because
+
+9
+
+it's a threat of continuing activity or because it would
+
+10
+11
+
+satisfy the closing continuity.
+JUSTICE BREYER:
+
+You are quite right, I
+
+12
+
+agree with you that these are different efforts to try
+
+13
+
+to catch the same problem.
+
+14
+
+don't think anyone sees that the simple conspiracy in
+
+15
+
+carrying out of two criminal offenses by several people
+
+16
+
+together without more -- without something more should
+
+17
+
+violate RICO.
+
+18
+
+agree with that, but tell me if you don't.
+
+19
+
+And the problem is that I
+
+I think your answer to that would be you
+
+And then if you do agree with it, the very
+
+20
+
+difficult problem is to figure out how to get the people
+
+21
+
+to clearly show a pattern or not.
+
+22
+
+MR. YANG:
+
+I think I agree with that
+
+23
+
+proposition.
+
+But what needs to be shown is that there
+
+24
+
+needs to be an enterprise.
+
+25
+
+cases are lawful enterprises; sometimes in cases it
+
+Sometimes the enterprise in
+
+34
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+involves an unlawful organization or unlawful
+
+2
+
+association in fact, like we have here.
+
+3
+
+shown -- the statutory requirement, as explained in
+
+4
+
+Turkette, is simply that this group of people associate
+
+5
+
+together for a common purpose of engaging in a course of
+
+6
+
+conduct.
+
+7
+
+And that is
+
+Now, when you have a long -- a series, like
+
+8
+
+we have here of racketeer -- of crimes.
+
+9
+
+crimes went on for almost a decade, involved dozens and
+
+10
+
+These sets of
+
+dozens of bank heists.
+
+11
+
+CHIEF JUSTICE ROBERTS:
+
+In fact, your friend
+
+12
+
+said that the period the jury found was just a couple of
+
+13
+
+months.
+
+14
+
+MR. YANG:
+
+15
+
+acts of racketeering.
+
+16
+
+important issue, which is, the group largely was
+
+17
+
+committing bank burglaries.
+
+18
+
+acts.
+
+19
+
+interstate transportation of stolen funds.
+
+20
+
+three of those that were charged as the predicate act,
+
+21
+
+and the jury found those to constitute a pattern.
+
+22
+
+Yes, that concerns the predicate
+This is -- this raises another
+
+Those are not predicate
+
+The predicate acts here under RICO involve the
+There were
+
+But what this group of individuals were
+
+23
+
+doing, is they were associating in fact for a very long
+
+24
+
+period of time, committing dozens of bank -- bank
+
+25
+
+burglaries, and did so sometimes with the interstate
+35
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+transportation -- that's what brought -
+
+2
+
+JUSTICE SCALIA:
+
+3
+4
+5
+6
+7
+
+to the jury, all of those bank burglaries?
+MR. YANG:
+
+Oh, there were many things shown
+
+to the jury.
+JUSTICE SCALIA:
+
+MR. YANG:
+
+9
+
+JUSTICE SCALIA:
+
+11
+
+So it is not at issue in
+
+this case whether -- whether the entity can be -
+
+8
+
+10
+
+And -- and were they shown
+
+I have to say -- derived simply from the
+
+predicate acts?
+MR. YANG:
+
+I have to say I'm a little
+
+12
+
+perplexed at this stage in the litigation based -- how
+
+13
+
+we got here based on the objection that was made to the
+
+14
+
+district court.
+
+15
+
+a J.A. 95, was that there was an ascertainable
+
+16
+
+structural hierarchy which seems to be abandoned at this
+
+17
+
+point, distinct from the charged predicated acts of
+
+18
+
+racketeering, that was repeated at 103, 108, and 109.
+
+19
+
+And then there was also an objection that the entity has
+
+20
+
+to have a particular or formed structure, and that has
+
+21
+
+been abandoned and also inconsistent with Turkette,
+
+22
+
+which recognized that this could be an informal
+
+23
+
+association.
+
+24
+25
+
+The objection that was made, which was
+
+And, in fact, there was not an objection to
+the entire charge.
+
+Counsel at page J.A. 97, after 36
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+when the court explained that it was going to address
+
+2
+
+his proposed charge at J.A. 95 said, you know, I have
+
+3
+
+some specific objections to the charges written, and
+
+4
+
+then went through them, and raising those two objections
+
+5
+
+as we've just discussed here.
+
+6
+
+So, we've kind of evolved in terms of what
+
+7
+
+this case is all about.
+
+8
+
+right, I don't think he could prevail, even under the
+
+9
+
+charge he wants in this case.
+
+10
+11
+
+And even if the Petitioner were
+
+But let me turn to a few anomalies with
+respect to Petitioner's interpretation of a structure.
+
+12
+
+JUSTICE GINSBURG:
+
+Before you do that, Mr.
+
+13
+
+Yang, could you give us a sense, if you know it, about
+
+14
+
+the practical results of the different formulas that -
+
+15
+
+there are at least three formulas, I take it that the
+
+16
+
+different circuits have approved.
+
+17
+
+RICO prosecution, does it really make a difference which
+
+18
+
+one of these is charged or do they could out the same
+
+19
+
+way, anyway?
+
+20
+
+MR. YANG:
+
+In the result of the
+
+It will make a difference in some
+
+21
+
+cases.
+
+There is a case called Bagaric that this Court
+
+22
+
+cited in its National Organization for Women Against
+
+23
+
+Scheidler.
+
+24
+
+group of Croation nationalists, loosely knit, who agreed
+
+25
+
+to promote their anti-Yugoslavian through a series of
+
+In there, there was a -- the -- involved a
+
+37
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+acts they committed over a series of years, extortion,
+
+2
+
+murder, bombings.
+
+3
+
+very difficult to fit into the ascertainable structure
+
+4
+
+distinct from the predicate act of racketeering that
+
+5
+
+Petitioner espouses.
+
+6
+
+There was no structure, it would be
+
+There are other cases involving loosely knit
+
+7
+
+gangs such as neighborhood thugs.
+
+The Nascimento case
+
+8
+
+involved a neighborhood group of thugs that protected
+
+9
+
+each other, and that was their common -- common bonding
+
+10
+
+element through killing rivals or intimidating
+
+11
+
+witnesses.
+
+12
+
+colors, no initiation rights.
+
+13
+
+a long period of time.
+
+14
+
+There's no hierarchy there.
+
+There were no
+
+But this went on for over
+
+But beyond the classic cases that might fall
+
+15
+
+outside RICO, if the Court were to adopt an
+
+16
+
+ascertainable structure requirement, I think as
+
+17
+
+Petitioner's laundry list of -- of examples -- unless
+
+18
+
+my -- his reply brief illustrates, that is going to
+
+19
+
+involve a long course of case-by-case adjudication.
+
+20
+
+JUSTICE BREYER:
+
+What did you think -- what
+
+21
+
+did you think of the -- probably not much of it, but
+
+22
+
+what did you think of my effort there?
+
+23
+
+to point out, as you see, I am open to anything that
+
+24
+
+will deal with what I think of as a functional problem
+
+25
+
+and the functional problem is exhibited by that Posner
+38
+Alderson Reporting Company
+
+And I am trying
+
+Official - Subject to Final Review
+
+1
+
+example I gave you or by two investment companies that
+
+2
+
+decide, what we will do is we will issue a letter that
+
+3
+
+is going to be shown to two different people; that is
+
+4
+
+their only association; or maybe 100 people, but they
+
+5
+
+know who they are, and they are going to be shown this
+
+6
+
+letter over a period of five or 10 years, and someone
+
+7
+
+later comes back and says there is a false statement in
+
+8
+
+the letter.
+
+9
+
+statement, but is that RICO?
+
+10
+
+Well, they shouldn't issue a false
+
+I mean, so -- so the object -- the object is
+
+11
+
+to find a way of not overextending RICO where there is
+
+12
+
+nothing there but a conspiracy to commit two crimes.
+
+13
+
+Pattern is one help.
+
+14
+
+all the courts but one have come along, I take it, with
+
+15
+
+this other help, which is playing on the word structure.
+
+16
+
+The pattern is pretty vague, so
+
+Now you have heard what I said as a weak
+
+17
+
+effort to try to do something.
+
+What is your best effort
+
+18
+
+to do something to deal with the problem?
+
+19
+
+wrong with my effort?
+
+20
+
+MR. YANG:
+
+Or what's
+
+Whatever you want to say.
+Let me first address what is your
+
+21
+
+underlying concern, that there is a problem.
+
+22
+
+addressed that; Turkette addressed that it doesn't
+
+23
+
+matter that the evidence used to establish these
+
+24
+
+separate elements may in case of -
+
+25
+
+JUSTICE BREYER:
+
+That's different.
+
+39
+Alderson Reporting Company
+
+Turkette
+
+Official - Subject to Final Review
+
+1
+
+That's -- of course the same evidence can establish two
+
+2
+
+separate elements.
+
+3
+
+MR. YANG:
+
+The -
+
+4
+
+JUSTICE BREYER:
+
+The problem will be
+
+5
+
+conflating the elements so that every single case that
+
+6
+
+you have the first set, you also have the second set.
+
+7
+
+MR. YANG:
+
+That problem does not exist as
+
+8
+
+well, because the relevant pattern of racketeering
+
+9
+
+activity that is the element of the crime is something
+
+10
+
+committed by individuals.
+
+11
+
+For instance, let's take a group of
+
+12
+
+individuals who commit a long string, of, for instance,
+
+13
+
+burglaries, they do so over a series of years.
+
+14
+
+burglary is not a predicate act of racketeering; it's a
+
+15
+
+wholly criminal organization; all they do is commit bank
+
+16
+
+burglaries.
+
+17
+
+end of the -- of each burglary.
+
+18
+
+there is a RICO violation after the individual, because
+
+19
+
+the individual, the element is that the individual has
+
+20
+
+transported the money in interstate transportation -- or
+
+21
+
+across State lines, and that is a RICO predicate; but
+
+22
+
+the other things that the group was doing, those are not
+
+23
+
+RICO predicates.
+
+Bank
+
+One individual is given the money at the
+
+24
+
+JUSTICE BREYER:
+
+25
+
+MR. YANG:
+
+What we would have
+
+No, no.
+
+So the -- so the element, it
+40
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+doesn't change, if the individual then does it with some
+
+2
+
+other people -- let's say he brings his buddy along, two
+
+3
+
+of them do it, that just shows the evidence necessary to
+
+4
+
+show that the individual -- the evidence showed that the
+
+5
+
+individual committed a pattern of racketeering, also
+
+6
+
+happens to show he did it with a group, but it's the
+
+7
+
+evidence, not the element.
+
+8
+
+section 1962(c) always turns on the defendant.
+
+9
+
+The element of the crime in
+
+JUSTICE BREYER:
+
+Always, in a case where you
+
+10
+
+sue the investment company because of their one letter
+
+11
+
+used four times, it's the act of the individual.
+
+12
+
+case that Posner used, it's always the act of the
+
+13
+
+individual.
+
+14
+
+individual.
+
+In the
+
+There's always a criminal act of an
+
+15
+
+MR. YANG:
+
+But if you have -
+
+16
+
+JUSTICE BREYER:
+
+And he has to be
+
+17
+
+associated, however, with an enterprise for it to fall
+
+18
+
+within RICO, and there also has to be a pattern.
+
+19
+
+MR. YANG:
+
+If we take -
+
+20
+
+JUSTICE BREYER:
+
+21
+
+MR. YANG: -- my hypothetical with the
+
+That's going back -
+
+22
+
+individual transporting the money alone across State
+
+23
+
+lines, you have a pattern.
+
+24
+
+individual taking money across State lines, by himself,
+
+25
+
+that doesn't establish enterprise.
+
+If you just looked at that,
+
+41
+Alderson Reporting Company
+
+What would -- so the
+
+Official - Subject to Final Review
+
+1
+
+pattern exists independently.
+
+2
+
+What would show the enterprise is the fact
+
+3
+
+that the evidence might also show that he is doing it
+
+4
+
+with other people.
+
+5
+
+element that is, that he is committing a pattern of
+
+6
+
+racketeering activity and he is doing it in concert with
+
+7
+
+others, but that goes to the separate element of
+
+8
+
+enterprise.
+
+9
+
+That would show that he -- the
+
+That is JUSTICE BREYER:
+
+That's right, and our
+
+10
+
+problem is he is doing it with one other person whom he
+
+11
+
+met once, and they agreed to do it, and it's a common
+
+12
+
+law conspiracy; and now suddenly he has done it twice
+
+13
+
+with another person who helped him and they said they
+
+14
+
+would do it, and now we have RICO; and my belief is -
+
+15
+
+which you may not agree with -- that that common
+
+16
+
+garden-variety conspiracy to say, rob a bank and then
+
+17
+
+transport the money a few months later, that that's all
+
+18
+
+that's at issue.
+
+That shouldn't be within RICO.
+
+19
+
+MR. YANG:
+
+20
+
+JUSTICE BREYER:
+
+21
+
+tell me it should be.
+
+22
+
+MR. YANG:
+
+Let me You might come back and
+
+Let me try to approach that in
+
+23
+
+two separate ways.
+
+One, Turkette in footnote 5 was very
+
+24
+
+clear.
+
+25
+
+racketeering activity and the enterprise are established
+
+The Court explained even if the pattern of
+
+42
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+the same way, it doesn't matter, if enterprise has
+
+2
+
+function -- some function, there is no such thing as, in
+
+3
+
+other words, partial superfluidities of an element, or
+
+4
+
+partial superfluidity of a word.
+
+5
+
+Secondly, the concern about conspiracy
+
+6
+
+exists in any conspiracy.
+
+7
+
+act.
+
+8
+
+the agreement, and under 371 commit an overt act or
+
+9
+
+under RICO conspiracy agree to all the necessary
+
+10
+
+Conspiracy is an inchoate
+
+You are liable for conspiracy as soon as you made
+
+elements of a substantive RICO offense.
+
+11
+
+Congress has -- and not only that, you can
+
+12
+
+be charged for conspiracy and charged for completing the
+
+13
+
+conspiracy as separate crimes.
+
+14
+
+That's the normal rule here.
+
+15
+
+conspiracy to commit RICO offenses, and RICO offenses,
+
+16
+
+the pattern element I don't think can be overestimated
+
+17
+
+here.
+
+18
+
+That's the normal rule.
+You can be charged for a
+
+The pattern element is where RICO has -
+
+19
+
+plus the list of predicate acts of racketeering -- is
+
+20
+
+really where RICO gets most of its limiting structure,
+
+21
+
+and I think the Court recognized that in H.J.
+
+22
+
+It's the pattern which requires related
+
+23
+
+criminal acts that can be related in a number of ways,
+
+24
+
+and the -- the Court gave kind of a list of that in
+
+25
+
+H.J., which I think I won't go through now, but as well
+43
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+as continuity, and that could be long-term criminal
+
+2
+
+activity, not just a single or two, but long-term
+
+3
+
+criminal activity, or the threat of criminal activity.
+
+4
+
+Interestingly enough -
+
+5
+
+JUSTICE SCALIA:
+
+I am -- I am really
+
+6
+
+confused now.
+
+I don't -- I am not sure I know what your
+
+7
+
+answer to the question presented is, which is quite
+
+8
+
+simply must an association-in-fact enterprise under RICO
+
+9
+
+have some ascertainable structure beyond that inherent
+
+10
+
+in the commission of predicate crimes by its members and
+
+11
+
+associates?
+
+12
+
+And you -- your answer is no?
+
+13
+
+MR. YANG:
+
+14
+
+No.
+
+I mean, I guess it depends
+
+on what you mean -- ascertainable structure -
+
+15
+
+JUSTICE SCALIA:
+
+16
+
+MR. YANG:
+
+Yes.
+
+It's very -- I have to say it's
+
+17
+
+difficult for me to understand what is being proposed by
+
+18
+
+the other side, particularly once you have lost
+
+19
+
+hierarchy.
+
+20
+
+understandable term.
+
+Hierarchy is something which is an
+
+21
+
+JUSTICE SCALIA:
+
+22
+
+MR. YANG:
+
+Right.
+
+But if you are talking about
+
+23
+
+structure, structure could mean relationship between
+
+24
+
+individuals that enable them to -
+
+25
+
+JUSTICE SCALIA:
+
+Right, right.
+
+44
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+2
+
+MR. YANG: -- commit their crimes.
+
+If that's
+
+the case -
+
+3
+
+JUSTICE SCALIA:
+
+4
+
+MR. YANG:
+
+Yes.
+
+-- I don't see why a jury cannot
+
+5
+
+infer from the fact that over a long period of time the
+
+6
+
+alleged members of this group have operated as a unit
+
+7
+
+and have committed acts of racketeering, from that
+
+8
+
+coordinating conduct that you were not able to infer
+
+9
+
+that they had a means of acting as a group.
+
+10
+
+JUSTICE SCALIA:
+
+Yes, but you would have to
+
+11
+
+tell the jury -- you would have to tell the jury you
+
+12
+
+would have to find it.
+
+13
+
+but the issue is must the jury be told that it has to
+
+14
+
+find it?
+
+Of course the jury can find it,
+
+I think he's conceding -
+
+15
+
+MR. YANG:
+
+Must the jury -
+
+16
+
+JUSTICE SCALIA:
+
+Be told it's not enough,
+
+17
+
+ladies and gentlemen of the jury, for you to find that
+
+18
+
+these predicate acts occurred; you must find -- and you
+
+19
+
+can find it just from the predicate acts, if you think
+
+20
+
+the evidence will justify that -- you must find an
+
+21
+
+organization separate from the mere commission of the
+
+22
+
+predicate acts.
+
+23
+
+MR. YANG:
+
+What does that mean?
+
+24
+
+JUSTICE SCALIA:
+
+25
+
+(Laughter.)
+
+I don't know.
+
+45
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+MR. YANG:
+
+Because Turkette makes very clear
+
+2
+
+that an association-in-fact enterprise can exist for
+
+3
+
+wholly criminal acts.
+
+4
+
+hypotheticals.
+
+5
+
+committing just only predicate acts of racketeering,
+
+6
+
+they do that.
+
+7
+
+10-year period.
+
+So if for instance, take a few
+
+Let's say a group forms for the basis of
+
+Nothing else, just predicate acts, over a
+
+8
+
+JUSTICE SCALIA:
+
+9
+
+MR. YANG:
+
+Right.
+
+All right?
+
+One formulation of
+
+10
+
+petitioners is you have to look at the charged pattern
+
+11
+
+of racketeering acts, presumably because then the jury
+
+12
+
+has to find the charged pattern and then that has to be
+
+13
+
+distinct from the enterprise.
+
+14
+
+let's say there is 100 predicate acts of racketeering.
+
+15
+
+All that does is say that the government has to show 99
+
+16
+
+and leave the last one uncharged.
+
+17
+
+If that is the case -
+
+That makes no sense.
+
+To the extent that Petitioners say that
+
+18
+
+okay, there has got to be some -- something other than
+
+19
+
+racketeering activity, take for instance, the group that
+
+20
+
+does wholly legal, but does criminal non-racketeering
+
+21
+
+acts as well as racketeering acts; that's in fact this
+
+22
+
+case.
+
+23
+
+which is not a predicate act, and interstate
+
+24
+
+transportation of funds.
+
+25
+
+to exclude a group that only did bank robberies, which
+
+Bank robberies and -- excuse me, bank burglaries,
+
+It would be wholly anomalous
+
+46
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+are predicate acts, but include a group that was only
+
+2
+
+partially racketeering but wholly criminal.
+
+3
+
+CHIEF JUSTICE ROBERTS:
+
+Not at all; not at
+
+4
+
+all.
+
+That would make a lot of sense, because RICO is
+
+5
+
+not intended just to bring in the crimes.
+
+6
+
+for something else.
+
+7
+
+organization that is involved in these types of things.
+
+8
+9
+
+They are look
+
+They are looking for an
+
+MR. YANG:
+
+But there is nothing -- there's
+
+-- in order to find an organization, you are not going
+
+10
+
+to see any more from criminal acts that are not
+
+11
+
+racketeering versus criminal acts that are.
+
+12
+
+them show -
+
+13
+
+JUSTICE KENNEDY:
+
+Both of
+
+But -- but you -- you
+
+14
+
+would instruct the jury that if these three thefts that
+
+15
+
+are covered by RICO occurred over a period of a year,
+
+16
+
+and they involved lookouts and scanners and so forth,
+
+17
+
+you may infer from these acts an enterprise as defined
+
+18
+
+by the statute?
+
+19
+
+MR. YANG:
+
+20
+
+JUSTICE KENNEDY:
+
+21
+
+They might.
+You would allow that
+
+instruction?
+
+22
+
+MR. YANG:
+
+23
+
+to be more.
+
+24
+
+to show an enterprise.
+
+25
+
+appendix to the -
+
+You -- yes, but there would have
+
+You have to explain what would be necessary
+And in fact the -- the
+
+47
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+JUSTICE KENNEDY:
+
+Where -- where in your
+
+2
+
+briefs or in the materials do we find the definition of
+
+3
+
+what the enterprise is, other than in the statute, other
+
+4
+
+than the terms of the statute itself?
+
+5
+
+MR. YANG:
+
+I believe page 17.
+
+6
+
+JUSTICE KENNEDY:
+
+I mean, in other -- what
+
+7
+
+do I refer to in order to supplement the instruction
+
+8
+
+that I just noted -- that I just suggested?
+
+9
+
+MR. YANG:
+
+Page 17 of our brief reiterates
+
+10
+
+the standard, I believe it's Turkette, it comes from
+
+11
+
+Turkette and in the appendix to petition -- or excuse
+
+12
+
+me, to the joint appendix, the charge is at pages 111
+
+13
+
+through 113.
+
+14
+
+That's the charge.
+
+JUSTICE KENNEDY:
+
+That's at the bottom of
+
+15
+
+111 where it said you can look to see what it does and
+
+16
+
+make the inference rather than have -- I forget -- an
+
+17
+
+abstract analysis?
+
+18
+
+MR. YANG:
+
+But it goes on to say that you
+
+19
+
+must -- the government must prove that there is an
+
+20
+
+ongoing organization with some similar framework, formal
+
+21
+
+and informal, for carrying out its objectives and
+
+22
+
+various members and associations of the association
+
+23
+
+function as a continuing unit to achieve a common
+
+24
+
+objective.
+
+25
+
+The government must prove that in every
+48
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+case.
+
+2
+
+in the court of appeals appendix at page 8770, the
+
+3
+
+district court specifically charged the jury that they
+
+4
+
+must find five separate elements of a RICO offense,
+
+5
+
+including the existence of an enterprise as one; two,
+
+6
+
+that the enterprise engaged in or its activity affected
+
+7
+
+interstate or foreign commerce; three, that the
+
+8
+
+defendant was associated in it.
+
+9
+
+In this case, this is not in the J.A., but it is
+
+Eventually you get down to five, that the
+
+10
+
+defendant knowingly participated in the conduct of the
+
+11
+
+affairs of the enterprise through a pattern of
+
+12
+
+racketeering.
+
+13
+
+So the district court explained you have to
+
+14
+
+define an enterprise.
+
+15
+
+a necessary element, it said you may infer an enterprise
+
+16
+
+from what the -
+
+17
+
+And to find an enterprise, what's
+
+CHIEF JUSTICE ROBERTS:
+
+You say enterprise.
+
+18
+
+I mean, the objection is that the enterprise is no
+
+19
+
+different than the various predicate acts.
+
+20
+
+MR. YANG:
+
+It is different in the sense that
+
+21
+
+you can have a series of predicate acts without an
+
+22
+
+enterprise, you can have an enterprise without a series
+
+23
+
+of predicate acts.
+
+24
+
+ultimately that the evidence needs to show the predicate
+
+25
+
+acts of racketeering may also prove that the enterprise
+
+Now what, the objection seems to be
+
+49
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+exists, because when you show predicate acts of a
+
+2
+
+defendant, which is the only element, he doesn't have to
+
+3
+
+work in concert with others to commit the predicate acts
+
+4
+
+of racketeering, but when you show the predicate acts
+
+5
+
+with evidence that individual is acting with others, you
+
+6
+
+can also show that they have -- there is an association
+
+7
+
+in fact of individuals who joined together to pursue a
+
+8
+
+common course of conduct.
+
+9
+
+CHIEF JUSTICE ROBERTS:
+
+10
+11
+
+Thank you, Your Honors.
+Thank you Mr. Yang.
+
+Mr. Fernich, you have four minutes
+remaining.
+
+12
+
+REBUTTAL ARGUMENT OF MARC FERNICH
+
+13
+
+ON BEHALF OF THE PETITIONER
+
+14
+
+MR. FERNICH:
+
+Thank you, Your Honor.
+
+15
+
+Very briefly, nobody disputes the
+
+16
+
+proposition that a properly instructed jury would be
+
+17
+
+able to find that racketeering acts committed by an
+
+18
+
+individual is a distinct element from the
+
+19
+
+association-in-fact enterprise.
+
+20
+
+absolutely right and we agree on that score.
+
+21
+
+problem is the lower courts have misread Turkette.
+
+22
+
+are not focusing on the pattern of activity committed by
+
+23
+
+the individual; they have -- and the instruction as
+
+24
+
+Justice Kennedy himself quoted in this case encapsulate
+
+25
+
+it -- encapsulates the problem.
+
+The government is
+
+50
+Alderson Reporting Company
+
+The
+They
+
+Official - Subject to Final Review
+
+1
+
+Comments -- and this is at the bottom of
+
+2
+
+J.A. 1111.
+
+3
+
+an association in fact is oftentimes more readily proven
+
+4
+
+by what it does -- it does, not rather than what an
+
+5
+
+individual member does -- rather than by abstract
+
+6
+
+analysis of its structure.
+
+7
+
+Common sense suggests that the existence of
+
+So it only raises a further vagueness
+
+8
+
+problem.
+
+We agree that patterns of racketeering
+
+9
+
+activity are properly committed by individuals.
+
+If you
+
+10
+
+are going to define the enterprise solely or principally
+
+11
+
+by virtue of the pattern, whose pattern would you define
+
+12
+
+it by?
+
+13
+
+Turkette, it -- with respect to what occurred in
+
+14
+
+Turkette -- and this is at page 5 of my brief, the
+
+15
+
+latter -- and this is a quote from Turkette, and it is
+
+16
+
+referring to a pattern:
+
+17
+
+evidence of the requisite number of acts of racketeering
+
+18
+
+committed by the participants in the enterprise."
+
+19
+
+It doesn't even make any sense.
+
+And in
+
+"The latter is proved by
+
+We agree in the abstract that a properly
+
+20
+
+instructed jury, that the pattern and the enterprise are
+
+21
+
+totally different things.
+
+22
+
+circular argued by the government.
+
+23
+
+properly instructed in that regard, and that only
+
+24
+
+compounds the vagueness of the statute.
+
+25
+
+The problem is it's a giant
+Juries are not being
+
+The second point I would like to make:
+51
+Alderson Reporting Company
+
+the
+
+Official - Subject to Final Review
+
+1
+
+government presses its principal definition of an
+
+2
+
+enterprise in its brief, and what I hear here from the
+
+3
+
+government is its common purpose.
+
+4
+
+I would like to direct the Court to the Salinas opinion
+
+5
+
+which discussed RICO conspiracy.
+
+6
+
+well, I will give you the -- let's try 118 S. Court 477.
+
+7
+
+It looks like common purpose is the hallmark
+
+8
+
+of a conspiracy.
+
+9
+
+conspiracy:
+
+Common purpose.
+
+And
+
+It's at 522 U.S. -
+
+This is in the discussion of a
+
+"We rejected argument X because it would
+
+10
+
+erode the common law principle that so long as they
+
+11
+
+share a common purpose, conspirators are liable for the
+
+12
+
+acts of their co-conspirators, which is the Pinkerton
+
+13
+
+doctrine which collapses 1962(c) into a general
+
+14
+
+conspiracy statute, if you are going to define an
+
+15
+
+enterprise principally by virtue of its common purpose.
+
+16
+
+My second point.
+
+17
+
+As far as the claim that somehow we didn't
+
+18
+
+object sufficiently to a charge, I am not going to
+
+19
+
+address that in any depth.
+
+20
+
+Court to pages 97 through 109 of the joint appendix.
+
+21
+
+-- it spells out exactly what we objected to, and we
+
+22
+
+objected to virtually every sentence of the instruction
+
+23
+
+that defines or purports to define an
+
+24
+
+association-in-fact enterprise.
+
+25
+
+I would just direct the
+It
+
+As far as the definition of the enterprise,
+52
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+we would certainly agree with Justice Breyer's
+
+2
+
+formulation that something to differentiate it as a
+
+3
+
+long-term, goal-directed, decisionmaking apparatus that
+
+4
+
+continues in the intervals between the predicate acts
+
+5
+
+would do it, but we contend that structure is largely,
+
+6
+
+it's a plain English word, it's not
+
+7
+
+antidisestablishmentarianism or something like that; the
+
+8
+
+jury should be instructed as in the Seventh and Eighth
+
+9
+
+Circuits that there has got to be a structure separate
+
+10
+
+from the pattern.
+
+11
+
+lots of faith in district judges, as Justice Ginsburg
+
+12
+
+pointed out; that if the jury comes back with a question
+
+13
+
+the judge could list examples tailored to the
+
+14
+
+appropriate case.
+
+15
+
+If the jury has questions, we have
+
+And I just want to hit the common -- the
+
+16
+
+purpose underlying RICO here.
+
+It's very significant in
+
+17
+
+my view that bank burglaries are not in fact RICO
+
+18
+
+predicate acts, and if you were to look -- if this Court
+
+19
+
+were to look at my court of appeals brief in this case,
+
+20
+
+bank burglary is not a RICO predicate act for a reason.
+
+21
+
+Congress made the judgment that bank burglaries are
+
+22
+
+adequately handled by the States, that the States can
+
+23
+
+prosecute them.
+
+24
+
+burglaries had to be addressed up as interstate
+
+25
+
+transportation of stolen money is this is not really a
+
+And the reason why the three bank
+
+53
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+case in which RICO is properly invoked.
+
+2
+
+It's fully briefed in my court of appeals
+
+3
+
+submission.
+
+4
+
+perfectly capable -- capable of handling on its own.
+
+5
+
+And unless there are any further questions, I would
+
+6
+
+waive any further rebuttal.
+
+7
+8
+9
+10
+
+These are State crimes that a State is
+
+CHIEF JUSTICE ROBERTS:
+
+Thank you, counsel,
+
+the case is submitted.
+(Whereupon, at 12:17 p.m., the case in the
+above-entitled matter was submitted.)
+
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+54
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+A
+abandoned
+36:16,21
+able 45:8 50:17
+above-entitled
+1:11 54:10
+absolutely 13:16
+50:20
+abstract 48:17
+51:5,19
+absurd 13:11
+accept 14:14
+account 22:12
+24:20
+achieve 30:11
+48:23
+act 6:17 17:17
+20:3 24:9
+25:12 29:21
+35:20 38:4
+40:14 41:11,12
+41:13 43:7,8
+46:23 53:20
+acting 25:23
+26:9 29:4
+30:12 45:9
+50:5
+actions 25:10
+32:9
+activities 15:14
+activity 7:11 8:6
+27:16 28:12
+29:6,8,14,16
+34:9 40:9 42:6
+42:25 44:2,3,3
+46:19 49:6
+50:22 51:9
+acts 3:20 5:1 6:6
+8:3,4,13 10:12
+11:10 16:20
+17:7 24:16,19
+24:24,25,25
+25:16,17 27:20
+30:21,23 35:15
+35:18,18 36:10
+36:17 38:1
+43:19,23 45:7
+
+45:18,19,22
+46:3,5,6,11,14
+46:21,21 47:1
+47:10,11,17
+49:19,21,23,25
+50:1,3,4,17
+51:17 52:12
+53:4,18
+add 6:22
+addition 5:11
+additional 31:18
+address 37:1
+39:20 52:19
+addressed 21:13
+39:22,22 53:24
+addresses 25:7
+adequately
+53:22
+adjudication
+38:19
+adopt 38:15
+adopted 10:16
+affairs 17:4
+27:12 29:15
+49:11
+afternoon 19:2
+agree 12:1 14:10
+29:12 34:12,18
+34:19,22 42:15
+43:9 50:20
+51:8,19 53:1
+agreed 37:24
+42:11
+agreement
+32:10 43:8
+ahead 20:22
+Alec 15:22
+Alito 5:4,8 16:9
+16:16,24 17:8
+19:1,16,23
+20:10 29:12
+30:4,8 31:10
+31:23
+alleged 22:4
+45:6
+allow 22:24
+47:20
+
+allows 28:12
+amount 10:24
+analysis 48:17
+51:6
+anomalies 37:10
+anomalous
+46:24
+answer 6:10,21
+11:14 16:4
+22:14 33:3
+34:17 44:7,12
+ANTHONY
+1:17 2:5 24:3
+antidisestablis...
+53:7
+anti-Yugoslav...
+37:25
+anyway 37:19
+apart 3:15 5:1
+5:17 7:10,15
+8:2 15:15 20:2
+apparatus 6:12
+17:3 53:3
+appeal 9:3
+appeals 4:19
+49:2 53:19
+54:2
+APPEARAN...
+1:14
+appears 5:5 7:13
+7:13 14:25
+appellate 9:5
+appendix 5:6,10
+18:12 26:21
+27:1,2,3 47:25
+48:11,12 49:2
+52:20
+applied 9:4
+approach 42:22
+appropriate
+7:22 8:21
+53:14
+approved 37:16
+argued 51:22
+argument 1:12
+2:2,7 3:4,6
+4:14 11:15,16
+
+21:14 24:3,14
+24:22 32:16
+50:12 52:9
+arises 14:1
+15:15
+ascertainable
+7:14 9:9,12,20
+10:6 19:24
+24:8 28:23
+36:15 38:3,16
+44:9,14
+aside 17:16
+asked 9:9
+asking 10:3,9
+aspect 11:12
+34:8
+Assistant 1:17
+associate 35:4
+associated 14:24
+26:17,24 29:10
+31:1 32:3,4
+41:17 49:8
+associates 24:10
+32:8 44:11
+associating
+35:23
+association 6:6
+11:4 14:13
+16:12 22:21,23
+23:14 25:21
+26:5,24 32:18
+32:19 35:2
+36:23 39:4
+48:22 50:6
+51:3
+associations
+23:15 48:22
+association-in...
+14:2,4,7 15:6,8
+15:9,16 24:7
+33:1 44:8 46:2
+50:19 52:24
+assume 24:22
+authority 14:3
+automatically
+13:23 14:19
+available 31:21
+
+55
+Alderson Reporting Company
+
+awfully 23:7
+a.m 1:13 3:2
+B
+back 11:14 39:7
+41:20 42:20
+53:12
+Bagaric 37:21
+bank 10:24
+21:17 29:20,21
+31:12,13,15
+35:10,17,24,24
+36:3 40:13,15
+42:16 46:22,22
+46:25 53:17,20
+53:21,23
+bare 8:8
+based 36:12,13
+Basically 17:9
+basis 20:16,17
+46:4
+beginning 11:15
+behalf 1:15,19
+2:4,6,9 3:7
+24:4 50:13
+behavior 22:22
+23:13
+behaviors 23:16
+belief 42:14
+believe 28:10
+48:5,10
+Bellafiore 18:13
+18:23 21:11
+best 39:17
+beyond 9:24
+16:11,14,17
+38:14 44:9
+bit 18:10 20:21
+23:7
+bombings 38:2
+bonding 38:9
+boss 11:25 12:1
+bottom 48:14
+51:1
+box 17:11
+boxes 10:22
+Boyle 1:3 3:4
+
+

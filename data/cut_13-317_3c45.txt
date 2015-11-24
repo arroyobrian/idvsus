@@ -1,0 +1,6077 @@
+Official
+
+1
+2
+3
+
+ P R O C E E D I N G S 
+ (10:17 a.m.) 
+ CHIEF JUSTICE ROBERTS: 
+
+We'll hear argument 
+
+4
+
+this morning in Case 13­317, Halliburton Company v. The 
+
+5
+
+Erica P. John Fund. 
+
+6
+
+ Mr. Streett. 
+
+7
+
+ ORAL ARGUMENT OF AARON STREETT 
+
+8
+
+ ON BEHALF OF THE PETITIONERS 
+
+9
+10
+11
+
+ MR. STREETT: 
+
+Mr. Chief Justice, and may it 
+
+please the Court: 
+ Basic v. Levinson should be overruled 
+
+12
+
+because it was wrong when it was decided and it is even 
+
+13
+
+more clearly erroneous today.  Basic substituted 
+
+14
+
+economic theory for the bedrock common law requirement 
+
+15
+
+of actual reliance that Congress embraced in the most 
+
+16
+
+analogous express cause of action. 
+
+17
+
+ Basic's judicially created presumption 
+
+18
+
+preserves an unjustified exemption from Rule 23 that 
+
+19
+
+benefits only securities plaintiffs.  Basic has proven 
+
+20
+
+unworkable, has been undermined by later developments, 
+
+21
+
+and has proven to have harmful consequences for 
+
+22
+
+investors and companies alike. 
+
+23
+24
+25
+
+ The most direct course is to overrule Basic 
+altogether and require a showing of actual reliance. 
+ JUSTICE GINSBURG: 
+
+I believe that in Basic,
+
+3
+
+Alderson Reporting Company
+
+Official
+
+1
+
+Justice Blackmun said that there is this economic 
+
+2
+
+theory, but also the motivation for the Exchange Act and 
+
+3
+
+probability and common sense would lead to this 
+
+4
+
+presumption ­­ this rebuttable presumption.  So he 
+
+5
+
+wasn't relying strictly on an economic theory.  I think 
+
+6
+
+two or three times in the opinion, he tries to make that 
+
+7
+
+plain. 
+
+8
+9
+
+ MR. STREETT: 
+
+Yes, Justice Ginsburg, but the 
+
+Court in Basic recognized that Section 18(a) was the 
+
+10
+
+proper analog, but then it immediately turned to its own 
+
+11
+
+notions of public policy and the best way to further 
+
+12
+
+congressional policy, instead of asking what sort of 
+
+13
+
+reliance does Section 18(a) require. 
+
+14
+15
+
+ JUSTICE GINSBURG: 
+
+Where is that, that it 
+
+says that 18(a) is the proper ­­
+
+16
+
+ MR. STREETT: 
+
+17
+
+ JUSTICE GINSBURG: 
+
+18
+
+ MR. STREETT: 
+
+I believe ­­
+­­ reference? 
+I believe it's on page 245 
+
+19
+
+where the Court says, "We acknowledge the argument that 
+
+20
+
+Section 18(a) is the proper analog, and we accept that 
+
+21
+
+there is a reliance requirement under 10(b)." 
+
+22
+
+ But the Court then jumps to creating a 
+
+23
+
+presumption of reliance, rather than asking what sort of 
+
+24
+
+reliance Section 18(a) requires, which has always been 
+
+25
+
+understood to be actual eyeball reliance.
+
+4
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ JUSTICE KAGAN: 
+
+Mr. Streett, that argument, 
+
+2
+
+of course, is just an argument that Basic was wrong 
+
+3
+
+in ­­ in ­­ in not focusing on ­­ on Section 18, and 
+
+4
+
+that's contestable.  One could say actually, they were 
+
+5
+
+right not to focus on Section 18, Section 9 is the 
+
+6
+
+closer analog. 
+
+7
+
+ But let's put that aside. 
+
+Are you just 
+
+8
+
+saying Basic is wrong, or are you saying that something 
+
+9
+
+has changed since Basic?  Because usually that's what we 
+
+10
+
+look for when we decide whether to reverse a case, 
+
+11
+
+something that makes the question fundamentally 
+
+12
+
+different now than when we decided it.  And that's 
+
+13
+
+especially so in a case like this one where Congress has 
+
+14
+
+had every opportunity, and has declined every 
+
+15
+
+opportunity, to change Basic itself. 
+
+16
+
+ So what has changed, in your view? 
+
+17
+
+ MR. STREETT: 
+
+We're saying both that it was 
+
+18
+
+wrong when decided and that certain things have changed. 
+
+19
+
+At least three things, Your Honor. 
+
+20
+
+ First of all, this Court has fundamentally 
+
+21
+
+changed its approach to interpreting the Section 10(b) 
+
+22
+
+cause of action.  It's consistently construed it 
+
+23
+
+narrowly, and Basic stands out like a sore thumb among 
+
+24
+
+that jurisprudence. 
+
+25
+
+ Second, this Court has consistently held in
+
+5
+
+Alderson Reporting Company
+
+Official
+
+1
+
+Comcast and Wal­Mart that there cannot be presumptions 
+
+2
+
+of classwide issues; instead, classwide issues must be 
+
+3
+
+proved in fact.  The Court addressed plaintiff's experts 
+
+4
+
+in those cases who purported to establish class ­­
+
+5
+
+classwide methodologies, and the Court tested those with 
+
+6
+
+rigor to determine whether they proved, in fact, that 
+
+7
+
+there were classwide issues. 
+
+8
+9
+
+ And we're asking this Court to give the 
+Basic presumptions the same rigor that this Court gave 
+
+10
+
+the expert reports in Comcast and Wal­Mart, at the very 
+
+11
+
+least because those ­­ those expert reports only 
+
+12
+
+generated one class action.  And this has underlined 
+
+13
+
+all ­­
+
+14
+
+ JUSTICE KAGAN: 
+
+15
+
+ MR. STREETT: 
+
+16
+
+ JUSTICE KAGAN: 
+
+17
+18
+
+What is your third? 
+Pardon? 
+You said three.  What is 
+
+your third? 
+ MR. STREETT: 
+
+Yes.  And my third is that the 
+
+19
+
+economics have changed.  The economic premises of Basic, 
+
+20
+
+in particular, the premise that investors rely in common 
+
+21
+
+on the integrity of the market price.  The government 
+
+22
+
+and the fund do not even contend, they don't even 
+
+23
+
+contest that that's the case anymore.  Many investors, 
+
+24
+
+such as hedge fund rapid­fire volatility traders, index 
+
+25
+
+fund investors, sophisticated value investors do not ­­
+
+6
+
+Alderson Reporting Company
+
+Official
+
+1
+
+they have investment strategies that do not rely on the 
+
+2
+
+integrity of the market price whatsoever.  So that sort 
+
+3
+
+of reliance is the quintessential individualized 
+
+4
+
+issue ­­
+
+5
+
+ JUSTICE KAGAN: 
+
+So ­­ so you are not relying 
+
+6
+
+anymore on the notion that the efficient markets 
+
+7
+
+hypothesis has been undermined.  That is not one of the 
+
+8
+
+three points that you're making because, essentially, I 
+
+9
+
+think you ­­ you admit this in your reply brief.  You 
+
+10
+
+just say Halliburton has never said that market prices 
+
+11
+
+­­ has never contested that market prices generally 
+
+12
+
+respond to new material information. 
+
+13
+14
+15
+16
+17
+
+ So you are agreeing with that, that market 
+prices generally do respond to new material information. 
+ MR. STREETT: 
+
+Cited at that general ­­
+
+general level, we don't disagree with it. 
+ The problem is that we now know that a 
+
+18
+
+binary yes­or­no approach to market efficiency like the 
+
+19
+
+sentence you read tells us very little about whether a 
+
+20
+
+particular misrepresentation distorted the market price. 
+
+21
+
+So Basic has become inconsistent with its own premises. 
+
+22
+
+ JUSTICE KAGAN: 
+
+Well, but we don't have that 
+
+23
+
+kind of binary approach.  What we allow plaintiffs to do 
+
+24
+
+is to try to establish a presumption, which they do by 
+
+25
+
+showing that a particular market is efficient, and then
+
+7
+
+Alderson Reporting Company
+
+Official
+
+1
+
+we allow defendants to rebut that presumption. 
+
+2
+
+ So there's no binary on/off switch. 
+
+It's 
+
+3
+
+actually ­­ it's a presumption, but it's quite dependent 
+
+4
+
+on the facts in a particular case as to whether there's 
+
+5
+
+an exception to this general rule that market prices, in 
+
+6
+
+fact, do generally respond to new material information. 
+
+7
+
+ MR. STREETT: 
+
+It's ­­ it's binary in the 
+
+8
+
+sense that the principal driver of class certification 
+
+9
+
+is whether the market is efficient in a yes­or­no, 
+
+10
+
+binary sense, and that's why we have raised our second 
+
+11
+
+position, which is if the Court were inclined to keep 
+
+12
+
+the presumption in some sense, it should at least place 
+
+13
+
+the burden on the plaintiff to establish that the 
+
+14
+
+misrepresentation actually distorted the market price, 
+
+15
+
+or to give defendants the full right of rebuttal at the 
+
+16
+
+class certification stage to establish the price was not 
+
+17
+
+impacted. 
+
+18
+
+ JUSTICE ALITO: 
+
+Do we know how often 
+
+19
+
+defendants have been successful in rebutting the 
+
+20
+
+presumption? 
+
+21
+
+ MR. STREETT: 
+
+It is ­­ it is virtually 
+
+22
+
+impossible.  It's very unusual outside of the context of 
+
+23
+
+the Second Circuit which allows rebuttal with respect to 
+
+24
+
+price impact.  Outside of that circuit, I think as one 
+
+25
+
+of the amicus briefs said, they're as rare as hen's
+
+8
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+teeth. 
+ And that is another development. 
+
+Certainly 
+
+3
+
+this Court in Basic thought the fact that the 
+
+4
+
+presumption was rebuttable was an essential part of that 
+
+5
+
+holding, and it now turns out the courts, especially the 
+
+6
+
+court below in this case, have treated it as essentially 
+
+7
+
+irrebuttable, even with respect to the fundamental 
+
+8
+
+premise of Basic, which is price impact. 
+
+9
+10
+
+ CHIEF JUSTICE ROBERTS: 
+ JUSTICE GINSBURG: 
+
+Could I ask you ­­
+Isn't the ­­ isn't the ­­
+
+11
+
+it's not a question of is it rebuttable.  I thought that 
+
+12
+
+that's already claimed from Basic.  It's a question of 
+
+13
+
+when.  You're arguing that it should be rebuttable at 
+
+14
+
+the class certification stage.  The other side is 
+
+15
+
+arguing, yeah, of course it's rebuttable, but that comes 
+
+16
+
+in at the merits determination.  It doesn't go to the 
+
+17
+
+question whether there are individual issues that 
+
+18
+
+predominate over class issues. 
+
+19
+
+ MR. STREETT: 
+
+And we are not aware of a 
+
+20
+
+single instance in which this Court allowed a 
+
+21
+
+presumption to be invoked for the very purpose of one 
+
+22
+
+stage of litigation, but held that the defendant's right 
+
+23
+
+to rebut must be delayed to a later stage.  And there 
+
+24
+
+can be no doubt that Basic created the presumption of 
+
+25
+
+reliance, among other reasons, for the very purpose of
+
+9
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+allowing class certification of securities fraud cases. 
+ CHIEF JUSTICE ROBERTS: 
+
+I ­­ I understand 
+
+3
+
+your friend on the other side to acknowledge that the 
+
+4
+
+efficient market theory is not perfect, that there are 
+
+5
+
+situations in which events are not reflected in the 
+
+6
+
+market price. 
+
+7
+
+ I understand you to acknowledge that it's 
+
+8
+
+accurate to some extent, but that the exceptions or 
+
+9
+
+the ­­ the extent to which it's not accurate over ­­
+
+10
+
+override the extent to which it is.  In other words, 
+
+11
+
+you're each sort of dealing with at the ­­ at the ­­ if 
+
+12
+
+not at the margins, you know, most of the time it's 
+
+13
+
+efficient; you say too much of the time it's not. 
+
+14
+15
+16
+
+ How am I supposed to review the economic 
+literature and decide which of you is correct on that? 
+ MR. STREETT: 
+
+We don't think the Court needs 
+
+17
+
+to do that.  We think the Court should get out of the 
+
+18
+
+business of reviewing economic literature and requiring 
+
+19
+
+district judges to make this binary, yes­or­no market 
+
+20
+
+efficient ­­
+
+21
+
+ CHIEF JUSTICE ROBERTS: 
+
+No, your submission 
+
+22
+
+is that we should jettison the Basic test because 
+
+23
+
+economists now believe that the efficient market theory 
+
+24
+
+is not sufficient ­­ sufficiently accurate or true to 
+
+25
+
+support it.  So I thought ­­ I mean, you review a lot of
+
+10
+
+Alderson Reporting Company
+
+Official
+
+1
+
+the economic literature in your briefs.  I assume you 
+
+2
+
+wanted me to look at it. 
+
+3
+
+ MR. STREETT: 
+
+Of course, our principal 
+
+4
+
+submission is that no economic theory should supplant 
+
+5
+
+what Congress enacted in Section 18(a) in the most 
+
+6
+
+analogous cause of action.  The economic theory shows 
+
+7
+
+that one of the basic premises is no longer even 
+
+8
+
+defended.  The second premise, that investors rely in 
+
+9
+
+common on the integrity of the market price, is not even 
+
+10
+
+defended by the government and the Fund.  And with that 
+
+11
+
+premise knocked out, there's no remaining shred of 
+
+12
+
+transaction causation because you have no common 
+
+13
+
+reliance even on the price as a transmitter of the 
+
+14
+
+information.  And in that instance, then fraud becomes 
+
+15
+
+the quintessential individualized question. 
+
+16
+
+ I'd like to get – 
+
+17
+
+ JUSTICE KAGAN: Could you explain ­­
+
+18
+
+ JUSTICE SOTOMAYOR: 
+
+In a class action, how 
+
+19
+
+do you prove loss causation without proving price 
+
+20
+
+impact?  I know that there are some individual cases 
+
+21
+
+with individual misrepresentations that have a different 
+
+22
+
+form of loss causation.  But I'm talking exclusively 
+
+23
+
+on a ­­ in a class.  How do you prove loss ­­ proximate 
+
+24
+
+cause or loss causation without proving price impact? 
+
+25
+26
+
+ MR. STREETT: 
+
+A class under fraud­on­the­
+
+market theory could not do that.  But the question under
+11
+
+Alderson Reporting Company
+
+Official
+
+1
+
+Amgen is whether there would be individuals within the 
+
+2
+
+class who could show that they actually heard and relied 
+
+3
+
+upon the statement and ­­
+
+4
+
+ JUSTICE SOTOMAYOR: 
+
+5
+
+Well, but that makes no 
+
+sense. 
+
+6
+
+ MR. STREETT: 
+
+7
+
+ JUSTICE SOTOMAYOR: 
+
+Well, let me ­­
+Because if they relied 
+
+8
+
+on their statement, then that's ­­ they have to prove 
+
+9
+
+loss causation in the same way that the class does. 
+
+10
+
+It's only if they're relying on a separate statement, 
+
+11
+
+which isn't part of the class, that would entitle them 
+
+12
+
+to a different calculation of loss causation. 
+
+13
+
+ MR. STREETT: 
+
+A plaintiff within the class 
+
+14
+
+could still establish loss causation without price 
+
+15
+
+impact in the same way that a plaintiff in the class 
+
+16
+
+could establish loss ­­
+
+17
+
+ JUSTICE SOTOMAYOR: 
+
+18
+
+ MR. STREETT: 
+
+19
+
+ JUSTICE SOTOMAYOR: 
+
+20
+
+misstatement at issue? 
+
+21
+
+ MR. STREETT: 
+
+How? 
+By ­­
+With the same 
+
+By purchasing in reliance on 
+
+22
+
+that misstatement at a price that was not on the New 
+
+23
+
+York Stock Exchange. 
+
+24
+25
+
+ JUSTICE GINSBURG: 
+
+Then how is such a 
+
+plaintiff's claim typical of the class?  You have ­­ you
+
+12
+
+Alderson Reporting Company
+
+Official
+
+1
+
+admitted that the 23(a) factors are met, commonality and 
+
+2
+
+typicality.  Well, if one is a member of this class that 
+
+3
+
+says, we didn't rely individually, but we did rely on 
+
+4
+
+the marketplace as being ­­ as having integrity, if you 
+
+5
+
+have someone to whom a direct representation was made, 
+
+6
+
+that person is not a proper member of this class as a 
+
+7
+
+discrete question, not one common to the class, not one 
+
+8
+
+typical.  The typical investor in a Basic class is 
+
+9
+
+somebody who no representation was made to that person 
+
+10
+11
+
+directly. 
+ MR. STREETT: 
+
+I'm relying on a case where 
+
+12
+
+the misrepresentation was made in a way that's typical 
+
+13
+
+to the class, but individual class members purchased off 
+
+14
+
+of the exchange, and therefore they purchased at a 
+
+15
+
+different price, perhaps, than what was on the exchange. 
+
+16
+
+ But I think the real point is that this 
+
+17
+
+Court emphasized and held in Amgen that plaintiffs 
+
+18
+
+could ­­ that plaintiffs did need to establish that the 
+
+19
+
+market was efficient and that the statement was public. 
+
+20
+
+ JUSTICE BREYER: 
+
+Can you ­­ can ­­ to take a 
+
+21
+
+totally different case, just thinking of the 
+
+22
+
+announcement of the opinion I had, is a contract case. 
+
+23
+
+We'll say it's the treaty that we're talking about.  And 
+
+24
+
+a group of plaintiffs say:  We, Your Honor, would like 
+
+25
+
+to show that the way that Argentina treated us was
+
+13
+
+Alderson Reporting Company
+
+Official
+
+1
+
+unfair under the treaty.  All right.  And the other side 
+
+2
+
+says:  Well, what we think it's fair; we don't think the 
+
+3
+
+treaty covers this. 
+
+4
+
+ Now, what we have here is a common issue. 
+
+5
+
+So we don't have to decide, to judge who's right.  We've 
+
+6
+
+just noticed it was common issue.  And so they make 
+
+7
+
+their case, at least prima facie, that they have a side 
+
+8
+
+and the other side will rebut it on the merits. 
+
+9
+
+ Well, similarly, here, they're saying: 
+
+We 
+
+10
+
+don't have to show that the markets incorporate every 
+
+11
+
+piece of information.  We think they incorporate this 
+
+12
+
+information, and it’s a general rule, they do incorporate 
+
+13
+
+most information. 
+
+14
+
+ The other side wants to show they didn't 
+
+15
+
+incorporate this.  That's fine.  It's a common issue. 
+
+16
+
+We'll decide it at the trial.  All we're trying to say 
+
+17
+
+is, is it a common issue, and it's not a red herring to 
+
+18
+
+throw in whether the markets incorporate information 
+
+19
+
+because normally they do, period.  Now, what's wrong 
+
+20
+
+with what I said? 
+
+21
+
+ MR. STREETT: 
+
+Because market efficiency and 
+
+22
+
+publicity are also common issues that this Court 
+
+23
+
+required to be considered at the class certification 
+
+24
+
+stage.  And this Court required those issues to be 
+
+25
+
+considered because they are predicates for price impact.
+
+14
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+3
+
+ JUSTICE KAGAN: 
+
+Now, we've required them to 
+
+be considered because ­­
+ JUSTICE SCALIA: 
+
+It's certainly not the rule 
+
+4
+
+­­ it's certainly not the rule that every ­­ every issue 
+
+5
+
+that is common has ­­ has to be decided at the 
+
+6
+
+preliminary ­­ or I'm sorry, must be left to the merits. 
+
+7
+
+I mean, as you point out, the very issue of whether the 
+
+8
+
+market is efficient is something that could be decided 
+
+9
+
+for everybody at the merits stage, right? 
+
+10
+
+ MR. STREETT: 
+
+That's absolutely correct. 
+
+11
+
+And the reason this Court allowed market efficiency and 
+
+12
+
+publicity to be considered is because without those 
+
+13
+
+predicates, there's no reason to presume that there's 
+
+14
+
+price impact. 
+
+15
+
+ JUSTICE KAGAN: 
+
+Mr. Streett, there's a ­­
+
+16
+
+there's a real difference with respect to those issues 
+
+17
+
+and I think that this was really what Amgen said.  It 
+
+18
+
+said that when you rule on those things, it essentially 
+
+19
+
+splits up the class so that different members of the 
+
+20
+
+class are left in very different positions; but that 
+
+21
+
+when you rule on a question like materiality, which 
+
+22
+
+leaves all members of the class in the exact same 
+
+23
+
+position, either with a viable claim or with no claim, 
+
+24
+
+and it doesn't split the class in the way that the 
+
+25
+
+efficient markets theory do, that's the difference.
+
+15
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ And here ­­ and this goes back to Justice 
+
+2
+
+Sotomayor's question ­­ I just don't see how this splits 
+
+3
+
+the class at all, because if you can't prove price 
+
+4
+
+impact, you can't prove loss causation and everybody's 
+
+5
+
+claims die. 
+
+6
+
+ MR. STREETT: 
+
+Well, that same argument could 
+
+7
+
+have been made against market efficiency or publicity. 
+
+8
+
+If you don't have a public statement reaching the 
+
+9
+
+market, there's no way the price could have been 
+
+10
+11
+
+impacted. 
+ JUSTICE KAGAN: 
+
+Well, I think that the ­­
+
+12
+
+that the difference is that even if you don't have 
+
+13
+
+market efficiency and so you lose the ability to bring 
+
+14
+
+the ­­ a claim with the fraud­on­the­market presumption, 
+
+15
+
+you might still have an individual reliance claim. 
+
+16
+
+ MR. STREETT: 
+
+Yes.  And if the market price 
+
+17
+
+was not distorted, you could still have an individual 
+
+18
+
+reliance claim for exactly the same reasons.  If the 
+
+19
+
+market's not efficient or the statement is not public, 
+
+20
+
+you are, by necessity, not going to have price impact. 
+
+21
+
+So market efficiency and publicity are precisely, 
+
+22
+
+exactly situated with respect to price impact. 
+
+23
+
+ And the result of disallowing price impact 
+
+24
+
+evidence at the class certification stage, which this 
+
+25
+
+Court said was Basic's fundamental premise, would mean
+
+16
+
+Alderson Reporting Company
+
+Official
+
+1
+
+automatic class certification for all New York Stock 
+
+2
+
+Exchange companies, because those companies trade in an 
+
+3
+
+efficient market in the binary, yes­or­no sense that 
+
+4
+
+Basic states.  And that cannot be what this Court ­­
+
+5
+6
+7
+
+ JUSTICE KENNEDY: 
+
+Finish your sentence. 
+
+"And that cannot" ­­
+ MR. STREETT: 
+
+Cannot be what this Court 
+
+8
+
+intended in Basic when it created a rebuttable 
+
+9
+
+presumption. 
+
+10
+
+ JUSTICE KENNEDY: 
+
+Would you address briefly 
+
+11
+
+the position taken by the law professors, I call it the 
+
+12
+
+midway position, that says there should be an event 
+
+13
+
+study.  That might not take care of your first two 
+
+14
+
+arguments of the narrow construction of 10(b)(5), and 
+
+15
+
+the question of presumptions, but it does seem to me to 
+
+16
+
+be a substantial answer to your economic analysis to 
+
+17
+
+the ­­ to the challenge you make to the economic 
+
+18
+
+premises of the Basic decision. 
+
+19
+
+ MR. STREETT: 
+
+Yes.  Our principal argument 
+
+20
+
+is that the economic theories should not serve as a 
+
+21
+
+stand­in for actual reliance.  But if the Court were to 
+
+22
+
+accept the continuing validity of the presumption in 
+
+23
+
+some way, the law professors' position, which is also 
+
+24
+
+our second question presented, at least makes Basic 
+
+25
+
+consistent with its own premises.  Because Basic's
+
+17
+
+Alderson Reporting Company
+
+Official
+
+1
+
+premise is if a plaintiff buys at a price that is 
+
+2
+
+distorted by the misrepresentation, he has relied upon 
+
+3
+
+the misrepresentation.  If we accept that as Basic's 
+
+4
+
+premise, then it only makes sense to focus like a laser 
+
+5
+
+on the only relevant question, whether the 
+
+6
+
+misrepresentation distorted the market price. 
+
+7
+
+ JUSTICE KENNEDY: 
+
+Am ­­ am I correct ­­ and 
+
+8
+
+this would be more of a question for your friend 
+
+9
+
+representing the Respondent.  Am I correct that, even 
+
+10
+
+under the ­­ the Basic framework, at the merits stage 
+
+11
+
+there has to be something that looks very much like an 
+
+12
+
+event study.  Am I correct about that? 
+
+13
+14
+15
+
+ MR. STREETT: 
+
+Yes.  That's absolutely 
+
+correct, Your Honor. 
+ JUSTICE KENNEDY: 
+
+And so then the question 
+
+16
+
+would be since you're going to have to have it anyway, 
+
+17
+
+why not have it at the class certification stage. 
+
+18
+
+ MR. STREETT: 
+
+Yes.  And the Second Circuit 
+
+19
+
+has correctly held that that must be proven at the class 
+
+20
+
+certification stage because price impact is the glue 
+
+21
+
+that holds common reliance together and the district 
+
+22
+
+courts within that circuit have been very 
+
+23
+
+successfully ­­
+
+24
+25
+
+ JUSTICE SOTOMAYOR: 
+
+I don't see how this is 
+
+a midpoint.  If you're going to require proof of price
+
+18
+
+Alderson Reporting Company
+
+Official
+
+1
+
+impact, why not do away with market efficiency?  The 
+
+2
+
+whole premise of the other economic theory that you rely 
+
+3
+
+on is that the market efficiency is irrelevant.  Some 
+
+4
+
+information impacts the market, whether efficient or 
+
+5
+
+not, and some doesn't, whether efficient or not.  I 
+
+6
+
+think that's the basic economic argument the other 
+
+7
+
+side's making, correct? 
+
+8
+
+ MR. STREETT: 
+
+9
+
+ JUSTICE SOTOMAYOR: 
+
+10
+
+Yes, Your Honor. 
+So why bother with Basic 
+
+at all if we're going to do what you're suggesting ­­
+
+11
+
+ MR. STREETT: 
+
+12
+
+ JUSTICE SOTOMAYOR: 
+
+We agree ­­
+­­ turn the ­­ turn the 
+
+13
+
+class certification into a full­blown merits hearing on 
+
+14
+
+whether loss causation has been proven? 
+
+15
+
+ MR. STREETT: 
+
+It is not loss causation. 
+
+16
+
+It's just whether the price was distorted at the time of 
+
+17
+
+the misstatement and at the time the purchases were 
+
+18
+
+made.  Loss causation deals with the later price 
+
+19
+
+declines after a corrective disclosure. 
+
+20
+
+ And we agree that it is a midpoint because 
+
+21
+
+the question should be whether the market price was 
+
+22
+
+distorted.  We don't think looking at whether the market 
+
+23
+
+is efficient as a whole, how many shares are trading, 
+
+24
+
+how many analysts are following the stock is very 
+
+25
+
+relevant or instructive.  And, in fact, this would
+
+19
+
+Alderson Reporting Company
+
+Official
+
+1
+
+remedy some of Basic's underinclusiveness and 
+
+2
+
+overinclusiveness. 
+
+3
+
+ JUSTICE KENNEDY: 
+
+Can you tell me, based on 
+
+4
+
+your experience, compare the ­­ the cost, the extent of 
+
+5
+
+time, the difficulty of showing under Basic the 
+
+6
+
+efficient ­­ that there is an efficient market, and 
+
+7
+
+compare and contrast that with undertaking an event 
+
+8
+
+study.  Is the latter much more costly, much more 
+
+9
+
+time­consuming? 
+
+10
+
+ MR. STREETT: 
+
+No, Your Honor.  They're about 
+
+11
+
+the same.  And, in fact, plaintiffs are commonly using 
+
+12
+
+event studies right now as part of their market 
+
+13
+
+efficiency showing, because one of the factors courts 
+
+14
+
+are requiring for market efficiency is showing a 
+
+15
+
+reaction between price and unexpected corporate 
+
+16
+
+information throughout the class period.  So, in fact, 
+
+17
+
+they're running these events studies for the entire 
+
+18
+
+class period, where all our position would do is require 
+
+19
+
+them to look at the alleged misrepresentations in the 
+
+20
+
+case, that is to say what really matters, and look at 
+
+21
+
+whether they distorted the market price as opposed to ­­
+
+22
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, how hard is it 
+
+23
+
+to show that the New York Stock Exchange is an efficient 
+
+24
+
+market? 
+
+25
+
+ MR. STREETT: 
+
+Well, the courts look at
+
+20
+
+Alderson Reporting Company
+
+Official
+
+1
+
+several factors.  Now, admittedly, virtually all of the 
+
+2
+
+time, those lead to a finding of yes, but ­­
+
+3
+
+ CHIEF JUSTICE ROBERTS: 
+
+So I would think the 
+
+4
+
+event study they are talking about would be a lot more 
+
+5
+
+difficult and laborious to demonstrate than market 
+
+6
+
+efficiency in a typical case. 
+
+7
+
+ MR. STREETT: 
+
+Well, just to take this case 
+
+8
+
+for an example, the plaintiff's expert used an event 
+
+9
+
+study of all of the unexpected corporate news throughout 
+
+10
+
+the entire class period to prove market efficiency 
+
+11
+
+because courts have said that's one important factor to 
+
+12
+
+show market efficiency.  We would just focus the event 
+
+13
+
+study like a laser on the only thing that matters, to 
+
+14
+
+show whether or not the misrepresentation distorted the 
+
+15
+
+market price. 
+
+16
+
+ JUSTICE BREYER: 
+
+What happens if the ­­ if 
+
+17
+
+the plaintiffs say, Your Honor, I have 5,000 people 
+
+18
+
+here, all of whom bought the stock on the New York Stock 
+
+19
+
+Exchange between March 15 and April 15, and as far as 
+
+20
+
+people who had other kinds of reliance, we'll bring a 
+
+21
+
+separate case about them later.  But everybody in this 
+
+22
+
+case bought on the New York Stock Exchange and our 
+
+23
+
+theory of this case is that the stock exchange did 
+
+24
+
+absorb the information and the price went up and then 
+
+25
+
+went down.
+
+21
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ Now, what ­­ what reason is there for 
+
+2
+
+purposes of certification to go beyond the efficient 
+
+3
+
+market?  Is it good enough?  I mean, why not?  They all 
+
+4
+
+bought on the exchange.  It's not an irrelevancy. 
+
+5
+
+Everybody would have to say it's certainly relevant to 
+
+6
+
+the case and they all have the issue in common. 
+
+7
+
+ MR. STREETT: 
+
+8
+
+ JUSTICE BREYER: 
+
+9
+10
+
+Yes ­­
+Why go into the event 
+
+study?  Why? 
+ MR. STREETT: 
+
+Because even in a generically 
+
+11
+
+efficient market in a binary sense, misrepresentations 
+
+12
+
+may not distort the market price.  As both lower courts 
+
+13
+
+have ­­
+
+14
+
+ JUSTICE BREYER: 
+
+Of course that's true. 
+
+15
+
+Indeed, that's the defense.  The defense is, well, Your 
+
+16
+
+Honor, here it didn't.  And the plaintiffs say, you're 
+
+17
+
+right; we think it did, but if he's right and it didn't, 
+
+18
+
+he wins.  But you have to concede if they're right, you 
+
+19
+
+win. 
+
+20
+
+ So why is that ­­ I don't understand why 
+
+21
+
+that is an appropriate issue.  I can ­­ I don't 
+
+22
+
+understand still.  Maybe it's the same.  Why is that an 
+
+23
+
+appropriate issue at the certification stage? 
+
+24
+25
+
+ MR. STREETT: 
+
+For precisely the same reasons 
+
+that common issues of market efficiency and publicity
+
+22
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+are essential at the class certification stage. 
+ JUSTICE SCALIA: 
+
+How many ­­ how many of 
+
+3
+
+these cases ­­ what percentage of these cases continue 
+
+4
+
+once there has been class certification?  Do you have 
+
+5
+
+any idea? 
+
+6
+7
+8
+9
+10
+11
+12
+
+ MR. STREETT: 
+
+Very few.  Once there's been 
+
+class ­­
+ JUSTICE SCALIA: 
+
+Very few.  Once you get the 
+
+class certified, the case is over, right? 
+ MR. STREETT: 
+
+Yes.  And less than one­third 
+
+of 1 percent actually go to a verdict. 
+ JUSTICE BREYER: 
+
+I ­­ I see that and I 
+
+13
+
+understand that.  But that still strikes me as a 
+
+14
+
+different legal issue, and your answer is, well, we 
+
+15
+
+decide other things at the class certification stage. 
+
+16
+
+Now, I might put in parentheses:  Which don't belong 
+
+17
+
+there. 
+
+18
+19
+20
+
+ So if ­­ why are we deciding any of ­­ why, 
+in other words?  I still have my question, why? 
+ MR. STREETT: 
+
+Because if market efficiency 
+
+21
+
+and publicity were not considered at the class 
+
+22
+
+certification stage, then the plaintiff would just have 
+
+23
+
+to plead an efficient market and would immediately go, 
+
+24
+
+you know, to collect $200 and pass go and get right to 
+
+25
+
+class certification.  That cannot be what Basic meant
+
+23
+
+Alderson Reporting Company
+
+Official
+
+1
+
+when it said the presumption of reliance depends on 
+
+2
+
+plaintiffs relying in common on a misrepresentation that 
+
+3
+
+distorted the market price. 
+
+4
+
+ And I would just point out that the 
+
+5
+
+government and the Fund have conceded that price impact 
+
+6
+
+evidence can be considered at the class certification 
+
+7
+
+stage. 
+
+8
+
+ JUSTICE ALITO: 
+
+Can I ask you a question 
+
+9
+
+about these event studies to which you referred?  How 
+
+10
+
+accurately can they distinguish between the effect of 
+
+11
+
+the ­­ the effect on price of the facts contained in a 
+
+12
+
+disclosure and an irrational reaction by the market, at 
+
+13
+
+least temporarily, to the facts contained in the 
+
+14
+
+disclosure? 
+
+15
+
+ MR. STREETT: 
+
+Event studies are very 
+
+16
+
+effective at making that sort of determination.  In 
+
+17
+
+fact, in this particular case, the expert testified that 
+
+18
+
+she had done that sort of separation of effects before, 
+
+19
+
+but she was not asked to do so in this case.  And that's 
+
+20
+
+at JA410 to 411.  And the law professors and others have 
+
+21
+
+explained in great detail how the event studies work. 
+
+22
+
+ But in any event, that's a proper burden to 
+
+23
+
+place on the plaintiff because they are the ones that 
+
+24
+
+are invoking this powerful presumption to bypass the 
+
+25
+
+requirement of common actual reliance.  They are the
+
+24
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ones who should have to show that it's the 
+
+2
+
+misrepresentation that distorted the market price and 
+
+3
+
+not some other irrational reaction. 
+
+4
+
+ But I wanted to mention that at page 26 of 
+
+5
+
+the government's brief and page 53 of the Fund's brief, 
+
+6
+
+they concede that price impact evidence should come in 
+
+7
+
+at class certification, but they want to make it only 
+
+8
+
+one factor in determining whether the markets were 
+
+9
+
+efficient.  Well, why would you spend all of your time 
+
+10
+
+looking at market efficiency and looking at price impact 
+
+11
+
+as only one factor, instead of looking at the thing that 
+
+12
+
+actually matters, whether the price was distorted. 
+
+13
+
+ And if I could reserve the balance of my 
+
+14
+
+time, Mr. Chief Justice. 
+
+15
+
+ CHIEF JUSTICE ROBERTS: 
+
+16
+
+ Mr. Boies. 
+
+17
+
+ ORAL ARGUMENT OF DAVID BOIES 
+
+18
+
+ ON BEHALF OF THE RESPONDENT 
+
+19
+20
+
+ MR. BOIES: 
+
+Thank you, counsel. 
+
+Mr. Chief Justice, and may it 
+
+please the Court: 
+
+21
+
+ I want to begin by emphasizing, as this 
+
+22
+
+Court did in Basic, that the premise of the Basic 
+
+23
+
+decision was not economic theory; it was commerce.  This 
+
+24
+
+Court said the premise was Congress's premise.  And I 
+
+25
+
+think that when this Court decided the Amgen case, it
+
+25
+
+Alderson Reporting Company
+
+Official
+
+1
+
+said that the fraud­on­the­market presumption was a 
+
+2
+
+substantive doctrine of Federal securities law. 
+
+3
+
+ This is something that has been embedded in 
+
+4
+
+the law.  It has been ratified by Congress in the PSLRA 
+
+5
+
+and in SLUSA.  It is something that Congress has 
+
+6
+
+legislated assuming that this was the law. 
+
+7
+
+ For example, in SLUSA, what Congress did, as 
+
+8
+
+this Court is aware of from last month's decision, is 
+
+9
+
+that it moved securities class actions out of State 
+
+10
+
+courts and into Federal courts.  It said you can't bring 
+
+11
+
+class actions under State law. 
+
+12
+
+ JUSTICE ALITO: 
+
+What do you make of 
+
+13
+
+Section ­­ what do you make of Section 203 of the PSLRA, 
+
+14
+
+which says that "Nothing in this Act or the amendments 
+
+15
+
+made by this Act shall be deemed to create or ratify any 
+
+16
+
+implied private right of action"?  Do you think that was 
+
+17
+
+a ratification of Basic? 
+
+18
+
+ MR. BOIES: 
+
+Well, Your Honor, what this 
+
+19
+
+Court said in Amgen afterwards is that what the ­­ what 
+
+20
+
+Congress did was it did ratify the private cause of 
+
+21
+
+action.  And whether that was right or wrong, that is 
+
+22
+
+what this Court held in Amgen just a year or so ago. 
+
+23
+24
+25
+
+ JUSTICE SCALIA: 
+
+Did we refer to Section 
+
+203 ­­
+ MR. BOIES: 
+
+You did not.
+
+26
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+3
+
+ JUSTICE SCALIA: 
+
+­­ in connection with that 
+
+dictum? 
+ MR. BOIES: 
+
+I do not ­­ I do not believe 
+
+4
+
+that you did, Your Honor. 
+
+5
+
+ JUSTICE SCALIA: 
+
+I think maybe we didn't 
+
+6
+
+know about it, as the parties here seemingly did not 
+
+7
+
+know about it.  I don't think it was cited in the 
+
+8
+
+briefs. 
+
+9
+
+ MR. BOIES: 
+
+But whether or not you conclude 
+
+10
+
+that that was ratified or not, Your Honor, I think 
+
+11
+
+what ­­ what you must conclude is that when Congress 
+
+12
+
+acted both with respect to the PSLRA and even more so 
+
+13
+
+with respect to SLUSA, it acted on the assumption that 
+
+14
+
+they were legislating on the backdrop of the 
+
+15
+
+fraud­on­the­market theory.  The SLUSA ­­ the SLUSA 
+
+16
+
+decision ­­ the SLUSA legislation makes no sense without 
+
+17
+
+the fraud on the market. 
+
+18
+
+ JUSTICE SCALIA: 
+
+Of course.  But ­­ but to 
+
+19
+
+act on the assumption that the courts are going to do 
+
+20
+
+what they've been doing is quite different from 
+
+21
+
+approving what the courts have been doing.  As I 
+
+22
+
+understand the history of these things, there was one 
+
+23
+
+side that wanted to overrule Basic and the other side 
+
+24
+
+that wanted to endorse Basic, and they did neither one. 
+
+25
+
+They simply enacted a law that assumed that the courts
+
+27
+
+Alderson Reporting Company
+
+Official
+
+1
+
+were going to continue Basic.  I don't see that that 
+
+2
+
+is ­­ is necessarily a ratification of it.  It's just an 
+
+3
+
+acknowledgment of reality. 
+
+4
+
+ MR. BOIES: 
+
+I think, obviously, the Court 
+
+5
+
+will decide.  But I think that when you look at what 
+
+6
+
+Congress has done, and they have legislated based on the 
+
+7
+
+assumption of what the law is and they have made a 
+
+8
+
+decision that, as I think the Court recognizes, would 
+
+9
+
+never have been made in SLUSA if ­­ if they did not ­­
+
+10
+
+if Congress did not believe that the fraud­on­the­market 
+
+11
+
+theory existed. 
+
+12
+
+ JUSTICE SOTOMAYOR: 
+
+Mr. Boies, I don't know 
+
+13
+
+that I fully understood your point in your brief as to 
+
+14
+
+why proving price impact was so difficult.  Is it equal 
+
+15
+
+to proving market efficiency?  Is it less burdensome, 
+
+16
+
+more burdensome?  Why can't it be done at the class 
+
+17
+
+certification stage? 
+
+18
+
+ MR. BOIES: 
+
+19
+
+ JUSTICE SOTOMAYOR: 
+
+Sure. 
+And the question I asked 
+
+20
+
+your adversary:  If we believe price impact is 
+
+21
+
+necessary, why keep Basic if we're going to put it in a 
+
+22
+
+class certification? 
+
+23
+
+ MR. BOIES: 
+
+Let me answer in the context of 
+
+24
+
+this particular case.  In this particular case, 
+
+25
+
+Halliburton repeatedly said to analysts that their
+
+28
+
+Alderson Reporting Company
+
+Official
+
+1
+
+insurance and other reserves were adequate to cover any 
+
+2
+
+asbestos exposure.  Those assertions proved to be not 
+
+3
+
+accurate.  The day that it was clear that they were not 
+
+4
+
+accurate, December 7, 2001, the stock price dropped 
+
+5
+
+42 percent.  There were no confounding factors.  Their 
+
+6
+
+expert says December 7th was all about asbestos. 
+
+7
+
+ Now, we have a dispute as to what their ­­
+
+8
+
+their news that was revealed on December 7th was 
+
+9
+
+expected or unexpected.  They said it was unexpected. 
+
+10
+
+They were caught unaware.  We said they knew it all the 
+
+11
+
+time and we've got some documents that indicate that. 
+
+12
+
+But whether we are right or they are right, that is 
+
+13
+
+clearly a merits decision.  That's clearly not a class 
+
+14
+
+certification issue. 
+
+15
+
+ JUSTICE KENNEDY: 
+
+But why ­­ why couldn't 
+
+16
+
+that same showing be made under the law professors' 
+
+17
+
+theory of an event study at the certification stage? 
+
+18
+
+ MR. BOIES: 
+
+You could, Your Honor, and with 
+
+19
+
+respect to December 7th, I think that would not be so 
+
+20
+
+difficult.  But there are nine dates, and with respect 
+
+21
+
+to five of those nine dates when there was news 
+
+22
+
+revealed, they claim confounding factors. 
+
+23
+
+ So what you have to do is you have to 
+
+24
+
+separate out the confounding factors, the allegedly 
+
+25
+
+confounding factors, with respect to each one of those
+
+29
+
+Alderson Reporting Company
+
+Official
+
+1
+
+dates, and you've got to do a detailed event study.  And 
+
+2
+
+in addition ­­
+
+3
+4
+
+ JUSTICE KENNEDY: 
+
+For each ­­ for each one 
+
+of ­­ of ­­
+
+5
+
+ MR. BOIES: 
+
+6
+
+ JUSTICE KENNEDY: 
+
+7
+
+ MR. BOIES: 
+
+For each ­­ for each day ­­
+Oh, each day. 
+­­ you've got to look at what 
+
+8
+
+the confounding factors are and you have to try to 
+
+9
+
+separate them.  That's very complicated.  It takes a lot 
+
+10
+
+of time.  It's very expensive.  It's a lot of expert 
+
+11
+
+testimony.  It is why these things, for example, at the 
+
+12
+
+summary judgment stage, are very complicated. 
+
+13
+
+ Now, an event study that demonstrates the 
+
+14
+
+efficiency of the market is far simpler.  Halliburton 
+
+15
+
+conceded the efficiency of this market.  This is not a 
+
+16
+
+case in which there is any doubt about the efficiency of 
+
+17
+
+the market.  Halliburton has repeatedly conceded the 
+
+18
+
+efficiency of this market. 
+
+19
+
+ And I think that when you are trying to 
+
+20
+
+prove market efficiency, all you have to do is 
+
+21
+
+demonstrate that the basic premise that generally 
+
+22
+
+markets take into account ­­ well­developed markets take 
+
+23
+
+into account publicly available news, and you can do 
+
+24
+
+that relatively simply.  Trying to separate out all of 
+
+25
+
+the factors that you need to separate out in order to
+
+30
+
+Alderson Reporting Company
+
+Official
+
+1
+
+determine whether a culpable misrepresentation was the 
+
+2
+
+cause of a price change and how much of that price 
+
+3
+
+change was due to that culpable information is very 
+
+4
+
+complicated. 
+
+5
+
+ JUSTICE KENNEDY: 
+
+But even if Basic did not 
+
+6
+
+rely on economic theory, and there is a dispute on 
+
+7
+
+that ­­ I think the opinion is not quite clear on that 
+
+8
+
+one way or the other ­­ if later economic theories show 
+
+9
+
+that the market doesn't react in the way Basic assumed 
+
+10
+
+it automatically did, then certainly Congress would not 
+
+11
+
+wish to foreclose the Court from considering that new 
+
+12
+
+evidence if it was a strong, clear and convincing, et 
+
+13
+
+cetera. 
+
+14
+
+ MR. BOIES: 
+
+Well, first ­­ first, Your 
+
+15
+
+Honor, I would ­­ I'd say three things about that. 
+
+16
+
+First, I would say that Basic's premise is not an 
+
+17
+
+economic theory.  It's not a premise of economic theory. 
+
+18
+
+It is a premise of Congress.  That's what Basic held, 
+
+19
+
+and I think correctly held, that the ­­ the whole 
+
+20
+
+premise of the securities laws is that when you make 
+
+21
+
+fraudulent misrepresentations, you make them public, it 
+
+22
+
+affects the market price. 
+
+23
+
+ The second thing is there hasn't been 
+
+24
+
+anything that has changed since Basic that makes Basic 
+
+25
+
+less applicable.
+
+31
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ JUSTICE ALITO: 
+
+But, Mr. Boies, to say that 
+
+2
+
+false representation affects the market price is quite 
+
+3
+
+different from saying that it affects the market price 
+
+4
+
+almost immediately, and it's hard to see how the Basic 
+
+5
+
+theory can be sustained unless it does affect the market 
+
+6
+
+price almost immediately in what Basic described as an 
+
+7
+
+efficient market.  Isn't that true?  Why should someone 
+
+8
+
+who purchased the stock on the day, shortly, you know, 
+
+9
+
+an hour or two after the disclosure, be entitled to 
+
+10
+
+recovery if in that particular market there is some lag 
+
+11
+
+time in incorporating the new information? 
+
+12
+
+ MR. BOIES: 
+
+I think ­­ I think Your Honor is 
+
+13
+
+right that if there is lag time in a particular market, 
+
+14
+
+somebody who has purchased immediately after the 
+
+15
+
+misrepresentation would not be entitled to recover. 
+
+16
+
+However, in this case and in most cases that isn't an 
+
+17
+
+issue, because in most cases what the class­action 
+
+18
+
+period is, is something that gives all of the 
+
+19
+
+misrepresentations full­time to permeate into the 
+
+20
+
+market. 
+
+21
+
+ So it is theoretically possible that you 
+
+22
+
+could have a market where there is a lag time. 
+
+23
+
+Although, I will say that since Basic was decided that 
+
+24
+
+lag time has gotten shorter and shorter.  Whatever ­­
+
+25
+
+whatever the truth is about how efficient markets were,
+
+32
+
+Alderson Reporting Company
+
+Official
+
+1
+
+they are massively more efficient today than they were 
+
+2
+
+in 1988.  In 1988, people were still sitting home 
+
+3
+
+reading Barron's to try to figure out what was happening 
+
+4
+
+in the stock market.  Today you have realtime 
+
+5
+
+information.  You have all sorts of ways of 
+
+6
+
+communicating information.  People ­­ people strive to 
+
+7
+
+be able to trade in a second faster ­­
+
+8
+9
+
+ JUSTICE KENNEDY: 
+
+But the Petitioners say 
+
+that this has produced a whole new genre of investors 
+
+10
+
+that are quite different from the fellow that's sitting 
+
+11
+
+at home reading the Wall Street Journal. 
+
+12
+
+ MR. BOIES: 
+
+13
+
+ JUSTICE KENNEDY: 
+
+14
+15
+
+But all of those ­­
+And your theory doesn't 
+
+seem to take that into account. 
+ MR. BOIES: 
+
+It does, Your Honor, because all 
+
+16
+
+of those people rely on the integrity of the market. 
+
+17
+
+They talk about these high­frequency traders that trade 
+
+18
+
+in and out.  Well, if they trade in and out during a 
+
+19
+
+day, most of them will not be affected by this because 
+
+20
+
+they will have gone in and come out with the 
+
+21
+
+misrepresentation intact.  It's only when somebody buys 
+
+22
+
+when the price is inflated or artificially depressed and 
+
+23
+
+then sells after the corrected disclosure that there is 
+
+24
+
+damage.  These people are all buying and selling based 
+
+25
+
+on the integrity of the market price.  In fact, when you
+
+33
+
+Alderson Reporting Company
+
+Official
+
+1
+
+talk about these trading programs, those trading 
+
+2
+
+programs, even more than the Barron's reader at home, is 
+
+3
+
+relying on the integrity of the market price because 
+
+4
+
+that's all they have to rely on. 
+
+5
+
+ If you think about it, if you went to one of 
+
+6
+
+these people with these trading programs and said, 
+
+7
+
+you're going to trade on this stock, would you trade on 
+
+8
+
+the stock if you knew that it was artificially inflated, 
+
+9
+
+of course they wouldn't.  Everybody who buys assumes 
+
+10
+11
+
+that that market price is ­­ is fraud­free.  And ­­
+ JUSTICE KENNEDY: 
+
+Well, you're saying that 
+
+12
+
+the events ­­ that the law professors' event study 
+
+13
+
+theory is flawed, then? 
+
+14
+
+ MR. BOIES: 
+
+No.  You can have event studies, 
+
+15
+
+and one of the things that an event study does is it 
+
+16
+
+attempts to determine whether or not a particular price 
+
+17
+
+movement was related to a particular piece of 
+
+18
+
+information.  That will tell you whether that price 
+
+19
+
+movement is related to something that is culpable or not 
+
+20
+
+culpable. 
+
+21
+
+ JUSTICE ALITO: 
+
+I didn't understand what you 
+
+22
+
+just said.  Are you saying there are not categories of 
+
+23
+
+investors who might say to themselves, You know what? 
+
+24
+
+There is a possibility that the price of this stock on 
+
+25
+
+this particular day might be artificially inflated by
+
+34
+
+Alderson Reporting Company
+
+Official
+
+1
+
+some statement that was made in the past that isn't 
+
+2
+
+true, but I'm going to buy it anyway because I still 
+
+3
+
+think it's either ­­ it's undervalued or because there 
+
+4
+
+are some other statistics regarding the market that tell 
+
+5
+
+me that this price is going to go up. 
+
+6
+
+ You tell me that there are ­­ there are not 
+
+7
+
+large categories of investors who think that way? 
+
+8
+9
+
+ MR. BOIES: 
+
+I think there are not large 
+
+categories of investors that think that way, and I think 
+
+10
+
+there is absolutely no empirical evidence at all that 
+
+11
+
+there are large categories of investors that think that 
+
+12
+
+way. 
+
+13
+
+ Could there be somebody who says, I know 
+
+14
+
+this is fraudulent, but I think I can buy; I know it's 
+
+15
+
+in ­­ I know it's artificially inflated, but I think I 
+
+16
+
+can buy and ride it up and I can get out before the 
+
+17
+
+market knows that there is an artificial inflation. 
+
+18
+
+There might be somebody like that, and that's why Basic 
+
+19
+
+provides for a rebuttable presumption.  You can ­­
+
+20
+
+ JUSTICE GINSBURG: 
+
+May I ask you about the 
+
+21
+
+rebuttable presumption, Mr. Boies?  You agree that the 
+
+22
+
+Basic is a presumption and that it can be rebutted, but 
+
+23
+
+you say that's a question for the merits. 
+
+24
+25
+
+ What difference does it make at what stage 
+the rebuttal is allowed?  What practical difference does
+
+35
+
+Alderson Reporting Company
+
+Official
+
+1
+
+it make if the inquiry is made at the certification 
+
+2
+
+stage rather than the merits stage? 
+
+3
+
+ MR. BOIES: 
+
+I think it makes ­­ it makes two 
+
+4
+
+differences, Your Honor.  One is it would inevitably put 
+
+5
+
+off the class certification stage because now you would 
+
+6
+
+have to have a discovery on issues that are ordinarily 
+
+7
+
+considered to be merits issues.  The way an action now 
+
+8
+
+works is that you will have just very limited class 
+
+9
+
+certification discovery and you won't get to the full 
+
+10
+11
+
+merits discovery until you get past class certification. 
+ Now, a lot of cases fail class 
+
+12
+
+certification.  The idea that the class certification is 
+
+13
+
+not a ­­ a important step is simply wrong.  A lot of 
+
+14
+
+cases fail class certification. 
+
+15
+
+ But once you have passed class 
+
+16
+
+certification, now you go into merits discovery.  If you 
+
+17
+
+were going to decide these issues that are ordinarily 
+
+18
+
+today decided at the merits stage, you would have to 
+
+19
+
+delay class certification until you'd had that merits 
+
+20
+
+discovery. 
+
+21
+
+ CHIEF JUSTICE ROBERTS: 
+
+You don't dispute ­­
+
+22
+
+I'm sorry ­­ you don't dispute though, that you usually 
+
+23
+
+don't get to the merits stage once the classes have been 
+
+24
+
+certified, do you? 
+
+25
+
+ MR. BOIES: 
+
+That ­­ that is true, Your
+
+36
+
+Alderson Reporting Company
+
+Official
+
+1
+
+Honor, but a lot of that is because there are summary 
+
+2
+
+judgment motions.  Remember, you have ­­ you have three 
+
+3
+
+merit stages already:  A pleading stage, which under the 
+
+4
+
+PSLRA, under this Court's decision in Dura, is a real 
+
+5
+
+obstacle; second, you have summary judgment; and then 
+
+6
+
+third, you have the trial.  More than half of all 
+
+7
+
+securities class actions, summary judgment is granted in 
+
+8
+
+whole or in part, 37 percent wholly, another 25 percent 
+
+9
+
+in part.  So the summary judgments ­­
+
+10
+11
+12
+
+ CHIEF JUSTICE ROBERTS: 
+
+Where ­­ where is 
+
+certification in that timeline? 
+ MR. BOIES: 
+
+It goes ­­ it goes both ways. 
+
+13
+
+Generally, you have summary judgment after class 
+
+14
+
+certification. 
+
+15
+
+ CHIEF JUSTICE ROBERTS: 
+
+16
+
+ MR. BOIES: 
+
+Right. 
+
+You could have summary judgment 
+
+17
+
+at the class certification stage.  I mean, for example, 
+
+18
+
+if you wanted to move in a particular case, if you 
+
+19
+
+wanted to move price impact or materiality or any issue 
+
+20
+
+into an earlier time frame, there's nothing that 
+
+21
+
+prevents a defendant from making a motion for summary 
+
+22
+
+judgment on that issue.  And, in fact, if ­­ if there's 
+
+23
+
+any doubt about that, this Court could easily clarify 
+
+24
+
+that.  That would allow you to have class certification 
+
+25
+
+in a temporal way at the same time that you were dealing
+
+37
+
+Alderson Reporting Company
+
+Official
+
+1
+
+with the merits. 
+
+2
+
+ But ­­ but the issue on the merits is that 
+
+3
+
+if you don't have a discovery, you can't decide these 
+
+4
+
+issues, obviously.  And second, the cost and expense at 
+
+5
+
+the class action certification stage and the time delay 
+
+6
+
+would increase enormously, because now you would have to 
+
+7
+
+have these detailed event studies not just to prove 
+
+8
+
+efficiency of the market ­­ which was conceded here, and 
+
+9
+
+if it hadn't been conceded, we could have demonstrated 
+
+10
+
+it ­­ you also have to show what the impact was of the 
+
+11
+
+particular culp ­­ allegedly culpable misrepresentation 
+
+12
+
+and disclosure. 
+
+13
+
+ And, for example, in ­­ in the ­­ in the 
+
+14
+
+case that ­­ that we have here, with respect to eight of 
+
+15
+
+the nine disclosure dates, we would ­­ we would have a 
+
+16
+
+detailed disagreement and detailed expert reports and 
+
+17
+
+expert testimony that would go to what was the price 
+
+18
+
+impact, what was the damage in this particular case. 
+
+19
+
+ JUSTICE SCALIA: 
+
+Mr. Boies, you've said 
+
+20
+
+that ­­ that a lot of class certification motions are 
+
+21
+
+denied.  I had thought that your friend said that that 
+
+22
+
+is very rare except in the Second Circuit. 
+
+23
+
+ MR. BOIES: 
+
+24
+
+ JUSTICE SCALIA: 
+
+25
+
+Well ­­
+Did I hear that wrong, 
+
+or ­­
+
+38
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ MR. BOIES: 
+
+2
+
+ JUSTICE SCALIA: 
+
+3
+
+ MR. BOIES: 
+
+­­ I mostly ­­
+­­ is he wrong? 
+Well, I think he's wrong.  My 
+
+4
+
+personal experience is mostly with the Second Circuit in 
+
+5
+
+cases like the Deutsche Bank case.  But the Deutsche 
+
+6
+
+Bank case did not relate to rebutting on the basis 
+
+7
+
+of price impact.  In the Deutsche Bank case, Judge 
+
+8
+
+Forest held that there was not an efficient market. 
+
+9
+
+ JUSTICE KENNEDY: 
+
+Well, my question along 
+
+10
+
+the same lines is:  If the misrepresentation is 
+
+11
+
+established, from that category of cases, are there many 
+
+12
+
+that are still not certified?  Because that would be 
+
+13
+
+inconsistent with your whole theory that the market is 
+
+14
+
+almost always efficient. 
+
+15
+
+ MR. BOIES: 
+
+Well, you know, we don't argue 
+
+16
+
+that the market is ­­ is always efficient, Your Honor. 
+
+17
+
+There is a lot of litigation about whether particular 
+
+18
+
+markets are efficient, less so with respect to New York 
+
+19
+
+Stock Exchange markets, more with respect to NASDAQ and 
+
+20
+
+other markets, but there is a lot of litigation as to 
+
+21
+
+whether particular markets are or are not efficient. 
+
+22
+
+ And, indeed, we went to the expense in this 
+
+23
+
+particular case of doing an event study because we were 
+
+24
+
+concerned that they would challenge the efficiency of 
+
+25
+
+the market.  They didn't, but because they could and
+
+39
+
+Alderson Reporting Company
+
+Official
+
+1
+
+because that was a normal kind of thing for a defendant 
+
+2
+
+to do ­­
+
+3
+
+ JUSTICE SOTOMAYOR: 
+
+4
+
+ MR. BOIES: 
+
+5
+
+ JUSTICE SOTOMAYOR: 
+
+I thought ­­
+
+­­ we did that. 
+I thought there were two 
+
+6
+
+questions, and I don't know that you've really answered 
+
+7
+
+the two.  I thought your colleague was talking about 
+
+8
+
+less than 1 percent, whatever the figure was, is of 
+
+9
+
+cases that were certified as classes, how many go to 
+
+10
+
+trial.  You said something different, which is that not 
+
+11
+
+every class is certified. 
+
+12
+13
+14
+
+ Do you have a percentage for the amount ­­
+the number ­­ for that number? 
+ MR. BOIES: 
+
+I don't have ­­ I don't have a 
+
+15
+
+percentage of the classes that are not certified, Your 
+
+16
+
+Honor.  But Your Honor is completely correct, that what 
+
+17
+
+he was talking about was the number of these cases that 
+
+18
+
+actually go to trial.  As I say, more than half of them, 
+
+19
+
+a summary judgment is granted in whole or in part.  A 
+
+20
+
+very large number of them are now wiped out at the 
+
+21
+
+pleading stage as well.  So the idea that there are not 
+
+22
+
+significant merits filters that prevent cases from going 
+
+23
+
+to trial is simply wrong, both at the pleading stage and 
+
+24
+
+at the summary judgment stage. 
+
+25
+
+ And the question really is: 
+
+40
+
+Alderson Reporting Company
+
+Are you going
+
+Official
+
+1
+2
+3
+4
+5
+6
+
+to have a fourth ­­
+ JUSTICE SOTOMAYOR: 
+
+Do you know any article 
+
+that talks about that ­­ those numbers? 
+ MR. BOIES: 
+
+I ­­ I don't, Your Honor.  I 
+
+apologize. 
+ JUSTICE SCALIA: 
+
+Mr. Boise, you and I both 
+
+7
+
+agree that the PSLRA assumes Basic.  Now, we differ on, 
+
+8
+
+you know, what that means, but it does assume it. 
+
+9
+
+What ­­ and ­­ and so those previsions would ­­ would 
+
+10
+
+sort of be useless if Basic were entirely overruled. 
+
+11
+
+ What if we adopted the professors' ­­ what, 
+
+12
+
+Basic writ small, if ­­ if we adopted their approach, 
+
+13
+
+would those provisions of the PSLRA still be effective? 
+
+14
+
+ MR. BOIES: 
+
+I think ­­ I think the 
+
+15
+
+provisions of the PSLRA would still be effective, Your 
+
+16
+
+Honor.  I think with respect to SLUSA, it's a somewhat 
+
+17
+
+different issue.  I think that ­­ I think if you ­­ if 
+
+18
+
+you adopted those ­­ those provisions with respect to 
+
+19
+
+what's proposed, the PSLRA still would make sense, but I 
+
+20
+
+don't think SLUSA would. 
+
+21
+
+ JUSTICE SCALIA: 
+
+22
+
+ CHIEF JUSTICE ROBERTS: 
+
+23
+
+ MR. BOIES: 
+
+24
+
+ CHIEF JUSTICE ROBERTS: 
+
+25
+
+ ORAL ARGUMENT OF MALCOLM L. STEWART
+
+All right. 
+Thank you, counsel. 
+
+Thank you. 
+
+41
+
+Alderson Reporting Company
+
+Mr. Stewart. 
+
+Official
+
+1
+2
+3
+4
+5
+
+ ON BEHALF OF UNITED STATES 
+ AS AMICUS CURIAE, SUPPORTING RESPONDENT 
+ MR. STEWART: 
+
+Mr. Chief Justice, and may it 
+
+please the Court: 
+ I'd like to begin by addressing two of the 
+
+6
+
+respects in which the Petitioners' counsel argued that 
+
+7
+
+circumstances have changed since this Court's decision 
+
+8
+
+in Basic.  And the first ­­ one of these was that 
+
+9
+
+investors have adopted new strategies that, in his view, 
+
+10
+
+don't rely on the integrity of the market price.  And I 
+
+11
+
+think it's certainly true that investors have devised a 
+
+12
+
+wide array of strategies in an effort to beat the 
+
+13
+
+market, but it's hard to imagine one that would render 
+
+14
+
+irrelevant evidence that the market price had been 
+
+15
+
+distorted by fraud. 
+
+16
+
+ For example, a particular investor might 
+
+17
+
+think there are particular types of information that the 
+
+18
+
+market doesn't react to quickly enough, and if I'm 
+
+19
+
+following that information in realtime and I can trade 
+
+20
+
+before the market catches on, then I can make money; I 
+
+21
+
+can buy low and sell high.  Now, that strategy is 
+
+22
+
+certainly going to be undermined if there is other 
+
+23
+
+information bearing on the market price, the falsity of 
+
+24
+
+which that investor is not aware of that caused the 
+
+25
+
+market price to be inflated.
+
+42
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ Now, I'd ­­ would agree with you, Justice 
+
+2
+
+Alito, that in theory, there could be an investor who 
+
+3
+
+says in a particular circumstance, I think the gain that 
+
+4
+
+I can make by taking advantage of the new information to 
+
+5
+
+which the market price has not yet reacted will more 
+
+6
+
+than counterbalance the loss I will suffer when the 
+
+7
+
+truth about the unrelated information comes to light. 
+
+8
+
+That could happen, but even for an investor of that 
+
+9
+
+sort, the distortion wouldn't be irrelevant.  It would 
+
+10
+11
+
+just be a factor that could be counteractive. 
+ And the other thing I would say about the 
+
+12
+
+efficiency of the market is that even an investor who is 
+
+13
+
+attempting to make money by being the first to take 
+
+14
+
+advantage of new information is relying, in essence, on 
+
+15
+
+the ultimate ability and tendency of the market to 
+
+16
+
+incorporate the information; that is, an investor who 
+
+17
+
+thinks that a stock is currently undervalued based on 
+
+18
+
+the information he has presumably thinks that in time, 
+
+19
+
+the ­­ the stock will no longer be undervalued, the 
+
+20
+
+market will come to appreciate the significance of the 
+
+21
+
+new information.  That would be the basis for his 
+
+22
+
+anticipating that the stock price will rise.  And so 
+
+23
+
+even that strategy is dependent in a fundamental way on 
+
+24
+
+the propensity of new information to ­­ to change the 
+
+25
+
+market price.
+
+43
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ The second thing I wanted to respond to was 
+
+2
+
+Petitioners' assertion that Basic is out of keeping with 
+
+3
+
+this Court's more recent decisions regarding the 
+
+4
+
+requirements of Rule 23.  And I think that in fact, with 
+
+5
+
+­­ at least with respect to the interaction between the 
+
+6
+
+merits and Rule 23, the court in Basic did precisely 
+
+7
+
+what this Court's decisions in Wal­Mart and Comcast tell 
+
+8
+
+courts they ought to do; that is, the Court in Basic was 
+
+9
+
+ruling on an appeal from a class certification decision, 
+
+10
+
+and it was confronted with two competing visions of what 
+
+11
+
+the reliance requirement of the Section 10(b) action 
+
+12
+
+should comprise. 
+
+13
+
+ One of them was the defendant's view that to 
+
+14
+
+establish reliance, a plaintiff had to show that he or 
+
+15
+
+she actually read the relevant disclosure and took it 
+
+16
+
+into account in making a trading decision.  The other 
+
+17
+
+vision of reliance was the fraud­on­the­market 
+
+18
+
+presumption that the ­­ the court ultimately adopted. 
+
+19
+
+And the court in Basic recognized that it had to decide 
+
+20
+
+this merits question at the class certification stage 
+
+21
+
+because the answer to that question would control 
+
+22
+
+whether the reliance element was susceptible of common 
+
+23
+
+proof. 
+
+24
+
+ CHIEF JUSTICE ROBERTS: 
+
+25
+
+ MR. STEWART: 
+
+Counsel? 
+
+If the ­­ I'm sorry.
+
+44
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ CHIEF JUSTICE ROBERTS: 
+
+Sorry to interrupt 
+
+2
+
+your train of thought, but were the feasibility and 
+
+3
+
+prevalence of event studies something that was around 
+
+4
+
+when Basic was decided? 
+
+5
+
+ MR. STEWART: 
+
+I don't know exactly what 
+
+6
+
+mode.  I believe that event studies in some form were 
+
+7
+
+used to establish both the efficiency of the market and 
+
+8
+
+the potential impact of the misstatement on the price. 
+
+9
+
+I don't know the extent to which their sophistication 
+
+10
+
+matched the sophistication of event studies today.  I 
+
+11
+
+would tend to assume that they were much less 
+
+12
+
+sophisticated than they are now. 
+
+13
+
+ JUSTICE ALITO: 
+
+Could you explain how the 
+
+14
+
+requirement that Basic imposed of proving publicity at 
+
+15
+
+the certification stage is consistent with the Court's 
+
+16
+
+theory in Amgen? 
+
+17
+
+ MR. STEWART: 
+
+I think the ­­ the theory in 
+
+18
+
+Amgen is that in order to decide whether something has 
+
+19
+
+to be proved at the class certification stage, you ask 
+
+20
+
+first, is it susceptible of common proof; and second, if 
+
+21
+
+the class is certified and the ­­ the statement or the 
+
+22
+
+fact is ultimately disproved down the road, is the 
+
+23
+
+effect going to be that the class splinters or that all 
+
+24
+
+plaintiffs lose in common?  And the Court's theory in 
+
+25
+
+Amgen, the rationale for saying that publicity had to be
+
+45
+
+Alderson Reporting Company
+
+Official
+
+1
+
+proved at the class certification stage, was that if it 
+
+2
+
+were proved down the road that the statement was not 
+
+3
+
+made publicly, some plaintiffs might still have good 
+
+4
+
+claims because they would have heard and relied upon the 
+
+5
+
+information even though it wasn't communicated to the 
+
+6
+
+public, and therefore the effect of disproof of 
+
+7
+
+publicity would not be to cause all class members to 
+
+8
+
+lose, it would be to cause the class to splinter. 
+
+9
+
+ JUSTICE ALITO: 
+
+Do you think that's a 
+
+10
+
+realistic ­­ that that is something that's likely to 
+
+11
+
+happen in other than extremely rare cases? 
+
+12
+
+ MR. STEWART: 
+
+Well, there ­­ there are 
+
+13
+
+certainly plenty of securities fraud cases over the 
+
+14
+
+years that involved private misrepresentations made 
+
+15
+
+one­on­one by a broker, a salesperson, et cetera.  I 
+
+16
+
+take your point that in terms of practical significance 
+
+17
+
+it is the case that the recoveries in the large class 
+
+18
+
+actions dwarf the ones in individual suits. 
+
+19
+
+ JUSTICE BREYER: 
+
+Yes, that's ­­ that's 
+
+20
+
+what's nagging at me that I don't fully understand.  It 
+
+21
+
+may be elementary, but if we had a case where all the 
+
+22
+
+plaintiffs had, in fact, and every one in the class had 
+
+23
+
+bought on the New York Stock Exchange at such and such a 
+
+24
+
+period, then I guess in principle neither would be 
+
+25
+
+appropriate for the classification stage ­­
+
+46
+
+Alderson Reporting Company
+
+Official
+
+1
+
+certification stage. 
+
+2
+
+ MR. STEWART: 
+
+3
+
+ JUSTICE BREYER: 
+
+I'm sorry? 
+Neither would be 
+
+4
+
+appropriate for the certification stage.  You wouldn't 
+
+5
+
+have to prove efficient markets; all you would have to 
+
+6
+
+do is allege them; because, after all, if they do exist 
+
+7
+
+then the reliance element is proved subject to rebuttal; 
+
+8
+
+and if the rebuttal wins, it's not.  And that's not a 
+
+9
+
+question if it's all in common, it's all in common. 
+
+10
+
+That's ­­ that's the conceptual point I haven't quite 
+
+11
+
+understood. 
+
+12
+
+ MR. STEWART: 
+
+Well, at least to the 
+
+13
+
+efficiency of the market, it wouldn't ­­ it wouldn't be 
+
+14
+
+the case that disproof of efficiency would defeat the 
+
+15
+
+claim of every class member. 
+
+16
+
+ JUSTICE BREYER: 
+
+17
+
+ MR. STEWART: 
+
+Why not? 
+Because a particular class 
+
+18
+
+member, even without showing an efficient market, could 
+
+19
+
+show that he or she personally ­­
+
+20
+
+ JUSTICE BREYER: 
+
+If we had a class, they all 
+
+21
+
+conceded that they bought it on the market at the same 
+
+22
+
+time, had no information, then it would go to the later 
+
+23
+
+stage? 
+
+24
+25
+
+ MR. STEWART: 
+
+If the class were defined in 
+
+that manner, as people who had no such information, then
+
+47
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+­­ then the class wouldn't splinter. 
+ JUSTICE KAGAN: 
+
+Mr. Stewart, can I just ­­
+
+3
+
+can I ask a more general question?  You're representing 
+
+4
+
+the SEC here, the principal regulators of the securities 
+
+5
+
+markets and the securities industry.  So if ­­ I guess 
+
+6
+
+it's a two­part question.  If Basic were overruled, what 
+
+7
+
+is ­­ what is the view as to what ­­ how that would 
+
+8
+
+affect the securities industry and how it would affect 
+
+9
+
+individual decision making with respect to securities? 
+
+10
+
+And same question for, if the law professors' position 
+
+11
+
+was adopted. 
+
+12
+
+ MR. STEWART: 
+
+Well, let me take the first 
+
+13
+
+part first, because I think in part it illustrates an 
+
+14
+
+important aspect of this case that tends to get lost. 
+
+15
+
+We are arguing about this as though it's procedure, but 
+
+16
+
+really what is fundamentally at issue is what is the 
+
+17
+
+class of, what is the category of investors who would 
+
+18
+
+have a potentially valid Section 10(b)(5) action.  That 
+
+19
+
+is, the Petitioners' view is the only people who could 
+
+20
+
+be proper plaintiffs in a Section ­­ in a private 
+
+21
+
+Section 10(b) suit, whether a class action or an 
+
+22
+
+individual action, are people who personally read, 
+
+23
+
+reviewed, subjectively took account of the false 
+
+24
+
+information. 
+
+25
+
+ And the view on the other side, the view
+
+48
+
+Alderson Reporting Company
+
+Official
+
+1
+
+under ­­ under Basic, is that any person who bought 
+
+2
+
+stock at the inflated price on the market, a price 
+
+3
+
+inflated by fraud, and subsequently lost money as a 
+
+4
+
+result when the truth was made known, any such person 
+
+5
+
+would have a remedy; and if Basic were overruled, if 
+
+6
+
+people were told, if you buy without doing this sort of 
+
+7
+
+research into primary sources, you will have no 
+
+8
+
+potential recovery at the end of the day, I don't know 
+
+9
+
+that the SEC has a defined view about exactly what the 
+
+10
+
+consequences would be, but certainly the consequences 
+
+11
+
+are potentially dramatic. 
+
+12
+
+ You have an amicus brief filed by 
+
+13
+
+institutional investors, many of whom rely on indexing 
+
+14
+
+strategies, and they try to save management fees by not 
+
+15
+
+doing all the research into the primary sources, by 
+
+16
+
+allowing the market to do most of the work, and then 
+
+17
+
+buying stocks that are broadly representative of the 
+
+18
+
+market.  And they've at least ­­
+
+19
+
+ JUSTICE SCALIA: 
+
+If the ­­ if the SEC brings 
+
+20
+
+a fraud action, can it ­­ can it rely on the ­­ on the 
+
+21
+
+market theory, fraud­on­the­market theory? 
+
+22
+
+ MR. STEWART: 
+
+Well, the SEC would have no ­­
+
+23
+
+wouldn't and would have no need to do so, because 
+
+24
+
+reliance wouldn't be an element of the SEC's cause of 
+
+25
+
+action.  The SEC would have to establish that there was
+
+49
+
+Alderson Reporting Company
+
+Official
+
+1
+
+a violation, but it wouldn't have to establish that it 
+
+2
+
+or any individual investor relied; and so the 
+
+3
+
+institutional investors at least have represented to the 
+
+4
+
+Court that their investment strategies will need to 
+
+5
+
+change if they have to choose between saving money by 
+
+6
+
+relying on indexing strategies and having available 
+
+7
+
+potential avenues for recovery if it turns out ­­
+
+8
+9
+
+ JUSTICE KENNEDY: 
+
+Can you get to part two of 
+
+Justice Kagan's question, which is what is your view of 
+
+10
+
+the ­­ of the consequences if we adopt the law 
+
+11
+
+professors' view? 
+
+12
+
+ MR. STEWART: 
+
+I understand the law 
+
+13
+
+professors, that there were a few law professors' 
+
+14
+
+briefs.  And I understand the one you're referring to to 
+
+15
+
+be the one that basically advocated a shift away from 
+
+16
+
+analyzing the general efficiency of the market and 
+
+17
+
+focusing only on the effect or lack of effect on the ­­
+
+18
+
+the particular stock.  I don't think that the 
+
+19
+
+consequences would be nearly so dramatic.  In fact if 
+
+20
+
+anything, that would be a net gain to plaintiffs, 
+
+21
+
+because plaintiffs already have to prove price impact at 
+
+22
+
+the end of the day. 
+
+23
+
+ CHIEF JUSTICE ROBERTS: 
+
+24
+
+ Mr. Streett, you have 5 minutes remaining. 
+
+25
+
+Thank you, counsel. 
+
+ REBUTTAL ARGUMENT OF AARON M. STREETT
+
+50
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+ ON BEHALF OF THE PETITIONERS 
+ MR. STREETT: 
+
+Thank you.  I'd like to start 
+
+3
+
+with one statistical matter that was ­­ that was raised 
+
+4
+
+by Justice Sotomayor.  The most recent studies by NERA 
+
+5
+
+and Stanford show that 75 percent of class certification 
+
+6
+
+motions are granted in securities cases; and that number 
+
+7
+
+is much, much higher with respect to New York Stock 
+
+8
+
+Exchange companies that essentially have no way to 
+
+9
+
+dispute market efficiency. 
+
+10
+11
+12
+13
+14
+
+ Now, I want to turn to the argument that ­­
+that Basic ­­
+ JUSTICE GINSBURG: 
+
+How many of those drop 
+
+out at the summary judgment stage? 
+ MR. STREETT: 
+
+Only 7 percent even make it to 
+
+15
+
+the summary judgment stage, Your Honor.  So out of 
+
+16
+
+those, I think Mr. Boies is correct that maybe half are 
+
+17
+
+granted and half are denied.  But only 7 percent even 
+
+18
+
+make it to that stage, because once the case gets passed 
+
+19
+
+class certification, as this Court has recognized time 
+
+20
+
+and again, there is an in terrorem effect that requires 
+
+21
+
+defendants to settle even meritless claims. 
+
+22
+
+ Basic did not look to what Congress 
+
+23
+
+intended.  Congress did not even have a private cause of 
+
+24
+
+action in Section 10(b), and the most analogous cause of 
+
+25
+
+action for somebody who purchased in the aftermarket
+
+51
+
+Alderson Reporting Company
+
+Official
+
+1
+
+context required a showing of actual reliance.  So the 
+
+2
+
+idea that this was somehow based on interpreting the 
+
+3
+
+statute is nonsensical. 
+
+4
+
+ JUSTICE GINSBURG: 
+
+Whatever it might have 
+
+5
+
+been at the beginning, given the most recent 
+
+6
+
+legislation, Congress took a look at the 10(b)(5) action 
+
+7
+
+and it made a lot of changes.  It made pleading 
+
+8
+
+requirements.  It's difficult to say that this ­­
+
+9
+
+Congress would have legislated all these constraints if 
+
+10
+11
+
+it thought there was no action to begin with. 
+ MR. STREETT: 
+
+The PSLRA includes securities 
+
+12
+
+actions under both the 1993 and 1934 Act.  It's not just 
+
+13
+
+limited to 10(b)(5).  So to Justice Scalia's point, 
+
+14
+
+there is actually not a single provision of the PSLRA 
+
+15
+
+that would be rendered inoperable. 
+
+16
+
+ Congress did take a look at it, Your Honor, 
+
+17
+
+that's absolutely correct.  It shows it thought about 
+
+18
+
+embracing Basic and it thought about overruling Basic; 
+
+19
+
+and it chose to do neither.  When Congress wanted to 
+
+20
+
+codify one of the judicially created elements of the 
+
+21
+
+10(b)(5) cause of action, it did so expressly. 
+
+22
+
+ JUSTICE BREYER: 
+
+What is to prevent now a 
+
+23
+
+defendant from going in after the efficient market is 
+
+24
+
+shown, and saying, well, we have our event study; and 
+
+25
+
+our event study shows that this particular piece of
+
+52
+
+Alderson Reporting Company
+
+Official
+
+1
+
+information had no impact, and therefore they are not 
+
+2
+
+going to be able to prove reliance by just relying upon 
+
+3
+
+efficient markets; and therefore don't certify the 
+
+4
+
+class.  Why couldn't you do that right now under Basic? 
+
+5
+6
+7
+
+ MR. STREETT: 
+
+That is what we are asking 
+
+this Court to hold under our ­­
+ JUSTICE BREYER: 
+
+Well, is there anything ­­
+
+8
+
+is there any court that said, no, you can't do that; we 
+
+9
+
+forbid you even though it says in Basic that you're 
+
+10
+11
+
+allowed to rebut? 
+ MR. STREETT: 
+
+Yes, Your Honor, that's 
+
+12
+
+precisely what the Fifth Circuit held in this case, 
+
+13
+
+relying on Amgen to prohibit us from putting on our own 
+
+14
+
+price impact evidence; and it acknowledged that there 
+
+15
+
+was no price impact in this case.  But it said:  We have 
+
+16
+
+to turn a blind eye to that fact. 
+
+17
+
+ And to Justice Breyer's point, I think 
+
+18
+
+Justice Breyer is exactly correct, that market 
+
+19
+
+efficiency, publicity and price impact are all in 
+
+20
+
+precisely the same boat.  They are all common issues, 
+
+21
+
+and if one of those is missing, you do not have loss 
+
+22
+
+causation if the class is limited to the exchange. 
+
+23
+
+ But I don't think this Court should do away 
+
+24
+
+with market efficiency, publicity, and I think it should 
+
+25
+
+allow price impact at the class certification stage.
+
+53
+
+Alderson Reporting Company
+
+Official
+
+1
+
+Otherwise the fraud­on­the­market presumption is reduced 
+
+2
+
+to a pleading requirement, not ­­ not something that 
+
+3
+
+must be established at the class certification stage, as 
+
+4
+
+Wal­Mart requires. 
+
+5
+
+ JUSTICE SOTOMAYOR: 
+
+So your preference would 
+
+6
+
+be to make the plaintiff bear the burden or just for 
+
+7
+
+defendants to be able to rebut the price impact ­­
+
+8
+9
+10
+11
+12
+
+ MR. STREETT: 
+
+It would be most consistent 
+
+with Rule ­­
+ JUSTICE SOTOMAYOR: 
+
+­­ at a class 
+
+certification? 
+ MR. STREETT: 
+
+It ­­ it would be most 
+
+13
+
+consistent with Rule 23 to place that burden on the 
+
+14
+
+plaintiff because it's the plaintiff's duty to show that 
+
+15
+
+common issues of reliance predominate.  And the way the 
+
+16
+
+plaintiff gets there is by showing that the plaintiffs 
+
+17
+
+relied on, in common, on the misrepresentation at the 
+
+18
+
+time it distorted the market price. 
+
+19
+
+ Congress recognized that the presumption was 
+
+20
+
+created by this Court essentially sitting as a common 
+
+21
+
+law court.  Congress chose to remain silent, which 
+
+22
+
+leaves the issue with this Court, where it began, to 
+
+23
+
+consider under traditional principles of stare decisis, 
+
+24
+
+in light of intervening developments, whether it should 
+
+25
+
+be overruled.
+
+54
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ The ­­ and it should be overruled for one 
+
+2
+
+additional reason that we haven't gotten to this 
+
+3
+
+morning, which is that the Basic­generated regime of 
+
+4
+
+class actions is harming the very investors that it's 
+
+5
+
+supposed to help.  It is the small investors and the 
+
+6
+
+shareholders that are paying these judgments out of 
+
+7
+
+their own pocket, often to other shareholders, with a 
+
+8
+
+huge cut for both sides' lawyers and insurance costs. 
+
+9
+
+ The Basic regime of class actions is a huge 
+
+10
+
+net loss for shareholder wealth.  And it's frequently 
+
+11
+
+the small investors who bought before the class period 
+
+12
+
+and held all the way through who are paying the judgment 
+
+13
+
+because they hold at the time of the settlement, whereas 
+
+14
+
+it's the large institutional frequency traders who 
+
+15
+
+bought and sold many times during the class period that 
+
+16
+
+are getting the money but are not having to pay any 
+
+17
+
+because they don't hold at the end of the class period. 
+
+18
+
+ CHIEF JUSTICE ROBERTS: 
+
+19
+
+ The case is submitted. 
+
+20
+
+ (Whereupon, at 11:18 a.m., the case in the 
+
+Thank you, counsel. 
+
+21
+
+above­entitled matter was submitted.) 
+
+22
+
+ 
+
+23
+
+ 
+
+24
+
+ 
+
+25
+
+ 
+
+55
+Alderson Reporting Company
+
+Official
+Page 56
+A
+aaron 1:17 2:3,13
+3:7 50:25
+ability 16:13 43:15
+able 33:7 53:2 54:7
+aboveentitled 1:13
+55:21
+absolutely 15:10
+18:13 35:10 52:17
+absorb 21:24
+accept 4:20 17:22
+18:3
+account 30:22,23
+33:14 44:16 48:23
+accurate 10:8,9,24
+29:3,4
+accurately 24:10
+acknowledge 4:19
+10:3,7
+acknowledged
+53:14
+acknowledgment
+28:3
+act 4:2 26:14,15
+27:19 52:12
+acted 27:12,13
+action 3:16 5:22
+6:12 11:6,18
+26:16,21 36:7
+38:5 44:11 48:18
+48:21,22 49:20,25
+51:24,25 52:6,10
+52:21
+actions 26:9,11
+37:7 46:18 52:12
+55:4,9
+actual 3:15,24 4:25
+17:21 24:25 52:1
+addition 30:2
+additional 55:2
+address 17:10
+addressed 6:3
+addressing 42:5
+adequate 29:1
+admit 7:9
+admitted 13:1
+
+admittedly 21:1
+adopt 50:10
+adopted 41:11,12
+41:18 42:9 44:18
+48:11
+advantage 43:4,14
+adversary 28:20
+advocated 50:15
+affect 32:5 48:8,8
+aftermarket 51:25
+ago 26:22
+agree 19:11,20
+35:21 41:7 43:1
+agreeing 7:13
+al 1:3
+alike 3:22
+alito 8:18 24:8
+26:12 32:1 34:21
+43:2 45:13 46:9
+allege 47:6
+alleged 20:19
+allegedly 29:24
+38:11
+allow 7:23 8:1
+37:24 53:25
+allowed 9:20 15:11
+35:25 53:10
+allowing 10:1
+49:16
+allows 8:23
+altogether 3:24
+amendments 26:14
+amgen 12:1 13:17
+15:17 25:25 26:19
+26:22 45:16,18,25
+53:13
+amicus 1:23 2:10
+8:25 42:2 49:12
+amount 40:12
+analog 4:10,20 5:6
+analogous 3:16
+11:6 51:24
+analysis 17:16
+analysts 19:24
+28:25
+analyzing 50:16
+
+announcement
+13:22
+answer 17:16 23:14
+28:23 44:21
+answered 40:6
+anticipating 43:22
+anymore 6:23 7:6
+anyway 18:16 35:2
+apologize 41:5
+appeal 44:9
+appearances 1:16
+applicable 31:25
+appreciate 43:20
+approach 5:21 7:18
+7:23 41:12
+appropriate 22:21
+22:23 46:25 47:4
+approving 27:21
+april 21:19
+archdiocese 1:7
+argentina 13:25
+argue 39:15
+argued 42:6
+arguing 9:13,15
+48:15
+argument 1:14 2:2
+2:5,8,12 3:3,7
+4:19 5:1,2 16:6
+17:19 19:6 25:17
+41:25 50:25 51:10
+arguments 17:14
+armonk 1:19
+array 42:12
+article 41:2
+artificial 35:17
+artificially 33:22
+34:8,25 35:15
+asbestos 29:2,6
+aside 5:7
+asked 24:19 28:19
+asking 4:12,23 6:8
+53:5
+aspect 48:14
+assertion 44:2
+assertions 29:2
+assume 11:1 41:8
+
+45:11
+assumed 27:25
+31:9
+assumes 34:9 41:7
+assuming 26:6
+assumption 27:13
+27:19 28:7
+attempting 43:13
+attempts 34:16
+automatic 17:1
+automatically
+31:10
+available 30:23
+50:6
+avenues 50:7
+aware 9:19 26:8
+42:24
+B
+b 4:21 5:21 17:14
+44:11 48:18,21
+51:24 52:6,13,21
+back 16:1
+backdrop 27:14
+balance 25:13
+bank 39:5,6,7
+barrons 33:3 34:2
+based 20:3 28:6
+33:24 43:17 52:2
+basic 3:11,13,19,23
+3:25 4:9 5:2,8,9
+5:15,23 6:9,19
+7:21 9:3,8,12,24
+10:22 11:7 13:8
+17:4,8,18,24
+18:10 19:6,9 20:5
+23:25 25:22,22
+26:17 27:23,24
+28:1,21 30:21
+31:5,9,18,24,24
+32:4,6,23 35:18
+35:22 41:7,10,12
+42:8 44:2,6,8,19
+45:4,14 48:6 49:1
+49:5 51:11,22
+52:18,18 53:4,9
+
+Alderson Reporting Company
+
+Alderson Reporting Company
+
+55:9
+basically 50:15
+basicgenerated
+55:3
+basics 3:17 16:25
+17:25 18:3 20:1
+31:16
+basis 39:6 43:21
+bear 54:6
+bearing 42:23
+beat 42:12
+bedrock 3:14
+began 54:22
+beginning 52:5
+behalf 1:17,19 2:4
+2:7,10,14 3:8
+25:18 42:1 51:1
+believe 3:25 4:16
+4:18 10:23 27:3
+28:10,20 45:6
+belong 23:16
+benefits 3:19
+best 4:11
+beyond 22:2
+binary 7:18,23 8:2
+8:7,10 10:19 17:3
+22:11
+blackmun 4:1
+blind 53:16
+boat 53:20
+boies 1:19 2:6
+25:16,17,19 26:18
+26:25 27:3,9 28:4
+28:12,18,23 29:18
+30:5,7 31:14 32:1
+32:12 33:12,15
+34:14 35:8,21
+36:3,25 37:12,16
+38:19,23 39:1,3
+39:15 40:4,14
+41:4,14,23 51:16
+boise 41:6
+bother 19:9
+bought 21:18,22
+22:4 46:23 47:21
+49:1 55:11,15
+
+

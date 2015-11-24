@@ -1,0 +1,6381 @@
+Official
+
+P R O C E E D I N G S 
+
+
+1
+
+(11:05 a.m.) 
+
+
+2
+3
+
+CHIEF JUSTICE ROBERTS:
+
+We will hear 
+
+
+4
+
+argument next this morning in Case Number 11-1118, 
+
+
+5
+
+Gunn v. Minton. 
+
+Ms. Webre? 
+
+
+6
+7
+
+ORAL ARGUMENT OF JANE WEBRE 
+
+
+8
+
+ON BEHALF OF THE PETITIONERS 
+
+
+9
+10
+
+MS. WEBRE:
+
+Mr. Chief Justice, and may it 
+
+
+please the Court:
+
+11
+
+In Grable, this Court explained that
+
+12
+
+"arising under" jurisdiction demands, not only a
+
+13
+
+contested Federal issue, but a substantial one embedded
+
+14
+
+in a State claim in order to indicate whether there is a
+
+15
+
+serious Federal interest in exercising Federal
+
+16
+
+jurisdiction over the State claim.
+
+17
+
+This Court should reverse the judgment below
+
+18
+
+because Minton -- Mr. Minton's claims do not present a
+
+19
+
+substantial Federal issue, and exercising Federal
+
+20
+
+jurisdiction over his claim and legal malpractice claims
+
+21
+
+like his, State legal malpractice claims would --
+
+22
+
+JUSTICE GINSBURG:
+
+The question is whether
+
+23
+
+the experimental use -- whether that was a viable
+
+24
+
+theory.
+
+25
+
+mean by, "substantial"?
+
+Why isn't that a substantial -- what do you
+
+3
+
+Alderson Reporting Company
+
+Official
+
+1
+
+MS. WEBRE:
+
+Well, Your Honor, defining
+
+2
+
+substantiality is a difficult point.
+
+3
+
+answer in two layers.
+
+4
+
+involve a legal question of does the -- how does the
+
+5
+
+experimental use doctrine work; how is it applied, what
+
+6
+
+are its parameters?
+
+7
+
+I -- I would
+
+First, Mr. Minton's claim did not
+
+The question was did his fact-bound and
+
+8
+
+situation-specific affidavit present relevant evidence
+
+9
+
+of the application here in this particular case.
+
+And it
+
+10
+
+is not a substantial question because, first, from a --
+
+11
+
+a unique case perspective, it involved merely a
+
+12
+
+hypothetical determination.
+
+13
+
+There were no actual patent rights that
+
+14
+
+would be at issue.
+
+15
+
+irrevocably determined in the underlying patent
+
+16
+
+litigation in Federal court.
+
+17
+
+Those were already fully, finally,
+
+And, second, from a jurisprudence
+
+18
+
+standpoint, the -- the question of uniformity of patent
+
+19
+
+law, any decision by a State court, in Mr. Minton's
+
+20
+
+legal malpractice claim, would not be binding in any
+
+21
+
+way, on either the PTO in a patent application, or on
+
+22
+
+any subsequent Federal court deciding a real patent
+
+23
+
+case.
+
+24
+
+JUSTICE GINSBURG:
+
+Do you mean substantial
+
+25
+
+beyond the -- the -- this particular case?
+4
+
+Alderson Reporting Company
+
+Official
+
+1
+
+MS. WEBRE:
+
+Yes, Your Honor.
+
+And I -- I
+
+2
+
+think that that's where the Federal circuit's
+
+3
+
+jurisdictional -- the Federal circuit's "arising under"
+
+4
+
+jurisdiction standard, which the Supreme Court of Texas
+
+5
+
+applied here, that's exactly where it goes awry, is that
+
+6
+
+the court improperly conflates the -- the question of
+
+7
+
+necessity of a Federal issue with the question of
+
+8
+
+whether that issue is substantial.
+
+9
+
+And, in the Grable case, this Court
+
+10
+
+emphasized that those are two separate issues.
+
+11
+
+are four prongs to the Grable test.
+
+12
+
+embedded in the State claim must be necessary to the
+
+13
+
+State claim; actually disputed; substantial; and then
+
+14
+
+there is a federalism inquiry that exercised a Federal
+
+15
+
+jurisdiction over this State claim can't upend the
+
+16
+
+proper balance between State and Federal authority.
+
+17
+
+There
+
+The Federal issue
+
+The Grable court announced that, and then
+
+18
+
+just a year later, in the Empire HealthChoice case, Your
+
+19
+
+Honor -- Justice Ginsburg, you wrote that opinion for
+
+20
+
+the Court, and that acted sort of as an underscoring of
+
+21
+
+"and here's how limited the Grable rule really is."
+
+22
+
+The Empire HealthChoice opinion
+
+23
+
+distinguishes between Grable, which presented a merely
+
+24
+
+pure question of law, and the claims at issue in Empire
+
+25
+
+HealthChoice which were fact-bound and
+5
+
+Alderson Reporting Company
+
+Official
+
+1
+
+situation-specific.
+
+2
+
+question of whether a State court is competent to apply
+
+3
+
+Federal law to the extent relevant to the claims and
+
+4
+
+found that, yes, it was.
+
+5
+
+It distinguished the -- the
+
+And the -- the Court emphasized that,
+
+6
+
+certainly, the State courts are going to be deciding the
+
+7
+
+occasional Federal issue here and there, but let's not
+
+8
+
+make a Federal case out of each and every State tort
+
+9
+
+claim that might have an embedded Federal issue.
+
+10
+
+Now, in the earlier argument, there was some
+
+11
+
+discussion of the fact that jurisdiction means a lot of
+
+12
+
+different things in a lot of different contexts.
+
+13
+
+here, this Court has, on more than one occasion,
+
+14
+
+determined that jurisdiction -- "arising under"
+
+15
+
+jurisdiction means the same thing in 1331, the general
+
+16
+
+Federal question jurisdictional grant, and 1338(a),
+
+17
+
+the -- the exclusive provision that's applicable
+
+18
+
+specifically to patents.
+
+19
+
+Now, that has been amended slightly.
+
+But,
+
+It --
+
+20
+
+it, now, includes compulsory counterclaims where they
+
+21
+
+didn't used to be a part, but the jurisdictional grant
+
+22
+
+that Congress gave through the first sentence of 1338(a)
+
+23
+
+uses the same exact phrase, the "arising under," "any
+
+24
+
+civil action arising under Federal law."
+
+25
+
+And, Justice Scalia, you wrote the opinion
+6
+
+Alderson Reporting Company
+
+Official
+
+1
+
+for the Court in the Holmes Group case and explained
+
+2
+
+that the linguistic consistency between those two means
+
+3
+
+that they mean the same thing.
+
+4
+
+There is nothing unique about this subject
+
+5
+
+matter -- the patent subject matter, that changes the
+
+6
+
+scope of the jurisdictional grant.
+
+7
+
+the grant of original jurisdiction to the district
+
+8
+
+courts is exclusive, and that is different from the
+
+9
+
+general Federal question.
+
+10
+
+And to be --
+
+11
+
+JUSTICE ALITO:
+
+To be sure, the --
+
+Well, why isn't that
+
+12
+
+significant?
+
+13
+
+that -- that -- that this is -- that this is a
+
+14
+
+complicated specialty area?
+
+15
+
+arguably, a special reason for having these cases, cases
+
+16
+
+that involve a patent issue, in Federal court, rather
+
+17
+
+than State court?
+
+18
+
+Doesn't that manifest Congress's view
+
+MS. WEBRE:
+
+And so there would be,
+
+Yes, Your Honor.
+
+But the --
+
+19
+
+Congress did that in a couple of different ways.
+
+20
+
+of all, I think it begs the question -- it begs the --
+
+21
+
+the core question, to say that exclusive -- the fact
+
+22
+
+that jurisdiction is exclusive answers the
+
+23
+
+substantiality because, in order to get to exclusivity
+
+24
+
+of the jurisdiction, you have to get to jurisdiction
+
+25
+
+first.
+7
+
+Alderson Reporting Company
+
+First
+
+Official
+
+1
+
+You have to -- it has to be "arising under"
+
+2
+
+an act of Congress relating to patents before it can
+
+3
+
+then be exclusive.
+
+4
+
+step.
+
+5
+
+than the general "arising under" standard.
+
+So -- so we still have the first
+
+But, also, Congress did not cast the net broader
+
+6
+
+Even under the -- the statutory framework
+
+7
+
+after the America Invents Act amendment -- under the
+
+8
+
+statutory structure, there are still a number of patent
+
+9
+
+issues -- legal issues that are going to be decided in
+
+10
+
+the State courts that do not come within the exclusive
+
+11
+
+jurisdiction of the Federal courts.
+
+12
+
+compulsory counterclaims, now, come within the exclusive
+
+13
+
+jurisdiction, but permissive counterclaims don't.
+
+14
+
+For example,
+
+Permissive counterclaims can certainly
+
+15
+
+present just as substantive a question of patent law,
+
+16
+
+and, yet, those are excluded under the statutory scheme
+
+17
+
+of 1338(a).
+
+18
+
+are not sufficient to support "arising under"
+
+19
+
+jurisdiction under 1338(a).
+
+Patent issues raised as a defensive matter
+
+So, certainly, Congress contemplated a
+
+20
+21
+
+situation where some patent issues are just not going to
+
+22
+
+come within the exclusive jurisdiction of the Federal
+
+23
+
+courts.
+
+24
+25
+
+And I think it's interesting to -- to back
+up a little bit and look at the Federal circuit's
+8
+
+Alderson Reporting Company
+
+Official
+
+1
+
+evolved perception of its own exclusive jurisdiction.
+
+2
+
+In the early years of the Federal circuit, in 1984, the
+
+3
+
+first Chief Justice -- the first chief judge of the
+
+4
+
+court, Chief Judge Markey, in the Atari case that is
+
+5
+
+cited at page 21 of the amicus brief filed by the
+
+6
+
+American Intellectual Property Lawyers Association, the
+
+7
+
+Federal circuit wrote, "Congress was not concerned that
+
+8
+
+an occasional patent law decision of a regional circuit
+
+9
+
+court or of a State court would defeat its goal of
+
+10
+11
+
+increased uniformity in the national law of patents."
+And that was the view of the Federal
+
+12
+
+circuit's own jurisdiction in 1984.
+
+13
+
+evolved, the Federal circuit has changed its perception
+
+14
+
+of its own jurisdiction, and that's why we are here
+
+15
+
+today, is, in 2007, the Federal circuit went awry and --
+
+16
+
+and changed the standard that no longer follows what
+
+17
+
+this Court articulated in Grable.
+
+18
+
+But, in the time
+
+They -- they have improperly conflated the
+
+19
+
+necessity and substantiality components of the -- of an
+
+20
+
+appropriate Grable analysis.
+
+21
+
+a proper balance of the State and Federal interests.
+
+22
+
+The Federal circuit announced that there's an interest
+
+23
+
+in -- Federal interest in uniformity of patent law, and
+
+24
+
+then that was that.
+
+25
+
+There is no balance if you don't look at the State
+
+And they totally disregard
+
+That was the end of the inquiry.
+
+9
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+interest on the other side.
+And, in legal malpractice cases, in general
+
+3
+
+and in Mr. Minton's claim in particular, there are
+
+4
+
+substantial State interests.
+
+5
+
+interest, the right of a State to develop its own State
+
+6
+
+claims, its own State law, and its own State courts.
+
+7
+
+There is the general
+
+But there is also a State interest in
+
+8
+
+governing the relationship between attorney and client
+
+9
+
+that happens through the legal malpractice process.
+
+10
+
+But, specifically, with regard to Mr. Minton's claim,
+
+11
+
+one of his primary theories in -- in this case -- in the
+
+12
+
+legal malpractice case, is that the attorney's error,
+
+13
+
+with regard to bringing up the Experimental Use
+
+14
+
+Doctrine, deprived him of the opportunity to make a
+
+15
+
+lucrative settlement with the NASD in the underlying
+
+16
+
+patent litigation.
+
+17
+
+Well, the question of exactly how you prove
+
+18
+
+whether and to what extent the NASD would have paid a
+
+19
+
+settlement and for how much in the underlying case is a
+
+20
+
+matter of tremendous dispute right now.
+
+21
+
+evolving issue in the -- in the legal malpractice
+
+22
+
+jurisprudence of the State of Texas.
+
+23
+
+That is an
+
+In fact, in the month of December 2012, the
+
+24
+
+Supreme Court of Texas heard argument in a case called
+
+25
+
+Elizondo v. Krist that addresses that precise issue.
+10
+
+Alderson Reporting Company
+
+Official
+
+1
+
+How do you prove that NASDAQ would have paid him
+
+2
+
+$100 million, if only these lawyers had raised this
+
+3
+
+issue earlier?
+
+4
+
+And, yet, if this -- if Mr. Minton's claims
+
+5
+
+are hailed into Federal court because of the fact-bound
+
+6
+
+and situation-specific application of the Experimental
+
+7
+
+Law Doctrine, the Federal courts would be Erie guessers
+
+8
+
+as to that important issue that the State courts really
+
+9
+
+need to resolve.
+JUSTICE SCALIA:
+
+10
+
+Ms. Webre, is there any
+
+11
+
+binding effect of a Federal determination here on State
+
+12
+
+law?
+
+13
+
+determination here on Federal law?
+
+14
+
+MS. WEBRE:
+
+15
+
+JUSTICE SCALIA:
+
+And is there any binding effect of any State
+
+No, Your Honor.
+If it was left to the
+
+16
+
+State, would what the States say about -- about patent
+
+17
+
+law be binding in any Federal cases?
+
+18
+
+if it went to the Federal jurisdiction, would anything
+
+19
+
+that the Federal court says about -- about State tort
+
+20
+
+law be binding on State courts?
+
+21
+
+MS. WEBRE:
+
+And, vice-versa,
+
+In neither direction would any
+
+22
+
+decision be binding.
+
+The -- the State -- any decision
+
+23
+
+in a State court on a legal malpractice matter regarding
+
+24
+
+issues of patent law would not be binding in any way on
+
+25
+
+the Federal courts or on the PTO in handling any of the
+11
+
+Alderson Reporting Company
+
+Official
+
+1
+
+patent applications -- prosecution of patents.
+
+2
+
+JUSTICE SCALIA:
+
+Well, that -- that being
+
+3
+
+so, your -- your last argument about the Federal
+
+4
+
+government messing up -- you know, State tort law in an
+
+5
+
+area that -- that is currently very much in the fore in
+
+6
+
+the -- in the decisions of the Texas Supreme Court, that
+
+7
+
+doesn't really carry a lot of weight, except in this
+
+8
+
+single case.
+
+9
+
+I mean, they are not going to mess up Texas
+
+10
+
+law in that regard.
+
+11
+
+but --
+
+12
+
+They may get this case wrong,
+
+MS. WEBRE:
+
+You -- you are right that --
+
+13
+
+that it will not, substantially, adversely impact Texas
+
+14
+
+State law, but that's an illustration of a substantial
+
+15
+
+State interest.
+
+16
+
+And, in a way, it's akin to the issue in
+
+17
+
+Grable because the -- the embedded issue in Grable that
+
+18
+
+justified this Court reaching down and grabbing a State
+
+19
+
+law claim and bringing it up into Federal courts wasn't
+
+20
+
+just that the issue was disputed, the -- the
+
+21
+
+construction of that statute was unresolved.
+
+22
+
+it needed resolving.
+
+23
+
+whose decision could be precedential, so then it's
+
+24
+
+resolved from then on.
+
+25
+
+But that
+
+It needed resolving by a court
+
+And so the -- the question of how do you
+12
+
+Alderson Reporting Company
+
+Official
+
+1
+
+prove a settlement is an issue that needs resolving by a
+
+2
+
+court who's going to advance the jurisprudence.
+
+3
+4
+
+JUSTICE SCALIA:
+issue?
+
+What about the Federal
+
+Doesn't that need resolving?
+
+5
+
+MS. WEBRE:
+
+There are no Federal issues that
+
+6
+
+need resolving here because it's solely a question of
+
+7
+
+the application of these specific facts in this
+
+8
+
+affidavit to the doctrine.
+
+9
+
+overarching question of -- of patent law that needs
+
+10
+
+There's -- there's no
+
+resolving.
+
+11
+
+JUSTICE KENNEDY:
+
+Let me -- me ask this
+
+12
+
+question:
+
+13
+
+case A, case B, both involve the Experimental Use
+
+14
+
+Doctrine in Federal patent law.
+
+15
+
+weak argument; it's most unlikely it's not going to
+
+16
+
+apply.
+
+17
+
+Doctrine applies.
+
+In case A, it's a very
+
+Case B, very strong argument, Experimental Use
+
+18
+19
+
+Suppose you have two cases, hypothetical,
+
+Any difference in the removability in those
+two cases?
+MS. WEBRE:
+
+20
+
+I don't believe so, Your Honor,
+
+21
+
+because the question isn't the -- the significance to
+
+22
+
+the particular claim.
+
+23
+
+issue.
+
+24
+25
+
+The question is the Federal
+
+Is there a -JUSTICE KENNEDY:
+
+Well, if -- if you say --
+
+since you're going to say it -- I mean, if it's a
+13
+
+Alderson Reporting Company
+
+Official
+
+1
+
+"substantial" Federal issue, then it's substantial in
+
+2
+
+hypothetical B, but not in hypothetical A?
+
+3
+
+MS. WEBRE:
+
+Well, it's -- it's, perhaps,
+
+4
+
+more necessary.
+
+5
+
+back up a little bit and discuss what I think are the
+
+6
+
+factors for a court to look at, when deciding whether or
+
+7
+
+not an embedded Federal issue is a substantial one.
+
+8
+9
+
+But -- and maybe what I need to do is
+
+And looking at this -- this Court's
+articulation in the Grable case and the Empire
+
+10
+
+HealthChoice case, the -- the issues that the Court
+
+11
+
+looked at -- one was the nature of the Federal -- of the
+
+12
+
+Federal question itself -- the Federal issue, is it a
+
+13
+
+constitutional issue?
+
+14
+
+JUSTICE SOTOMAYOR:
+
+So does that mean that,
+
+15
+
+if the claim in the malpractice action is that the PTO
+
+16
+
+acted unconstitutionally -- assume that set of facts --
+
+17
+
+how does that change your analysis?
+
+18
+
+MS. WEBRE:
+
+That -- that would be a more
+
+19
+
+substantial Federal question than the one presented
+
+20
+
+here, but I submit that it would not be sufficient to
+
+21
+
+warrant "arising under" jurisdiction here because it
+
+22
+
+is -- it involves only a hypothetical actual set of
+
+23
+
+patent rights.
+
+24
+
+legal malpractice case actually impacts any patent
+
+25
+
+rights.
+
+No judgment that can happen in a State
+
+14
+
+Alderson Reporting Company
+
+Official
+
+1
+
+Let's say Mr. Minton won a judgment from a
+
+2
+
+State legal malpractice court saying, it was the
+
+3
+
+negligence, that you would have won the experimental use
+
+4
+
+exception, your patent would have been declared valid.
+
+5
+
+And so he has a judgment from a State court saying,
+
+6
+
+the -- the loss of your patent was the result of the
+
+7
+
+negligence and not because it was actually invalid.
+
+8
+9
+
+That doesn't give him a valid patent.
+
+He
+
+cannot take that judgment and then sue somebody and say,
+
+10
+
+look, look, I've got a patent.
+
+11
+
+JUSTICE SOTOMAYOR:
+
+And it's -So go back to -- you
+
+12
+
+were going through a list of questions, and I posited
+
+13
+
+let's assume that the malpractice claim does involve a
+
+14
+
+constitutional question.
+
+15
+
+MS. WEBRE:
+
+16
+
+JUSTICE SOTOMAYOR:
+
+17
+
+Yes.
+
+So -Then what other
+
+factors --
+
+18
+
+MS. WEBRE:
+
+Well, the -- the -- in the
+
+19
+
+continuum constitutional issues would be more
+
+20
+
+substantial; statutory issues would be a little less
+
+21
+
+substantial.
+
+22
+
+the Grable case and said, we're not going to draw a hard
+
+23
+
+and fast line on statutory issues.
+
+24
+25
+
+In fact, this Court grappled with that in
+
+But then, in the Empire HealthChoice
+opinion, the Court noted that this is a -- the issue -­
+15
+
+Alderson Reporting Company
+
+Official
+
+1
+
+the Federal issue there was nonstatutory, and so,
+
+2
+
+therefore, let's not make a Federal case out of it.
+
+3
+
+in that continuum, that would be one factor to look at.
+
+4
+
+So,
+
+Another factor to look at would be, is the
+
+5
+
+Federal issue -- the legal issue undisputed or
+
+6
+
+uncertain?
+
+7
+
+particular facts to the legal issue because there really
+
+8
+
+isn't a Federal interest in how this affidavit is
+
+9
+
+construed or not.
+
+Not necessarily the application of these
+
+But, in -- in the resolution of the legal
+
+10
+11
+
+issues, as in Grable, is the question of law disputed or
+
+12
+
+uncertain?
+
+And the corollary to that is does it need
+
+13
+
+resolving?
+
+Because that was the situation in the Grable
+
+14
+
+case.
+
+15
+
+facto make it a -- a substantial issue.
+
+16
+17
+18
+
+But just because an issue is novel doesn't ipso
+
+This Court, in the Merrell Dow case,
+discussed that, that -JUSTICE SCALIA:
+
+Why -- why do all -- why do
+
+19
+
+all of these issues cut in your favor, in all cases
+
+20
+
+involving malpractice?
+
+21
+
+that your client win here, but you want us to adopt a
+
+22
+
+general rule that malpractice suits involving patent
+
+23
+
+rights can never, ever come under "Federal arising"
+
+24
+
+under jurisdiction.
+
+25
+
+I mean, you're urging, not just
+
+Isn't that -- isn't that what you want us to
+16
+
+Alderson Reporting Company
+
+Official
+
+1
+
+say?
+
+2
+
+MS. WEBRE:
+
+Yes, Your Honor.
+
+3
+
+JUSTICE SCALIA:
+
+So the burden would be on
+
+4
+
+you to show that every one of these factors, in all of
+
+5
+
+those cases, is always going to cut in your favor.
+
+6
+
+That -- what, that they will never involve a
+
+7
+
+constitutional issue?
+
+8
+
+determine future patent decisions?
+
+9
+
+MS. WEBRE:
+
+That they will never, ever
+
+Well, Your Honor, I -- I urge
+
+10
+
+that because I think that's the only appropriate
+
+11
+
+application of the Grable test to legal malpractice
+
+12
+
+cases.
+
+13
+
+And it's not that -JUSTICE SCALIA:
+
+Well, I like -- I like
+
+14
+
+bright-line rules.
+
+15
+
+Holmes had it right.
+
+16
+
+cause of action is a Federal cause of action.
+
+17
+
+we've gone down -- down the road of Grable, I don't --
+
+18
+
+you're -- you're proving a negative.
+
+19
+
+In fact -- you know, I thought
+It doesn't arise under, unless the
+But once
+
+The burden is on you to prove a negative,
+
+20
+
+that there is no situation that can arise in -- in
+
+21
+
+malpractice cases involving patents where the Federal
+
+22
+
+issue would justify arising under jurisdiction.
+
+23
+
+a hard road to hoe.
+
+24
+25
+
+MS. WEBRE:
+
+That's
+
+I think there are two reasons --
+
+there are two reasons why that's the only appropriate
+17
+
+Alderson Reporting Company
+
+Official
+
+1
+
+way to apply the Grable test to legal malpractice cases,
+
+2
+
+and both of them involve the lack of precedent from the
+
+3
+
+case.
+
+4
+5
+
+One is it can never involve actual patent
+rights.
+
+6
+
+The consequence of a judge's -JUSTICE SOTOMAYOR:
+
+How about fraud on -- a
+
+7
+
+claim of fraud on -- that the malpractice was fraud on
+
+8
+
+the PTO?
+
+9
+
+Isn't it res judicata, and won't it affect the patent --
+
+10
+11
+
+Lawyer loses that.
+
+It's been litigated.
+
+or might it not affect the patent in a patent action?
+MS. WEBRE:
+
+No, Your Honor, it would not.
+
+12
+
+It would not affect the patent office, either, as a
+
+13
+
+matter of res judicata or as a matter of issue
+
+14
+
+preclusion -- non-mutual issue preclusion or as a matter
+
+15
+
+of jurisprudential precedent, for a couple of reasons.
+
+16
+
+One is that, as a starting point, the -- the
+
+17
+
+question of attorney misconduct can affect the issuance
+
+18
+
+of a patent before the patent office, but that would
+
+19
+
+happen not in the context of a legal malpractice claim,
+
+20
+
+but in the context of the actual prosecution of the
+
+21
+
+patent before the PTO itself.
+
+22
+
+So the PTO would have made a -- its own
+
+23
+
+determination and granted or not granted limited
+
+24
+
+sanction, whatever action it is the PTO takes in --
+
+25
+
+before -- in a proceeding before itself, the PTO would
+18
+
+Alderson Reporting Company
+
+Official
+
+1
+
+be deciding that. 
+
+So a legal malpractice case would only be 
+
+
+2
+
+So, in -- in the first instance, 
+
+
+3
+
+subsequent to that.
+
+4
+
+the PTO gets to decide that. 
+
+
+5
+
+From a res judicata standpoint, the PTO's
+
+6
+
+patent review manual -- the Manual of Examination of
+
+7
+
+Patents provides that res judicata effect is only given
+
+8
+
+to decisions by either the Board of Patent Review or
+
+9
+
+Interferences, the United States District Court for the
+
+10
+
+District of Columbia, and the Federal circuit.
+
+11
+
+courts make that list.
+
+12
+
+No State
+
+So, from a res judicata standpoint, only
+
+13
+
+going right up the chain is going to bind the PTO.
+
+14
+
+from an issue preclusion standpoint, the PTO would never
+
+15
+
+be a party -- could never be a party to a -- a legal
+
+16
+
+malpractice claim and, therefore, would not be bound by
+
+17
+
+any State court decision.
+
+18
+
+And what's kind of a funny --
+
+19
+
+JUSTICE SOTOMAYOR:
+
+20
+
+And,
+
+I find that somewhat
+
+hard to follow.
+
+21
+
+Let's assume, in adjudicating a medical -- a
+
+22
+
+malpractice claim, the State court finds that the
+
+23
+
+attorney suppressed information.
+
+24
+
+fact.
+
+25
+
+they didn't disclose it.
+
+It's a finding of
+
+He had this information in his or her file, and
+I'm not quite sure how the PTO
+19
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ignores that litigation.
+
+2
+3
+
+MS. WEBRE:
+
+The
+
+PTO --
+
+4
+5
+
+The PTO may not ignore it.
+
+JUSTICE SOTOMAYOR:
+
+Or the district court
+
+doesn’t, if it gets to review that in a later action.
+
+6
+
+MS. WEBRE:
+
+Well, but --
+
+7
+
+JUSTICE SOTOMAYOR:
+
+8
+
+question to address Justice Scalia's point.
+
+9
+
+asking for an absolute rule, and I posited a situation
+
+I'm only raising this
+You're
+
+10
+
+where I think it's not so clear that a State court
+
+11
+
+finding might not have an effect.
+
+12
+
+So do we have to go to your absolute rule?
+
+13
+
+MS. WEBRE:
+
+No, Your Honor.
+
+You do not have
+
+14
+
+to go to my absolute rule.
+
+15
+
+rule is the -- the most sensible and appropriate
+
+16
+
+application of the Grable test to State law legal
+
+17
+
+malpractice claims, and it has the added benefit of
+
+18
+
+certainty.
+
+19
+
+Holmes' rule.
+
+20
+
+I think that the absolute
+
+It -- it doesn't roll us back to the Justice
+
+JUSTICE SCALIA:
+
+I guess you might argue
+
+21
+
+that, even if it fails the Grable test in a couple of
+
+22
+
+isolated cases, we should still adopt that rule because
+
+23
+
+the benefits of having a -- a clear rule that doesn't
+
+24
+
+have to be litigated in every -- every case outweigh the
+
+25
+
+fact that one or two might -- might not come out that
+20
+
+Alderson Reporting Company
+
+Official
+
+1
+
+way if we applied Grable.
+
+2
+
+MS. WEBRE:
+
+3
+
+JUSTICE SCALIA:
+
+4
+
+Well -Because we're making it up
+
+anyway, right?
+
+5
+
+(Laughter.)
+
+6
+
+MS. WEBRE:
+
+Well, Your Honor, I -- I would
+
+7
+
+take it a step further than that because I think that
+
+8
+
+any actual impact of -- of what you're positing, Justice
+
+9
+
+Sotomayor, is so ephemeral.
+
+The idea that -- that the
+
+10
+
+PTO will look at a fact-finding in a legal malpractice
+
+11
+
+case, and, oh, goodness, I didn't realize there was this
+
+12
+
+suppression of evidence, I'm now going to dig further.
+
+13
+
+Well, that's such a speculative and
+
+14
+
+ephemeral possibility, it doesn't disrupt the fabric of
+
+15
+
+patent jurisprudence -- patent law, in any way, and it
+
+16
+
+doesn't tie the hands of the PTO in any way.
+
+17
+
+bind the PTO in any future consideration of a
+
+18
+
+continuation patent or any other related
+
+19
+
+continuation-in-part patent.
+
+20
+
+JUSTICE KENNEDY:
+
+It doesn't
+
+Let -- let me ask you
+
+21
+
+this:
+
+22
+
+complimentary of Grable, it says it brought
+
+23
+
+considerable certainty to the area.
+
+24
+
+hear that because I'm not sure that it's true.
+
+25
+
+The Brighton Miller treatise is rather
+
+(Laughter.)
+21
+
+Alderson Reporting Company
+
+I was pleased to
+
+Official
+
+JUSTICE KENNEDY:
+
+1
+2
+
+But can you just tell me,
+
+empirical matter, does "arising under"
+
+3
+
+for removal jurisdiction cases consume a tremendous
+
+4
+
+amount of time in litigation in the Federal courts?
+
+5
+
+It's just -MS. WEBRE:
+
+6
+
+Well, it -- it does a couple of
+
+7
+
+things.
+
+First is it consumes a lot of time of the
+
+8
+
+courts and the litigants in removing and then getting
+
+9
+
+remanded again.
+
+And it -- as is discussed in the --
+
+JUSTICE KENNEDY:
+
+10
+
+What I -- yes.
+
+11
+
+mean is the argument over "arising under" over
+
+12
+
+jurisdiction.
+MS. WEBRE:
+
+13
+
+What I
+
+There are, on this issue of the
+
+14
+
+legal malpractice cases, in the wake of the Federal
+
+15
+
+circuit's opinions, the Air Measurement case and
+
+16
+
+Immunocept case in 2007, scores and scores and scores of
+
+17
+
+courts -- State and Federal courts have been grappling
+
+18
+
+with this precise jurisdictional issue.
+I think this case is about the fifth or
+
+19
+20
+
+sixth cert petition that came up to this Court on this
+
+21
+
+jurisdictional question.
+
+22
+
+four behind us in queue, and there -- there continues to
+
+23
+
+be uncertainty in the lower courts on this precise
+
+24
+
+issue.
+
+25
+
+I think there are three or
+
+And -- and it really presents for this Court
+
+22
+
+Alderson Reporting Company
+
+as an -- as an
+
+Official
+
+1
+
+a question of is "arising under" jurisdiction truly a
+
+2
+
+lenient standard, as the Federal court has articulated?
+
+3
+
+Now, it's true that the -- the entire body
+
+4
+
+of State law legal malpractice cases arising out of
+
+5
+
+patent representation is not going to overwhelm the
+
+6
+
+Federal court.
+
+7
+
+It's not going to -- to --
+
+JUSTICE KENNEDY:
+
+So my question was even
+
+8
+
+broader.
+
+Let's say we resolve legal malpractice.
+
+9
+
+Then -- then we will have products liability with a
+
+10
+
+particular product, and then we will have some food and
+
+11
+
+agriculture cases.
+
+12
+
+It goes on and on.
+
+MS. WEBRE:
+
+Well, I think that is a -- that
+
+13
+
+is a -- that's a substantial issue.
+
+14
+
+Justice Scalia said, that -- you know, the -- this Court
+
+15
+
+departed from Justice Holmes' construct some years ago.
+
+16
+
+But I think that there is the opportunity in this case
+
+17
+
+to provide a great deal of certainty, to provide
+
+18
+
+absolute certainty vis-à-vis legal malpractice cases
+
+19
+
+because of their unique hypothetical aspect.
+
+20
+
+consequence of the judgment affects no rights.
+
+21
+
+But, like
+
+The
+
+But, second, in reaffirming --
+
+22
+
+rearticulating the Grable test, emphasizing the
+
+23
+
+importance and the separateness of the substantiality
+
+24
+
+inquiry, emphasizing the importance of the federalism
+
+25
+
+aspect, this Court has a great opportunity to resolve a
+23
+
+Alderson Reporting Company
+
+Official
+
+1
+
+lot of uncertainty.
+
+2
+3
+
+And, if there are no further questions, I
+would like to reserve the -- the remainder of my time.
+
+4
+
+CHIEF JUSTICE ROBERTS:
+
+5
+
+Mr. Michel?
+
+6
+
+Is that correct, "Michel"?
+
+7
+
+ORAL ARGUMENT OF THOMAS M. MICHEL
+
+8
+
+ON BEHALF OF THE RESPONDENT
+
+9
+
+MR. MICHEL:
+
+12
+
+It is, Your Honor.
+
+Thank you.
+
+Mr. Chief Justice, and may it please the
+
+10
+11
+
+Thank you, counsel.
+
+Court:
+This case is about whether a State court has
+
+13
+
+subject matter jurisdiction over a State law patent
+
+14
+
+malpractice claim that rests entirely on an issue of
+
+15
+
+patent law that is only heard in Federal court, and when
+
+16
+
+that issue is dispositive, central to the case, has
+
+17
+
+issues of first impression in them, has no State
+
+18
+
+analogue in any other area of the law, and whether in
+
+19
+
+the deciding issues of questions of law and will not
+
+20
+
+disturb the balance between State and Federal judicial
+
+21
+
+responsibility.
+
+22
+
+JUSTICE GINSBURG:
+
+What about other areas of
+
+23
+
+exclusive Federal jurisdiction, where the claim, if you
+
+24
+
+are stating it initially, would have to go into Federal
+
+25
+
+court and not State court, say, an antitrust claim, a
+24
+
+Alderson Reporting Company
+
+Official
+
+1
+
+copyright claim?
+
+2
+
+Is -- is what you're saying about patents,
+
+3
+
+does that go for every area, where initial jurisdiction
+
+4
+
+is exclusively in the Federal court?
+
+5
+
+MR. MICHEL:
+
+6
+
+JUSTICE GINSBURG:
+
+7
+
+Then what's the
+
+MR. MICHEL:
+
+There -- there are many
+
+differences, Your Honor.
+
+First, antitrust has -- has a
+
+10
+
+State analogue.
+
+11
+
+Coca-Cola v. Harmer, 218 Southwest --
+
+12
+13
+
+The Texas Supreme Court in
+
+JUSTICE SOTOMAYOR:
+
+MR. MICHEL:
+
+15
+
+JUSTICE SOTOMAYOR:
+
+17
+
+Then take immigration
+
+law.
+
+14
+
+16
+
+It does not.
+
+difference between, say, antitrust and patent?
+
+8
+9
+
+No, Your Honor.
+
+Yes.
+Don't get in the weeds.
+
+Take immigration law.
+MR. MICHEL:
+
+Yes.
+
+Now, once again, the
+
+18
+
+issues -- immigration law may be a -- a differing area
+
+19
+
+where there is exclusive Federal court jurisdiction in
+
+20
+
+that area, possibly.
+
+21
+
+the application in immigration law, from a malpractice
+
+22
+
+case, may give rise in that area.
+
+23
+
+However --
+
+24
+
+JUSTICE SCALIA:
+
+25
+
+don't understand this.
+
+But, once again, the analysis and
+
+Excuse me.
+
+I guess I just
+
+Is it the case that there is
+25
+
+
+Alderson Reporting Company
+
+Official
+
+1
+
+"arising under" jurisdiction only when the Federal cause
+
+2
+
+of action presented is one over which Federal courts
+
+3
+
+have exclusive jurisdiction?
+
+4
+
+MR. MICHEL:
+
+5
+
+JUSTICE SCALIA:
+
+6
+
+That --
+
+rule?
+
+7
+
+MR. MICHEL:
+
+8
+
+JUSTICE SCALIA:
+
+9
+
+Is that -- is that the
+
+I believe, in part.
+I mean, any -- any Federal
+
+statute that can be sued upon, both in Federal courts
+
+10
+
+and in State courts, but as to which Federal courts are
+
+11
+
+the dispositive adjudicators, you say that that does not
+
+12
+
+come within this "arising under" rule?
+
+13
+
+MR. MICHEL:
+
+Does -- does not come within
+
+14
+
+this Court's doctrinal holdings in Grable and Empire
+
+15
+
+because we have a Federal balancing and State balancing
+
+16
+
+issue.
+
+17
+
+articulated --
+
+18
+
+And, as we've articulated, when Congress has
+
+JUSTICE SCALIA:
+
+Do you have a case for
+
+19
+
+that, that says, if a suit could be brought in State
+
+20
+
+court, even though it involves a dispositive Federal
+
+21
+
+question as to which this Court would be the -- you
+
+22
+
+know, the last interpreter, it cannot possibly come
+
+23
+
+within "arising under" jurisdiction?
+
+24
+
+Have you got a case for that.
+
+25
+
+MR. MICHEL:
+
+I'm sorry, Your Honor.
+26
+
+
+Alderson Reporting Company
+
+I don't
+
+Official
+
+1
+
+know if I followed your question.
+
+2
+
+JUSTICE SCALIA:
+
+Do you have a case which
+
+3
+
+says that, when a Federal question is presented in a
+
+4
+
+case over which Federal courts have jurisdiction, but
+
+5
+
+also State courts have jurisdiction, although, needless
+
+6
+
+to say, the Federal courts would be dispositive on the
+
+7
+
+issue, such a case cannot come within the "arising
+
+8
+
+under" jurisdiction?
+
+9
+10
+11
+12
+13
+
+MR. MICHEL:
+expressly.
+
+No, I don't think anything that
+
+But the A&T and the -JUSTICE SCALIA:
+
+I would find it
+
+extraordinary for -- for that to be the rule.
+MR. MICHEL:
+
+Well, you can't isolate it.
+
+14
+
+That rule is more complicated because it is the
+
+15
+
+application of the Grable standard that's the analysis.
+
+16
+
+JUSTICE KENNEDY:
+
+But getting back --
+
+17
+
+Justice Ginsburg simply made the point, I had thought,
+
+18
+
+that you place a good deal of reliance on the fact that
+
+19
+
+there is exclusive jurisdiction.
+
+20
+
+pointed out how far-reaching this case might be because
+
+21
+
+it -- it could involve patents, copyright, all other
+
+22
+
+areas of exclusive jurisdiction.
+
+23
+
+your special rule, it's not so confined as you suggest.
+
+24
+25
+
+And her question to me
+
+If that is going to be
+
+That's all that question meant to me.
+Certainly -- certainly, you -- you could have cases
+27
+
+Alderson Reporting Company
+
+Official
+
+1
+
+where there is concurrent jurisdiction, 1983, in which
+
+2
+
+we'd have the same problem.
+
+3
+
+MR. MICHEL:
+
+I think -- I think the factors
+
+4
+
+that go into determining the -- one of the grounds that
+
+5
+
+has been articulated by Grable and the balancing for
+
+6
+
+Merrell Dow is the number of cases that would come into
+
+7
+
+Federal court, and it is a doctrinal decision.
+
+8
+
+doctrinal rule.
+
+9
+
+JUSTICE SOTOMAYOR:
+
+It is a
+
+So patent law cases of
+
+10
+
+malpractice are smaller in number than copyright
+
+11
+
+cases --
+
+12
+
+MR. MICHEL:
+
+Patent law cases --
+
+13
+
+JUSTICE SOTOMAYOR -- immigration, other
+
+14
+
+exclusive jurisdictions, so that's okay to -- to remove,
+
+15
+
+but those others aren't?
+
+16
+
+MR. MICHEL:
+
+17
+
+JUSTICE SOTOMAYOR:
+
+18
+
+21
+
+Does that make a whole
+
+lot of sense?
+
+19
+20
+
+Those --
+
+MR. MICHEL:
+
+That is the articulation in
+
+Grable, Your Honor.
+JUSTICE SOTOMAYOR:
+
+Well, how about a
+
+22
+
+different one, the one that's being proposed by your
+
+23
+
+adversary --
+
+24
+
+MR. MICHEL:
+
+That --
+
+25
+
+JUSTICE SOTOMAYOR:
+
+-- which is define
+
+28
+
+Alderson Reporting Company
+
+Official
+
+1
+
+"substantial" as to how it affects Federal law, which I
+
+2
+
+think was the bottom line -- or the development of
+
+3
+
+Federal law, the bottom line of Grable.
+
+4
+
+And she says -- you dispute this in your
+
+5
+
+brief -- that it doesn't affect the invalidated patent,
+
+6
+
+that there's no way that a judgment on the malpractice
+
+7
+
+is going to be used in a continuation patent dispute
+
+8
+
+because it's not one of the listed preclusive courts.
+
+9
+
+So how does a ruling affect patent law?
+MR. MICHEL:
+
+10
+11
+
+Sure.
+
+Many -- many ways, Your
+
+Honor.
+
+12
+
+First, the test is uniformity, under Grable,
+
+13
+
+the uniformity of patent law -- Federal law, not whether
+
+14
+
+the -JUSTICE SOTOMAYOR:
+
+15
+16
+17
+
+Why is -- who's going to
+
+follow it?
+MR. MICHEL:
+
+In many situations.
+
+For
+
+18
+
+example, she -- she conflates -- Petitioners conflate,
+
+19
+
+res judicata with issue preclusion.
+
+20
+
+your earlier question, Justice Sotomayor, and that issue
+
+21
+
+preclusion will have an effect.
+
+22
+23
+24
+25
+
+JUSTICE GINSBURG:
+
+That goes back to
+
+And as, in fact --
+
+Issue preclusion applies
+
+only to someone who was a party.
+MR. MICHEL:
+
+Correct.
+
+That would only apply
+
+to the inventor; it would not apply to the PTO.
+29
+
+Alderson Reporting Company
+
+It can
+
+Official
+
+1
+
+only be used against, in this, case Mr. Minton.
+
+2
+
+fact, patent counsel in this case, under the rules of
+
+3
+
+the Federal circuit, under patent law and the Patent
+
+4
+
+Manual, disclosed the State court's rulings in this case
+
+5
+
+to the Patent Office during its continuing patent.
+
+6
+
+State district court judge made a scope and claim
+
+7
+
+decision.
+
+8
+9
+
+And, in
+
+The
+
+So, Justice Sotomayor, back to your
+question -JUSTICE GINSBURG:
+
+10
+
+But that, certainly, is
+
+11
+
+not binding.
+
+The -- whatever the State -- whatever the
+
+12
+
+State court says, as a matter of patent law, has no
+
+13
+
+binding effect on that question coming into Federal
+
+14
+
+court.
+
+15
+
+MR. MICHEL:
+
+It does.
+
+16
+
+JUSTICE GINSBURG:
+
+17
+
+MR. MICHEL:
+
+How?
+
+Under this Court's decision
+
+18
+
+Marrese v. The Academy of Orthopedic Assertions --
+
+19
+
+Surgeons, a State court's decision is entitled to issue
+
+20
+
+preclusion, even in Federal forum.
+
+21
+
+why -- also the patent -- the continuation patent
+
+22
+
+would -- could be declared invalid for failing to
+
+23
+
+disclose that information.
+
+24
+25
+
+And so that is
+
+We are not saying it's binding on the PTO,
+but it is an issue of issue preclusion as against Minton
+30
+
+Alderson Reporting Company
+
+Official
+
+1
+
+that would be in front of the PTO and is in front of the
+
+2
+
+PTO, as we speak.
+
+3
+
+JUSTICE SCALIA:
+
+I mean, is that -- my
+
+4
+
+goodness, but you are going to have a purely
+
+5
+
+hypothetical State decision here.
+
+6
+
+held that -- you know, if -- if he had said this, the
+
+7
+
+result would have been something else.
+
+8
+
+that that precludes the -- the issue when it arises in
+
+9
+
+real life?
+
+The State will have
+
+And you think
+
+10
+
+And you say, since the State court made that
+
+11
+
+hypothetical determination, it precludes me from arguing
+
+12
+
+it in -- in real life.
+
+13
+
+MR. MICHEL:
+
+14
+
+JUSTICE SCALIA:
+
+15
+
+that?
+
+16
+
+situation.
+
+17
+
+strange.
+
+Yes.
+
+It is a factor -Do you have any cases like
+
+It seems, to me, a rather weird -- weird
+
+18
+
+I mean, maybe it could, but it -- it's
+
+MR. MICHEL:
+
+Well, it is a matter of issue
+
+19
+
+preclusion.
+
+20
+
+allowing these patent law issues to proceed in State
+
+21
+
+court.
+
+22
+
+This Court -- that is the danger of
+
+This Court -- the State district court in
+
+23
+
+this case entered in a brand-new issue of Federal –
+
+24
+
+Petitioners and Respondents totally disagree as to
+
+25
+
+whether this is a fact-specific case or whether this case
+31
+
+Alderson Reporting Company
+
+Official
+
+1
+
+involves issues of law.
+
+And, in fact, we contend it
+
+2
+
+involves issues of first impression.
+
+3
+
+In this case, the State district court made
+
+4
+
+holdings about issues of whether the question of -- the
+
+5
+
+experimental use exception is a question of law or a
+
+6
+
+question of fact.
+
+7
+
+It made the requirement that experimental
+
+8
+
+use had to go to a required claim element, as opposed to
+
+9
+
+a claimed element.
+
+It made the determination -- and the
+
+10
+
+Court of Appeals made the legal determination that
+
+11
+
+knowledge of the buyer is conclusive, rather than as a
+
+12
+
+factor.
+
+13
+
+Those are all issues of not only disputed
+
+14
+
+substantial issues of Federal patent law that both
+
+15
+
+parties submitted briefings in the trial court and the
+
+16
+
+court of appeals, 70 pages long, disputing the legal --
+
+17
+
+JUSTICE SOTOMAYOR:
+
+18
+
+MR. MICHEL:
+
+19
+
+JUSTICE SOTOMAYOR:
+
+20
+
+Yes.
+-- how else does it
+
+affect the development of patent law?
+
+21
+
+MR. MICHEL:
+
+22
+
+JUSTICE SOTOMAYOR:
+
+23
+
+Besides the parties --
+
+The -Who else is going to
+
+follow --
+
+24
+
+MR. MICHEL:
+
+They're --
+
+25
+
+JUSTICE SOTOMAYOR:
+
+-- this malpractice
+
+32
+
+Alderson Reporting Company
+
+Official
+
+1
+
+determination?
+
+2
+
+MR. MICHEL:
+
+It's going to have a really
+
+3
+
+profound effect on the patent law practitioners who are
+
+4
+
+uniquely situated and work in parcel -- and interlocking
+
+5
+
+with the Patent Law Office.
+
+6
+
+It is the patent lawyers who draft the
+
+7
+
+patents, it is the patent lawyers who present them to
+
+8
+
+the Patent Office, they are the ones who engage when
+
+9
+
+they need to be amended or refined or narrowed or
+
+10
+11
+
+broadened.
+JUSTICE SCALIA:
+
+They knew -- they knew
+
+12
+
+these were controverted issues.
+
+13
+
+they are controverted issues.
+
+So they would have been
+
+14
+
+alerted to a problem anyway.
+
+And they certainly would
+
+15
+
+not accept a State court determination as authoritative
+
+16
+
+resolution of that problem.
+
+17
+
+MR. MICHEL:
+
+18
+
+JUSTICE SCALIA:
+
+19
+20
+
+You say that they --
+
+The patent -The patent attorneys.
+
+I
+
+mean, you -MR. MICHEL:
+
+No, the Patent Office will have
+
+21
+
+to take that as guidance because their new taskmaster
+
+22
+
+will not be -- be following Federal patent law because,
+
+23
+
+in this case, the Court injected a brand-new requirement
+
+24
+
+that was never held by a patent lawyer, that you had to
+
+25
+
+have an expert witness testify to establish your
+33
+
+Alderson Reporting Company
+
+Official
+
+1
+
+experimental use testing exception.
+
+2
+
+That's never been held anywhere in Federal
+
+3
+
+patent law.
+
+So, now, who's the patent lawyer going to
+
+4
+
+be looking to for guidance?
+
+The exclusive Federal
+
+5
+
+courts?
+
+Guidance from the Federal
+
+6
+
+circuits?
+
+The Patent Office?
+
+7
+
+No, they are going to have their backs
+
+8
+
+watched by the State courts, saying, uh-huh, you know
+
+9
+
+what?
+
+I'm going to impose a new legal obligation on
+
+10
+
+you, and you are going to be held for malpractice.
+
+11
+
+that's not -- that's not --
+
+12
+
+JUSTICE GINSBURG:
+
+And
+
+What would happen -- what
+
+13
+
+would happen if that came up in an ordinary litigation
+
+14
+
+in Federal court, and the Federal circuit, ultimately,
+
+15
+
+decided the question, that the State court was entirely
+
+16
+
+wrong about this; you don't need a witness.
+
+17
+
+Well, that's the end of it, right?
+
+Once the
+
+18
+
+Federal court decides the question, then whatever the --
+
+19
+
+the State judge thought was the Federal law is -- is
+
+20
+
+gone.
+
+21
+
+MR. MICHEL:
+
+No, that's exactly the problem.
+
+22
+
+The State courts aren't bound by the Federal circuit's
+
+23
+
+holding.
+
+24
+
+issues of Federal law -- zero -- unless this Court is
+
+25
+
+going to --
+
+There will be no Federal review of substantial
+
+34
+
+Alderson Reporting Company
+
+Official
+
+1
+
+JUSTICE SCALIA:
+
+Excuse me.
+
+The State
+
+2
+
+courts are not bound by the Federal court's holding?
+
+3
+
+You mean State courts can resolve patent questions,
+
+4
+
+contrary to what the Supreme Court of the United States
+
+5
+
+says the law is?
+
+6
+
+MR. MICHEL:
+
+No, not contrary -- that was
+
+7
+
+the point I was going to make -- not contrary to the
+
+8
+
+holdings of the United States Supreme Court, contrary to
+
+9
+
+the Federal circuit's holding.
+
+And, in fact, the Fort
+
+10
+
+Worth Court of Appeals did not follow the Federal
+
+11
+
+circuit's holding in this area.
+
+12
+
+JUSTICE KAGAN:
+
+Well, are you saying,
+
+13
+
+Mr. Michel, that what -- what the State courts are going
+
+14
+
+to do is to say that, notwithstanding that the Federal
+
+15
+
+circuit has ruled on a matter and notwithstanding that
+
+16
+
+the lawyer has complied with the rule as articulated by
+
+17
+
+the Federal circuit, that, nonetheless, they will be
+
+18
+
+held to have committed malpractice because they didn't
+
+19
+
+comply with the State's rule?
+Is -- is that what you think the State
+
+20
+21
+
+judges are really going to do?
+
+22
+
+MR. MICHEL:
+
+I think the State judges are
+
+23
+
+going to try to, possibly, apply Federal circuit
+
+24
+
+holding.
+
+25
+
+new holding, which established a new liability for the
+
+In this case, they did not.
+
+35
+
+Alderson Reporting Company
+
+They injected a
+
+Official
+
+1
+
+patent lawyers, which is not reviewable, unless this Court
+
+2
+
+were to grant certiorari review.
+
+3
+
+And so that then leaves the only review on
+
+4
+
+these materials -- these are going to be substantial
+
+5
+
+issues of --
+
+6
+
+JUSTICE SOTOMAYOR:
+
+So what you're arguing,
+
+7
+
+they're going to make a mistake, and, because we might
+
+8
+
+not accept certiorari, that's binding on everybody
+
+9
+
+else --
+
+10
+
+MR. MICHEL:
+
+It's --
+
+11
+
+JUSTICE SOTOMAYOR:
+
+12
+
+MR. MICHEL:
+
+No.
+
+-- in the State -It's binding on the State
+
+13
+
+court practitioners, in that State, who get sued for
+
+14
+
+legal malpractice.
+
+15
+
+between the lawyers who are drafting patents --
+
+16
+
+are going to be getting --
+
+17
+
+JUSTICE KAGAN:
+
+And it's that interrelationship
+they
+
+What if a lawyer says to
+
+18
+
+the -- you know, I complied with all the Federal law --
+
+19
+
+all the rules from the Federal circuit, I complied with.
+
+20
+
+MR. MICHEL:
+
+Yes.
+
+21
+
+JUSTICE KAGAN:
+
+You are suggesting that the
+
+22
+
+State court is going to say, too bad, you committed
+
+23
+
+malpractice anyway because you didn't comply with our
+
+24
+
+hypothetical law about patents?
+
+25
+
+MR. MICHEL:
+
+They did that in this case.
+36
+
+
+Alderson Reporting Company
+
+At
+
+Official
+
+1
+
+214 --
+
+2
+
+CHIEF JUSTICE ROBERTS:
+
+3
+
+not -- I guess it's not their hypothetical law.
+
+4
+
+would be saying, this is what we think the Federal law
+
+5
+
+requires, and while we're happy -- or not happy -- but
+
+6
+
+it's interesting that the Federal circuit thinks
+
+7
+
+something else, but that doesn't bind us.
+
+8
+9
+10
+11
+
+MR. MICHEL:
+not just hypothetical.
+insubstantial.
+
+Correct.
+
+It's not -- it's
+
+Correct.
+
+They
+
+And it's
+
+The hypothetical doesn't mean
+
+The hypothetical doesn't mean --
+
+JUSTICE SCALIA:
+
+Why is that worse than the
+
+12
+
+fact that, if it goes to Federal court, all of the
+
+13
+
+lawyers in the State, in all malpractice cases, are
+
+14
+
+going to be, supposedly, bound by the Federal court's
+
+15
+
+holding as to State issues of malpractice?
+
+16
+
+I mean, it seems to me it's Twiddle Dum or
+
+17
+
+Twiddle Dee, whichever court system you go to, you are
+
+18
+
+going to terrorize the lawyers of that State on the
+
+19
+
+basis of an opinion of a court that is not dispositive
+
+20
+
+on those issues.
+
+21
+
+So I don't -- I don't know why --
+
+22
+
+MR. MICHEL:
+
+I think we disagree.
+
+Here,
+
+23
+
+when you try -- for example, in the patent infringement
+
+24
+
+case, the sole trial is going to be the patent
+
+25
+
+infringement.
+37
+
+Alderson Reporting Company
+
+Official
+
+1
+
+You are going to try the Federal lawsuit,
+
+2
+
+Your Honor -- Justice Scalia, you are trying that patent
+
+3
+
+infringement lawsuit in State court, in the -- in the
+
+4
+
+case within the case analysis.
+
+5
+
+that's what is so troubling about --
+
+6
+
+JUSTICE SCALIA:
+
+The Federal rules,
+
+And you -- you are trying
+
+7
+
+the malpractice lawsuit -- the State malpractice lawsuit,
+
+8
+
+in Federal court.
+
+9
+
+MR. MICHEL:
+
+Correct.
+
+But the application
+
+10
+
+and the rules governing it are going to be by Federal
+
+11
+
+law.
+
+12
+
+substantial issue of the experimental use exception, the
+
+13
+
+only issue we’ve saved was the -- the experimental use
+
+14
+
+exception.
+
+15
+
+court makes an opinion and a holding, it doesn't have
+
+16
+
+real-world effects.
+
+17
+
+advisory opinion.
+
+18
+
+The rules in this case -- in particular, the
+
+We disagree that just because the State
+
+It really does.
+
+It's not an
+
+And there needs to be a distinguishment
+
+19
+
+between the side issue the Petitioners are saying --
+
+20
+
+they are trying to get you focus on this one micro-issue
+
+21
+
+of whether it will affect an actual patent -- as to
+
+22
+
+whether it will affect patent law.
+
+23
+
+patent law, and it will affect the application of patent
+
+24
+
+law.
+
+25
+
+to have two diverging systems.
+
+And it will affect
+
+And so what you're going to have is you're going
+
+38
+
+Alderson Reporting Company
+
+Official
+
+1
+
+You're going to have -- actually, you will
+
+2
+
+have one on the Federal side, and then you will have 50
+
+3
+
+jurisdictions espousing what they think the law is of
+
+4
+
+patent law and not being bound by the Federal circuit,
+
+5
+
+which is going to --
+
+6
+
+JUSTICE GINSBURG:
+
+Anytime -- anytime -- I
+
+7
+
+mean, a lot of patent questions -- as you already
+
+8
+
+pointed out, a lot of patent questions come up in State
+
+9
+
+court litigations, contract litigations, every time you
+
+10
+
+have a patent question, then must the case go to the
+
+11
+
+Federal court, in your view?
+
+12
+
+MR. MICHEL:
+
+No, that is not our position.
+
+13
+
+JUSTICE GINSBURG:
+
+So what is the dividing
+
+14
+
+line between patent questions that belong in State court
+
+15
+
+and patent questions that belong only in Federal court?
+
+16
+
+MR. MICHEL:
+
+For example, not every
+
+17
+
+malpractice case -- it will be the case within the case
+
+18
+
+doctrine in a patent case that will go to Federal court.
+
+19
+
+For example, failure to communicate a
+
+20
+
+settlement offer does not have a case within the case.
+
+21
+
+In a business transaction, it doesn't have the case
+
+22
+
+within the case analysis.
+
+23
+
+So those malpractices arising from them will
+
+24
+
+not go to Federal court.
+
+Breaches of fiduciary duty for
+
+25
+
+divestiture of fees don't have the causation element.
+39
+
+Alderson Reporting Company
+
+Official
+
+1
+
+So we are --
+
+2
+
+JUSTICE SCALIA:
+
+So you are talking about a
+
+3
+
+case that has a patent issue, whether it's a contract
+
+4
+
+case, a tort case, a malpractice case -- if it has a
+
+5
+
+patent issue, you think it has to go to Federal court?
+
+6
+
+MR. MICHEL:
+
+We do not.
+
+7
+
+JUSTICE SCALIA:
+
+Well, then I repeat Justice
+
+8
+
+Ginsburg's question, how do you decide which of those do
+
+9
+
+and which of those don't?
+MR. MICHEL:
+
+10
+
+I think this is a case in
+
+11
+
+point.
+
+12
+
+no exception.
+
+13
+
+hypothetical argument of the case within the case
+
+14
+
+analysis.
+
+15
+
+This case is on all fours with Grable.
+
+There is
+
+The only distinguishing factor is this
+
+JUSTICE GINSBURG:
+
+Well, why don't you stay
+
+16
+
+within the lines that you give us?
+
+17
+
+every patent question that comes up in a State court gets
+
+18
+
+dismissed, just so you can start over in Federal court,
+
+19
+
+what patent questions -- now, let's not talk about breach
+
+20
+
+of fiduciary duty general questions -- what patent
+
+21
+
+questions are properly adjudicated in the State court
+
+22
+
+as part of a lawsuit that --
+
+23
+
+MR. MICHEL:
+
+You have said not
+
+Well, the -- the distinction
+
+24
+
+is, for example, in a licensing case, in a patent case,
+
+25
+
+where you -- those cases are brought in Federal – I
+40
+
+Alderson Reporting Company
+
+Official
+
+1
+
+mean -- I'm sorry -- brought in State court -- our --
+
+2
+
+our request here is following Grable, that what will go
+
+3
+
+to Federal court are legal malpractice cases arising
+
+4
+
+from substantial issues of Federal patent law that have
+
+5
+
+that case within the case analysis.
+And it's that narrow -- extremely narrow
+
+6
+7
+
+window of cases.
+
+8
+
+We – we’ve set forth the empirical numbers.
+
+9
+
+going to be microscopic.
+
+10
+
+Grable's test.
+
+11
+
+this case meets.
+
+MR. MICHEL:
+
+The issue of the IRS, whether
+
+personal service had to be given under an IRS -JUSTICE GINSBURG:
+
+MR. MICHEL:
+
+21
+
+JUSTICE GINSBURG:
+
+25
+
+And that was going
+
+Correct.
+And you have no
+
+counterpart for that here?
+MR. MICHEL:
+
+23
+24
+
+Yes.
+
+to control, the actions of the Federal agency, of IRS.
+
+20
+
+22
+
+But what was the
+
+substantial Federal matter in Grable?
+
+18
+19
+
+Every element that Grable articulated,
+
+JUSTICE GINSBURG:
+
+16
+17
+
+But what they do have is
+
+impression.
+
+14
+15
+
+They are
+
+It does involve substantial issues of first
+
+12
+13
+
+This is not, "Katie, bar the door."
+
+We do have rules that will
+
+govern the law on experimental use exception.
+GINSBURG:
+
+You have -- you have --
+
+41
+
+Alderson Reporting Company
+
+JUSTICE
+
+Official
+
+1
+
+MR. MICHEL:
+
+And that would govern the
+
+2
+
+application in Federal court.
+
+3
+
+in Federal court, to govern how the agency -- and
+
+4
+
+whether a patent -- and this suit goes directly -- it
+
+5
+
+affects patents.
+
+6
+
+That's why it should be
+
+This is going to patent validity.
+
+JUSTICE GINSBURG:
+
+But the -- but the
+
+7
+
+Federal court -- you said before that whatever the
+
+8
+
+Federal circuit says, the State doesn't have to follow
+
+9
+
+it the next time there's a case in State court, but the
+
+10
+
+Federal court is certainly not going to follow what the
+
+11
+
+State judge says on experimental use.
+
+12
+
+MR. MICHEL:
+
+It does.
+
+I will tell you --
+
+13
+
+the reason why it does, it's in the doctrine of
+
+14
+
+collateral estoppel.
+
+15
+
+affecting the inventor in this case.
+
+16
+
+the State district court and the State court of appeals
+
+17
+
+are now before the Patent Office --
+
+18
+19
+
+It affects the inventor.
+
+JUSTICE SOTOMAYOR:
+
+It's
+
+This holding of
+
+I'm sorry.
+
+How does
+
+it -- the patent's invalid.
+
+20
+
+MR. MICHEL:
+
+I'm sorry?
+
+21
+
+JUSTICE SOTOMAYOR:
+
+The patent's invalid.
+
+22
+
+Nothing the Court does here is going to change that
+
+23
+
+invalidity.
+
+That -- that's what I don't understand.
+
+24
+
+MR. MICHEL:
+
+Correct.
+
+25
+
+JUSTICE SOTOMAYOR:
+
+He's not going to get
+
+42
+
+Alderson Reporting Company
+
+Official
+
+1
+
+his patent back from this action.
+
+2
+
+MR. MICHEL:
+
+3
+
+JUSTICE SOTOMAYOR:
+
+4
+
+That's correct.
+
+for losing it, maybe.
+
+5
+
+MR. MICHEL:
+
+6
+
+JUSTICE SOTOMAYOR:
+
+7
+
+MR. MICHEL:
+patent.
+
+12
+
+So how does it affect
+
+There is a pending continuation
+
+And -JUSTICE SOTOMAYOR:
+
+10
+11
+
+Correct.
+
+the patent?
+
+8
+9
+
+He's going to get money
+
+issue.
+
+We're back to that
+
+Okay.
+MR. MICHEL:
+
+Yes, but that is a collateral
+
+13
+
+estoppel issue.
+
+14
+
+scenario because, in a different role, when the patent
+
+15
+
+is not declared invalid and, instead, there is a finding
+
+16
+
+of non-infringement, and that's what gives rise to the
+
+17
+
+legal malpractice case.
+
+18
+
+Here, let me -- let me give up another
+
+Then you go to State court, and, in that
+
+19
+
+situation, the determination of -- of infringement will
+
+20
+
+be raised as a basis for legal malpractice against the
+
+21
+
+lawyer in the malpractice action.
+
+22
+
+raise, as within the case within the case exception, is
+
+23
+
+that, oh, the patent was invalid.
+
+24
+25
+
+Then the lawyers
+
+So, then, in that situation, a State
+district court will be rendering an opinion on a live
+43
+
+Alderson Reporting Company
+
+Official
+
+1
+
+patent, and then that will be binding on the inventor
+
+2
+
+and will affect real live actual patents, and it does
+
+3
+
+affect patents before the Patent Office.
+
+4
+
+Petitioner said we -- it's not an issue of
+
+5
+
+res judicata.
+
+6
+
+argument.
+
+7
+
+the duty and the obligation of the lawyer to disclose
+
+8
+
+that judicial discussion -- discussion to the Patent
+
+9
+
+Office.
+
+10
+
+They cite a rule.
+
+That's not our
+
+It's an issue of issue preclusion.
+
+It's also
+
+Otherwise his, continuation patent could be
+
+11
+
+declared invalid for inequitable conduct -- for not
+
+12
+
+disclosing material information.
+
+13
+
+JUSTICE GINSBURG:
+
+And your -- your
+
+14
+
+distinction between other areas of Federal jurisdiction
+
+15
+
+where the Federal law controls and patent is what?
+
+16
+
+What -- Justice Sotomayor brought up immigration law --
+
+17
+
+MR. MICHEL:
+
+Yes.
+
+18
+
+JUSTICE GINSBURG:
+
+-- copyright law.
+
+Why
+
+19
+
+don't they -- why doesn't what you said work the same
+
+20
+
+way in those fields?
+
+21
+
+MR. MICHEL:
+
+I think there are -- there are
+
+22
+
+distinctions in the area of patent law versus any other
+
+23
+
+area of the law namely because, as we get to the
+
+24
+
+State -- and this -- this goes to the analysis of the
+
+25
+
+State/Federal balance.
+
+That's why the exclusive Federal
+44
+
+
+Alderson Reporting Company
+
+Official
+
+1
+
+court jurisdiction.
+
+2
+
+That's why exclusive nationwide jurisdiction
+
+3
+
+in patent law in the Federal circuit is different than
+
+4
+
+any other area of the law.
+
+5
+
+that we are required to engage in.
+
+6
+
+It is that balancing test
+
+That's why it's unique from antitrust,
+
+7
+
+trademark, civil rights, securities, employment.
+
+8
+
+have concurrent jurisdiction.
+
+9
+
+agency involved.
+
+Those
+
+They may not have an
+
+For example, bankruptcy initially sounds
+
+10
+11
+
+like it's exclusively Federal court issues, but, when
+
+12
+
+you look underneath the bankruptcy, there is core
+
+13
+
+proceedings, and there's non-core.
+
+14
+
+concurrent.
+
+Non-core are
+
+Those can be heard in State court.
+Secondly, those underlying issues in
+
+15
+16
+
+bankruptcy, typically, involve State property right
+
+17
+
+issues anyway.
+
+18
+
+somebody has a perfected security interest lien, whether
+
+19
+
+somebody has a justified debt, whether -- things of that
+
+20
+
+nature.
+
+21
+
+So they are really applying whether
+
+So rather than in any other area of law,
+
+22
+
+these other areas, even if they are exclusive in Federal
+
+23
+
+court jurisdiction, some of those underlying issues are
+
+24
+
+basically based on who the party is.
+
+25
+
+And they are still applying underlying
+45
+
+Alderson Reporting Company
+
+Official
+
+1
+
+State issues.
+
+2
+
+JUSTICE GINSBURG:
+
+So your case turns on
+
+3
+
+the -- the Federal circuit having exclusive appellate
+
+4
+
+jurisdiction?
+
+5
+
+MR. MICHEL:
+
+That is one of the most
+
+6
+
+defining factors on the State/Federal balance of
+
+7
+
+judicial responsibility.
+
+8
+
+analysis of the federalism and, also, the articulation
+
+9
+
+of -- just as we have showed up -- Petitioners said a
+
+10
+
+Our understanding of that
+
+whole ton of cases were going to come in.
+
+11
+
+We supported statistics that the numbers
+
+12
+
+will be very small.
+
+13
+
+because of the balancing test that we are required to --
+
+14
+
+But the distinguishing factor
+
+JUSTICE GINSBURG:
+
+But, if there's a large
+
+15
+
+Federal interest, I mean, that's what you're saying that
+
+16
+
+there is in the Federal/State balance -- the Federal
+
+17
+
+balance -- it's preponderant on the Federal side.
+
+18
+
+If there is that large Federal interest, is
+
+19
+
+it surprising that the government hasn't come into this
+
+20
+
+case, if there's such a Federal interest to be
+
+21
+
+protected?
+
+22
+
+MR. MICHEL:
+
+No, I think the Federal
+
+23
+
+government -- I can't -- I can't speculate to -- for
+
+24
+
+that, Justice Ginsburg.
+
+25
+
+reasons why they didn't come in on this case, just like
+
+There could be just many
+
+46
+
+Alderson Reporting Company
+
+Official
+
+1
+
+they don't come in on many other cases.
+
+2
+
+But the Federal interest here, in the
+
+3
+
+national uniformity, I think, has been well stated, both
+
+4
+
+by this Court and the Federal circuit.
+
+5
+
+JUSTICE GINSBURG:
+
+There's a difference
+
+6
+
+between you and your colleague on what "substantial"
+
+7
+
+means.
+
+8
+
+MR. MICHEL:
+
+Yes.
+
+9
+
+JUSTICE GINSBURG:
+
+And she says it doesn't
+
+10
+
+just mean necessary -- essential in this particular
+
+11
+
+litigation, but, as in the Grable case and the Kansas
+
+12
+
+City Title & Trust, has larger ramifications for many
+
+13
+
+other cases, not just this case and whether there's
+
+14
+
+going to be issue preclusion as to this particular
+
+15
+
+inventor.
+
+16
+17
+
+Those -- I don't see an issue in this case
+comparable to those.
+
+18
+
+MR. MICHEL:
+
+I think there are -- there are
+
+19
+
+a number of issues of -- of greater importance than just
+
+20
+
+this case.
+
+21
+
+Federal patent law on whether the experimental use
+
+22
+
+exception is a question of law or a question of fact.
+
+23
+
+The Federal circuit has gone both ways on
+
+The question is the ongoing conflict in
+
+24
+
+that, whether the issue of buyer knowledge is a
+
+25
+
+conclusive factor or whether it is just one of 13
+47
+
+Alderson Reporting Company
+
+Official
+
+1
+
+factors.
+
+2
+
+JUSTICE GINSBURG:
+
+Whether they -- those
+
+3
+
+questions will come to the Federal circuit, and they'll
+
+4
+
+decide it, and then they'll be settled.
+
+5
+
+MR. MICHEL:
+
+Well, we would hope they would
+
+6
+
+be settled, but, then, we're going to have this whole
+
+7
+
+other body of law out there in State courts that aren't
+
+8
+
+bound by the Federal court to answer those questions.
+
+9
+
+And those will govern the practice of patent -- patent
+
+10
+
+lawyers.
+
+11
+
+JUSTICE GINSBURG:
+
+How likely is that, in
+
+12
+
+practice, that once the Federal circuit weighs in, that
+
+13
+
+the State judges will go their own way?
+
+14
+15
+
+MR. MICHEL:
+possibility.
+
+16
+
+I think it's a very real
+
+We've had --
+
+JUSTICE SCALIA:
+
+Well, my -- my experience
+
+17
+
+is that Federal judges, including this Federal judge,
+
+18
+
+are not interested in -- in getting into the weeds of
+
+19
+
+patent law, and, if -- if they could rely on a decision
+
+20
+
+of the Federal circuit, they would do that just as fast
+
+21
+
+as they can.
+
+22
+
+MR. MICHEL:
+
+You -- you would -- you would
+
+23
+
+think so.
+
+It doesn't appear to be the case because, in
+
+24
+
+this case, we had holdings that -- that experimental
+
+25
+
+testing had to be on a required claim element.
+48
+
+Alderson Reporting Company
+
+There is
+
+Official
+
+1
+
+also an issue in this case of whether you had to have an
+
+2
+
+expert witness testify to prove up the experimental use
+
+3
+
+exception, nowhere held in Federal law.
+The problem is these judges often will have
+
+4
+5
+
+never handled a patent law in their career.
+
+6
+
+go to some judges who have been in family law, got
+
+7
+
+elected at the district court, and will never have
+
+8
+
+decided or looked at a patent law case.
+We're requesting --
+
+9
+
+JUSTICE GINSBURG:
+
+10
+11
+
+This will
+
+Would that be the same
+
+thing for antitrust, be the same for copyright?
+MR. MICHEL:
+
+12
+
+But the articulation isn't the
+
+13
+
+same.
+
+14
+
+analogs.
+
+15
+
+it.
+
+16
+
+Harmar, stated that there's a high interest in its own
+
+17
+
+State interest -- I mean, antitrust laws.
+
+18
+
+trademark, trademark is concurrent jurisdiction.
+
+19
+
+There are other -- in antitrust, there are State
+The -- the judges are familiar with applying
+
+In fact, the State of Texas, in Coca-Cola v.
+
+The same with
+
+The limited area that applies these factors,
+
+20
+
+going back to the balancing test, is extremely narrow.
+
+21
+
+Patent law is unique in that area of almost any other
+
+22
+
+area of law.
+
+23
+
+decision right, and we request that the Court follow
+
+24
+
+Grable and apply Grable to the case at hand.
+
+25
+
+We think the Texas Supreme Court got this
+
+CHIEF JUSTICE ROBERTS:
+
+Thank you, counsel.
+
+49
+
+Alderson Reporting Company
+
+Thank you.
+
+Official
+
+1
+
+Ms. Webre, you have four minutes remaining.
+
+2
+
+REBUTTAL ARGUMENT OF JANE WEBRE
+
+3
+
+ON BEHALF OF THE PETITIONERS
+
+4
+5
+
+JUSTICE SCALIA:
+
+Ms. Webre, can I ask you
+
+about the question presented?
+
+6
+
+The way you presented it to us, it -- it was
+
+7
+
+as though we're -- we're reviewing whether the Federal
+
+8
+
+circuit was right to reject Grable in -- in whatever the
+
+9
+
+names of those opinions are.
+
+10
+
+But.
+
+In fact, that's not
+
+the situation at all.
+
+11
+
+The Texas Supreme Court here applied Grable,
+
+12
+
+and I think just the way you would want it applied.
+
+13
+
+your -- your contention is simply they didn't apply it
+
+14
+
+correctly; isn't that right?
+MS. WEBRE:
+
+15
+
+I disagree, Your Honor.
+
+So
+
+The
+
+16
+
+Texas Supreme Court didn't properly apply Grable.
+
+17
+
+they applied was the Federal circuit's improper
+
+18
+
+departure from Grable, in two ways.
+
+What
+
+19
+
+One is they conflated necessity with
+
+20
+
+substantiality, and that comes -- in the Federal
+
+21
+
+circuit's jurisprudence, that comes from a sound bite
+
+22
+
+from the earlier Christiansen case, where the -- the
+
+23
+
+line goes something like, "There is a substantial
+
+24
+
+Federal issue because it is necessary to the parties'
+
+25
+
+claim."
+50
+
+Alderson Reporting Company
+
+Official
+
+1
+
+And so it conflates necessity with
+
+2
+
+substantiality, and the -- the Texas Supreme Court
+
+3
+
+followed the Federal circuit's construct.
+
+4
+
+we're applying Grable, we're looking at substantiality,
+
+5
+
+but then they did exactly what the Federal circuit did.
+
+6
+
+They said,
+
+And ditto with -- with the Federalism
+
+7
+
+balance.
+
+They pointed to the needs of the Federal
+
+8
+
+interest in the uniformity of patent law, and that was
+
+9
+
+the end of the inquiry.
+
+10
+
+And I think that that is a measure of the
+
+11
+
+deference that the Supreme Court of Texas -- as other
+
+12
+
+State courts would do, the deference they grant to the
+
+13
+
+Federal circuit in deciding the question of appropriate
+
+14
+
+scope of patent jurisprudence and the relative
+
+15
+
+importance of the -- the uniformity of patent law.
+
+16
+
+And so we arrive to you from the Supreme
+
+17
+
+Court of Texas, but truly presenting the -- the
+
+18
+
+appropriateness of the Federal circuit's redone
+
+19
+
+application of the Grable test.
+
+20
+
+JUSTICE SOTOMAYOR:
+
+Could you answer the one
+
+21
+
+point your adversary raised that -- that gives me
+
+22
+
+pause -- a lot of pause.
+
+23
+
+He says a ruling on patent law of how you
+
+24
+
+should or should not behave in a State malpractice claim
+
+25
+
+will affect all of the lawyers who practice in – in
+51
+
+Alderson Reporting Company
+
+Official
+
+1
+
+your State because each of them will have to do or not
+
+2
+
+do whatever that malpractice ruling was because that's
+
+3
+
+what the State is going to -- State courts will follow
+
+4
+
+in the future.
+
+5
+6
+
+So it will change those lawyers' behaviors
+in Federal court.
+
+7
+
+MS. WEBRE:
+
+Your Honor, I think that that is
+
+8
+
+such a speculative road to go down.
+
+9
+
+lawyers are going to do different?
+JUSTICE SOTOMAYOR:
+
+10
+
+What is it the
+A lawyer --
+
+They are going to
+
+11
+
+present an expert all of the time when they don't need
+
+12
+
+to.
+
+13
+
+MS. WEBRE:
+
+They are -- they are going to do
+
+14
+
+some extra work and make an extra belt along with the
+
+15
+
+suspenders that they are required to do.
+
+16
+
+And where is the harm in that?
+
+And where is
+
+17
+
+the undermining of -- of the uniformity of patent law if
+
+18
+
+a lawyer in a-- in a real patent case in Federal
+
+19
+
+court --
+
+20
+
+JUSTICE SOTOMAYOR:
+
+But you can think of an
+
+21
+
+example where -- not perhaps on the facts of this case,
+
+22
+
+but where a State court's ruling could, in fact,
+
+23
+
+establish a -- a code of behavior that's not just belts
+
+24
+
+and suspenders, that's something else.
+
+25
+
+MS. WEBRE:
+
+Your Honor, I think that – that
+52
+
+
+Alderson Reporting Company
+
+Official
+
+1
+
+spinning out a hypothetical on that would be truly
+
+2
+
+speculative.
+
+3
+
+would be contrary or intentioned with what -- what the
+
+4
+
+Federal courts would hold, particularly since it's -- I
+
+5
+
+agree with Justice Scalia's construct, that the State
+
+6
+
+courts are going to try to apply appropriate Federal
+
+7
+
+law --
+
+8
+9
+
+It's hard to imagine a situation where it
+
+CHIEF JUSTICE ROBERTS:
+
+What about just
+
+the -- just the flip side of this case?
+
+Let's suppose
+
+10
+
+they said, the one -- no, you don't need an expert.
+
+11
+
+it's not belt and suspenders; it's neither belt nor
+
+12
+
+suspenders.
+
+13
+
+So
+
+That's going to affect the conduct of the
+
+14
+
+lawyers in the State in the way that would be disruptive
+
+15
+
+of -- of the uniformity of Federal patent law.
+
+16
+
+MS. WEBRE:
+
+If an expert is required under
+
+17
+
+Federal jurisprudence, then an expert is required in a
+
+18
+
+real patent case.
+
+19
+
+mistake in -- in an occasional case here or there, then
+
+20
+
+a lawyer practicing in a real patent case -- in a real
+
+21
+
+case in Federal court, needs to make sure that they are
+
+22
+
+complying with the requirements.
+
+And if the State court makes the
+
+23
+
+And -- and if you're going to –
+
+24
+
+CHIEF JUSTICE ROBERTS:
+
+25
+
+requirements of the Federal law.
+53
+
+Alderson Reporting Company
+
+Well, right, the
+
+The question is
+
+Official
+
+1
+
+there's going to be a different interpretation of what
+
+2
+
+that means in the State court and in the Federal
+
+3
+
+circuit.
+
+4
+
+MS. WEBRE:
+
+Well, Your Honor, if there is a
+
+5
+
+conflict, then what you're supposed to follow is the
+
+6
+
+jurisprudence of the courts who -- before whom you are
+
+7
+
+practicing.
+
+8
+
+district court has something about patent law, then
+
+9
+
+that's what the lawyers should follow in prosecuting a
+
+10
+
+If -- if the Federal circuit or Federal
+
+patent case.
+
+11
+
+And a lawyer who decides, I'm going to
+
+12
+
+disregard the Federal circuit standards on fact
+
+13
+
+question, expert required, whatever it is, and, instead,
+
+14
+
+follow the Fort Worth court of appeals on this issue, I
+
+15
+
+submit that -- that the lawyer does so at his peril, and
+
+16
+
+that doesn't undermine the appropriate uniformity of
+
+17
+
+patent law.
+
+18
+
+CHIEF JUSTICE ROBERTS:
+
+19
+
+The case is submitted.
+
+20
+
+(Whereupon, at 12:03 p.m., the case in the
+
+21
+
+Thank you, counsel.
+
+above-entitled matter was submitted.)
+
+22
+23
+24
+25
+54
+
+Alderson Reporting Company
+
+Official
+
+55
+A
+above-entitled
+1:11 54:21
+absolute 20:9,12
+20:14,14 23:18
+Academy 30:18
+accept 33:15
+36:8
+act 8:2,7
+acted 5:20 14:16
+action 6:24
+14:15 17:16,16
+18:10,24 20:5
+26:2 43:1,21
+actions 41:19
+actual 4:13
+14:22 18:4,20
+21:8 38:21
+44:2
+added 20:17
+address 20:8
+addresses 10:25
+adjudicated
+40:21
+adjudicating
+19:21
+adjudicators
+26:11
+adopt 16:21
+20:22
+advance 13:2
+adversary 28:23
+51:21
+adversely 12:13
+advisory 38:17
+affect 18:9,10,12
+18:17 29:5,9
+32:20 38:21,22
+38:22,23 43:6
+44:2,3 51:25
+53:13
+affidavit 4:8
+13:8 16:8
+agency 41:19
+42:3 45:9
+ago 23:15
+agree 53:5
+
+agriculture
+23:11
+Air 22:15
+akin 12:16
+AL 1:3
+alerted 33:14
+ALITO 7:11
+allowing 31:20
+amended 6:19
+33:9
+amendment 8:7
+America 8:7
+American 9:6
+amicus 9:5
+amount 22:4
+analogs 49:14
+analogue 24:18
+25:10
+analysis 9:20
+14:17 25:20
+27:15 38:4
+39:22 40:14
+41:5 44:24
+46:8
+announced 5:17
+9:22
+answer 4:3 48:8
+51:20
+answers 7:22
+antitrust 24:25
+25:7,9 45:6
+49:11,13,17
+anytime 39:6,6
+anyway 21:4
+33:14 36:23
+45:17
+appeals 32:10
+32:16 35:10
+42:16 54:14
+appear 48:23
+APPEARAN...
+1:14
+appellate 46:3
+applicable 6:17
+application 4:9
+4:21 11:6 13:7
+16:6 17:11
+
+20:16 25:21
+27:15 38:9,23
+42:2 51:19
+applications
+12:1
+applied 4:5 5:5
+21:1 50:11,12
+50:17
+applies 13:17
+29:22 49:19
+apply 6:2 13:16
+18:1 29:24,25
+35:23 49:24
+50:13,16 53:6
+applying 45:17
+45:25 49:14
+51:4
+appropriate
+9:20 17:10,25
+20:15 51:13
+53:6 54:16
+appropriateness
+51:18
+area 7:14 12:5
+21:23 24:18
+25:3,18,20,22
+35:11 44:22,23
+45:4,21 49:19
+49:21,22
+areas 24:22
+27:22 44:14
+45:22
+arguably 7:15
+argue 20:20
+arguing 31:11
+36:6
+argument 1:12
+2:2,5,8 3:4,7
+6:10 10:24
+12:3 13:15,16
+22:11 24:7
+40:13 44:6
+50:2
+arises 31:8
+arising 3:12 5:3
+6:14,23,24 8:1
+8:5,18 14:21
+
+16:23 17:22
+22:2,11 23:1,4
+26:1,12,23
+27:7 39:23
+41:3
+arrive 51:16
+articulated 9:17
+23:2 26:16,17
+28:5 35:16
+41:10
+articulation
+14:9 28:19
+46:8 49:12
+asking 20:9
+aspect 23:19,25
+Assertions
+30:18
+Association 9:6
+assume 14:16
+15:13 19:21
+Atari 9:4
+attorney 10:8
+18:17 19:23
+attorneys 33:18
+attorney's 10:12
+Austin 1:15
+authoritative
+33:15
+authority 5:16
+awry 5:5 9:15
+A&T 27:10
+a.m 1:13 3:2
+B
+B 13:13,16 14:2
+back 8:24 14:5
+15:11 20:18
+27:16 29:19
+30:8 43:1,10
+49:20
+backs 34:7
+bad 36:22
+balance 5:16
+9:21,25 24:20
+44:25 46:6,16
+46:17 51:7
+balancing 26:15
+
+Alderson Reporting Company
+
+26:15 28:5
+45:4 46:13
+49:20
+bankruptcy
+45:10,12,16
+bar 41:7
+based 45:24
+basically 45:24
+basis 37:19
+43:20
+begs 7:20,20
+behalf 1:15,17
+2:4,7,10 3:8
+24:8 50:3
+behave 51:24
+behavior 52:23
+behaviors 52:5
+believe 13:20
+26:7
+belong 39:14,15
+belt 52:14 53:11
+53:11
+belts 52:23
+benefit 20:17
+benefits 20:23
+beyond 4:25
+bind 19:13
+21:17 37:7
+binding 4:20
+11:11,12,17,20
+11:22,24 30:11
+30:13,24 36:8
+36:12 44:1
+bit 8:25 14:5
+bite 50:21
+Board 19:8
+body 23:3 48:7
+bottom 29:2,3
+bound 19:16
+34:22 35:2
+37:14 39:4
+48:8
+brand-new
+31:23 33:23
+breach 40:19
+Breaches 39:24
+brief 9:5 29:5
+
+

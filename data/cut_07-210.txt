@@ -1,0 +1,5224 @@
+Official - Subject to Final Review
+
+1
+
+P R O C E E D I N G S
+
+2
+
+(11:10 a.m.)
+
+3
+
+CHIEF JUSTICE ROBERTS:
+
+We'll hear argument
+
+4
+
+next in Case 07-210, Bridge versus Phoenix Bond &
+
+5
+
+Indemnity.
+
+6
+
+Mr. Becker.
+
+7
+
+ORAL ARGUMENT OF THEODORE M. BECKER
+
+8
+
+ON BEHALF OF THE PETITIONERS
+
+9
+10
+
+MR. BECKER:
+
+Thank you, Mr. Chief Justice,
+
+and may it please the Court:
+
+11
+
+Both parts of the question presented in this
+
+12
+
+case should be answered "yes."
+
+13
+
+civil RICO claim based on fraud, someone must rely on
+
+14
+
+the alleged misrepresentation, and that someone must be
+
+15
+
+the plaintiff.
+
+16
+
+claim.
+
+17
+
+reason of a RICO violation, the predicate acts of which
+
+18
+
+involved a scheme or artifice to defraud.
+
+19
+
+For a treble damage
+
+But that's the very nature of a fraud
+
+Plaintiffs here claim that they were injured by
+
+But no one in this case is arguing that a
+
+20
+
+civil RICO claim based on fraud can proceed without
+
+21
+
+someone relying.
+
+22
+
+question is who must rely?
+
+23
+
+natural answer is the plaintiff.
+
+24
+25
+
+So some reliance is required; the only
+And we submit that the
+
+A plaintiff who hasn't relied to his
+detriment on an alleged misrepresentation hasn't been
+3
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+defrauded; he hasn't been injured by reason of a scheme
+
+2
+
+to defraud.
+
+3
+
+relied on any misrepresentation; they haven't even
+
+4
+
+alleged that they received a misrepresentation.
+
+5
+
+Plaintiffs here haven't alleged that they
+
+JUSTICE GINSBURG:
+
+So what about a case,
+
+6
+
+say, you've got organized crime wants to get rid of --
+
+7
+
+an organized crime enterprise wants to get rid of
+
+8
+
+rivals, so it makes misrepresentations about those
+
+9
+
+rivals to customers and suppliers, not to the -- to the
+
+10
+
+rival.
+
+So there was no -- there is no misrepresentation
+
+11
+
+made to the plaintiff but to the plaintiff's customers
+
+12
+
+and suppliers.
+
+13
+
+So on your theory, is there no RICO claim
+
+14
+
+because the misrepresentation was made to someone other
+
+15
+
+than the plaintiff?
+
+16
+
+MR. BECKER:
+
+Yes, that's correct, Justice
+
+17
+
+Ginsburg.
+
+18
+
+because, under the Neder case, we know that reliance,
+
+19
+
+justifiable reliance, and injury is not required.
+JUSTICE GINSBURG:
+
+20
+21
+
+24
+25
+
+But no civil case in
+
+that -- in that situation?
+
+22
+23
+
+There would be a criminal RICO prosecution
+
+MR. BECKER:
+
+That's correct, Justice
+
+Ginsburg.
+JUSTICE SCALIA:
+
+But that doesn't even
+
+comport with common-law civil cases.
+4
+
+Alderson Reporting Company
+
+I mean, for a long
+
+Official - Subject to Final Review
+
+1
+
+time courts have allowed someone who's been euchred by a
+
+2
+
+competitor's misrepresentations to his customers.
+
+3
+
+old New York case that was discussed in the briefs that
+
+4
+
+I used to teach in contracts class, where he told
+
+5
+
+somebody that the horse was no longer for sale and it
+
+6
+
+was still for sale, and the person who wanted to sell
+
+7
+
+the horse at the higher price should have -- to buy the
+
+8
+
+horse should have had a cause of action, even though the
+
+9
+
+representation was not made to him.
+MR. BECKER:
+
+10
+
+An
+
+Justice Scalia, those cases as
+
+11
+
+well as the Rice versus Manley New York case, the cheese
+
+12
+
+buyer's case, similar situation, do exist, but they are
+
+13
+
+really tortious interference with business expectancy
+
+14
+
+cases.
+
+And we believe that the law makes that clear.
+When RICO was enacted in 1970, the law even
+
+15
+16
+
+in New York, as we point out in our reply brief, had
+
+17
+
+evolved to the extent where -- where there were some
+
+18
+
+references to fraud in those early cases in the 19th
+
+19
+
+century.
+
+20
+
+JUSTICE KENNEDY:
+
+Suppose in a tortious
+
+21
+
+interference case, the two tort -- there are two tort
+
+22
+
+feasors, and they communicate with each other by mail.
+
+23
+
+Is that a violation of the mail fraud statute?
+
+24
+25
+
+MR. BECKER:
+mail fraud statutes.
+
+It would be a violation of the
+
+But I will say, Justice Kennedy,
+5
+
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+that the government's position here seeks to extend the
+
+2
+
+mail fraud statute far beyond what this Court did in
+
+3
+
+Neder.
+
+4
+
+exact same argument in Neder as it did to this Court,
+
+5
+
+and the Court --
+
+As a matter of fact, the government made the
+
+6
+
+JUSTICE KENNEDY:
+
+In my -- in my
+
+7
+
+hypothetical, there was no -- there was no reliance on
+
+8
+
+anything said.
+
+9
+
+scheme.
+
+It was just used to facilitate the
+
+And I assume the plaintiff could recover.
+MR. BECKER:
+
+10
+
+I think that in criminal mail
+
+11
+
+fraud, reliance is not required, Justice Kennedy.
+
+12
+
+that's what the Neder Court held.
+
+13
+
+looked to the common law and imposed a materiality
+
+14
+
+requirement.
+
+15
+
+ruled that it's not required in criminal mail fraud is
+
+16
+
+because no one has to be injured; there does not have to
+
+17
+
+be a completed scheme.
+
+18
+
+And
+
+But in doing so, it
+
+And the only reason that the Neder case
+
+Civil -- there is, of course, no private
+
+19
+
+right of action in mail fraud.
+
+And when we look to
+
+20
+
+whether or not someone has a civil claim under RICO
+
+21
+
+through the predicate act of mail fraud, we have to go
+
+22
+
+through 1964(c), the "injured by reason of" requirement.
+
+23
+
+As this Court found in Holmes, the common-law
+
+24
+
+requirement of proximate cause applies, we submit so
+
+25
+
+does the common-law element of reliance, justifiable
+6
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+reliance, apply in a civil RICO case predicated on mail
+
+2
+
+fraud.
+
+3
+
+JUSTICE SOUTER:
+
+Well, isn't -- isn't the
+
+4
+
+difference that, in Holmes, it was the textual basis "by
+
+5
+
+reason of" through which the -- as we read it -- the
+
+6
+
+proximate cause standard was -- was brought into the
+
+7
+
+statute.
+
+8
+
+it seems to me, that you can -- can rely on.
+
+9
+
+Here, in fact, there -- there isn't any text,
+
+The fact of fraud itself doesn't do it
+
+10
+
+because the statute speaks in terms of an offense for
+
+11
+
+which an individual should be prosecuted.
+
+12
+
+looking to the criminal rather than the civil model.
+
+13
+
+And isn't that the distinction, in effect, a textual
+
+14
+
+distinction, between Holmes as a means for importing
+
+15
+
+proximate cause and the statute in this case as a means
+
+16
+
+for importing first-party reliance?
+
+17
+
+MR. BECKER:
+
+So it's
+
+Well, Justice Souter, of
+
+18
+
+course, in Holmes the Court was looking at the "injured
+
+19
+
+by reason of" language and looked to the Clayton Act and
+
+20
+
+looked to the Sherman Act before it, where Congress used
+
+21
+
+precisely the same language.
+
+22
+
+have proximate cause in its text at all.
+
+23
+
+Certainly RICO doesn't
+
+The reason -- the very reason that the
+
+24
+
+common law does apply when you are construing a mail
+
+25
+
+fraud predicate act through a civil RICO claim is
+7
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+because Congress has not told us what "defraud" means.
+
+2
+
+It has not defined "scheme to defraud," and of course
+
+3
+
+that's --
+
+4
+
+JUSTICE SOUTER:
+
+Why hasn't it done so
+
+5
+
+simply or sufficiently done so by referring to the -- in
+
+6
+
+effect --
+
+the criminal mail fraud violation?
+
+7
+
+MR. BECKER:
+
+Because in other cases where
+
+8
+
+this Court has looked at the same type of situation, the
+
+9
+
+Neder case, Field versus Mans, for example, where there
+
+10
+
+is not a definition of a term such as fraud, the Court
+
+11
+
+has looked to the common law to define that term.
+
+12
+
+JUSTICE SOUTER:
+
+Yes, but we didn't have --
+
+13
+
+I don't think we had in those cases the phrase that
+
+14
+
+occurs here.
+
+15
+
+prosecuted or indicted" for something -- I think it was
+
+16
+
+prosecution -- which tends to narrow it down to the
+
+17
+
+criminal model, rather than allowing us to roam into the
+
+18
+
+civil field.
+
+19
+
+I think the phrase here is "could be
+
+MR. BECKER:
+
+Except, Justice Souter, that
+
+20
+
+the -- the requirement that there need to be an
+
+21
+
+indictable offense is not enough to make out a civil
+
+22
+
+fraud because criminal law recognizes a -- an
+
+23
+
+uncompleted fraud, simply a scheme, where here, if
+
+24
+
+you're talking about a completed fraud, for someone to
+
+25
+
+be injured by reason of a fraud, it has to be completed
+8
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+and someone has had to rely on it.
+
+2
+
+JUSTICE SOUTER:
+
+Okay.
+
+Well, that means
+
+3
+
+that to that extent the criminal -- in effect -- the
+
+4
+
+criminal cause of action is narrowed down.
+
+5
+
+follow from that that the statute contemplated adopting
+
+6
+
+a civil model regardless.
+
+7
+
+MR. BECKER:
+
+It doesn't
+
+I -- we -- we believe it does.
+
+8
+
+If Your Honor will contrast the Salinas case with the
+
+9
+
+Beck versus Prupis case, we believe it's the similar -JUSTICE SOUTER:
+
+10
+11
+
+You're going to have to
+
+help me do that.
+
+12
+
+MR. BECKER:
+
+All right.
+
+I will.
+
+In the
+
+13
+
+Salinas case, which was a criminal RICO case, the Court
+
+14
+
+ruled that it was not necessary to have a wrongful overt
+
+15
+
+act in order to make out a criminal cause of action for
+
+16
+
+conspiracy under the RICO statute.
+
+17
+
+because all you need is the agreement and any acts.
+
+18
+
+And the reason was
+
+This was a situation where a sheriff
+
+19
+
+actually was the wrongdoer, but the deputy sheriff took
+
+20
+
+some innocent acts that were in furtherance of
+
+21
+
+conspiracy.
+
+22
+
+The Court said that's conspiracy.
+However, in the Beck versus Prupis case, the
+
+23
+
+Court said that for civil RICO cause of action based on
+
+24
+
+conspiracy, you need to look at the combination between
+
+25
+
+1964(c), the "injured by reason of" language, and the
+9
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+actual statutory language.
+
+2
+
+defined in the RICO statute, the Court looked to the
+
+3
+
+common law, and the common law requires that there needs
+
+4
+
+to be an unlawful overt act or tortious act in order to
+
+5
+
+make out a common-law cause of action for conspiracy.
+
+6
+
+And the Court ruled that that was necessary.
+
+7
+8
+
+And since conspiracy is not
+
+We think it's the exact same relationship
+Salinas is to Beck as Neder is to this case.
+
+9
+
+JUSTICE GINSBURG:
+
+10
+
+JUSTICE SOUTER:
+
+11
+
+JUSTICE GINSBURG:
+
+Well, why -No, but -Why isn't it -- there is
+
+12
+
+reliance on their allegations by the county.
+
+13
+
+thinks that each bidder is putting in only one bid.
+
+14
+
+the county has been deceived, and the plaintiff suffers
+
+15
+
+the effect of that deception.
+
+16
+
+MR. BECKER:
+
+The county
+
+Why doesn't that qualify?
+
+Because no representation has
+
+17
+
+been made to the plaintiff, and the plaintiff hasn't
+
+18
+
+relied on the misrepresentation that was made to the
+
+19
+
+county.
+
+20
+
+So
+
+JUSTICE KENNEDY:
+
+But without the mail fraud
+
+21
+
+violation -- let's assume -- the tort would have been
+
+22
+
+unsuccessful.
+
+23
+24
+25
+
+It would not have been complete.
+
+MR. BECKER:
+
+Without the misrepresentation
+
+to the county, Justice Kennedy?
+JUSTICE KENNEDY:
+
+Yes.
+
+10
+
+Alderson Reporting Company
+
+Yes.
+
+Let's assume
+
+Official - Subject to Final Review
+
+1
+
+that.
+
+And it was directed at this class of persons and
+
+2
+
+it was relied upon by the county.
+
+3
+
+that's certainly sufficient under the -- it's a mail
+
+4
+
+fraud violation.
+
+5
+
+MR. BECKER:
+
+6
+
+JUSTICE KENNEDY:
+
+It seems to me that
+
+Well, I think this -I mean, refer to the mail
+
+7
+
+-- the civil RICO refers to whether it's a mail fraud
+
+8
+
+violation.
+
+9
+
+requirement.
+
+You want to assume this additional reliance
+
+MR. BECKER:
+
+10
+
+We think it's necessary, Your
+
+11
+
+Honor.
+
+The other aspect, of course, in the hypothetical
+
+12
+
+is that there needs to be some direct injury, and we
+
+13
+
+don't believe that a direct injury is presented here.
+
+14
+
+In order to -- in Anza and, of course,
+
+15
+
+before in Holmes, the Court set forth three basic
+
+16
+
+guidelines in order to determine whether there was
+
+17
+
+sufficient proximate cause to bring a cause of action
+
+18
+
+under civil RICO, and in Anza under mail fraud.
+
+19
+
+don't think those three are enough in this kind of a
+
+20
+
+situation.
+
+21
+
+JUSTICE SOUTER:
+
+We
+
+But isn't the problem with
+
+22
+
+your argument that if this isn't direct enough, there is
+
+23
+
+no injury at all?
+
+24
+
+county has got its rotational scheme basically to avoid
+
+25
+
+favoring particular bidders who appear in multiple
+
+The county isn't hurt by this.
+
+11
+
+Alderson Reporting Company
+
+The
+
+Official - Subject to Final Review
+
+1
+
+guises, but the county isn't getting hurt.
+
+2
+
+it's not direct enough for -- for the Plaintiffs in this
+
+3
+
+case to sue, then nobody has a direct enough interest or
+
+4
+
+can show direct enough causation for RICO.
+
+5
+
+MR. BECKER:
+
+So that if
+
+Well, Justice Souter, first, we
+
+6
+
+disagree that the rotational allocation is well pled
+
+7
+
+fact.
+
+8
+
+last several pages and in footnote 7, the actual sale
+
+9
+
+and the bidding is nothing like the concept of
+
+10
+
+As we pointed out in our reply brief toward the
+
+rotational allocations.
+
+11
+
+But putting that aside for a moment, the
+
+12
+
+county certainly could be a victim.
+
+13
+
+county -- this is a violation of an administrative rule.
+
+14
+
+That's what is at the heart of this case, an alleged
+
+15
+
+violation.
+
+16
+
+the purpose that Your Honor just articulated, although
+
+17
+
+there is nothing in the record to let us know that.
+
+18
+
+First of all, the
+
+The county has made the rule possibly for
+
+But what we do know is that these types of
+
+19
+
+rules exist for the benefit of the property owners, and
+
+20
+
+that's because the Illinois Supreme Court in -- the same
+
+21
+
+plaintiff brought a case challenging a very, very
+
+22
+
+similar rule.
+
+23
+
+JUSTICE SOUTER:
+
+But how could the property
+
+24
+
+owner be hurt if there is -- if we are dealing in a
+
+25
+
+situation here in -- in which the penalty is zero
+12
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+percent, and everybody is bidding zero percent, then
+
+2
+
+this is a situation in which the property owner isn't
+
+3
+
+going to get hurt no matter who ends up with it.
+
+4
+
+MR. BECKER:
+
+Justice Souter, zero percent is
+
+5
+
+by no means guaranteed.
+
+That's only been the last three
+
+6
+
+years.
+
+7
+
+Supreme Court --
+
+8
+9
+
+In fact, in the 2000 case before the Illinois
+
+JUSTICE SOUTER:
+that's the case here.
+
+Yes, but that's the --
+
+So if your direct-injury
+
+10
+
+requirement, as you construe it, applies here, I think
+
+11
+
+we are still left with a situation in which on these
+
+12
+
+facts, nobody would be injured, because nobody -- or
+
+13
+
+nobody would be -- be able to prove injury by a
+
+14
+
+sufficient direct route to establish causation.
+
+15
+
+MR. BECKER:
+
+16
+
+Plaintiffs, Your Honor.
+
+Including the bidders and the
+
+17
+
+JUSTICE SOUTER:
+
+18
+
+MR. BECKER:
+
+Yeah.
+
+Right.
+
+Well, I think that they
+
+19
+
+certainly could not prove injury as a matter of proof.
+
+20
+
+The problem with that, of course, is in a RICO case it
+
+21
+
+takes five years to get there.
+
+22
+
+plead -- use two words with no elaboration at all,
+
+23
+
+"rotational allocation."
+
+24
+25
+
+JUSTICE GINSBURG:
+
+And someone can artfully
+
+Yes, but that's a
+
+different point, the point that you made in your reply
+13
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+brief, that maybe there isn't this rotational system,
+
+2
+
+and maybe they can't prove that they were -- that they
+
+3
+
+were injured; that they would have gotten a greater
+
+4
+
+share.
+
+5
+
+if you -- you have to accept the allegations of their
+
+
+6
+
+complaint as true, even if everything they say in the
+
+
+7
+
+complaint is true, they have no claim.
+
+8
+
+RICO claim.
+
+
+But your case is about -- it doesn't matter even
+
+9
+10
+11
+
+MR. BECKER:
+
+They have no
+
+
+That's correct, Justice
+
+
+Ginsburg.
+JUSTICE GINSBURG:
+
+So we have to assume what
+
+12
+
+they say about the rotational system is right and -- but
+
+13
+
+-- but you are hanging your hat on no misrepresentation
+
+14
+
+was made to them.
+
+15
+
+MR. BECKER:
+
+That's correct, Justice.
+
+We --
+
+16
+
+we are -- we have raised below, but not in this Court,
+
+17
+
+that there was not sufficient injury, directness of
+
+18
+
+injury; and it can't be proved in this Court.
+
+19
+
+it comes into play in the reliance concept under
+
+20
+
+proximate causation.
+
+21
+
+I think
+
+And what we are asking the Court to do is to
+
+22
+
+recognize that, in the context of a civil RICO claim
+
+23
+
+based on fraud, that there is -- there is nothing that
+
+24
+
+is -- that is revolutionary about finding that a
+
+25
+
+reliance requirement should be applied.
+14
+
+Alderson Reporting Company
+
+This case, as
+
+Official - Subject to Final Review
+
+1
+
+the Court knows, was originally dismissed by Chief Judge
+
+2
+
+Holderman on that very basis.
+
+3
+
+If we have -- if we were to accept -- if the
+
+4
+
+Court were to accept our opponents' position, a
+
+5
+
+remarkable array of lawsuits could be brought as RICO
+
+6
+
+actions:
+
+7
+
+allegedly is caused by false statements to customers,
+
+8
+
+suppliers, distributors, marketing agencies, government
+
+9
+
+entities; consumer or end user versus manufacturer for
+
+Competitor versus competitor for harm that
+
+10
+
+harm allegedly resulting from false statements to the
+
+11
+
+first buyer in a distribution chain.
+
+12
+
+And the circuit court cases in the Fifth --
+
+13
+
+Fourth and Fifth and Sixth and Eighth and Eleventh
+
+14
+
+circuits have recognized this, and they require reliance
+
+15
+
+as a part of proximate causation, and we believe this
+
+16
+
+Court should do the same.
+
+17
+
+I also wanted to make the point that to
+
+18
+
+elaborate, in the Neder case, the Government -- and this
+
+19
+
+is a case where the Government ostensibly argues that it
+
+20
+
+wants us not to restrict civil RICO claims.
+
+21
+
+Neder case the Government made the very same argument in
+
+22
+
+trying to expand mail fraud claims under the criminal
+
+23
+
+statutes.
+
+24
+25
+
+But in the
+
+And I think that's -- that's a sub rosa
+issue in this case.
+
+The Court nine years ago
+15
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+specifically said in a unanimous opinion, with Chief
+
+2
+
+Justice Rehnquist writing for the Court, that the Court
+
+3
+
+disagreed that mail fraud was moored to the common law
+
+4
+
+of fraud, and it is not unmoored in the Neder case.
+
+5
+
+They said it was moored, and even in a criminal
+
+6
+
+prosecution materiality is required.
+
+7
+
+justifiable reliance and injury is not required in a
+
+8
+
+criminal prosecution, to unmoor the mail fraud statute
+
+9
+
+in a civil RICO context and to then make the argument
+
+And although
+
+10
+
+that all sorts of other claims can -- can also be
+
+11
+
+included such as tortious interference -- because at its
+
+12
+
+heart this is a tortious interference case.
+
+13
+
+that because the Plaintiffs pled it in their complaint.
+
+14
+
+That's their pendant State court action.
+
+15
+
+where this case should be.
+
+16
+
+interference case.
+
+17
+
+We know
+
+And that's
+
+It should be a tortious
+
+If they can prove that case and if they have
+
+18
+
+pled it, then they have a remedy.
+
+19
+
+don't.
+
+20
+
+tool, to call "racketeers" -- to call your competitor a
+
+21
+
+"racketeer" and to seek treble damages and attorney's
+
+22
+
+fees in this kind of such an attenuated situation,
+
+23
+
+should not be something that the Court condones.
+
+24
+
+And it's different; if you Google my
+
+25
+
+If they can't, they
+
+But the problem is that to give the civil RICO
+
+clients, you'll come up -- they will come up as
+16
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+racketeers now, and -- and that's the problem that we
+
+2
+
+have.
+
+3
+
+immediately tell if this was a situation where the
+
+4
+
+common law --
+
+If there were a reliance requirement, you could
+
+5
+
+JUSTICE GINSBURG:
+
+May I just go back to a
+
+6
+
+statement you made?
+
+7
+
+on their allegations your client would be indictable for
+
+8
+
+mail fraud?
+
+9
+
+I thought you -- you conceded that
+
+MR. BECKER:
+
+Well, I didn't concede that my
+
+10
+
+client would be indictable for mail fraud.
+
+11
+
+there would have to be -- we'd have to take a careful
+
+12
+
+look at the indictment, certainly.
+
+13
+
+-- that I do -- I do say that the mail fraud statute
+
+14
+
+does not require justifiable reliance or injury.
+
+15
+
+I think that
+
+But I will say that
+
+I think the problem is when you ask the
+
+16
+
+direct -- my client hasn't been indicted for mail fraud,
+
+17
+
+and I don't think it's any -- it's any oversight because
+
+18
+
+this has been a very well known case in Cook County.
+
+19
+
+think the reason, if one were to ask me why my client
+
+20
+
+hasn't been indicted for mail fraud, is because they
+
+21
+
+didn't commit it, because the county in its own rule --
+
+22
+
+the treasurer wrote the rule and expressly says in the
+
+23
+
+rule that she has the exclusive discretion to determine
+
+24
+
+whether or not there has been a violation of the rule.
+
+25
+
+She has not so determined.
+
+And this case has been
+17
+
+
+Alderson Reporting Company
+
+I
+
+Official - Subject to Final Review
+
+1
+
+pending now for close to over three years.
+
+2
+
+treasurer is aware of it, and we know that, and she
+
+3
+
+still has not determined that there has been a
+
+4
+
+violation.
+
+5
+
+rule, there is no criminal mail fraud violation either.
+
+6
+7
+
+So if there hasn't been a violation of the
+
+JUSTICE SOUTER:
+
+Is your client still
+
+bidding on -- on these --
+
+8
+9
+
+The
+
+MR. BECKER:
+
+Yes, Justice Souter, and also
+
+all of the -- al of the plaintiffs -- the Respondents
+
+10
+
+are still bidding, which I think is an interesting fact.
+
+11
+
+And it's not -- it's in the record because they have an
+
+12
+
+amended complaint where they have pled subsequent sales.
+
+13
+
+That's how far afield from the law of fraud this is
+
+14
+
+going.
+CHIEF JUSTICE ROBERTS:
+
+15
+16
+
+Are all the shell
+
+corporations still bidding?
+
+17
+
+MR. BECKER:
+
+Mr. Justice -- Mr. Chief
+
+18
+
+Justice, if all of them aren't, it's simply because
+
+19
+
+there may be new corporations that are, and they are
+
+20
+
+formed not for the purpose of defrauding anybody, but
+
+21
+
+for tax purposes.
+
+22
+
+If there are no further questions, I'd --
+
+23
+
+I'd like to reserve the rest of my time for rebuttal.
+
+24
+25
+
+CHIEF JUSTICE ROBERTS:
+Mr. Becker.
+18
+
+Alderson Reporting Company
+
+Thank you,
+
+Official - Subject to Final Review
+
+1
+
+MR. BECKER:
+
+2
+
+CHIEF JUSTICE ROBERTS:
+
+3
+
+Mr. DeBruin.
+
+ORAL ARGUMENT OF DAVID W. DeBRUIN
+
+4
+
+ON BEHALF OF THE RESPONDENTS
+
+5
+6
+
+Thank you, Mr. Chief Justice.
+
+MR. DeBRUIN:
+
+Mr. Chief Justice, and may it
+
+please the Court:
+
+7
+
+It is presumed true in this case that
+
+8
+
+Petitioners submitted false affidavits, filled the
+
+9
+
+auction room with related entities, and obtained
+
+10
+
+thousands of liens that would have been awarded to
+
+11
+
+Respondents and other bidders, causing them injury in
+
+12
+
+fact.
+
+13
+
+whether on those facts Respondents can establish
+
+14
+
+proximate cause, and specifically whether in order to do
+
+15
+
+so they must establish that they personally received and
+
+16
+
+relied upon the false statements at issue.
+
+17
+
+I submit the central issue in this case is
+
+I submit that this Court already has
+
+18
+
+established in its decisions in Holmes and in Anza the
+
+19
+
+proper test for proximate cause.
+
+20
+
+made in this case, at least not until perhaps briefly
+
+21
+
+this morning, that the Respondents cannot establish
+
+22
+
+proximate cause under the standards set forth in those
+
+23
+
+cases.
+
+24
+
+articulated in Holmes and in Anza are insufficient to
+
+25
+
+ferret out the appropriate cases that can go forward;
+
+And no claim has been
+
+Moreover, no argument is made that the standards
+
+19
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+that those cases produce anomalous results either here
+
+2
+
+or in any other case that has been decided.
+
+3
+
+JUSTICE KENNEDY:
+
+Is -- is it your view that
+
+4
+
+assume -- assuming there is a State law cause of action
+
+5
+
+for tortuous interference, that if that tortious
+
+6
+
+interference was effected through the use of the mails
+
+7
+
+by the co-tort features, that that automatically invokes
+
+8
+
+the RICO statute?
+
+9
+
+MR. DeBRUIN:
+
+Your Honor, all of the
+
+10
+
+elements of RICO would have to be established.
+
+11
+
+would have to be predicate acts of mail fraud.
+
+12
+13
+
+JUSTICE KENNEDY:
+
+There
+
+That -- that there are
+
+predicate acts, yes.
+
+14
+
+MR. DeBRUIN:
+
+And they would have to form a
+
+15
+
+pattern and all the other requirements that were
+
+16
+
+significant would have to be met, but yes.
+
+17
+
+And I submit in this case there is no
+
+18
+
+serious dispute but that the allegations over the course
+
+19
+
+of many years of the complaint established indictable
+
+20
+
+mail fraud.
+
+21
+
+is under the common law tortious interference or some
+
+22
+
+other common-law tort.
+
+23
+
+The issue is not whether the fact pattern
+
+The question is:
+
+Do the facts as alleged
+
+24
+
+make out indictable mail fraud?
+
+There is no question
+
+25
+
+but the mail fraud statute is broad.
+20
+
+Alderson Reporting Company
+
+It prohibits any
+
+Official - Subject to Final Review
+
+1
+
+scheme or artifice to defraud; and I believe that if the
+
+2
+
+facts here were proved, the submission of false
+
+3
+
+affidavits to the county on a regular basis, there is no
+
+4
+
+need under mail fraud to prove reliance.
+
+5
+
+JUSTICE GINSBURG:
+
+But those -- those
+
+6
+
+weren't mailed, or at least that's not what you're
+
+7
+
+relying on.
+
+8
+
+make the misrepresentation using the mails.
+
+9
+
+your reliance on the mails is only the tail end of this
+
+You're not relying on the affidavits that
+I thought
+
+10
+
+transaction, the notices that get sent to the property
+
+11
+
+owners.
+
+12
+
+MR. DeBRUIN:
+
+That's correct, Justice
+
+13
+
+Ginsburg.
+
+14
+
+allow this fraud to have any effect.
+
+15
+
+the use of the mail, the Petitioners could never realize
+
+16
+
+the economic value of the liens that they obtained
+
+17
+
+through the fraud.
+
+18
+
+mails are essential to the scheme.
+
+19
+
+Court held in the Schmuck decision:
+
+20
+
+themselves, don't have to be false so long as the use of
+
+21
+
+the mails is essential to the scheme.
+
+22
+
+The mails here are an essential component to
+If it weren't for
+
+And in that sense the use of the
+
+Here it clearly is.
+
+And that's what this
+That the mails,
+
+Absent the notices
+
+23
+
+given to property owners, there would be no way for the
+
+24
+
+Petitioners to realize the value of the liens and obtain
+
+25
+
+the benefit of the fraud by -- by making the false
+21
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+statements to the county and literally obtaining
+
+2
+
+thousands of additional liens that otherwise would have
+
+3
+
+gone to other entities.
+
+4
+
+CHIEF JUSTICE ROBERTS:
+
+Counsel, what --
+
+5
+
+would your position be different if the county were, in
+
+6
+
+fact, injured; we didn't have the zero-percent situation
+
+7
+
+but different percentages?
+
+8
+
+able to sue them, right?
+
+9
+
+MR. DeBRUIN:
+
+Your client would not be
+
+Mr. Chief Justice, I believe
+
+10
+
+the Court has already addressed that in Anza and has
+
+11
+
+made clear that if in an appropriate case the government
+
+12
+
+had been harmed and was in fact -- could be expected to
+
+13
+
+sue, as it was in Anza -- in that case the claim was
+
+14
+
+that the defendant had not paid its taxes to the State
+
+15
+
+of New York.
+
+16
+
+directly injured party, could be expected to sue, and
+
+17
+
+under Anza there was no proximate cause.
+
+18
+
+test.
+
+19
+
+And the Court found that New York was the
+
+CHIEF JUSTICE ROBERTS:
+
+We accept that
+
+Well, what does that
+
+20
+
+do to your statutory argument?
+
+21
+
+your statutory argument, you still could sue; but
+
+22
+
+because of other considerations you can't?
+
+23
+
+MR. DeBRUIN:
+
+In other words under
+
+Well, we have to establish
+
+24
+
+predicate acts of mail fraud, but we also have to
+
+25
+
+establish proximate cause.
+
+And under Anza the failure
+22
+
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+was an inability to prove proximate cause.
+
+2
+
+it has not been seriously disputed that we satisfy the
+
+3
+
+factors set forth in Anza.
+
+4
+
+In this case
+
+The county was not harmed.
+
+CHIEF JUSTICE ROBERTS:
+
+Well, what happens
+
+5
+
+-- what happens if some of the bids were more than zero,
+
+6
+
+and some weren't?
+
+7
+
+damages, and the county gets to sue for the rest?
+
+8
+
+how do you divvy that up?
+
+9
+
+You get to sue for part of the
+
+MR. DeBRUIN:
+
+Or
+
+Well, the only time that the
+
+10
+
+affidavits and the representations in this case have
+
+11
+
+effect is if all the bids are zero.
+
+12
+
+order to protect itself from property owners, provides
+
+13
+
+that if there are multiple bids above zero, the county
+
+14
+
+will not issue the lien.
+
+15
+
+The county, in
+
+It holds the lien itself.
+
+The only time that this rule comes into
+
+16
+
+effect where there is a rotational award is if the
+
+17
+
+county is paid its taxes in full, and there are multiple
+
+18
+
+bidders at zero percent.
+
+19
+
+CHIEF JUSTICE ROBERTS:
+
+Well, but I suppose
+
+20
+
+since we are talking about a rotational rule, you could
+
+21
+
+have -- what are these, monthly or annually --
+
+22
+
+possibly, cycle where it's all zero percent, and then
+
+23
+
+others where it isn't, and then another where it is.
+
+24
+
+And that would affect the rotation in a way that would
+
+25
+
+injure your client but would also injure the county.
+23
+
+Alderson Reporting Company
+
+one,
+
+Official - Subject to Final Review
+
+1
+
+MR. DeBRUIN:
+
+Not the way the county
+
+2
+
+administers these auctions.
+
+3
+
+certainly could happen -- that the bidding process that
+
+4
+
+takes the penalty down stopped at five percent or two
+
+5
+
+percent, the county rules under the program at issue
+
+6
+
+provide the county will not apply the rotational system.
+
+7
+
+It won't award the lien at all.
+
+8
+9
+
+If that happened -- and it
+
+The rotational rule only applies when there
+are multiple, zero-percent bids.
+
+And Respondents will
+
+10
+
+show, as this case goes forward, that they can identify
+
+11
+
+the specific properties on which there were multiple
+
+12
+
+bids; that the Petitioners and the related entities,
+
+13
+
+which they will prove are related, received liens and
+
+14
+
+thereby increased to the thousands the number of
+
+15
+
+valuable liens that the Petitioners got, leaving the
+
+16
+
+Respondents essentially with hundreds of liens.
+
+17
+
+The key is, the central question is, whether
+
+18
+
+Petitioners can show proximate cause under the standards
+
+19
+
+in Holmes and Anza.
+
+20
+
+is the central question for proximate cause is the
+
+21
+
+directness between the violation alleged and the injury.
+
+22
+
+And in this case there is a direct relation between the
+
+23
+
+violation of mail fraud alleged, the predicate acts, and
+
+24
+
+the injury that Respondents have incurred.
+
+25
+
+And under Anza what this Court held
+
+JUSTICE ALITO:
+
+Would you explain why your
+24
+
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+argument is consistent with Beck versus Prupis?
+
+2
+
+case, couldn't the plaintiff show that it was injured by
+
+3
+
+reason of the criminal violation that was alleged, the
+
+4
+
+RICO conspiracy; and, yet, the Court said something more
+
+5
+
+was required, taking an additional requirement from the
+
+6
+
+law of civil conspiracy?
+
+7
+
+consistent with that?
+
+8
+9
+
+In that
+
+How is your argument here
+
+MR. DeBRUIN:
+completely different case.
+
+Justice Alito, Beck was a
+The issue in Beck was --
+
+10
+
+section 1964(c) says that the plaintiff must prove
+
+11
+
+injury by reason of a violation of the act.
+
+12
+
+violation of the act at issue in Beck was 1962(d), which
+
+13
+
+is a conspiracy to violate the other provisions.
+
+14
+
+what the Court was looking at was the word "conspiracy,"
+
+15
+
+which was not defined in the statute.
+
+16
+
+applied the accepted rule that where a word is not
+
+17
+
+defined, the Court can assume that Congress intended its
+
+18
+
+ordinary meaning.
+
+19
+
+JUSTICE ALITO:
+
+And the
+
+And so
+
+And the Court
+
+But -- well, the meaning of
+
+20
+
+a RICO conspiracy in the criminal context is very well
+
+21
+
+known.
+
+22
+
+defined in the statute or not; and there is no
+
+23
+
+requirement in that that anybody be injured by virtue of
+
+24
+
+an unlawful, overt act.
+
+25
+
+I don't know why it matters whether it is
+
+MR. DeBRUIN:
+
+But the Court looked to -25
+
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+JUSTICE ALITO:
+
+Why is it appropriate there
+
+2
+
+to look to the law of civil conspiracy and yet
+
+3
+
+inappropriate here to look to the law of civil fraud?
+
+4
+
+MR. DeBRUIN:
+
+Well, it looked to conspiracy
+
+5
+
+to make up the elements of the civil cause of action
+
+6
+
+there.
+
+7
+
+upon is 1962(c), which is a violation of RICO.
+
+8
+
+also alleged 16, 1962(c).
+
+9
+
+RICO is to conduct the affairs of an enterprise through
+
+10
+
+But here the relevant provision that is relied
+And we
+
+But in (c) the violation of
+
+a pattern of racketeering activity.
+
+11
+
+None of those words, "conducting the affairs
+
+12
+
+of an enterprise", are words that Petitioners contend
+
+13
+
+you look to the common law to define.
+
+14
+
+pattern of racketeering activity that would consist of
+
+15
+
+fraud, of violence, of bribery all together.
+
+16
+
+JUSTICE SCALIA:
+
+There could be a
+
+Am I -- am I reading these
+
+17
+
+provisions wrong?
+
+18
+
+1961, and that the conspiracy -- the conspiracy
+
+19
+
+provision is 1962(c).
+MR. DeBRUIN:
+
+20
+21
+
+24
+25
+
+1961 is the definitions.
+
+We
+
+allege a violation of both 1962(c) and 1962(d).
+
+22
+23
+
+I thought you were proceeding in a
+
+JUSTICE SCALIA:
+
+That's the conspiracy
+
+provision.
+MR. DeBRUIN:
+
+1962(d) is the conspiracy.
+
+allege a violation of that.
+
+We
+
+We also allege a violation
+
+26
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+of 1962(c).
+
+2
+
+JUSTICE SCALIA:
+
+3
+
+the Petitioner's brief.
+
+4
+
+misinformed?
+
+5
+
+I'm looking on page 2 of
+
+Have I -- have I been
+
+The blue brief, page 2, maybe that's wrong,
+
+6
+
+but that's what it says.
+
+7
+
+unlawful for any person to conspire to violate any of
+
+8
+
+the provisions of subsections (a), (b) or (c).
+
+9
+
+It says 1962(c), it shall be
+
+MR. DeBRUIN:
+
+Your Honor, the citation
+
+10
+
+appears at the bottom of the quote, the way it's set
+
+11
+
+forth on page 2.
+
+12
+
+JUSTICE SCALIA:
+
+13
+
+MR. DeBRUIN:
+
+14
+
+I understand.
+
+So if you look at the very
+
+first quotation, you'll see where it follows.
+JUSTICE SCALIA:
+
+15
+16
+
+All right.
+
+Oh, I see, I see, I see.
+
+Okay.
+
+17
+
+MR. DeBRUIN:
+
+So in this case, we allege
+
+18
+
+both a violation of 1962(c) and (d).
+
+19
+
+conducting the affairs of an enterprise through a
+
+20
+
+pattern of racketeering activity.
+
+21
+
+consist of fraud, violence, bribery --
+
+22
+
+JUSTICE ALITO:
+
+1962(c) prohibits
+
+That pattern may
+
+No, I understand that, but
+
+23
+
+when the pattern of racketeering activity consists of
+
+24
+
+predicate acts of mail fraud, why isn't -- why does not
+
+25
+
+Beck point you to the word "fraud," which like
+27
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+"conspiracy," I don't believe is defined in the RICO
+
+2
+
+statute?
+
+3
+
+understand what "conspiracy" means in the RICO statute,
+
+4
+
+why do you not look to "civil fraud" to find out what
+
+5
+
+the word "fraud" means in the RICO statute?
+
+
+6
+
+So why if you look to civil conspiracy to
+
+MR. DeBRUIN:
+
+I would say two things:
+
+
+7
+
+First, what that argument would do would make
+
+
+8
+
+essentially common-law fraud the predicate act under
+
+
+9
+
+RICO, when instead it is indictable mail fraud, not
+
+
+10
+
+common-law fraud.
+
+11
+
+And --
+
+JUSTICE ALITO:
+
+But you can say the same in
+
+12
+
+Beck.
+
+13
+
+in RICO, rather than -- the RICO violation, rather than
+
+14
+
+criminal conspiracy.
+
+15
+
+It would make civil conspiracy the predicate act
+
+MR. DeBRUIN:
+
+Well, the Court, again, in
+
+16
+
+Beck, was looking to the common-law word "conspiracy" to
+
+17
+
+apply it in different contexts.
+
+18
+
+common-law fraud that is actionable under RICO.
+
+19
+
+There is not a
+
+But secondly, even if you accept that test,
+
+20
+
+Justice Alito, under the common law of fraud, there is
+
+21
+
+no doubt that claims like ours were actionable and were
+
+22
+
+actionable as fraud.
+
+23
+
+referenced to, the common-law cases involving the buyer
+
+24
+
+of cheese and other facts, those were actionable as
+
+25
+
+fraud where --
+
+The case that Justice Scalia
+
+28
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+2
+
+JUSTICE GINSBURG:
+
+Mr. Becker says they were
+
+interference with a business relationship, not fraud.
+
+3
+
+MR. DeBRUIN:
+
+Well, under the law of torts
+
+4
+
+as it has evolved, there are different labels that are
+
+5
+
+applied.
+
+6
+
+the interference through fraud with a contract of
+
+7
+
+another, was actionable at the common law.
+
+8
+
+plaintiff could make out a claim and recover damages,
+
+9
+
+even though the plaintiff had not received the statement
+
+But what was critical is that that conduct,
+
+The
+
+10
+
+at issue and had not relied on the statement at issue.
+
+11
+
+So that even if, under RICO, you were to look for civil
+
+12
+
+purposes to a common-law analogue, the common law made
+
+13
+
+clear that these kinds of claims were actionable,
+
+14
+
+whatever label might be applied to them today in terms
+
+15
+
+of the nature of the -- of the tort.
+
+16
+
+JUSTICE GINSBURG:
+
+One concern, because RICO
+
+17
+
+can be a very broad statute, is that if you are right,
+
+18
+
+then any unsuccessful bidder could look through a
+
+19
+
+rival's submission, find a false statement, and sue
+
+20
+
+under RICO.
+
+21
+
+MR. DeBRUIN:
+
+Your Honor, I believe that is
+
+22
+
+not true for the reasons this Court set forth in Anza.
+
+23
+
+The standards set forth in Holmes and in Anza are very
+
+24
+
+rigorous tests to establish proximate cause.
+
+25
+
+merely assertion of falsity by a competitor -- I mean,
+29
+
+Alderson Reporting Company
+
+So the
+
+Official - Subject to Final Review
+
+1
+
+Anza involved a competitor situation.
+
+2
+
+was that had been mail fraud that caused the competitor
+
+3
+
+harm.
+
+4
+
+There the claim
+
+The Court recognized in Anza that that case
+
+5
+
+was different than Holmes.
+
+There was an allegation of a
+
+6
+
+direct injury in Anza, but nevertheless the relation
+
+7
+
+between the violation and the harm was far less direct
+
+8
+
+than it is in this case, as Judge Easterbrook, Chief
+
+9
+
+Judge Easterbrook explained.
+JUSTICE SCALIA:
+
+10
+
+Why -- why is it -- I
+
+11
+
+really worry about adopting a rule which would produce
+
+12
+
+the result that whenever anyone makes a false statement
+
+13
+
+in an official form, someone who is deprived of a
+
+14
+
+business opportunity, or at least can say so, can bring
+
+15
+
+a RICO action.
+
+16
+
+MR. DeBRUIN:
+
+Justice Scalia, I would say
+
+17
+
+two things:
+
+18
+
+realize that Congress enacted RICO to protect
+
+19
+
+competitors.
+
+20
+
+RICO was to protect legitimate businesses that are
+
+21
+
+injured in their business or property by reason of a
+
+22
+
+pattern of racketeering activity as defined under the
+
+23
+
+statute.
+
+24
+25
+
+First of all, I think it's critical to
+
+One of the principal motivations behind
+
+That's number one.
+Number two, there are important restrictions
+
+that this Court repeatedly has recognized.
+30
+
+Alderson Reporting Company
+
+It's not
+
+Official - Subject to Final Review
+
+1
+
+enough that there be a single act.
+
+There must be
+
+2
+
+predicate acts that are a pattern of activity.
+
+3
+
+"Pattern" doesn't just mean two.
+
+4
+
+threat of continuing criminal activity.
+
+5
+
+proximate cause under Holmes and Anza.
+
+6
+
+restrictions exist.
+
+7
+
+successfully navigate all of those things, proving not
+
+8
+
+common-law fraud but indictable criminal activity,
+
+9
+
+proving a pattern of continuing criminal activity,
+
+It means a continuing
+There must be
+All of those
+
+And only if the plaintiff can
+
+10
+
+proving proximate cause, only then can the plaintiff
+
+11
+
+make out a RICO violation.
+
+12
+13
+
+CHIEF JUSTICE ROBERTS:
+
+I suppose that every
+
+other bidder in this situation is a viable plaintiff.
+
+14
+
+MR. DeBRUIN:
+
+In this case, we don't submit
+
+15
+
+that we are the only potential plaintiffs.
+
+16
+
+were other bidders -- the bidders at these auctions fall
+
+17
+
+into perhaps two different categories.
+
+18
+
+over 50 percent of all the registered bidders receive
+
+19
+
+fewer than 10 liens.
+
+20
+
+auction to bid on a specific property or small number of
+
+21
+
+properties.
+
+22
+
+That there
+
+Many bidders --
+
+In other words, they are at the
+
+Then there are other what I would call
+
+23
+
+professional tax buyers, who basically do research,
+
+24
+
+identify the most attractive properties, and we will
+
+25
+
+show, are essentially bidding on the same group of
+31
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+properties.
+
+2
+
+Those are the bidders at issue.
+
+3
+
+the Respondents, but it is a relatively small group --
+
+4
+
+And those are the properties at issue.
+It is more than just
+
+CHIEF JUSTICE ROBERTS:
+
+Well, I suppose in
+
+5
+
+other cases where if we adopt the rule you argue for,
+
+6
+
+that wouldn't be confined at all.
+
+7
+
+situation where a competitor is defrauding a supplier,
+
+8
+
+every competitor no matter how many there were, could
+
+9
+
+bring a RICO action.
+
+10
+
+MR. DeBRUIN:
+
+For example, in a
+
+Well, I think the Court --
+
+11
+
+again, if you look to the Anza case, the Court has made
+
+12
+
+clear that if a RICO defendant takes actions that simply
+
+13
+
+enhance the defendant's own competitive position, which
+
+14
+
+was the allegation in Anza, that that may not be enough
+
+15
+
+to establish proximate cause.
+
+16
+
+foreseeable and clear effect of defendant's actions is
+
+17
+
+to work a direct injury on competitors and, in fact, on
+
+18
+
+no one else, not on the county, not on the property
+
+19
+
+owners, but only on competitors, that was within the
+
+20
+
+ambit of what Congress sought to protect in RICO.
+
+21
+22
+23
+
+But whereas here the
+
+CHIEF JUSTICE ROBERTS:
+
+Regardless of how
+
+many competitors there are?
+MR. DeBRUIN:
+
+Well, yes.
+
+As this Court
+
+24
+
+recognized in Storey Parchment and Hazeltine, in
+
+25
+
+antitrust cases as well as RICO cases, damage issues
+32
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+have to be worked out.
+
+2
+
+multiple bidders that you may have to award damages to a
+
+3
+
+group does not defeat the claim.
+
+4
+
+come into court and say because damages here have to be
+
+5
+
+allocated among a larger number of people, you can't
+
+6
+
+establish a claim.
+
+7
+
+But the fact that there may be
+
+JUSTICE KENNEDY:
+
+The defendant cannot
+
+Is it the law generally in
+
+8
+
+the States that an unsuccessful bidder can sue the
+
+9
+
+successful bidder if the successful bidder misstated
+
+10
+
+qualification?
+
+11
+
+MR. DeBRUIN:
+
+Justice Kennedy, the
+
+12
+
+common-law rule actually was, I believe, in 27 of 40
+
+13
+
+States -- this unfortunately came up after the
+
+14
+
+briefing -- that a disappointed bidder could bring an
+
+15
+
+action at the common law if the allegation was one of
+
+16
+
+fraud in the procurement.
+
+17
+
+not provide an absolute bar to claims like this.
+
+18
+
+So that the common law did
+
+Now, again, the issue is:
+
+Will the claims
+
+19
+
+satisfy Holmes and Anza?
+
+20
+
+that standard, the framework this Court established
+
+21
+
+first in Holmes and then applied in Anza, that that
+
+22
+
+framework is inadequate, that it produces an anomalous
+
+23
+
+result here or will produce an anomalous result in other
+
+24
+
+cases.
+
+25
+
+There is no argument here that
+
+It's a very rigorous test.
+This Court looked at directness; it looked
+33
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+to the suitability of other plaintiffs; it looked to
+
+2
+
+whether the harm was derivative.
+
+3
+
+quintessential proximate cause analysis.
+
+4
+
+cause is, historically through the common law, a very
+
+5
+
+fact-based intensive test.
+
+6
+
+that the ability of the RICO plaintiff to overcome that
+
+7
+
+test, it's a significant showing that must be met.
+
+8
+9
+
+That's a
+Proximate
+
+But the Court has made clear
+
+Chief Judge Easterbrook, in this case, went
+through the Anza factors very methodically.
+
+He showed
+
+10
+
+that, under each factor, proximate cause clearly can be
+
+11
+
+met under the common law.
+
+12
+
+injured in a significant and substantial way, and that
+
+13
+
+is sufficient, I submit, to make out the elements of the
+
+14
+
+RICO claim, assuming all the other elements are also
+
+15
+
+met.
+
+16
+17
+
+If there are no further questions, thank
+you.
+
+18
+19
+20
+21
+22
+23
+24
+25
+
+The Respondents were directly
+
+CHIEF JUSTICE ROBERTS:
+
+Thank you,
+
+Mr. DeBruin.
+Mr. Miller?
+ORAL ARGUMENT OF ERIC D. MILLER
+ON BEHALF OF THE RESPONDENTS
+MR. MILLER:
+
+Mr. Chief Justice, and may it
+
+please the Court:
+RICO provides a cause of action to
+34
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+plaintiffs who have suffered injuries by reason of, that
+
+2
+
+is, proximately caused by, a RICO violation.
+
+3
+
+the RICO violation is predicated on an act of mail
+
+4
+
+fraud, the plaintiff ordinarily will need to show that
+
+5
+
+somebody relied on the false statements in order to
+
+6
+
+establish that the fraud was even a "but for" cause of
+
+7
+
+injury.
+
+8
+9
+
+Now, when
+
+A plaintiff who can establish that it was
+the one who relied on the false statements would be able
+
+10
+
+to show proximate causation.
+
+11
+
+way to establish proximate causation, and there is no
+
+12
+
+basis for this -- for the imposition of a per se rule
+
+13
+
+requiring that the plaintiff be the one who has relied.
+
+14
+
+Instead when a defendant creates a scheme to defraud
+
+15
+
+that induces reliance by one party in order to injure
+
+16
+
+another party, the injured party should have a cause of
+
+17
+
+action under --
+
+18
+
+But that's not the only
+
+CHIEF JUSTICE ROBERTS:
+
+What is the answer
+
+19
+
+to Justice Kennedy's question with respect to Federal
+
+20
+
+Government contracts?
+
+21
+
+MR. MILLER:
+
+My understanding is that the
+
+22
+
+case has established that they can.
+
+23
+
+came up after the briefing, one illustrative example is
+
+24
+
+in the Eighth Circuit, Iconco against Jensen
+
+25
+
+Construction Company, which is 622 F.2d 1291.
+35
+
+Alderson Reporting Company
+
+Again, since this
+
+In that
+
+Official - Subject to Final Review
+
+1
+
+case, it was a contract that was set aside for small
+
+2
+
+businesses, and the company got the contract by falsely
+
+3
+
+claiming to be a small business.
+
+4
+
+diversity case applying Iowa law, the Eighth Circuit
+
+5
+
+held that the disappointed bidder could bring an action
+
+6
+
+for fraud and unjust enrichment against the successful
+
+7
+
+bidder.
+
+8
+
+the long common-law tradition, going back to cases like
+
+9
+
+Rice against Manley, where --
+
+10
+11
+12
+
+And then in a
+
+So I think that -- and that's of a piece with
+
+CHIEF JUSTICE ROBERTS:
+
+But what if there
+
+are 50 disappointed bidders?
+MR. MILLER:
+
+Well, it would be the burden of
+
+13
+
+the plaintiff to establish that, but for the fraud, it
+
+14
+
+would have gotten the contract.
+
+15
+
+contracting, that's going to be very difficult for a
+
+16
+
+plaintiff to show.
+
+So in most cases of
+
+This --
+
+17
+
+JUSTICE SCALIA:
+
+18
+
+MR. MILLER:
+
+19
+
+JUSTICE SCALIA:
+
+Wait.
+
+-- is somewhat usual.
+Why couldn't you show --
+
+20
+
+why couldn't -- that's like the situation where a
+
+21
+
+company runs a -- runs a lottery and in fact
+
+22
+
+misrepresents what the odds are.
+
+23
+
+people can't recover because they couldn't show that
+
+24
+
+they would have won?
+
+25
+
+the difference in the odds or something and place some
+
+And then you mean the
+
+It seems to me you can calculate
+
+36
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+value on that.
+
+Is it really painless to say, you know,
+
+2
+
+I'm running a lottery and your chances of winning are
+
+3
+
+one in a thousand, and everybody buys a ticket on that
+
+4
+
+basis, and it turns out that really your chances are one
+
+5
+
+in a million?
+
+6
+
+nobody can prove he would have won?
+
+7
+
+MR. MILLER:
+
+Nobody has a cause of action because
+
+No, the participants in the
+
+8
+
+lottery in that case would have a cause of action
+
+9
+
+because they have paid money to the person running the
+
+10
+11
+
+lottery.
+JUSTICE SCALIA:
+
+That's all they can get?
+
+12
+
+Just what they paid for the ticket?
+
+13
+
+MR. MILLER:
+
+I think -- I think the -- the
+
+14
+
+common-law measure of damages would be -- would be what
+
+15
+
+they paid in that situation.
+
+16
+
+for disappointed bidders in cases like this, does have a
+
+17
+
+long common-law tradition, and with the more modern
+
+18
+
+elaboration of tort law, as demonstrated by the
+
+19
+
+secondary statement, it has sometimes been given a
+
+20
+
+different label, and that is either "injurious
+
+21
+
+falsehood" or "intentional interference with a
+
+22
+
+prospective contractual relation," but at its heart, the
+
+23
+
+action that's at issue here is one that's for fraud.
+
+24
+25
+
+But certainly the recovery
+
+But I would like to say in response to some
+of Justice Alito's questions that, with respect to the
+37
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+Beck case and the relevance of it, that ultimately in
+
+2
+
+our view it doesn't really matter whether the common law
+
+3
+
+would have allowed recovery in this case, and that's
+
+4
+
+because, unlike in Beck where the Court had to consider
+
+5
+
+what is the meaning of -- what does it mean to be
+
+6
+
+injured by reason of a conspiracy?
+
+7
+
+answered that question by looking at the common law of
+
+8
+
+civil conspiracy.
+
+9
+
+appropriate here if the relevant predicate under 1961
+
+And the Court
+
+That mode of analysis would be
+
+10
+
+were fraud or any conduct involving fraud or otherwise
+
+11
+
+made reference to common-law fraud.
+
+12
+
+1961 does not say that; it says "any act which is
+
+13
+
+indictable under section 1341,"
+
+14
+
+So under -- given the structure of the statute, the only
+
+15
+
+inquiry is:
+
+16
+
+which is indictable under 1341?
+
+17
+
+But, of course,
+
+the mail fraud statute.
+
+Is the injury incurred by reason of an act
+
+JUSTICE ALITO:
+
+But the RICO statute doesn't
+
+18
+
+say you can recover if you're injured by reason of
+
+19
+
+conspiracy, without any elaboration.
+
+20
+
+of a violation of this statute."
+
+21
+
+to 1962(d), which tells you what the violation is.
+
+22
+
+a RICO -- it's a criminal RICO conspiracy.
+
+23
+
+don't see how that argument works.
+
+24
+25
+
+MR. MILLER:
+
+It says "by reason
+
+And therefore you look
+It's
+
+So I just
+
+Well, 1964(c) refers you, as
+
+you noted, to 1962, which simply says "conspiracy."
+38
+
+Alderson Reporting Company
+
+And
+
+Official - Subject to Final Review
+
+1
+
+so the Court in Beck explained that to figure out how
+
+2
+
+you tell when someone has been injured by civil
+
+3
+
+conspiracy, there is a body of law, the common law, that
+
+4
+
+answers that question.
+
+5
+
+common-law principle of what it means to be injured by
+
+6
+
+an act of mail fraud because there is no common law of
+
+7
+
+mail fraud per se; it's a statutory creation.
+
+8
+
+the relevant inquiry is simply:
+
+9
+
+the mail fraud statute, section 1341?
+
+10
+
+There is no corresponding
+
+And so
+
+Did the conduct violate
+Not was it common
+
+law fraud?
+
+11
+
+JUSTICE BREYER:
+
+Well, I don't think it's
+
+12
+
+because there's no common-law equivalent.
+
+13
+
+simply because the word "conspiracy" is a -- the
+
+14
+
+substantive violation under 19 -- under 1962(c).
+
+15
+
+shall be unlawful for any person to conspire."
+
+16
+
+have to interpret the word "conspire," and we say we
+
+17
+
+give it its common-law meaning; whereas, for a violation
+
+18
+
+of the general racketeering statute, there's -- there's
+
+19
+
+no equivalent reference to a word that we have to give
+
+20
+
+content to.
+
+21
+
+"indictable."
+
+22
+
+I think it's
+
+"It
+And we
+
+It just says -- unless it's the word
+
+MR. MILLER:
+
+No.
+
+I think that's right.
+
+And
+
+23
+
+certainly the "by reason of" requirement in 1964, it
+
+24
+
+does refer to the common-law requirements of proximate
+
+25
+
+cause.
+
+But that -- that language -- "by reason of" -39
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+does not contain a reliance requirement because it
+
+2
+
+applies to any number of predicate acts, all of the
+
+3
+
+predicate acts under 1961.
+
+4
+
+of those acts, reliance would be completely
+
+5
+
+inappropriate.
+
+6
+
+think the conduct that is alleged here really does go to
+
+7
+
+the core of what RICO is intended to redress.
+
+8
+
+made clear, in the finding that accompanied the statute,
+
+9
+
+that one of its principal concerns was that criminal
+
+And in the context of many
+
+I would also like to point out that I
+
+Congress
+
+10
+
+enterprises could use illegal means to compete unfairly
+
+11
+
+with legitimate businesses.
+
+12
+
+criminal business were to use threats of violence
+
+13
+
+directed at its competitor's customers to get them to
+
+14
+
+switch their business to it, the competitor would have a
+
+15
+
+cause of action for that.
+
+16
+
+true, we submit, if the business uses fraud directed at
+
+17
+
+its competitor's customers to induce them to switch
+
+18
+
+their business.
+
+And so if a business -- a
+
+And then the same should be
+
+19
+
+If there are no further questions.
+
+20
+
+CHIEF JUSTICE ROBERTS:
+
+21
+22
+23
+24
+25
+
+Thank you,
+
+Mr. Miller.
+Mr. Becker, 10 minutes remaining.
+REBUTTAL ARGUMENT OF THEODORE M. BECKER
+ON BEHALF OF THE PETITIONERS
+MR. BECKER:
+
+Thank you.
+40
+
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+The difference between this case and what
+
+2
+
+Congress intended is that, yes, in the comments to the
+
+3
+
+enactment of RICO, Congress did say that it was trying
+
+4
+
+to protect legitimate competitors from illegitimate
+
+5
+
+conduct or unlawful conduct.
+
+6
+
+into a situation where competitors are using RICO as an
+
+7
+
+anticompetitive device, and that's what we believe the
+
+8
+
+reliance requirement will -- will at least rein in,
+
+9
+
+totally consistent with the common law.
+
+This case has now morphed
+
+We are not asking this Court to impose any
+
+10
+11
+
+requirement on RICO that does not already exist by
+
+12
+
+reason of the common-law meaning rule.
+
+13
+
+believe our opponents and the S.G.
+
+14
+
+Court to expand RICO by unmooring it from the common
+
+15
+
+law.
+
+16
+
+same situation and the same analysis.
+
+17
+
+which is a substantive conspiracy violation of RICO, was
+
+18
+
+at issue in Beck versus Prupis, you get to the same
+
+19
+
+situation just as an extra step.
+
+20
+
+the analysis.
+
+21
+
+count of course.
+
+22
+
+that "any person injured by reason of" -- if you read in
+
+23
+
+1964(c) to it -- by reason of a RICO violation or a --
+
+24
+
+or a racketeering activity "shall have a cause of
+
+25
+
+action."
+
+Actually, we
+
+are asking this
+
+We believe that Beck versus Prubis is exactly the
+Although 1962(d),
+
+Here's the -- here's
+
+You look to 19 -- they have a conspiracy
+But you look to 1962(c), and it says
+
+41
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+Now, you look to racketeering activity in
+
+2
+
+1961, and that has a hundred and something predicate
+
+3
+
+acts, one of which is mail fraud.
+
+4
+
+fraud, and it says "a scheme to defraud."
+
+5
+
+word "defraud."
+
+6
+
+place; you just -- you just need to take one more step
+
+7
+
+to get there, but it's the same place the Court found
+
+8
+
+itself, we submit, in Beck versus Prupis.
+
+9
+
+conspiracy means the same thing as civil conspiracy,
+
+You look at mail
+
+What does that mean?
+
+It uses the
+
+It's the same
+
+If criminal
+
+10
+
+Beck versus Prupis would not -- the Court would not have
+
+11
+
+held what it did in Beck versus Prupis.
+
+12
+
+fraud only means an indictable offense and nothing more
+
+13
+
+under the criminal law, it should be the same as the
+
+14
+
+civil law, then there would be no common-law meaning
+
+15
+
+rule.
+
+And if mail
+
+To apply the common-law --
+
+16
+
+JUSTICE SOUTER:
+
+Isn't -- isn't the weakness
+
+17
+
+of the argument that you're, in effect, dividing mail
+
+18
+
+and fraud?
+
+19
+
+and therefore, fraud here is just like conspiracy in
+
+20
+
+Beck.
+
+21
+
+art.
+
+22
+
+there -- there is no exact civil counterpart.
+
+23
+
+if you take mail fraud as being a unified term of art,
+
+24
+
+then it seems to me that your argument falls apart,
+
+25
+
+because you can't treat the fraud in the mail fraud the
+
+You're saying there are two requirements,
+
+But in fact, mail fraud is -- is a single term of
+It refers simply to a criminal violation for which
+
+42
+
+Alderson Reporting Company
+
+And so,
+
+Official - Subject to Final Review
+
+1
+
+way you treated the conspiracy standing alone in Beck.
+
+2
+
+MR. BECKER:
+
+Justice Souter, we respectfully
+
+3
+
+disagree and refer the Court to Field versus Mans, where
+
+4
+
+it was bankruptcy fraud.
+
+5
+
+same thing.
+
+What does bankruptcy mean?
+
+6
+
+fraud mean?
+
+Well, they looked to -- the Court looked to
+
+7
+
+the common law meaning rule, and looked to the elements
+
+8
+
+you need for fraud in order to determine what has to be
+
+9
+
+proved for bankruptcy fraud.
+
+And I believe -- the exact
+
+JUSTICE SOUTER:
+
+10
+
+What does mail
+
+But there was no definition
+
+11
+
+of bankruptcy fraud as a separate definition, was there?
+
+12
+
+Whereas in mail fraud, we know what it means.
+
+13
+
+MR. BECKER:
+
+Not from the statute we don't,
+
+14
+
+Justice Souter.
+
+15
+
+the statute.
+
+16
+
+because the Court has construed it over the years.
+
+17
+
+order to construe it now in a civil context, we are
+
+18
+
+asking the Court to apply the common law meaning rule
+
+19
+
+because that's -- the analog is fraud; that's the
+
+20
+
+obvious source to look to the common law.
+
+21
+22
+23
+
+There is no definition of mail fraud in
+
+The only reason we know what it means is
+In
+
+If I may I'd like to make a few other
+points.
+First of all, I cannot leave this podium and
+
+24
+
+leave this Court under the impression that there is
+
+25
+
+directness of injury.
+
+There are 195 bidders.
+43
+
+
+Alderson Reporting Company
+
+The
+
+Official - Subject to Final Review
+
+1
+
+plaintiffs themselves alleged this in paragraph 46, our
+
+2
+
+joint appendix 20 and 21.
+
+3
+
+last few pages of our reply brief show all of the things
+
+4
+
+that would have to be shown in order to have even --
+
+5
+
+even a remote directness of injury in this case.
+
+6
+
+Without belaboring it, the
+
+So the -- we have not -- we have not in any
+
+7
+
+way conceded that the requirements of Anza or Holmes
+
+8
+
+have been met.
+
+9
+
+deals with that.
+
+And -- but I think our brief adequately
+
+I'd also like to point out that RICO and
+
+10
+11
+
+mail fraud don't reach everything actionable at common
+
+12
+
+law.
+
+13
+
+that civil RICO in every case involving a false
+
+14
+
+statement -- every case involving a false statement, no
+
+15
+
+matter to whom it's made, would be a civil RICO case.
+
+I mean, if there was an argument, that would mean
+
+16
+
+The general idea of protecting competitors
+
+17
+
+doesn't mean that Congress provided that anything that
+
+18
+
+anyone says to anybody violates civil RICO.
+
+19
+
+the way that this Court interprets statutes; and there
+
+20
+
+is no allegation in the complaint at all as -- that the
+
+21
+
+rotational basis applies only when bids are at zero
+
+22
+
+percent.
+
+23
+
+That's not
+
+In the year 2000 the Illinois Supreme Court
+
+24
+
+confronted the same plaintiff in this case, Phoenix
+
+25
+
+Bond, challenging a very similar rule because at that
+44
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+point in time there was collusion including the same
+
+2
+
+plaintiff to keep the penalty rate at 18 percent.
+
+3
+
+the Illinois Supreme Court said the rule will -- is
+
+4
+
+something that the treasurer has the right to make to
+
+5
+
+try to regulate the bids, and the treasurer certainly
+
+6
+
+can be a victim of this situation.
+
+7
+
+perceived as fair, the treasurer will not have enough
+
+8
+
+bidders in order to sell all the bids, and therefore,
+
+9
+
+the county will not be paid the unpaid taxes.
+
+10
+
+And
+
+If the bid is not
+
+If the treasurer thought that there really
+
+11
+
+was a misrepresentation here made by the Petitioners,
+
+12
+
+the treasurer would have a very great incentive and a
+
+13
+
+very great state in enforcing this rule; and the
+
+14
+
+treasurer did not, we believe because the treasurer
+
+15
+
+doesn't believe there is any violation.
+
+16
+
+The -- the other ways that the county could
+
+17
+
+be injured are that if the -- if the penalty rate goes
+
+18
+
+up beyond zero percent, there is no guarantee that the
+
+19
+
+same number of bidders will -- will come to the sale.
+
+20
+
+There -- I also want to refer the Court to
+
+21
+
+other -- this is not new.
+
+In Safeco Insurance just
+
+22
+
+recently, last term, the Court asked -- was asked to
+
+23
+
+define the term "willfulness" in a civil liability
+
+24
+
+provision of the Fair Credit Reporting Act, and the
+
+25
+
+Court observed that there is different meanings in the
+45
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+civil and criminal law to the term "willfulness."
+
+In
+
+2
+
+Farmer versus Brennan the Court recognized different
+
+3
+
+uses of the term "recklessness" in the civil and
+
+4
+
+criminal contexts.
+
+5
+
+So once again we are asking this Court to
+
+6
+
+rule consistent with the common law meaning rule that
+
+7
+
+the -- a civil RICO action predicated on mail fraud,
+
+8
+
+where one is -- it has to fulfill the requirement that
+
+9
+
+you have been -- the plaintiff has been injured by
+
+10
+
+reason of mail fraud or racketeering activity.
+
+11
+
+plaintiff must rely on a misrepresentation or the fraud
+
+12
+
+directly, because that's the essence of civil fraud.
+
+13
+
+If there are no further questions.
+
+14
+
+CHIEF JUSTICE ROBERTS:
+
+15
+16
+17
+
+The
+
+Thank you, Counsel.
+
+The case is submitted.
+(Whereupon, at 12:05 p.m., the case in the
+above-entitled matter was submitted.)
+
+18
+19
+20
+21
+22
+23
+24
+25
+46
+
+Alderson Reporting Company
+
+

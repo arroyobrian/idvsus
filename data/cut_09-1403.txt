@@ -1,0 +1,5596 @@
+Official - Subject to Final Review
+
+1
+
+P R O C E E D I N G S
+
+2
+
+(10:02 a.m.)
+
+3
+
+CHIEF JUSTICE ROBERTS:
+
+We'll hear argument
+
+4
+
+first this morning in Case 09-1403, Erica P. John Fund
+
+5
+
+v. Halliburton Company.
+
+6
+
+Mr. Boies.
+
+7
+
+ORAL ARGUMENT OF DAVID BOIES
+
+8
+
+ON BEHALF OF THE PETITIONER
+
+9
+10
+
+MR. BOIES:
+
+Mr. Chief Justice, may it please
+
+the Court:
+
+11
+
+The district court below found, and it is
+
+12
+
+not disputed here, that the plaintiff fulfilled all of
+
+13
+
+the requirements of Rule 23(a) for class certification.
+
+14
+
+The district court also found, and the court of appeals
+
+15
+
+affirmed, that the plaintiffs demonstrated all of the
+
+16
+
+requirements for class certification under 23(b)(3)
+
+17
+
+except for the Fifth Circuit's loss causation
+
+18
+
+requirement.
+
+19
+
+not there was an efficient market was not disputed.
+
+20
+
+was conceded that we have an efficient market here.
+
+21
+
+There were no challenges -­
+
+22
+
+The court below recognized that whether or
+
+CHIEF JUSTICE ROBERTS:
+
+23
+
+I just stop you there.
+
+24
+
+MR. BOIES:
+
+25
+
+CHIEF JUSTICE ROBERTS:
+
+Mr. Boies, if could
+
+Certainly.
+
+3
+
+Alderson Reporting Company
+
+It
+
+What if that had
+
+Official - Subject to Final Review
+
+1
+
+been disputed?
+
+Is that something that can be disputed
+
+2
+
+at the certification stage?
+
+3
+
+MR. BOIES:
+
+Yes, Your Honor.
+
+4
+
+The -­
+
+5
+
+JUSTICE KAGAN:
+
+Mr. Boies, what's the
+
+6
+
+difference then?
+
+7
+
+certification stage, but not the question of price
+
+8
+
+impact?
+
+9
+
+Why could that be disputed at the
+
+MR. BOIES:
+
+Because the issue of efficient
+
+10
+
+market goes to the presumption of reliance, and if the
+
+11
+
+court holds at the certification stage that there is no
+
+12
+
+efficient market, then the basis for presuming
+
+13
+
+class-wide reliance is impacted.
+
+14
+
+situation in which the common issues do not predominate
+
+15
+
+over the individualized issues.
+
+16
+
+respect to loss causation because, as Respondent
+
+17
+
+concedes here, loss causation is a common issue.
+
+18
+19
+
+JUSTICE KAGAN:
+
+And so you can have a
+
+That cannot happen with
+
+Well, how about materiality?
+
+Could you rebut materiality at the certification stage?
+
+20
+
+MR. BOIES:
+
+No, Your Honor, we don't think
+
+21
+
+you can rebut materiality at the -- at the certification
+
+22
+
+stage.
+
+23
+
+loss causation is in addition to materiality.
+
+24
+25
+
+I would note that under the Fifth Circuit rule,
+
+JUSTICE KAGAN:
+
+Well, now I'm a little
+
+confused, because the efficient market and materiality
+4
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+are all part of the prima facie case triggering the
+
+2
+
+Basic presumption.
+
+3
+
+of that case but not another part of that case?
+
+4
+
+So, why couldn't you rebut one part
+
+MR. BOIES:
+
+Because the issue of materiality
+
+5
+
+is something that goes to a class-wide common issue.
+
+6
+
+The issue of reliance can go to whether or not issues
+
+7
+
+predominate or not.
+
+8
+
+common issues predominate or not.
+
+9
+
+class certification stage.
+
+10
+
+Rule 23(b)(3) talks about whether
+That's the issue at
+
+The merits issue is not
+
+implicated at class certification -­
+
+11
+
+JUSTICE ALITO:
+
+12
+
+MR. BOIES:
+
+13
+
+JUSTICE ALITO:
+
+But common reliance -­
+
+-- under Rule 23 -­
+-- can be rebutted at the -­
+
+14
+
+common reliance can be rebutted at the certification
+
+15
+
+stage?
+
+16
+
+MR. BOIES:
+
+Excuse me, Your Honor?
+
+17
+
+JUSTICE ALITO:
+
+The Basic presumption can be
+
+18
+
+-- can the Basic presumption be rebutted at the
+
+19
+
+certification stage?
+
+20
+
+MR. BOIES:
+
+The Basic presumption of
+
+21
+
+reliance, yes, Your Honor.
+
+For example, if you were to
+
+22
+
+take a situation in which you -- not present here, but
+
+23
+
+where you disputed whether or not the market was
+
+24
+
+efficient or not, that is something that could be
+
+25
+
+decided at the class certification stage.
+5
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+JUSTICE ALITO:
+
+Can it be rebutted by proof
+
+2
+
+other than proof generally disproving the efficiency of
+
+3
+
+the market?
+
+4
+
+MR. BOIES:
+
+We believe under the Court's
+
+5
+
+decision in Basic that that is something that is
+
+6
+
+reserved for trial, that -- that rebuttal.
+
+7
+
+JUSTICE ALITO:
+
+8
+
+the footnote in Basic?
+
+9
+
+MR. BOIES:
+
+10
+
+Yes.
+
+JUSTICE ALITO:
+
+And what is that based on,
+
+Yes, Your Honor.
+Well, that's pretty thin,
+
+11
+
+isn't it?
+
+12
+
+opinion issued at a time when conditional class
+
+13
+
+certification was permitted.
+
+14
+
+to support that?
+
+15
+16
+17
+18
+
+It's a -- it's dictum in a footnote in an
+
+MR. BOIES:
+
+Do you have anything else
+
+I don't from this Court, Your
+
+Honor.
+JUSTICE ALITO:
+
+Do you have anything in the
+
+rule to support that?
+
+19
+
+MR. BOIES:
+
+Anything in the rule?
+
+20
+
+JUSTICE ALITO:
+
+21
+
+MR. BOIES:
+
+Yes.
+
+Well, I think the -- I think
+
+22
+
+what the rule does is it talks about whether issues of
+
+23
+
+common issue predominate over individualized issue.
+
+24
+
+since this is something that would be at the class
+
+25
+
+certification stage, not creating individualized issues,
+6
+
+Alderson Reporting Company
+
+And
+
+Official - Subject to Final Review
+
+1
+
+we would think that is something that's reserved for
+
+2
+
+trial.
+
+3
+
+JUSTICE GINSBURG:
+
+Mr. Boies, how would it
+
+4
+
+work in your view of the case?
+
+That is, you say that
+
+5
+
+the loss, what's been called loss causation, is not
+
+6
+
+something to be decided at the certification stage, but
+
+7
+
+at the trial or summary judgment.
+
+8
+
+would the plaintiff class prove loss causation?
+
+9
+
+the reliance hurdle that you have surmounted, now you're
+
+Well, how -- how
+Given
+
+10
+
+in -- you have your class certified; how does the class
+
+11
+
+prove loss causation.
+
+12
+
+MR. BOIES:
+
+As -- as this Court indicated in
+
+13
+
+Dura, in order to prove loss causation, you must
+
+14
+
+demonstrate that you had either an increase in the
+
+15
+
+prices, and this -- this assumes that you are concealing
+
+16
+
+negative information; the reverse would be true if you
+
+17
+
+were concealing positive information -- an increase at
+
+18
+
+the time that the concealment took place or a decline
+
+19
+
+when the actual facts were revealed.
+
+20
+
+And it would be required at summary judgment
+
+21
+
+by a summary judgment standard, and at trial by a trial
+
+22
+
+standard, and at the pleading stage by a pleading
+
+23
+
+standard, for the plaintiff to make out that case.
+
+24
+
+other words, there are three times loss causation is
+
+25
+
+tested:
+
+Pleadings, summary judgment, and trial.
+7
+
+Alderson Reporting Company
+
+In
+
+The
+
+Official - Subject to Final Review
+
+1
+
+question is whether a fourth test should be interposed
+
+2
+
+at the class certification stage.
+
+3
+
+JUSTICE SOTOMAYOR:
+
+Counsel, doesn't a lack
+
+4
+
+of response to a disclosure -- couldn't it be in some
+
+5
+
+situations reflective of an inefficient market?
+
+6
+
+MR. BOIES:
+
+Yes, Your Honor, I think it
+
+7
+
+could.
+
+I think that you -- you could very well have a
+
+8
+
+situation in which if you demonstrated a lack of
+
+9
+
+response, that could impact the issue of efficiency; and
+
+10
+
+I think that would be an issue that-- that in a proper
+
+11
+
+case where unlike this one it was presented -­
+
+12
+
+JUSTICE SOTOMAYOR:
+
+Why is it?
+
+Why is this
+
+13
+
+case -- why can't you pigeonhole this case into that
+
+14
+
+argument, which, it appears what your -- what the
+
+15
+
+Respondents have done is move away from the loss
+
+16
+
+causation proof and gone to the issue of whether they
+
+17
+
+rebutted reliance or not.
+
+18
+
+MR. BOIES:
+
+The -- the problem is, as the
+
+19
+
+Fifth Circuit noted at page 335 of the F.3d report,
+
+20
+
+efficiency of this market was conceded below.
+
+21
+
+words, the Respondents conceded that this market was
+
+22
+
+efficient?
+
+23
+
+presented, and the rebuttal issue was not -- was not
+
+24
+
+presented in this case.
+
+25
+
+In other
+
+So that issue -- that issue was not
+
+JUSTICE SCALIA:
+
+Mr. -- Mr. Boies, you
+
+8
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+talked about loss causation.
+
+2
+
+that that's not what the Fifth Circuit was really doing,
+
+3
+
+that -- that really they're just trying to rebut the
+
+4
+
+presumption essentially of -- of Basic by -- by showing
+
+5
+
+that at the -- at the far end, there was -- there was
+
+6
+
+nothing that could justify the presumption.
+
+7
+
+The Respondents assert
+
+Would you be satisfied if we just said that
+
+8
+
+we agree with you that the requirement to prove loss
+
+9
+
+causation is -- is no good, and sent it back to the
+
+10
+
+Fifth Circuit and then let the Fifth Circuit adopt the
+
+11
+
+theory that Respondents assert they have already
+
+12
+
+adopted?
+
+13
+
+seems to me, if you haven't just disapproved loss
+
+14
+
+causation.
+
+15
+16
+17
+
+I mean, it's sort of a Pyrrhic victory, it
+
+MR. BOIES:
+
+Well, it depends on how the
+
+Fifth Circuit then construes reliance.
+JUSTICE SCALIA:
+
+Well, they -- they would
+
+18
+
+construe it the way Respondents say they have already
+
+19
+
+construed it.
+
+20
+
+MR. BOIES:
+
+Your Honor, I think that if they
+
+21
+
+simply changed the wording and called loss causation
+
+22
+
+reliance, obviously it wouldn't make any difference.
+
+23
+
+But as this Court indicated in Basic, and just last
+
+24
+
+month in Matrixx, loss causation and reliance are two
+
+25
+
+distinct elements.
+
+And the reason that's important in
+9
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+this particular context is that reliance can create a
+
+2
+
+situation where you have individualized issues
+
+3
+
+predominating over common issues.
+
+4
+
+Loss causation can't because, as Respondents
+
+5
+
+concede here, loss causation is a class-wide issue.
+
+6
+
+Either -- there either is loss causation or is not loss
+
+7
+
+causation.
+
+8
+
+element of the merits case.
+
+9
+
+prove at all three stages -- pleadings, summary
+
+That, as this Court held in Dura, is an
+
+10
+
+judgment, and trial.
+
+11
+
+to the Rule 23 standard.
+
+12
+
+It is one that we must
+
+But it is not something that goes
+
+JUSTICE SCALIA:
+
+I think what you've said is
+
+13
+
+that there's really no difference between loss causation
+
+14
+
+and what Respondents assert that the Fifth Circuit
+
+15
+
+found.
+
+16
+
+MR. BOIES:
+
+No, Your Honor.
+
+I did not mean
+
+17
+
+to say that.
+
+I think that there is a difference.
+
+I
+
+18
+
+think there's a -- I think there are -- there are two
+
+19
+
+differences.
+
+20
+
+Respondents say and what the Fifth Circuit says.
+
+21
+
+Fifth Circuit talks about loss causation, says it's in
+
+22
+
+addition to efficient market, does not talk about
+
+23
+
+reliance.
+
+There's a difference between what
+
+24
+
+JUSTICE SCALIA:
+
+25
+
+MR. BOIES:
+
+Right.
+
+There's also a difference
+10
+
+
+Alderson Reporting Company
+
+The
+
+Official - Subject to Final Review
+
+1
+
+between what Respondents say and what this Court has
+
+2
+
+said in Basic and Matrixx and the other cases, in terms
+
+3
+
+of what is required to prove for class certification.
+
+4
+
+What is required to prove for class certification under
+
+5
+
+Rule 23, unless and until Rule 23 is changed, is that
+
+6
+
+common issues predominate.
+
+7
+
+predominate even with respect to what the Respondents
+
+8
+
+here argue because -- because what they argue, just like
+
+9
+
+loss causation, is a common issue.
+
+10
+
+JUSTICE SCALIA:
+
+Common issues will
+
+Okay, but -- but you -- you
+
+11
+
+would want us to say that and not just say that loss
+
+12
+
+causation -­
+
+13
+14
+
+MR. BOIES:
+
+Yes.
+
+Yes, Your Honor.
+
+Yes,
+
+Your Honor.
+
+15
+
+JUSTICE SOTOMAYOR:
+
+How do you see or what
+
+16
+
+difference do you see between their loss causation
+
+17
+
+evidence and an inefficient market?
+
+18
+
+assuming there was no stipulation in this case, do you
+
+19
+
+see any difference in -- in how they could use the fact
+
+20
+
+that other information affected the market and not this
+
+21
+
+one?
+
+22
+
+evidence that they could marshal to show that this is an
+
+23
+
+inefficient market?
+
+24
+25
+
+Could they -­
+
+Or is it your theory of the case that there is no
+
+MR. BOIES:
+
+I don't believe under this
+
+Court's decision in Basic that, given the actual
+11
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+objective facts that have been admitted -- it's a very
+
+2
+
+public market, very widespread distribution of
+
+3
+
+information, a lot of analysts are reporting on it -- I
+
+4
+
+don't believe that as a objective factual matter they
+
+5
+
+would be able ever to demonstrate that this was not an
+
+6
+
+efficient market.
+
+7
+
+If you had a much smaller market, indeed if
+
+8
+
+you -- if you had a market as the Court was considering
+
+9
+
+in Basic, which was a much smaller market, much less
+
+10
+
+public, much less analyst support, there may be areas in
+
+11
+
+which they -- they could rebut it.
+
+12
+
+what we all know about the Halliburton stocks -- widely
+
+13
+
+traded, large number of shares traded, a lot of
+
+14
+
+analysts, a lot of public information -- I don't believe
+
+15
+
+under this Court's decision in Basic you could conclude
+
+16
+
+reasonably that that was not an efficient market.
+
+17
+
+JUSTICE ALITO:
+
+But I think, given
+
+What do you say to -- to the
+
+18
+
+following argument, that there are some economists who
+
+19
+
+say that, even in a market that is generally efficient,
+
+20
+
+there can be instances in which the market does not
+
+21
+
+incorporate certain statements into the price of a
+
+22
+
+stock; and therefore even when it is demonstrated that
+
+23
+
+the market meets the test for efficiency that the lower
+
+24
+
+courts have settled upon in the wake of Basic, the
+
+25
+
+defendant in a -- in a class action where there is
+12
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+reliance on the Basic presumption should be permitted at
+
+2
+
+the class certification stage to prove that the
+
+3
+
+allegedly fraudulent statements had no impact on price,
+
+4
+
+and by doing that destroy the theory that the class
+
+5
+
+relied on the statements, because they relied on the
+
+6
+
+price which incorporated the statements?
+
+7
+
+MR. BOIES:
+
+I -- I think, Your Honor, that
+
+8
+
+if you have a situation in which the proof is
+
+9
+
+class-wide, it is something that goes only to summary
+
+10
+
+judgment or trial.
+
+11
+
+certification stage.
+
+12
+
+whether somebody is relying on an efficient market, that
+
+13
+
+is distinct from whether a particular statement was or
+
+14
+
+was not actionable.
+
+15
+
+It does not go to the class
+With respect to the issue of
+
+In other words, the summary judgment issue,
+
+16
+
+the trial issue, is whether the particular statement was
+
+17
+
+actionable and that includes all of the things that the
+
+18
+
+court identifies.
+
+19
+
+there is an efficient market, class-wide issues.
+
+20
+
+other words, it's not going to be the case that in a
+
+21
+
+particular instance a statement did not get into the
+
+22
+
+market will affect only one member of the class.
+
+23
+
+going to affect all members of the class.
+
+24
+
+something that is common all of the class members, Rule
+
+25
+
+23 says that is something for trial, not for class
+
+But those issues are going to be, if
+
+13
+
+Alderson Reporting Company
+
+In
+
+It's
+
+Because it is
+
+Official - Subject to Final Review
+
+1
+
+certification.
+
+2
+
+JUSTICE KAGAN:
+
+Well, whether there's an
+
+3
+
+efficient market is also common to all members of the
+
+4
+
+class, so why would you make an exception for that?
+
+5
+
+MR. BOIES:
+
+Because if there's no efficient
+
+6
+
+market, then individualized issues are going to
+
+7
+
+predominate.
+
+8
+
+individual issues or common issues are going to
+
+9
+
+predominate.
+
+That is, the test under Rule 23 is whether
+
+If you destroy the efficient market theory
+
+10
+
+in a particular case, then individual issues of reliance
+
+11
+
+can predominate.
+
+12
+
+respect to loss causation or price distortion or any of
+
+13
+
+these other issues that are fundamental to the merits
+
+14
+
+and are common to the entire class, because if there's
+
+15
+
+no loss causation, there's no cause of action.
+
+16
+
+Court held in Dura, there must be loss causation.
+
+17
+
+there's no loss causation there aren't any individual
+
+18
+
+issues to adjudicate.
+
+19
+20
+
+However, that can't happen with
+
+the remainder of my time for rebuttal.
+CHIEF JUSTICE ROBERTS:
+
+22
+
+Ms. Saharsky.
+
+24
+25
+
+So if
+
+If there are no more questions, I would save
+
+21
+
+23
+
+As this
+
+Thank you, counsel.
+
+ORAL ARGUMENT OF NICOLE A. SAHARSKY,
+ON BEHALF OF THE UNITED STATES,
+AS AMICUS CURIAE, SUPPORTING THE PETITIONER
+14
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+2
+
+MS. SAHARSKY:
+
+Mr. Chief Justice, and may it
+
+please the Court:
+
+3
+
+The Fifth Circuit erred in requiring proof
+
+4
+
+of loss causation at class certification for three
+
+5
+
+reasons:
+
+6
+
+not tethered to the Rule 23 requirements; second, it's
+
+7
+
+taking a presumption and requiring plaintiffs to prove
+
+8
+
+it; and third, it's confusing the distinct elements of
+
+9
+
+reliance and loss causation.
+
+10
+
+First, it's conducting a merits inquiry that's
+
+Just to start in with some of the Court's
+
+11
+
+questions:
+
+12
+
+require proof of loss causation?
+
+13
+
+could not be more clear.
+
+14
+
+rebutting the presumption of reliance, giving the
+
+15
+
+defendants an opportunity to do that at class
+
+16
+
+certification.
+
+17
+
+plaintiffs that they have to meet in every single case,
+
+18
+
+even if the defendants do not come to court with any
+
+19
+
+evidence.
+
+20
+
+district court in this case realized.
+
+21
+
+First, Justice Scalia's:
+
+Does the court
+
+The Fifth Circuit
+
+It is not talking about
+
+It is putting an affirmative burden on
+
+And that is a very heavy burden, as the
+
+And just to make this as concrete as
+
+22
+
+possible, loss causation is the question at the end of
+
+23
+
+the day, whether the price decline that caused the
+
+24
+
+losses was sufficiently related to the earlier alleged
+
+25
+
+material misstatement and whether there was any other
+15
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+cause that could have led to the price decline.
+
+2
+
+So if a plaintiff cannot come in and prove
+
+3
+
+loss causation, there could be many reasons for that.
+
+4
+
+It may be because the market is not efficient.
+
+5
+
+also be because there's no material misstatement.
+
+6
+
+it could also be, as this Court recognized in Dura, that
+
+7
+
+there was a material misstatement, it did inflate the
+
+8
+
+stock price, but then other causes such as a bad economy
+
+9
+
+or other news about the company came along, and that's
+
+10
+
+what caused the stock price to drop.
+
+11
+
+JUSTICE SCALIA:
+
+It could
+But
+
+Justice -­
+
+But you acknowledged that
+
+12
+
+if the cause was the fact that the market was not
+
+13
+
+efficient, that could be raised at the certification
+
+14
+
+stage.
+
+15
+
+MS. SAHARSKY:
+
+Well, that's certainly what
+
+16
+
+the Court suggested in Basic and what the courts of
+
+17
+
+appeals have done, is to say that that's a threshold
+
+18
+
+showing that is sufficiently collateral to the merits
+
+19
+
+that it needs to be made, so that the presumption can be
+
+20
+
+invoked in the first instance.
+
+21
+
+But these ideas about rebutting the
+
+22
+
+presumption by showing that at the end of the day the
+
+23
+
+plaintiff can't prove its case, these are things, as Mr.
+
+24
+
+Boies said, that stand or fall on a class-wide basis.
+
+25
+
+And the real problem with the Fifth Circuit's decision
+16
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+is that it did not tie its proof of loss causation to
+
+2
+
+the requirements of Rule 23.
+
+3
+
+loss causation stands or falls on a class-wide basis.
+
+4
+
+JUSTICE KENNEDY:
+
+Everyone agrees here that
+
+The rule isn't, I take it
+
+5
+
+-- or correct me if I'm wrong -- that simply because the
+
+6
+
+issue is on a class-wide basis, it can't be challenged
+
+7
+
+at the certification stage.
+
+8
+
+that broad, do we?
+
+9
+
+We don't have a rule that's
+
+Or am I missing a point?
+
+MS. SAHARSKY:
+
+Well, that's what Rule 23,
+
+10
+
+23(b)(3), which is the one at issue here -- the question
+
+11
+
+is do common issues predominate over individual ones.
+
+12
+
+What you're trying to answer is can this group of people
+
+13
+
+proceed together, not can this group of people make out
+
+14
+
+their case.
+
+15
+16
+17
+
+JUSTICE KENNEDY:
+
+But suppose there's no
+
+demonstrated basis that that common issue exists?
+MS. SAHARSKY:
+
+Then I think the plaintiff
+
+18
+
+should lose at the 12(b)(6) stage, and that is a stage
+
+19
+
+that has real bite after this Court's decision in Dura
+
+20
+
+and after the PSLRA.
+
+21
+
+requirements that apply.
+
+22
+
+lose at summary judgment on the issue of loss causation,
+
+23
+
+for example, because, A, either they don't allege a
+
+24
+
+price drop, B, they don't connect the price drop to the
+
+25
+
+earlier distortion of the market when there's a material
+
+There are heightened pleading
+There are plaintiffs that will
+
+17
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+misstatement.
+
+2
+
+There can be many reasons that they lose at
+
+3
+
+that merits stage, but class certification is not a
+
+4
+
+merits stage, and the Fifth Circuit made it one because
+
+5
+
+of its own policy judgments about the effects of class
+
+6
+
+certification.
+
+7
+
+Circuit, it's just not that Court's judgment to make
+
+8
+
+that -­
+
+9
+
+And with all due respect to the Fifth
+
+CHIEF JUSTICE ROBERTS:
+
+Class certification
+
+10
+
+is not a merits determination except with respect to
+
+11
+
+reliance?
+
+12
+
+market theory?
+
+13
+
+and you can decide it at the class certification stage?
+
+14
+
+Except with respect to the fraud on the
+That you can; that is a merits inquiry
+
+JUSTICE KENNEDY:
+
+And except, just to add to
+
+15
+
+the Chief Justice's question, an efficient market
+
+16
+
+theory?
+
+17
+
+MS. SAHARSKY:
+
+That's right.
+
+You're asking
+
+18
+
+is this theory going to be available to the plaintiffs
+
+19
+
+at trial, and the way that the plaintiffs show that the
+
+20
+
+theory is available to them is by establishing an
+
+21
+
+efficient market and saying that they traded within the
+
+22
+
+time period while the price was distorted.
+
+23
+
+like establishing any other threshold inquiry that would
+
+24
+
+make evidence or a legal theory available at trial.
+
+25
+
+It's just
+
+But the question the Court is supposed to be
+18
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+asking at the 23, at the Rule 23 stage, the class
+
+2
+
+certification stage, is not can these people win on the
+
+3
+
+merits.
+
+And that's a question the Fifth Circuit was
+
+4
+
+asking.
+
+The question it's supposed to ask is can this
+
+5
+
+group of people proceed together.
+
+6
+
+JUSTICE ALITO:
+
+You seem to -- maybe I don't
+
+7
+
+understand your argument, but you and Mr. Boies seem to
+
+8
+
+be arguing that whether there is a common question -­
+
+9
+
+that it is a common question whether there is a common
+
+10
+
+question, and therefore that has to wait until the
+
+11
+
+merits stage.
+
+12
+
+Is that what you're saying?
+
+MS. SAHARSKY:
+
+No, that's not what we're
+
+13
+
+saying.
+
+14
+
+predominate on the issue of reliance, and when the
+
+15
+
+Petitioners -- or when the plaintiffs invoke fraud on
+
+16
+
+the market and they show that there is an efficient
+
+17
+
+market, this Court said in Basic, they can all proceed
+
+18
+
+together because they are showing that the price -- that
+
+19
+
+the material misstatement was reflected in the stock
+
+20
+
+price.
+
+21
+
+on the stock price.
+
+22
+
+way.
+
+23
+
+What we're saying is when common issues
+
+This is an impersonal market in which you rely
+They all rely on it in the same
+
+JUSTICE ALITO:
+
+And if they show that the
+
+24
+
+statement was not incorporated in the price, in the
+
+25
+
+price, and they're not claiming that they relied, that
+19
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+every member of the class actually relied on the
+
+2
+
+statement, they're all claiming they relied on the price
+
+3
+
+- if they show that the statement wasn't incorporated in
+
+4
+
+the price, then why doesn't reliance cease to be a
+
+5
+
+common issue and become a question of an individual
+
+6
+
+issue that would have to be proved by each, each member
+
+7
+
+of the class?
+
+8
+9
+
+MS. SAHARSKY:
+
+Well, in that circumstance
+
+reliance ceases to be and the case cannot be established
+
+10
+
+on the merits.
+
+11
+
+merits.
+
+12
+
+They stand or fall together on the
+
+Their theory is the same for all of them.
+JUSTICE ALITO:
+
+Yeah, but the fact that they
+
+13
+
+would lose on the merits doesn't necessarily mean that
+
+14
+
+they are entitled to class certification.
+
+15
+
+MS. SAHARSKY:
+
+Right.
+
+They're entitled to
+
+16
+
+class certification if they have a common issue.
+
+17
+
+what the Court said in Basic is that if they set out the
+
+18
+
+prerequisites for the fraud on the market, which the
+
+19
+
+court of appeals agreed were met in this case, that they
+
+20
+
+could proceed together.
+
+21
+
+required.
+
+22
+
+And
+
+That threshold showing is
+
+Justice Kagan, I take your point that there
+
+23
+
+is -- that even the question of whether the market is
+
+24
+
+efficient is a common one, so perhaps one could
+
+25
+
+logically say:
+
+Well, they have a common issue on the
+20
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+efficiency of the market; why should they even have to
+
+2
+
+show that at class certification?
+
+3
+
+in Basic, and the courts of appeals have said, it's
+
+4
+
+reasonable in that case since it's so divorced from the
+
+5
+
+merits to require a threshold showing to even allow them
+
+6
+
+to invoke the presumption at the outset.
+
+7
+
+But this Court said
+
+But that is very, very different from what
+
+8
+
+the Fifth Circuit said in this case.
+
+9
+
+in this case said basically:
+
+The Fifth Circuit
+
+Prove your whole case.
+
+10
+
+You don't just have to prove that there was a price
+
+11
+
+decrease; you have to prove that there was an initial
+
+12
+
+material misstatement, that it distorted the stock
+
+13
+
+price, that it led to a price decrease and that the
+
+14
+
+price decrease can't be, can't be shown by any other
+
+15
+
+superseding cause.
+
+16
+
+Circuit said -­
+
+17
+
+It's essentially, as the Seventh
+
+JUSTICE SCALIA:
+
+Can you -- can you do this
+
+18
+
+in reverse?
+
+19
+
+instead of proving at the outset that the market's an
+
+20
+
+efficient market and allege a misrepresentation, they
+
+21
+
+come in at the back end and they say:
+
+22
+
+statement that we assert was a misrepresentation was
+
+23
+
+corrected, the price of stock went down and we lost
+
+24
+
+money.
+
+25
+
+I mean, suppose the class comes in and,
+
+When that
+
+Now, it seems to me you would have to argue,
+21
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+well, that's a good allegation if it's an efficient
+
+2
+
+market, which is a common question, right?
+
+3
+
+MS. SAHARSKY:
+
+Right.
+
+4
+
+JUSTICE SCALIA:
+
+So they can certify under
+
+5
+
+Rule 23 by using the back end.
+
+6
+
+efficient market, they can prove that there was a
+
+7
+
+statement correcting the alleged misrepresentation, the
+
+8
+
+price of stock went down, right, and they can certify
+
+9
+
+the class?
+
+10
+
+MS. SAHARSKY:
+
+11
+
+JUSTICE SCALIA:
+
+No.
+
+Instead of proving the
+
+The Court said -­
+
+Why not?
+
+It would be -- it
+
+12
+
+would be a common question whether the market's
+
+13
+
+efficient or not.
+
+14
+
+MS. SAHARSKY:
+
+This Court said in Basic that
+
+15
+
+in order to establish the presumption that you need to
+
+16
+
+show the efficiency of the market, the trading during
+
+17
+
+the relevant time period.
+
+18
+
+I agree with you that -­
+
+JUSTICE SCALIA:
+
+They're not relying on that
+
+19
+
+assumption.
+
+They -- they come in and show that there
+
+20
+
+was a correction of what we alleged was a misstatement
+
+21
+
+and the market went down.
+
+22
+
+And of course, that proves anything only if there's an
+
+23
+
+efficient market.
+
+24
+
+the whole class, so we'll, we'll -- we'll save that for
+
+25
+
+later.
+
+That's all that they allege.
+
+But that will be a common question to
+
+22
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+MS. SAHARSKY:
+
+Well, with respect, just
+
+2
+
+alleging that the market went down would not be enough
+
+3
+
+to show that there was an initial price distortion
+
+4
+
+because of the company's material misstatement.
+
+5
+
+prices can go down for any number of reasons.
+
+6
+
+significant linkage that's required between the initial
+
+7
+
+material misstatement and the eventual loss.
+
+8
+9
+
+JUSTICE SCALIA:
+
+Stock
+There's a
+
+Well, but they assert that.
+
+They assert that the reason it went down was because of
+
+10
+
+the initial misstatement.
+
+11
+
+MS. SAHARSKY:
+
+Certainly in the courts of
+
+12
+
+appeals now, that's not the way the plaintiffs proceed.
+
+13
+
+The way they proceed is on the Basic theory.
+
+14
+
+JUSTICE SCALIA:
+
+I understand that.
+
+I'm
+
+15
+
+just saying that seems to me it's a crazy way to run a
+
+16
+
+railroad.
+
+17
+
+MS. SAHARSKY:
+
+I don't think that that's -­
+
+18
+
+JUSTICE SCALIA:
+
+If you can allege what's
+
+19
+
+upfront, you can allege what's -- what's in the back,
+
+20
+
+and what's upfront becomes a common question, so you
+
+21
+
+certify the whole class.
+
+22
+
+MS. SAHARSKY:
+
+With respect, Your Honor, I
+
+23
+
+mean, if you -- if you would like to -- if you would
+
+24
+
+like to expand even beyond Basic and allow class
+
+25
+
+certification.
+
+But the courts of appeals have used
+23
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+Basic for 20 years, Congress is well aware of it and has
+
+2
+
+not seen fit to change it.
+
+3
+
+cases proceed.
+
+4
+
+This is the way that these
+
+This Court at the time of Basic recognized
+
+5
+
+that every court of appeals had thought that it made
+
+6
+
+sense to proceed in that way, using the fraud on the
+
+7
+
+market theory.
+
+8
+
+be clear, Respondents never suggested in this case that
+
+9
+
+Basic should be revisited.
+
+This is well established.
+
+And just to
+
+This is not an issue that
+
+10
+
+the courts below considered.
+
+11
+
+was fully briefed, and it's not something that we think
+
+12
+
+should be considered.
+
+13
+
+This is not an issue that
+
+The problem in this case is that the Fifth
+
+14
+
+Circuit took it upon itself to tighten the Rule 23
+
+15
+
+requirements.
+
+16
+
+they exist, and it took the class certification stage
+
+17
+
+and turned it into a merits inquiry stage.
+
+18
+
+required plaintiffs to prove almost their entire case at
+
+19
+
+this stage of the litigation, and that just wasn't
+
+20
+
+right, because the class certification stage -- can I
+
+21
+
+finish this -- is about whether plaintiffs can proceed
+
+22
+
+as a group together, as the Court in Amchem said they
+
+23
+
+often can in securities fraud actions.
+
+24
+
+should be reversed.
+
+25
+
+It was not satisfied with the rules as
+
+CHIEF JUSTICE ROBERTS:
+24
+
+Alderson Reporting Company
+
+They
+
+The judgment
+
+Thank you, counsel.
+
+Official - Subject to Final Review
+
+1
+
+Mr. Sterling.
+
+2
+
+ORAL ARGUMENT OF DAVID STERLING
+
+3
+
+ON BEHALF OF THE RESPONDENTS
+
+4
+5
+
+MR. STERLING:
+
+Thank you, Mr. Chief Justice,
+
+and may it please the Court:
+
+6
+
+Basic recognized that, absent the class-wide
+
+7
+
+presumption of fraud on the market reliance, individual
+
+8
+
+issues of reliance predominate, as they do in any other
+
+9
+
+fraud context.
+
+Consequently, when a district court,
+
+10
+
+after the rigorous analysis required by Rule 23, finds
+
+11
+
+that the presumption is unavailable or rebutted,
+
+12
+
+reliance ceases to be a class-wide issue.
+
+13
+
+JUSTICE SOTOMAYOR:
+
+I -- I -- when -- what
+
+14
+
+in the Fifth Circuit's decision puts this inquiry into
+
+15
+
+the reliance prong and where did you argue it this way
+
+16
+
+below?
+
+17
+
+MR. STERLING:
+
+We argued it below based upon
+
+18
+
+the premise in Basic that the presumption is rebutted
+
+19
+
+when there is proof -­
+
+20
+
+JUSTICE SOTOMAYOR:
+
+21
+
+MR. STERLING:
+
+22
+23
+
+Could you -­
+
+-- that the market price did
+
+not distort -­
+JUSTICE SOTOMAYOR:
+
+Could you give me a
+
+24
+
+place in the record where you actually said that, as
+
+25
+
+opposed to relying on Oscar to argue that the Fifth
+25
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+Circuit was right in addressing as a merits question
+
+2
+
+whether the plaintiff had proven loss causation?
+
+3
+
+MR. STERLING:
+
+It was not addressed as a
+
+4
+
+merits question, Justice Sotomayor.
+
+5
+
+as Oscar said, as a prerequisite for finding reliance in
+
+6
+
+order to certify the class.
+
+7
+
+JUSTICE SOTOMAYOR:
+
+It was addressed,
+
+So you're not defending
+
+8
+
+the rationale of the Fifth Circuit now?
+
+9
+
+you're sort of backing yourself into the reliance
+
+10
+
+You're -­
+
+element?
+
+11
+
+MR. STERLING:
+
+We are not defending all of
+
+12
+
+the language in Oscar, clearly, but the basic test in
+
+13
+
+the Fifth Circuit, as our case made clear on pages 116a
+
+14
+
+and 119a of the petition appendix, is not loss
+
+15
+
+causation; it's price impact, because Basic says at page
+
+16
+
+248 any showing that severs the link between the
+
+17
+
+misrepresentation and the stock price defeats the
+
+18
+
+presumption.
+
+19
+
+showing that the stock price was not distorted by the
+
+20
+
+misrepresentation defeats the presumption.
+
+21
+
+Basic makes clear on that same page that a
+
+JUSTICE KAGAN:
+
+But, Mr. Sterling, if I
+
+22
+
+think -- if I disagree with you and I think that Oscar
+
+23
+
+said that loss causation needs to be shown at the
+
+24
+
+certification stage, you agree that that is not a
+
+25
+
+correct statement of the law; is that correct?
+26
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+MR. STERLING:
+
+We do agree with that,
+
+2
+
+Justice Kagan.
+
+3
+
+loss causation as this Court knows it in Dura; the test
+
+4
+
+is simply price impact.
+
+5
+
+recognized -- and the Fund recognized this below on page
+
+6
+
+551a of the Joint Appendix -- their only burden under
+
+7
+
+the Fifth Circuit caselaw was to show price impact, and
+
+8
+
+they could show it either of two ways.
+
+9
+
+show this, page 116 and 119a of the joint appendix.
+
+10
+
+But our opinion made clear that it's not
+
+And the Fifth Circuit
+
+Their papers
+
+They can show price inflation upon a
+
+11
+
+misrepresentation, which, as this Court made clear in
+
+12
+
+Dura, is not synonymous with loss causation.
+
+13
+
+that -- and they could not show that here because their
+
+14
+
+own proof showed that none of the alleged
+
+15
+
+misrepresentations moved the market.
+
+16
+
+alternative way to show price impact is simply to show a
+
+17
+
+price decline following a corrective disclosure.
+
+18
+
+Or failing
+
+So, the
+
+And while that showing is similar to loss
+
+19
+
+causation, it's an easier, less rigorous showing of loss
+
+20
+
+causation, because under the price impact test at the
+
+21
+
+Fifth Circuit, all the plaintiff need show is that it's
+
+22
+
+reasonable to infer that some portion of the decline was
+
+23
+
+attributable to the revelation of the truth.
+
+24
+25
+
+JUSTICE KAGAN:
+
+Mr. Sterling, I wasn't sure
+
+what argument you were making in your brief.
+27
+
+Alderson Reporting Company
+
+One
+
+Official - Subject to Final Review
+
+1
+
+possible argument you could be making is that the
+
+2
+
+plaintiffs have to show a price impact.
+
+3
+
+possible argument you could be making is that you have
+
+4
+
+to have the opportunity to rebut the plaintiff's use of
+
+5
+
+the Basic presumption by yourself showing that there was
+
+6
+
+no price impact.
+
+7
+
+first, even though I would think that the second is the
+
+8
+
+most you can make as a -- as a plausible argument.
+
+9
+
+Another
+
+And you seemed often to be saying the
+
+MR. STERLING:
+
+If we suggested the first,
+
+10
+
+Justice Kagan, I apologize because we did not intend to.
+
+11
+
+Basic puts the initial burden on the defendant to show
+
+12
+
+the absence of price impact, showing that the presumed
+
+13
+
+fact does not exist.
+
+14
+
+Once that threshold showing is made, the
+
+15
+
+burden remains on the plaintiff under Rule 301 and Rule
+
+16
+
+23 to show by a preponderance of the evidence that the
+
+17
+
+market price was in fact, distorted.
+
+18
+
+JUSTICE SCALIA:
+
+19
+
+JUSTICE GINSBURG:
+
+But -- but why do you -­
+The way the Fifth Circuit
+
+20
+
+wrote the decision, the Fifth Circuit seems to be
+
+21
+
+saying:
+
+22
+
+representation; and you, you plaintiff, didn't show a -­
+
+23
+
+a corrective statement that caused a price drop.
+
+24
+
+read the Fifth Circuit's decision, it says:
+
+25
+
+you failed to prove one of the two things that you would
+
+Plaintiffs, you didn't show an initially false
+
+28
+
+Alderson Reporting Company
+
+As I
+
+Plaintiff,
+
+Official - Subject to Final Review
+
+1
+
+have to prove.
+
+2
+
+And you say:
+
+No, they really put the burden
+
+3
+
+on -- on defendants, Fifth Circuit put the burden on
+
+4
+
+defendant and found that defendant had met it instead of
+
+5
+
+the other way around?
+
+6
+
+MR. STERLING:
+
+We agree, Your Honor, that
+
+7
+
+the Fifth Circuit put the initial burden of production
+
+8
+
+on the plaintiff and that's contrary to Basic.
+
+9
+
+agree with that.
+
+We -- we
+
+However, in terms of the Fifth
+
+10
+
+Circuit's language that I believe Your Honor's referring
+
+11
+
+to, that is when the Fifth Circuit was discussing the
+
+12
+
+alleged corrective disclosures.
+
+13
+
+Because the plaintiff could not show that
+
+14
+
+any of the alleged misrepresentations moved the market,
+
+15
+
+they had to rely upon what they claimed were corrective
+
+16
+
+disclosures.
+
+17
+
+price impact.
+
+18
+
+That was the only way they could show
+
+The Fifth Circuit, at various times, looked
+
+19
+
+at each of the alleged corrective disclosures and said
+
+20
+
+that's not a corrective disclosure because it doesn't
+
+21
+
+reveal the truth in any way; it's bad news, but it's
+
+22
+
+non-culpable bad news.
+
+23
+
+that Halliburton said something during the class period
+
+24
+
+that was false.
+
+25
+
+It doesn't in any way suggest
+
+JUSTICE BREYER:
+
+Can I -- I'm trying this
+
+29
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+question out.
+
+2
+
+don't have it clear enough, just forgive it and go on to
+
+3
+
+another.
+
+4
+
+idea is there is a presumption.
+
+5
+
+there's an oil well I found oil in.
+
+6
+
+on the stock market.
+
+7
+
+a lot of people say they lost money.
+
+8
+9
+
+Try to give me your best answer.
+
+If I
+
+As I'm understanding this case with Basic, the
+Somebody lies and says
+A lot of people buy
+
+It turns out there was no oil, and
+All right.
+
+The point of the stock market presumption is
+to say:
+
+Smith, you're a typical plaintiff and this
+
+10
+
+presumption is going to help you by the following.
+
+11
+
+We're going to say what happened to the typical person
+
+12
+
+on the stock market during that period happened to you,
+
+13
+
+and there are a lot of people who bought and sold on the
+
+14
+
+stork market.
+
+15
+
+needed to show at the certification stage, because if
+
+16
+
+there weren't certification -- if that isn't shown, the
+
+17
+
+whole thing falls apart.
+
+18
+
+And that's why efficient markets is
+
+But what you're just saying on terms of
+
+19
+
+whether the revelation lowered the price has nothing to
+
+20
+
+do with the question of what happened to the typical
+
+21
+
+person, Smith, happened to you, nothing to do with it.
+
+22
+
+It has to do with whether anybody was hurt.
+
+23
+
+has nothing to do with the certification stage.
+
+24
+
+the win or lose stage.
+
+25
+
+Now, that
+That's
+
+Now, that's how I'm understanding it at the
+30
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+moment.
+
+2
+
+So what's wrong with the way I understand it?
+MR. STERLING:
+
+Justice Breyer, the -- the
+
+3
+
+problem is, we're back to reliance.
+
+4
+
+Basic creates a presumption as an exception to the long
+
+5
+
+understood rule that fraud cases were not appropriate
+
+6
+
+vehicles for class actions because each individual would
+
+7
+
+have to say, Mr. Smith in your hypothetical, I read
+
+8
+
+Halliburton's statement and I relied upon it.
+
+9
+
+Basic exists -­
+
+Basic said, because that's so impractical
+
+10
+
+cases would never be certified, we're going to say we're
+
+11
+
+going to assume the entire market is like Mr. Smith, and
+
+12
+
+Mr. Smith relies on the integrity of the stock price
+
+13
+
+when the stock price is distorted by the
+
+14
+
+misrepresentation.
+
+15
+
+fact distorted by the misrepresentation, it makes no
+
+16
+
+sense to say everybody relied on the misrepresentation
+
+17
+
+through its effect on the stock price.
+
+18
+
+But if the stock price was not in
+
+JUSTICE SCALIA:
+
+Which means you would lose.
+
+19
+
+I -- I mean, which means that the plaintiff would lose.
+
+20
+
+But it doesn't mean that there is not a common issue,
+
+21
+
+that the -- that the latter question, whether in fact
+
+22
+
+the market was affected or not is, is not a common
+
+23
+
+question.
+
+24
+
+common question.
+
+25
+
+Rule 23 only requires that -- that there be a
+
+MR. STERLING:
+
+But Justice Scalia, Basic
+31
+
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+sets forth a special rule.
+
+Basic is an exception to the
+
+2
+
+long-understood rule about the nonsusceptibility in
+
+3
+
+class actions to class treatment of fraud cases.
+
+4
+
+says it's not just enough to allege the operative facts,
+
+5
+
+and we will presume reliance.
+
+6
+
+plead and prove them, and all of those operative facts
+
+7
+
+are subject to common proof.
+
+8
+
+efficient market applies to everybody, it's common
+
+9
+
+proof.
+
+Basic
+
+Basic says you have to
+
+The efficient market:
+
+the
+
+Everybody recognizes, everybody agrees, Mr.
+
+10
+
+Boies said so today, and the government said so today:
+
+11
+
+if the market -- if the district court does not find
+
+12
+
+that the market -- that the market for the stock is
+
+13
+
+efficient at the class certification stage, you can't
+
+14
+
+certify, because it's not reasonable to infer then that
+
+15
+
+the misrepresentation was translated into the stock
+
+16
+
+price.
+
+17
+
+Materiality is another requirement under
+
+18
+
+Basic.
+
+It's a threshold condition.
+
+19
+
+proof.
+
+All the courts except for the Seventh Circuit
+
+20
+
+agree materiality must be proven at the class
+
+21
+
+certification level.
+
+22
+
+misrepresentation was public.
+
+23
+
+made, it's not reasonable to infer that it had an impact
+
+24
+
+on the stock price.
+
+25
+
+Again, common
+
+Same thing for whether the
+If it was not publicly
+
+All of these operative facts are subject to
+32
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+common proof.
+
+2
+
+proven at the class certification stage, the presumption
+
+3
+
+of class-wide reliance doesn't apply and individual
+
+4
+
+issues of reliance predominate.
+
+5
+
+But Basic says unless those facts are
+
+The same must be true for rebuttal proof.
+
+6
+
+Basic says eight times that the presumption is
+
+7
+
+rebuttable, and it makes no sense at all to rely upon
+
+8
+
+these indirect or surrogate, circumstantial proof of
+
+9
+
+whether the misrepresentation moved the market.
+
+That's
+
+10
+
+all these are -- materiality, whether it was publicly
+
+11
+
+made, whether the market was efficient.
+
+12
+
+just surrogates of whether it is reasonable to believe
+
+13
+
+or to infer that the stock price was in fact distorted
+
+14
+
+by the misrepresentation.
+
+15
+
+JUSTICE SOTOMAYOR:
+
+These are all
+
+Well, could you explain
+
+16
+
+to me why in this case it's not reasonable to believe,
+
+17
+
+meaning assuming the truth, that there was falsity in
+
+18
+
+the statements made, those alleged -­
+
+19
+
+MR. STERLING:
+
+20
+
+JUSTICE SOTOMAYOR:
+
+Because -- I'm sorry.
+Assuming truth to those
+
+21
+
+statements, why wouldn't a market react to corrective
+
+22
+
+measures?
+
+23
+
+saying it's an inefficient market or that the statements
+
+24
+
+had no price impact for some other merits-related
+
+25
+
+reason.
+
+Because what I see is a difference between
+
+But why does that tie to an inefficient market
+33
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+at all?
+
+2
+
+MR. STERLING:
+
+Well, again, general market
+
+3
+
+efficiency is just a proxy or a surrogate for whether
+
+4
+
+it's reasonable to think the conditions exist for the
+
+5
+
+stock price to be affected by a misrepresentation.
+
+6
+
+JUSTICE SOTOMAYOR:
+
+So tell me why on its
+
+7
+
+face, with the false statements alleged here, why would
+
+8
+
+it be unreasonable to conclude that the market wouldn't
+
+9
+
+respond to them?
+
+10
+
+MR. STERLING:
+
+One reason is because the
+
+11
+
+market deemed the information to be immaterial, the
+
+12
+
+market didn't care about it, the market didn't react to
+
+13
+
+it.
+
+14
+
+generally efficient, a market was inefficient for this
+
+15
+
+type of information.
+
+Another reason could be that, while a market is
+
+16
+
+I -­
+
+JUSTICE SOTOMAYOR:
+
+Well, but you conceded
+
+17
+
+efficiency below, so you've sort of given up that
+
+18
+
+argument.
+
+19
+
+MR. STERLING:
+
+We conceded efficiency below
+
+20
+
+because, candidly, their own proof showed that none of
+
+21
+
+the misrepresentations moved the market.
+
+22
+
+have here is not circumstantial proof of general market
+
+23
+
+efficiency or materiality or whether the statement was
+
+24
+
+public; here there was direct proof that none of these
+
+25
+
+misrepresentations moved the market, and that is the
+34
+
+Alderson Reporting Company
+
+And what we
+
+Official - Subject to Final Review
+
+1
+
+whole premise of the Basic class-wide presumption of
+
+2
+
+reliance.
+
+3
+
+Basic itself says if the stock price was not
+
+4
+
+distorted by the misrepresentation, you can't say the
+
+5
+
+entire class relied upon the misrepresentation to the
+
+6
+
+stock price.
+
+7
+
+is the DNA proof, and it makes no sense for district
+
+8
+
+courts to be certifying class actions based upon this
+
+9
+
+indirect or circumstantial proof while ignoring the
+
+10
+11
+
+And that's exactly what we have here.
+
+direct proof of the absence of price impact.
+And in effect what they're asking this Court
+
+12
+
+to do is to extend Basic.
+
+13
+
+created presumption designed to make a judicially
+
+14
+
+created cause of action easier to be maintained as a
+
+15
+
+class action.
+
+16
+
+It
+
+Basic itself is a judicially
+
+Now, it was one thing for courts decades ago
+
+17
+
+to imply a private cause of action under 10(b) and it
+
+18
+
+was another thing for this Court to create a rebuttable
+
+19
+
+presumption of reliance in Basic in order to make it
+
+20
+
+easier to maintain these cases as class actions.
+
+21
+
+would do violence to Stoneridge's admonition that the
+
+22
+
+10b cause of action ought not be further expanded to
+
+23
+
+make that rebuttable presumption of reliance
+
+24
+
+irrebuttable at the class certification stage.
+
+25
+
+JUSTICE GINSBURG:
+
+But it
+
+But your -- your argument
+
+35
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+seems to say, to -- to get a class certified you have to
+
+2
+
+virtually prove your case on the merits.
+
+3
+
+leave almost nothing over.
+
+4
+
+class action certification on your basis and you've
+
+5
+
+shown the material misleading and the price dropped as a
+
+6
+
+consequence, the efficient market first -- you've shown
+
+7
+
+all that, what else is left on the merits?
+
+8
+
+the merits if you win certification.
+
+You -- you
+
+I mean, if you've won the
+
+You win on
+
+9
+
+MR. STERLING:
+
+10
+
+that is not our position.
+
+11
+
+get the class-wide presumption of reliance, it's the
+
+12
+
+plaintiff's burden to plead and prove upfront as
+
+13
+
+threshold facts, a public misrepresentation that was
+
+14
+
+material made in an efficient market.
+
+15
+
+defendant has the right at the class certification stage
+
+16
+
+to rebut that presumption by any showing, to quote
+
+17
+
+Basic, "that severs the length between the
+
+18
+
+misrepresentation and the stock price."
+
+19
+
+threshold showing is made, the burden is back on the
+
+20
+
+plaintiff to demonstrate the necessary linkage.
+
+21
+
+Justice Ginsburg, that -­
+Our position is in order to
+
+However, the
+
+When that
+
+It's not a finding on the merits.
+
+A
+
+22
+
+determination at the class certification stage is simply
+
+23
+
+one of whether the Rule 23(b) predominance requirement
+
+24
+
+is met and whether the class can appropriately proceed
+
+25
+
+as a class, as opposed to in the traditional individual
+36
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+fashion, and that finding is not binding on the ultimate
+
+2
+
+finder of fact.
+
+3
+
+JUSTICE KAGAN:
+
+Mr. Sterling, maybe this is
+
+4
+
+just to repeat Justice Ginsburg's question, but what
+
+5
+
+else is there?
+
+6
+
+introduce in the way that you're talking about at the
+
+7
+
+certification stage?
+
+I mean, what would not be proper to
+
+8
+
+MR. STERLING:
+
+9
+
+proof of loss causation, and damages.
+
+10
+
+Falsity, scienter, actual
+
+JUSTICE KAGAN:
+
+The Fifth Circuit suggested
+
+11
+
+that scienter could come in at the -- at the
+
+12
+
+certification stage.
+
+13
+
+You're disclaiming that?
+
+MR. STERLING:
+
+Footnote 35 of the Fifth
+
+14
+
+Circuit opinion makes clear that it is not requiring
+
+15
+
+scienter.
+
+16
+
+analyzing what is or is not a corrective disclosure, it
+
+17
+
+says it has to do something that suggests that a
+
+18
+
+statement was made that is potentially actionable was
+
+19
+
+false.
+
+20
+
+And all that is, again, is a second way under the Fifth
+
+21
+
+Circuit's test of showing whether there is the necessary
+
+22
+
+price impact to justify certifying a class, or
+
+23
+
+alternatively to determine that individual issues of
+
+24
+
+reliance predominate.
+
+25
+
+The Fifth Circuit says, in response -- in
+
+Otherwise it's not a revelation of the truth.
+
+And allowing the defendants to rebut the
+37
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+presumption of reliance at the class certification stage
+
+2
+
+is consistent with this Court's class action case law
+
+3
+
+and with Rule 23.
+
+4
+
+the Rule 23 requirements are not to be presumed, they're
+
+5
+
+not to be assumed, they have to be found.
+
+6
+
+conformance is the test.
+
+7
+
+This Court has consistently said that
+
+JUSTICE GINSBURG:
+
+Actual
+
+The only requirement
+
+8
+
+we're talking about is (b)(3) because it's -- it's not
+
+9
+
+argued and the district court found that all of the
+
+10
+
+23(a) requirements were satisfied.
+
+11
+
+particular -­
+
+12
+
+MR. STERLING:
+
+That's not the
+
+Correct Your Honor.
+
+But
+
+13
+
+23(b)(3) requires a court to make a finding that
+
+14
+
+predominance exists.
+
+15
+
+to Rule 23 make clear that a court should not certify a
+
+16
+
+class unless and until it is satisfied that all of the
+
+17
+
+Rule 23 requirements are met; and it makes no sense to
+
+18
+
+say that a court is going to conduct this rigorous
+
+19
+
+analysis and make the Rule 23(b)(3) findings without
+
+20
+
+considering the defendant's rebuttal proof of whether,
+
+21
+
+in fact, there was price impact, because Basic itself
+
+22
+
+says if there is no price impact, the presumption falls
+
+23
+
+away, individual issues of reliance predominate, and the
+
+24
+
+class cannot be certified.
+
+25
+
+JUSTICE KAGAN:
+
+And the 2003 amendments to the -­
+
+On your rebuttal proof
+
+38
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+point, you said just now that all you had to do was come
+
+2
+
+forward with some evidence, but that the burden remains
+
+3
+
+on the plaintiff.
+
+4
+
+you think you have to come forward with in order to flip
+
+5
+
+the burden back to the plaintiff?
+
+6
+
+Is that -- what kind of evidence do
+
+MR. STERLING:
+
+Well, under Basic, it's any
+
+7
+
+showing that severs the link, and here it was proof -­
+
+8
+
+we had our own expert that demonstrated that, again kind
+
+9
+
+of harping on their expert -- none of the
+
+10
+
+misrepresentations inflated the stock price -­
+
+11
+
+JUSTICE KAGAN:
+
+So you're saying you can put
+
+12
+
+an expert on the stand and the expert will say there was
+
+13
+
+no price impact, and then the plaintiffs have to make
+
+14
+
+the case that there, in fact, was a -- a price impact at
+
+15
+
+the certification stage, that the plaintiffs have to
+
+16
+
+prove that by a preponderance?
+
+17
+
+MR. STERLING:
+
+18
+
+JUSTICE KAGAN:
+
+19
+
+Correct, Your Honor.
+Once you put a expert on the
+
+-- on the stand.
+
+20
+
+MR. STERLING:
+
+Under Rule 301, the
+
+21
+
+presumption does not shift the ultimate burden of proof.
+
+22
+
+It stays on the party that -- that bears it.
+
+23
+
+consistent with Rule 23 as well, which puts the burden
+
+24
+
+on the plaintiff, to prove all of the Rule 23 elements
+
+25
+
+exist.
+39
+
+Alderson Reporting Company
+
+That is
+
+Official - Subject to Final Review
+
+1
+
+JUSTICE KAGAN:
+
+Well, that does suggest that
+
+2
+
+the Basic presumption isn't worth much in your world.
+
+3
+
+That you put an expert on the stand, and the Basic
+
+4
+
+presumption falls away, and the plaintiffs have to
+
+5
+
+actually prove their case at that very early stage that
+
+6
+
+there was no price impact.
+
+7
+
+MR. STERLING:
+
+We agree, Your Honor, that
+
+8
+
+they have to show price impact, but that's not a hard
+
+9
+
+burden to show.
+
+If any of their 22 -- they allege that
+
+10
+
+we made misrepresentations that were false on 22 days
+
+11
+
+during the class period.
+
+12
+
+one day during that class period statistically
+
+13
+
+significant price movement, and they're in.
+
+14
+
+had to show was any of the alleged -- I've forgotten how
+
+15
+
+many -- corrective disclosures during the class period.
+
+16
+
+Any one day, if there was a -- a meaningful price
+
+17
+
+movement that a court could infer was related to the
+
+18
+
+revelation of truth, that's all they need to show.
+
+19
+
+they couldn't show that.
+
+20
+
+All they had to do was show
+
+CHIEF JUSTICE ROBERTS:
+
+Or all they
+
+But
+
+Counsel, I suppose
+
+21
+
+if you prevail and a defendant tries to establish at the
+
+22
+
+certification stage that there's no loss causation and
+
+23
+
+loses, then that's law of the case and you've missed the
+
+24
+
+three opportunities that Mr. Boies was willing to give
+
+25
+
+you at the pleading stage, summary judgment, and the
+40
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+merits.
+
+2
+
+right?
+
+3
+
+That issue is out of the case if you lose,
+
+MR. STERLING:
+
+No, Your Honor, because the
+
+4
+
+finding at the class certification stage is not binding
+
+5
+
+upon the ultimate fact finder.
+
+6
+
+Court determines by a preponderance of the evidence that
+
+7
+
+reliance is not there, if the Court -- if the case goes
+
+8
+
+to trial and an individual plaintiff brings his or her
+
+9
+
+own case based upon subjective reliance, that the
+
+So if the -- if the
+
+10
+
+Court's determination that the class certification stage
+
+11
+
+is not binding on the jury.
+
+12
+
+CHIEF JUSTICE ROBERTS:
+
+What if there's
+
+13
+
+no -- no new evidence?
+
+14
+
+theory is you don't have discovery at the certification
+
+15
+
+stage.
+
+16
+
+later stages?
+
+17
+
+One of the objections to your
+
+What if you have no new evidence to put on at
+
+MR. STERLING:
+
+It's possible that the jury
+
+18
+
+would agree with the judge who made the determination at
+
+19
+
+the class certification hearing, it's possible that the
+
+20
+
+judge -- that the jury might not.
+
+21
+
+issue, Your Honor, is a complete red herring, because
+
+22
+
+Rule 23 makes clear that the district court has ample
+
+23
+
+discretion at the class certification stage to allow
+
+24
+
+discovery into the merits to the extent that they are
+
+25
+
+relevant to the class certification issue.
+41
+
+Alderson Reporting Company
+
+But the discovery
+
+Official - Subject to Final Review
+
+1
+
+And more importantly here, the Fund never
+
+2
+
+asked for discovery.
+
+3
+
+motion for class certification on page 139A of the joint
+
+4
+
+appendix, the Fund said no discovery is needed to
+
+5
+
+resolve this motion except for expert discovery.
+
+6
+
+Fund never asked for discovery at the district court
+
+7
+
+level, the Fund never asked for discovery at the Fifth
+
+8
+
+Circuit.
+
+9
+
+wanted discovery related to the class certification
+
+10
+11
+
+In fact, when the Fund filed its
+
+The
+
+The only time they've ever hinted that they
+
+issue was at this Court.
+JUSTICE SCALIA:
+
+I thought that the whole
+
+12
+
+reason you -- you say that the class certification stage
+
+13
+
+is so significant is precisely because once the class is
+
+14
+
+certified, there will be immense discovery on the merits
+
+15
+
+of the case, which will be so expensive for defendants
+
+16
+
+that they're inclined to throw in the towel.
+
+17
+
+telling us that you -- you want to move discovery up to
+
+18
+
+the class certification stage?
+
+19
+20
+21
+22
+
+MR. STERLING:
+
+Justice Scalia, that was not
+
+my point, and I apologize if -- if it came out that way.
+JUSTICE SCALIA:
+
+I -- I -- I'm sure it
+
+wasn't your point, but -­
+
+23
+
+(Laughter.)
+
+24
+
+MR. STERLING:
+
+25
+
+Now you're
+
+All -- all -- all I was -­
+
+all I suggesting that if a plaintiff were to say, you
+42
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+know, Your Honor, to the district court, we think we -­
+
+2
+
+we can't -- we should not have the class certification
+
+3
+
+hearing yet because we need some discovery on point A,
+
+4
+
+B, C, which did not happen here, the district court can
+
+5
+
+say fine or can say I don't think you need it.
+
+But the
+
+6
+
+premise of your question is certainly correct.
+
+The
+
+7
+
+grant of class certification is a seminal event in a
+
+8
+
+10b-5 case.
+
+9
+
+defendant.
+
+10
+
+It has huge repercussions for the
+
+CHIEF JUSTICE ROBERTS:
+
+No, no, no.
+
+You -­
+
+11
+
+on page 13 of your brief you say one of the objections
+
+12
+
+to it -- to your opponents or your friends' view is that
+
+13
+
+it would just postpone the defendant's ability to rebut
+
+14
+
+the presumption, result in countless classes being
+
+15
+
+certified with the certain knowledge that they would
+
+16
+
+have to be decertified later.
+
+17
+
+then there's no in terrorem effect.
+
+18
+
+MR. STERLING:
+
+Well, if it's so certain,
+
+Just when -- that's assuming
+
+19
+
+that the defendant has the wherewithal to stick it out
+
+20
+
+through it all, but the sheer grant of class
+
+21
+
+certification which aggregates hundreds, tens,
+
+22
+
+thousands -- tens of thousands of these claims together
+
+23
+
+in one big case makes every one of these cases, in
+
+24
+
+effect, a company case, and it puts huge settlement
+
+25
+
+pressure on the defendant.
+43
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+I mean, in -- in this case Halliburton had
+
+2
+
+440 million shares of stock outstanding during the class
+
+3
+
+period.
+
+4
+
+to do the math and say that had this class been
+
+5
+
+certified, there would have been huge pressure upon
+
+6
+
+Halliburton to settle.
+
+The class period lasts 2 1/2 years.
+
+7
+
+JUSTICE BREYER:
+
+It's easy
+
+Does your rule apply in all
+
+8
+
+fraud cases?
+
+That is, a thousand farmers say,
+
+9
+
+Mr. Jackson was our common buying agent, and the
+
+10
+
+defendant lied to Mr. Jackson, and he relied on the lie.
+
+11
+
+It is a common issue whether he relied on the lie or he
+
+12
+
+didn't rely on the lie.
+
+13
+
+saying at the certification stage they have to see
+
+14
+
+whether he's really a common agent.
+
+15
+
+that's assumed.
+
+16
+
+or not rely?
+
+17
+18
+19
+20
+21
+22
+
+I can understand somebody
+
+The only question left is, did he rely
+
+Is that a question for the merits or is that
+a question for the common -- for the -­
+MR. STERLING:
+
+Basic is really an exception
+
+that applies only -­
+JUSTICE BREYER:
+
+So you're saying in the
+
+case that I just gave you reliance is for the merits?
+
+23
+
+MR. STERLING:
+
+24
+
+JUSTICE BREYER:
+
+25
+
+But let's imagine
+
+Correct, Your Honor.
+Whether he really relied or
+
+didn't rely, the common agent is for the merits?
+44
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+MR. STERLING:
+
+2
+
+JUSTICE BREYER:
+
+3
+4
+
+But you couldn't have -­
+Is that -- is that your
+
+answer is?
+MR. STERLING:
+
+No, Your Honor.
+
+You couldn't
+
+5
+
+have a case in that situation because reliance is an
+
+6
+
+individual issue.
+
+7
+
+JUSTICE BREYER:
+
+No.
+
+A thousand people say
+
+8
+
+Mr. Jackson is our common buying agent, and the
+
+9
+
+defendant lied to this common buying agent, and he
+
+10
+
+represented us.
+
+11
+
+issue of reliance in an appropriate case is for the
+
+12
+
+certification stage?
+
+Relied on that.
+
+13
+
+MR. STERLING:
+
+14
+
+JUSTICE BREYER:
+
+15
+
+MR. STERLING:
+
+16
+17
+18
+19
+
+I'm asking if you that
+
+Yes, Your Honor, because -­
+Yes.
+-- you still have everybody
+
+having to say Mr. Jackson is my agent.
+JUSTICE BREYER:
+
+That's -­
+
+And they also have to prove
+
+there is a lie?
+MR. STERLING:
+
+Right.
+
+And that's a -- but
+
+20
+
+the individualized question of reliance is simply, is
+
+21
+
+Mr. Jackson your agent or not?
+
+22
+
+no common issue that -- that predominates on reliance.
+
+23
+
+JUSTICE BREYER:
+
+24
+
+MR. STERLING:
+
+25
+
+Because of that there is
+
+Okay.
+If there are no further
+
+questions, we would ask that the judgment below be
+45
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+affirmed.
+
+2
+3
+
+Thank you.
+CHIEF JUSTICE ROBERTS:
+
+Thank you,
+
+Mr. Sterling.
+
+4
+
+Mr. Boies, you have 5 minutes remaining.
+
+5
+
+REBUTTAL ARGUMENT OF DAVID BOIES
+
+6
+
+ON BEHALF OF THE PETITIONER
+
+7
+8
+
+MR. BOIES:
+
+Thank you, Your Honor.
+
+Thank
+
+you, Mr. Chief Justice.
+
+9
+
+Let me respond to Mr. Sterling's statement
+
+10
+
+that all we had to do was show one statistically
+
+11
+
+significant price movement.
+
+12
+
+the briefing, on December 7th of 2001, the Halliburton
+
+13
+
+put out a release that indicated that their prior
+
+14
+
+statements that their asbestos reserves were -- were
+
+15
+
+adequate were not -- were not true.
+
+16
+
+42 percent, more than 42 percent.
+
+17
+
+42.4.
+
+18
+
+As the Court is aware from
+
+The stock dropped
+The actual drop was
+
+Expert witnesses calculated that the
+
+19
+
+company's specific drop was slightly larger than that
+
+20
+
+because the market was generally going up that day.
+
+21
+
+it was a dramatic drop.
+
+22
+
+But
+
+Their own expert, as is indicated in the
+
+23
+
+briefing, agreed that there wasn't anything else
+
+24
+
+happening that day other than asbestos news, and so -­
+
+25
+
+CHIEF JUSTICE ROBERTS:
+46
+
+Alderson Reporting Company
+
+So you win, so you
+
+Official - Subject to Final Review
+
+1
+
+win at the certification stage or at the pleading stage,
+
+2
+
+whatever.
+
+3
+
+So why is it such I big deal to you here?
+MR. BOIES:
+
+Because under the -- the Fifth
+
+4
+
+Circuit rule, I understand that counsel disavows the
+
+5
+
+actual language of the Fifth Circuit rule, but it was
+
+6
+
+that language that the district court relied on in
+
+7
+
+failing to certify the class.
+
+8
+
+respect to the Fifth Circuit test, what the Fifth
+
+9
+
+Circuit says is that because the announcement on
+
+And with -- with -- with
+
+10
+
+December 7th did not specifically reference the prior
+
+11
+
+announcements, it cannot be considered a correction of
+
+12
+
+those prior announcements.
+
+13
+
+Indeed, the court, the Fifth Circuit goes
+
+14
+
+even further, and this is at page 338 of the F. Supp.
+
+15
+
+opinion.
+
+16
+
+decide whether the corrective disclosure more probably
+
+17
+
+than not shows that the original estimates or
+
+18
+
+predictions were designed to defraud.
+
+19
+
+It says, quote:
+
+The district court must
+
+So what the Fifth Circuit is doing is it's
+
+20
+
+bringing, even the defrauding aspect, not just the
+
+21
+
+falsity aspect, but the defrauding aspect right into the
+
+22
+
+class certification stage.
+
+23
+
+And I think Justice Scalia's question was
+
+24
+
+exactly on point with respect to discovery, because
+
+25
+
+either they're going to make these merits decisions
+47
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+without discovery or you're going to have all of the
+
+2
+
+discovery before you have the class certification.
+
+3
+
+got to be one or the other.
+
+4
+
+happening is you're converting what Rule 23 says is an
+
+5
+
+issue as to whether common issues predominate into an
+
+6
+
+issue as to what is the strength of the merits claim
+
+7
+
+that the plaintiff has, and while it is true, reliance
+
+8
+
+is part of the merits claim.
+
+9
+
+It's
+
+And in either case what is
+
+The reason reliance is different is because
+
+10
+
+reliance, if it -- if there is no reliance, if there's
+
+11
+
+no efficient market, then reliance can make individual
+
+12
+
+issues predominate, but when the only issue is not a
+
+13
+
+step issue like efficient market, but is a direct merits
+
+14
+
+issue, there isn't any way that you can make individual
+
+15
+
+issues predominate regardless of how you decide it; and
+
+16
+
+loss causation and price distortion are both those kind
+
+17
+
+of common issues; and counsel says he doesn't defend
+
+18
+
+the -- the actual loss causation statements of the -- of
+
+19
+
+the -- of the Fifth Circuit, and what I would ask is
+
+20
+
+whether the Court, if the Court does decide to send it
+
+21
+
+back, that the Court look at what the right standard is
+
+22
+
+for the court below to be applying when it deals with
+
+23
+
+class certification.
+
+24
+25
+
+And I would urge the Court that when you
+have pleadings, summary judgment, and trial tests for
+48
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+1
+
+merits questions, then you don't need another merits
+
+2
+
+test on -- at the class certification stage, even if
+
+3
+
+Rule 23 permitted it, which we don't think it does.
+
+4
+
+What Rule 23 is designed to do is simply say are
+
+5
+
+individual issues or common issues going to predominate?
+
+6
+
+And all of the class have the same loss causation, have
+
+7
+
+the same price distortion issues.
+
+8
+9
+
+If the Court has no more questions, that
+completes my argument.
+
+10
+11
+12
+13
+
+CHIEF JUSTICE ROBERTS:
+counsel.
+
+Thank you, counsel,
+
+The case is submitted.
+(Whereupon, at 10:58 a.m., the case in the
+
+above-entitled matter was submitted.)
+
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+49
+
+Alderson Reporting Company
+
+
