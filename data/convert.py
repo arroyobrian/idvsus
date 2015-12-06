@@ -37,6 +37,6 @@ def shellquote(s):
 baseCommand = "pdftotext"
 for pdf in pdfs:
     finPdf = shellquote('' + pdf)[1:-1]
-    fileDest = "%s%s" % (finPdf[:-4], ".txt")
+    fileDest = "%s%s" % ('cut_' + finPdf[:-4], ".txt")
     call([baseCommand, finPdf, fileDest])
 
