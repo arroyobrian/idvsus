@@ -18,7 +18,7 @@ pdfs = filter(lambda File: File[-4:] == fileExt, fileList)
 
     #pageNum = inputFile.getNumPages()
 
-    #for i in xrange(2, pageNum-10):
+    #for i in xrange(0, pageNum-10):
         #outputFile.addPage(inputFile.getPage(i))
 
     #outStream = file("cut_" + pdf, 'wb')
@@ -35,8 +35,11 @@ def shellquote(s):
 # THIS PART REQUIRES THE LINUX CMDLINE TOOL pdftotext!!!
 # DNR otherwise!
 baseCommand = "pdftotext"
+pdfs = filter(lambda pdf : pdf[:4] == 'cut_', pdfs)
 for pdf in pdfs:
     finPdf = shellquote('' + pdf)[1:-1]
-    fileDest = "%s%s" % ('cut_' + finPdf[:-4], ".txt")
-    call([baseCommand, finPdf, fileDest])
+    fileDest = "%s%s" % (finPdf[:-4], ".txt")
+    encodeCmd = "-enc"
+    codec = "Latin1"
+    call([baseCommand, encodeCmd, codec, finPdf, fileDest])
 

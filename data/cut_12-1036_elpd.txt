@@ -2,1636 +2,1525 @@ Official
 
 1
 
- IN THE SUPREME COURT OF THE UNITED STATES 
+ IN THE SUPREME COURT OF THE UNITED STATES 
 
 2
 
-­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+                 x 
 
 3
 
-MISSISSIPPI, EX REL. JIM HOOD,    : 
+MISSISSIPPI, EX REL. JIM HOOD,    : 
 
 4
 
-ATTORNEY GENERAL,                 : 
+ATTORNEY GENERAL,                 : 
 
 5
 
- Petitioner 
+ Petitioner 
 
 6
 
- v. 
+ v. 
 
-          :  No. 12­1036 
+          :  No. 121036 
 
-                       : 
+                       : 
 
 7
 
-AU OPTRONICS CORPORATION, ET AL.  : 
+AU OPTRONICS CORPORATION, ET AL.  : 
 
 8
 
-­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+                 x 
 
 9
 
- Washington, D.C. 
+ Washington, D.C. 
 
 10
 11
 
- Wednesday, November 6, 2013 
- 
+ Wednesday, November 6, 2013 
+ 
 
 12
 
- The above­entitled matter came on for oral 
+ The aboveentitled matter came on for oral 
 
 13
 
-argument before the Supreme Court of the United States 
+argument before the Supreme Court of the United States 
 
 14
 
-at 11:06 a.m. 
+at 11:06 a.m. 
 
 15
 
-APPEARANCES: 
+APPEARANCES: 
 
 16
 
-JONATHAN S. MASSEY, ESQ., Washington, D.C.; on behalf of 
+JONATHAN S. MASSEY, ESQ., Washington, D.C.; on behalf of 
 
 17
 18
 19
 
- Petitioner. 
-CHRISTOPHER M. CURRAN, ESQ., Washington, D.C.; on behalf 
- of Respondents. 
+ Petitioner. 
+CHRISTOPHER M. CURRAN, ESQ., Washington, D.C.; on behalf 
+ of Respondents. 
 
 20
 
- 
+ 
 
 21
 
- 
+ 
 
 22
 
- 
+ 
 
 23
 
- 
+ 
 
 24
 
- 
+ 
 
 25
 
 1
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- C O N T E N T S 
+ C O N T E N T S 
 
 2
 
-ORAL ARGUMENT OF                                  PAGE 
+ORAL ARGUMENT OF                                  PAGE 
 
 3
 
-JONATHAN S. MASSEY, ESQ. 
+JONATHAN S. MASSEY, ESQ. 
 
 4
 
- On behalf of the Petitioner 
+ On behalf of the Petitioner 
 
 5
 
-ORAL ARGUMENT OF 
+ORAL ARGUMENT OF 
 
 6
 
-CHRISTOPHER M. CURRAN, ESQ. 
+CHRISTOPHER M. CURRAN, ESQ. 
 
 7
 
- On behalf of the Respondents 
+ On behalf of the Respondents 
 
 8
 
-REBUTTAL ARGUMENT OF 
+REBUTTAL ARGUMENT OF 
 
 9
 
-JONATHAN S. MASSEY, ESQ. 
+JONATHAN S. MASSEY, ESQ. 
 
 10
 
- On behalf of the Petitioner 
+ On behalf of the Petitioner 
 
 11
 
- 
+ 
 
 12
 
- 
+ 
 
 13
 
- 
+ 
 
 14
 
- 
+ 
 
 15
 
- 
+ 
 
 16
 
- 
+ 
 
 17
 
- 
+ 
 
 18
 
- 
+ 
 
 19
 
- 
+ 
 
 20
 
- 
+ 
 
 21
 
- 
+ 
 
 22
 
- 
+ 
 
 23
 
- 
+ 
 
 24
 
- 
+ 
 
-                    3 
+                    3 
 
-                   26 
+                   26 
 
-                    52 
+                    52 
 
 25
 
 2
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- P R O C E E D I N G S 
+ P R O C E E D I N G S 
 
 2
 3
 
- (11:06 a.m.) 
- CHIEF JUSTICE ROBERTS: 
+ (11:06 a.m.) 
+ CHIEF JUSTICE ROBERTS: 
 
-We'll hear argument 
+We'll hear argument 
 
 4
 
-next today in Case 12­1036, Mississippi v. AU Optronics 
+next today in Case 121036, Mississippi v. AU Optronics 
 
 5
 
-Corporation. 
+Corporation. 
 
 6
 
- Mr. Massey. 
+ Mr. Massey. 
 
 7
 
- ORAL ARGUMENT OF JONATHAN S. MASSEY 
+ ORAL ARGUMENT OF JONATHAN S. MASSEY 
 
 8
 9
 10
 11
 
- ON BEHALF OF THE PETITIONER 
- MR. MASSEY: 
+ ON BEHALF OF THE PETITIONER 
+ MR. MASSEY: 
 
-Thank you, Mr. Chief Justice, 
+Thank you, Mr. Chief Justice, 
 
-and may it please the Court: 
- The text and structure of the Class Action 
+and may it please the Court: 
+ The text and structure of the Class Action 
 
 12
 
-Fairness Act of 2005, which is known as CAFA, show that 
+Fairness Act of 2005, which is known as CAFA, show that 
 
 13
 
-it does not extend to State parens patriae actions.  If 
+it does not extend to State parens patriae actions.  If 
 
 14
 
-there are any doubt on the matter, CAFA would have to be 
+there are any doubt on the matter, CAFA would have to be 
 
 15
 
-narrowly construed as a matter of the principles of 
+narrowly construed as a matter of the principles of 
 
 16
 
-federalism that are at issue here, as evidenced by the 
+federalism that are at issue here, as evidenced by the 
 
 17
 
-46 States supporting Mississippi before the Court. 
+46 States supporting Mississippi before the Court. 
 
 18
 
- The disposition of the case today, we 
+ The disposition of the case today, we 
 
 19
 
-believe, is straightforward.  There is only one 
+believe, is straightforward.  There is only one 
 
 20
 
-plaintiff in this case, the State of Mississippi.  It is 
+plaintiff in this case, the State of Mississippi.  It is 
 
 21
 
-not a citizen for purposes of diversity jurisdiction, 
+not a citizen for purposes of diversity jurisdiction, 
 
 22
 
-and therefore, the requirements of even minimal 
+and therefore, the requirements of even minimal 
 
 23
 
-diversity, let alone the 100­person numerosity 
+diversity, let alone the 100person numerosity 
 
 24
 
-requirement of CAFA, cannot be met. 
+requirement of CAFA, cannot be met. 
 
 25
 
- Our friends on the other side want to use
+ Our friends on the other side want to use
 
 3
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
-the statute of CAFA to change that result.  The mass 
+the statute of CAFA to change that result.  The mass 
 
 2
 
-action definition is the key part of the statute issued 
+action definition is the key part of the statute issued 
 
 3
 
-today.  It is in the Joint Appendix at pages 79 to 80. 
+today.  It is in the Joint Appendix at pages 79 to 80. 
 
 4
 
- Essentially, the attempt to force State 
+ Essentially, the attempt to force State 
 
 5
 
-actions into the mass action definition is a 
+actions into the mass action definition is a 
 
 6
 
-square­peg­round­hole kind of problem.  The mass action 
+squarepegroundhole kind of problem.  The mass action 
 
 7
 
-definition addresses the situation of mass consolidation 
+definition addresses the situation of mass consolidation 
 
 8
 
-or mass joinder, when there are 100 individual 
+or mass joinder, when there are 100 individual 
 
 9
 
-plaintiffs or more in a case.  And CAFA provides that 
+plaintiffs or more in a case.  And CAFA provides that 
 
 10
 11
 
-there's Federal jurisdiction over such a case. 
- But that does not apply to this situation. 
+there's Federal jurisdiction over such a case. 
+ But that does not apply to this situation. 
 
 12
 
-CAFA refers to real plaintiffs asserting concrete claims 
+CAFA refers to real plaintiffs asserting concrete claims 
 
 13
 
-and further provides that those claims must be proposed 
+and further provides that those claims must be proposed 
 
 14
 
-to be tried jointly.  None of that happens in a parens 
+to be tried jointly.  None of that happens in a parens 
 
 15
 
-patriae case, where the State is the only Plaintiff. 
+patriae case, where the State is the only Plaintiff. 
 
 16
 
- JUSTICE GINSBURG: 
+ JUSTICE GINSBURG: 
 
-Mr. Massey, with respect 
+Mr. Massey, with respect 
 
 17
 
-to that, there is a claim for restitution.  I take it, 
+to that, there is a claim for restitution.  I take it, 
 
 18
 
-if the suit is successful, the money that's collected 
+if the suit is successful, the money that's collected 
 
 19
 
-will be distributed to all the people who are affected 
+will be distributed to all the people who are affected 
 
 20
 
-by this conduct. 
+by this conduct. 
 
 21
 
- MR. MASSEY: 
+ MR. MASSEY: 
 
-Well, Justice Ginsburg, that's 
+Well, Justice Ginsburg, that's 
 
 22
 
-very unlikely in this case.  The Plaintiffs ­­ the 
+very unlikely in this case.  The Plaintiffs  the 
 
 23
 
-Plaintiff in this case is the State of Mississippi.  The 
+Plaintiff in this case is the State of Mississippi.  The 
 
 24
 
-consumers of Mississippi have already sued in an 
+consumers of Mississippi have already sued in an 
 
 25
 
-indirect purchaser action that has been settled.  So
+indirect purchaser action that has been settled.  So
 
 4
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 2
 
-they have received compensation. 
- The State does have a restitution claim 
+they have received compensation. 
+ The State does have a restitution claim 
 
 3
 
-here.  Your Honor is correct.  And at page 65(a) of 
+here.  Your Honor is correct.  And at page 65(a) of 
 
 4
 
-the ­­ of the response to opposition of the Orange 
+the  of the response to opposition of the Orange 
 
 5
 
-Briefs, 65(a) describes the restitution claim. 
+Briefs, 65(a) describes the restitution claim. 
 
 6
 
- The restitution claim seeks recovery to the 
+ The restitution claim seeks recovery to the 
 
 7
 
-State of the money, not to consumers in Mississippi. 
+State of the money, not to consumers in Mississippi. 
 
 8
 
-And what's likely to happen here ­­ and, frankly, what 
+And what's likely to happen here  and, frankly, what 
 
 9
 
-happens very frequently when the Federal Trade 
+happens very frequently when the Federal Trade 
 
 10
 
-Commission or the Securities and Exchange Commission or 
+Commission or the Securities and Exchange Commission or 
 
 11
 
-any other State or agency seeks restitution, the money 
+any other State or agency seeks restitution, the money 
 
 12
 
-is recovered by the State. 
+is recovered by the State. 
 
 13
 
- And in a case like this, where it is very 
+ And in a case like this, where it is very 
 
 14
 
-difficult to trace the individuals, the consumers who've 
+difficult to trace the individuals, the consumers who've 
 
 15
 
-been hurt ­­ after all, we're talking an LCD 
+been hurt  after all, we're talking an LCD 
 
 16
 
-price­fixing conspiracy.  So every television, computer 
+pricefixing conspiracy.  So every television, computer 
 
 17
 
-monitor, phone, toy, digital camera, car navigation 
+monitor, phone, toy, digital camera, car navigation 
 
 18
 
-system, there are no records, obviously, of who 
+system, there are no records, obviously, of who 
 
 19
 
-purchased them, and it would cost so much money to 
+purchased them, and it would cost so much money to 
 
 20
 
-identify them ­­
+identify them 
 
 21
 
- JUSTICE KENNEDY: 
+ JUSTICE KENNEDY: 
 
 22
 
-$10,000 for each one? 
+$10,000 for each one? 
 
 23
 
- MR. MASSEY: 
+ MR. MASSEY: 
 
 24
 
- JUSTICE KENNEDY: 
+ JUSTICE KENNEDY: 
 
 25
 
-And you're asking for 
+And you're asking for 
 
-Pardon me, Your Honor? 
-You're asking for $10,000 
+Pardon me, Your Honor? 
+You're asking for $10,000 
 
-for each one?
+for each one?
 
 5
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- MR. MASSEY: 
+ MR. MASSEY: 
 
-Well, the ­­ the complaint does 
+Well, the  the complaint does 
 
 2
 
-pray that.  As the case goes forward, the Attorney 
+pray that.  As the case goes forward, the Attorney 
 
 3
 
-General ­­ and subject to all the procedures that occur 
+General  and subject to all the procedures that occur 
 
 4
 
-in Mississippi, will have to make a judgment about how 
+in Mississippi, will have to make a judgment about how 
 
 5
 
-that money is to be distributed. 
+that money is to be distributed. 
 
 6
 
- In the past, what I can tell you ­­
+ In the past, what I can tell you 
 
 7
 
- JUSTICE SOTOMAYOR: 
+ JUSTICE SOTOMAYOR: 
 
-Let's assume a case 
+Let's assume a case 
 
 8
 
-where ­­ forget about that the consumer action was 
+where  forget about that the consumer action was 
 
 9
 
-settled.  And let's forget about a case in which the 
+settled.  And let's forget about a case in which the 
 
 10
 
-damages are difficult to prove. 
+damages are difficult to prove. 
 
 11
 
- MR. MASSEY: 
+ MR. MASSEY: 
 
 12
 
- JUSTICE SOTOMAYOR: 
+ JUSTICE SOTOMAYOR: 
 
-Yes. 
-Let's think of a case in 
+Yes. 
+Let's think of a case in 
 
 13
 
-which the damages can be determined, and the State comes 
+which the damages can be determined, and the State comes 
 
 14
 
-in on behalf of a class of consumers and says, we're 
+in on behalf of a class of consumers and says, we're 
 
 15
 
-seeking their restitution.  Does your argument change if 
+seeking their restitution.  Does your argument change if 
 
 16
 
-the facts are different? 
+the facts are different? 
 
 17
 
- MR. MASSEY: 
+ MR. MASSEY: 
 
-Our argument does not change. 
+Our argument does not change. 
 
 18
 
-I would say, in our case, the State ­­ just to be clear 
+I would say, in our case, the State  just to be clear 
 
 19
 
-about restitution ­­ the State is proceeding under 
+about restitution  the State is proceeding under 
 
 20
 
-statutes that gives the ­­ the State the only cause of 
+statutes that gives the  the State the only cause of 
 
 21
 
-action.  Only the State can sue under these provisions. 
+action.  Only the State can sue under these provisions. 
 
 22
 
-If the State ­­ the ­­ the consumers have separate 
+If the State  the  the consumers have separate 
 
 23
 
-damages statutes.  The consumers would sue under 
+damages statutes.  The consumers would sue under 
 
 24
 
-separate statutes in a different court. 
+separate statutes in a different court. 
 
 25
 
- So the ­­ the ­­ in a different court,
+ So the  the  in a different court,
 
 6
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
-meaning in Mississippi, that would have to be in a 
+meaning in Mississippi, that would have to be in a 
 
 2
 
-circuit court, court of law, as opposed to a court of 
+circuit court, court of law, as opposed to a court of 
 
 3
 
-equity.  But if a State were to seek restitution and to 
+equity.  But if a State were to seek restitution and to 
 
 4
 
-distribute it to consumers, just to be clear, our 
+distribute it to consumers, just to be clear, our 
 
 5
 
-argument would not change because restitution is still a 
+argument would not change because restitution is still a 
 
 6
 
-public remedy. 
+public remedy. 
 
 7
 8
 9
 
- And for years ­­ for decades, Federal 
-agencies and States have ­­
- JUSTICE SOTOMAYOR: 
+ And for years  for decades, Federal 
+agencies and States have 
+ JUSTICE SOTOMAYOR: 
 
-So is this a real 
+So is this a real 
 
 10
 
-party­in­interest argument, or is it a statutory 
+partyininterest argument, or is it a statutory 
 
 11
 
-argument that ­­
+argument that 
 
 12
 
- MR. MASSEY: 
+ MR. MASSEY: 
 
 13
 
- JUSTICE SOTOMAYOR: 
+ JUSTICE SOTOMAYOR: 
 
-It is ­­
-­­ the statute requires 
+It is 
+ the statute requires 
 
 14
 
-named plaintiffs as opposed to ­­ named or unnamed 
+named plaintiffs as opposed to  named or unnamed 
 
 15
 
-plaintiffs, but plaintiffs. 
+plaintiffs, but plaintiffs. 
 
 16
 
- MR. MASSEY: 
+ MR. MASSEY: 
 
-Yes, named plaintiffs.  The ­­
+Yes, named plaintiffs.  The 
 
 17
 
-the simplest resolution of the case is simply a 
+the simplest resolution of the case is simply a 
 
 18
 
-statutory argument, that, on its face, the mass action 
+statutory argument, that, on its face, the mass action 
 
 19
 
-definition refers to plaintiffs.  The only plaintiff is 
+definition refers to plaintiffs.  The only plaintiff is 
 
 20
 
-the State.  Even if the State has statutory authority to 
+the State.  Even if the State has statutory authority to 
 
 21
 
-seek restitution, it is still the only plaintiff. 
+seek restitution, it is still the only plaintiff. 
 
 22
 
- So you would not even need to get into the 
+ So you would not even need to get into the 
 
 23
 
-real party­in­interest test because the statute doesn't 
+real partyininterest test because the statute doesn't 
 
 24
 
-refer to unnamed parties or to people who might be real 
+refer to unnamed parties or to people who might be real 
 
 25
 
-parties in interest.  It refers simply to the
+parties in interest.  It refers simply to the
 
 7
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
-plaintiffs. 
+plaintiffs. 
 
 2
 
- So it's simple ­­
+ So it's simple 
 
 3
 
- JUSTICE ALITO: 
+ JUSTICE ALITO: 
 
 4
 
-reference to persons? 
+reference to persons? 
 
 5
 
- MR. MASSEY: 
+ MR. MASSEY: 
 
-What do you do with 
+What do you do with 
 
-Yes, Your Honor.  There is a 
+Yes, Your Honor.  There is a 
 
 6
 
-reference to persons in the mass action definition.  It 
+reference to persons in the mass action definition.  It 
 
 7
 
-occurs ­­ we believe, very strongly, that it 
+occurs  we believe, very strongly, that it 
 
 8
 
-equates ­­ that ­­ that section continues and equates 
+equates  that  that section continues and equates 
 
 9
 
-persons with plaintiffs, and that the statute, in fact, 
+persons with plaintiffs, and that the statute, in fact, 
 
 10
 
-wouldn't ­­ would be absurd if it didn't because it 
+wouldn't  would be absurd if it didn't because it 
 
 11
 
-refers to the monetary claims of 100 or more persons, as 
+refers to the monetary claims of 100 or more persons, as 
 
 12
 
-Your Honor has noted. 
+Your Honor has noted. 
 
 13
 
- But then it says, "that are proposed to be 
+ But then it says, "that are proposed to be 
 
 14
 
-tried jointly on the ground that the plaintiffs' claims 
+tried jointly on the ground that the plaintiffs' claims 
 
 15
 
-involve common questions of law or fact."  Those two 
+involve common questions of law or fact."  Those two 
 
 16
 
-sets have to mean the same thing; otherwise, it doesn't 
+sets have to mean the same thing; otherwise, it doesn't 
 
 17
 
-make any sense. 
+make any sense. 
 
 18
 
- And furthermore, there are severe practical 
+ And furthermore, there are severe practical 
 
 19
 
-problems that support our sort of 
+problems that support our sort of 
 
 20
 
-square­peg­and­round­hole problem. 
+squarepegandroundhole problem. 
 
 21
 
- JUSTICE ALITO: 
+ JUSTICE ALITO: 
 
 22
 
- MR. MASSEY: 
+ MR. MASSEY: 
 
 23
 
- JUSTICE ALITO: 
+ JUSTICE ALITO: 
 
-Well, I ­­ I realize that. 
-Yes. 
-But I'm not sure why that ­­
+Well, I  I realize that. 
+Yes. 
+But I'm not sure why that 
 
 24
 
-why it wouldn't make sense to read two different terms 
+why it wouldn't make sense to read two different terms 
 
 25
 
-in the same sentence to mean two different things.
+in the same sentence to mean two different things.
 
 8
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- MR. MASSEY: 
+ MR. MASSEY: 
 
 2
 
- JUSTICE ALITO: 
+ JUSTICE ALITO: 
 
-Well ­­
-The persons could be here, 
+Well 
+The persons could be here, 
 
 3
 
-the citizens of Mississippi, who were damaged by the 
+the citizens of Mississippi, who were damaged by the 
 
 4
 
-activity in question.  The plaintiff ­­ plaintiffs, 
+activity in question.  The plaintiff  plaintiffs, 
 
 5
 
-here, there's one named plaintiff.  The plaintiffs can 
+here, there's one named plaintiff.  The plaintiffs can 
 
 6
 
-refer to ­­ to the person or entity or multiple people 
+refer to  to the person or entity or multiple people 
 
 7
 
-or entities who were named as plaintiffs. 
+or entities who were named as plaintiffs. 
 
 8
 9
 10
 
- So why ­­ I don't see what the inconsistency 
-is. 
- MR. MASSEY: 
+ So why  I don't see what the inconsistency 
+is. 
+ MR. MASSEY: 
 
-Well, because ­­ we think that 
+Well, because  we think that 
 
 11
 
-our reading is better because, if you're applying the 
+our reading is better because, if you're applying the 
 
 12
 
-common question test, not to the persons who were in the 
+common question test, not to the persons who were in the 
 
 13
 
-case, those abstract unnamed, unknown consumers, you're 
+case, those abstract unnamed, unknown consumers, you're 
 
 14
 
-not inquiring as to what their claims might be, you're 
+not inquiring as to what their claims might be, you're 
 
 15
 
-applying the common question test only to the plaintiff, 
+applying the common question test only to the plaintiff, 
 
 16
 
-how could that ­­ how could that produce an 
+how could that  how could that produce an 
 
 17
 
-administrable result?  You could have consumers ­­ you 
+administrable result?  You could have consumers  you 
 
 18
 
-never ­­ you would never know whether they presented 
+never  you would never know whether they presented 
 
 19
 
-common questions. 
+common questions. 
 
 20
 
- And that ­­ that can't be what Congress was 
+ And that  that can't be what Congress was 
 
 21
 
-thinking of because, then, you would have a license for 
+thinking of because, then, you would have a license for 
 
 22
 
-an unadministrable ­­ this is clearly a reference to the 
+an unadministrable  this is clearly a reference to the 
 
 23
 
-kind of Rule 23 inquiry where, as this Court has 
+kind of Rule 23 inquiry where, as this Court has 
 
 24
 
-emphasized in class action case after class action case, 
+emphasized in class action case after class action case, 
 
 25
 
-there has to be a rigorous analysis to ensure that there
+there has to be a rigorous analysis to ensure that there
 
 9
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
-are actual common questions based on the ­­ the actual 
+are actual common questions based on the  the actual 
 
 2
 
-claims asserted. 
+claims asserted. 
 
 3
 
- And ­­ and we think that there's ­­ that any 
+ And  and we think that there's  that any 
 
 4
 
-other reading produces confusion, not just in this 
+other reading produces confusion, not just in this 
 
 5
 
-section, but also in the remand section ­­ the $75,000 
+section, but also in the remand section  the $75,000 
 
 6
 
-remand section of the statute.  CAFA provides that, if a 
+remand section of the statute.  CAFA provides that, if a 
 
 7
 
-claim does not make ­­ does not reach the amount in 
+claim does not make  does not reach the amount in 
 
 8
 
-controversy requirement, it has to be remanded to State 
+controversy requirement, it has to be remanded to State 
 
 9
 
-court. 
+court. 
 
 10
 
- CHIEF JUSTICE ROBERTS: 
+ CHIEF JUSTICE ROBERTS: 
 
-What if you have an 
+What if you have an 
 
 11
 
-executor, and he's administering an estate in which 100 
+executor, and he's administering an estate in which 100 
 
 12
 
-people have equal shares to the estate, and the estate 
+people have equal shares to the estate, and the estate 
 
 13
 
-has a claim.  And he brings it on behalf of the estate. 
+has a claim.  And he brings it on behalf of the estate. 
 
 14
 
-Now, is that covered as a mass action or ­­ or not? 
+Now, is that covered as a mass action or  or not? 
 
 15
 
- MR. MASSEY: 
+ MR. MASSEY: 
 
-That, of course, is a different 
+That, of course, is a different 
 
 16
 
-case when it is not involving the government.  But we 
+case when it is not involving the government.  But we 
 
 17
 
-think Navarro would, essentially, address that 
+think Navarro would, essentially, address that 
 
 18
 
-situation. 
+situation. 
 
 19
 
- That's this Court's decision in 1980 that 
+ That's this Court's decision in 1980 that 
 
 20
 
-held that the trustees of a business trust were the sole 
+held that the trustees of a business trust were the sole 
 
 21
 
-real parties in interest and that the beneficiaries were 
+real parties in interest and that the beneficiaries were 
 
 22
 
-not, even though they stood to get money as a result of 
+not, even though they stood to get money as a result of 
 
 23
 
-the action, so I think that would address Your Honor's 
+the action, so I think that would address Your Honor's 
 
 24
 
-question. 
+question. 
 
 25
 
- The text of the statute still would refer to
+ The text of the statute still would refer to
 
 10
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
-"plaintiff."  So you would inquire, in that instance, 
+"plaintiff."  So you would inquire, in that instance, 
 
 2
 
-whether under State law ­­ this is what happened in 
+whether under State law  this is what happened in 
 
 3
 
-Navarro ­­ the Court inquired, does the executor have 
+Navarro  the Court inquired, does the executor have 
 
 4
 
-the legal authority to represent the beneficiaries as 
+the legal authority to represent the beneficiaries as 
 
 5
 
-the sole plaintiff? 
+the sole plaintiff? 
 
 6
 
- And if he or she does, then you would have 
+ And if he or she does, then you would have 
 
 7
 
-the single plaintiff situation, and you would not be 
+the single plaintiff situation, and you would not be 
 
 8
 
-under CAFA. 
+under CAFA. 
 
 9
 
- JUSTICE GINSBURG: 
+ JUSTICE GINSBURG: 
 
-Mr. Massey, you envision 
+Mr. Massey, you envision 
 
 10
 
-one proceeding, it could be a class action on behalf of 
+one proceeding, it could be a class action on behalf of 
 
 11
 
-the individuals, that doesn't require everybody  that 
+the individuals, that doesn't require everybody  that 
 
 12
 
-satisfy the amount in controversy, and then this action 
+satisfy the amount in controversy, and then this action 
 
 13
 
-by the Attorney General, which does, among other things, 
+by the Attorney General, which does, among other things, 
 
 14
 
-seek restitution. 
+seek restitution. 
 
 15
 
- Isn't there an overlap between those two 
+ Isn't there an overlap between those two 
 
 16
 
-claims?  And how do we sort out ­­ you said ­­ at one 
+claims?  And how do we sort out  you said  at one 
 
 17
 
-point, I think you described the restitution as 
+point, I think you described the restitution as 
 
 18
 
-"disgorgement of ill­gotten gains." 
+"disgorgement of illgotten gains." 
 
 19
 
- MR. MASSEY: 
+ MR. MASSEY: 
 
 20
 
- JUSTICE GINSBURG: 
+ JUSTICE GINSBURG: 
 
-Yes, Your Honor. 
-But, now, we have the 
+Yes, Your Honor. 
+But, now, we have the 
 
 21
 
-consumers who were affected, they've already been paid. 
+consumers who were affected, they've already been paid. 
 
 22
 
-So how does it work for the Attorney General's suit? 
+So how does it work for the Attorney General's suit? 
 
 23
 
-What is the impact of the class action that has already 
+What is the impact of the class action that has already 
 
 24
 
-gone forward and been completed on the Attorney 
+gone forward and been completed on the Attorney 
 
 25
 
-General's claim?
+General's claim?
 
 11
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- MR. MASSEY: 
+ MR. MASSEY: 
 
 2
 
- The ­­ when the MDL judge entered the 
+ The  when the MDL judge entered the 
 
-Yes, Your Honor. 
+Yes, Your Honor. 
 
 3
 
-settlement in the class, she indicated her view that it 
+settlement in the class, she indicated her view that it 
 
 4
 
-would not preclude a parens case.  Of course, it's open 
+would not preclude a parens case.  Of course, it's open 
 
 5
 
-on remand for the defendants to argue that the consumer 
+on remand for the defendants to argue that the consumer 
 
 6
 
-settlement bars the Attorney General's action.  That 
+settlement bars the Attorney General's action.  That 
 
 7
 
-will have to be adjudicated on the merits in 
+will have to be adjudicated on the merits in 
 
 8
 
-Mississippi. 
+Mississippi. 
 
 9
 
- States are free to adopt different rules 
+ States are free to adopt different rules 
 
 10
 
-about this.  There is no case that we have found in 
+about this.  There is no case that we have found in 
 
 11
 
-Mississippi squarely addressing this.  There have been a 
+Mississippi squarely addressing this.  There have been a 
 
 12
 
-dozen or so parens cases over the last 10 years. 
+dozen or so parens cases over the last 10 years. 
 
 13
 
- There is a case, though, from the State of 
+ There is a case, though, from the State of 
 
 14
 
-Washington, which is illustrative.  It's actually on 
+Washington, which is illustrative.  It's actually on 
 
 15
 
-page 35 of the Red Brief ­­ from our friend's brief, and 
+page 35 of the Red Brief  from our friend's brief, and 
 
 16
 
-it's a case from the Washington Supreme Court in 1976, 
+it's a case from the Washington Supreme Court in 1976, 
 
 17
 
-called Ralph Winters Chrysler Plymouth. 
+called Ralph Winters Chrysler Plymouth. 
 
 18
 
- In that case, the Washington Supreme Court 
+ In that case, the Washington Supreme Court 
 
 19
 
-encountered the situation where the State had sought 
+encountered the situation where the State had sought 
 
 20
 
-restitution on behalf of consumers and sought to 
+restitution on behalf of consumers and sought to 
 
 21
 
-distribute the money to consumers, and consumers also 
+distribute the money to consumers, and consumers also 
 
 22
 
-brought separate damages actions. 
+brought separate damages actions. 
 
 23
 
- And the Washington court said, there was no 
+ And the Washington court said, there was no 
 
 24
 
-double recovery, no preclusion problem, because the 
+double recovery, no preclusion problem, because the 
 
 25
 
-restitution remedies were public in nature, and the
+restitution remedies were public in nature, and the
 
 12
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
-private damages actions proceeded under different 
+private damages actions proceeded under different 
 
 2
 
-statutory authority for different claims. 
+statutory authority for different claims. 
 
 3
 
- And whether Mississippi would adopt that 
+ And whether Mississippi would adopt that 
 
 4
 
-approach, I don't know.  But that illustrates, I think, 
+approach, I don't know.  But that illustrates, I think, 
 
 5
 
-ultimately, that these are questions of State law, and 
+ultimately, that these are questions of State law, and 
 
 6
 
-there is a longstanding tradition of restitution being a 
+there is a longstanding tradition of restitution being a 
 
 7
 
-public remedy. 
+public remedy. 
 
 8
 9
 
- After all, the government ­­ we've cited 
-some cases in the brief involving everything from rent 
+ After all, the government  we've cited 
+some cases in the brief involving everything from rent 
 
 10
 
-control to energy price regulation.  The government 
+control to energy price regulation.  The government 
 
 11
 
-brings ­­ the Federal government, as well as State 
+brings  the Federal government, as well as State 
 
 12
 
-governments, has brought restitution actions where it 
+governments, has brought restitution actions where it 
 
 13
 
-has not returned money to consumers, has sometimes 
+has not returned money to consumers, has sometimes 
 
 14
 
-done ­­ also sometimes has returned money, has ­­ but in 
+done  also sometimes has returned money, has  but in 
 
 15
 
-all those cases, consumers never participate.  They are 
+all those cases, consumers never participate.  They are 
 
 16
 
-never permitted to intervene. 
+never permitted to intervene. 
 
 17
 
- CHIEF JUSTICE ROBERTS: 
+ CHIEF JUSTICE ROBERTS: 
 
-Well, it would 
+Well, it would 
 
 18
 
-make ­­ it would make no sense for a defendant in a 
+make  it would make no sense for a defendant in a 
 
 19
 
-class action brought by consumers to ever settle the 
+class action brought by consumers to ever settle the 
 
 20
 
-case.  It's going to have to pay twice.  It's going to 
+case.  It's going to have to pay twice.  It's going to 
 
 21
 
-have to pay consumers, and then it's going to have to 
+have to pay consumers, and then it's going to have to 
 
 22
 
-pay you because you can, say, well, we want restitution, 
+pay you because you can, say, well, we want restitution, 
 
 23
 
-and we are not going to distribute it to the class 
+and we are not going to distribute it to the class 
 
 24
 
-members, but we're entitled to it. 
+members, but we're entitled to it. 
 
 25
 
- And I assume the amount of the restitution
+ And I assume the amount of the restitution
 
 13
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
-is based on some estimate of the class ­­ the consumers' 
+is based on some estimate of the class  the consumers' 
 
 2
 
-claims. 
+claims. 
 
 3
 
- MR. MASSEY: 
+ MR. MASSEY: 
 
-Well, the evidence ­­ the 
+Well, the evidence  the 
 
 4
 
-evidence of loss is relevant.  But the law is actually 
+evidence of loss is relevant.  But the law is actually 
 
 5
 
-well­settled in the lower courts ­­ there's not a 
+wellsettled in the lower courts  there's not a 
 
 6
 
-decision of this Court, but ­­ that a consumer releasing 
+decision of this Court, but  that a consumer releasing 
 
 7
 
-his claim or her claim does not bar the State from 
+his claim or her claim does not bar the State from 
 
 8
 
-proceeding with a public parens patriae action. 
+proceeding with a public parens patriae action. 
 
 9
 
- The defendants, when they settled, there is 
+ The defendants, when they settled, there is 
 
 10
 
-a little bit of disagreement in the brief, but the MDL 
+a little bit of disagreement in the brief, but the MDL 
 
 11
 
-judge took the defendants as conceding that their 
+judge took the defendants as conceding that their 
 
 12
 
-settlement with consumers would not bar a parens ­­
+settlement with consumers would not bar a parens 
 
 13
 
- CHIEF JUSTICE ROBERTS: 
+ CHIEF JUSTICE ROBERTS: 
 
-Is there ­­ is 
+Is there  is 
 
 14
 
-there ­­ what is your understanding under Mississippi 
+there  what is your understanding under Mississippi 
 
 15
 
-law, which you know a great deal more than I do, about 
+law, which you know a great deal more than I do, about 
 
 16
 
-any limits on a parens patriae action? 
+any limits on a parens patriae action? 
 
 17
 
- Let's say there was one purchaser in 
+ Let's say there was one purchaser in 
 
 18
 
-Mississippi of LCDs, whatever, or two or three.  Could 
+Mississippi of LCDs, whatever, or two or three.  Could 
 
 19
 
-you bring a parens patriae action on their behalf? 
+you bring a parens patriae action on their behalf? 
 
 20
 
- MR. MASSEY: 
+ MR. MASSEY: 
 
 21
 
-case, Your Honor. 
+case, Your Honor. 
 
 22
 23
 24
 25
 
-That would be a very different 
+That would be a very different 
 
- CHIEF JUSTICE ROBERTS: 
+ CHIEF JUSTICE ROBERTS: 
 
-Well, I know, 
+Well, I know, 
 
-but I'm trying ­­
- MR. MASSEY: 
+but I'm trying 
+ MR. MASSEY: 
 
-I think probably ­­ I think 
+I think probably  I think 
 
-very unlikely.  I don't ­­ it depends on the ­­ for
-
-14
-
-Alderson Reporting Company
-
-Official
-
-1
-2
-3
-
-example, let me ­­ let me just be clear ­­
- CHIEF JUSTICE ROBERTS: 
-
-Unlikely as a 
-
-practical matter or as a legal matter? 
-
-4
-
- MR. MASSEY: 
-
-5
-
- There are ­­ there are ­­ there's no bright 
-
-Both.  Both, Your Honor. 
-
-6
-
-line.  And after all, Snapp, which is the lodestar 
-
-7
-
-parens case from this Court in 1982, involved only 787 
-
-8
-
-workers.  They were agricultural workers from Puerto 
-
-9
-
-Rico.  And the Court ­­ one of the objections was this 
-
-10
-
-was not a sufficient quasi­sovereign interest to support 
-
-11
-
-a parens patriae case. 
-
-12
-
- And what this Court said was that you can't 
-
-13
-
-just look at numbers because those people represent a 
+very unlikely.  I don't  it depends on the  for
 
 14
 
-public interest.  They were ­­ they alleged wage 
-
-15
-
-discrimination, and there was a deterrent effect.  So 
-
-16
-
-that it wasn't really just 787.  It was the entire 
-
-17
-
-population of Puerto Rico. 
-
-18
-
- JUSTICE KENNEDY: 
-
-Are there parens patriae 
-
-19
-
-actions where the State attorney general brings the 
-
-20
-
-action in what is really a suit on behalf of private 
-
-21
-
-parties?  And, if so, do you call it private parens 
-
-22
-
-patriae? 
-
-23
-
- MR. MASSEY: 
-
-Well, we  don’t think that 
-
-24
-
-would be ­­ that is not a proper parens patriae case, 
-
-25
-
-and the attorney general ­­
-
-15
-
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
@@ -1639,144 +1528,255 @@ Alderson Reporting Company
 2
 3
 
- JUSTICE KENNEDY: 
+example, let me  let me just be clear 
+ CHIEF JUSTICE ROBERTS: 
 
-In other words, parens 
+Unlikely as a 
 
-patriae has to have ­­ you have to ask for restitution? 
- MR. MASSEY: 
-
-Well, no, no.  The parens 
+practical matter or as a legal matter? 
 
 4
 
-patriae case, for example, here involves injunctive 
+ MR. MASSEY: 
 
 5
 
-relief, civil penalties, harm to the State as a 
+ There are  there are  there's no bright 
+
+Both.  Both, Your Honor. 
 
 6
 
-purchaser, itself, of LCD panels.  And so restitution ­­
+line.  And after all, Snapp, which is the lodestar 
 
 7
 
-the remedy doesn't matter.  But the ­­ the attorney 
+parens case from this Court in 1982, involved only 787 
 
 8
 
-general has statutory authority in this case to bring a 
+workers.  They were agricultural workers from Puerto 
 
 9
 
-case in the name of the State. 
+Rico.  And the Court  one of the objections was this 
 
 10
 
- He is actually prohibited, under the State 
+was not a sufficient quasisovereign interest to support 
 
 11
 
-Consumer Protection Act ­­ all parties are prohibited 
+a parens patriae case. 
 
 12
 
-from bringing a damages case on behalf of a private 
+ And what this Court said was that you can't 
 
 13
 
-consumer, except in that consumer's name, so ­­
+just look at numbers because those people represent a 
 
 14
 
- CHIEF JUSTICE ROBERTS: 
-
-Did the State 
+public interest.  They were  they alleged wage 
 
 15
 
-interest that's being ­­ the State interest that is 
+discrimination, and there was a deterrent effect.  So 
 
 16
 
-being asserted is damage to the consumers? 
+that it wasn't really just 787.  It was the entire 
 
 17
 
- MR. MASSEY: 
-
-Well, no.  I mean, the State 
+population of Puerto Rico. 
 
 18
 
-interest is broader than that.  It is the ­­ it is the 
+ JUSTICE KENNEDY: 
+
+Are there parens patriae 
 
 19
 
-harm to Mississippi as a ­­ as a population, as an 
+actions where the State attorney general brings the 
 
 20
 
-entity from this price­fixing conspiracy, just as the 
+action in what is really a suit on behalf of private 
 
 21
 
-Federal government ­­
+parties?  And, if so, do you call it private parens 
+
+22
+
+patriae? 
+
+23
+
+ MR. MASSEY: 
+
+Well, we  don't think that 
+
+24
+
+would be  that is not a proper parens patriae case, 
+
+25
+
+and the attorney general 
+
+15
+
+Alderson Reporting Company
+
+Official
+
+1
+2
+3
+
+ JUSTICE KENNEDY: 
+
+In other words, parens 
+
+patriae has to have  you have to ask for restitution? 
+ MR. MASSEY: 
+
+Well, no, no.  The parens 
+
+4
+
+patriae case, for example, here involves injunctive 
+
+5
+
+relief, civil penalties, harm to the State as a 
+
+6
+
+purchaser, itself, of LCD panels.  And so restitution 
+
+7
+
+the remedy doesn't matter.  But the  the attorney 
+
+8
+
+general has statutory authority in this case to bring a 
+
+9
+
+case in the name of the State. 
+
+10
+
+ He is actually prohibited, under the State 
+
+11
+
+Consumer Protection Act  all parties are prohibited 
+
+12
+
+from bringing a damages case on behalf of a private 
+
+13
+
+consumer, except in that consumer's name, so 
+
+14
+
+ CHIEF JUSTICE ROBERTS: 
+
+Did the State 
+
+15
+
+interest that's being  the State interest that is 
+
+16
+
+being asserted is damage to the consumers? 
+
+17
+
+ MR. MASSEY: 
+
+Well, no.  I mean, the State 
+
+18
+
+interest is broader than that.  It is the  it is the 
+
+19
+
+harm to Mississippi as a  as a population, as an 
+
+20
+
+entity from this pricefixing conspiracy, just as the 
+
+21
+
+Federal government 
 
 22
 23
 24
 25
 
- CHIEF JUSTICE ROBERTS: 
+ CHIEF JUSTICE ROBERTS: 
 
-Because it harmed 
+Because it harmed 
 
-members of the population of Mississippi, right? 
- MR. MASSEY: 
+members of the population of Mississippi, right? 
+ MR. MASSEY: 
 
-Well, yes, but I think ­­ I 
+Well, yes, but I think  I 
 
-think, in Snapp, the Court discussed how the ­­ when a
+think, in Snapp, the Court discussed how the  when a
 
 16
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
-harm is broad enough, when it affects a substantial 
+harm is broad enough, when it affects a substantial 
 
 2
 
-segment of the population and affects them in their 
+segment of the population and affects them in their 
 
 3
 
-economic capacity, there are indirect as well as ­­ as 
+economic capacity, there are indirect as well as  as 
 
 4
 
-well as direct effects that the State could be concerned 
+well as direct effects that the State could be concerned 
 
 5
 
-with. 
+with. 
 
 6
 
- Now, let me just ­­
+ Now, let me just 
 
 7
 
- JUSTICE SCALIA: 
+ JUSTICE SCALIA: 
 
 8
 
- MR. MASSEY: 
+ MR. MASSEY: 
 
 9
 10
@@ -1784,139 +1784,139 @@ with. 
 12
 13
 
-What ­­ what are those? 
-Well, in other words, there 
+What  what are those? 
+Well, in other words, there 
 
-are ­­ if people are harmed by a price­fixing 
-conspiracy, they have less money, they're not ­­ they ­­
- CHIEF JUSTICE ROBERTS: 
+are  if people are harmed by a pricefixing 
+conspiracy, they have less money, they're not  they 
+ CHIEF JUSTICE ROBERTS: 
 
-Damage to ­­ having 
+Damage to  having 
 
-less money is a damage to the consumer. 
- MR. MASSEY: 
+less money is a damage to the consumer. 
+ MR. MASSEY: 
 
-Well, but that has a ripple 
+Well, but that has a ripple 
 
 14
 
-effect in the economy.  Price­fixing conspiracies have a 
+effect in the economy.  Pricefixing conspiracies have a 
 
 15
 
-public dimension. 
+public dimension. 
 
 16
 
- And of course ­­ of course, if this ­­ any 
+ And of course  of course, if this  any 
 
 17
 
-challenge to whether this is a proper parens patriae 
+challenge to whether this is a proper parens patriae 
 
 18
 
-case or any case would be heard on the merits.  We ­­ we 
+case or any case would be heard on the merits.  We  we 
 
 19
 
-know the defendants will argue back in the Mississippi 
+know the defendants will argue back in the Mississippi 
 
 20
 
-courts that they have a series of defenses as to why 
+courts that they have a series of defenses as to why 
 
 21
 
-this case should not be brought. 
+this case should not be brought. 
 
 22
 
- One of them will be the attorney general 
+ One of them will be the attorney general 
 
 23
 
-should not have brought it because it's outside his 
+should not have brought it because it's outside his 
 
 24
 
-authority.  And that issue will be decided in 
+authority.  And that issue will be decided in 
 
 25
 
-Mississippi.  There is ­­ there is a case ­­ a vitamin
+Mississippi.  There is  there is a case  a vitamin
 
 17
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 2
 
-price fixing conspiracy case called the BASF case ­­
- CHIEF JUSTICE ROBERTS: 
+price fixing conspiracy case called the BASF case 
+ CHIEF JUSTICE ROBERTS: 
 
-What prevents ­­
+What prevents 
 
 3
 
-what prevents attorneys general from around the country 
+what prevents attorneys general from around the country 
 
 4
 
-sitting back and waiting until every ­­ as private class 
+sitting back and waiting until every  as private class 
 
 5
 
-actions proceed, and as soon as one settles or one ­­
+actions proceed, and as soon as one settles or one 
 
 6
 
-the plaintiffs' class prevails, taking the same 
+the plaintiffs' class prevails, taking the same 
 
 7
 
-complaint, maybe even hiring the same lawyers, to go and 
+complaint, maybe even hiring the same lawyers, to go and 
 
 8
 
-say, well, now we are going to bring our parens patriae 
+say, well, now we are going to bring our parens patriae 
 
 9
 
-action, we know how the trial is going to work out, or 
+action, we know how the trial is going to work out, or 
 
 10
 
-we know what the settlement is going to look like, and 
+we know what the settlement is going to look like, and 
 
 11
 
-we are going to get the same amount of money for the 
+we are going to get the same amount of money for the 
 
 12
 
-State? 
+State? 
 
 13
 
- MR. MASSEY: 
+ MR. MASSEY: 
 
-Well, the ­­ if there is a 
+Well, the  if there is a 
 
 14
 
-harm, as there was in this case, Federal criminal 
+harm, as there was in this case, Federal criminal 
 
 15
 
-allegations ­­ that there were guilty pleas and there 
+allegations  that there were guilty pleas and there 
 
 16
 
-were 800 ­­
+were 800 
 
 17
 18
@@ -1924,31 +1924,31 @@ were 800 ­­
 20
 21
 
- CHIEF JUSTICE ROBERTS: 
+ CHIEF JUSTICE ROBERTS: 
 
-Well, that's got not 
+Well, that's got not 
 
-nothing to do with it, does it? 
- MR. MASSEY: 
+nothing to do with it, does it? 
+ MR. MASSEY: 
 
-Well, those are serious 
+Well, those are serious 
 
-matters, and I think the ­­
- CHIEF JUSTICE ROBERTS: 
+matters, and I think the 
+ CHIEF JUSTICE ROBERTS: 
 
-I'm sure it's a 
+I'm sure it's a 
 
 22
 
-serious matter when a plaintiff class recovers for, as 
+serious matter when a plaintiff class recovers for, as 
 
 23
 
-in this case, an antitrust violation or whatever and ­­
+in this case, an antitrust violation or whatever and 
 
 24
 
-what's the answer?  I'm sorry.  I'm repeating my 
+what's the answer?  I'm sorry.  I'm repeating my 
 
 25
 
@@ -1956,1485 +1956,1485 @@ question.
 
 18
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- MR. MASSEY: 
+ MR. MASSEY: 
 
-Well, I think the answer is 
+Well, I think the answer is 
 
 2
 
- that the State has separate interests.  The interest in 
+ that the State has separate interests.  The interest in 
 
 3
 
- the ­­ that the State has qua State, yes, it should 
+ the  that the State has qua State, yes, it should 
 
 4
 
- bring cases where the public has been harmed.  Of 
+ bring cases where the public has been harmed.  Of 
 
 5
 
- course ­­
+ course 
 
 6
 
- CHIEF JUSTICE ROBERTS: 
+ CHIEF JUSTICE ROBERTS: 
 
-So the answer is 
+So the answer is 
 
 7
 
- that there is nothing to prevent 50 attorneys general ­­
+ that there is nothing to prevent 50 attorneys general 
 
 8
 
- 51, from saying, every time there is a successful class 
+ 51, from saying, every time there is a successful class 
 
 9
 
- action as to which somebody in my State purchased one of 
+ action as to which somebody in my State purchased one of 
 
 10
 
- the items, we are going to file a parens patriae action, 
+ the items, we are going to file a parens patriae action, 
 
 11
 
- the complaint is going to look an awful lot like the 
+ the complaint is going to look an awful lot like the 
 
 12
 
- class action complaint, and we want our money? 
+ class action complaint, and we want our money? 
 
 13
 
- MR. MASSEY: 
+ MR. MASSEY: 
 
-Well, I think that ­­ I think 
+Well, I think that  I think 
 
 14
 
- that isn't going to happen because the State ­­ well, 
+ that isn't going to happen because the State  well, 
 
 15
 
- the complaints are not the same.  The State has its 
+ the complaints are not the same.  The State has its 
 
 16
 
- own ­­ sues in its own name, in its own rights, and, of 
+ own  sues in its own name, in its own rights, and, of 
 
 17
 
- course, the problem Your Honor is hypothesizing ­­
+ course, the problem Your Honor is hypothesizing 
 
 18
 19
 20
 
- JUSTICE KENNEDY: 
+ JUSTICE KENNEDY: 
 
-Well, that means that it 
+Well, that means that it 
 
- could happen? 
- MR. MASSEY: 
+ could happen? 
+ MR. MASSEY: 
 
-Well, it could happen, right. 
+Well, it could happen, right. 
 
 21
 
- The State ­­ if the State has its own rights and its own 
+ The State  if the State has its own rights and its own 
 
 22
 
- interests, it should sue.  The attorney general is accountable to the 
+ interests, it should sue.  The attorney general is accountable to the 
 
 23
 
-general public ­­
+general public 
 
 24
 
- CHIEF JUSTICE ROBERTS: 
+ CHIEF JUSTICE ROBERTS: 
 
-I'm sorry, counsel, 
+I'm sorry, counsel, 
 
 25
 
- but you told me the State's own interest was in 
+ but you told me the State's own interest was in 
 
 26
 
- protecting its consumers, so it would be able to file
+ protecting its consumers, so it would be able to file
 
 19
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- this suit every time its consumers have been harmed, as 
+ this suit every time its consumers have been harmed, as 
 
 2
 
- demonstrated either through settlement or suit.  That's 
+ demonstrated either through settlement or suit.  That's 
 
 3
 
- the State interest, protecting its consumers. 
+ the State interest, protecting its consumers. 
 
 4
 
- MR. MASSEY: 
+ MR. MASSEY: 
 
-Well ­­ if ­­ if a State ­­
+Well  if  if a State 
 
 5
 
- some States may adopt a different rule from Washington. 
+ some States may adopt a different rule from Washington. 
 
 6
 
- As the Washington court said, the State ­­ the consumer 
+ As the Washington court said, the State  the consumer 
 
 7
 
- claims would preclude a State attorney general action. 
+ claims would preclude a State attorney general action. 
 
 8
 
- If a State does not ­­ if the State legislature 
+ If a State does not  if the State legislature 
 
 9
 
- authorizes its attorney general to bring a suit when 
+ authorizes its attorney general to bring a suit when 
 
 10
 
- this attorney general can identify harms to the State 
+ this attorney general can identify harms to the State 
 
 11
 
- that are separate from harms to consumers. 
+ that are separate from harms to consumers. 
 
 12
 
- Your Honor is saying that ­­ that the two 
+ Your Honor is saying that  that the two 
 
 13
 
- are identical.  They are not.  And Snapp makes clear 
+ are identical.  They are not.  And Snapp makes clear 
 
 14
 
- that they are not.  The State has a broader interest 
+ that they are not.  The State has a broader interest 
 
 15
 
- than simply the compensation interest that an individual 
+ than simply the compensation interest that an individual 
 
 16
 
- has. 
+ has. 
 
 17
 
- JUSTICE KENNEDY: 
+ JUSTICE KENNEDY: 
 
-Well, as a matter of 
+Well, as a matter of 
 
 18
 
- efficiency ­­ take the Chief Justice's hypo, the 
+ efficiency  take the Chief Justice's hypo, the 
 
 19
 
- hypothetical and back it up.  The moment the class is 
+ hypothetical and back it up.  The moment the class is 
 
 20
 
- certified, why can't the attorney general join it and 
+ certified, why can't the attorney general join it and 
 
 21
 
- say, now, our interest is a little different, but it's 
+ say, now, our interest is a little different, but it's 
 
 22
 
- so much the same that we want to join it, and we want to 
+ so much the same that we want to join it, and we want to 
 
 23
 
- join it as parens patriae.  Would that prevent its 
+ join it as parens patriae.  Would that prevent its 
 
 24
 
- removal? 
+ removal? 
 
 25
 
- MR. MASSEY: 
+ MR. MASSEY: 
 
-If ­­ if the State attorney
+If  if the State attorney
 
 20
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- general was combined with thousands of individual 
+ general was combined with thousands of individual 
 
 2
 
- claimants that, otherwise, would trigger CAFA, then ­­
+ claimants that, otherwise, would trigger CAFA, then 
 
 3
 
- then CAFA ­­ then you would be forced into this whole 
+ then CAFA  then you would be forced into this whole 
 
 4
 
- case situation. 
+ case situation. 
 
 5
 
- The whole case test, which you'd need not 
+ The whole case test, which you'd need not 
 
 6
 
- reach here because the statute and the real 
+ reach here because the statute and the real 
 
 7
 
- party­in­interest tests are clear, but under the whole 
+ partyininterest tests are clear, but under the whole 
 
 8
 
- case test, you weigh whether the State has an ­­ the 
+ case test, you weigh whether the State has an  the 
 
 9
 
- essential nature proceed ­­ the essential nature of the 
+ essential nature proceed  the essential nature of the 
 
 10
 
- proceeding is that the State is the real party in 
+ proceeding is that the State is the real party in 
 
 11
 
- interest. 
+ interest. 
 
 12
 
- In the hypothetical you posit, I think it 
+ In the hypothetical you posit, I think it 
 
 13
 
- would be removable.  Obviously, it turns on the 
+ would be removable.  Obviously, it turns on the 
 
 14
 
- particular facts, but, yes, if the State attorney 
+ particular facts, but, yes, if the State attorney 
 
 15
 
- general is in court with 1,000 individual claimants, 
+ general is in court with 1,000 individual claimants, 
 
 16
 
- that is probably a CAFA case. 
+ that is probably a CAFA case. 
 
 17
 
- That hasn't ever ­­ has never happened, 
+ That hasn't ever  has never happened, 
 
 18
 
- and in all of the districts outside the Fifth Circuit ­­
+ and in all of the districts outside the Fifth Circuit 
 
 19
 
- because the Fifth Circuit is the only court that has 
+ because the Fifth Circuit is the only court that has 
 
 20
 
- adopted the rule that we ­­ that you're reviewing today, 
+ adopted the rule that we  that you're reviewing today, 
 
 21
 
- every other circuit court has held that CAFA does not 
+ every other circuit court has held that CAFA does not 
 
 22
 
- extend to State parens patriae actions. 
+ extend to State parens patriae actions. 
 
 23
 
- In all of those cases, the attorneys general 
+ In all of those cases, the attorneys general 
 
 24
 
- are not running around following class actions to try to 
+ are not running around following class actions to try to 
 
 25
 
- piggyback on top of them.  They are not joining other
+ piggyback on top of them.  They are not joining other
 
 21
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- class actions.  Those ­­ those ­­
+ class actions.  Those  those 
 
 2
 
- CHIEF JUSTICE ROBERTS: 
+ CHIEF JUSTICE ROBERTS: 
 
-But you can't 
+But you can't 
 
 3
 
- provide any reason why they wouldn't do so and, 
+ provide any reason why they wouldn't do so and, 
 
 4
 
- presumably, would start doing so with greater frequency 
+ presumably, would start doing so with greater frequency 
 
 5
 
- if you prevail in this case. 
+ if you prevail in this case. 
 
 6
 
- MR. MASSEY: 
+ MR. MASSEY: 
 
 7
 
- CHIEF JUSTICE ROBERTS: 
+ CHIEF JUSTICE ROBERTS: 
 
-Well ­­
-It doesn't have to 
+Well 
+It doesn't have to 
 
 8
 
- be the same case.  It can be the next case on the 
+ be the same case.  It can be the next case on the 
 
 9
 
- court's docket.  The first case is In Re:  LCD 
+ court's docket.  The first case is In Re:  LCD 
 
 10
 
- Litigation, and the second case is State of Mississippi 
+ Litigation, and the second case is State of Mississippi 
 
 11
 
- v. LCD Manufacturers. 
+ v. LCD Manufacturers. 
 
 12
 
- MR. MASSEY: 
+ MR. MASSEY: 
 
-Well, we don't think so.  And 
+Well, we don't think so.  And 
 
 13
 
- it certainly the State ­­ a State would be free to adopt 
+ it certainly the State  a State would be free to adopt 
 
 14
 
- a ­­ a different rule as to preclusion.  In other words, 
+ a  a different rule as to preclusion.  In other words, 
 
 15
 
- a State legislature could say that a ­­ if ­­ if 
+ a State legislature could say that a  if  if 
 
 16
 
- consumers have recovered, the attorney general can't or 
+ consumers have recovered, the attorney general can't or 
 
 17
 
- that the attorney general doesn't have statutory 
+ that the attorney general doesn't have statutory 
 
 18
 
- authority in such cases. 
+ authority in such cases. 
 
 19
 
- But when the State legislature has told the 
+ But when the State legislature has told the 
 
 20
 
- attorney general to enforce the public interest and 
+ attorney general to enforce the public interest and 
 
 21
 
- given him statutory authority to do so, he would be 
+ given him statutory authority to do so, he would be 
 
 22
 
- derelict if he didn't honor the legislature's directive. 
+ derelict if he didn't honor the legislature's directive. 
 
 23
 
- And that's what's happening here, that in a 
+ And that's what's happening here, that in a 
 
 24
 
- series of cases involving vitamin price­fixing, 
+ series of cases involving vitamin pricefixing, 
 
 25
 
- adulterated products, Google street view, where Google
+ adulterated products, Google street view, where Google
 
 22
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- found ­­ you know, downloaded data from people's 
+ found  you know, downloaded data from people's 
 
 2
 
- wireless networks, the attorney generals have responded 
+ wireless networks, the attorney generals have responded 
 
 3
 
- in those cases.  Those are what these numbers are about. 
+ in those cases.  Those are what these numbers are about. 
 
 4
 
- CHIEF JUSTICE ROBERTS: 
+ CHIEF JUSTICE ROBERTS: 
 
-And in every one of 
-
-5
-
- those cases, there had been private class litigation 
-
-6
-
- prior to the filing of parens patriae? 
-
-7
-
- MR. MASSEY: 
-
-No, I don't think there has ­­
-
-8
-
- I don't think there had been in virtually any of them. 
-
-9
-
- The attorney general is ­­ is stepping into the breach 
-
-10
-
- when the private lawyers have not brought class actions 
-
-11
-
- because of the difficulties of bringing ­­ in bringing 
-
-12
-
- class actions. 
-
-13
-14
-15
-16
-17
-
- JUSTICE GINSBURG: 
-
-Except we know that's not 
-
- true in this case because we already have a settled ­­
- MR. MASSEY: 
-
-There is a ­­ there was a class 
-
- action settlement here.  That is true. 
- JUSTICE GINSBURG: 
-
-Is your ­­ is your view 
-
-18
-
- of what's called the mass action ­­ a mass action is you 
-
-19
-
- have to have a sizeable number of plaintiffs, each one 
-
-20
-
- with 75 ­­ at least $75,000 at stake.  Is that ­­
-
-21
-
- MR. MASSEY: 
-
-22
-
- JUSTICE GINSBURG: 
-
-23
-24
-25
-
-Yes.  Yes, Your Honor. 
-And so they would all be 
-
- named plaintiffs. 
- MR. MASSEY: 
-
-That's correct.  That's 
-
- clearly ­­ the sort of mass consolidation is what the
-
-23
-
-Alderson Reporting Company
-
-Official
-
-1
-2
-
- mass action definition is addressing. 
- JUSTICE GINSBURG: 
-
-Are there many actions of 
-
-3
-
- that nature where there are hundreds of people, each 
-
-4
-
- with a claim of 75,000 or more? 
+And in every one of 
 
 5
 
- MR. MASSEY: 
-
-There are.  I don't ­­ I don't 
+ those cases, there had been private class litigation 
 
 6
 
- know particular numbers.  There are such cases that ­­
+ prior to the filing of parens patriae? 
 
 7
 
- that are filed in Federal courts and when the ­­ when 
+ MR. MASSEY: 
+
+No, I don't think there has 
 
 8
 
- the plaintiffs are individually identifiable. 
+ I don't think there had been in virtually any of them. 
 
 9
 
- JUSTICE GINSBURG: 
-
-Why would you bring such 
+ The attorney general is  is stepping into the breach 
 
 10
 
- a claim in Federal courts in this mass action format? 
+ when the private lawyers have not brought class actions 
 
 11
 
- I can see in Mississippi, it doesn't have class actions, 
+ because of the difficulties of bringing  in bringing 
 
 12
 
- but if you're in Federal court, why would you ever have 
+ class actions. 
 
-13
-
- a mass action, instead of a class action? 
-
-14
-
- MR. MASSEY: 
-
-Well, if you ­­ if you could 
-
-15
-
- identify the plaintiffs, you don't need to go through 
-
-16
-
- Rule 23.  So if you know the 150 people who are ­­ who 
-
-17
-
- are at issue, you can avoid all the certification 
-
-18
-
- rulings and simply proceed on a consolidated basis.  It 
-
-19
-
- just cuts off sort of ­­ part of the inquiry.  And ­­
-
-20
-
- JUSTICE KAGAN: 
-
-Mr. Massey, if you are right 
-
-21
-
- about what mass action means in this statute, what is 
-
-22
-
- this exception about the general public doing? 
-
-23
-
- MR. MASSEY: 
-
-The general public.  The ­­
-
-24
-
- it's doing two things.  First, the ­­ as the amicus 
-
-25
-
- brief of public citizen describes the legislative
-
-24
-
-Alderson Reporting Company
-
-Official
-
-1
-
- genesis of it, it was really to address the California 
-
-2
-
- unfair competition law situation, where there are 
-
-3
-
- private attorneys general who are able to bring suits in 
-
-4
-
- the name of the general interest ­­ the general public. 
-
-5
-
- And they ­­ that was sort of the original genesis of it. 
-
-6
-
- It is a separate reason to reverse. 
-
-We 
-
-7
-
- believe we meet it as well because it addresses a 
-
-8
-
- situation where a State is ­­ where any litigant, State 
-
-9
-
- or private, is representing the general public as 
-
-10
-11
-
- opposed to individual claimants. 
- And here, because restitution is a public 
-
-12
-
- remedy and because the individual claimants cannot be 
-
-13
-
- identified, the State is proceeding on the basis of the 
-
-14
-
- general public of Mississippi.  If anyone ­­ the 
-
-15
-
- district court found ­­ it's in the Petition Appendix at 
-
-16
-
- 49a and 50. 
-
-17
-
- The district court discusses the 
-
-18
-
- traceability problems ­­ I'm sorry, I said the Petition 
-
-19
-
- Appendix ­­ not the Joint Appendix. 
-
-20
-21
-22
-
- JUSTICE BREYER: 
-
-Can you tell me, when you 
-
- come back, where the money goes if you win? 
- MR. MASSEY: 
-
-Yes.  The money probably goes 
-
-23
-
- to the State treasury because, in this case, it would be 
-
-24
-
- too difficult to trace who gets ­­ who has been harmed. 
-
-25
-
- The ­­ that's why the district court found that the ­­
-
-25
-
-Alderson Reporting Company
-
-Official
-
-1
-
- given the ubiquity of the product and the fact that 
-
-2
-
- there is no central record of whoever purchased a cell 
-
-3
-
- phone in Mississippi, that the cost of ­­ of finding all 
-
-4
-
- these people is ­­ is just not worth it. 
-
-5
-
- There could be ­­ it could wind up in the 
-
-6
-
- education program.  The attorney general had mentioned 
-
-7
-
- to me schools and things like that, but it's not going 
-
-8
-
- to go ­­ it's very unlikely to go to the individual 
-
-9
-
- consumers. 
-
-10
-
- Thank you, Your Honor. If I could reserve my time. 
-
-11
-
- CHIEF JUSTICE ROBERTS: 
-
-12
 13
 14
 15
 16
 17
 
-Thank you, 
+ JUSTICE GINSBURG: 
 
- Mr. Massey. 
- Mr. Curran? 
- ORAL ARGUMENT OF CHRISTOPHER M. CURRAN 
- ON BEHALF OF THE RESPONDENTS 
- MR. CURRAN: 
+Except we know that's not 
 
-Mr. Chief Justice, and may it 
+ true in this case because we already have a settled 
+ MR. MASSEY: 
 
- please the Court: 
+There is a  there was a class 
+
+ action settlement here.  That is true. 
+ JUSTICE GINSBURG: 
+
+Is your  is your view 
 
 18
 
- The attorney general's interpretation of the 
+ of what's called the mass action  a mass action is you 
 
 19
 
- mass action definition requires this Court to conclude 
+ have to have a sizeable number of plaintiffs, each one 
 
 20
 
- that a mass action can only be one of the actions with 
+ with 75  at least $75,000 at stake.  Is that 
 
 21
 
- 100 or more named plaintiffs and can never be a 
+ MR. MASSEY: 
 
 22
 
- representative action.  That interpretation cannot be 
+ JUSTICE GINSBURG: 
+
+23
+24
+25
+
+Yes.  Yes, Your Honor. 
+And so they would all be 
+
+ named plaintiffs. 
+ MR. MASSEY: 
+
+That's correct.  That's 
+
+ clearly  the sort of mass consolidation is what the
 
 23
 
- squared with the statutory language, the purpose of the 
+Alderson Reporting Company
+
+Official
+
+1
+2
+
+ mass action definition is addressing. 
+ JUSTICE GINSBURG: 
+
+Are there many actions of 
+
+3
+
+ that nature where there are hundreds of people, each 
+
+4
+
+ with a claim of 75,000 or more? 
+
+5
+
+ MR. MASSEY: 
+
+There are.  I don't  I don't 
+
+6
+
+ know particular numbers.  There are such cases that 
+
+7
+
+ that are filed in Federal courts and when the  when 
+
+8
+
+ the plaintiffs are individually identifiable. 
+
+9
+
+ JUSTICE GINSBURG: 
+
+Why would you bring such 
+
+10
+
+ a claim in Federal courts in this mass action format? 
+
+11
+
+ I can see in Mississippi, it doesn't have class actions, 
+
+12
+
+ but if you're in Federal court, why would you ever have 
+
+13
+
+ a mass action, instead of a class action? 
+
+14
+
+ MR. MASSEY: 
+
+Well, if you  if you could 
+
+15
+
+ identify the plaintiffs, you don't need to go through 
+
+16
+
+ Rule 23.  So if you know the 150 people who are  who 
+
+17
+
+ are at issue, you can avoid all the certification 
+
+18
+
+ rulings and simply proceed on a consolidated basis.  It 
+
+19
+
+ just cuts off sort of  part of the inquiry.  And 
+
+20
+
+ JUSTICE KAGAN: 
+
+Mr. Massey, if you are right 
+
+21
+
+ about what mass action means in this statute, what is 
+
+22
+
+ this exception about the general public doing? 
+
+23
+
+ MR. MASSEY: 
+
+The general public.  The 
 
 24
 
- Act, and the structure of the Act. 
+ it's doing two things.  First, the  as the amicus 
 
 25
 
- Justice Kagan, you referred to the general
+ brief of public citizen describes the legislative
+
+24
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ genesis of it, it was really to address the California 
+
+2
+
+ unfair competition law situation, where there are 
+
+3
+
+ private attorneys general who are able to bring suits in 
+
+4
+
+ the name of the general interest  the general public. 
+
+5
+
+ And they  that was sort of the original genesis of it. 
+
+6
+
+ It is a separate reason to reverse. 
+
+We 
+
+7
+
+ believe we meet it as well because it addresses a 
+
+8
+
+ situation where a State is  where any litigant, State 
+
+9
+
+ or private, is representing the general public as 
+
+10
+11
+
+ opposed to individual claimants. 
+ And here, because restitution is a public 
+
+12
+
+ remedy and because the individual claimants cannot be 
+
+13
+
+ identified, the State is proceeding on the basis of the 
+
+14
+
+ general public of Mississippi.  If anyone  the 
+
+15
+
+ district court found  it's in the Petition Appendix at 
+
+16
+
+ 49a and 50. 
+
+17
+
+ The district court discusses the 
+
+18
+
+ traceability problems  I'm sorry, I said the Petition 
+
+19
+
+ Appendix  not the Joint Appendix. 
+
+20
+21
+22
+
+ JUSTICE BREYER: 
+
+Can you tell me, when you 
+
+ come back, where the money goes if you win? 
+ MR. MASSEY: 
+
+Yes.  The money probably goes 
+
+23
+
+ to the State treasury because, in this case, it would be 
+
+24
+
+ too difficult to trace who gets  who has been harmed. 
+
+25
+
+ The  that's why the district court found that the 
+
+25
+
+Alderson Reporting Company
+
+Official
+
+1
+
+ given the ubiquity of the product and the fact that 
+
+2
+
+ there is no central record of whoever purchased a cell 
+
+3
+
+ phone in Mississippi, that the cost of  of finding all 
+
+4
+
+ these people is  is just not worth it. 
+
+5
+
+ There could be  it could wind up in the 
+
+6
+
+ education program.  The attorney general had mentioned 
+
+7
+
+ to me schools and things like that, but it's not going 
+
+8
+
+ to go  it's very unlikely to go to the individual 
+
+9
+
+ consumers. 
+
+10
+
+ Thank you, Your Honor. If I could reserve my time. 
+
+11
+
+ CHIEF JUSTICE ROBERTS: 
+
+12
+13
+14
+15
+16
+17
+
+Thank you, 
+
+ Mr. Massey. 
+ Mr. Curran? 
+ ORAL ARGUMENT OF CHRISTOPHER M. CURRAN 
+ ON BEHALF OF THE RESPONDENTS 
+ MR. CURRAN: 
+
+Mr. Chief Justice, and may it 
+
+ please the Court: 
+
+18
+
+ The attorney general's interpretation of the 
+
+19
+
+ mass action definition requires this Court to conclude 
+
+20
+
+ that a mass action can only be one of the actions with 
+
+21
+
+ 100 or more named plaintiffs and can never be a 
+
+22
+
+ representative action.  That interpretation cannot be 
+
+23
+
+ squared with the statutory language, the purpose of the 
+
+24
+
+ Act, and the structure of the Act. 
+
+25
+
+ Justice Kagan, you referred to the general
 
 26
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- public provision.  That provision expressly refers to 
+ public provision.  That provision expressly refers to 
 
 2
 
- the possibility of a representative action.  In the 
+ the possibility of a representative action.  In the 
 
 3
 
- parenthetical language in that provision and ­­ you 
+ parenthetical language in that provision and  you 
 
 4
 
- know, I look at it on the ­­ in the Act form on 66a, but 
+ know, I look at it on the  in the Act form on 66a, but 
 
 5
 
- it's, of course, in the codification as well, on page 
+ it's, of course, in the codification as well, on page 
 
 6
 
- 79a of the Joint Appendix ­­ the parenthetical there 
+ 79a of the Joint Appendix  the parenthetical there 
 
 7
 
- says that ­­ that this exclusion does not apply in cases 
+ says that  that this exclusion does not apply in cases 
 
 8
 
- where the action is not on behalf of individual 
+ where the action is not on behalf of individual 
 
 9
 
- claimants or members of a purported class. 
+ claimants or members of a purported class. 
 
 10
 
- So in other words, this exclusion under the 
+ So in other words, this exclusion under the 
 
 11
 
- mass action definition is contemplating a situation 
+ mass action definition is contemplating a situation 
 
 12
 
- where there are individual claimants or members of a 
+ where there are individual claimants or members of a 
 
 13
 
- purported class.  That ­­ that has to be beyond the 
+ purported class.  That  that has to be beyond the 
 
 14
 
- named plaintiff. 
+ named plaintiff. 
 
 15
 
- In another example, farther down in the 
+ In another example, farther down in the 
 
 16
 
- exceptions to the mass action definition, there's a 
+ exceptions to the mass action definition, there's a 
 
 17
 
- reference to Section 1407, which is the MDL transfer 
+ reference to Section 1407, which is the MDL transfer 
 
 18
 
- provision.  There, again, there's reference to the 
+ provision.  There, again, there's reference to the 
 
 19
 
- possibility of a mass action being converted into a Rule 
+ possibility of a mass action being converted into a Rule 
 
 20
 
- 23 class action. 
+ 23 class action. 
 
 21
 
- Those provisions don't make sense, unless 
+ Those provisions don't make sense, unless 
 
 22
 
- it's possible for a mass action to be a representative 
+ it's possible for a mass action to be a representative 
 
 23
 
- action. 
+ action. 
 
 24
 25
 
- JUSTICE SOTOMAYOR: 
+ JUSTICE SOTOMAYOR: 
 
-So how do you remand a 
+So how do you remand a 
 
- case when it involves unnamed plaintiffs?  Not a
+ case when it involves unnamed plaintiffs?  Not a
 
 27
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- proposed class because you ­­ if you have a proposed 
+ proposed class because you  if you have a proposed 
 
 2
 
- class, that could be persons, and you could identify 
+ class, that could be persons, and you could identify 
 
 3
 
- those.  But under your theory, what does a court do to 
+ those.  But under your theory, what does a court do to 
 
 4
 
- figure out which of all of those unnamed people have 
+ figure out which of all of those unnamed people have 
 
 5
 
- claims above or below $75,000? 
+ claims above or below $75,000? 
 
 6
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
-Well ­­ well, a couple of 
+Well  well, a couple of 
 
 7
 
- things.  Number one, it ­­ it may well be that the mass 
+ things.  Number one, it  it may well be that the mass 
 
 8
 
- action definition, a use of persons, that, of course, 
+ action definition, a use of persons, that, of course, 
 
 9
 
- our position is that is unnamed.  Those are real parties 
+ our position is that is unnamed.  Those are real parties 
 
 10
 
- in interest of the claims.  The reference to plaintiffs 
+ in interest of the claims.  The reference to plaintiffs 
 
 11
 
- may well be, as the attorney general posits, the named 
+ may well be, as the attorney general posits, the named 
 
 12
 
- plaintiffs. 
+ plaintiffs. 
 
 13
 
- So the $75,000 requirement ­­ and Justice 
+ So the $75,000 requirement  and Justice 
 
 14
 
- Ginsburg referred to this ­­ this as well, that ­­ that 
+ Ginsburg referred to this  this as well, that  that 
 
 15
 
- can make perfect sense.  It's ­­ it's a way to make sure 
+ can make perfect sense.  It's  it's a way to make sure 
 
 16
 
- that the named plaintiffs, who, after all, are being 
+ that the named plaintiffs, who, after all, are being 
 
 17
 
- given the keys to Federal discovery and maybe the 
+ given the keys to Federal discovery and maybe the 
 
 18
 
- ability to negotiate settlements, that they've got some 
+ ability to negotiate settlements, that they've got some 
 
 19
 
- skin in the game, that the plaintiffs, the named 
+ skin in the game, that the plaintiffs, the named 
 
 20
 
- plaintiffs controlling the litigation, have 75,000 or 
+ plaintiffs controlling the litigation, have 75,000 or 
 
 21
 
- more at stake. 
+ more at stake. 
 
 22
 
- JUSTICE SOTOMAYOR: 
+ JUSTICE SOTOMAYOR: 
 
-You know, this language 
+You know, this language 
 
 23
 
- is very reminiscent in what's in Federal Rule of Civil 
+ is very reminiscent in what's in Federal Rule of Civil 
 
 24
 
- Procedure 20, the joinder rule. 
+ Procedure 20, the joinder rule. 
 
 25
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
-Well ­­
+Well 
 
 28
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- JUSTICE SOTOMAYOR: 
+ JUSTICE SOTOMAYOR: 
 
-And if I look at the 
+And if I look at the 
 
 2
 
- joinder rule, it uses "persons" and "plaintiffs" 
+ joinder rule, it uses "persons" and "plaintiffs" 
 
 3
 
- essentially in the same way.  It's talking about persons 
+ essentially in the same way.  It's talking about persons 
 
 4
 
- being proposed plaintiffs, as opposed to unnamed 
+ being proposed plaintiffs, as opposed to unnamed 
 
 5
 
- people ­­
+ people 
 
 6
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
 7
 
- JUSTICE SOTOMAYOR: 
+ JUSTICE SOTOMAYOR: 
 
 8
 9
 
-Well ­­
-­­ or the proposed 
+Well 
+ or the proposed 
 
- class, in essence. 
- MR. CURRAN: 
+ class, in essence. 
+ MR. CURRAN: 
 
-Your Honor, I see similarities 
+Your Honor, I see similarities 
 
 10
 
- between this provision and the PSLRA, the Private 
+ between this provision and the PSLRA, the Private 
 
 11
 
- Securities Litigation Reform Act, that reformed class 
+ Securities Litigation Reform Act, that reformed class 
 
 12
 
- actions in the securities context.  And there, there 
+ actions in the securities context.  And there, there 
 
 13
 
- was ­­ there were provisions requiring that the named 
+ was  there were provisions requiring that the named 
 
 14
 
- plaintiff be a prominent victim of the alleged fraud. 
+ plaintiff be a prominent victim of the alleged fraud. 
 
 15
 
- And ­­ and here, I think it's got a similar 
+ And  and here, I think it's got a similar 
 
 16
 
- idea, that we want to make sure that the named 
+ idea, that we want to make sure that the named 
 
 17
 
- plaintiffs have that kind of stake.  And this is an 
+ plaintiffs have that kind of stake.  And this is an 
 
 18
 
- important point because I think there's been some 
+ important point because I think there's been some 
 
 19
 
- suggestion that this is unwieldy or does it make sense, 
+ suggestion that this is unwieldy or does it make sense, 
 
 20
 
- if all the claimants under 75,000 get remanded. 
+ if all the claimants under 75,000 get remanded. 
 
 21
 
- But recall this Court's jurisprudence on 
+ But recall this Court's jurisprudence on 
 
 22
 
- supplemental jurisdiction.  Allapattah allows for 
+ supplemental jurisdiction.  Allapattah allows for 
 
 23
 
- supplemental jurisdiction in a situation like this, 
+ supplemental jurisdiction in a situation like this, 
 
 24
 
- where certain plaintiffs do not satisfy the 
+ where certain plaintiffs do not satisfy the 
 
 25
 
- jurisdictional minimum.  As long as there are some that
+ jurisdictional minimum.  As long as there are some that
 
 29
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- do, the district court has discretion to allow those 
+ do, the district court has discretion to allow those 
 
 2
 
- that don't to stay in the same action. 
+ that don't to stay in the same action. 
 
 3
 
- JUSTICE SOTOMAYOR: 
+ JUSTICE SOTOMAYOR: 
 
-It seems that that would 
+It seems that that would 
 
 4
 
- be hard to invoke that case when a statute commands 
+ be hard to invoke that case when a statute commands 
 
 5
 
- differently. 
+ differently. 
 
 6
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
 7
 
- JUSTICE SOTOMAYOR: 
+ JUSTICE SOTOMAYOR: 
 
-Well, I mean, I don't see ­­
-In that case, it's in 
+Well, I mean, I don't see 
+In that case, it's in 
 
 8
 
- the ­­ in the absence of statutory language that 
+ the  in the absence of statutory language that 
 
 9
 
- requires remand. 
+ requires remand. 
 
 10
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
 11
 
- JUSTICE SOTOMAYOR: 
+ JUSTICE SOTOMAYOR: 
 
-Well ­­
-I ­­ I'm hard­pressed to 
+Well 
+I  I'm hardpressed to 
 
 12
 
- think that we can be exercising supplemental 
+ think that we can be exercising supplemental 
 
 13
 
- jurisdiction in a case where Congress has expressly 
+ jurisdiction in a case where Congress has expressly 
 
 14
 
- spoken and said you can't or shouldn't. 
+ spoken and said you can't or shouldn't. 
 
 15
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
-Well, I don't understand that 
+Well, I don't understand that 
 
 16
 
- because Section 1367 says supplemental jurisdiction 
+ because Section 1367 says supplemental jurisdiction 
 
 17
 
- shall exist, unless it's expressly provided otherwise in 
+ shall exist, unless it's expressly provided otherwise in 
 
 18
 
- a Federal statute. 
+ a Federal statute. 
 
 19
 
- And this Court, interpreting similar 
+ And this Court, interpreting similar 
 
 20
 
- language in the Breuer case, which is cited in the 
+ language in the Breuer case, which is cited in the 
 
 21
 
- papers, said "expressly" means it's got to be direct, 
+ papers, said "expressly" means it's got to be direct, 
 
 22
 
- it's got to be explicit, it has to be inescapable. 
+ it's got to be explicit, it has to be inescapable. 
 
 23
 
- So I would submit that this language about 
+ So I would submit that this language about 
 
 24
 
- the 75,000, that does not preclude supplemental 
+ the 75,000, that does not preclude supplemental 
 
 25
 
- jurisdiction.  In fact, I think that ­­ that argument is
+ jurisdiction.  In fact, I think that  that argument is
 
 30
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 2
 
- foreclosed by Breuer. 
- JUSTICE GINSBURG: 
+ foreclosed by Breuer. 
+ JUSTICE GINSBURG: 
 
-In this particular case, 
+In this particular case, 
 
 3
 
- the individual claims were settled in the ­­ in the 
+ the individual claims were settled in the  in the 
 
 4
 
- class action, so if there ­­ if there are no individual 
+ class action, so if there  if there are no individual 
 
 5
 
- claimants to be ­­ to be represented, why doesn't this 
+ claimants to be  to be represented, why doesn't this 
 
 6
 
- end up being a claim where only the State of Mississippi 
+ end up being a claim where only the State of Mississippi 
 
 7
 
- has a stake because the individuals that the State might 
+ has a stake because the individuals that the State might 
 
 8
 
- have been representing have already been satisfied, so 
+ have been representing have already been satisfied, so 
 
 9
 
- if this is ­­
+ if this is 
 
 10
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
-There are ­­ there are a couple 
+There are  there are a couple 
 
 11
 
- of aspects to this.  First of all, our position, of 
+ of aspects to this.  First of all, our position, of 
 
 12
 
- course, is that the Mississippi statute requires that 
+ course, is that the Mississippi statute requires that 
 
 13
 
- the money goes to the Mississippi citizens and that the 
+ the money goes to the Mississippi citizens and that the 
 
 14
 
- attorney general here is basically suing as a 
+ attorney general here is basically suing as a 
 
 15
 
- representative or a conduit for those citizens. 
+ representative or a conduit for those citizens. 
 
 16
 
- The fact that those citizens, many of those 
+ The fact that those citizens, many of those 
 
 17
 
- citizens, not all of them, the fact that many of them 
+ citizens, not all of them, the fact that many of them 
 
 18
 
- have settled and have resolved the claims in the 
+ have settled and have resolved the claims in the 
 
 19
 
- multidistrict litigation, that means that there is going 
+ multidistrict litigation, that means that there is going 
 
 20
 
- to be a fight in one court or another ­­ we think it 
+ to be a fight in one court or another  we think it 
 
 21
 
- should be in a Federal court; the attorney general 
+ should be in a Federal court; the attorney general 
 
 22
 
- thinks the State court ­­ over what the preclusive 
+ thinks the State court  over what the preclusive 
 
 23
 
- effects are of that prior settlement. 
+ effects are of that prior settlement. 
 
 24
 25
 
- We view this case as nothing more than an 
- attempt to double dip.  It's the same ­­
+ We view this case as nothing more than an 
+ attempt to double dip.  It's the same 
 
 31
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- JUSTICE BREYER: 
+ JUSTICE BREYER: 
 
-Why is that?  I thought 
+Why is that?  I thought 
 
 2
 
- that in a ­­ maybe it's changed since I knew the law in 
+ that in a  maybe it's changed since I knew the law in 
 
 3
 
- this area.  But I thought, because of Illinois Brick, 
+ this area.  But I thought, because of Illinois Brick, 
 
 4
 
- the ultimate consumers couldn't recover, but rather ­­
+ the ultimate consumers couldn't recover, but rather 
 
 5
 
- you have to be a direct purchaser rather than an 
+ you have to be a direct purchaser rather than an 
 
 6
 
- indirect purchaser of the price­fixed good. 
+ indirect purchaser of the pricefixed good. 
 
 7
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
 8
 
- JUSTICE BREYER: 
+ JUSTICE BREYER: 
 
 9
 
- is a State law case. 
+ is a State law case. 
 
 10
 11
@@ -3442,2213 +3442,2213 @@ Why is that?  I thought 
 13
 14
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
-That is under Federal law. 
-Yes.  All right.  So this 
+That is under Federal law. 
+Yes.  All right.  So this 
 
-The IPT case, that was a State 
+The IPT case, that was a State 
 
- law case in Federal court.  Okay. 
- JUSTICE BREYER: 
+ law case in Federal court.  Okay. 
+ JUSTICE BREYER: 
 
-I know your case is, but 
+I know your case is, but 
 
- the one that settled previously? 
- MR. CURRAN: 
+ the one that settled previously? 
+ MR. CURRAN: 
 
-Yes.  That's what I'm referring 
+Yes.  That's what I'm referring 
 
 15
 
- to.  That was in Federal court, but it was asserting 
+ to.  That was in Federal court, but it was asserting 
 
 16
 
- State claims.  That's included ­­
+ State claims.  That's included 
 
 17
 
- JUSTICE BREYER: 
+ JUSTICE BREYER: 
 
-All right.  So you have a 
+All right.  So you have a 
 
 18
 
- double dip claim.  I guess my question, procedurally, is 
+ double dip claim.  I guess my question, procedurally, is 
 
 19
 
- that, here, the State of Mississippi is the named 
+ that, here, the State of Mississippi is the named 
 
 20
 
- plaintiff. 
+ plaintiff. 
 
 21
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
 22
 
- JUSTICE BREYER: 
+ JUSTICE BREYER: 
 
-The named plaintiff. 
-And moreover, the State of 
+The named plaintiff. 
+And moreover, the State of 
 
 23
 
- Mississippi is suing in order to obtain money, is what 
+ Mississippi is suing in order to obtain money, is what 
 
 24
 
- we just heard, for its treasury.  And, third, the State 
+ we just heard, for its treasury.  And, third, the State 
 
 25
 
- of Mississippi is suing because of their belief that the
+ of Mississippi is suing because of their belief that the
 
 32
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- defendants injured the economy of Mississippi, and they 
+ defendants injured the economy of Mississippi, and they 
 
 2
 
- injured it by hurting the pocketbooks of many 
+ injured it by hurting the pocketbooks of many 
 
 3
 
- individuals in Mississippi, the names of whom they don't 
+ individuals in Mississippi, the names of whom they don't 
 
 4
 
- even know.  All right? 
+ even know.  All right? 
 
 5
 
- Now, they say, look at ­­ read the statute. 
+ Now, they say, look at  read the statute. 
 
 6
 
- Read the cases which say if you are a nominal plaintiff, 
+ Read the cases which say if you are a nominal plaintiff, 
 
 7
 
- that's good enough, as long as you are not suing as some 
+ that's good enough, as long as you are not suing as some 
 
 8
 
- kind of ­­ I forget the words ­­ quasi­sovereign, 
+ kind of  I forget the words  quasisovereign, 
 
 9
 
- whatever it was, one way or the other.  You know the 
+ whatever it was, one way or the other.  You know the 
 
 10
 
- cases better than I.  But why isn't what they just said 
+ cases better than I.  But why isn't what they just said 
 
 11
 
- sufficient? 
+ sufficient? 
 
 12
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
-Because we are not disputing 
+Because we are not disputing 
 
 13
 
- that the attorney general has standing to bring a claim 
+ that the attorney general has standing to bring a claim 
 
 14
 
- as a nominee for the real parties in interest. 
+ as a nominee for the real parties in interest. 
 
 15
 16
 17
 
- JUSTICE BREYER: 
+ JUSTICE BREYER: 
 
-I understand that, but why 
+I understand that, but why 
 
- does that fall within this statute? 
- MR. CURRAN: 
+ does that fall within this statute? 
+ MR. CURRAN: 
 
-Because the statutory language 
+Because the statutory language 
 
 18
 
- says if it's a civil action  in which monetary relief 
+ says if it's a civil action  in which monetary relief 
 
 19
 
- claims ­­ we clearly got that ­­ of 100 or more persons, 
+ claims  we clearly got that  of 100 or more persons, 
 
 20
 
- we think those claims under the Mississippi statute 
+ we think those claims under the Mississippi statute 
 
 21
 
- inescapably belong to those persons ­­
+ inescapably belong to those persons 
 
 22
 23
 
- JUSTICE KAGAN: 
+ JUSTICE KAGAN: 
 
-If you go on and read that a 
+If you go on and read that a 
 
- little bit further, Mr. Curran ­­
+ little bit further, Mr. Curran 
 
 24
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
 25
 
- JUSTICE KAGAN: 
+ JUSTICE KAGAN: 
 
-I'm getting there. 
-­­ it says, "claims of 100
+I'm getting there. 
+ it says, "claims of 100
 
 33
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- or more persons that are proposed to be tried jointly on 
+ or more persons that are proposed to be tried jointly on 
 
 2
 
- the ground that the plaintiffs' claims involve common 
+ the ground that the plaintiffs' claims involve common 
 
 3
 
- questions of law or fact." 
+ questions of law or fact." 
 
 4
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
 5
 
- JUSTICE KAGAN: 
+ JUSTICE KAGAN: 
 
-Yes. 
-And here, of course ­­ you 
+Yes. 
+And here, of course  you 
 
 6
 
- know, there's no joinder, let alone, any proposed ­­ you 
+ know, there's no joinder, let alone, any proposed  you 
 
 7
 
- know, there's no ­­ there nothing that the Mississippi 
+ know, there's no  there nothing that the Mississippi 
 
 8
 
- attorney general has to go through, to show that the 
+ attorney general has to go through, to show that the 
 
 9
 
- plaintiffs' claims involve common questions of law or 
+ plaintiffs' claims involve common questions of law or 
 
 10
 
- fact, right?  They don't ­­ there's no showing of that 
+ fact, right?  They don't  there's no showing of that 
 
 11
 
- kind that has to be made in a parens patriae case. 
+ kind that has to be made in a parens patriae case. 
 
 12
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
-Well, they filed a single 
+Well, they filed a single 
 
 13
 
- complaint, right, under Rule 42 and ­­ of the Federal 
+ complaint, right, under Rule 42 and  of the Federal 
 
 14
 
- Rules of Civil Procedure, the State analog to that, and 
+ Rules of Civil Procedure, the State analog to that, and 
 
 15
 
- pre­existing jurisprudence.  When you file a single 
+ preexisting jurisprudence.  When you file a single 
 
 16
 
- complaint, you're asking for a single trial.  And if you 
+ complaint, you're asking for a single trial.  And if you 
 
 17
 
- want to bifurcate a trial of some kind, you have to make 
+ want to bifurcate a trial of some kind, you have to make 
 
 18
 
- a motion. 
+ a motion. 
 
 19
 
- JUSTICE KAGAN: 
+ JUSTICE KAGAN: 
 
 20
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
 21
 22
 
-But, again, this clearly ­­
-So I submit there is a 
+But, again, this clearly 
+So I submit there is a 
 
- proposed ­­ a proposal to try these claims jointly. 
- JUSTICE KAGAN: 
+ proposed  a proposal to try these claims jointly. 
+ JUSTICE KAGAN: 
 
-But they don't have to 
+But they don't have to 
 
 23
 
- show ­­ and this is clearly referring to a kind of Rule 
+ show  and this is clearly referring to a kind of Rule 
 
 24
 
- 23 inquiry, which they don't have to go through to do a 
+ 23 inquiry, which they don't have to go through to do a 
 
 25
 
- parens patriae.
+ parens patriae.
 
 34
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
-That would be the same thing, 
+That would be the same thing, 
 
 2
 
- Your Honor, in the case that they say is the 
+ Your Honor, in the case that they say is the 
 
 3
 
- quintessential mass ­­ mass action case.  They say a 
+ quintessential mass  mass action case.  They say a 
 
 4
 
- mass action case is one where a bunch of plaintiffs have 
+ mass action case is one where a bunch of plaintiffs have 
 
 5
 
- joined together in a single suit ­­
+ joined together in a single suit 
 
 6
 7
 
- JUSTICE KAGAN: 
+ JUSTICE KAGAN: 
 
-Yes, but they do have to 
+Yes, but they do have to 
 
- show that ­­
+ show that 
 
 8
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
 9
 
- JUSTICE KAGAN: ­­ in a massive ­­
+ JUSTICE KAGAN:  in a massive 
 
 10
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
 11
 
- JUSTICE KAGAN: 
+ JUSTICE KAGAN: 
 
 12
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
 13
 
- JUSTICE KAGAN: 
+ JUSTICE KAGAN: 
 
-Why? 
+Why? 
 
-No, they ­­
-­­ consolidation case ­­
-­­ file a complaint. 
-­­ the judge is going to 
+No, they 
+ consolidation case 
+ file a complaint. 
+ the judge is going to 
 
 14
 
- say, you have 100 claims; we want to see that those 100 
+ say, you have 100 claims; we want to see that those 100 
 
 15
 
- claims have common questions of law or fact.  But in a 
+ claims have common questions of law or fact.  But in a 
 
 16
 
- parens patriae case, the State never has to make that 
+ parens patriae case, the State never has to make that 
 
 17
 
- showing.  It can just stand up and say, here we are.  We 
+ showing.  It can just stand up and say, here we are.  We 
 
 18
 
- are the State.  We're representing the interests of the 
+ are the State.  We're representing the interests of the 
 
 19
 
- State qua State.  Here's our claim. 
+ State qua State.  Here's our claim. 
 
 20
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
-Well, Your Honor, I think ­­ I 
+Well, Your Honor, I think  I 
 
 21
 
- submit that, when a State attorney general files a 
+ submit that, when a State attorney general files a 
 
 22
 
- complaint on behalf of 100 or more persons claiming to 
+ complaint on behalf of 100 or more persons claiming to 
 
 23
 
- have standing and to be seeking to recover for the 
+ have standing and to be seeking to recover for the 
 
 24
 
- damages to those 100 or more persons, he's proposing to 
+ damages to those 100 or more persons, he's proposing to 
 
 25
 
- try those claims together.
+ try those claims together.
 
 35
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- And as to ­­ as to whose claims they are, I 
+ And as to  as to whose claims they are, I 
 
 2
 
- mean, the Mississippi statute is pretty clear that the 
+ mean, the Mississippi statute is pretty clear that the 
 
 3
 
- claim for restitution is ­­ is necessary to restore to 
+ claim for restitution is  is necessary to restore to 
 
 4
 
- the persons in interest, the victims. 
+ the persons in interest, the victims. 
 
 5
 
- JUSTICE SCALIA: 
+ JUSTICE SCALIA: 
 
-Yes, but the attorney 
+Yes, but the attorney 
 
 6
 
- general says that that's not what's going to happen 
+ general says that that's not what's going to happen 
 
 7
 
- here.  How do you square that with his statement that 
+ here.  How do you square that with his statement that 
 
 8
 
- that money will not get to these people? 
+ that money will not get to these people? 
 
 9
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
-He cited the statute that has 
+He cited the statute that has 
 
 10
 
- that plain language.  That plain language was 
+ that plain language.  That plain language was 
 
 11
 
- interpreted by the Fifth Circuit.  There are ­­ it's a 
+ interpreted by the Fifth Circuit.  There are  it's a 
 
 12
 
- model act that's been interpreted by the State Supreme 
+ model act that's been interpreted by the State Supreme 
 
 13
 
- Courts of other States, Iowa and Arizona.  They looked 
+ Courts of other States, Iowa and Arizona.  They looked 
 
 14
 
- at that language.  Oh, yeah, the money goes to the 
+ at that language.  Oh, yeah, the money goes to the 
 
 15
 
- people. 
+ people. 
 
 16
 17
 18
 
- JUSTICE SCALIA: 
+ JUSTICE SCALIA: 
 
-He says you can't ­­ he 
+He says you can't  he 
 
- says you can't even identify those people. 
- MR. CURRAN: 
+ says you can't even identify those people. 
+ MR. CURRAN: 
 
-Well, that is ­­ that doesn't 
+Well, that is  that doesn't 
 
 19
 
- hold up.  Obviously, those people were identified in the 
+ hold up.  Obviously, those people were identified in the 
 
 20
 
- class action.  They're getting the money that's being 
+ class action.  They're getting the money that's being 
 
 21
 
- distributed.  People can turn in receipts.  There are 
+ distributed.  People can turn in receipts.  There are 
 
 22
 
- records.  Every antitrust case has this issue 
+ records.  Every antitrust case has this issue 
 
 23
 
- identifying the victims and compensating them.  It's no 
+ identifying the victims and compensating them.  It's no 
 
 24
 
- different here. 
+ different here. 
 
 25
 
- And another thing, there was a suggestion
+ And another thing, there was a suggestion
 
 36
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- that, oh, everybody in the world has LCD panels, that 
+ that, oh, everybody in the world has LCD panels, that 
 
 2
 
- the period of time at issue in this case is 1996 to 
+ the period of time at issue in this case is 1996 to 
 
 3
 
- 2006.  LCD panels, which we now take for granted and are 
+ 2006.  LCD panels, which we now take for granted and are 
 
 4
 
- ubiquitous, back then, were just an emerging technology. 
+ ubiquitous, back then, were just an emerging technology. 
 
 5
 
- And for that, I cite to the attorney 
+ And for that, I cite to the attorney 
 
 6
 
- general's brief at page ­­ their complaint, page 32a of 
+ general's brief at page  their complaint, page 32a of 
 
 7
 
- our cert ap, paragraph 104, which acknowledges that LCDs 
+ our cert ap, paragraph 104, which acknowledges that LCDs 
 
 8
 
- were not even the leading technology for televisions 
+ were not even the leading technology for televisions 
 
 9
 
- back during this period of time. 
+ back during this period of time. 
 
 10
 
- JUSTICE BREYER: 
+ JUSTICE BREYER: 
 
-What about ­­ see, I can 
+What about  see, I can 
 
 11
 
- understand a complaint where they have taken 100 
+ understand a complaint where they have taken 100 
 
 12
 
- individuals, or 102, and they list them as plaintiffs, 
+ individuals, or 102, and they list them as plaintiffs, 
 
 13
 
- and they don't call it a class action.  And that would 
+ and they don't call it a class action.  And that would 
 
 14
 
- fall right within the meaning of mass action, if the 
+ fall right within the meaning of mass action, if the 
 
 15
 
- numbers are right. 
+ numbers are right. 
 
 16
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
 17
 
- JUSTICE BREYER: 
+ JUSTICE BREYER: 
 
-That's right. 
-But if we take 
+That's right. 
+But if we take 
 
 18
 
- your approach and depart from that mechanical, but 
+ your approach and depart from that mechanical, but 
 
 19
 
- simple ­­ simply administered interpretation, what is 
+ simple  simply administered interpretation, what is 
 
 20
 
- worrying me, and perhaps you can help me with that, is 
+ worrying me, and perhaps you can help me with that, is 
 
 21
 
- that there are perhaps all kinds of State actions where 
+ that there are perhaps all kinds of State actions where 
 
 22
 
- one of the motivating reasons is ­­ behind the lawsuit 
+ one of the motivating reasons is  behind the lawsuit 
 
 23
 
- is some person hurt our citizens. 
+ is some person hurt our citizens. 
 
 24
 
- And so, now, we will get into the instantly 
+ And so, now, we will get into the instantly 
 
 25
 
- interesting, but very difficult question of, well, when
+ interesting, but very difficult question of, well, when
 
 37
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- you say hurt your citizens, do you mean hurt them by 
+ you say hurt your citizens, do you mean hurt them by 
 
 2
 
- giving them rise to an independent cause of action for 
+ giving them rise to an independent cause of action for 
 
 3
 
- each of them, who we don't know who they are, and we 
+ each of them, who we don't know who they are, and we 
 
 4
 
- don't know if the statute of limitations has run to 
+ don't know if the statute of limitations has run to 
 
 5
 
- some, and we don't know if others have other 
+ some, and we don't know if others have other 
 
 6
 
- disabilities; but, nonetheless, we're not certain this 
+ disabilities; but, nonetheless, we're not certain this 
 
 7
 
- suit is entirely for that, it may be mixed up with other 
+ suit is entirely for that, it may be mixed up with other 
 
 8
 
- things. 
+ things. 
 
 9
 10
 
- Do you see the problem once I start down 
- your road? 
+ Do you see the problem once I start down 
+ your road? 
 
 11
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
 12
 
- JUSTICE BREYER: 
+ JUSTICE BREYER: 
 
 13
 14
 
-I do.  I do. 
-I've departed from the 
+I do.  I do. 
+I've departed from the 
 
- clear and simple. 
- MR. CURRAN: 
+ clear and simple. 
+ MR. CURRAN: 
 
-Okay.  But to be clear, our ­­
+Okay.  But to be clear, our 
 
 15
 
- in our position, the only basis we have for removal here 
+ in our position, the only basis we have for removal here 
 
 16
 
- is the inclusion of the restitution claim, which, under 
+ is the inclusion of the restitution claim, which, under 
 
 17
 
- Mississippi law, says that the claim belongs to the 
+ Mississippi law, says that the claim belongs to the 
 
 18
 
- citizens, and it's their money.  If ­­ if that claim 
+ citizens, and it's their money.  If  if that claim 
 
 19
 
- wasn't in this action ­­
+ wasn't in this action 
 
 20
 
- JUSTICE GINSBURG: 
+ JUSTICE GINSBURG: 
 
-That seems to be ­­ that 
+That seems to be  that 
 
 21
 
- seems to be disputed because I understood Mr. Massey to 
+ seems to be disputed because I understood Mr. Massey to 
 
 22
 
- say that the restitution claim would go to the State. 
+ say that the restitution claim would go to the State. 
 
 23
 
- And you say that that ­­ the restitution couldn't go to 
+ And you say that that  the restitution couldn't go to 
 
 24
 
- the State. 
+ the State. 
 
 25
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
-That's right.  There is a
+That's right.  There is a
 
 38
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 2
 
- dispute on that issue. 
- JUSTICE BREYER: 
+ dispute on that issue. 
+ JUSTICE BREYER: 
 
-You can hold him to that, 
+You can hold him to that, 
 
 3
 
- and I guess he can say, no, I don't want to be held to 
+ and I guess he can say, no, I don't want to be held to 
 
 4
 
- that or ­­ but that seemed to be not for this Court. 
+ that or  but that seemed to be not for this Court. 
 
 5
 
- Once he says it, I guess ­­
+ Once he says it, I guess 
 
 6
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
 7
 
- JUSTICE BREYER: 
+ JUSTICE BREYER: 
 
 8
 9
 
-We don't care where it goes. 
-But can we not take him at 
+We don't care where it goes. 
+But can we not take him at 
 
- his word?  He said it wasn't. 
- MR. CURRAN: 
+ his word?  He said it wasn't. 
+ MR. CURRAN: 
 
-Well, the Mississippi statute 
+Well, the Mississippi statute 
 
 10
 
- is clear.  The attorney general cited that.  The case 
+ is clear.  The attorney general cited that.  The case 
 
 11
 
- law is clear on that.  So ­­ and the Fifth Circuit found 
+ law is clear on that.  So  and the Fifth Circuit found 
 
 12
 
- that Mississippi law required the money to go to the 
+ that Mississippi law required the money to go to the 
 
 13
 
- individuals.  I think this Court should defer to those 
+ individuals.  I think this Court should defer to those 
 
 14
 
- prior rulings of ­­ of those courts. 
+ prior rulings of  of those courts. 
 
 15
 
- And ­­ so basically, back to the statutory 
+ And  so basically, back to the statutory 
 
 16
 
- language ­­ and by the way, parens patriae is such a 
+ language  and by the way, parens patriae is such a 
 
 17
 
- loose label that's thrown around.  The ­­ the attorney 
+ loose label that's thrown around.  The  the attorney 
 
 18
 
- generals seem to raise that up as a Latin shield of some 
+ generals seem to raise that up as a Latin shield of some 
 
 19
 
- kind, suggesting that, as long as they invoke that term, 
+ kind, suggesting that, as long as they invoke that term, 
 
 20
 
- that issues of federalism prevents removal or something. 
+ that issues of federalism prevents removal or something. 
 
 21
 
- That doesn't hold up. 
+ That doesn't hold up. 
 
 22
 
- The statutory language, which is in English, 
+ The statutory language, which is in English, 
 
 23
 
- says that specific ­­ specific cases are removable.  And 
+ says that specific  specific cases are removable.  And 
 
 24
 
- so we ­­ so I don't think we should ­­ I don't think 
+ so we  so I don't think we should  I don't think 
 
 25
 
- it's productive to talk about whether something is
+ it's productive to talk about whether something is
 
 39
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 2
 
- parens patriae or not. 
- But, Justice Breyer, there are a lot of 
+ parens patriae or not. 
+ But, Justice Breyer, there are a lot of 
 
 3
 
- cases that can be brought by State attorney generals 
+ cases that can be brought by State attorney generals 
 
 4
 
- that would not be mass actions, like this case without 
+ that would not be mass actions, like this case without 
 
 5
 
- the restitution claim.  Okay? 
+ the restitution claim.  Okay? 
 
 6
 
- Also, if there's a big pollution problem 
+ Also, if there's a big pollution problem 
 
 7
 
- or ­­ or some public nuisance or some other thing like 
+ or  or some public nuisance or some other thing like 
 
 8
 
- that, where ­­ where there's no identifiable victims, 
+ that, where  where there's no identifiable victims, 
 
 9
 
- but the public as a whole is injured, that ­­ that 
+ but the public as a whole is injured, that  that 
 
 10
 11
 
- probably is a quasi­sovereign claim. 
- JUSTICE SCALIA: 
+ probably is a quasisovereign claim. 
+ JUSTICE SCALIA: 
 
-What ­­ what do you do 
+What  what do you do 
 
 12
 
- about this ­­ this language in the definition?  I 
+ about this  this language in the definition?  I 
 
 13
 
- haven't heard you explain it. 
+ haven't heard you explain it. 
 
 14
 
- It ­­ it says ­­ it means any ­­ mass action 
+ It  it says  it means any  mass action 
 
 15
 
- means "any civil action in which monetary relief claims 
+ means "any civil action in which monetary relief claims 
 
 16
 
- of 100 or more persons are proposed to be tried jointly 
+ of 100 or more persons are proposed to be tried jointly 
 
 17
 
- on the ground that the plaintiffs' claims involve common 
+ on the ground that the plaintiffs' claims involve common 
 
 18
 
- questions of law or fact." 
+ questions of law or fact." 
 
 19
 
- Now, they're not proposed to be tried 
+ Now, they're not proposed to be tried 
 
 20
 
- jointly here on that ground.  They're being tried 
+ jointly here on that ground.  They're being tried 
 
 21
 
- jointly on the ground that the suit is being brought by 
+ jointly on the ground that the suit is being brought by 
 
 22
 
- the attorney general under this State statute. 
+ the attorney general under this State statute. 
 
 23
 24
 25
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
-Well, I ­­ I view that language 
+Well, I  I view that language 
 
- as contemplating a Rule 23 type analysis. 
- JUSTICE SCALIA: 
+ as contemplating a Rule 23 type analysis. 
+ JUSTICE SCALIA: 
 
-Yes, I understand that.
+Yes, I understand that.
 
 40
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
-Okay.  And in this case, we've 
+Okay.  And in this case, we've 
 
 2
 
- got a State attorney general who's suing, not only for 
+ got a State attorney general who's suing, not only for 
 
 3
 
- the consumers, but also for himself, right?  He's got 
+ the consumers, but also for himself, right?  He's got 
 
 4
 
- propriety claims in there.  He's also suing on ­­ for 
+ propriety claims in there.  He's also suing on  for 
 
 5
 
- all the counties and municipalities in Mississippi. 
+ all the counties and municipalities in Mississippi. 
 
 6
 
- I think a basis for his combination of those 
+ I think a basis for his combination of those 
 
 7
 
- claims in a single lawsuit is the inescapable 
+ claims in a single lawsuit is the inescapable 
 
 8
 
- commonality of fact and maybe law in those claims.  So 
+ commonality of fact and maybe law in those claims.  So 
 
 9
 
- I ­­ I do think that it ­­ it satisfies that language. 
+ I  I do think that it  it satisfies that language. 
 
 10
 
- JUSTICE KAGAN: 
+ JUSTICE KAGAN: 
 
-Well, Mr. Curran, really, do 
+Well, Mr. Curran, really, do 
 
 11
 
- you ­­ are you saying that, as a matter of State law, 
+ you  are you saying that, as a matter of State law, 
 
 12
 
- that, in this suit, the attorney general has to make a 
+ that, in this suit, the attorney general has to make a 
 
 13
 
- proposal that ­­ that the plaintiff ­­ that ­­ that he 
+ proposal that  that the plaintiff  that  that he 
 
 14
 
- can bring the suit on the grounds that the plaintiffs' 
+ can bring the suit on the grounds that the plaintiffs' 
 
 15
 
- claims involve common questions of law or fact and that 
+ claims involve common questions of law or fact and that 
 
 16
 
- that proposal has to be adjudicated by the Court? 
+ that proposal has to be adjudicated by the Court? 
 
 17
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
-I think, Justice Kagan, that 
+I think, Justice Kagan, that 
 
 18
 
- the attorney general has already done that.  I think 
+ the attorney general has already done that.  I think 
 
 19
 
- that his complaint, beginning on the first page, says, 
+ that his complaint, beginning on the first page, says, 
 
 20
 
- I'm bringing this claim on behalf of purchases by the 
+ I'm bringing this claim on behalf of purchases by the 
 
 21
 
- State and by its citizens of these LCD panels, and it's 
+ State and by its citizens of these LCD panels, and it's 
 
 22
 
- a single complaint.  So I think ­­ I think ­­
+ a single complaint.  So I think  I think 
 
 23
 
- JUSTICE KAGAN: 
+ JUSTICE KAGAN: 
 
-But he does not have to show 
+But he does not have to show 
 
 24
 
- any common questions of law or fact in the typical way 
+ any common questions of law or fact in the typical way 
 
 25
 
- that we demand.  I mean, that's actually a really
+ that we demand.  I mean, that's actually a really
 
 41
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- demanding showing that we have forced lawyers to make in 
+ demanding showing that we have forced lawyers to make in 
 
 2
 
- the class action context.  All that the attorney general 
+ the class action context.  All that the attorney general 
 
 3
 
- has to do is to stand up and say, I have a State 
+ has to do is to stand up and say, I have a State 
 
 4
 
- interest in protecting my citizens and in deterring 
+ interest in protecting my citizens and in deterring 
 
 5
 
- improper behavior, and here is my substantive right. 
+ improper behavior, and here is my substantive right. 
 
 6
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
-Well, I guess ­­ I suppose we 
+Well, I guess  I suppose we 
 
 7
 
- could move for bifurcation to separate the ­­ the 
+ could move for bifurcation to separate the  the 
 
 8
 
- proprietary claims from the claims on behalf of 
+ proprietary claims from the claims on behalf of 
 
 9
 
- citizens, and then he would say, no, it makes sense to 
+ citizens, and then he would say, no, it makes sense to 
 
 10
 
- keep them all together.  But ­­ but the ­­ the 
+ keep them all together.  But  but the  the 
 
 11
 
- sequencing of those arguments, I don't think should be 
+ sequencing of those arguments, I don't think should be 
 
 12
 
- dispositive here. 
+ dispositive here. 
 
 13
 14
 15
 
- By filing a complaint, again, I invoke 
- Rule ­­ Rule 42 of the Code of Federal Civil Procedure. 
- JUSTICE KAGAN: 
+ By filing a complaint, again, I invoke 
+ Rule  Rule 42 of the Code of Federal Civil Procedure. 
+ JUSTICE KAGAN: 
 
-I guess I don't understand 
+I guess I don't understand 
 
 16
 
- the bifurcation point.  It seems to me that what the 
+ the bifurcation point.  It seems to me that what the 
 
 17
 
- attorney general is saying is he has a set of claims. 
+ attorney general is saying is he has a set of claims. 
 
 18
 
- They're his claims on behalf of the ­­ the populace, 
+ They're his claims on behalf of the  the populace, 
 
 19
 
- but ­­ but to further State's own interests. 
+ but  but to further State's own interests. 
 
 20
 
- And there ­­ there's none of this Rule 23 
+ And there  there's none of this Rule 23 
 
 21
 
- kind of business about common questions of law or fact. 
+ kind of business about common questions of law or fact. 
 
 22
 
- So it's not a question of ­­ you know, one set of claims 
+ So it's not a question of  you know, one set of claims 
 
 23
 
- or another set of claims, now or later.  He has a claim. 
+ or another set of claims, now or later.  He has a claim. 
 
 24
 
- That's all he has. 
+ That's all he has. 
 
 25
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
-Well, certainly, he ­­ he at
+Well, certainly, he  he at
 
 42
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- least is attempting to combine the claims of all the 
+ least is attempting to combine the claims of all the 
 
 2
 
- various individuals in the State on the grounds of 
+ various individuals in the State on the grounds of 
 
 3
 
- commonality, right?  I mean, even if you separate his 
+ commonality, right?  I mean, even if you separate his 
 
 4
 
- claims out, I mean, it's ­­ the reason is ­­
+ claims out, I mean, it's  the reason is 
 
 5
 
- JUSTICE KENNEDY: 
+ JUSTICE KENNEDY: 
 
-Suppose it's a given that 
+Suppose it's a given that 
 
 6
 
- we all concede that the complaint is both for 
+ we all concede that the complaint is both for 
 
 7
 
- private­named persons and for restitution.  Both.  What 
+ privatenamed persons and for restitution.  Both.  What 
 
 8
 
- result? 
+ result? 
 
 9
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
-Well, certainly, it's ­­ it's a 
+Well, certainly, it's  it's a 
 
 10
 
- mass action in that circumstance because restitution, 
+ mass action in that circumstance because restitution, 
 
 11
 
- under Mississippi law, is for those specified 
+ under Mississippi law, is for those specified 
 
 12
 
- individuals. 
+ individuals. 
 
 13
 14
 15
 16
 
- JUSTICE KENNEDY: 
+ JUSTICE KENNEDY: 
 
-No, the rest of my 
+No, the rest of my 
 
- hypothetical, part of the restitution goes to the State. 
- MR. CURRAN: 
+ hypothetical, part of the restitution goes to the State. 
+ MR. CURRAN: 
 
-Well, then, again, the 
+Well, then, again, the 
 
- statutory language says if it's a civil action ­­
+ statutory language says if it's a civil action 
 
 17
 
- JUSTICE KENNEDY: 
+ JUSTICE KENNEDY: 
 
 18
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
-Where's the language? 
-Well, it's at the beginning of 
+Where's the language? 
+Well, it's at the beginning of 
 
 19
 
- the mass action definition.  You can look at it on 
+ the mass action definition.  You can look at it on 
 
 20
 
- either 65(a) and 66(a) or 79(a). 
+ either 65(a) and 66(a) or 79(a). 
 
 21
 
- JUSTICE KENNEDY: 
+ JUSTICE KENNEDY: 
 
 22
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
-I have 79. 
-Okay.  79(a), "Mass action 
+I have 79. 
+Okay.  79(a), "Mass action 
 
 23
 
- means any civil action in which monetary relief claims of 
+ means any civil action in which monetary relief claims of 
 
 24
 
- 100 or more persons."  So as long as you've got a 
+ 100 or more persons."  So as long as you've got a 
 
 25
 
- qualifying claim, then the civil action's removable.
+ qualifying claim, then the civil action's removable.
 
 43
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- And it doesn't matter if there are additional claims or 
+ And it doesn't matter if there are additional claims or 
 
 2
 
- extraneous claims. 
+ extraneous claims. 
 
 3
 
- So the ­­ the claim here for restitution on 
+ So the  the claim here for restitution on 
 
 4
 
- behalf of Mississippi citizens is, in and of itself, 
+ behalf of Mississippi citizens is, in and of itself, 
 
 5
 
- enough to make this a mass action. 
+ enough to make this a mass action. 
 
 6
 
- And, again ­­ and, Justice Kagan, maybe this 
+ And, again  and, Justice Kagan, maybe this 
 
 7
 
- is getting back to ­­ to your point.  I refer to the 
+ is getting back to  to your point.  I refer to the 
 
 8
 
- references to representative actions in the ­­ in the 
+ references to representative actions in the  in the 
 
 9
 
- General Public Provision and in the 1407 provision that 
+ General Public Provision and in the 1407 provision that 
 
 10
 
- inescapably mean that ­­ that this provision can apply 
+ inescapably mean that  that this provision can apply 
 
 11
 
- to representative actions. 
+ to representative actions. 
 
 12
 
- Maybe that doesn't satisfy your commonality 
+ Maybe that doesn't satisfy your commonality 
 
 13
 
- point, but ­­ but it gets part of the way there. 
+ point, but  but it gets part of the way there. 
 
 14
 
- JUSTICE KAGAN: 
+ JUSTICE KAGAN: 
 
-And this is the main 
+And this is the main 
 
 15
 
- provision where they're trying to define what mass 
+ provision where they're trying to define what mass 
 
 16
 
- action means.  And I take your point that there are ­­
+ action means.  And I take your point that there are 
 
 17
 
- there's some slippage between this provision and the 
+ there's some slippage between this provision and the 
 
 18
 
- various provisions that it refers back to because those 
+ various provisions that it refers back to because those 
 
 19
 
- provisions ­­ we're talking about class actions, and 
+ provisions  we're talking about class actions, and 
 
 20
 
- this one is talking about mass actions. 
+ this one is talking about mass actions. 
 
 21
 
- But this is the essential definition. 
+ But this is the essential definition. 
 
-And 
+And 
 
 22
 
- this one seems to be pointing to a very different kind 
+ this one seems to be pointing to a very different kind 
 
 23
 
- of suit, one in which there are 100 individual claims 
+ of suit, one in which there are 100 individual claims 
 
 24
 
- that ­­ that 100 people seek to have joined in which a 
+ that  that 100 people seek to have joined in which a 
 
 25
 
- court is going to make a determination about whether
+ court is going to make a determination about whether
 
 44
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- those 100 individual claims have questions of common law 
+ those 100 individual claims have questions of common law 
 
 2
 
- or fact. 
+ or fact. 
 
 3
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
-If that's all this statute was 
+If that's all this statute was 
 
 4
 
- meant to reach, that would have been such an easy 
+ meant to reach, that would have been such an easy 
 
 5
 
- statute to write.  Instead of this more convoluted 
+ statute to write.  Instead of this more convoluted 
 
 6
 
- language, it could have just said if it's a civil action 
+ language, it could have just said if it's a civil action 
 
 7
 
- in which 100 or more named plaintiffs are asserting 
+ in which 100 or more named plaintiffs are asserting 
 
 8
 
- monetary relief claims for joint ­­
+ monetary relief claims for joint 
 
 9
 10
 11
 
- JUSTICE SOTOMAYOR: 
+ JUSTICE SOTOMAYOR: 
 
-But that would have 
+But that would have 
 
- required this Court ­­
- JUSTICE KAGAN: 
+ required this Court 
+ JUSTICE KAGAN: 
 
-That's essentially what it 
+That's essentially what it 
 
 12
 
- says.  I mean, the only ­­ the only thing it doesn't say 
+ says.  I mean, the only  the only thing it doesn't say 
 
 13
 
- in what you just said is that it says persons, instead 
+ in what you just said is that it says persons, instead 
 
 14
 
- of named plaintiffs.  But then, if you read the 
+ of named plaintiffs.  But then, if you read the 
 
 15
 
- sentence, it's pretty clear that persons and plaintiffs 
+ sentence, it's pretty clear that persons and plaintiffs 
 
 16
 
- are the same. 
+ are the same. 
 
 17
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
-Well, how ­­ well, first of 
+Well, how  well, first of 
 
 18
 
- all, how do you explain ­­ I don't mean to pose a 
+ all, how do you explain  I don't mean to pose a 
 
 19
 
- question to you ­­ it's inexplicable that the word 
+ question to you  it's inexplicable that the word 
 
 20
 
- "persons" ­­
+ "persons" 
 
 21
 
- JUSTICE KAGAN: 
+ JUSTICE KAGAN: 
 
 22
 
- (Laughter.) 
+ (Laughter.) 
 
 23
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
-I might not answer it. 
+I might not answer it. 
 
-It's ­­ it's inexplicable that 
+It's  it's inexplicable that 
 
 24
 
- Congress would use the word "persons" and then, 12 words 
+ Congress would use the word "persons" and then, 12 words 
 
 25
 
- later, use "plaintiffs," if it signifies the exact same
+ later, use "plaintiffs," if it signifies the exact same
 
 45
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- thing and then continue to use the term "plaintiffs" 
+ thing and then continue to use the term "plaintiffs" 
 
 2
 
- throughout. 
+ throughout. 
 
 3
 
- JUSTICE SOTOMAYOR: 
+ JUSTICE SOTOMAYOR: 
 
-But  isn’t your 
+But  isn't your 
 
 4
 
- proposal mean that before someone can remove, they have 
+ proposal mean that before someone can remove, they have 
 
 5
 
- to decide whether the class is certifiable? 
+ to decide whether the class is certifiable? 
 
 6
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
 7
 
- JUSTICE SOTOMAYOR: 
+ JUSTICE SOTOMAYOR: 
 
-No. 
-Because you're not going 
+No. 
+Because you're not going 
 
 8
 
- to decide whether these plaintiffs are actually going to 
+ to decide whether these plaintiffs are actually going to 
 
 9
 
- be plaintiffs and part of this class until you decide 
+ be plaintiffs and part of this class until you decide 
 
 10
 
- the class question.  If you use the word "persons" and 
+ the class question.  If you use the word "persons" and 
 
 11
 
- you use the language of the statute, it's the class 
+ you use the language of the statute, it's the class 
 
 12
 
- that's being proposed.  It's the named plaintiffs and 
+ that's being proposed.  It's the named plaintiffs and 
 
 13
 
- the class that's being proposed of persons that are 
+ the class that's being proposed of persons that are 
 
 14
 
- being proposed to be tried together. 
+ being proposed to be tried together. 
 
 15
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
-There's another provision in 
+There's another provision in 
 
 16
 
- here that is incorporated into the mass action ­­ you 
+ here that is incorporated into the mass action  you 
 
 17
 
- know, you will recall that if something qualifies as a 
+ know, you will recall that if something qualifies as a 
 
 18
 
- mass action then the provisions dealing with class 
+ mass action then the provisions dealing with class 
 
 19
 
- actions apply as well.  And sub­part 8, which is found 
+ actions apply as well.  And subpart 8, which is found 
 
 20
 
- at the bottom of 77a, specifically says, "This 
+ at the bottom of 77a, specifically says, "This 
 
 21
 
- subsection shall apply to any class action before or 
+ subsection shall apply to any class action before or 
 
 22
 
- after the entry of a class certification order by the 
+ after the entry of a class certification order by the 
 
 23
 
- court with respect to that action." 
+ court with respect to that action." 
 
 24
 25
 
- So it's ­­ what this statute is addressing 
- is possible class actions.  And, in fact, I think ­­ I
+ So it's  what this statute is addressing 
+ is possible class actions.  And, in fact, I think  I
 
 46
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- think it makes sense to ­­ to view this ­­ this 
+ think it makes sense to  to view this  this 
 
 2
 
- statutory question in light of the overriding statutory 
+ statutory question in light of the overriding statutory 
 
 3
 
- purpose here. 
+ purpose here. 
 
 4
 
- And, Justice Breyer, you address this in 
+ And, Justice Breyer, you address this in 
 
 5
 
- your opinion in Standard Fire.  The driving force behind 
+ your opinion in Standard Fire.  The driving force behind 
 
 6
 
- this statute was to put interstate claims of national 
+ this statute was to put interstate claims of national 
 
 7
 
- importance into Federal court, to provide the option of 
+ importance into Federal court, to provide the option of 
 
 8
 
- a Federal forum.  And in that case, in Standard Fire, 
+ a Federal forum.  And in that case, in Standard Fire, 
 
 9
 
- this Court unanimously examined the statutory question 
+ this Court unanimously examined the statutory question 
 
 10
 
- there through that lens. 
+ there through that lens. 
 
 11
 
- Here ­­ so Congress dealt with class actions 
+ Here  so Congress dealt with class actions 
 
 12
 
- proper, if you will, under Rule 23, in the class action 
+ proper, if you will, under Rule 23, in the class action 
 
 13
 
- section.  And then it's got the mass action section, 
+ section.  And then it's got the mass action section, 
 
 14
 
- which is inescapably designed to catch other devices 
+ which is inescapably designed to catch other devices 
 
 15
 
- that have the same problems. 
+ that have the same problems. 
 
 16
 
- JUSTICE SCALIA: 
+ JUSTICE SCALIA: 
 
 17
 
- do it right, you know? 
+ do it right, you know? 
 
 18
 
- (Laughter.) 
+ (Laughter.) 
 
 19
 
- JUSTICE SCALIA: 
+ JUSTICE SCALIA: 
 
-Sometimes, Congress doesn't 
+Sometimes, Congress doesn't 
 
-Sometimes, they try to 
+Sometimes, they try to 
 
 20
 
- catch everything, but the language they use doesn't do 
+ catch everything, but the language they use doesn't do 
 
 21
 
- it. 
+ it. 
 
 22
 23
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
-But, here, I think it does do 
+But, here, I think it does do 
 
- it. 
+ it. 
 
 24
 
- JUSTICE KAGAN: 
+ JUSTICE KAGAN: 
 
 25
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
-But more than that ­­
-And if there are competing
+But more than that 
+And if there are competing
 
 47
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- interpretations, then that purpose should drive the 
+ interpretations, then that purpose should drive the 
 
 2
 
- decision. 
+ decision. 
 
 3
 
- JUSTICE KAGAN: 
+ JUSTICE KAGAN: 
 
-But more than that, 
+But more than that, 
 
 4
 
- Mr. Curran, is that there was actually a considered 
+ Mr. Curran, is that there was actually a considered 
 
 5
 
- effort by the attorneys generals here to take themselves 
+ effort by the attorneys generals here to take themselves 
 
 6
 
- out of this statute ­­
+ out of this statute 
 
 7
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
 8
 
- JUSTICE KAGAN: 
+ JUSTICE KAGAN: 
 
-And they failed. 
-­­ and that that ­­ well, 
+And they failed. 
+ and that that  well, 
 
 9
 
- you say they failed, and ­­ I mean, that's the statutory 
+ you say they failed, and  I mean, that's the statutory 
 
 10
 
- question.  But it's not just Congress didn't do it right 
+ question.  But it's not just Congress didn't do it right 
 
 11
 
- this time.  It was that there was a very serious effort 
+ this time.  It was that there was a very serious effort 
 
 12
 
- to get attorneys general out of this statute.  And 
+ to get attorneys general out of this statute.  And 
 
 13
 
- that's ­­ and ­­ you know, it seems to me that they did 
+ that's  and  you know, it seems to me that they did 
 
 14
 
- pretty well. 
+ pretty well. 
 
 15
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
-No, no, no, no.  No.  They made 
+No, no, no, no.  No.  They made 
 
 16
 
- their proposal to ­­ to modify the statute after the Act 
+ their proposal to  to modify the statute after the Act 
 
 17
 
- was in this form.  They saw the Act in this form ­­ and 
+ was in this form.  They saw the Act in this form  and 
 
 18
 
- including Attorney General Hood sent a letter to 
+ including Attorney General Hood sent a letter to 
 
 19
 
- Congress saying this is going to infringe upon our 
+ Congress saying this is going to infringe upon our 
 
 20
 
- rights to parens patriae cases.  That amendment 
+ rights to parens patriae cases.  That amendment 
 
 21
 
- sponsored by Senator Pryor failed. 
+ sponsored by Senator Pryor failed. 
 
 22
 
- So I ­­ I think the only conclusion that can 
+ So I  I think the only conclusion that can 
 
 23
 
- be drawn from that is that Attorney General Hood and 
+ be drawn from that is that Attorney General Hood and 
 
 24
 
- many of his counterparts in other States saw this 
+ many of his counterparts in other States saw this 
 
 25
 
- problem, saw this ­­ this threat.
+ problem, saw this  this threat.
 
 48
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- Now, a response that some on the Senate 
+ Now, a response that some on the Senate 
 
 2
 
- floor gave to that proposal was it's not really 
+ floor gave to that proposal was it's not really 
 
 3
 
- necessary.  But the reason it was not really necessary 
+ necessary.  But the reason it was not really necessary 
 
 4
 
- is because the bona fide interests of the State were 
+ is because the bona fide interests of the State were 
 
 5
 
- already protected, through the local controversy rule 
+ already protected, through the local controversy rule 
 
 6
 
- and through the general public exception. 
+ and through the general public exception. 
 
 7
 
- Congress did not intend for State attorneys 
+ Congress did not intend for State attorneys 
 
 8
 
- general to be able to use their offices to hire outside 
+ general to be able to use their offices to hire outside 
 
 9
 
- counsel ­­ out­of­State outside counsel, to copycat a 
+ counsel  outofState outside counsel, to copycat a 
 
 10
 
- class action complaint from an MDL, bring it again ­­
+ class action complaint from an MDL, bring it again 
 
 11
 
- JUSTICE GINSBURG: 
+ JUSTICE GINSBURG: 
 
-Maybe ­­
+Maybe 
 
-maybe they 
+maybe they 
 
 12
 
- didn't, but if you look at the committee report, what is 
+ didn't, but if you look at the committee report, what is 
 
 13
 
- the definition of mass action?  And it is, under this 
+ the definition of mass action?  And it is, under this 
 
 14
 
- new subsection D­11, "expands the jurisdiction over suits 
+ new subsection D11, "expands the jurisdiction over suits 
 
 15
 
- that are brought on behalf of numerous" ­­ numerous ­­
+ that are brought on behalf of numerous"  numerous 
 
 16
 
- "named plaintiffs."  "Numerous named plaintiffs." 
+ "named plaintiffs."  "Numerous named plaintiffs." 
 
 17
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
-Yes, I am familiar with that 
+Yes, I am familiar with that 
 
 18
 
- sentence in that Senate report.  I am also aware that 
+ sentence in that Senate report.  I am also aware that 
 
 19
 
- that Senate report was issued and dated a week or ten 
+ that Senate report was issued and dated a week or ten 
 
 20
 
- days after Senate ­­ after President Bush signed this 
+ days after Senate  after President Bush signed this 
 
 21
 
- Act, so I question its value and its credibility. 
+ Act, so I question its value and its credibility. 
 
 22
 23
 
- JUSTICE SCALIA: 
+ JUSTICE SCALIA: 
 
-You mean it's contrived 
+You mean it's contrived 
 
- legislative history? I can’t imagine. 
+ legislative history? I can't imagine. 
 
 24
 
- (Laughter.) 
+ (Laughter.) 
 
 25
 
- MR. CURRAN: 
+ MR. CURRAN: 
 
-But ­­ but even if it somehow
+But  but even if it somehow
 
 49
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- could be considered, I don't think that ­­ that sentence 
+ could be considered, I don't think that  that sentence 
 
 2
 
- is definitional.  That, certainly, is one alternative 
+ is definitional.  That, certainly, is one alternative 
 
 3
 
- to ­­ to conventional class actions that Congress was 
+ to  to conventional class actions that Congress was 
 
 4
 
- concerned about. 
+ concerned about. 
 
 5
 
- Our point is it wasn't the only one. 
+ Our point is it wasn't the only one. 
 
 6
 
- Congress was trying to close loopholes and trying to 
+ Congress was trying to close loopholes and trying to 
 
 7
 
- prevent abuses, and a miserly interpretation of the 
+ prevent abuses, and a miserly interpretation of the 
 
 8
 
- class ­­ of the mass action definition would undermine 
+ class  of the mass action definition would undermine 
 
 9
 
- that ­­ that purpose. 
+ that  that purpose. 
 
 10
 
- Now, in my remaining time perhaps, not ­­
+ Now, in my remaining time perhaps, not 
 
 11
 
- Justice Kagan, at the end of the day there was no 
+ Justice Kagan, at the end of the day there was no 
 
 12
 
- carve­out in the statute for attorney general actions, 
+ carveout in the statute for attorney general actions, 
 
 13
 
- even though that was sought.  But the Act does reflect 
+ even though that was sought.  But the Act does reflect 
 
 14
 
- some sensitivity for federalism concerns. 
+ some sensitivity for federalism concerns. 
 
 15
 
- It's got an exception for situations where 
+ It's got an exception for situations where 
 
 16
 
- States are the primary defendants ­­ or State officials 
+ States are the primary defendants  or State officials 
 
 17
 
- are the primary defendants.  There is also a 
+ are the primary defendants.  There is also a 
 
 18
 
- notification to State attorneys general when there's a 
+ notification to State attorneys general when there's a 
 
 19
 
- settlement of a class action. 
+ settlement of a class action. 
 
 20
 
- Those kinds of provisions show that Congress 
+ Those kinds of provisions show that Congress 
 
 21
 
- was trying to be sensitive, and it was horse trading, it 
+ was trying to be sensitive, and it was horse trading, it 
 
 22
 
- was cutting deals, it was log rolling, coming up with an 
+ was cutting deals, it was log rolling, coming up with an 
 
 23
 
- Act here that was at once sensitive to federalism 
+ Act here that was at once sensitive to federalism 
 
 24
 
- concerns, but also trying to solve the very real abuses 
+ concerns, but also trying to solve the very real abuses 
 
 25
 
- that it had identified.
+ that it had identified.
 
 50
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- And on the federalism point, the attorney 
+ And on the federalism point, the attorney 
 
 2
 
- general's brief has a lot of citations to Eleventh 
+ general's brief has a lot of citations to Eleventh 
 
 3
 
- Amendment issues, and some of this Court's precedents 
+ Amendment issues, and some of this Court's precedents 
 
 4
 
- dealing with State sovereign immunity.  I submit that 
+ dealing with State sovereign immunity.  I submit that 
 
 5
 
- those precedents and that Amendment deal only with 
+ those precedents and that Amendment deal only with 
 
 6
 
- situations where the State is a defendant. 
+ situations where the State is a defendant. 
 
 7
 
- And here, where we are talking about the 
+ And here, where we are talking about the 
 
 8
 
- State as a plaintiff ­­ and the only intrusion we are 
+ State as a plaintiff  and the only intrusion we are 
 
 9
 
- talking about is removal from State court to Federal 
+ talking about is removal from State court to Federal 
 
 10
 
- court, that is not on the same playing field as the 
+ court, that is not on the same playing field as the 
 
 11
 
- authorities relied on by the attorney general. 
+ authorities relied on by the attorney general. 
 
 12
 
- A couple of other things. 
+ A couple of other things. 
 
-There was a 
+There was a 
 
 13
 
- suggestion in the reply brief that the complaint here 
+ suggestion in the reply brief that the complaint here 
 
 14
 
- was not, in fact, a copycat case ­­ a copycat complaint, 
+ was not, in fact, a copycat case  a copycat complaint, 
 
 15
 
- but instead, was a summary of the Federal indictments, 
+ but instead, was a summary of the Federal indictments, 
 
 16
 
- and that that explains the eerie similarity between the 
+ and that that explains the eerie similarity between the 
 
 17
 
- class action complaint and the attorney general's 
+ class action complaint and the attorney general's 
 
 18
 
- complaint.  That ­­ that's just factually not right. 
+ complaint.  That  that's just factually not right. 
 
 19
 
- The ­­ some companies who were defendants, 
+ The  some companies who were defendants, 
 
 20
 
- like my client, Toshiba, was never charged or convicted 
+ like my client, Toshiba, was never charged or convicted 
 
 21
 
- of anything in this case, yet we're a defendant in this 
+ of anything in this case, yet we're a defendant in this 
 
 22
 
- case, and that's because we were a defendant in the 
+ case, and that's because we were a defendant in the 
 
 23
 
- class action case that was copied. 
+ class action case that was copied. 
 
 24
 25
 
- And, in fact, the indictments against some 
- companies bear very little resemblance to the complaint
+ And, in fact, the indictments against some 
+ companies bear very little resemblance to the complaint
 
 51
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- that the attorney general has filed here, in terms of 
+ that the attorney general has filed here, in terms of 
 
 2
 
- the duration of the conspiracy and the subject matter of 
+ the duration of the conspiracy and the subject matter of 
 
 3
 
- the products that are alleged ­­ were allegedly 
+ the products that are alleged  were allegedly 
 
 4
 
- price­fixed. 
+ pricefixed. 
 
 5
 6
@@ -5658,359 +5658,359 @@ Alderson Reporting Company
 10
 11
 
- Unless there are any further questions, 
- thank you. 
- CHIEF JUSTICE ROBERTS: 
+ Unless there are any further questions, 
+ thank you. 
+ CHIEF JUSTICE ROBERTS: 
 
-Thank you, 
+Thank you, 
 
- Mr. Curran. 
- Mr. Massey, you have four minutes remaining. 
- REBUTTAL ARGUMENT OF JONATHAN S. MASSEY 
- ON BEHALF OF THE PETITIONER 
+ Mr. Curran. 
+ Mr. Massey, you have four minutes remaining. 
+ REBUTTAL ARGUMENT OF JONATHAN S. MASSEY 
+ ON BEHALF OF THE PETITIONER 
 
 12
 
- MR. MASSEY: 
+ MR. MASSEY: 
 
 13
 
- Mr. Chief Justice, and may it please the 
+ Mr. Chief Justice, and may it please the 
 
 14
 15
 
-Thank you. 
+Thank you. 
 
- Court: 
- The issues that I'd like to raise on 
+ Court: 
+ The issues that I'd like to raise on 
 
 16
 
- rebuttal are limited.  The ­­ the most important thing 
+ rebuttal are limited.  The  the most important thing 
 
 17
 
- is that jurisdictional schemes should be simple, 
+ is that jurisdictional schemes should be simple, 
 
 18
 
- administrable, predictable. 
+ administrable, predictable. 
 
 19
 
- The simplest route ­­ the simplest 
+ The simplest route  the simplest 
 
 20
 
- interpretation is the one we have shown, that these ­­
+ interpretation is the one we have shown, that these 
 
 21
 
- the statute is directed at actual plaintiffs with 
+ the statute is directed at actual plaintiffs with 
 
 22
 
- concrete claims that are proposed to be tried jointly. 
+ concrete claims that are proposed to be tried jointly. 
 
 23
 
- The only thing our friends on the other side 
+ The only thing our friends on the other side 
 
 24
 
- have pointed out is the use of the ­­ is the word 
+ have pointed out is the use of the  is the word 
 
 25
 
- "persons."  Justice Sotomayor is 100 percent correct
+ "persons."  Justice Sotomayor is 100 percent correct
 
 52
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- that the word "persons" is basically ­­ is an echo of 
+ that the word "persons" is basically  is an echo of 
 
 2
 
- Rule 20, of the joinder rule, which also refers to 
+ Rule 20, of the joinder rule, which also refers to 
 
 3
 
- persons and plaintiffs. 
+ persons and plaintiffs. 
 
 4
 
- So the fact that Congress used the word 
+ So the fact that Congress used the word 
 
 5
 
- "person" once in a mass action definition simply 
+ "person" once in a mass action definition simply 
 
 6
 
- confirms our point that the statute is really directed 
+ confirms our point that the statute is really directed 
 
 7
 
- at the mass joinder, mass consolidation situation, and 
+ at the mass joinder, mass consolidation situation, and 
 
 8
 
- does not have anything to do with actions by sovereign 
+ does not have anything to do with actions by sovereign 
 
 9
 
- States. 
+ States. 
 
 10
 
- Their primary argument seems to be that the 
+ Their primary argument seems to be that the 
 
 11
 
- attorney general doesn't really own the claims in this 
+ attorney general doesn't really own the claims in this 
 
 12
 
- case, that these are claims that are owned by the 
+ case, that these are claims that are owned by the 
 
 13
 
- citizens of Mississippi.  That is a classic State law 
+ citizens of Mississippi.  That is a classic State law 
 
 14
 
- issue, which should be raised on remand in the State 
+ issue, which should be raised on remand in the State 
 
 15
 
- court.  A very similar ­­
+ court.  A very similar 
 
 16
 
- JUSTICE SCALIA: 
+ JUSTICE SCALIA: 
 
 17
 18
 
-Did not the Fifth Circuit 
+Did not the Fifth Circuit 
 
- decide that State law question? 
- MR. MASSEY: 
+ decide that State law question? 
+ MR. MASSEY: 
 
-No, Your Honor, we don't 
+No, Your Honor, we don't 
 
 19
 
- believe so.  That the Fifth Circuit ruled on its ­­ the 
+ believe so.  That the Fifth Circuit ruled on its  the 
 
 20
 
- interpretation of CAFA and said that, for purposes of 
+ interpretation of CAFA and said that, for purposes of 
 
 21
 
- the statute, the claims were removable.  But it didn't 
+ the statute, the claims were removable.  But it didn't 
 
 22
 
- decide the attorney general's authority to sue in the 
+ decide the attorney general's authority to sue in the 
 
 23
 
- name of the State under the statutes which give him that 
+ name of the State under the statutes which give him that 
 
 24
 
- authority. 
+ authority. 
 
 25
 
- The ­­ we don't think the Fifth Circuit
+ The  we don't think the Fifth Circuit
 
 53
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- decided that question, and I read the Red Brief at page 
+ decided that question, and I read the Red Brief at page 
 
 2
 
- 33 as saying the attorney general's authority is not at 
+ 33 as saying the attorney general's authority is not at 
 
 3
 
- issue here, that we assume the attorney general has the 
+ issue here, that we assume the attorney general has the 
 
 4
 
- authority to bring the claims in the complaint as he 
+ authority to bring the claims in the complaint as he 
 
 5
 
- pled them, which is the restitution claimed in the name 
+ pled them, which is the restitution claimed in the name 
 
 6
 
- of the State. 
+ of the State. 
 
 7
 
- And the ­­ there was a decision in 
+ And the  there was a decision in 
 
 8
 
- Mississippi in 2006, the only really relevant authority. 
+ Mississippi in 2006, the only really relevant authority. 
 
 9
 
- It's called the BASF case.  And there, a lower court in 
+ It's called the BASF case.  And there, a lower court in 
 
 10
 
- Mississippi, the Chancery Court, upheld the attorney 
+ Mississippi, the Chancery Court, upheld the attorney 
 
 11
 
- general's authority to bring a very similar parens 
+ general's authority to bring a very similar parens 
 
 12
 
- patriae case. 
+ patriae case. 
 
 13
 
- JUSTICE BREYER: 
+ JUSTICE BREYER: 
 
-What he says is ­­ in the 
+What he says is  in the 
 
 14
 
- complaint, it says ­­ "prays that the defendant be 
+ complaint, it says  "prays that the defendant be 
 
 15
 
- ordered to restitute any and all monies for the 
+ ordered to restitute any and all monies for the 
 
 16
 
- purchases of its citizens." 
+ purchases of its citizens." 
 
 17
 
- All right. 
+ All right. 
 
-Now, you look at the statute he 
+Now, you look at the statute he 
 
 18
 
- quoted, the Mississippi statute, and it says there is 
+ quoted, the Mississippi statute, and it says there is 
 
 19
 
- the authority to have restitution to restore to any 
+ the authority to have restitution to restore to any 
 
 20
 
- person in interest any monies which may have been 
+ person in interest any monies which may have been 
 
 21
 
- acquired by means of a practice prohibited. 
+ acquired by means of a practice prohibited. 
 
 22
 
- So he says that sounds as if what you're 
+ So he says that sounds as if what you're 
 
 23
 
- talking about is you want restitution, though, given to 
+ talking about is you want restitution, though, given to 
 
 24
 
- the State, the restitution is for individual purchases 
+ the State, the restitution is for individual purchases 
 
 25
 
- of individual citizens because there could be no other.
+ of individual citizens because there could be no other.
 
 54
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- And, therefore, you have a list of people in mind, or 
+ And, therefore, you have a list of people in mind, or 
 
 2
 
- you must find one, where there were particular 
+ you must find one, where there were particular 
 
 3
 
- individual purchases, by individual citizens, and get 
+ individual purchases, by individual citizens, and get 
 
 4
 
- that restitution into the treasury. 
+ that restitution into the treasury. 
 
 5
 
- All right. 
+ All right. 
 
-Now, that ­­ I think something 
+Now, that  I think something 
 
 6
 
- like that was his argument, and I wanted to know what 
+ like that was his argument, and I wanted to know what 
 
 7
 
- you were going to say.  Are you going to give up these 
+ you were going to say.  Are you going to give up these 
 
 8
 
- last five words, "and the purchases of its citizens"? 
+ last five words, "and the purchases of its citizens"? 
 
 9
 10
 11
 
- JUSTICE SCALIA: 
+ JUSTICE SCALIA: 
 
-And that's what I 
+And that's what I 
 
- understood the Fifth Circuit to have held. 
- MR. MASSEY: 
+ understood the Fifth Circuit to have held. 
+ MR. MASSEY: 
 
-Well, what the ­­ what the ­­
+Well, what the  what the 
 
 12
 
- what the prayer for relief says is the ­­ "restitute to 
+ what the prayer for relief says is the  "restitute to 
 
 13
 
- the State" ­­
+ the State" 
 
 14
 
- JUSTICE BREYER: 
+ JUSTICE BREYER: 
 
 15
 
- MR. MASSEY: 
+ MR. MASSEY: 
 
 16
 17
@@ -6020,298 +6020,298 @@ Well, what the ­­ what the ­­
 21
 22
 
-­­ "for its purchases and the 
+ "for its purchases and the 
 
- purchases of its citizens." 
- JUSTICE BREYER: 
+ purchases of its citizens." 
+ JUSTICE BREYER: 
 
-Yes, and the purchases of 
+Yes, and the purchases of 
 
- its citizens. 
- MR. MASSEY: 
+ its citizens. 
+ MR. MASSEY: 
 
-So the State will get the 
+So the State will get the 
 
- money ­­
- JUSTICE BREYER: 
+ money 
+ JUSTICE BREYER: 
 
-I know they'll get the 
+I know they'll get the 
 
- money ­­
+ money 
 
 23
 
- MR. MASSEY: 
+ MR. MASSEY: 
 
 24
 
- JUSTICE BREYER: 
+ JUSTICE BREYER: 
 
 25
 
-Right. 
+Right. 
 
-Right. 
-­­ but he's saying, to get 
+Right. 
+ but he's saying, to get 
 
- the money, you have to say which money.
+ the money, you have to say which money.
 
 55
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
 
 1
 
- MR. MASSEY: 
+ MR. MASSEY: 
 
 2
 
- JUSTICE BREYER: 
+ JUSTICE BREYER: 
 
-Well, it ­­
-And to get the money, which 
+Well, it 
+And to get the money, which 
 
 3
 
- money means you better have a list of the individual 
+ money means you better have a list of the individual 
 
 4
 
- people who bought something, or otherwise, there is no 
+ people who bought something, or otherwise, there is no 
 
 5
 
- such money. 
+ such money. 
 
 6
 
- And that's enough to make those, in respect 
+ And that's enough to make those, in respect 
 
 7
 
- to this paragraph, individual people whose claims the 
+ to this paragraph, individual people whose claims the 
 
 8
 
- State of Mississippi is pursuing.  Something like that 
+ State of Mississippi is pursuing.  Something like that 
 
 9
 
- is his argument.  And I just wanted to know your 
+ is his argument.  And I just wanted to know your 
 
 10
 11
 
- response. 
- MR. MASSEY: 
+ response. 
+ MR. MASSEY: 
 
-Well, the ­­ the evidence will 
+Well, the  the evidence will 
 
 12
 
- be proven through statistical aggregate evidence, rather 
+ be proven through statistical aggregate evidence, rather 
 
 13
 
- than a list of names.  The list of names is impractical. 
+ than a list of names.  The list of names is impractical. 
 
 14
 
- The ­­ the State will show, basically, on the basis of 
+ The  the State will show, basically, on the basis of 
 
 15
 
- gross sales ­­
+ gross sales 
 
 16
 
- JUSTICE SOTOMAYOR: 
+ JUSTICE SOTOMAYOR: 
 
-But that has to go with 
+But that has to go with 
 
 17
 
- the facts of this case.  Don't go with the facts.  Go 
+ the facts of this case.  Don't go with the facts.  Go 
 
 18
 
- with the ­­ with the ­­ the point, which is that you ­­
+ with the  with the  the point, which is that you 
 
 19
 
- in ­­ in a normal case, aren't you, in fact, suing for 
+ in  in a normal case, aren't you, in fact, suing for 
 
 20
 
- the citizens?  The named citizens.  Or the citizens ­­
+ the citizens?  The named citizens.  Or the citizens 
 
 21
 
- MR. MASSEY: 
+ MR. MASSEY: 
 
-In many cases, we are.  It is 
+In many cases, we are.  It is 
 
 22
 
- still a public remedy of restitution.  In many cases, 
+ still a public remedy of restitution.  In many cases, 
 
 23
 
- the individuals may be identified. 
+ the individuals may be identified. 
 
 24
 
- Thank you. 
+ Thank you. 
 
 25
 
- CHIEF JUSTICE ROBERTS: 
+ CHIEF JUSTICE ROBERTS: 
 
 56
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Thank you, counsel.
+Thank you, counsel.
 
 Official
 
 1
 
 
- Counsel. 
+ Counsel. 
 
 
 2
 
 
- The case is submitted. 
+ The case is submitted. 
 
 
 3
 
 
- (Whereupon, at 12:06 p.m., the case in the 
+ (Whereupon, at 12:06 p.m., the case in the 
 
 
 4
 
 
- above­entitled matter was submitted.) 
+ aboveentitled matter was submitted.) 
 
 
 5
 
 
-   
+   
 
 6
 
 
-   
+   
 
 7
 
 
-   
+   
 
 8
 
 
-   
+   
 
 9
 
 
-   
+   
 
 10
 
 
-   
+   
 
 11
 
 
-   
+   
 
 12
 
 
-   
+   
 
 13
 
 
-   
+   
 
 14
 
 
-   
+   
 
 15
 
 
-   
+   
 
 16
 
 
-   
+   
 
 17
 
 
-   
+   
 
 18
 
 
-   
+   
 
 19
 
 
-   
+   
 
 20
 
 
-   
+   
 
 21
 
 
-   
+   
 
 22
 
 
-   
+   
 
 23
 
 
-   
+   
 
 24
 
 
-   
+   
 
 25
 
 
-   
+   
 
 57
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 Official
-Page 58
+Page 58
 A
 ability 28:18
 able 19:26 25:3
@@ -6543,2136 +6543,8 @@ beneficiaries 10:21
 C
 11:4
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Alderson Reporting Company
-
-Official
-Page 59
-c 1:9,16,18 2:1 3:1
-cafa 3:12,14,24 4:1
-4:9,12 10:6 11:8
-21:2,3,16,21
-53:20
-california 25:1
-call 15:21 37:13
-called 12:17 18:1
-23:18 54:9
-camera 5:17
-cant 9:20 15:12
-20:20 22:2,16
-30:14 36:16,17
-capacity 17:3
-car 5:17
-care 39:6
-carveout 50:12
-case 3:4,18,20 4:9
-4:10,15,22,23
-5:13 6:2,7,9,12,18
-7:17 9:13,24,24
-10:16 12:4,10,13
-12:16,18 13:20
-14:21 15:7,11,24
-16:4,8,9,12 17:18
-17:18,21,25 18:1
-18:1,14,23 21:4,5
-21:8,16 22:5,8,8,9
-22:10 23:14 25:23
-27:25 30:4,7,13
-30:20 31:2,24
-32:9,10,11,12
-34:11 35:2,3,4,11
-35:16 36:22 37:2
-39:10 40:4 41:1
-47:8 51:14,21,22
-51:23 53:12 54:9
-54:12 56:17,19
-57:2,3
-cases 12:12 13:9,15
-19:4 21:23 22:18
-22:24 23:3,5 24:6
-27:7 33:6,10
-39:23 40:3 48:20
-56:21,22
-catch 47:14,20
-
-cause 6:20 38:2
-cell 26:2
-central 26:2
-cert 37:7
-certain 29:24 38:6
-certainly 22:13
-42:25 43:9 50:2
-certifiable 46:5
-certification 24:17
-46:22
-certified 20:20
-challenge 17:17
-chancery 54:10
-change 4:1 6:15,17
-7:5
-changed 32:2
-charged 51:20
-chief 3:3,9 10:10
-13:17 14:13,22
-15:2 16:14,22
-17:11 18:2,17,21
-19:6,24 20:18
-22:2,7 23:4 26:11
-26:16 52:7,13
-56:25
-christopher 1:18
-2:6 26:14
-chrysler 12:17
-circuit 7:2 21:18,19
-21:21 36:11 39:11
-53:16,19,25 55:10
-circumstance 43:10
-citations 51:2
-cite 37:5
-cited 13:8 30:20
-36:9 39:10
-citizen 3:21 24:25
-citizens 9:3 31:13
-31:15,16,17 37:23
-38:1,18 41:21
-42:4,9 44:4 53:13
-54:16,25 55:3,8
-55:16,18 56:20,20
-56:20
-civil 16:5 28:23
-33:18 34:14 40:15
-
-42:14 43:16,23,25
-45:6
-claim 4:17 5:2,5,6
-10:7,13 11:25
-14:7,7 24:4,10
-31:6 32:18 33:13
-35:19 36:3 38:16
-38:17,18,22 40:5
-40:10 41:20 42:23
-43:25 44:3
-claimants 21:2,15
-25:10,12 27:9,12
-29:20 31:5
-claimed 54:5
-claiming 35:22
-claims 4:12,13 8:11
-8:14 9:14 10:2
-11:16 13:2 14:2
-20:7 28:5,10 31:3
-31:18 32:16 33:19
-33:20,25 34:2,9
-34:21 35:14,15,25
-36:1 40:15,17
-41:4,7,8,15 42:8,8
-42:17,18,22,23
-43:1,4,23 44:1,2
-44:23 45:1,8 47:6
-52:22 53:11,12,21
-54:4 56:7
-class 3:11 6:14 9:24
-9:24 11:10,23
-12:3 13:19,23
-14:1 18:4,6,22
-19:8,12 20:19
-21:24 22:1 23:5
-23:10,12,15 24:11
-24:13 27:9,13,20
-28:1,2 29:8,11
-31:4 36:20 37:13
-42:2 44:19 46:5,9
-46:10,11,13,18,21
-46:22,25 47:11,12
-49:10 50:3,8,19
-51:17,23
-classic 53:13
-clear 6:18 7:4 15:1
-
-20:13 21:7 36:2
-38:13,14 39:10,11
-45:15
-clearly 9:22 23:25
-33:19 34:19,23
-client 51:20
-close 50:6
-code 42:14
-codification 27:5
-collected 4:18
-combination 41:6
-combine 43:1
-combined 21:1
-come 25:21
-comes 6:13
-coming 50:22
-commands 30:4
-commission 5:10
-5:10
-committee 49:12
-common 8:15 9:12
-9:15,19 10:1 34:2
-34:9 35:15 40:17
-41:15,24 42:21
-45:1
-commonality 41:8
-43:3 44:12
-companies 51:19
-51:25
-compensating
-36:23
-compensation 5:1
-20:15
-competing 47:25
-competition 25:2
-complaint 6:1 18:7
-19:11,12 34:13,16
-35:12,22 37:6,11
-41:19,22 42:13
-43:6 49:10 51:13
-51:14,17,18,25
-54:4,14
-complaints 19:15
-completed 11:24
-computer 5:16
-concede 43:6
-
-Alderson Reporting Company
-
-
-conceding 14:11
-concerned 17:4
-50:4
-concerns 50:14,24
-conclude 26:19
-conclusion 48:22
-concrete 4:12 52:22
-conduct 4:20
-conduit 31:15
-confirms 53:6
-confusion 10:4
-congress 9:20
-30:13 45:24 47:11
-47:16 48:10,19
-49:7 50:3,6,20
-53:4
-considered 48:4
-50:1
-consolidated 24:18
-consolidation 4:7
-23:25 35:11 53:7
-conspiracies 17:14
-conspiracy 5:16
-16:20 17:10 18:1
-52:2
-construed 3:15
-consumer 6:8 12:5
-14:6 16:11,13
-17:12 20:6
-consumers 4:24 5:7
-5:14 6:14,22,23
-7:4 9:13,17 11:21
-12:20,21,21 13:13
-13:15,19,21 14:1
-14:12 16:13,16
-19:26 20:1,3,11
-22:16 26:9 32:4
-41:3
-contemplating
-27:11 40:24
-context 29:12 42:2
-continue 46:1
-continues 8:8
-contrived 49:22
-control 13:10
-controlling 28:20
-
-Official
-Page 60
-controversy 10:8
-11:12 49:5
-conventional 50:3
-converted 27:19
-convicted 51:20
-convoluted 45:5
-copied 51:23
-copycat 49:9 51:14
-51:14
-corporation 1:7 3:5
-correct 5:3 23:24
-52:25
-cost 5:19 26:3
-couldnt 32:4 38:23
-counsel 19:24 49:9
-49:9 56:25 57:1
-counterparts 48:24
-counties 41:5
-country 18:3
-couple 28:6 31:10
-51:12
-course 10:15 12:4
-17:16,16 19:5,17
-27:5 28:8 31:12
-34:5
-court 1:1,13 3:10
-3:17 6:24,25 7:2,2
-7:2 9:23 10:9
-11:3 12:16,18,23
-14:6 15:7,9,12
-16:25 20:6 21:15
-21:19,21 24:12
-25:15,17,25 26:17
-26:19 28:3 30:1
-30:19 31:20,21,22
-32:11,15 39:4,13
-41:16 44:25 45:10
-46:23 47:7,9 51:9
-51:10 52:14 53:15
-54:9,10
-courts 10:19 14:5
-17:20 22:9 24:7
-24:10 29:21 36:13
-39:14 51:3
-covered 10:14
-credibility 49:21
-
-criminal 18:14
-curran 1:18 2:6
-26:13,14,16 28:6
-28:25 29:6,9 30:6
-30:10,15 31:10
-32:7,10,14,21
-33:12,17,23,24
-34:4,12,20 35:1,8
-35:10,12,20 36:9
-36:18 37:16 38:11
-38:14,25 39:6,9
-40:23 41:1,10,17
-42:6,25 43:9,15
-43:18,22 45:3,17
-45:23 46:6,15
-47:22,25 48:4,7
-48:15 49:17,25
-52:8
-cuts 24:19
-cutting 50:22
-
-defendants 12:5
-14:9,11 17:19
-33:1 50:16,17
-51:19
-defenses 17:20
-defer 39:13
-define 44:15
-definition 4:2,5,7
-7:19 8:6 24:1
-26:19 27:11,16
-28:8 40:12 43:19
-44:21 49:13 50:8
-53:5
-definitional 50:2
-demand 41:25
-demanding 42:1
-demonstrated 20:2
-depart 37:18
-departed 38:12
-depends 14:25
-derelict 22:22
-D
-described 11:17
-d 1:9,16,18 3:1
-describes 5:5 24:25
-d11 49:14
-designed 47:14
-damage 16:16
-determination
-17:11,12
-44:25
-damaged 9:3
-determined 6:13
-damages 6:10,13
-deterrent 15:15
-6:23 12:22 13:1
-deterring 42:4
-16:12 35:24
-devices 47:14
-data 23:1
-didnt 8:10 22:22
-dated 49:19
-48:10 49:12 53:21
-day 50:11
-different 6:16,24
-days 49:20
-6:25 8:24,25
-deal 14:15 51:5
-10:15 12:9 13:1,2
-dealing 46:18 51:4
-14:20 20:5,21
-deals 50:22
-22:14 36:24 44:22
-dealt 47:11
-differently 30:5
-decades 7:7
-difficult 5:14 6:10
-decide 46:5,8,9
-25:24 37:25
-53:17,22
-difficulties 23:11
-decided 17:24 54:1 digital 5:17
-decision 10:19 14:6 dimension 17:15
-48:2 54:7
-dip 31:25 32:18
-defendant 13:18
-direct 17:4 30:21
-51:6,21,22 54:14
-32:5
-
-directed 52:21 53:6
-directive 22:22
-disabilities 38:6
-disagreement
-14:10
-discovery 28:17
-discretion 30:1
-discrimination
-15:15
-discussed 16:25
-discusses 25:17
-disgorgement
-11:18
-disposition 3:18
-dispositive 42:12
-dispute 39:1
-disputed 38:21
-disputing 33:12
-distribute 7:4
-12:21 13:23
-distributed 4:19
-6:5 36:21
-district 25:15,17,25
-30:1
-districts 21:18
-diversity 3:21,23
-docket 22:9
-doesnt 7:23 8:16
-11:11 16:7 22:7
-22:17 24:11 31:5
-36:18 39:21 44:1
-44:12 45:12 47:16
-47:20 53:11
-doing 22:4 24:22
-24:24
-don 15:23
-dont 9:8 13:4 14:25
-22:12 23:7,8 24:5
-24:5,15 27:21
-30:2,6,15 33:3
-34:10,22,24 37:13
-38:3,4,5 39:3,6,24
-39:24 42:11,15
-45:18 50:1 53:18
-53:25 56:17
-double 12:24 31:25
-
-Alderson Reporting Company
-
-
-32:18
-doubt 3:14
-downloaded 23:1
-dozen 12:12
-drawn 48:23
-drive 48:1
-driving 47:5
-duration 52:2
-E
-e 2:1 3:1,1
-easy 45:4
-echo 53:1
-economic 17:3
-economy 17:14
-33:1
-education 26:6
-eerie 51:16
-effect 15:15 17:14
-effects 17:4 31:23
-efficiency 20:18
-effort 48:5,11
-either 20:2 43:20
-eleventh 51:2
-emerging 37:4
-emphasized 9:24
-encountered 12:19
-energy 13:10
-enforce 22:20
-english 39:22
-ensure 9:25
-entered 12:2
-entire 15:16
-entirely 38:7
-entities 9:7
-entitled 13:24
-entity 9:6 16:20
-entry 46:22
-envision 11:9
-equal 10:12
-equates 8:8,8
-equity 7:3
-esq 1:16,18 2:3,6,9
-essence 29:8
-essential 21:9,9
-44:21
-
-Official
-Page 61
-essentially 4:4
-10:17 29:3 45:11
-estate 10:11,12,12
-10:13
-estimate 14:1
-et 1:7
-everybody 11:11
-37:1
-evidence 14:3,4
-56:11,12
-evidenced 3:16
-ex 1:3
-exact 45:25
-examined 47:9
-example 15:1 16:4
-27:15
-exception 24:22
-49:6 50:15
-exceptions 27:16
-exchange 5:10
-exclusion 27:7,10
-executor 10:11
-11:3
-exercising 30:12
-exist 30:17
-expands 49:14
-explain 40:13 45:18
-explains 51:16
-explicit 30:22
-expressly 27:1
-30:13,17,21
-extend 3:13 21:22
-extraneous 44:2
-F
-face 7:18
-fact 8:9,15 26:1
-30:25 31:16,17
-34:3,10 35:15
-40:18 41:8,15,24
-42:21 45:2 46:25
-51:14,24 53:4
-56:19
-facts 6:16 21:14
-56:17,17
-factually 51:18
-
-failed 48:7,9,21
-fairness 3:12
-fall 33:16 37:14
-familiar 49:17
-farther 27:15
-federal 4:10 5:9 7:7
-13:11 16:21 18:14
-24:7,10,12 28:17
-28:23 30:18 31:21
-32:7,11,15 34:13
-42:14 47:7,8 51:9
-51:15
-federalism 3:16
-39:20 50:14,23
-51:1
-fide 49:4
-field 51:10
-fifth 21:18,19 36:11
-39:11 53:16,19,25
-55:10
-fight 31:20
-figure 28:4
-file 19:10,26 34:15
-35:12
-filed 24:7 34:12
-52:1
-files 35:21
-filing 23:6 42:13
-find 55:2
-finding 26:3
-fire 47:5,8
-first 22:9 24:24
-31:11 41:19 45:17
-five 55:8
-fixing 18:1
-floor 49:2
-following 21:24
-force 4:4 47:5
-forced 21:3 42:1
-foreclosed 31:1
-forget 6:8,9 33:8
-form 27:4 48:17,17
-format 24:10
-forum 47:8
-forward 6:2 11:24
-found 12:10 23:1
-
-25:15,25 39:11
-46:19
-four 52:9
-frankly 5:8
-fraud 29:14
-free 12:9 22:13
-frequency 22:4
-frequently 5:9
-friends 3:25 12:15
-52:23
-further 4:13 33:23
-42:19 52:5
-furthermore 8:18
-
-28:14 31:2 38:20
-49:11
-give 53:23 55:7
-given 22:21 26:1
-28:17 43:5 54:23
-gives 6:20
-giving 38:2
-go 18:7 24:15 26:8
-26:8 33:22 34:8
-34:24 38:22,23
-39:12 56:16,17,17
-goes 6:2 25:21,22
-31:13 36:14 39:6
-43:14
-G
-going 13:20,20,21
-g 3:1
-13:23 18:8,9,10
-gains 11:18
-18:11 19:10,11,14
-game 28:19
-26:7 31:19 35:13
-general 1:4 6:3
-36:6 44:25 46:7,8
-11:13 15:19,25
-48:19 55:7,7
-16:8 17:22 18:3
-good 32:6 33:7
-19:7,22,23 20:7,9 google 22:25,25
-20:10,20 21:1,15 government 10:16
-21:23 22:16,17,20
-13:8,10,11 16:21
-23:9 24:22,23
-governments 13:12
-25:3,4,4,9,14 26:6 granted 37:3
-26:25 28:11 31:14 great 14:15
-31:21 33:13 34:8 greater 22:4
-35:21 36:6 39:10 gross 56:15
-40:22 41:2,12,18 ground 8:14 34:2
-42:2,17 44:9
-40:17,20,21
-48:12,18,23 49:6 grounds 41:14 43:2
-49:8 50:12,18
-guess 32:18 39:3,5
-51:11 52:1 53:11
-42:6,15
-54:3
-guilty 18:15
-generals 11:22,25
-H
-12:6 23:2 26:18
-37:6 39:18 40:3
-happen 5:8 19:14
-48:5 51:2,17
-19:19,20 36:6
-53:22 54:2,11
-happened 11:2
-genesis 25:1,5
-21:17
-getting 33:24 36:20 happening 22:23
-44:7
-happens 4:14 5:9
-ginsburg 4:16,21
-hard 30:4
-11:9,20 23:13,17 hardpressed 30:11
-23:22 24:2,9
-harm 16:5,19 17:1
-
-Alderson Reporting Company
-
-
-18:14
-harmed 16:22 17:9
-19:4 20:1 25:24
-harms 20:10,11
-hasnt 21:17
-havent 40:13
-hear 3:3
-heard 17:18 32:24
-40:13
-held 10:20 21:21
-39:3 55:10
-help 37:20
-heres 35:19
-hes 10:11 35:24
-41:3,4 55:24
-hire 49:8
-hiring 18:7
-history 49:23
-hold 36:19 39:2,21
-honor 5:3,23 8:5,12
-11:19 12:1 14:21
-15:4 19:17 20:12
-22:22 23:21 26:10
-29:9 35:2,20
-53:18
-honors 10:23
-hood 1:3 48:18,23
-horse 50:21
-hundreds 24:3
-hurt 5:15 37:23
-38:1,1
-hurting 33:2
-hypo 20:18
-hypothesizing
-19:17
-hypothetical 20:19
-21:12 43:14
-I
-id 52:15
-idea 29:16
-identical 20:13
-identifiable 24:8
-40:8
-identified 25:13
-36:19 50:25 56:23
-
-Official
-Page 62
-identify 5:20 20:10
-24:15 28:2 36:17
-identifying 36:23
-illgotten 11:18
-illinois 32:3
-illustrates 13:4
-illustrative 12:14
-im 8:23 14:23
-18:21,24,24 19:24
-25:18 30:11 32:14
-33:24 41:20
-imagine 49:23
-immunity 51:4
-impact 11:23
-importance 47:7
-important 29:18
-52:16
-impractical 56:13
-improper 42:5
-included 32:16
-including 48:18
-inclusion 38:16
-inconsistency 9:8
-incorporated 46:16
-independent 38:2
-indicated 12:3
-indictments 51:15
-51:24
-indirect 4:25 17:3
-32:6
-individual 4:8
-20:15 21:1,15
-25:10,12 26:8
-27:8,12 31:3,4
-44:23 45:1 54:24
-54:25 55:3,3 56:3
-56:7
-individually 24:8
-individuals 5:14
-11:11 31:7 33:3
-37:12 39:13 43:2
-43:12 56:23
-inescapable 30:22
-41:7
-inescapably 33:21
-44:10 47:14
-
-inexplicable 45:19
-45:23
-infringe 48:19
-injunctive 16:4
-injured 33:1,2 40:9
-inquire 11:1
-inquired 11:3
-inquiring 9:14
-inquiry 9:23 24:19
-34:24
-instance 11:1
-instantly 37:24
-intend 49:7
-interest 7:25 10:21
-15:10,14 16:15,15
-16:18 19:2,25
-20:3,14,15,21
-21:11 22:20 25:4
-28:10 33:14 36:4
-42:4 54:20
-interesting 37:25
-interests 19:2,22
-35:18 42:19 49:4
-interpretation
-26:18,22 37:19
-50:7 52:20 53:20
-interpretations
-48:1
-interpreted 36:11
-36:12
-interpreting 30:19
-interstate 47:6
-intervene 13:16
-intrusion 51:8
-invoke 30:4 39:19
-42:13
-involve 8:15 34:2,9
-40:17 41:15
-involved 15:7
-involves 16:4 27:25
-involving 10:16
-13:9 22:24
-iowa 36:13
-ipt 32:10
-isn 46:3
-isnt 11:15 19:14
-
-33:10
-issue 3:16 17:24
-24:17 36:22 37:2
-39:1 53:14 54:3
-issued 4:2 49:19
-issues 39:20 51:3
-52:15
-items 19:10
-ive 38:12
-
-27:24 28:13,22
-29:1,7 30:3,7,11
-31:2 32:1,8,12,17
-32:22 33:15,22,25
-34:5,19,22 35:6,9
-35:11,13 36:5,16
-37:10,17 38:12,20
-39:2,7 40:2,11,25
-41:10,17,23 42:15
-43:5,13,17,21
-J
-44:6,14 45:9,11
-jim 1:3
-45:21 46:3,7 47:4
-join 20:20,22,23
-47:16,19,24 48:3
-joinder 4:8 28:24
-48:8 49:11,22
-29:2 34:6 53:2,7
-50:11 52:7,13,25
-joined 35:5 44:24
-53:16 54:13 55:9
-joining 21:25
-55:14,17,21,24
-joint 4:3 25:19 27:6
-56:2,16,25
-45:8
-justices 20:18
-jointly 4:14 8:14
-K
-34:1,21 40:16,20
-40:21 52:22
-kagan 24:20 26:25
-jonathan 1:16 2:3,9
-33:22,25 34:5,19
-3:7 52:10
-34:22 35:6,9,11
-judge 12:2 14:11
-35:13 41:10,17,23
-35:13
-42:15 44:6,14
-judgment 6:4
-45:11,21 47:24
-jurisdiction 3:21
-48:3,8 50:11
-4:10 29:22,23
-keep 42:10
-30:13,16,25 49:14 kennedy 5:21,24
-jurisdictional
-15:18 16:1 19:18
-29:25 52:17
-20:17 43:5,13,17
-jurisprudence
-43:21
-29:21 34:15
-key 4:2
-justice 3:3,9 4:16
-keys 28:17
-4:21 5:21,24 6:7
-kind 4:6 9:23 29:17
-6:12 7:9,13 8:3,21
-33:8 34:11,17,23
-8:23 9:2 10:10
-39:19 42:21 44:22
-11:9,20 13:17
-kinds 37:21 50:20
-14:13,22 15:2,18 knew 32:2
-16:1,14,22 17:7
-know 9:18 13:4
-17:11 18:2,17,21
-14:15,22 17:19
-19:6,18,24 20:17
-18:9,10 23:1,13
-22:2,7 23:4,13,17
-24:6,16 27:4
-23:22 24:2,9,20
-28:22 32:12 33:4
-25:20 26:11,16,25
-33:9 34:6,7 38:3,4
-
-Alderson Reporting Company
-
-
-38:5 42:22 46:17
-47:17 48:13 55:6
-55:21 56:9
-known 3:12
-L
-label 39:17
-language 26:23
-27:3 28:22 30:8
-30:20,23 33:17
-36:10,10,14 39:16
-39:22 40:12,23
-41:9 43:16,17
-45:6 46:11 47:20
-latin 39:18
-laughter 45:22
-47:18 49:24
-law 7:2 8:15 11:2
-13:5 14:4,15 25:2
-32:2,7,9,11 34:3,9
-35:15 38:17 39:11
-39:12 40:18 41:8
-41:11,15,24 42:21
-43:11 45:1 53:13
-53:17
-lawsuit 37:22 41:7
-lawyers 18:7 23:10
-42:1
-lcd 5:15 16:6 22:9
-22:11 37:1,3
-41:21
-lcds 14:18 37:7
-leading 37:8
-legal 11:4 15:3
-legislative 24:25
-49:23
-legislature 20:8
-22:15,19
-legislatures 22:22
-lens 47:10
-letter 48:18
-license 9:21
-light 47:2
-limitations 38:4
-limited 52:16
-limits 14:16
-
-Official
-Page 63
-line 15:6
-list 37:12 55:1 56:3
-56:13,13
-litigant 25:8
-litigation 22:10
-23:5 28:20 29:11
-31:19
-little 14:10 20:21
-33:23 51:25
-local 49:5
-lodestar 15:6
-log 50:22
-long 29:25 33:7
-39:19 43:24
-longstanding 13:6
-look 15:13 18:10
-19:11 27:4 29:1
-33:5 43:19 49:12
-54:17
-looked 36:13
-loopholes 50:6
-loose 39:17
-loss 14:4
-lot 19:11 40:2 51:2
-lower 14:5 54:9
-M
-m 1:14,18 2:6 3:2
-26:14 57:3
-main 44:14
-manufacturers
-22:11
-mass 4:1,5,6,7,8
-7:18 8:6 10:14
-23:18,18,25 24:1
-24:10,13,21 26:19
-26:20 27:11,16,19
-27:22 28:7 35:3,3
-35:4 37:14 40:4
-40:14 43:10,19,22
-44:5,15,20 46:16
-46:18 47:13 49:13
-50:8 53:5,7,7
-massey 1:16 2:3,9
-3:6,7,9 4:16,21
-5:23 6:1,11,17
-
-7:12,16 8:5,22 9:1
-9:10 10:15 11:9
-11:19 12:1 14:3
-14:20,24 15:4,23
-16:3,17,24 17:8
-17:13 18:13,19
-19:1,13,20 20:4
-20:25 22:6,12
-23:7,15,21,24
-24:5,14,20,23
-25:22 26:12 38:21
-52:9,10,12 53:18
-55:11,15,19,23
-56:1,11,21
-massive 35:9
-matter 1:12 3:14,15
-15:3,3 16:7 18:22
-20:17 41:11 44:1
-52:2 57:4
-matters 18:20
-mdl 12:2 14:10
-27:17 49:10
-mean 8:16,25 16:17
-30:6 36:2 38:1
-41:25 43:3,4
-44:10 45:12,18
-46:4 48:9 49:22
-meaning 7:1 37:14
-means 19:18 24:21
-30:21 31:19 40:14
-40:15 43:23 44:16
-54:21 56:3
-meant 45:4
-mechanical 37:18
-meet 25:7
-members 13:24
-16:23 27:9,12
-mentioned 26:6
-merits 12:7 17:18
-met 3:24
-mind 55:1
-minimal 3:22
-minimum 29:25
-minutes 52:9
-miserly 50:7
-mississippi 1:3 3:4
-
-3:17,20 4:23,24
-5:7 6:4 7:1 9:3
-12:8,11 13:3
-14:14,18 16:19,23
-17:19,25 22:10
-24:11 25:14 26:3
-31:6,12,13 32:19
-32:23,25 33:1,3
-33:20 34:7 36:2
-38:17 39:9,12
-41:5 43:11 44:4
-53:13 54:8,10,18
-56:8
-mixed 38:7
-model 36:12
-modify 48:16
-moment 20:19
-monetary 8:11
-33:18 40:15 43:23
-45:8
-money 4:18 5:7,11
-5:19 6:5 10:22
-12:21 13:13,14
-17:10,12 18:11
-19:12 25:21,22
-31:13 32:23 36:8
-36:14,20 38:18
-39:12 55:20,22,25
-55:25 56:2,3,5
-monies 54:15,20
-monitor 5:17
-motion 34:18
-motivating 37:22
-move 42:7
-multidistrict 31:19
-multiple 9:6
-municipalities 41:5
-
-45:7,14 46:12
-49:16,16 56:20
-names 33:3 56:13
-56:13
-narrowly 3:15
-national 47:6
-nature 12:25 21:9,9
-24:3
-navarro 10:17 11:3
-navigation 5:17
-necessary 36:3 49:3
-49:3
-need 7:22 21:5
-24:15
-negotiate 28:18
-networks 23:2
-never 9:18,18
-13:15,16 21:17
-26:21 35:16 51:20
-new 49:14
-nominal 33:6
-nominee 33:14
-normal 56:19
-noted 8:12
-notification 50:18
-november 1:10
-nuisance 40:7
-number 23:19 28:7
-numbers 15:13
-23:3 24:6 37:15
-numerosity 3:23
-numerous 49:15,15
-49:16
-
-O
-o 2:1 3:1
-objections 15:9
-obtain 32:23
-N
-obviously 5:18
-n 2:1,1 3:1
-21:13 36:19
-name 16:9,13 19:16 occur 6:3
-25:4 53:23 54:5
-occurs 8:7
-named 7:14,14,16
-offices 49:8
-9:5,7 23:23 26:21 officials 50:16
-27:14 28:11,16,19 oh 36:14 37:1
-29:13,16 32:19,21 okay 32:11 38:14
-
-Alderson Reporting Company
-
-
-40:5 41:1 43:22
-once 38:9 39:5
-50:23 53:5
-open 12:4
-opinion 47:5
-opposed 7:2,14
-25:10 29:4
-opposition 5:4
-option 47:7
-optronics 1:7 3:4
-oral 1:12 2:2,5 3:7
-26:14
-orange 5:4
-order 32:23 46:22
-ordered 54:15
-original 25:5
-outofstate 49:9
-outside 17:23 21:18
-49:8,9
-overlap 11:15
-overriding 47:2
-owned 53:12
-P
-p 3:1 57:3
-page 2:2 5:3 12:15
-27:5 37:6,6 41:19
-54:1
-pages 4:3
-paid 11:21
-panels 16:6 37:1,3
-41:21
-papers 30:21
-paragraph 37:7
-56:7
-pardon 5:23
-parens 3:13 4:14
-12:4,12 14:8,12
-14:16,19 15:7,11
-15:18,21,24 16:1
-16:3 17:17 18:8
-19:10 20:23 21:22
-23:6 34:11,25
-35:16 39:16 40:1
-48:20 54:11
-parenthetical 27:3
-
-Official
-Page 64
-27:6
-part 4:2 24:19
-43:14 44:13 46:9
-participate 13:15
-particular 21:14
-24:6 31:2 55:2
-parties 7:24,25
-10:21 15:21 16:11
-28:9 33:14
-party 21:10
-partyininterest
-7:10,23 21:7
-patriae 3:13 4:15
-14:8,16,19 15:11
-15:18,22,24 16:2
-16:4 17:17 18:8
-19:10 20:23 21:22
-23:6 34:11,25
-35:16 39:16 40:1
-48:20 54:12
-pay 13:20,21,22
-penalties 16:5
-people 4:19 7:24
-9:6 10:12 15:13
-17:9 24:3,16 26:4
-28:4 29:5 36:8,15
-36:17,19,21 44:24
-55:1 56:4,7
-peoples 23:1
-percent 52:25
-perfect 28:15
-period 37:2,9
-permitted 13:16
-person 9:6 37:23
-53:5 54:20
-persons 8:4,6,9,11
-9:2,12 28:2,8 29:2
-29:3 33:19,21
-34:1 35:22,24
-36:4 40:16 43:7
-43:24 45:13,15,20
-45:24 46:10,13
-52:25 53:1,3
-petition 25:15,18
-petitioner 1:5,17
-2:4,10 3:8 52:11
-
-phone 5:17 26:3
-piggyback 21:25
-plain 36:10,10
-plaintiff 3:20 4:15
-4:23 7:19,21 9:4,5
-9:15 11:1,5,7
-18:22 27:14 29:14
-32:20,21 33:6
-41:13 51:8
-plaintiffs 4:9,12,22
-7:14,15,15,16,19
-8:1,9,14 9:4,5,7
-18:6 23:19,23
-24:8,15 26:21
-27:25 28:10,12,16
-28:19,20 29:2,4
-29:17,24 34:2,9
-35:4 37:12 40:17
-41:14 45:7,14,15
-45:25 46:1,8,9,12
-49:16,16 52:21
-53:3
-playing 51:10
-pleas 18:15
-please 3:10 26:17
-52:13
-pled 54:5
-plymouth 12:17
-pocketbooks 33:2
-point 11:17 29:18
-42:16 44:7,13,16
-50:5 51:1 53:6
-56:18
-pointed 52:24
-pointing 44:22
-pollution 40:6
-populace 42:18
-population 15:17
-16:19,23 17:2
-pose 45:18
-posit 21:12
-position 28:9 31:11
-38:15
-posits 28:11
-possibility 27:2,19
-possible 27:22
-
-46:25
-practical 8:18 15:3
-practice 54:21
-pray 6:2
-prayer 55:12
-prays 54:14
-precedents 51:3,5
-preclude 12:4 20:7
-30:24
-preclusion 12:24
-22:14
-preclusive 31:22
-predictable 52:18
-preexisting 34:15
-presented 9:18
-president 49:20
-presumably 22:4
-pretty 36:2 45:15
-48:14
-prevail 22:5
-prevails 18:6
-prevent 19:7 20:23
-50:7
-prevents 18:2,3
-39:20
-previously 32:13
-price 13:10 18:1
-pricefixed 32:6
-52:4
-pricefixing 5:16
-16:20 17:9,14
-22:24
-primary 50:16,17
-53:10
-principles 3:15
-prior 23:6 31:23
-39:14
-private 13:1 15:20
-15:21 16:12 18:4
-23:5,10 25:3,9
-29:10
-privatenamed 43:7
-probably 14:24
-21:16 25:22 40:10
-problem 4:6 8:20
-12:24 19:17 38:9
-
-40:6 48:25
-problems 8:19
-25:18 47:15
-procedurally 32:18
-procedure 28:24
-34:14 42:14
-procedures 6:3
-proceed 18:5 21:9
-24:18
-proceeded 13:1
-proceeding 6:19
-11:10 14:8 21:10
-25:13
-produce 9:16
-produces 10:4
-product 26:1
-productive 39:25
-products 22:25
-52:3
-program 26:6
-prohibited 16:10
-16:11 54:21
-prominent 29:14
-proper 15:24 17:17
-47:12
-proposal 34:21
-41:13,16 46:4
-48:16 49:2
-proposed 4:13 8:13
-28:1,1 29:4,7 34:1
-34:6,21 40:16,19
-46:12,13,14 52:22
-proposing 35:24
-proprietary 42:8
-propriety 41:4
-protected 49:5
-protecting 19:26
-20:3 42:4
-protection 16:11
-prove 6:10
-proven 56:12
-provide 22:3 47:7
-provided 30:17
-provides 4:9,13
-10:6
-provision 27:1,1,3
-
-Alderson Reporting Company
-
-
-27:18 29:10 44:9
-44:9,10,15,17
-46:15
-provisions 6:21
-27:21 29:13 44:18
-44:19 46:18 50:20
-pryor 48:21
-pslra 29:10
-public 7:6 12:25
-13:7 14:8 15:14
-17:15 19:4,23
-22:20 24:22,23,25
-25:4,9,11,14 27:1
-40:7,9 44:9 49:6
-56:22
-puerto 15:8,17
-purchased 5:19
-19:9 26:2
-purchaser 4:25
-14:17 16:6 32:5,6
-purchases 41:20
-54:16,24 55:3,8
-55:15,16,17
-purported 27:9,13
-purpose 26:23 47:3
-48:1 50:9
-purposes 3:21
-53:20
-pursuing 56:8
-put 47:6
-Q
-qua 19:3 35:19
-qualifies 46:17
-qualifying 43:25
-quasisovereign
-15:10 33:8 40:10
-question 9:4,12,15
-10:24 18:25 32:18
-37:25 42:22 45:19
-46:10 47:2,9
-48:10 49:21 53:17
-54:1
-questions 8:15 9:19
-10:1 13:5 34:3,9
-35:15 40:18 41:15
-
-Official
-Page 65
-41:24 42:21 45:1
-52:5
-quintessential 35:3
-quoted 54:18
-R
-r 3:1
-raise 39:18 52:15
-raised 53:14
-ralph 12:17
-reach 10:7 21:6
-45:4
-read 8:24 33:5,6,22
-45:14 54:1
-reading 9:11 10:4
-real 4:12 7:9,23,24
-10:21 21:6,10
-28:9 33:14 50:24
-realize 8:21
-really 15:16,20
-25:1 41:10,25
-49:2,3 53:6,11
-54:8
-reason 22:3 25:6
-43:4 49:3
-reasons 37:22
-rebuttal 2:8 52:10
-52:16
-recall 29:21 46:17
-receipts 36:21
-received 5:1
-record 26:2
-records 5:18 36:22
-recover 32:4 35:23
-recovered 5:12
-22:16
-recovers 18:22
-recovery 5:6 12:24
-red 12:15 54:1
-refer 7:24 9:6
-10:25 44:7
-reference 8:4,6
-9:22 27:17,18
-28:10
-references 44:8
-referred 26:25
-
-28:14
-referring 32:14
-34:23
-refers 4:12 7:19,25
-8:11 27:1 44:18
-53:2
-reflect 50:13
-reform 29:11
-reformed 29:11
-regulation 13:10
-rel 1:3
-releasing 14:6
-relevant 14:4 54:8
-relied 51:11
-relief 16:5 33:18
-40:15 43:23 45:8
-55:12
-remaining 50:10
-52:9
-remand 10:5,6 12:5
-27:24 30:9 53:14
-remanded 10:8
-29:20
-remedies 12:25
-remedy 7:6 13:7
-16:7 25:12 56:22
-reminiscent 28:23
-removable 21:13
-39:23 43:25 53:21
-removal 20:24
-38:15 39:20 51:9
-remove 46:4
-rent 13:9
-repeating 18:24
-reply 51:13
-report 49:12,18,19
-represent 11:4
-15:13
-representative
-26:22 27:2,22
-31:15 44:8,11
-represented 31:5
-representing 25:9
-31:8 35:18
-require 11:11
-required 39:12
-
-45:10
-requirement 3:24
-10:8 28:13
-requirements 3:22
-requires 7:13 26:19
-30:9 31:12
-requiring 29:13
-resemblance 51:25
-reserve 26:10
-resolution 7:17
-resolved 31:18
-respect 4:16 46:23
-56:6
-responded 23:2
-respondents 1:19
-2:7 26:15
-response 5:4 49:1
-56:10
-rest 43:13
-restitute 54:15
-55:12
-restitution 4:17 5:2
-5:5,6,11 6:15,19
-7:3,5,21 11:14,17
-12:20,25 13:6,12
-13:22,25 16:2,6
-25:11 36:3 38:16
-38:22,23 40:5
-43:7,10,14 44:3
-54:5,19,23,24
-55:4 56:22
-restore 36:3 54:19
-result 4:1 9:17
-10:22 43:8
-returned 13:13,14
-reverse 25:6
-reviewing 21:20
-rico 15:9,17
-right 16:23 19:20
-24:20 32:8,17
-33:4 34:10,13
-37:14,15,16 38:25
-41:3 42:5 43:3
-47:17 48:10 51:18
-54:17 55:5,14,23
-rights 19:16,21
-
-48:20
-rigorous 9:25
-ripple 17:13
-rise 38:2
-road 38:10
-roberts 3:3 10:10
-13:17 14:13,22
-15:2 16:14,22
-17:11 18:2,17,21
-19:6,24 22:2,7
-23:4 26:11 52:7
-56:25
-rolling 50:22
-route 52:19
-rule 9:23 20:5
-21:20 22:14 24:16
-27:19 28:23,24
-29:2 34:13,23
-40:24 42:14,14,20
-47:12 49:5 53:2,2
-ruled 53:19
-rules 12:9 34:14
-rulings 24:18 39:14
-run 38:4
-running 21:24
-S
-s 1:16 2:1,3,9 3:1,7
-52:10
-sales 56:15
-satisfied 31:8
-satisfies 41:9
-satisfy 11:12 29:24
-44:12
-saw 48:17,24,25
-saying 19:8 20:12
-41:11 42:17 48:19
-54:2 55:24
-says 6:14 8:13 27:7
-30:16 33:18,25
-36:6,16,17 38:17
-39:5,23 40:14
-41:19 43:16 45:12
-45:13 46:20 54:13
-54:14,18,22 55:12
-scalia 17:7 36:5,16
-
-Alderson Reporting Company
-
-
-40:11,25 47:16,19
-49:22 53:16 55:9
-schemes 52:17
-schools 26:7
-second 22:10
-section 8:8 10:5,5,6
-27:17 30:16 47:13
-47:13
-securities 5:10
-29:11,12
-see 9:8 24:11 29:9
-30:6 35:14 37:10
-38:9
-seek 7:3,21 11:14
-44:24
-seeking 6:15 35:23
-seeks 5:6,11
-segment 17:2
-senate 49:1,18,19
-49:20
-senator 48:21
-sense 8:17,24 13:18
-27:21 28:15 29:19
-42:9 47:1
-sensitive 50:21,23
-sensitivity 50:14
-sent 48:18
-sentence 8:25 45:15
-49:18 50:1
-separate 6:22,24
-12:22 19:2 20:11
-25:6 42:7 43:3
-sequencing 42:11
-series 17:20 22:24
-serious 18:19,22
-48:11
-set 42:17,22,23
-sets 8:16
-settle 13:19
-settled 4:25 6:9
-14:9 23:14 31:3
-31:18 32:13
-settlement 12:3,6
-14:12 18:10 20:2
-23:16 31:23 50:19
-settlements 28:18
-
-Official
-Page 66
-settles 18:5
-severe 8:18
-shares 10:12
-shield 39:18
-shouldnt 30:14
-show 3:12 34:8,23
-35:7 41:23 50:20
-56:14
-showing 34:10
-35:17 42:1
-shown 52:20
-side 3:25 52:23
-signed 49:20
-signifies 45:25
-similar 29:15 30:19
-53:15 54:11
-similarities 29:9
-similarity 51:16
-simple 8:2 37:19
-38:13 52:17
-simplest 7:17 52:19
-52:19
-simply 7:17,25
-20:15 24:18 37:19
-53:5
-single 11:7 34:12
-34:15,16 35:5
-41:7,22
-sitting 18:4
-situation 4:7,11
-10:18 11:7 12:19
-21:4 25:2,8 27:11
-29:23 53:7
-situations 50:15
-51:6
-sizeable 23:19
-skin 28:19
-slippage 44:17
-snapp 15:6 16:25
-20:13
-sole 10:20 11:5
-solve 50:24
-somebody 19:9
-soon 18:5
-sorry 18:24 19:24
-25:18
-
-sort 8:19 11:16
-23:25 24:19 25:5
-sotomayor 6:7,12
-7:9,13 27:24
-28:22 29:1,7 30:3
-30:7,11 45:9 46:3
-46:7 52:25 56:16
-sought 12:19,20
-50:13
-sounds 54:22
-sovereign 51:4 53:8
-specific 39:23,23
-specifically 46:20
-specified 43:11
-spoken 30:14
-sponsored 48:21
-square 36:7
-squared 26:23
-squarely 12:11
-squarepegandro...
-8:20
-squarepeground...
-4:6
-stake 23:20 28:21
-29:17 31:7
-stand 35:17 42:3
-standard 47:5,8
-standing 33:13
-35:23
-start 22:4 38:9
-state 3:13,20 4:4,15
-4:23 5:2,7,11,12
-6:13,18,19,20,21
-6:22 7:3,20,20
-10:8 11:2 12:13
-12:19 13:5,11
-14:7 15:19 16:5,9
-16:10,14,15,17
-17:4 18:12 19:2,3
-19:3,9,14,15,21
-19:21 20:3,4,6,7,8
-20:8,10,14,25
-21:8,10,14,22
-22:10,13,13,15,19
-25:8,8,13,23 31:6
-31:7,22 32:9,10
-
-32:16,19,22,24
-34:14 35:16,18,19
-35:19,21 36:12
-37:21 38:22,24
-40:3,22 41:2,11
-41:21 42:3 43:2
-43:14 49:4,7
-50:16,18 51:4,6,8
-51:9 53:13,14,17
-53:23 54:6,24
-55:13,19 56:8,14
-statement 36:7
-states 1:1,13 3:17
-7:8 12:9 19:25
-20:5 36:13 42:19
-48:24 50:16 53:9
-statistical 56:12
-statute 4:1,2 7:13
-7:23 8:9 10:6,25
-21:6 24:21 30:4
-30:18 31:12 33:5
-33:16,20 36:2,9
-38:4 39:9 40:22
-45:3,5 46:11,24
-47:6 48:6,12,16
-50:12 52:21 53:6
-53:21 54:17,18
-statutes 6:20,23,24
-53:23
-statutory 7:10,18
-7:20 13:2 16:8
-22:17,21 26:23
-30:8 33:17 39:15
-39:22 43:16 47:2
-47:2,9 48:9
-stay 30:2
-stepping 23:9
-stood 10:22
-straightforward
-3:19
-street 22:25
-strongly 8:7
-structure 3:11
-26:24
-subject 6:3 52:2
-submit 30:23 34:20
-
-35:21 51:4
-submitted 57:2,4
-subpart 46:19
-subsection 46:21
-49:14
-substantial 17:1
-substantive 42:5
-successful 4:18
-19:8
-sue 6:21,23 19:22
-53:22
-sued 4:24
-sues 19:16
-sufficient 15:10
-33:11
-suggesting 39:19
-suggestion 29:19
-36:25 51:13
-suing 31:14 32:23
-32:25 33:7 41:2,4
-56:19
-suit 4:18 11:22
-15:20 20:1,2,9
-35:5 38:7 40:21
-41:12,14 44:23
-suits 25:3 49:14
-summary 51:15
-supplemental
-29:22,23 30:12,16
-30:24
-support 8:19 15:10
-supporting 3:17
-suppose 42:6 43:5
-supreme 1:1,13
-12:16,18 36:12
-sure 8:23 18:21
-28:15 29:16
-system 5:18
-T
-t 2:1,1 15:23 46:3
-49:23
-take 4:17 20:18
-37:3,17 39:7
-44:16 48:5
-taken 37:11
-
-Alderson Reporting Company
-
-
-talk 39:25
-talking 5:15 29:3
-44:19,20 51:7,9
-54:23
-technology 37:4,8
-television 5:16
-televisions 37:8
-tell 6:6 25:20
-ten 49:19
-term 39:19 46:1
-terms 8:24 52:1
-test 7:23 9:12,15
-21:5,8
-tests 21:7
-text 3:11 10:25
-thank 3:9 26:10,11
-52:6,7,12 56:24
-56:25
-thats 4:18,21 10:19
-16:15 18:17 20:2
-22:23 23:13,24,24
-25:25 32:14,16
-33:7 36:6,12,20
-37:16 38:25 39:17
-41:25 42:24 45:3
-45:11 46:12,13
-48:9,13 51:18,22
-55:9 56:6
-theory 28:3
-theres 4:10 9:5
-10:3 14:5 15:5
-27:16,18 29:18
-34:6,7,10 40:6,8
-42:20 44:17 46:15
-50:18
-theyll 55:21
-theyre 17:10 36:20
-40:19,20 42:18
-44:15
-theyve 11:21 28:18
-thing 8:16 35:1
-36:25 40:7 45:12
-46:1 52:16,23
-things 8:25 11:13
-24:24 26:7 28:7
-38:8 51:12
-
-Official
-Page 67
-think 6:12 9:10
-10:3,17,23 11:17
-13:4 14:24,24
-15:23 16:24,25
-18:20 19:1,13,13
-21:12 22:12 23:7
-23:8 29:15,18
-30:12,25 31:20
-33:20 35:20 39:13
-39:24,24 41:6,9
-41:17,18,22,22
-42:11 46:25 47:1
-47:22 48:22 50:1
-53:25 55:5
-thinking 9:21
-thinks 31:22
-third 32:24
-thought 32:1,3
-thousands 21:1
-threat 48:25
-three 14:18
-thrown 39:17
-time 19:8 20:1
-26:10 37:2,9
-48:11 50:10
-today 3:4,18 4:3
-21:20
-told 19:25 22:19
-top 21:25
-toshiba 51:20
-toy 5:17
-trace 5:14 25:24
-traceability 25:18
-trade 5:9
-trading 50:21
-tradition 13:6
-transfer 27:17
-treasury 25:23
-32:24 55:4
-trial 18:9 34:16,17
-tried 4:14 8:14 34:1
-40:16,19,20 46:14
-52:22
-trigger 21:2
-true 23:14,16
-trust 10:20
-
-trustees 10:20
-try 21:24 34:21
-35:25 47:19
-trying 14:23 44:15
-50:6,6,21,24
-turn 36:21
-turns 21:13
-twice 13:20
-two 8:15,24,25
-11:15 14:18 20:12
-24:24
-type 40:24
-typical 41:24
-
-various 43:2 44:18
-victim 29:14
-victims 36:4,23
-40:8
-view 12:3 22:25
-23:17 31:24 40:23
-47:1
-violation 18:23
-virtually 23:8
-vitamin 17:25
-22:24
-
-W
-wage 15:14
-U
-waiting 18:4
-ubiquitous 37:4
-want 3:25 13:22
-ubiquity 26:1
-19:12 20:22,22
-ultimate 32:4
-29:16 34:17 35:14
-ultimately 13:5
-39:3 54:23
-unadministrable
-wanted 55:6 56:9
-9:22
-washington 1:9,16
-unanimously 47:9
-1:18 12:14,16,18
-undermine 50:8
-12:23 20:5,6
-understand 30:15
-wasnt 15:16 38:19
-33:15 37:11 40:25
-39:8 50:5
-42:15
-way 28:15 29:3
-understanding
-33:9 39:16 41:24
-14:14
-44:13
-understood 38:21
-wednesday 1:10
-55:10
-week 49:19
-unfair 25:2
-weigh 21:8
-united 1:1,13
-wellsettled 14:5
-unknown 9:13
-weve 13:8 41:1
-unnamed 7:14,24
-whats 5:8 18:24
-9:13 27:25 28:4,9
-22:23 23:18 28:23
-29:4
-36:6
-unwieldy 29:19
-wheres 43:17
-upheld 54:10
-whos 41:2
-use 3:25 28:8 45:24 whove 5:14
-45:25 46:1,10,11 win 25:21
-47:20 49:8 52:24 wind 26:5
-uses 29:2
-winters 12:17
-wireless 23:2
-V
-word 39:8 45:19,24
-v 1:6 3:4 22:11
-46:10 52:24 53:1
-value 49:21
-53:4
-
-words 16:1 17:8
-22:14 27:10 33:8
-45:24 55:8
-work 11:22 18:9
-workers 15:8,8
-world 37:1
-worrying 37:20
-worth 26:4
-wouldnt 8:10,24
-22:3
-write 45:5
-X
-x 1:2,8
-Y
-yeah 36:14
-years 7:7 12:12
-youd 21:5
-youre 5:21,24 9:11
-9:13,14 21:20
-24:12 34:16 46:7
-54:22
-youve 43:24
-Z
-0
-000 5:22,24 10:5
-21:15 23:20 24:4
-28:5,13,20 29:20
-30:24
-06 1:14 3:2 57:3
-1
-1 21:15
-10 5:22,24 12:12
-100 4:8 8:11 10:11
-26:21 33:19,25
-35:14,14,22,24
-37:11 40:16 43:24
-44:23,24 45:1,7
-52:25
-100person 3:23
-102 37:12
-104 37:7
-11 1:14 3:2
-
-Alderson Reporting Company
-
-
-12 45:24 57:3
-121036 1:5 3:4
-1367 30:16
-1407 27:17 44:9
-150 24:16
-1976 12:16
-1980 10:19
-1982 15:7
-1996 37:2
-2
-20 28:24 53:2
-2005 3:12
-2006 37:3 54:8
-2013 1:10
-23 9:23 24:16 27:20
-34:24 40:24 42:20
-47:12
-26 2:7
-3
-3 2:4
-32a 37:6
-33 54:2
-35 12:15
-4
-42 34:13 42:14
-46 3:17
-49a 25:16
-5
-50 19:7 25:16
-51 19:8
-52 2:10
-6
-6 1:10
-65 5:3,5 43:20
-66 43:20
-66a 27:4
-7
-75 10:5 23:20,20
-24:4 28:5,13,20
-29:20 30:24
-77a 46:20
-
-Official
-Page 68
-787 15:7,16
-79 4:3 43:20,21,22
-79a 27:6
-8
-
-8 46:19
-80 4:3
-800 18:16
-9
-
-
-Alderson Reporting Company
-
+Alderson Reporting Company
 
 

@@ -1,62 +1,62 @@
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 1
 1
 
-       IN THE SUPREME COURT OF THE UNITED STATES
+       IN THE SUPREME COURT OF THE UNITED STATES
 
 2
 
-­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x
+                 x
 
 3
 
-ROBERT MONTANILE,                 :
+ROBERT MONTANILE,                 :
 
 4
 
-            Petitioner            :  No. 14­723
+            Petitioner            :  No. 14723
 
 5
 
-       v.                         :
+       v.                         :
 
 6
 
-BOARD OF TRUSTEES OF THE          :
+BOARD OF TRUSTEES OF THE          :
 
 7
 
-NATIONAL ELEVATOR INDUSTRY        :
+NATIONAL ELEVATOR INDUSTRY        :
 
 8
 
-HEALTH BENEFIT PLAN.              :
+HEALTH BENEFIT PLAN.              :
 
 9
 
-­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x
+                 x
 
 10
 
-                       Washington, D.C.
+                       Washington, D.C.
 
 11
 
-                       Monday, November 9, 2015
+                       Monday, November 9, 2015
 
 12
 13
 
-              The above­entitled matter came on for oral
+              The aboveentitled matter came on for oral
 
 14
 
-argument before the Supreme Court of the United States
+argument before the Supreme Court of the United States
 
 15
 
-at 10:04 a.m.
+at 10:04 a.m.
 
 16
 
@@ -64,98 +64,98 @@ APPEARANCES:
 
 17
 
-PETER K. STRIS, ESQ., Los Angeles, Cal.; on behalf of
+PETER K. STRIS, ESQ., Los Angeles, Cal.; on behalf of
 
 18
 
-   Petitioner.
+   Petitioner.
 
 19
 
-GINGER D. ANDERS, ESQ., Assistant to the Solicitor
+GINGER D. ANDERS, ESQ., Assistant to the Solicitor
 
 20
 
-   General, Department of Justice, Washington, D.C.; for
+   General, Department of Justice, Washington, D.C.; for
 
 21
 
-   United States, as amicus curiae, supporting
+   United States, as amicus curiae, supporting
 
 22
 
-   Petitioner.
+   Petitioner.
 
 23
 
-NEAL K. KATYAL, ESQ., Washington, D.C.; on behalf of
+NEAL K. KATYAL, ESQ., Washington, D.C.; on behalf of
 
 24
 
-   Respondent.
+   Respondent.
 
 25
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 2
 1
 
-                     C O N T E N T S
+                     C O N T E N T S
 
 2
 
-ORAL ARGUMENT OF                                  PAGE
+ORAL ARGUMENT OF                                  PAGE
 
 3
 
-PETER K. STRIS, ESQ.
+PETER K. STRIS, ESQ.
 
 4
 
-   On behalf of the Petitioner                      3
+   On behalf of the Petitioner                      3
 
 5
 
-ORAL ARGUMENT OF
+ORAL ARGUMENT OF
 
 6
 
-GINGER D. ANDERS, ESQ.
+GINGER D. ANDERS, ESQ.
 
 7
 
-   For United States, as amicus curiae,
+   For United States, as amicus curiae,
 
 8
 
-   supporting the Petitioner                        19
+   supporting the Petitioner                        19
 
 9
 
-ORAL ARGUMENT OF
+ORAL ARGUMENT OF
 
 10
 
-NEAL K. KATYAL, ESQ.
+NEAL K. KATYAL, ESQ.
 
 11
 
-   On behalf of the Respondent                      29
+   On behalf of the Respondent                      29
 
 12
 
-REBUTTAL ARGUMENT OF
+REBUTTAL ARGUMENT OF
 
 13
 
-PETER K. STRIS, ESQ.
+PETER K. STRIS, ESQ.
 
 14
 
-   On behalf of the Petitioner                      55
+   On behalf of the Petitioner                      55
 
 15
 16
@@ -169,78 +169,78 @@ PETER K. STRIS, ESQ.
 24
 25
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 3
 1
 
-                  P R O C E E D I N G S
+                  P R O C E E D I N G S
 
 2
 
-                                           (10:04 a.m.)
+                                           (10:04 a.m.)
 
 3
 
-            CHIEF JUSTICE ROBERTS:  We'll hear argument
+            CHIEF JUSTICE ROBERTS:  We'll hear argument
 
 4
 
-this morning in Case 14­723, Montanile v. The Board of
+this morning in Case 14723, Montanile v. The Board of
 
 5
 
-Trustees of the National Elevator Industry Health
+Trustees of the National Elevator Industry Health
 
 6
 
-Benefit Plan.
+Benefit Plan.
 
 7
 
-            Mr. Stris.
+            Mr. Stris.
 
 8
 
-             ORAL ARGUMENT OF PETER K. STRIS
+             ORAL ARGUMENT OF PETER K. STRIS
 
 9
 
-              ON BEHALF OF THE PETITIONER
+              ON BEHALF OF THE PETITIONER
 
 10
 
-            MR. STRIS:  Thank you, Mr. Chief Justice,
+            MR. STRIS:  Thank you, Mr. Chief Justice,
 
 11
 
-and may it please the Court:
+and may it please the Court:
 
 12
 
-            In this ERISA case, a fiduciary has sued a
+            In this ERISA case, a fiduciary has sued a
 
 13
 
-beneficiary to establish and enforce an equitable lien
+beneficiary to establish and enforce an equitable lien
 
 14
 
-by agreement.
+by agreement.
 
 15
 
-            As this Court has repeatedly acknowledged,
+            As this Court has repeatedly acknowledged,
 
 16
 
-an equitable lien is enforceable only against specific
+an equitable lien is enforceable only against specific
 
 17
 
-property and its traceable product in the defendant's
+property and its traceable product in the defendant's
 
 18
 
@@ -248,44 +248,44 @@ possession.
 
 19
 
-            JUSTICE GINSBURG:  Mr. Stris, there's some
+            JUSTICE GINSBURG:  Mr. Stris, there's some
 
 20
 
-fuzziness about the facts in this case, and maybe at the
+fuzziness about the facts in this case, and maybe at the
 
 21
 
-outset you can clarify them.
+outset you can clarify them.
 
 22
 
-            Different figures are given about how much
+            Different figures are given about how much
 
 23
 
-money from this settlement was actually delivered to
+money from this settlement was actually delivered to
 
 24
 
-your client.  And also, what did your client do with it?
+your client.  And also, what did your client do with it?
 
 25
 
-Did he put it with his general assets, or did he keep it
+Did he put it with his general assets, or did he keep it
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 4
 1
 
-in a separate fund?
+in a separate fund?
 
 2
 
-            Maybe you can start by answering those
+            Maybe you can start by answering those
 
 3
 
@@ -293,51 +293,51 @@ questions.
 
 4
 
-            MR. STRIS:  I think I can, Justice Ginsburg.
+            MR. STRIS:  I think I can, Justice Ginsburg.
 
 5
 
-            So I ­­ I want to start with what's in the
+            So I  I want to start with what's in the
 
 6
 
-record, and then I want to add some color that I think
+record, and then I want to add some color that I think
 
 7
 
-will provide context.
+will provide context.
 
 8
 
-            So as far as what's in the record, there was
+            So as far as what's in the record, there was
 
 9
 
-a genuine issue of ­­ of material fact on how much
+a genuine issue of  of material fact on how much
 
 10
 
-dissipation there was.  One thing that's clear from the
+dissipation there was.  One thing that's clear from the
 
 11
 
-record is that ­­
+record is that 
 
 12
 
-            JUSTICE GINSBURG:  Before we get to
+            JUSTICE GINSBURG:  Before we get to
 
 13
 
-dissipation, how much did he receive?
+dissipation, how much did he receive?
 
 14
 
-            MR. STRIS:  Yes.  So that's clear, he
+            MR. STRIS:  Yes.  So that's clear, he
 
 15
 
-received over time, after all expenses were out, about
+received over time, after all expenses were out, about
 
 16
 
@@ -345,11 +345,11 @@ $200,000.
 
 17
 
-            JUSTICE GINSBURG:  200.
+            JUSTICE GINSBURG:  200.
 
 18
 
-            MR. STRIS:  I think that's clear from the
+            MR. STRIS:  I think that's clear from the
 
 19
 
@@ -357,262 +357,262 @@ record.
 
 20
 
-            What's also clear procedurally ­­ and this
+            What's also clear procedurally  and this
 
 21
 
-is important, and this is Page 64 of the Joint
+is important, and this is Page 64 of the Joint
 
 22
 
-Appendix ­­ is that he took the position in opposing
+Appendix  is that he took the position in opposing
 
 23
 
-summary judgment that he has very little of the money
+summary judgment that he has very little of the money
 
 24
 
-remaining, and he cited a declaration and an attached
+remaining, and he cited a declaration and an attached
 
 25
 
-sheet that I admit are confusing.
+sheet that I admit are confusing.
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 5
 1
 
-            JUSTICE KAGAN:  And ­­ and this $200,000,
+            JUSTICE KAGAN:  And  and this $200,000,
 
 2
 
-did he put it in a general account or was it set aside
+did he put it in a general account or was it set aside
 
 3
 
-in a specific account?
+in a specific account?
 
 4
 
-            MR. STRIS:  It is nothing in the record to
+            MR. STRIS:  It is nothing in the record to
 
 5
 
-indicate that, but I think as far as the rules work, it
+indicate that, but I think as far as the rules work, it
 
 6
 
-wouldn't matter because the rules for equitable lien by
+wouldn't matter because the rules for equitable lien by
 
 7
 
-agreement, the tracing rules, are actually very robust,
+agreement, the tracing rules, are actually very robust,
 
 8
 
-Justice Kagan.  And so as equity evolved, you cannot
+Justice Kagan.  And so as equity evolved, you cannot
 
 9
 
-dissipate money by putting it in its own account and
+dissipate money by putting it in its own account and
 
 10
 
-spending it.  Something called the "lowest intermediate
+spending it.  Something called the "lowest intermediate
 
 11
 
-balance rule" developed to prevent against precisely the
+balance rule" developed to prevent against precisely the
 
 12
 
-kind of mischief that we would reasonably worry about.
+kind of mischief that we would reasonably worry about.
 
 13
 
-            JUSTICE GINSBURG:  But Mr. Stris, it does
+            JUSTICE GINSBURG:  But Mr. Stris, it does
 
 14
 
-make a difference, because if he just put it, say, in
+make a difference, because if he just put it, say, in
 
 15
 
-the bank account where he had all of his other money,
+the bank account where he had all of his other money,
 
 16
 
-then how ­­ how could we say that he spent all of the
+then how  how could we say that he spent all of the
 
 17
 
-proceeds on childcare and living expenses?  If you have
+proceeds on childcare and living expenses?  If you have
 
 18
 
-one mixed pot, how can we say, oh, yes, this came from
+one mixed pot, how can we say, oh, yes, this came from
 
 19
 
-the settlement and not from his general funds?
+the settlement and not from his general funds?
 
 20
 
-            MR. STRIS:  It's a very fair question,
+            MR. STRIS:  It's a very fair question,
 
 21
 
-Justice Ginsburg.  And there ­­ there are settled
+Justice Ginsburg.  And there  there are settled
 
 22
 
-tracing rules at equity, and it worked as follows:
+tracing rules at equity, and it worked as follows:
 
 23
 
-            If you took money and it was cash and you
+            If you took money and it was cash and you
 
 24
 
-put it in a bank account, what was presumed was that,
+put it in a bank account, what was presumed was that,
 
 25
 
-unless your total cash assets dipped below the amount
+unless your total cash assets dipped below the amount
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 6
 1
 
-that you got, that the spending that you did was not out
+that you got, that the spending that you did was not out
 
 2
 
-of that, the creditor's rights were not impaired.
+of that, the creditor's rights were not impaired.
 
 3
 
-            So the only way we would prevail on
+            So the only way we would prevail on
 
 4
 
-remand ­­ I want to be clear about the modesty of the
+remand  I want to be clear about the modesty of the
 
 5
 
-position that we're taking here.  The only way we would
+position that we're taking here.  The only way we would
 
 6
 
-prevail on remand is if he got the money and he spent it
+prevail on remand is if he got the money and he spent it
 
 7
 
-down ­­ all of his money, not just the settlement but
+down  all of his money, not just the settlement but
 
 8
 
-all of the cash that he had ­­ down below the ­­ the
+all of the cash that he had  down below the  the
 
 9
 
-amount of the settlement.
+amount of the settlement.
 
 10
 
-            That's why this is very important.
+            That's why this is very important.
 
 11
 
-            JUSTICE GINSBURG:  Well, what ­­
+            JUSTICE GINSBURG:  Well, what 
 
 12
 
-            CHIEF JUSTICE ROBERTS:  Well, I ­­ I don't
+            CHIEF JUSTICE ROBERTS:  Well, I  I don't
 
 13
 
-know if it's the right Latin phrase or ­­ "pro tanto" or
+know if it's the right Latin phrase or  "pro tanto" or
 
 14
 
-something.  I mean, you would lose ­­ it ­­ it ­­ it
+something.  I mean, you would lose  it  it  it
 
 15
 
-doesn't have to spend it all the way down.  Whatever is
+doesn't have to spend it all the way down.  Whatever is
 
 16
 
-left would be subject to tracing.
+left would be subject to tracing.
 
 17
 
-            MR. STRIS:  Yes, Mr. Chief Justice, that's
+            MR. STRIS:  Yes, Mr. Chief Justice, that's
 
 18
 
-correct.  But the point I was trying to make is, there
+correct.  But the point I was trying to make is, there
 
 19
 
-is a big difference between the way equity worked, which
+is a big difference between the way equity worked, which
 
 20
 
-was to have a sensible rule below its intermediate
+was to have a sensible rule below its intermediate
 
 21
 
-balance, and what I view as the extreme swollen asset
+balance, and what I view as the extreme swollen asset
 
 22
 
-theory, that never was applied at equity, that my friend
+theory, that never was applied at equity, that my friend
 
 23
 
-Mr. Katyal is advocating.
+Mr. Katyal is advocating.
 
 24
 
-            Under the swollen asset theory, if you get
+            Under the swollen asset theory, if you get
 
 25
 
-new money in the future, if you spend below the lowest
+new money in the future, if you spend below the lowest
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 7
 1
 
-intermediate balance but then you start earning income,
+intermediate balance but then you start earning income,
 
 2
 
-people can come and garnish your wages.  So the ­­ the
+people can come and garnish your wages.  So the  the
 
 3
 
-point that I'm making here is that the equity
+point that I'm making here is that the equity
 
 4
 
-lien­by­agreement remedy is actually far more robust
+lienbyagreement remedy is actually far more robust
 
 5
 
-than one would think if one read the briefs of the other
+than one would think if one read the briefs of the other
 
 6
 
@@ -620,7 +620,7 @@ side.
 
 7
 
-            JUSTICE KENNEDY:  Equitable lien by
+            JUSTICE KENNEDY:  Equitable lien by
 
 8
 
@@ -628,197 +628,197 @@ agreement.
 
 9
 
-            Was there an agreement ­­ do you think
+            Was there an agreement  do you think
 
 10
 
-there's an agreement here because of the Plan?
+there's an agreement here because of the Plan?
 
 11
 
-            MR. STRIS:  I think the ­­ that issue, we've
+            MR. STRIS:  I think the  that issue, we've
 
 12
 
-lost.  So I mean, you know ­­ I think that's another
+lost.  So I mean, you know  I think that's another
 
 13
 
-important point, Justice Kennedy.  We hear a lot about a
+important point, Justice Kennedy.  We hear a lot about a
 
 14
 
-promise­breaking by beneficiaries.  And that happens.
+promisebreaking by beneficiaries.  And that happens.
 
 15
 
-And those are legitimate concerns.  But from where I'm
+And those are legitimate concerns.  But from where I'm
 
 16
 
-sitting, I see a lot of cases where there's
+sitting, I see a lot of cases where there's
 
 17
 
-promise­breaking by fiduciaries, where they take a
+promisebreaking by fiduciaries, where they take a
 
 18
 
-reimbursement provision that's preempted in an insured
+reimbursement provision that's preempted in an insured
 
 19
 
-plan and then try and enforce it, or where they try and
+plan and then try and enforce it, or where they try and
 
 20
 
-enforce a provision that doesn't apply by its own terms.
+enforce a provision that doesn't apply by its own terms.
 
 21
 
-            So when we're thinking from the perspective
+            So when we're thinking from the perspective
 
 22
 
-of, is this a sensible rule that is consistent with the
+of, is this a sensible rule that is consistent with the
 
 23
 
-broad purposes of ERISA, I think it very much is because
+broad purposes of ERISA, I think it very much is because
 
 24
 
-if you take the ability of fiduciaries to reach the
+if you take the ability of fiduciaries to reach the
 
 25
 
-general assets of participants ­­
+general assets of participants 
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 8
 1
 
-            JUSTICE KENNEDY:  Just as a background
+            JUSTICE KENNEDY:  Just as a background
 
 2
 
-matter, when we left, as I understand, Great ­­
+matter, when we left, as I understand, Great 
 
 3
 
-Great­West, we left ­­ left the issue open.  If the
+GreatWest, we left  left the issue open.  If the
 
 4
 
-beneficiary receives a check that by mistake is three
+beneficiary receives a check that by mistake is three
 
 5
 
-times more than it should be, but he may think it's a
+times more than it should be, but he may think it's a
 
 6
 
-bonus, he may not understand; he spends it all.  Is
+bonus, he may not understand; he spends it all.  Is
 
 7
 
-there an ­­ or is there a legal action that the Plan can
+there an  or is there a legal action that the Plan can
 
 8
 
-take to recover that money?
+take to recover that money?
 
 9
 
-            MR. STRIS:  Yes.  If ­­ if ­­ if I could not
+            MR. STRIS:  Yes.  If  if  if I could not
 
 10
 
-answer it yes or no for a minute, and I promise I'll
+answer it yes or no for a minute, and I promise I'll
 
 11
 
-come back to a yes or no.  I think it's a very important
+come back to a yes or no.  I think it's a very important
 
 12
 
-question, because this happens all the time in the
+question, because this happens all the time in the
 
 13
 
-pension context.
+pension context.
 
 14
 
-            So the first thing I'm going to tell you is
+            So the first thing I'm going to tell you is
 
 15
 
-that usually when that's the case, there is an error on
+that usually when that's the case, there is an error on
 
 16
 
-the part of the Plan.  And our view is even if there
+the part of the Plan.  And our view is even if there
 
 17
 
-were no remedy, that it's not consistent with the
+were no remedy, that it's not consistent with the
 
 18
 
-purposes of ERISA or the way historical equity practice
+purposes of ERISA or the way historical equity practice
 
 19
 
-worked to make the participant the insurer of that type
+worked to make the participant the insurer of that type
 
 20
 
-of error.
+of error.
 
 21
 
-            Now, there are remedies, and here's what
+            Now, there are remedies, and here's what
 
 22
 
-they are under ERISA.  The first one is a set­off
+they are under ERISA.  The first one is a setoff
 
 23
 
-remedy.  And in exception II C of the Great­West
+remedy.  And in exception II C of the GreatWest
 
 24
 
-opinion, you ­­ this Court made that very clear.
+opinion, you  this Court made that very clear.
 
 25
 
-            JUSTICE KENNEDY:  For future payments.
+            JUSTICE KENNEDY:  For future payments.
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 9
 1
 
-            MR. STRIS:  Against future payments.  And ­­
+            MR. STRIS:  Against future payments.  And 
 
 2
 
-and that's used repeatedly in pending and disability
+and that's used repeatedly in pending and disability
 
 3
 
-cases ­­
+cases 
 
 4
 
-            JUSTICE KENNEDY:  Suppose that weren't
+            JUSTICE KENNEDY:  Suppose that weren't
 
 5
 
@@ -826,548 +826,548 @@ available.
 
 6
 
-            MR. STRIS:  Okay.  So if that's not
+            MR. STRIS:  Okay.  So if that's not
 
 7
 
-available, if ­­ if you have a case where there's
+available, if  if you have a case where there's
 
 8
 
-outright fraud ­­ and I don't think that's your ­­ your
+outright fraud  and I don't think that's your  your
 
 9
 
-fact pattern.  But if you have a case where there is
+fact pattern.  But if you have a case where there is
 
 10
 
-outright fraud ­­ and I've seen these, where a
+outright fraud  and I've seen these, where a
 
 11
 
-participant receives money because they claim that
+participant receives money because they claim that
 
 12
 
-someone is still alive, but they're actually dead, I
+someone is still alive, but they're actually dead, I
 
 13
 
-think that there is a remedy there, because in terms of
+think that there is a remedy there, because in terms of
 
 14
 
-outright fraud ­­
+outright fraud 
 
 15
 
-            JUSTICE KENNEDY:  In law.
+            JUSTICE KENNEDY:  In law.
 
 16
 
-            MR. STRIS:  Well, the second prong of Davila
+            MR. STRIS:  Well, the second prong of Davila
 
 17
 
-wouldn't be satisfied.
+wouldn't be satisfied.
 
 18
 
-            So ERISA does not ­­ ERISA's broad
+            So ERISA does not  ERISA's broad
 
 19
 
-preemptive sweep does not go so far as to stop plans
+preemptive sweep does not go so far as to stop plans
 
 20
 
-from policing outright fraud.
+from policing outright fraud.
 
 21
 
-            Now, the more difficult issue is your
+            Now, the more difficult issue is your
 
 22
 
-question ­­
+question 
 
 23
 
-            JUSTICE KENNEDY:  Right.
+            JUSTICE KENNEDY:  Right.
 
 24
 
-            MR. STRIS:  ­­ which is, what if there's not
+            MR. STRIS:   which is, what if there's not
 
 25
 
-outright fraud?  What is ­­ what is the obligation of
+outright fraud?  What is  what is the obligation of
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 10
 1
 
-the beneficiary who gets that check and knows it's three
+the beneficiary who gets that check and knows it's three
 
 2
 
-times, you know, what I got, like, this can't be right.
+times, you know, what I got, like, this can't be right.
 
 3
 
-You know, if ­­ if the beneficiary is a bad actor and
+You know, if  if the beneficiary is a bad actor and
 
 4
 
-says, you know, I'm going to get one over on the Plan,
+says, you know, I'm going to get one over on the Plan,
 
 5
 
-and I'm going to keep this money, and I'm going to spend
+and I'm going to keep this money, and I'm going to spend
 
 6
 
-it, in the rare case where that person was of limited
+it, in the rare case where that person was of limited
 
 7
 
-means and they spent the money down and it was
+means and they spent the money down and it was
 
 8
 
-dissipated, I think unfortunately, I would have to say
+dissipated, I think unfortunately, I would have to say
 
 9
 
-that I ­­ I think a plan would not have a remedy.  But
+that I  I think a plan would not have a remedy.  But
 
 10
 
-the reality is that's a very rare case.
+the reality is that's a very rare case.
 
 11
 
-            JUSTICE KENNEDY:  And ­­ and ­­ and because
+            JUSTICE KENNEDY:  And  and  and because
 
 12
 
-State law, legal remedies are preempted by ERISA?
+State law, legal remedies are preempted by ERISA?
 
 13
 
-            MR. STRIS:  Yes.  That's essentially ­­
+            MR. STRIS:  Yes.  That's essentially 
 
 14
 
-that's essentially the regime.
+that's essentially the regime.
 
 15
 
-            JUSTICE KENNEDY:  Is that a position that's
+            JUSTICE KENNEDY:  Is that a position that's
 
 16
 
-generally accepted, or is this an arguable point?
+generally accepted, or is this an arguable point?
 
 17
 
-            MR. STRIS:  From the perspective of this
+            MR. STRIS:  From the perspective of this
 
 18
 
-Court's cases, or ­­ or ­­
+Court's cases, or  or 
 
 19
 
-            JUSTICE KENNEDY:  Yes.  Yes.
+            JUSTICE KENNEDY:  Yes.  Yes.
 
 20
 
-            MR. STRIS:  Well, I mean, I think the ­­ the
+            MR. STRIS:  Well, I mean, I think the  the
 
 21
 
-letter of your cases ­­
+letter of your cases 
 
 22
 
-            JUSTICE KENNEDY:  I ­­ I thought
+            JUSTICE KENNEDY:  I  I thought
 
 23
 
-Great­Western had left that open.
+GreatWestern had left that open.
 
 24
 
-            MR. STRIS:  Yes.  So I think that's fair.
+            MR. STRIS:  Yes.  So I think that's fair.
 
 25
 
-The letter of your cases does not bind ­­ does not bind
+The letter of your cases does not bind  does not bind
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 11
 1
 
-us here.  I'm ­­ I'm not making a pure statutory stare
+us here.  I'm  I'm not making a pure statutory stare
 
 2
 
-decisis argument, but if ­­
+decisis argument, but if 
 
 3
 
-            JUSTICE KENNEDY:  I'm just asking, is there
+            JUSTICE KENNEDY:  I'm just asking, is there
 
 4
 
-a rule in the courts of appeals, or in the ­­ in the
+a rule in the courts of appeals, or in the  in the
 
 5
 
-legal system generally, or ­­ or are they divided on
+legal system generally, or  or are they divided on
 
 6
 
-this, or just nothing written on it?
+this, or just nothing written on it?
 
 7
 
-            MR. STRIS:  Well, in the context of ERISA,
+            MR. STRIS:  Well, in the context of ERISA,
 
 8
 
-how you would rule on this case would determine that
+how you would rule on this case would determine that
 
 9
 
-issue.  And so the ­­ the circuits are split.  That's
+issue.  And so the  the circuits are split.  That's
 
 10
 
-why I think the issue is very important.  This is not
+why I think the issue is very important.  This is not
 
 11
 
-just a subrogation matter.  This is an issue that will
+just a subrogation matter.  This is an issue that will
 
 12
 
-have dramatic impact in the pension and the disability
+have dramatic impact in the pension and the disability
 
 13
 
-context as well.
+context as well.
 
 14
 
-            CHIEF JUSTICE ROBERTS:  Counsel, if ­­ if
+            CHIEF JUSTICE ROBERTS:  Counsel, if  if
 
 15
 
-you prevail here and are representing a fund, what would
+you prevail here and are representing a fund, what would
 
 16
 
-you advise them to do so they don't confront this result
+you advise them to do so they don't confront this result
 
 17
 
-in the future?
+in the future?
 
 18
 
-            MR. STRIS:  Yes.  It's ­­ it's ­­ it's a
+            MR. STRIS:  Yes.  It's  it's  it's a
 
 19
 
-good question.  And I do advise funds.  And I think that
+good question.  And I do advise funds.  And I think that
 
 20
 
-there is a simple answer, which is funds that are
+there is a simple answer, which is funds that are
 
 21
 
-responsible and sophisticated will do exactly what
+responsible and sophisticated will do exactly what
 
 22
 
-they've always done.  And this is a very important
+they've always done.  And this is a very important
 
 23
 
-point:  Funds are always worried about dissipation.
+point:  Funds are always worried about dissipation.
 
 24
 
-Health insurers have always been worried, and here's
+Health insurers have always been worried, and here's
 
 25
 
 why.
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 12
 1
 
-            The ­­ the mine run of individuals who get a
+            The  the mine run of individuals who get a
 
 2
 
-large tort settlement ­­ this is just a reality of
+large tort settlement  this is just a reality of
 
 3
 
-life ­­ they're effectively judgment­proof except for
+life  they're effectively judgmentproof except for
 
 4
 
-that tort settlement.  So the remedy doesn't matter.  In
+that tort settlement.  So the remedy doesn't matter.  In
 
 5
 
-other words, even if you had a compensatory damages
+other words, even if you had a compensatory damages
 
 6
 
-remedy in most cases, once that money is spent, you've
+remedy in most cases, once that money is spent, you've
 
 7
 
-got nothing.  So what health insurers and plans have
+got nothing.  So what health insurers and plans have
 
 8
 
-done since well before Great­West and has continued to
+done since well before GreatWest and has continued to
 
 9
 
-do it after Great­West is, when a medical claim is
+do it after GreatWest is, when a medical claim is
 
 10
 
-submitted, they investigate it carefully.  And they look
+submitted, they investigate it carefully.  And they look
 
 11
 
-and flag the ones where there is likely a tort ­­ there
+and flag the ones where there is likely a tort  there
 
 12
 
-could be a tort recovery.  They monitor them carefully,
+could be a tort recovery.  They monitor them carefully,
 
 13
 
-either internally or through outside subrogation agents.
+either internally or through outside subrogation agents.
 
 14
 
-And they act promptly.
+And they act promptly.
 
 15
 
-            And, you know, I'm not going to say it's not
+            And, you know, I'm not going to say it's not
 
 16
 
-a dance, because we see a lot of litigation in this area
+a dance, because we see a lot of litigation in this area
 
 17
 
-because there is a lot of money passing through, but
+because there is a lot of money passing through, but
 
 18
 
-plans have faced this problem since before Great­West.
+plans have faced this problem since before GreatWest.
 
 19
 
-These policy arguments about how this is a concern about
+These policy arguments about how this is a concern about
 
 20
 
-dissipation were made in Great­West.  And I just think
+dissipation were made in GreatWest.  And I just think
 
 21
 
-they're ­­ they're substantially overrun.
+they're  they're substantially overrun.
 
 22
 
-            CHIEF JUSTICE ROBERTS:  When you say "they
+            CHIEF JUSTICE ROBERTS:  When you say "they
 
 23
 
-act promptly," what do they act promptly to do?  And is
+act promptly," what do they act promptly to do?  And is
 
 24
 
-it always the case that they can act promptly enough?
+it always the case that they can act promptly enough?
 
 25
 
-            MR. STRIS:  No.  The ­­ you know, whatever
+            MR. STRIS:  No.  The  you know, whatever
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 13
 1
 
-rule you pick, there will be cases where we don't like
+rule you pick, there will be cases where we don't like
 
 2
 
-the result on both sides.  I can give you examples on
+the result on both sides.  I can give you examples on
 
 3
 
-the ­­ on the other side as well.  But ­­
+the  on the other side as well.  But 
 
 4
 
-            CHIEF JUSTICE ROBERTS:  Well, presumably in
+            CHIEF JUSTICE ROBERTS:  Well, presumably in
 
 5
 
-the ­­ in the hypothetical, your ­­ your opposing
+the  in the hypothetical, your  your opposing
 
 6
 
-counsel will be advising the recipient to, I ­­ I
+counsel will be advising the recipient to, I  I
 
 7
 
-suppose, spend it right away, because then there won't
+suppose, spend it right away, because then there won't
 
 8
 
-be anything left; it will have been dissipated, or put
+be anything left; it will have been dissipated, or put
 
 9
 
-it in different accounts, or ­­ or commingle it with,
+it in different accounts, or  or commingle it with,
 
 10
 
-you ­­ you know, a variety of things.  And I'm just
+you  you know, a variety of things.  And I'm just
 
 11
 
-wondering if the solution you're advocating is going to
+wondering if the solution you're advocating is going to
 
 12
 
-make life a lot more complicated and expensive for the
+make life a lot more complicated and expensive for the
 
 13
 
-funds, which is, of course, contrary to the idea of
+funds, which is, of course, contrary to the idea of
 
 14
 
-preserving the assets.
+preserving the assets.
 
 15
 
-            MR. STRIS:  I ­­ I understand that point.
+            MR. STRIS:  I  I understand that point.
 
 16
 
-I ­­ I think the answer is, no, not in any meaningful
+I  I think the answer is, no, not in any meaningful
 
 17
 
-way.  And ­­ and here's why.  You ask what you do.
+way.  And  and here's why.  You ask what you do.
 
 18
 
-Well, you write letters, and you put people on notice of
+Well, you write letters, and you put people on notice of
 
 19
 
-your lien.  And a lot of people are affected by that,
+your lien.  And a lot of people are affected by that,
 
 20
 
-lawyers ­­
+lawyers 
 
 21
 
-            JUSTICE GINSBURG:  How do ­­ how do you put
+            JUSTICE GINSBURG:  How do  how do you put
 
 22
 
-people on notice?  That's a ­­
+people on notice?  That's a 
 
 23
 
-            MR. STRIS:  Pardon?
+            MR. STRIS:  Pardon?
 
 24
 
-            JUSTICE GINSBURG:  That's a legal concept.
+            JUSTICE GINSBURG:  That's a legal concept.
 
 25
 
-A letter is one thing.  But how ­­ what is ­­ what is
+A letter is one thing.  But how  what is  what is
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 14
 1
 
-necessary?  What is the action necessary?  Is it going
+necessary?  What is the action necessary?  Is it going
 
 2
 
-into court and say, enjoin this person from spending any
+into court and say, enjoin this person from spending any
 
 3
 
-of that money?
+of that money?
 
 4
 
-            MR. STRIS:  Here's what plans do, and here's
+            MR. STRIS:  Here's what plans do, and here's
 
 5
 
-what plans should do:  They ­­ they write a letter.  The
+what plans should do:  They  they write a letter.  The
 
 6
 
-minute they find out there's a settlement, they contact;
+minute they find out there's a settlement, they contact;
 
 7
 
-they ask to be paid.  If they're not paid immediately,
+they ask to be paid.  If they're not paid immediately,
 
 8
 
-they say put this money in escrow because we have a
+they say put this money in escrow because we have a
 
 9
 
-dispute.  If the person says no, you have a pretty good
+dispute.  If the person says no, you have a pretty good
 
 10
 
-idea that you might have a problem, and you go into
+idea that you might have a problem, and you go into
 
 11
 
@@ -1375,31 +1375,31 @@ court.
 
 12
 
-            And this is a perfect example with regard to
+            And this is a perfect example with regard to
 
 13
 
-Mr. Montanile.  There was six months of negotiation,
+Mr. Montanile.  There was six months of negotiation,
 
 14
 
-several letters where it was said, hey, if ­­ if you
+several letters where it was said, hey, if  if you
 
 15
 
-don't ­­ if we don't decide by this date, we're going to
+don't  if we don't decide by this date, we're going to
 
 16
 
-distribute the money.
+distribute the money.
 
 17
 
-            CHIEF JUSTICE ROBERTS:  How ­­ how do you
+            CHIEF JUSTICE ROBERTS:  How  how do you
 
 18
 
-find ­­ how does the Plan find out that there's been a
+find  how does the Plan find out that there's been a
 
 19
 
@@ -1407,120 +1407,120 @@ settlement?
 
 20
 
-            MR. STRIS:  Well, they ­­ they find out in
+            MR. STRIS:  Well, they  they find out in
 
 21
 
-many ways.  So a lot of cases actually result ­­ include
+many ways.  So a lot of cases actually result  include
 
 22
 
-where there's large dollars amounts, and a lawsuit is
+where there's large dollars amounts, and a lawsuit is
 
 23
 
-actually filed.
+actually filed.
 
 24
 
-            But in cases where no lawsuit is filed,
+            But in cases where no lawsuit is filed,
 
 25
 
-there's traditional ­­
+there's traditional 
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 15
 1
 
-            CHIEF JUSTICE ROBERTS:  I'm sorry.  The
+            CHIEF JUSTICE ROBERTS:  I'm sorry.  The
 
 2
 
-lawsuit between whom and whom?
+lawsuit between whom and whom?
 
 3
 
-            MR. STRIS:  A State court lawsuit is filed.
+            MR. STRIS:  A State court lawsuit is filed.
 
 4
 
-            CHIEF JUSTICE ROBERTS:  You mean by the
+            CHIEF JUSTICE ROBERTS:  You mean by the
 
 5
 
-beneficiary to recover ­­
+beneficiary to recover 
 
 6
 
-            MR. STRIS:  The tort.
+            MR. STRIS:  The tort.
 
 7
 
-            CHIEF JUSTICE ROBERTS:  ­­ the tort claim?
+            CHIEF JUSTICE ROBERTS:   the tort claim?
 
 8
 
-            MR. STRIS:  Yes.
+            MR. STRIS:  Yes.
 
 9
 
-            CHIEF JUSTICE ROBERTS:  And how is the Plan
+            CHIEF JUSTICE ROBERTS:  And how is the Plan
 
 10
 
-notified of that?
+notified of that?
 
 11
 
-            MR. STRIS:  Well, because of the risks that
+            MR. STRIS:  Well, because of the risks that
 
 12
 
-we're talking about right here in this dialogue, plans
+we're talking about right here in this dialogue, plans
 
 13
 
-are very sensitive to making sure that the minute that
+are very sensitive to making sure that the minute that
 
 14
 
-there's a potential subrogation recovery, they write
+there's a potential subrogation recovery, they write
 
 15
 
-letters to everyone:  To the participant, to the
+letters to everyone:  To the participant, to the
 
 16
 
-participant's lawyer, to the tortfeasor, the
+participant's lawyer, to the tortfeasor, the
 
 17
 
-tortfeasor's lawyer, the insurer.  And they say we have
+tortfeasor's lawyer, the insurer.  And they say we have
 
 18
 
-a lien, and please notify us if anything happens.
+a lien, and please notify us if anything happens.
 
 19
 
-            JUSTICE KENNEDY:  Do they, heavily?
+            JUSTICE KENNEDY:  Do they, heavily?
 
 20
 
-            MR. STRIS:  In some cases they do some; some
+            MR. STRIS:  In some cases they do some; some
 
 21
 
-cases they don't.  That's ultimate ­­
+cases they don't.  That's ultimate 
 
 22
 
-            JUSTICE KENNEDY:  But they say they do,
+            JUSTICE KENNEDY:  But they say they do,
 
 23
 
@@ -1528,593 +1528,593 @@ anyway?
 
 24
 
-            MR. STRIS:  Well, I've ­­ I've seen both.
+            MR. STRIS:  Well, I've  I've seen both.
 
 25
 
-Look, I ­­ I don't actually think it's a pretty
+Look, I  I don't actually think it's a pretty
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 16
 1
 
-controversial point.  There are some people, no matter
+controversial point.  There are some people, no matter
 
 2
 
-where they're sitting, that misbehave.  And so I have
+where they're sitting, that misbehave.  And so I have
 
 3
 
-seen participants who break promises absolutely.  And
+seen participants who break promises absolutely.  And
 
 4
 
-also, I've seen plans that are trying to enforce
+also, I've seen plans that are trying to enforce
 
 5
 
-provisions that are not enforceable.
+provisions that are not enforceable.
 
 6
 
-            CHIEF JUSTICE ROBERTS:  Would it basically,
+            CHIEF JUSTICE ROBERTS:  Would it basically,
 
 7
 
-ignoring the impact of that letter by a beneficiary, be
+ignoring the impact of that letter by a beneficiary, be
 
 8
 
-a basis for the sort of fraud action you were talking
+a basis for the sort of fraud action you were talking
 
 9
 
-about earlier?
+about earlier?
 
 10
 
-            MR. STRIS:  No.  I don't think so.  I
+            MR. STRIS:  No.  I don't think so.  I
 
 11
 
-believe ­­
+believe 
 
 12
 
-            CHIEF JUSTICE ROBERTS:  So the ­­ the
+            CHIEF JUSTICE ROBERTS:  So the  the
 
 13
 
-beneficiary, even the beneficiary's counsel gets a
+beneficiary, even the beneficiary's counsel gets a
 
 14
 
-letter saying, by the way, we have a lien on this, you
+letter saying, by the way, we have a lien on this, you
 
 15
 
-know, good luck.  I hope you recover a fair amount.  But
+know, good luck.  I hope you recover a fair amount.  But
 
 16
 
-if you do, make sure you put it in a separate account.
+if you do, make sure you put it in a separate account.
 
 17
 
-Make sure you notify us.
+Make sure you notify us.
 
 18
 
-            And ­­ and if the beneficiary or the lawyer
+            And  and if the beneficiary or the lawyer
 
 19
 
-just ignores that, that's not a basis for fraud?
+just ignores that, that's not a basis for fraud?
 
 20
 
-            MR. STRIS:  It would depend on the facts of
+            MR. STRIS:  It would depend on the facts of
 
 21
 
-the case.  You know, I ­­ merely ignoring the letter,
+the case.  You know, I  merely ignoring the letter,
 
 22
 
-I'm not so sure.  But I guess I keep coming back to the
+I'm not so sure.  But I guess I keep coming back to the
 
 23
 
-same point.  This is a legitimate problem.  I don't mean
+same point.  This is a legitimate problem.  I don't mean
 
 24
 
-to ­­ to demean that at all, but this has always been a
+to  to demean that at all, but this has always been a
 
 25
 
-problem.  And because of the fact that most people who
+problem.  And because of the fact that most people who
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 17
 1
 
-have these moneys are of limited means, the compensatory
+have these moneys are of limited means, the compensatory
 
 2
 
-damages remedy is ­­ is of very little help.
+damages remedy is  is of very little help.
 
 3
 
-            And so plans came to this Court in
+            And so plans came to this Court in
 
 4
 
-Great­West and said, oh, well this is going to be a
+GreatWest and said, oh, well this is going to be a
 
 5
 
-disaster if there's a present possession requirement.
+disaster if there's a present possession requirement.
 
 6
 
-And yet, it hasn't proven to be the case because people
+And yet, it hasn't proven to be the case because people
 
 7
 
-in their circumstances act promptly, and in most
+in their circumstances act promptly, and in most
 
 8
 
-instances, they're able to protect their rights.
+instances, they're able to protect their rights.
 
 9
 
-            JUSTICE KAGAN:  Mr. Stris ­­
+            JUSTICE KAGAN:  Mr. Stris 
 
 10
 
-            JUSTICE ALITO:  This may be where the law
+            JUSTICE ALITO:  This may be where the law
 
 11
 
-leads us.  But in your brief, you try to make the
+leads us.  But in your brief, you try to make the
 
 12
 
-argument that this is equitable in the ordinary sense of
+argument that this is equitable in the ordinary sense of
 
 13
 
-the word.  And I don't understand that.  What sense does
+the word.  And I don't understand that.  What sense does
 
 14
 
-all of this make?
+all of this make?
 
 15
 
-            MR. STRIS:  Okay.  So that's a fair point,
+            MR. STRIS:  Okay.  So that's a fair point,
 
 16
 
-but I ­­ I would put it a little bit differently.  What
+but I  I would put it a little bit differently.  What
 
 17
 
-I would say is that I think a fair­minded policymaker
+I would say is that I think a fairminded policymaker
 
 18
 
-could certainly pick the rule that we're describing.
+could certainly pick the rule that we're describing.
 
 19
 
-I'm not going to get up here and tell you that it's the
+I'm not going to get up here and tell you that it's the
 
 20
 
-rule that I would pick, but I think a fair­minded
+rule that I would pick, but I think a fairminded
 
 21
 
-policymaker could ­­ and particularly, Justice Alito,
+policymaker could  and particularly, Justice Alito,
 
 22
 
-when you appreciate that it's a rule that's going to
+when you appreciate that it's a rule that's going to
 
 23
 
-apply to all cases, not just subrogation.  I think the
+apply to all cases, not just subrogation.  I think the
 
 24
 
-case for this as a policy matter becomes much stronger
+case for this as a policy matter becomes much stronger
 
 25
 
-in the pension context.
+in the pension context.
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 18
 1
 
-            The reason I make that point is I know that
+            The reason I make that point is I know that
 
 2
 
-I'm running up against this counterintuitive view that
+I'm running up against this counterintuitive view that
 
 3
 
-how can our ­­ how can our position, even if it's what
+how can our  how can our position, even if it's what
 
 4
 
-the cases say, even if the unbroken line of history
+the cases say, even if the unbroken line of history
 
 5
 
-means this, how can it not be totally at odds with
+means this, how can it not be totally at odds with
 
 6
 
-the ­­ the core purpose of ERISA?  And I think it's not.
+the  the core purpose of ERISA?  And I think it's not.
 
 7
 
-It may not be the better policy in your view, but it's
+It may not be the better policy in your view, but it's
 
 8
 
-certainly one that is consistent with the spirit of
+certainly one that is consistent with the spirit of
 
 9
 
-ERISA, and so the decision that needs to be made is:
+ERISA, and so the decision that needs to be made is:
 
 10
 
-What is this line of cases that this Court has decided?
+What is this line of cases that this Court has decided?
 
 11
 
-What did they say?
+What did they say?
 
 12
 
-            And I think repeatedly from Great­West to
+            And I think repeatedly from GreatWest to
 
 13
 
-Sereboff, you reiterated in CIGNA that in nonfiduciary
+Sereboff, you reiterated in CIGNA that in nonfiduciary
 
 14
 
-cases, a lien is not equitable relief unless it's
+cases, a lien is not equitable relief unless it's
 
 15
 
-against property in the defendant's possession.  You
+against property in the defendant's possession.  You
 
 16
 
-have adopted a historical test.
+have adopted a historical test.
 
 17
 
-            And so unless applying it here is so
+            And so unless applying it here is so
 
 18
 
-obviously at odds with the purposes of ERISA, I think
+obviously at odds with the purposes of ERISA, I think
 
 19
 
-that applying that test, the unbroken line of
+that applying that test, the unbroken line of
 
 20
 
-authorities tell us that the rule is you can only
+authorities tell us that the rule is you can only
 
 21
 
-enforce these liens against specific property or its
+enforce these liens against specific property or its
 
 22
 
-traceable product.
+traceable product.
 
 23
 
-            If I could reserve.
+            If I could reserve.
 
 24
 
-            CHIEF JUSTICE ROBERTS:  Thank you, counsel.
+            CHIEF JUSTICE ROBERTS:  Thank you, counsel.
 
 25
 
-            Ms. Anders.
+            Ms. Anders.
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 19
 1
 
-            ORAL ARGUMENT OF GINGER D. ANDERS
+            ORAL ARGUMENT OF GINGER D. ANDERS
 
 2
 
-   ON BEHALF OF THE UNITED STATES, AS AMICUS CURIAE,
+   ON BEHALF OF THE UNITED STATES, AS AMICUS CURIAE,
 
 3
 
-                  SUPPORTING PETITIONER
+                  SUPPORTING PETITIONER
 
 4
 
-            MS. ANDERS:  Mr. Chief Justice, and may it
+            MS. ANDERS:  Mr. Chief Justice, and may it
 
 5
 
-please the Court:
+please the Court:
 
 6
 
-            If I could just start with Justice Alito's
+            If I could just start with Justice Alito's
 
 7
 
-question about what ­­ what sense this framework makes,
+question about what  what sense this framework makes,
 
 8
 
-in limiting available relief to equitable relief in
+in limiting available relief to equitable relief in
 
 9
 
-ERISA, Congress, I think, contemplated that there
+ERISA, Congress, I think, contemplated that there
 
 10
 
-wouldn't be a remedy for plan breaches in every case.
+wouldn't be a remedy for plan breaches in every case.
 
 11
 
-And so the framework this Court developed was to
+And so the framework this Court developed was to
 
 12
 
-distinguish between equitable relief on the one hand and
+distinguish between equitable relief on the one hand and
 
 13
 
-things like damages that, clearly, Congress didn't mean
+things like damages that, clearly, Congress didn't mean
 
 14
 
-to include in the relief that would be available.
+to include in the relief that would be available.
 
 15
 
-            And so ­­ I think it's been true since
+            And so  I think it's been true since
 
 16
 
-Great­West when this Court interpreted equitable relief
+GreatWest when this Court interpreted equitable relief
 
 17
 
-pretty narrowly that a beneficiary will have an
+pretty narrowly that a beneficiary will have an
 
 18
 
-incentive in some cases to structure a settlement in
+incentive in some cases to structure a settlement in
 
 19
 
-order to avoid paying reimbursement to the Plan.  But
+order to avoid paying reimbursement to the Plan.  But
 
 20
 
-it's also been true since Great­West that because of
+it's also been true since GreatWest that because of
 
 21
 
-that, plans have a need to counter those incentives by
+that, plans have a need to counter those incentives by
 
 22
 
-diligently protecting their rights.
+diligently protecting their rights.
 
 23
 
-            And so I think the way that the Court rules
+            And so I think the way that the Court rules
 
 24
 
-in this case is not going to affect the existence of
+in this case is not going to affect the existence of
 
 25
 
-those incentives on the part of beneficiaries or the
+those incentives on the part of beneficiaries or the
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 20
 1
 
-need for plans to be diligent.  So I think it's
+need for plans to be diligent.  So I think it's
 
 2
 
-important to keep in mind here that the only reason this
+important to keep in mind here that the only reason this
 
 3
 
-issue comes up in this case is that the Plan wasn't
+issue comes up in this case is that the Plan wasn't
 
 4
 
-diligent, that the Plan waited for months when it knew
+diligent, that the Plan waited for months when it knew
 
 5
 
-that it had a reimbursement claim, and that that was
+that it had a reimbursement claim, and that that was
 
 6
 
-being disputed.  It didn't seek an injunction.  It
+being disputed.  It didn't seek an injunction.  It
 
 7
 
-didn't file suit.
+didn't file suit.
 
 8
 
-            So yes, I think this is a situation that is
+            So yes, I think this is a situation that is
 
 9
 
-unlike the mine run of cases where we see that plans
+unlike the mine run of cases where we see that plans
 
 10
 
-since Great­West have developed measures that they can
+since GreatWest have developed measures that they can
 
 11
 
-take in order to protect their rights.
+take in order to protect their rights.
 
 12
 
-            JUSTICE GINSBURG:  Ms. Anders, in
+            JUSTICE GINSBURG:  Ms. Anders, in
 
 13
 
-Great­West, the government filed on the side of the
+GreatWest, the government filed on the side of the
 
 14
 
-Plan.  What led the government to shift its position?
+Plan.  What led the government to shift its position?
 
 15
 
-            MS. ANDERS:  I think in Great­West, I think
+            MS. ANDERS:  I think in GreatWest, I think
 
 16
 
-we were taking a somewhat broader view of equitable
+we were taking a somewhat broader view of equitable
 
 17
 
-relief than the court ended up adopting in that case.
+relief than the court ended up adopting in that case.
 
 18
 
-And so as we get here today, we've taken this position
+And so as we get here today, we've taken this position
 
 19
 
-because we think it is absolutely the logical
+because we think it is absolutely the logical
 
 20
 
-consequence of Great­West and Sereboff together.
+consequence of GreatWest and Sereboff together.
 
 21
 
-            JUSTICE KENNEDY:  So you took your position
+            JUSTICE KENNEDY:  So you took your position
 
 22
 
-because of Great­West?
+because of GreatWest?
 
 23
 
-            MS. ANDERS:  That's absolutely right.  In
+            MS. ANDERS:  That's absolutely right.  In
 
 24
 
-Great­West, the Court said that when the funds are not
+GreatWest, the Court said that when the funds are not
 
 25
 
-in the beneficiary's possession, the Plan cannot enforce
+in the beneficiary's possession, the Plan cannot enforce
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 21
 1
 
-an equitable lien ­­ cannot get equitable relief against
+an equitable lien  cannot get equitable relief against
 
 2
 
-the Plan.  And it relied on equitable authorities that
+the Plan.  And it relied on equitable authorities that
 
 3
 
-said, quoting, "If the property or its proceeds have
+said, quoting, "If the property or its proceeds have
 
 4
 
-been dissipated so that no product remains, the
+been dissipated so that no product remains, the
 
 5
 
-plaintiffs may not enforce a constructive trust or
+plaintiffs may not enforce a constructive trust or
 
 6
 
-equitable" ­­
+equitable" 
 
 7
 
-            JUSTICE ALITO:  Probably what ­­
+            JUSTICE ALITO:  Probably what 
 
 8
 
-            CHIEF JUSTICE ROBERTS:  You thought ­­ you
+            CHIEF JUSTICE ROBERTS:  You thought  you
 
 9
 
-thought ­­
+thought 
 
 10
 
-            JUSTICE ALITO:  I'm sorry.
+            JUSTICE ALITO:  I'm sorry.
 
 11
 
-            CHIEF JUSTICE ROBERTS:  But you thought
+            CHIEF JUSTICE ROBERTS:  But you thought
 
 12
 
-Great­West adopted a ­­ a narrower understanding of what
+GreatWest adopted a  a narrower understanding of what
 
 13
 
-equitable meant in this context than you thought was
+equitable meant in this context than you thought was
 
 14
 
@@ -2122,185 +2122,185 @@ appropriate.
 
 15
 
-            MS. ANDERS:  I think at the time we were
+            MS. ANDERS:  I think at the time we were
 
 16
 
-arguing for a broader understanding.  But as we ­­ as we
+arguing for a broader understanding.  But as we  as we
 
 17
 
-come here today, of course, nobody has ­­ has argued
+come here today, of course, nobody has  has argued
 
 18
 
-that Great­West or Sereboff should be overturned, or
+that GreatWest or Sereboff should be overturned, or
 
 19
 
-Mertens, for that matter.  And so we think the
+Mertens, for that matter.  And so we think the
 
 20
 
-consequence of those two decisions is that there will
+consequence of those two decisions is that there will
 
 21
 
-not be relief in a case in which the Plan participant
+not be relief in a case in which the Plan participant
 
 22
 
-has dissipated the funds.
+has dissipated the funds.
 
 23
 
-            JUSTICE GINSBURG:  But would you ­­ say,
+            JUSTICE GINSBURG:  But would you  say,
 
 24
 
-what is the government's position on commingling?
+what is the government's position on commingling?
 
 25
 
-There's no ­­ the beneficiary gets the check, puts it in
+There's no  the beneficiary gets the check, puts it in
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 22
 1
 
-his bank account, together with whatever else he has in
+his bank account, together with whatever else he has in
 
 2
 
-there.  So how do we tell if he's dissipated?
+there.  So how do we tell if he's dissipated?
 
 3
 
-            MS. ANDERS:  I agree with my friend that the
+            MS. ANDERS:  I agree with my friend that the
 
 4
 
-commingling rule at equity, I think, reflected the fact
+commingling rule at equity, I think, reflected the fact
 
 5
 
-that once funds have been dissipated, the lienholder can
+that once funds have been dissipated, the lienholder can
 
 6
 
-no longer collect.  So the way it worked was that if you
+no longer collect.  So the way it worked was that if you
 
 7
 
-had funds in your account that ­­ and you spent them,
+had funds in your account that  and you spent them,
 
 8
 
-that at first it would be presumed that you were
+that at first it would be presumed that you were
 
 9
 
-spending your own money.
+spending your own money.
 
 10
 
-            But ­­ but once you got down below the
+            But  but once you got down below the
 
 11
 
-amount that ­­ that was originally subject to the lien,
+amount that  that was originally subject to the lien,
 
 12
 
-the lienholder would only be able to enforce against
+the lienholder would only be able to enforce against
 
 13
 
-whatever remained in that account even if it wasn't
+whatever remained in that account even if it wasn't
 
 14
 
-sufficient to satisfy the lien amount.
+sufficient to satisfy the lien amount.
 
 15
 
-            So it's basically the same dissipation rule
+            So it's basically the same dissipation rule
 
 16
 
-that applies in cases that don't involve commingling.
+that applies in cases that don't involve commingling.
 
 17
 
-            JUSTICE BREYER:  Why can't ­­ in a case
+            JUSTICE BREYER:  Why can't  in a case
 
 18
 
-where there's no time problem ­­ forget the delays and
+where there's no time problem  forget the delays and
 
 19
 
-so forth ­­ but like this one, the Plan sue the lawyer?
+so forth  but like this one, the Plan sue the lawyer?
 
 20
 
-I mean, if there was $500,000 and the lawyer received
+I mean, if there was $500,000 and the lawyer received
 
 21
 
-200,000 ­­ but he certainly received it with notice.
+200,000  but he certainly received it with notice.
 
 22
 
-It's not any kind of good­faith purchaser ­­ why can't
+It's not any kind of goodfaith purchaser  why can't
 
 23
 
-they get it back from him?
+they get it back from him?
 
 24
 
-            MS. ANDERS:  I think there may be situations
+            MS. ANDERS:  I think there may be situations
 
 25
 
-in which the Plan could sue the lawyer.
+in which the Plan could sue the lawyer.
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 23
 1
 
-            JUSTICE BREYER:  Why couldn't they normally
+            JUSTICE BREYER:  Why couldn't they normally
 
 2
 
-in my situation?
+in my situation?
 
 3
 
-            MS. ANDERS:  I think they probably could.
+            MS. ANDERS:  I think they probably could.
 
 4
 
-            JUSTICE BREYER:  All right.  If they could,
+            JUSTICE BREYER:  All right.  If they could,
 
 5
 
-then doesn't that solve the problem for them because
+then doesn't that solve the problem for them because
 
 6
 
-lawyers will be awfully careful not to dissipate the
+lawyers will be awfully careful not to dissipate the
 
 7
 
-funds if, in fact, they're going to be subject to the
+funds if, in fact, they're going to be subject to the
 
 8
 
@@ -2308,221 +2308,221 @@ lawsuit?
 
 9
 
-            MS. ANDERS:  Well, I think that's right, and
+            MS. ANDERS:  Well, I think that's right, and
 
 10
 
-I think lawyers also have ethical rules that ­­ that
+I think lawyers also have ethical rules that  that
 
 11
 
-prevent them from ­­ from dissipating funds ­­
+prevent them from  from dissipating funds 
 
 12
 
-            JUSTICE SCALIA:  But wait a minute.  I mean,
+            JUSTICE SCALIA:  But wait a minute.  I mean,
 
 13
 
-if they can get it from the lawyer immediately, why
+if they can get it from the lawyer immediately, why
 
 14
 
-can't they get it from the lawyer at ­­ at the end of
+can't they get it from the lawyer at  at the end of
 
 15
 
-the day?  I mean, do you mean that ­­ that the ­­ the
+the day?  I mean, do you mean that  that the  the
 
 16
 
-fund can get back not only what the beneficiary
+fund can get back not only what the beneficiary
 
 17
 
-receives, but also what he has paid his lawyer?
+receives, but also what he has paid his lawyer?
 
 18
 
-            MS. ANDERS:  No.  I just mean that ­­ that
+            MS. ANDERS:  No.  I just mean that  that
 
 19
 
-if the funds are in the lawyer's possession, the lawyer
+if the funds are in the lawyer's possession, the lawyer
 
 20
 
-is the agent of ­­ of the ­­ of the beneficiary, I think
+is the agent of  of the  of the beneficiary, I think
 
 21
 
-in that situation, equity would permit the plaintiff,
+in that situation, equity would permit the plaintiff,
 
 22
 
-the lienholder to trace that ­­ that lien amount.
+the lienholder to trace that  that lien amount.
 
 23
 
-            JUSTICE SCALIA:  To ­­ to get the whole
+            JUSTICE SCALIA:  To  to get the whole
 
 24
 
-amount from the lawyer, right, so leaving the lawyer
+amount from the lawyer, right, so leaving the lawyer
 
 25
 
-without his fee?
+without his fee?
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 24
 1
 
-            MS. ANDERS:  Yes.  I ­­ I think that could
+            MS. ANDERS:  Yes.  I  I think that could
 
 2
 
-be correct.  I mean ­­
+be correct.  I mean 
 
 3
 
-            JUSTICE KENNEDY:  I thought in most States,
+            JUSTICE KENNEDY:  I thought in most States,
 
 4
 
-the lawyer has a lien on the fee.  His lien is prior ­­
+the lawyer has a lien on the fee.  His lien is prior 
 
 5
 
-I may be wrong.  His ­­ his lien, the lawyer's lien is
+I may be wrong.  His  his lien, the lawyer's lien is
 
 6
 
-prior to the ­­
+prior to the 
 
 7
 
-            JUSTICE SCALIA:  Yeah.
+            JUSTICE SCALIA:  Yeah.
 
 8
 
-            MS. ANDERS:  I think ­­
+            MS. ANDERS:  I think 
 
 9
 
-            JUSTICE SCALIA:  That has to be or nobody
+            JUSTICE SCALIA:  That has to be or nobody
 
 10
 
-would take these cases.
+would take these cases.
 
 11
 
-            (Laughter.)
+            (Laughter.)
 
 12
 
-            MS. ANDERS:  That may be correct.  I
+            MS. ANDERS:  That may be correct.  I
 
 13
 
-don't ­­ I don't think this situation has come up very
+don't  I don't think this situation has come up very
 
 14
 
-much.  But I ­­
+much.  But I 
 
 15
 
-            JUSTICE BREYER:  I don't see why it would
+            JUSTICE BREYER:  I don't see why it would
 
 16
 
-be.  There is a fund.  The fund belongs to person X.
+be.  There is a fund.  The fund belongs to person X.
 
 17
 
-The lawyer knows it belongs to person X.  Nonetheless,
+The lawyer knows it belongs to person X.  Nonetheless,
 
 18
 
-the lawyer takes $200,000 out of the money that belongs
+the lawyer takes $200,000 out of the money that belongs
 
 19
 
-to person X and gives 300,000 to the client.
+to person X and gives 300,000 to the client.
 
 20
 
-            I assume the client is more likely to spend
+            I assume the client is more likely to spend
 
 21
 
-money down than the lawyer, because lawyers tend, in
+money down than the lawyer, because lawyers tend, in
 
 22
 
-general, to have a largely bank account than poorer
+general, to have a largely bank account than poorer
 
 23
 
-clients.  So therefore, I do not see why they wouldn't
+clients.  So therefore, I do not see why they wouldn't
 
 24
 
-sue the lawyer.
+sue the lawyer.
 
 25
 
-            But they aren't, so there's something I
+            But they aren't, so there's something I
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 25
 1
 
-didn't understand; hence, I a.m. asking the question.
+didn't understand; hence, I a.m. asking the question.
 
 2
 
-            MS. ANDERS:  All right.  Well, I don't think
+            MS. ANDERS:  All right.  Well, I don't think
 
 3
 
-­­ I don't think it's come up very much, but I do think
+ I don't think it's come up very much, but I do think
 
 4
 
-it's possible that in some situations, plans may be able
+it's possible that in some situations, plans may be able
 
 5
 
-to sue the lawyers.  They can sue other ­­
+to sue the lawyers.  They can sue other 
 
 6
 
-            JUSTICE SCALIA:  I think it must depend on
+            JUSTICE SCALIA:  I think it must depend on
 
 7
 
-how the agreement reads, and I can't imagine the
+how the agreement reads, and I can't imagine the
 
 8
 
-agreement wouldn't ­­ wouldn't require the beneficiary
+agreement wouldn't  wouldn't require the beneficiary
 
 9
 
-to turn over the net.  Not the gross, but the net
+to turn over the net.  Not the gross, but the net
 
 10
 
-recovery, what ­­ what he receives after paying legal
+recovery, what  what he receives after paying legal
 
 11
 
@@ -2530,233 +2530,233 @@ fees.
 
 12
 
-            MS. ANDERS:  Well, I think a lot of these
+            MS. ANDERS:  Well, I think a lot of these
 
 13
 
-plans are going to disclaim a common fund or ­­ or ­­
+plans are going to disclaim a common fund or  or 
 
 14
 
-you know, they're going to disclaim their ­­ their ­­
+you know, they're going to disclaim their  their 
 
 15
 
-any obligation to have the attorneys' fees counted
+any obligation to have the attorneys' fees counted
 
 16
 
-against them.  So the ­­ the person is not ­­
+against them.  So the  the person is not 
 
 17
 
-            JUSTICE BREYER:  I'm ­­
+            JUSTICE BREYER:  I'm 
 
 18
 
-            MS. ANDERS:  ­­ going to ­­ the entire
+            MS. ANDERS:   going to  the entire
 
 19
 
-amount ­­
+amount 
 
 20
 
-            JUSTICE BREYER:  ­­ thinking in my mind ­­
+            JUSTICE BREYER:   thinking in my mind 
 
 21
 
-            MS. ANDERS:  ­­ but just to ­­ just to make
+            MS. ANDERS:   but just to  just to make
 
 22
 
-a ­­ a broader ­­
+a  a broader 
 
 23
 
-            JUSTICE BREYER:  There is a model.  There is
+            JUSTICE BREYER:  There is a model.  There is
 
 24
 
-a ­­ two diamond rings belonging to a trustee.  They end
+a  two diamond rings belonging to a trustee.  They end
 
 25
 
-up being given to the cousin.  The lawyer has them in
+up being given to the cousin.  The lawyer has them in
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 26
 1
 
-his safe.  I do not believe that no matter what the
+his safe.  I do not believe that no matter what the
 
 2
 
-agreement between the cousin and the lawyer, the lawyer
+agreement between the cousin and the lawyer, the lawyer
 
 3
 
-can take the diamond ring that belongs to somebody
+can take the diamond ring that belongs to somebody
 
 4
 
-else ­­ and he knows it ­­ and put it in his pocket, no
+else  and he knows it  and put it in his pocket, no
 
 5
 
-matter what the agreement.
+matter what the agreement.
 
 6
 
-            MS. ANDERS:  Right.  He's not a bona fide
+            MS. ANDERS:  Right.  He's not a bona fide
 
 7
 
-purchaser for value in that situation.
+purchaser for value in that situation.
 
 8
 
-            But I think the Plans do have many other
+            But I think the Plans do have many other
 
 9
 
-remedies in these situations.  They can trace against ­­
+remedies in these situations.  They can trace against 
 
 10
 
-against any third party who takes the ­­ the property
+against any third party who takes the  the property
 
 11
 
-with notice of the lien.  They ­­ they could monitor the
+with notice of the lien.  They  they could monitor the
 
 12
 
-litigation.  They can intervene in these suits.  They
+litigation.  They can intervene in these suits.  They
 
 13
 
-can seek injunctions.  These are all things that the
+can seek injunctions.  These are all things that the
 
 14
 
-Plan here did not do.
+Plan here did not do.
 
 15
 
-            And just to ­­ to pick up on a point that my
+            And just to  to pick up on a point that my
 
 16
 
-friend was making, I do think that this is a situation
+friend was making, I do think that this is a situation
 
 17
 
-in which reasonable policymakers could differ.  There
+in which reasonable policymakers could differ.  There
 
 18
 
-are legitimate concerns on both sides.  It is absolutely
+are legitimate concerns on both sides.  It is absolutely
 
 19
 
-a legitimate concern that in some cases a plan may not
+a legitimate concern that in some cases a plan may not
 
 20
 
-be able to recover even if it has diligently protected
+be able to recover even if it has diligently protected
 
 21
 
-the rights.  But ­­
+the rights.  But 
 
 22
 
-            CHIEF JUSTICE ROBERTS:  All ­­ all of those
+            CHIEF JUSTICE ROBERTS:  All  all of those
 
 23
 
-things you say ­­ all of those things you say the Plan
+things you say  all of those things you say the Plan
 
 24
 
-can do, though, are ­­ are a lot more complicated than
+can do, though, are  are a lot more complicated than
 
 25
 
-simply saying they should be able to recover that to
+simply saying they should be able to recover that to
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 27
 1
 
-which they're entitled under the agreement.  And when
+which they're entitled under the agreement.  And when
 
 2
 
-you get into ­­ we've noted before that we try to avoid
+you get into  we've noted before that we try to avoid
 
 3
 
-complicating the procedures in this area, for the simple
+complicating the procedures in this area, for the simple
 
 4
 
-reason that nobody has to set up one of these plans.
+reason that nobody has to set up one of these plans.
 
 5
 
-And if they don't know, you know, how much it's going to
+And if they don't know, you know, how much it's going to
 
 6
 
-cost in advance and all of them just say, well, it's not
+cost in advance and all of them just say, well, it's not
 
 7
 
-worth it, and if I've got to go and file injunctions or
+worth it, and if I've got to go and file injunctions or
 
 8
 
-this or that every time somebody makes a ­­ has a tort
+this or that every time somebody makes a  has a tort
 
 9
 
-recovery, you know ­­ but I'm not going to do it.  I
+recovery, you know  but I'm not going to do it.  I
 
 10
 
-won't set up one of these plans.
+won't set up one of these plans.
 
 11
 
-            MS. ANDERS:  Well, I think ­­ I think an
+            MS. ANDERS:  Well, I think  I think an
 
 12
 
-important point, Your Honor, is that no matter how the
+important point, Your Honor, is that no matter how the
 
 13
 
-Court rules here, the Plans are going to have those
+Court rules here, the Plans are going to have those
 
 14
 
-obligations and they're going to have those burdens,
+obligations and they're going to have those burdens,
 
 15
 
-because Great­West permits beneficiaries to structure
+because GreatWest permits beneficiaries to structure
 
 16
 
-their settlements to avoid paying reimbursement to the
+their settlements to avoid paying reimbursement to the
 
 17
 
@@ -2764,15 +2764,15 @@ Plan.
 
 18
 
-            So because of that, ever since Great­West,
+            So because of that, ever since GreatWest,
 
 19
 
-Plans have taken these measures and ­­ and they will
+Plans have taken these measures and  and they will
 
 20
 
-continue to take them even if the Court rules for
+continue to take them even if the Court rules for
 
 21
 
@@ -2780,217 +2780,217 @@ Respondents.
 
 22
 
-            JUSTICE SCALIA:  What are the concerns on
+            JUSTICE SCALIA:  What are the concerns on
 
 23
 
-the other side, which you have mentioned and ­­ and
+the other side, which you have mentioned and  and
 
 24
 
-which your ­­ your friend also mentioned?  What are
+which your  your friend also mentioned?  What are
 
 25
 
 they?
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 28
 1
 
-            MS. ANDERS:  So one concern, as you said, is
+            MS. ANDERS:  So one concern, as you said, is
 
 2
 
-that ­­ that whatever rule the Court announces, it's
+that  that whatever rule the Court announces, it's
 
 3
 
-going to apply in the pension and disability benefit
+going to apply in the pension and disability benefit
 
 4
 
-context too.  And in that situation, the Plan may be
+context too.  And in that situation, the Plan may be
 
 5
 
-making overpayments to beneficiaries over a long period
+making overpayments to beneficiaries over a long period
 
 6
 
-of time.  And the beneficiary may spend the money
+of time.  And the beneficiary may spend the money
 
 7
 
-without knowing that she's going to be responsible for
+without knowing that she's going to be responsible for
 
 8
 
-reimbursing it later, or ­­ or that it's not her money
+reimbursing it later, or  or that it's not her money
 
 9
 
-to spend in a sense.  And so in that situation, I think
+to spend in a sense.  And so in that situation, I think
 
 10
 
-a policymaker could be concerned that ­­ about a plan
+a policymaker could be concerned that  about a plan
 
 11
 
-being able to go ­­ go back months or years later and ­­
+being able to go  go back months or years later and 
 
 12
 
-and get reimbursement from the beneficiary.
+and get reimbursement from the beneficiary.
 
 13
 
-            So I think, you know, this is really a
+            So I think, you know, this is really a
 
 14
 
-question for Congress.  But what Congress could do is it
+question for Congress.  But what Congress could do is it
 
 15
 
-could weigh that potential against the downside to the
+could weigh that potential against the downside to the
 
 16
 
-Plan, the fact that, since Great­West, they have ­­ they
+Plan, the fact that, since GreatWest, they have  they
 
 17
 
-have had these obligations, they have needed to
+have had these obligations, they have needed to
 
 18
 
-diligently protect their rights, and, I think, in the
+diligently protect their rights, and, I think, in the
 
 19
 
-mine­run of cases, they've been able to do so.
+minerun of cases, they've been able to do so.
 
 20
 
-            So I think those are the things that
+            So I think those are the things that
 
 21
 
-Congress could weigh in looking at the policy ­­ policy
+Congress could weigh in looking at the policy  policy
 
 22
 
-concerns on either side of this.
+concerns on either side of this.
 
 23
 
-            And that's why we think those concerns
+            And that's why we think those concerns
 
 24
 
-really shouldn't drive the analysis here.  The ­­
+really shouldn't drive the analysis here.  The 
 
 25
 
-            JUSTICE KAGAN:  Ms. Anders, could I ­­ could
+            JUSTICE KAGAN:  Ms. Anders, could I  could
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 29
 1
 
-I shift gears a little bit and ­­ and just ask:  The
+I shift gears a little bit and  and just ask:  The
 
 2
 
-test that we've set up is whether a remedy is typically
+test that we've set up is whether a remedy is typically
 
 3
 
-available at equity.  And there's been some
+available at equity.  And there's been some
 
 4
 
-back­and­forth, I think, about what that means.
+backandforth, I think, about what that means.
 
 5
 
-            What does it mean?
+            What does it mean?
 
 6
 
-            MS. ANDERS:  I think "typically available in
+            MS. ANDERS:  I think "typically available in
 
 7
 
-equity" meant remedies that were considered to be
+equity" meant remedies that were considered to be
 
 8
 
-equitable in nature.  And so it certainly did not
+equitable in nature.  And so it certainly did not
 
 9
 
-include, as this Court said in Merten, the type of ­­
+include, as this Court said in Merten, the type of 
 
 10
 
-Mertens, the type of ­­ relief, such as deficiency
+Mertens, the type of  relief, such as deficiency
 
 11
 
-judgments or lien destruction damages, that that Court
+judgments or lien destruction damages, that that Court
 
 12
 
-thought of as legal to the end of the ­­ the time of the
+thought of as legal to the end of the  the time of the
 
 13
 
-divided bench.
+divided bench.
 
 14
 
-            CHIEF JUSTICE ROBERTS:  Thank you, counsel.
+            CHIEF JUSTICE ROBERTS:  Thank you, counsel.
 
 15
 
-            Mr. Katyal.
+            Mr. Katyal.
 
 16
 
-             ORAL ARGUMENT OF NEAL K. KATYAL
+             ORAL ARGUMENT OF NEAL K. KATYAL
 
 17
 
-               ON BEHALF OF THE RESPONDENT
+               ON BEHALF OF THE RESPONDENT
 
 18
 
-            MR. KATYAL:  Thank you, Mr. Chief Justice,
+            MR. KATYAL:  Thank you, Mr. Chief Justice,
 
 19
 
-and may it please the Court:
+and may it please the Court:
 
 20
 
-            Three things are undisputed.
+            Three things are undisputed.
 
 21
 
-            First, that Montanile signed a form saying,
+            First, that Montanile signed a form saying,
 
 22
 
-quote, "I agree to reimburse in full the Plan from any
+quote, "I agree to reimburse in full the Plan from any
 
 23
 
@@ -2998,504 +2998,504 @@ settlement."
 
 24
 
-            Second, the Plan provides that such funds
+            Second, the Plan provides that such funds
 
 25
 
-are, quote, "Assets of the Plan not distributable to any
+are, quote, "Assets of the Plan not distributable to any
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 30
 1
 
-person without the Plan's written release."
+person without the Plan's written release."
 
 2
 
-            And third, under Sereboff, that the Plan
+            And third, under Sereboff, that the Plan
 
 3
 
-would have an enforcement claim under 502(a)(3) if
+would have an enforcement claim under 502(a)(3) if
 
 4
 
-Montanile still possessed the funds.
+Montanile still possessed the funds.
 
 5
 
-            What we're disagreeing about is whether
+            What we're disagreeing about is whether
 
 6
 
-Montanile's decision to commit a second wrong of
+Montanile's decision to commit a second wrong of
 
 7
 
-spending the Plan's money himself has made him
+spending the Plan's money himself has made him
 
 8
 
-judgment­proof.  And the answer is no for a very simple
+judgmentproof.  And the answer is no for a very simple
 
 9
 
-reason:  When a right under equity has attached and a
+reason:  When a right under equity has attached and a
 
 10
 
-defendant then knowingly frustrates that equitable
+defendant then knowingly frustrates that equitable
 
 11
 
-claim, it is absolutely part of equity to permit that
+claim, it is absolutely part of equity to permit that
 
 12
 
-claim.  This reflects the cold reality that the
+claim.  This reflects the cold reality that the
 
 13
 
-defendant took actions that blocked an otherwise valid
+defendant took actions that blocked an otherwise valid
 
 14
 
-claim in equity.
+claim in equity.
 
 15
 
-            JUSTICE SOTOMAYOR:  I ­­ I have no idea
+            JUSTICE SOTOMAYOR:  I  I have no idea
 
 16
 
-where you think this lien attached.  Do you think it
+where you think this lien attached.  Do you think it
 
 17
 
-attached at the fund, immediate ­­ the whole 500,000, or
+attached at the fund, immediate  the whole 500,000, or
 
 18
 
-the amount of that 500,000 that ended up in his pocket,
+the amount of that 500,000 that ended up in his pocket,
 
 19
 
-or that 500,000 minus what, if anything?
+or that 500,000 minus what, if anything?
 
 20
 
-            MR. KATYAL:  So it ­­ it's ­­ Barnes says
+            MR. KATYAL:  So it  it's  Barnes says
 
 21
 
-that the ­­ that the lien attaches at the moment that he
+that the  that the lien attaches at the moment that he
 
 22
 
-is ­­ that he has gotten title to the thing.  He gets
+is  that he has gotten title to the thing.  He gets
 
 23
 
-title to the thing when there is a $500,000 settlement.
+title to the thing when there is a $500,000 settlement.
 
 24
 
-Settlement, of course, that we didn't know about, but
+Settlement, of course, that we didn't know about, but
 
 25
 
-that he nonetheless did.
+that he nonetheless did.
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 31
 1
 
-            Our only ­­
+            Our only 
 
 2
 
-            JUSTICE SOTOMAYOR:  So your position is at
+            JUSTICE SOTOMAYOR:  So your position is at
 
 3
 
-that moment it goes to the lawyer, it's his money, all
+that moment it goes to the lawyer, it's his money, all
 
 4
 
-500,000.  You're entitled to whatever ­­
+500,000.  You're entitled to whatever 
 
 5
 
-            MR. KATYAL:  To a ­­ to a lien of $121,000
+            MR. KATYAL:  To a  to a lien of $121,000
 
 6
 
-on it.
+on it.
 
 7
 
-            And so our claim is not that we have some
+            And so our claim is not that we have some
 
 8
 
-general remedy at law that we can get compensatory
+general remedy at law that we can get compensatory
 
 9
 
-consequential damages or punitive damages.  It's limited
+consequential damages or punitive damages.  It's limited
 
 10
 
-by the lien itself.
+by the lien itself.
 
 11
 
-            And that is the rule in equity, that when
+            And that is the rule in equity, that when
 
 12
 
-someone frustrates a valid claim in equity by taking
+someone frustrates a valid claim in equity by taking
 
 13
 
-actions to dissipate the fund, you can get ­­
+actions to dissipate the fund, you can get 
 
 14
 
-recover the value of that fund.  You can't recover more
+recover the value of that fund.  You can't recover more
 
 15
 
-than that.  So this is the bitter with the sweet that
+than that.  So this is the bitter with the sweet that
 
 16
 
-when ­­ when you make an equitable claim like this, you
+when  when you make an equitable claim like this, you
 
 17
 
-have to be limited by all the rules of equity.
+have to be limited by all the rules of equity.
 
 18
 
-            So in addition to that, Justice Sotomayor,
+            So in addition to that, Justice Sotomayor,
 
 19
 
-we couldn't, for example, try and attach the asset, try
+we couldn't, for example, try and attach the asset, try
 
 20
 
-and attach and file a lawsuit, until he actually took
+and attach and file a lawsuit, until he actually took
 
 21
 
-possession of the funds.
+possession of the funds.
 
 22
 
-            JUSTICE BREYER:  So I ­­ I found a list.  On
+            JUSTICE BREYER:  So I  I found a list.  On
 
 23
 
-this list I have, one, there is the fund, 500,000 in it.
+this list I have, one, there is the fund, 500,000 in it.
 
 24
 
-It belongs to the company, not to him.
+It belongs to the company, not to him.
 
 25
 
-            Now, he takes the fund and he begins to
+            Now, he takes the fund and he begins to
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 32
 1
 
-distribute it with the aid of his lawyer.  Some of the
+distribute it with the aid of his lawyer.  Some of the
 
 2
 
-money goes to the lawyer.  If that money is still there,
+money goes to the lawyer.  If that money is still there,
 
 3
 
-I imagine you could get it.
+I imagine you could get it.
 
 4
 
-            Some of the lawyer's goes to his bank
+            Some of the lawyer's goes to his bank
 
 5
 
-account.  If, in fact, that bank account has not gone,
+account.  If, in fact, that bank account has not gone,
 
 6
 
-from the time he put it there to the time you sue, below
+from the time he put it there to the time you sue, below
 
 7
 
-$121,000, you can get it.  Indeed ­­ and if it has gone
+$121,000, you can get it.  Indeed  and if it has gone
 
 8
 
-below, you can still get it even if there's a penny, but
+below, you can still get it even if there's a penny, but
 
 9
 
-you can only get the penny.
+you can only get the penny.
 
 10
 
-            If he has taken the 121,000 out of it and
+            If he has taken the 121,000 out of it and
 
 11
 
-given it to a person with knowledge, for example, his
+given it to a person with knowledge, for example, his
 
 12
 
-wife or children, and it is in their bank account, I
+wife or children, and it is in their bank account, I
 
 13
 
-guess you could get it.
+guess you could get it.
 
 14
 
-            And indeed, if they have got and bought with
+            And indeed, if they have got and bought with
 
 15
 
-it some tangible item that you can trace it to, I guess
+it some tangible item that you can trace it to, I guess
 
 16
 
-you can get it.
+you can get it.
 
 17
 
-            But what we could not find and, in fact, if
+            But what we could not find and, in fact, if
 
 18
 
-you can't find any of those, you could still sue him
+you can't find any of those, you could still sue him
 
 19
 
-under State law, under State fraud statutes, and recover
+under State law, under State fraud statutes, and recover
 
 20
 
-in damages.  That's at law.  And maybe you can do it
+in damages.  That's at law.  And maybe you can do it
 
 21
 
-even under such a remedy where it's much more mixed up
+even under such a remedy where it's much more mixed up
 
 22
 
-than the other side was prepared to give you credit for,
+than the other side was prepared to give you credit for,
 
 23
 
-in which case, you have State law remedies at law.
+in which case, you have State law remedies at law.
 
 24
 
-            Now, what I could not find is a case
+            Now, what I could not find is a case
 
 25
 
-embodying the theory you are now advancing, that he
+embodying the theory you are now advancing, that he
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 33
 1
 
-simply gets the damages even where he doesn't have any
+simply gets the damages even where he doesn't have any
 
 2
 
-of the remedies that I just mentioned.
+of the remedies that I just mentioned.
 
 3
 
-            MR. KATYAL:  So ­­ so first of all, we're
+            MR. KATYAL:  So  so first of all, we're
 
 4
 
-not advancing that theory, Justice Breyer.  You cannot
+not advancing that theory, Justice Breyer.  You cannot
 
 5
 
-get ­­ we're not advancing a damages theory whatsoever.
+get  we're not advancing a damages theory whatsoever.
 
 6
 
-All we're saying is that you can recover the value of
+All we're saying is that you can recover the value of
 
 7
 
-the lien itself when someone frustrates an equitable
+the lien itself when someone frustrates an equitable
 
 8
 
-claim that otherwise exists.
+claim that otherwise exists.
 
 9
 
-            And we point to three different traditions
+            And we point to three different traditions
 
 10
 
-in equity that permit you to do that:  substitutionary
+in equity that permit you to do that:  substitutionary
 
 11
 
-monetary decrees, deficiency judgments, and swollen
+monetary decrees, deficiency judgments, and swollen
 
 12
 
-assets.  All of those reflect the basic idea that
+assets.  All of those reflect the basic idea that
 
 13
 
-someone shouldn't profit from their second wrong, their
+someone shouldn't profit from their second wrong, their
 
 14
 
-wrongdoing of dissipating a fund.
+wrongdoing of dissipating a fund.
 
 15
 
-            So look, there is a ­­ they're absolutely
+            So look, there is a  they're absolutely
 
 16
 
-right.  The general rule is that you can't recover from
+right.  The general rule is that you can't recover from
 
 17
 
-general assets.  That is absolutely right.  But there's
+general assets.  That is absolutely right.  But there's
 
 18
 
-an urban legend that ­­ that I think the briefs try and
+an urban legend that  that I think the briefs try and
 
 19
 
-spin around that rule, to say that that general rule
+spin around that rule, to say that that general rule
 
 20
 
-encompasses a situation when someone acts wrongfully to
+encompasses a situation when someone acts wrongfully to
 
 21
 
-dissipate a fund, as to which someone has a claim.
+dissipate a fund, as to which someone has a claim.
 
 22
 
-            And that circumstance, just as Holmes's
+            And that circumstance, just as Holmes's
 
 23
 
-opinion in Otis says, he says, if the complaint, quote,
+opinion in Otis says, he says, if the complaint, quote,
 
 24
 
-"seeks the recovery of an identified fund, that
+"seeks the recovery of an identified fund, that
 
 25
 
-complaint will not fail because the fund is gone and
+complaint will not fail because the fund is gone and
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 34
 1
 
-misappropriated by the defendants.  Rather, under those
+misappropriated by the defendants.  Rather, under those
 
 2
 
-circumstances, the plaintiff has a right to compensation
+circumstances, the plaintiff has a right to compensation
 
 3
 
-as alternative relief."
+as alternative relief."
 
 4
 
-            That's not damages ­­
+            That's not damages 
 
 5
 
-            JUSTICE SCALIA:  That would be wonderful, if
+            JUSTICE SCALIA:  That would be wonderful, if
 
 6
 
-he said "has an equitable right to compensation."  I
+he said "has an equitable right to compensation."  I
 
 7
 
-mean, you know, that sounds like cleanup to me.
+mean, you know, that sounds like cleanup to me.
 
 8
 
-            MR. KATYAL:  No, it's not, Justice Scalia.
+            MR. KATYAL:  No, it's not, Justice Scalia.
 
 9
 
-I think it's not, for several reasons.
+I think it's not, for several reasons.
 
 10
 
-            Number one is, of course, in that case, the
+            Number one is, of course, in that case, the
 
 11
 
-entire fund was gone.  So if it were cleanup
+entire fund was gone.  So if it were cleanup
 
 12
 
-jurisdiction, there had to be something to pend to.
+jurisdiction, there had to be something to pend to.
 
 13
 
-There had some ancillary jurisdiction, some equitable
+There had some ancillary jurisdiction, some equitable
 
 14
 
-claim.  There had to be some fund that was still
+claim.  There had to be some fund that was still
 
 15
 
-remaining in order for there to be something to pend to.
+remaining in order for there to be something to pend to.
 
 16
 
-There wasn't there.  The entire fund was gone.
+There wasn't there.  The entire fund was gone.
 
 17
 
-            JUSTICE SCALIA:  Is ­­ is ­­ is that the
+            JUSTICE SCALIA:  Is  is  is that the
 
 18
 
@@ -3503,173 +3503,173 @@ requirement?
 
 19
 
-            MR. KATYAL:  Well, I think that otherwise ­­
+            MR. KATYAL:  Well, I think that otherwise 
 
 20
 
-            JUSTICE SCALIA:  Is some of the fund there?
+            JUSTICE SCALIA:  Is some of the fund there?
 
 21
 
-            MR. KATYAL:  Otherwise, Your Honor, there
+            MR. KATYAL:  Otherwise, Your Honor, there
 
 22
 
-wouldn't have been any reason ­­ there is a requirement
+wouldn't have been any reason  there is a requirement
 
 23
 
-that, in order for ­­
+that, in order for 
 
 24
 
-            JUSTICE SCALIA:  There was an equitable
+            JUSTICE SCALIA:  There was an equitable
 
 25
 
-jurisdiction, so long as the person had possession of
+jurisdiction, so long as the person had possession of
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 35
 1
 
-the fund at one point.
+the fund at one point.
 
 2
 
-            MR. KATYAL:  I don't think that there's ­­
+            MR. KATYAL:  I don't think that there's 
 
 3
 
-            JUSTICE SCALIA:  And then ­­ and when the
+            JUSTICE SCALIA:  And then  and when the
 
 4
 
-suit is completed, it's discovered that all of the fund
+suit is completed, it's discovered that all of the fund
 
 5
 
-is gone.
+is gone.
 
 6
 
-            MR. KATYAL:  No, your Honor.  If ­­ if their
+            MR. KATYAL:  No, your Honor.  If  if their
 
 7
 
-argument is right, and this is something that Judge
+argument is right, and this is something that Judge
 
 8
 
-Posner has said, for example, in ­­ in describing this
+Posner has said, for example, in  in describing this
 
 9
 
-in the Medtronic case.  In order for ancillary
+in the Medtronic case.  In order for ancillary
 
 10
 
-jurisdiction to exist, there has to first be a valid
+jurisdiction to exist, there has to first be a valid
 
 11
 
-equitable claim.  And then, for the convenience of the
+equitable claim.  And then, for the convenience of the
 
 12
 
-parties, you can resolve a legal claim.
+parties, you can resolve a legal claim.
 
 13
 
-            In Otis there was no equitable claim under
+            In Otis there was no equitable claim under
 
 14
 
-their theory, which ­­ which is, you ­­ you know, if the
+their theory, which  which is, you  you know, if the
 
 15
 
-fund is gone, there's no lien that it's attached.  It's
+fund is gone, there's no lien that it's attached.  It's
 
 16
 
-gone.  It's dissipated.
+gone.  It's dissipated.
 
 17
 
-            So ­­ and then it also say, you know, it's a
+            So  and then it also say, you know, it's a
 
 18
 
-remarkable that they say that all of these cases are
+remarkable that they say that all of these cases are
 
 19
 
-cleanup jurisdiction.
+cleanup jurisdiction.
 
 20
 
-            JUSTICE SCALIA:  Wait.  If ­­ if ­­ if
+            JUSTICE SCALIA:  Wait.  If  if  if
 
 21
 
-there's no equitable cause of action for them, why is
+there's no equitable cause of action for them, why is
 
 22
 
-there for you?
+there for you?
 
 23
 
-            MR. KATYAL:  Because we think that the
+            MR. KATYAL:  Because we think that the
 
 24
 
-proposition that they're trying to say is wrong, the
+proposition that they're trying to say is wrong, the
 
 25
 
-idea that when you dissipate a fund, you lose your
+idea that when you dissipate a fund, you lose your
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 36
 1
 
-equitable claim.
+equitable claim.
 
 2
 
-            Our point is that is ­­ that's generally
+            Our point is that is  that's generally
 
 3
 
-true; not true in a circumstance when a defendant
+true; not true in a circumstance when a defendant
 
 4
 
-frustrates an otherwise valid equitable claim.
+frustrates an otherwise valid equitable claim.
 
 5
 
-            JUSTICE SCALIA:  So ­­ so you ought to be
+            JUSTICE SCALIA:  So  so you ought to be
 
 6
 
-able to bring suit in equity without asserting that the
+able to bring suit in equity without asserting that the
 
 7
 
-person ever had the fund in his hands.
+person ever had the fund in his hands.
 
 8
 
-            MR. KATYAL:  Well, you can't do that, of
+            MR. KATYAL:  Well, you can't do that, of
 
 9
 
@@ -3677,7 +3677,7 @@ course.
 
 10
 
-            JUSTICE SCALIA:  You say, he owes me the
+            JUSTICE SCALIA:  You say, he owes me the
 
 11
 
@@ -3685,645 +3685,645 @@ money.
 
 12
 
-            MR. KATYAL:  You can't do that, of course,
+            MR. KATYAL:  You can't do that, of course,
 
 13
 
-as Knudson says.  And ­­ and that's a standard rule.
+as Knudson says.  And  and that's a standard rule.
 
 14
 
-We're not here ­­
+We're not here 
 
 15
 
-            JUSTICE SCALIA:  You're saying even if you
+            JUSTICE SCALIA:  You're saying even if you
 
 16
 
-know the person has dissipated all the funds, you can
+know the person has dissipated all the funds, you can
 
 17
 
-sue for the equitable lien, even if you know the funds
+sue for the equitable lien, even if you know the funds
 
 18
 
-are all gone?
+are all gone?
 
 19
 
-            MR. KATYAL:  Correct, Your Honor.  As long
+            MR. KATYAL:  Correct, Your Honor.  As long
 
 20
 
-as that was a knowing dissipation, that that's what
+as that was a knowing dissipation, that that's what
 
 21
 
-happened.  And that's what the substitutionary momentary
+happened.  And that's what the substitutionary momentary
 
 22
 
-cases ­­
+cases 
 
 23
 
-            JUSTICE SCALIA:  Do you have any cases?
+            JUSTICE SCALIA:  Do you have any cases?
 
 24
 
-            MR. KATYAL:  Sure.  Otis itself is a case
+            MR. KATYAL:  Sure.  Otis itself is a case
 
 25
 
-that does that.  Justice Homes's opinion, Justice Story
+that does that.  Justice Homes's opinion, Justice Story
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 37
 1
 
-has a description of other cases in his treatise.
+has a description of other cases in his treatise.
 
 2
 
-Our ­­ our brief talks about the Baxter case and the ­­
+Our  our brief talks about the Baxter case and the 
 
 3
 
-and the Bank of Marin case.  These are the closest
+and the Bank of Marin case.  These are the closest
 
 4
 
-analogue to this case, because they're not the general
+analogue to this case, because they're not the general
 
 5
 
-rule about can you recover from general assets; they're
+rule about can you recover from general assets; they're
 
 6
 
-about the specific rule, can you profit from your
+about the specific rule, can you profit from your
 
 7
 
-wrongdoing when an equitable lien by attachments is ­­
+wrongdoing when an equitable lien by attachments is 
 
 8
 
-or an equitable lien by agreement is already attached.
+or an equitable lien by agreement is already attached.
 
 9
 
-            CHIEF JUSTICE ROBERTS:  It has to be pretty
+            CHIEF JUSTICE ROBERTS:  It has to be pretty
 
 10
 
-easy for you to protect yourself, doesn't it, as soon as
+easy for you to protect yourself, doesn't it, as soon as
 
 11
 
-at some suitable time after the injury you do write a
+at some suitable time after the injury you do write a
 
 12
 
-letter to the person and say, look, you need to know
+letter to the person and say, look, you need to know
 
 13
 
-that if you sue somebody, the money is ours, and because
+that if you sue somebody, the money is ours, and because
 
 14
 
-we have these rights of subrogation, or let us know if
+we have these rights of subrogation, or let us know if
 
 15
 
-you're going to, and we'll show up in court with you
+you're going to, and we'll show up in court with you
 
 16
 
-and ­­ and ­­ and help you?
+and  and  and help you?
 
 17
 
-            Where ­­ see, I guess it would probably be
+            Where  see, I guess it would probably be
 
 18
 
-pretty easy to ­­ to monitor it yourself.  I mean, the
+pretty easy to  to monitor it yourself.  I mean, the
 
 19
 
-court's computerized dockets, you just punch in
+court's computerized dockets, you just punch in
 
 20
 
-"Montanile," and ­­ and whenever that pops up on the
+"Montanile," and  and whenever that pops up on the
 
 21
 
-docket and you find out right away.  It's certainly long
+docket and you find out right away.  It's certainly long
 
 22
 
-before the case is resolved.  It ­­ it doesn't ­­
+before the case is resolved.  It  it doesn't 
 
 23
 
-I mean, I ­­ I think your friend has ­­ has a
+I mean, I  I think your friend has  has a
 
 24
 
-significant point that it's actually not as hard as it
+significant point that it's actually not as hard as it
 
 25
 
-might appear.
+might appear.
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 38
 1
 
-            MR. KATYAL:  So ­­ so three things, Your
+            MR. KATYAL:  So  so three things, Your
 
 2
 
-Honor.  First, we're not grounding our argument in the
+Honor.  First, we're not grounding our argument in the
 
 3
 
-policy of things.  We do think that the policy
+policy of things.  We do think that the policy
 
 4
 
-consequences are ­­ are important, but we think that if
+consequences are  are important, but we think that if
 
 5
 
-the test is what's traditionally available in equity,
+the test is what's traditionally available in equity,
 
 6
 
-these three specific lines of authority that we're
+these three specific lines of authority that we're
 
 7
 
-pointing to answer that question.
+pointing to answer that question.
 
 8
 
-            But as to the policy concerns, we think
+            But as to the policy concerns, we think
 
 9
 
-exactly as you said to my friend on the other side.
+exactly as you said to my friend on the other side.
 
 10
 
-There are two big problems with that.  Number one is
+There are two big problems with that.  Number one is
 
 11
 
-Plans don't get noticed about when settlements occur.
+Plans don't get noticed about when settlements occur.
 
 12
 
-In the amicus brief from NASP explains most auto
+In the amicus brief from NASP explains most auto
 
 13
 
-accidents, for example, are settled without any public
+accidents, for example, are settled without any public
 
 14
 
-record, without any lawsuit being filed whatsoever.  So
+record, without any lawsuit being filed whatsoever.  So
 
 15
 
-you can't exactly type it into Westlaw or something like
+you can't exactly type it into Westlaw or something like
 
 16
 
-that.  So that's one problem.
+that.  So that's one problem.
 
 17
 
-            The other is that it becomes very expensive
+            The other is that it becomes very expensive
 
 18
 
-for Plans to monitor this stuff.  And Plans are, you
+for Plans to monitor this stuff.  And Plans are, you
 
 19
 
-know, some for profit entity.  Every dollar that you
+know, some for profit entity.  Every dollar that you
 
 20
 
-spend that the Plan has to spend on monitoring or
+spend that the Plan has to spend on monitoring or
 
 21
 
-writing these letters or filing lawsuits or filing TROs
+writing these letters or filing lawsuits or filing TROs
 
 22
 
-is a dollar that is taken away from innocent Plan
+is a dollar that is taken away from innocent Plan
 
 23
 
-beneficiaries, people who have done ­­
+beneficiaries, people who have done 
 
 24
 
-            CHIEF JUSTICE ROBERTS:  Right.  I mean,
+            CHIEF JUSTICE ROBERTS:  Right.  I mean,
 
 25
 
-that's the point we have made in our precedents, but it
+that's the point we have made in our precedents, but it
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 39
 1
 
-can't ­­ you can't carry that so far that otherwise you
+can't  you can't carry that so far that otherwise you
 
 2
 
-would say, well, the Plan always wins.
+would say, well, the Plan always wins.
 
 3
 
-            MR. KATYAL:  Right.  I'm certainly not
+            MR. KATYAL:  Right.  I'm certainly not
 
 4
 
-trying to do that.  All I'm saying is that the policy
+trying to do that.  All I'm saying is that the policy
 
 5
 
-arguments here, I do think, are substantial and have
+arguments here, I do think, are substantial and have
 
 6
 
-weight.  The amicus briefs, before you say, over a
+weight.  The amicus briefs, before you say, over a
 
 7
 
-billion dollars each year is recovered through these
+billion dollars each year is recovered through these
 
 8
 
-reimbursement actions.  And ­­ and if you adopt their
+reimbursement actions.  And  and if you adopt their
 
 9
 
-plan, then as you were saying as to my friend, you're
+plan, then as you were saying as to my friend, you're
 
 10
 
-going to just tell the client ­­ you are ­­ telling the
+going to just tell the client  you are  telling the
 
 11
 
-Montaniles of the world, spend that money right away.
+Montaniles of the world, spend that money right away.
 
 12
 
-Settle the case at 10:00, and by 10:01 spend all the
+Settle the case at 10:00, and by 10:01 spend all the
 
 13
 
-money.  And in that circumstance, then Plans are out of
+money.  And in that circumstance, then Plans are out of
 
 14
 
-luck.  Innocent beneficiaries, that means, are out of
+luck.  Innocent beneficiaries, that means, are out of
 
 15
 
-luck, and people like Mr. Montanile get a double
+luck, and people like Mr. Montanile get a double
 
 16
 
-recovery.  And equity is not so brittle.  There is no
+recovery.  And equity is not so brittle.  There is no
 
 17
 
-tradition in equity that supports this idea.
+tradition in equity that supports this idea.
 
 18
 
-            As, Justice Alito, you were saying, how
+            As, Justice Alito, you were saying, how
 
 19
 
-could this make any sense?  It didn't make sense at
+could this make any sense?  It didn't make sense at
 
 20
 
-equity.  Equity has always been more flexible than that.
+equity.  Equity has always been more flexible than that.
 
 21
 
-It's always recognized the idea that people shouldn't be
+It's always recognized the idea that people shouldn't be
 
 22
 
-able to profit from their wrongdoing, and that rights
+able to profit from their wrongdoing, and that rights
 
 23
 
-have remedies, and avoiding formalistic distinctions.
+have remedies, and avoiding formalistic distinctions.
 
 24
 
-            And speaking of formalistic distinctions,
+            And speaking of formalistic distinctions,
 
 25
 
-the Solicitor General's rule is as formalistic as it
+the Solicitor General's rule is as formalistic as it
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 40
 1
 
-gets because they say you can get the remedy out of
+gets because they say you can get the remedy out of
 
 2
 
-general assets as long as the lawsuit is filed in time
+general assets as long as the lawsuit is filed in time
 
 3
 
-for ­­ the lawsuit is filed ­­ is filed at a time when
+for  the lawsuit is filed  is filed at a time when
 
 4
 
-there was possession of the fund.  That is ­­
+there was possession of the fund.  That is 
 
 5
 
-            JUSTICE SCALIA:  Mr. Katyal, equity itself
+            JUSTICE SCALIA:  Mr. Katyal, equity itself
 
 6
 
-is a formalistic distinction.  I mean, to ­­ to argue
+is a formalistic distinction.  I mean, to  to argue
 
 7
 
-that ­­ that we shouldn't make formalistic distinctions
+that  that we shouldn't make formalistic distinctions
 
 8
 
-in trying to figure out whether particular relief is
+in trying to figure out whether particular relief is
 
 9
 
-equitable relief or not, I don't ­­ that's
+equitable relief or not, I don't  that's
 
 10
 
-incomprehensible to me.
+incomprehensible to me.
 
 11
 
-            MR. KATYAL:  Well, Justice Scalia, as
+            MR. KATYAL:  Well, Justice Scalia, as
 
 12
 
-Justice Frankfurter says, equity, quote, "assures
+Justice Frankfurter says, equity, quote, "assures
 
 13
 
-mechanical rules and depends on flexibility."  Every
+mechanical rules and depends on flexibility."  Every
 
 14
 
-equity treatise ­­ look at Pomeroy, for example, of
+equity treatise  look at Pomeroy, for example, of
 
 15
 
-Section 111.  All the other treatises say ­­
+Section 111.  All the other treatises say 
 
 16
 
-            JUSTICE SCALIA:  Pomeroy doesn't ­­ doesn't
+            JUSTICE SCALIA:  Pomeroy doesn't  doesn't
 
 17
 
-support you as ­­
+support you as 
 
 18
 
-            MR. KATYAL:  I think very much ­­
+            MR. KATYAL:  I think very much 
 
 19
 
-            JUSTICE SCALIA:  ­­ Pomeroy's quotes are
+            JUSTICE SCALIA:   Pomeroy's quotes are
 
 20
 
-contrary to what you ­­
+contrary to what you 
 
 21
 
-            MR. KATYAL:  ­­ very much it does.  There is
+            MR. KATYAL:   very much it does.  There is
 
 22
 
-not a quote from Pomeroy or from any of the other
+not a quote from Pomeroy or from any of the other
 
 23
 
-treatises that deal with this situation when someone is
+treatises that deal with this situation when someone is
 
 24
 
-trying to profit from their second wrong, when there is
+trying to profit from their second wrong, when there is
 
 25
 
-already an equitable lien by attaches.
+already an equitable lien by attaches.
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 41
 1
 
-            And, you know, for example, Pomeroy, just on
+            And, you know, for example, Pomeroy, just on
 
 2
 
-the flexibility interchange, were saying, Section 111,
+the flexibility interchange, were saying, Section 111,
 
 3
 
-"Equity has followed the true principle of contriving
+"Equity has followed the true principle of contriving
 
 4
 
-its remedy so they shall correspond both to the primary
+its remedy so they shall correspond both to the primary
 
 5
 
-right of the injured party and to the wrong by which
+right of the injured party and to the wrong by which
 
 6
 
-that right has been violated.  It has therefore never
+that right has been violated.  It has therefore never
 
 7
 
-placed any limits on the remedies it can grant either
+placed any limits on the remedies it can grant either
 
 8
 
-with respect to their substance, their form or their
+with respect to their substance, their form or their
 
 9
 
-extent, but it's always preserved the elements of
+extent, but it's always preserved the elements of
 
 10
 
-flexibility and expansiveness so that they can be
+flexibility and expansiveness so that they can be
 
 11
 
-modified to meet the requirements of every case."
+modified to meet the requirements of every case."
 
 12
 
-            And this is a perfect example ­­
+            And this is a perfect example 
 
 13
 
-            CHIEF JUSTICE ROBERTS:  Well, I don't know
+            CHIEF JUSTICE ROBERTS:  Well, I don't know
 
 14
 
-that you can read our precedence in this area to say
+that you can read our precedence in this area to say
 
 15
 
-that they're very flexible.  I mean, Sereboff, the
+that they're very flexible.  I mean, Sereboff, the
 
 16
 
-difference between equitable lien for restitution and
+difference between equitable lien for restitution and
 
 17
 
-equitable lien by agreement, you ­­ you know, you can
+equitable lien by agreement, you  you know, you can
 
 18
 
-get, you know, deficiency judgments as opposed to legal
+get, you know, deficiency judgments as opposed to legal
 
 19
 
-judgments, and whether one's sort of an adjunct to the
+judgments, and whether one's sort of an adjunct to the
 
 20
 
-equitable action or freestanding.  It's an area where
+equitable action or freestanding.  It's an area where
 
 21
 
-the ­­ the equity rules strikes me as very technical.
+the  the equity rules strikes me as very technical.
 
 22
 
-            MR. KATYAL:  Well, they are technical when
+            MR. KATYAL:  Well, they are technical when
 
 23
 
-it comes to that first question, is there an equitable
+it comes to that first question, is there an equitable
 
 24
 
-claim in the first ­­ first instance.  And so Knudson,
+claim in the first  first instance.  And so Knudson,
 
 25
 
-for example, says no, because there's no possession of
+for example, says no, because there's no possession of
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 42
 1
 
-the fund.  Sereboff says here there is possession;
+the fund.  Sereboff says here there is possession;
 
 2
 
-therefore, there is.
+therefore, there is.
 
 3
 
-            We don't quibble with any of that.  Here as
+            We don't quibble with any of that.  Here as
 
 4
 
-this case comes to the Court, everyone agrees ­­ that's
+this case comes to the Court, everyone agrees  that's
 
 5
 
-the third point I made at the outset ­­ everyone agrees
+the third point I made at the outset  everyone agrees
 
 6
 
-there was an equitable lien by agreement.  The only
+there was an equitable lien by agreement.  The only
 
 7
 
-thing we're disagreeing about is whether or not by
+thing we're disagreeing about is whether or not by
 
 8
 
-spending all the funds we've lost our remedy.
+spending all the funds we've lost our remedy.
 
 9
 
-            And with respect to that question, they have
+            And with respect to that question, they have
 
 10
 
-general precedents which say you can't go after general
+general precedents which say you can't go after general
 
 11
 
-assets.  We agree with that.  The relevant question is,
+assets.  We agree with that.  The relevant question is,
 
 12
 
-when someone has wrong ­­ when ­­ when ­­ when a valid
+when someone has wrong  when  when  when a valid
 
 13
 
-equitable lien by agreement attaches and then someone
+equitable lien by agreement attaches and then someone
 
 14
 
-acts to dissipate that, can they profit from their
+acts to dissipate that, can they profit from their
 
 15
 
@@ -4331,371 +4331,371 @@ wrong.
 
 16
 
-            JUSTICE SOTOMAYOR:  The ­­ the essence of
+            JUSTICE SOTOMAYOR:  The  the essence of
 
 17
 
-Great­Western ­­ I don't know if I'm reading it rightly
+GreatWestern  I don't know if I'm reading it rightly
 
 18
 
-or not.  I'll certainly be corrected by the author and
+or not.  I'll certainly be corrected by the author and
 
 19
 
-dissenters if I'm not.  But it seemed to me that they're
+dissenters if I'm not.  But it seemed to me that they're
 
 20
 
-basically saying, whatever remedy you have has to be an
+basically saying, whatever remedy you have has to be an
 
 21
 
-equitable remedy.
+equitable remedy.
 
 22
 
-            MR. KATYAL:  Right.
+            MR. KATYAL:  Right.
 
 23
 
-            JUSTICE SOTOMAYOR:  The most that I read
+            JUSTICE SOTOMAYOR:  The most that I read
 
 24
 
-about a substitution decree or deficiency decree is that
+about a substitution decree or deficiency decree is that
 
 25
 
-it's an ancillary jurisdiction to issue those.
+it's an ancillary jurisdiction to issue those.
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 43
 1
 
-            Is that consistent with saying it's
+            Is that consistent with saying it's
 
 2
 
-equitable?  Isn't it just a legal claim that equity
+equitable?  Isn't it just a legal claim that equity
 
 3
 
-sometimes permitted an ­­ an equitable court to
+sometimes permitted an  an equitable court to
 
 4
 
-exercise, but wouldn't it still be legal ­­
+exercise, but wouldn't it still be legal 
 
 5
 
-            MR. KATYAL:  Right.  Justice ­­
+            MR. KATYAL:  Right.  Justice 
 
 6
 
-            JUSTICE SOTOMAYOR:  ­­ and not within ­­
+            JUSTICE SOTOMAYOR:   and not within 
 
 7
 
-within the ­­ the scope of ERISA?
+within the  the scope of ERISA?
 
 8
 
-            MR. KATYAL:  Justice Sotomayor, this is,
+            MR. KATYAL:  Justice Sotomayor, this is,
 
 9
 
-again, part of the urban legend that ­­ that's being
+again, part of the urban legend that  that's being
 
 10
 
-developed around this.  There is no case that says that
+developed around this.  There is no case that says that
 
 11
 
-a substitutionary monetary decree is a legal judgment or
+a substitutionary monetary decree is a legal judgment or
 
 12
 
-is ancillary.  To the contrary, cases that we're citing
+is ancillary.  To the contrary, cases that we're citing
 
 13
 
-such as Baxter and Otis suggest that it is an equity not
+such as Baxter and Otis suggest that it is an equity not
 
 14
 
-in that.  And ­­ and indeed, if there's any doubt about
+in that.  And  and indeed, if there's any doubt about
 
 15
 
-this, I ­­ I suggest that you'd have to say it's equity,
+this, I  I suggest that you'd have to say it's equity,
 
 16
 
-because the tradition for ancillary, which was pendent
+because the tradition for ancillary, which was pendent
 
 17
 
-jurisdiction was, if an equity court was going to decide
+jurisdiction was, if an equity court was going to decide
 
 18
 
-a legal claim, they had to label it as a legal claim
+a legal claim, they had to label it as a legal claim
 
 19
 
-because of the Seventh Amendment reasons, because
+because of the Seventh Amendment reasons, because
 
 20
 
-otherwise, they might, you know, there's ­­ there's all
+otherwise, they might, you know, there's  there's all
 
 21
 
-sorts of jury trial issues that come up.
+sorts of jury trial issues that come up.
 
 22
 
-            So that's why the tradition for cleanup
+            So that's why the tradition for cleanup
 
 23
 
-jurisdiction was to label those claims specifically to
+jurisdiction was to label those claims specifically to
 
 24
 
-say, okay, first we're going to solve our ­­ our
+say, okay, first we're going to solve our  our
 
 25
 
-equitable claim, and now we're going to turn as part of
+equitable claim, and now we're going to turn as part of
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 44
 1
 
-our pendent jurisdiction ­­
+our pendent jurisdiction 
 
 2
 
-            JUSTICE SOTOMAYOR:  I'm still a little bit
+            JUSTICE SOTOMAYOR:  I'm still a little bit
 
 3
 
-confused by all of this.  In my mind, you get money when
+confused by all of this.  In my mind, you get money when
 
 4
 
-somebody gives it to you.  And I ­­ I know that a lawyer
+somebody gives it to you.  And I  I know that a lawyer
 
 5
 
-is an agent, but the agent is keeping a piece of the
+is an agent, but the agent is keeping a piece of the
 
 6
 
-money.  You can still go after the client for the piece
+money.  You can still go after the client for the piece
 
 7
 
-the lawyer took?
+the lawyer took?
 
 8
 
-            MR. KATYAL:  So with ­­ with respect to
+            MR. KATYAL:  So with  with respect to
 
 9
 
-the ­­ the lawyer piece is much more complicated.  And
+the  the lawyer piece is much more complicated.  And
 
 10
 
-this goes to Justice Breyer's question.  I mean, there's
+this goes to Justice Breyer's question.  I mean, there's
 
 11
 
-actually a circuit split on this question about can you
+actually a circuit split on this question about can you
 
 12
 
-go after the lawyer, and the reason why you may not be
+go after the lawyer, and the reason why you may not be
 
 13
 
-able to go after the lawyer is the lawyer is not a party
+able to go after the lawyer is the lawyer is not a party
 
 14
 
-to the underlying agreement.
+to the underlying agreement.
 
 15
 
-            And that's what I think the Eighth Circuit
+            And that's what I think the Eighth Circuit
 
 16
 
-says in contradistinction to others.  And so that's ­­
+says in contradistinction to others.  And so that's 
 
 17
 
-that ­­ that it is ­­ that is not a great remedy.  And,
+that  that it is  that is not a great remedy.  And,
 
 18
 
-of course, it requires the lawyer to be on notice of the
+of course, it requires the lawyer to be on notice of the
 
 19
 
-Plan and all the reimbursement obligations and the like.
+Plan and all the reimbursement obligations and the like.
 
 20
 
-            Under equity, Justice Sotomayor, I think the
+            Under equity, Justice Sotomayor, I think the
 
 21
 
-idea is that when someone has made a valid promise to ­­
+idea is that when someone has made a valid promise to 
 
 22
 
-for these funds, such as here, Montanile knew that he
+for these funds, such as here, Montanile knew that he
 
 23
 
-was playing with house money.  He knew that these
+was playing with house money.  He knew that these
 
 24
 
-weren't his ­­ this wasn't his money; it was the Plan's
+weren't his  this wasn't his money; it was the Plan's
 
 25
 
-money from the start.  And then he goes and spends that
+money from the start.  And then he goes and spends that
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 45
 1
 
-money on other things.  Yes, you can go after his
+money on other things.  Yes, you can go after his
 
 2
 
-general assets to recover that spending on other things.
+general assets to recover that spending on other things.
 
 3
 
-            And that is something amply supported by
+            And that is something amply supported by
 
 4
 
-these three different traditions in the case law.  Those
+these three different traditions in the case law.  Those
 
 5
 
-are the closest analogs to what's going on here when
+are the closest analogs to what's going on here when
 
 6
 
-someone has dissipated and frustrated a ­­ an action
+someone has dissipated and frustrated a  an action
 
 7
 
-that ­­ that otherwise existed.
+that  that otherwise existed.
 
 8
 
-            JUSTICE GINSBURG:  Can you say again, when
+            JUSTICE GINSBURG:  Can you say again, when
 
 9
 
-does the lien attach?  Is it when the tortfeasor pays ­­
+does the lien attach?  Is it when the tortfeasor pays 
 
 10
 
-gives it ­­ the check to the lawyer, or is it when the
+gives it  the check to the lawyer, or is it when the
 
 11
 
-beneficiary actually gets the 200,000?
+beneficiary actually gets the 200,000?
 
 12
 
-            MR. KATYAL:  Well, I don't think that the
+            MR. KATYAL:  Well, I don't think that the
 
 13
 
-answers are clear on that, but I do think it's when
+answers are clear on that, but I do think it's when
 
 14
 
-he takes ­­ I think the most this Court has said it's
+he takes  I think the most this Court has said it's
 
 15
 
-when he takes title to the thing.  And presumably, he
+when he takes title to the thing.  And presumably, he
 
 16
 
-takes title to the thing at the moment that the check is
+takes title to the thing at the moment that the check is
 
 17
 
-given to the lawyers.
+given to the lawyers.
 
 18
 
-            Now if, at that moment, Justice Ginsburg,
+            Now if, at that moment, Justice Ginsburg,
 
 19
 
-say the bank account of the lawyer was hacked and the
+say the bank account of the lawyer was hacked and the
 
 20
 
-$500,000 settlement was gone, our view is his general
+$500,000 settlement was gone, our view is his general
 
 21
 
-rule then kicks in.  In that circumstance, we cannot
+rule then kicks in.  In that circumstance, we cannot
 
 22
 
-recover.  The only thing we're saying is that when a
+recover.  The only thing we're saying is that when a
 
 23
 
-defendant knowingly dissipates a fund as to which
+defendant knowingly dissipates a fund as to which
 
 24
 
-someone else has a claim, it's in that circumstance that
+someone else has a claim, it's in that circumstance that
 
 25
 
-the exception ­­ as Justice Story called it, that
+the exception  as Justice Story called it, that
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 46
 1
 
-peculiar exception applies to try and basically make
+peculiar exception applies to try and basically make
 
 2
 
-sure that he isn't profiting a second time from his
+sure that he isn't profiting a second time from his
 
 3
 
@@ -4703,71 +4703,71 @@ wrongdoing.
 
 4
 
-            That's why the claim is a very limited one
+            That's why the claim is a very limited one
 
 5
 
-at equity.  It's just a ­­ it's a ­­ and again, it's
+at equity.  It's just a  it's a  and again, it's
 
 6
 
-only limited to the amount of the lien.  You can't go
+only limited to the amount of the lien.  You can't go
 
 7
 
-more than that.  You can't have punitive damages and the
+more than that.  You can't have punitive damages and the
 
 8
 
-like, and it's encumbered by all the defenses in the
+like, and it's encumbered by all the defenses in the
 
 9
 
-equity.  We have to take the bitter with the sweet, so
+equity.  We have to take the bitter with the sweet, so
 
 10
 
-laches and unconscionability.  All of that would be
+laches and unconscionability.  All of that would be
 
 11
 
-standard defenses that are available to such an action.
+standard defenses that are available to such an action.
 
 12
 
-            Now, my friend on the other side has said,
+            Now, my friend on the other side has said,
 
 13
 
-well, this is going to reach disability situations.
+well, this is going to reach disability situations.
 
 14
 
-Absolutely not.  I mean, I think you have a variety of
+Absolutely not.  I mean, I think you have a variety of
 
 15
 
-amicus briefs before you that say that there's a
+amicus briefs before you that say that there's a
 
 16
 
-specific statute, 407(a), which prohibits liens against
+specific statute, 407(a), which prohibits liens against
 
 17
 
-Social ­­ Social Security Disability overpayments.  He
+Social  Social Security Disability overpayments.  He
 
 18
 
-says it's going to reach pension overpayments.  Again,
+says it's going to reach pension overpayments.  Again,
 
 19
 
-that's not our rule.  Our rule in ­­ in those ­­ in
+that's not our rule.  Our rule in  in those  in
 
 20
 
-those circumstances, a pension plan is overpaying a
+those circumstances, a pension plan is overpaying a
 
 21
 
@@ -4775,92 +4775,92 @@ beneficiary.
 
 22
 
-            And if the beneficiary spends that, well,
+            And if the beneficiary spends that, well,
 
 23
 
-that's not something that they're knowingly dissipating.
+that's not something that they're knowingly dissipating.
 
 24
 
-That's very different than a circumstance like this in
+That's very different than a circumstance like this in
 
 25
 
-which someone is dissipating a fund as to which they ­­
+which someone is dissipating a fund as to which they 
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 47
 1
 
-someone ­­ as to which the Plan has an underlying lien
+someone  as to which the Plan has an underlying lien
 
 2
 
-against.  And that's why it's a ­­ it's a very limited
+against.  And that's why it's a  it's a very limited
 
 3
 
-rule.  It's one that tracks the tradition at common law.
+rule.  It's one that tracks the tradition at common law.
 
 4
 
-Both Otis talks about misappropriation, and Baxter talks
+Both Otis talks about misappropriation, and Baxter talks
 
 5
 
-about wrongful dissipation when someone has a valid lien
+about wrongful dissipation when someone has a valid lien
 
 6
 
-against you.  And as well, the Orr case, for the swollen
+against you.  And as well, the Orr case, for the swollen
 
 7
 
-assets theory and the like.
+assets theory and the like.
 
 8
 
-            Now, my friend on the other side says in his
+            Now, my friend on the other side says in his
 
 9
 
-brief, well, then why in the world are we spending so
+brief, well, then why in the world are we spending so
 
 10
 
-much time ­­ are all these equity cases spending so much
+much time  are all these equity cases spending so much
 
 11
 
-time on tracing?  And our view is very simple on that.
+time on tracing?  And our view is very simple on that.
 
 12
 
-Tracing makes a lot of sense.  In the lion's share of
+Tracing makes a lot of sense.  In the lion's share of
 
 13
 
-cases, tracing becomes very important because you don't
+cases, tracing becomes very important because you don't
 
 14
 
-have a defendant who is acting wrongfully and knowingly
+have a defendant who is acting wrongfully and knowingly
 
 15
 
-dissipating a fund.  And so the Plan or whoever the
+dissipating a fund.  And so the Plan or whoever the
 
 16
 
-trustee is wants to ­­ wants to go after general assets
+trustee is wants to  wants to go after general assets
 
 17
 
-but then can't, unless they can trace them to a specific
+but then can't, unless they can trace them to a specific
 
 18
 
@@ -4868,35 +4868,35 @@ asset.
 
 19
 
-            Tracing is just a lien­priority doctrine.
+            Tracing is just a lienpriority doctrine.
 
 20
 
-It's nothing more than that.  The Restatement that my
+It's nothing more than that.  The Restatement that my
 
 21
 
-friend cites on the other side that is cited in Knudson
+friend cites on the other side that is cited in Knudson
 
 22
 
-in Section 215 is as clear as day.  It just talks about
+in Section 215 is as clear as day.  It just talks about
 
 23
 
-lien priority.  It doesn't say that there is no claim if
+lien priority.  It doesn't say that there is no claim if
 
 24
 
-general ­­ if ­­ if someone dissipates a fund.  It says
+general  if  if someone dissipates a fund.  It says
 
 25
 
-that they are not entitled to lien priority.  That is
+that they are not entitled to lien priority.  That is
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 48
 1
@@ -4905,112 +4905,112 @@ it.
 
 2
 
-            And look, we agree with that.  We're not
+            And look, we agree with that.  We're not
 
 3
 
-here trying to say we have a priority over other
+here trying to say we have a priority over other
 
 4
 
-asset ­­ over other creditors.  We're just simply saying
+asset  over other creditors.  We're just simply saying
 
 5
 
-we are to use the language of the Restatement, a
+we are to use the language of the Restatement, a
 
 6
 
-"general creditor."
+"general creditor."
 
 7
 
-            CHIEF JUSTICE ROBERTS:  So you don't have
+            CHIEF JUSTICE ROBERTS:  So you don't have
 
 8
 
-priority over other creditors.  So if Mr. Montanile owes
+priority over other creditors.  So if Mr. Montanile owes
 
 9
 
-somebody money, he ­­ it's all right if he takes money
+somebody money, he  it's all right if he takes money
 
 10
 
-from the fund and pays that debt?
+from the fund and pays that debt?
 
 11
 
-            MR. KATYAL:  Well, we are then ­­ you know,
+            MR. KATYAL:  Well, we are then  you know,
 
 12
 
-as long as we can't trace it in a world of no tracing.
+as long as we can't trace it in a world of no tracing.
 
 13
 
-So there's obviously some funds here that we may able to
+So there's obviously some funds here that we may able to
 
 14
 
-trace, because as the interchange with Justice Ginsburg
+trace, because as the interchange with Justice Ginsburg
 
 15
 
-was suggesting, it's not totally clear what was spent
+was suggesting, it's not totally clear what was spent
 
 16
 
-and what isn't.
+and what isn't.
 
 17
 
-            But with respect to the rest, yes.  I mean,
+            But with respect to the rest, yes.  I mean,
 
 18
 
-we have to take the bitter with the sweet, and that
+we have to take the bitter with the sweet, and that
 
 19
 
-means we are a general creditor out of general assets.
+means we are a general creditor out of general assets.
 
 20
 
-It's not like we get first priority over those assets,
+It's not like we get first priority over those assets,
 
 21
 
-which is why this remedy is at best a second­best one
+which is why this remedy is at best a secondbest one
 
 22
 
-for us.  I mean, the ideal is, of course, to prevent
+for us.  I mean, the ideal is, of course, to prevent
 
 23
 
-someone from dissipating the funds altogether.
+someone from dissipating the funds altogether.
 
 24
 
-            And we do think, if this Court recognized,
+            And we do think, if this Court recognized,
 
 25
 
-as I think most of the circuits have, that we have a
+as I think most of the circuits have, that we have a
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 49
 1
 
-cause of action here, then I think it would deter people
+cause of action here, then I think it would deter people
 
 2
 
-from engaging in the kind of behavior that Mr. Montanile
+from engaging in the kind of behavior that Mr. Montanile
 
 3
 
@@ -5018,35 +5018,35 @@ did.
 
 4
 
-            JUSTICE KENNEDY:  I just want to be clear:
+            JUSTICE KENNEDY:  I just want to be clear:
 
 5
 
-I understand your position and your answer.
+I understand your position and your answer.
 
 6
 
-            Fund has ­­ has a claim for reimbursement
+            Fund has  has a claim for reimbursement
 
 7
 
-from the accident proceeds.  Accident proceeds put into
+from the accident proceeds.  Accident proceeds put into
 
 8
 
-the bank account of the Plan beneficiary, the injured,
+the bank account of the Plan beneficiary, the injured,
 
 9
 
-the person who was injured in the accident.  He also has
+the person who was injured in the accident.  He also has
 
 10
 
-another creditor.
+another creditor.
 
 11
 
-            You're ­­ you stand evenly with that
+            You're  you stand evenly with that
 
 12
 
@@ -5054,72 +5054,72 @@ creditor?
 
 13
 
-            MR. KATYAL:  So if ­­
+            MR. KATYAL:  So if 
 
 14
 
-            JUSTICE KENNEDY:  Was that your answer?
+            JUSTICE KENNEDY:  Was that your answer?
 
 15
 
-            MR. KATYAL:  Well, it is in the situation of
+            MR. KATYAL:  Well, it is in the situation of
 
 16
 
-a dissipated fund.  So obviously, if we can trace ­­ and
+a dissipated fund.  So obviously, if we can trace  and
 
 17
 
-this is why tracing is still important.
+this is why tracing is still important.
 
 18
 
-            JUSTICE KENNEDY:  Well, it's ­­ it's your
+            JUSTICE KENNEDY:  Well, it's  it's your
 
 19
 
-example.  The case is settled at 10:00 in the morning.
+example.  The case is settled at 10:00 in the morning.
 
 20
 
-At 10:30 in the morning, it's in the bank account.
+At 10:30 in the morning, it's in the bank account.
 
 21
 
-            MR. KATYAL:  Yes.
+            MR. KATYAL:  Yes.
 
 22
 
-            JUSTICE KENNEDY:  Nothing has been spent,
+            JUSTICE KENNEDY:  Nothing has been spent,
 
 23
 
-but there's a creditor.  And the creditor's claim is
+but there's a creditor.  And the creditor's claim is
 
 24
 
-equal to the Plan's claim, and there's only enough money
+equal to the Plan's claim, and there's only enough money
 
 25
 
-for one.
+for one.
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 50
 1
 
-            What happens?
+            What happens?
 
 2
 
-            MR. KATYAL:  Well, Justice Kennedy ­­
+            MR. KATYAL:  Well, Justice Kennedy 
 
 3
 
-            JUSTICE KENNEDY:  I thought you would have
+            JUSTICE KENNEDY:  I thought you would have
 
 4
 
@@ -5127,35 +5127,35 @@ priority.
 
 5
 
-            MR. KATYAL:  I would if ­­ it sounds like we
+            MR. KATYAL:  I would if  it sounds like we
 
 6
 
-could trace that fund.  That is, the fund hasn't been
+could trace that fund.  That is, the fund hasn't been
 
 7
 
-spent in that circumstance.
+spent in that circumstance.
 
 8
 
-            JUSTICE KENNEDY:  It's traceable.  It's in
+            JUSTICE KENNEDY:  It's traceable.  It's in
 
 9
 
-the bank account.
+the bank account.
 
 10
 
-            MR. KATYAL:  Right.  So then ­­ and that ­­
+            MR. KATYAL:  Right.  So then  and that 
 
 11
 
-that's exactly right.  So we would have priority over
+that's exactly right.  So we would have priority over
 
 12
 
-that $500,000, in that circumstance, over other
+that $500,000, in that circumstance, over other
 
 13
 
@@ -5163,431 +5163,431 @@ creditors.
 
 14
 
-            My only point is if we're in the
+            My only point is if we're in the
 
 15
 
-Montanile­like situation in which he has ­­ let's say he
+Montanilelike situation in which he has  let's say he
 
 16
 
-spent down that entire fund and there's another creditor
+spent down that entire fund and there's another creditor
 
 17
 
-who also ­­ Montanile owes money to.  Once that happens,
+who also  Montanile owes money to.  Once that happens,
 
 18
 
-we are ­­ we can only recover just like the other
+we are  we can only recover just like the other
 
 19
 
-general creditor.  And that's what the Restatement says.
+general creditor.  And that's what the Restatement says.
 
 20
 
-That's all it says.
+That's all it says.
 
 21
 
-            It does not say that if a fund is
+            It does not say that if a fund is
 
 22
 
-dissipated, that there is no claim anymore.  That would
+dissipated, that there is no claim anymore.  That would
 
 23
 
-be contrary to the whole idea as Justice Alito's
+be contrary to the whole idea as Justice Alito's
 
 24
 
-question was, about what equity is all about.  That
+question was, about what equity is all about.  That
 
 25
 
-makes ­­ that makes no sense.
+makes  that makes no sense.
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 51
 1
 
-            An equity is not that brittle, Justice
+            An equity is not that brittle, Justice
 
 2
 
-Scalia.  I understand that there are traditions in
+Scalia.  I understand that there are traditions in
 
 3
 
-equity and there are certain rules.  But at the end of
+equity and there are certain rules.  But at the end of
 
 4
 
-the day, there ­­ it was never that formalistic and ­­
+the day, there  it was never that formalistic and 
 
 5
 
-and ­­ and have the idea that someone could profit so
+and  and have the idea that someone could profit so
 
 6
 
-much from their wrongdoing in frustrating an equitable
+much from their wrongdoing in frustrating an equitable
 
 7
 
-claim that otherwise exists.
+claim that otherwise exists.
 
 8
 
-            JUSTICE KAGAN:  But it seems, Mr. Katyal,
+            JUSTICE KAGAN:  But it seems, Mr. Katyal,
 
 9
 
-that you are relying on remedies that really developed
+that you are relying on remedies that really developed
 
 10
 
-very late in equity's life.  In other words, you know,
+very late in equity's life.  In other words, you know,
 
 11
 
-equity was going along, and there were these very formal
+equity was going along, and there were these very formal
 
 12
 
-rules distinguishing it from the legal world.  And then
+rules distinguishing it from the legal world.  And then
 
 13
 
-as it progressed, there were ­­ people thought we need
+as it progressed, there were  people thought we need
 
 14
 
-some cleanup authority, or maybe even people just
+some cleanup authority, or maybe even people just
 
 15
 
-thought these rules aren't working in the way that we
+thought these rules aren't working in the way that we
 
 16
 
-want them to work.  So equity got a little bit less
+want them to work.  So equity got a little bit less
 
 17
 
-equitable as it approached the merger with law.
+equitable as it approached the merger with law.
 
 18
 
-            But that, I think, is not really what we've
+            But that, I think, is not really what we've
 
 19
 
-meant when we've said we're looking to things that are
+meant when we've said we're looking to things that are
 
 20
 
-typically equitable.  You know, not like the last throes
+typically equitable.  You know, not like the last throes
 
 21
 
-of equity as it was becoming a legal system.
+of equity as it was becoming a legal system.
 
 22
 
-            MR. KATYAL:  So, Justice Kagan, I'd spot you
+            MR. KATYAL:  So, Justice Kagan, I'd spot you
 
 23
 
-that with respect to swollen assets, you know, which
+that with respect to swollen assets, you know, which
 
 24
 
-does come around in the 1930s, and so maybe there's an
+does come around in the 1930s, and so maybe there's an
 
 25
 
-argument there.  But ­­ but for example, substitutionary
+argument there.  But  but for example, substitutionary
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 52
 1
 
-monetary decrees, Justice Holmes's opinions in 1897,
+monetary decrees, Justice Holmes's opinions in 1897,
 
 2
 
-exactly the same year as Barnes, the Chief Justice's
+exactly the same year as Barnes, the Chief Justice's
 
 3
 
-opinion that was the foundation for Sereboff.  And
+opinion that was the foundation for Sereboff.  And
 
 4
 
-indeed, it has a tradition that goes back to
+indeed, it has a tradition that goes back to
 
 5
 
-Justice Story's 1828 treatise, which cites earlier cases
+Justice Story's 1828 treatise, which cites earlier cases
 
 6
 
-even still.
+even still.
 
 7
 
-            So I don't think that we're relying that.
+            So I don't think that we're relying that.
 
 8
 
-            JUSTICE KAGAN:  Well, you take the ­­ the
+            JUSTICE KAGAN:  Well, you take the  the
 
 9
 
-deficiency judgments, which, I take it, was a rule was
+deficiency judgments, which, I take it, was a rule was
 
 10
 
-needed to give equity that authority, because everybody
+needed to give equity that authority, because everybody
 
 11
 
-thought equity didn't have that authority.
+thought equity didn't have that authority.
 
 12
 
-            MR. KATYAL:  Well ­­ well, even if you can
+            MR. KATYAL:  Well  well, even if you can
 
 13
 
-make that argument about deficiency judgments, which
+make that argument about deficiency judgments, which
 
 14
 
-I'll respond to in a moment, you can't make it about
+I'll respond to in a moment, you can't make it about
 
 15
 
-substitution or monetary decrees, which is a distinct
+substitution or monetary decrees, which is a distinct
 
 16
 
-body in equity.
+body in equity.
 
 17
 
-            And with respect to that, in 1864,
+            And with respect to that, in 1864,
 
 18
 
-absolutely.  This Court promulgated Equity Rule 92,
+absolutely.  This Court promulgated Equity Rule 92,
 
 19
 
-which allowed for deficiency judgments.  But I think the
+which allowed for deficiency judgments.  But I think the
 
 20
 
-fact that they had to issue a rule doesn't somehow make
+fact that they had to issue a rule doesn't somehow make
 
 21
 
-it a law claim, as my friend says.  I mean, after all,
+it a law claim, as my friend says.  I mean, after all,
 
 22
 
-Rule 73, promulgated in 1864, was a rule about
+Rule 73, promulgated in 1864, was a rule about
 
 23
 
-preliminary injunctions.  And I certainly think
+preliminary injunctions.  And I certainly think
 
 24
 
-preliminary injunctions were available in equity, and,
+preliminary injunctions were available in equity, and,
 
 25
 
-you know, the fact that there was a rule about it didn't
+you know, the fact that there was a rule about it didn't
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 53
 1
 
-somehow convert it into a law claim.
+somehow convert it into a law claim.
 
 2
 
-            So I think the very fact that this Court
+            So I think the very fact that this Court
 
 3
 
-issued a rule called Equity Rule 10 is suggestive of the
+issued a rule called Equity Rule 10 is suggestive of the
 
 4
 
-­­ of the fact that this is a tradition in equity.
+ of the fact that this is a tradition in equity.
 
 5
 
-            Now, look, if there's some doubt about this,
+            Now, look, if there's some doubt about this,
 
 6
 
-if there's some doubt on the traditions, and they've
+if there's some doubt on the traditions, and they've
 
 7
 
-got ­­ I don't think they have a single case, but even
+got  I don't think they have a single case, but even
 
 8
 
-if you thought they did, that said that we were
+if you thought they did, that said that we were
 
 9
 
-prohibited ­­ that we were prohibited from making these
+prohibited  that we were prohibited from making these
 
 10
 
-claims at equity, I think you should err on the side of
+claims at equity, I think you should err on the side of
 
 11
 
-recognizing the claim.
+recognizing the claim.
 
 12
 
-            Why?  For three reasons.  One, because as
+            Why?  For three reasons.  One, because as
 
 13
 
-the Solicitor General's brief in Sereboff said, the
+the Solicitor General's brief in Sereboff said, the
 
 14
 
-point of ERISA is to try and give effect to written
+point of ERISA is to try and give effect to written
 
 15
 
-plans and their determinations.  And if there's doubt
+plans and their determinations.  And if there's doubt
 
 16
 
-into the ­­ as to what the equity tradition is, you
+into the  as to what the equity tradition is, you
 
 17
 
-should read it in light of trying to enforce Plan terms.
+should read it in light of trying to enforce Plan terms.
 
 18
 
-That is the pages 23 and 24 of their brief.  It is
+That is the pages 23 and 24 of their brief.  It is
 
 19
 
-consistent with the way this Court approaches, for
+consistent with the way this Court approaches, for
 
 20
 
-example, Title VII cases and the like.
+example, Title VII cases and the like.
 
 21
 
-            The second is that, again, all we're seeking
+            The second is that, again, all we're seeking
 
 22
 
-here is a remedy.  We're not trying to get more than
+here is a remedy.  We're not trying to get more than
 
 23
 
-what would have been otherwise available at equity.
+what would have been otherwise available at equity.
 
 24
 
-Our ­­ our view is that when someone frustrates an
+Our  our view is that when someone frustrates an
 
 25
 
-otherwise equitable claim, we can only try and reinstate
+otherwise equitable claim, we can only try and reinstate
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 54
 1
 
-that claim.  You can't get more from it because of their
+that claim.  You can't get more from it because of their
 
 2
 
-second wrongdoing.  So I think we're giving effect to
+second wrongdoing.  So I think we're giving effect to
 
 3
 
-what equity is all about.
+what equity is all about.
 
 4
 
-            And then, third ­­ and this goes back to
+            And then, third  and this goes back to
 
 5
 
-your last question to Ms. Anders, you said, you know,
+your last question to Ms. Anders, you said, you know,
 
 6
 
-what was ­­ what was the ­­ what does "typically
+what was  what was the  what does "typically
 
 7
 
-available at equity" mean?  And you know, that test
+available at equity" mean?  And you know, that test
 
 8
 
-comes from Mertens.  Mertens isolates three examples of
+comes from Mertens.  Mertens isolates three examples of
 
 9
 
-what was traditionally available as equity ­­ at equity:
+what was traditionally available as equity  at equity:
 
 10
 
-mandamus, injunction, and restitution.
+mandamus, injunction, and restitution.
 
 11
 
-            Now, if you look at mandamus, for example,
+            Now, if you look at mandamus, for example,
 
 12
 
-there are precedents from this Court making ­­ that ­­
+there are precedents from this Court making  that 
 
 13
 
-that suggest that equity ­­ that equity didn't recognize
+that suggest that equity  that equity didn't recognize
 
 14
 
-mandamus.  You know, this Court twice in the nineteenth
+mandamus.  You know, this Court twice in the nineteenth
 
 15
 
-century in Hine and Downs both said that ­­ said that
+century in Hine and Downs both said that  said that
 
 16
 
@@ -5595,23 +5595,23 @@ twice.
 
 17
 
-            And I think that's a good textual clue that
+            And I think that's a good textual clue that
 
 18
 
-when there's doubt as to whether something is actually
+when there's doubt as to whether something is actually
 
 19
 
-traditionally available at equity or not, you should err
+traditionally available at equity or not, you should err
 
 20
 
-on the side of recognizing it as traditionally
+on the side of recognizing it as traditionally
 
 21
 
-available, as this Court did in the foundational Mertens
+available, as this Court did in the foundational Mertens
 
 22
 
@@ -5619,185 +5619,185 @@ test.
 
 23
 
-            We're not quibbling with Mertens.  We're
+            We're not quibbling with Mertens.  We're
 
 24
 
-simply saying we're at least as strong as to whether
+simply saying we're at least as strong as to whether
 
 25
 
-something was traditionally available at equity as
+something was traditionally available at equity as
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 55
 1
 
-mandamus.  Because in mandamus, two cases from this
+mandamus.  Because in mandamus, two cases from this
 
 2
 
-Court suggested it wasn't traditionally available, and
+Court suggested it wasn't traditionally available, and
 
 3
 
-yet, the Court still, in Mertens, used that as one of
+yet, the Court still, in Mertens, used that as one of
 
 4
 
-its three examples.
+its three examples.
 
 5
 
-            If there are no further questions.
+            If there are no further questions.
 
 6
 
-            CHIEF JUSTICE ROBERTS:  Thank you, counsel.
+            CHIEF JUSTICE ROBERTS:  Thank you, counsel.
 
 7
 
-            Mr. Stris, you have four minutes remaining.
+            Mr. Stris, you have four minutes remaining.
 
 8
 
-           REBUTTAL ARGUMENT OF PETER K. STRIS
+           REBUTTAL ARGUMENT OF PETER K. STRIS
 
 9
 
-               ON BEHALF OF THE PETITIONER
+               ON BEHALF OF THE PETITIONER
 
 10
 
-            MR. STRIS:  Thank you, Mr. Chief Justice.
+            MR. STRIS:  Thank you, Mr. Chief Justice.
 
 11
 
-            I'd just like to make two brief points.  The
+            I'd just like to make two brief points.  The
 
 12
 
-first one is that the historical authorities are
+first one is that the historical authorities are
 
 13
 
-unquestionably on our side.  And it was interesting
+unquestionably on our side.  And it was interesting
 
 14
 
-hearing my ­­ my friend Mr. Katyal go straight to the
+hearing my  my friend Mr. Katyal go straight to the
 
 15
 
-substitutionary monetary remedy.  I want to say a couple
+substitutionary monetary remedy.  I want to say a couple
 
 16
 
-things about this:
+things about this:
 
 17
 
-            First, if you look carefully, the exact
+            First, if you look carefully, the exact
 
 18
 
-argument he's making was rejected by the holding of this
+argument he's making was rejected by the holding of this
 
 19
 
-Court in Great­West.  This is Section II C of the
+Court in GreatWest.  This is Section II C of the
 
 20
 
-Court's opinion.  It's kind of a lesser­known part of
+Court's opinion.  It's kind of a lesserknown part of
 
 21
 
-the opinion.
+the opinion.
 
 22
 
-            The ­­ the argument was made that a
+            The  the argument was made that a
 
 23
 
-beneficiary of a trust commits that second wrong that he
+beneficiary of a trust commits that second wrong that he
 
 24
 
-was talking about when they get a loan contractually and
+was talking about when they get a loan contractually and
 
 25
 
-refuse to pay it back.  And what this Court said is, no,
+refuse to pay it back.  And what this Court said is, no,
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 56
 1
 
-that's not typically available in equity.  And, you
+that's not typically available in equity.  And, you
 
 2
 
-know, it's precisely the distinction that he's trying to
+know, it's precisely the distinction that he's trying to
 
 3
 
-now push upon you to squeeze this remedy through.
+now push upon you to squeeze this remedy through.
 
 4
 
-            So let's look at the substitutionary
+            So let's look at the substitutionary
 
 5
 
-monetary decree cases he talks about.
+monetary decree cases he talks about.
 
 6
 
-            Not a single one of them involves an
+            Not a single one of them involves an
 
 7
 
-equitable lien by agreement.  They ­­ they don't involve
+equitable lien by agreement.  They  they don't involve
 
 8
 
-an agreement.  They're restitutionary cases.  So that's
+an agreement.  They're restitutionary cases.  So that's
 
 9
 
-also interesting to me that he criticizes our side
+also interesting to me that he criticizes our side
 
 10
 
-talking about the ­­ the Restatement of Restitution,
+talking about the  the Restatement of Restitution,
 
 11
 
-Section 215, whereas we talk about Pomeroy.  We talk
+Section 215, whereas we talk about Pomeroy.  We talk
 
 12
 
-about Jones on liens.  We talk about the Person case.
+about Jones on liens.  We talk about the Person case.
 
 13
 
-It's an 1880 case on page 35 of the Blue brief.  It's an
+It's an 1880 case on page 35 of the Blue brief.  It's an
 
 14
 
-equitable lien by agreement case.
+equitable lien by agreement case.
 
 15
 
-            The historical authority here is beyond
+            The historical authority here is beyond
 
 16
 
@@ -5805,31 +5805,31 @@ dispute.
 
 17
 
-            And ­­ and I guess the last thing I'll say
+            And  and I guess the last thing I'll say
 
 18
 
-on this is look at the Shafer's Appeal cases.  It's one
+on this is look at the Shafer's Appeal cases.  It's one
 
 19
 
-of his lead cases on page 37, note 6.  It says that
+of his lead cases on page 37, note 6.  It says that
 
 20
 
-substitutionary monetary relief is legal.
+substitutionary monetary relief is legal.
 
 21
 
-            So I ­­ I think if you look at the cases,
+            So I  I think if you look at the cases,
 
 22
 
-not that I would wish that upon anyone, they ­­ they
+not that I would wish that upon anyone, they  they
 
 23
 
-really do not even credibly support the proposition
+really do not even credibly support the proposition
 
 24
 
@@ -5837,173 +5837,173 @@ historically.
 
 25
 
-            So where does that leave us?  I mean, I
+            So where does that leave us?  I mean, I
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 57
 1
 
-think I was honest from minute one when I got up here.
+think I was honest from minute one when I got up here.
 
 2
 
-The only reason that you would contort the standard that
+The only reason that you would contort the standard that
 
 3
 
-you've developed ­­ let's be honest; you know, spot me
+you've developed  let's be honest; you know, spot me
 
 4
 
-this ­­ you have to believe our position is
+this  you have to believe our position is
 
 5
 
-fundamentally inconsistent with the purpose of ERISA.
+fundamentally inconsistent with the purpose of ERISA.
 
 6
 
-If you do, then I have a problem.
+If you do, then I have a problem.
 
 7
 
-            But here's where we're at.  Mr. Chief
+            But here's where we're at.  Mr. Chief
 
 8
 
-Justice, you made a very strong policy argument about
+Justice, you made a very strong policy argument about
 
 9
 
-why my rule is no good.  With respect, I think I could
+why my rule is no good.  With respect, I think I could
 
 10
 
-make a very strong policy argument about why
+make a very strong policy argument about why
 
 11
 
-participants who prove a clear bad­faith brief by a plan
+participants who prove a clear badfaith brief by a plan
 
 12
 
-should get consequential damages.  I could make that
+should get consequential damages.  I could make that
 
 13
 
-argument.  I think I could make it very persuasively.
+argument.  I think I could make it very persuasively.
 
 14
 
-But that's not what we're here to do.  We're here to
+But that's not what we're here to do.  We're here to
 
 15
 
-apply the historical test.
+apply the historical test.
 
 16
 
-            So let's end, essentially, with, I think, a
+            So let's end, essentially, with, I think, a
 
 17
 
-key concession that Mr. Katyal makes about the
+key concession that Mr. Katyal makes about the
 
 18
 
-disability context.
+disability context.
 
 19
 
-            So if you look at this case and you say,
+            So if you look at this case and you say,
 
 20
 
-well, all this subrogation, I don't know.  These
+well, all this subrogation, I don't know.  These
 
 21
 
-arguments that the Plans have ways to protect
+arguments that the Plans have ways to protect
 
 22
 
-themselves, maybe they're right, but maybe they're
+themselves, maybe they're right, but maybe they're
 
 23
 
-onerous.  And, you know, I'm just not sure if it's going
+onerous.  And, you know, I'm just not sure if it's going
 
 24
 
-to add to the cost of plans.
+to add to the cost of plans.
 
 25
 
-            Go look at the disability cases.  Because I
+            Go look at the disability cases.  Because I
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 58
 1
 
-was stunned when Mr. Katyal got up here and said, oh,
+was stunned when Mr. Katyal got up here and said, oh,
 
 2
 
-well, the disability cases are different, like this
+well, the disability cases are different, like this
 
 3
 
-doesn't extend to them.  He filed a cert petition with
+doesn't extend to them.  He filed a cert petition with
 
 4
 
-respect with this Court in the Bilyeu case, which was
+respect with this Court in the Bilyeu case, which was
 
 5
 
-one of the circuit split cases that's here.  Half of the
+one of the circuit split cases that's here.  Half of the
 
 6
 
-circuit split cases involve the disability context.
+circuit split cases involve the disability context.
 
 7
 
-            So I'll end with this:  What does that tell
+            So I'll end with this:  What does that tell
 
 8
 
-you?  The fact that you look at these disability cases
+you?  The fact that you look at these disability cases
 
 9
 
-and you see that money is being advanced and it's being
+and you see that money is being advanced and it's being
 
 10
 
-spent before the lien even attaches, and yet they're
+spent before the lien even attaches, and yet they're
 
 11
 
-made part of the circuit split, and in this case
+made part of the circuit split, and in this case
 
 12
 
-Respondent is not willing to defend that as a policy
+Respondent is not willing to defend that as a policy
 
 13
 
-position, I think what it tells you is that fair­minded
+position, I think what it tells you is that fairminded
 
 14
 
-people could disagree as to where you want to place the
+people could disagree as to where you want to place the
 
 15
 
@@ -6011,249 +6011,249 @@ risk.
 
 16
 
-            And so when we go and look at this and we
+            And so when we go and look at this and we
 
 17
 
-think about it in terms of burdens, if there is any
+think about it in terms of burdens, if there is any
 
 18
 
-reasonable position, as you look at this, that a rule
+reasonable position, as you look at this, that a rule
 
 19
 
-that says you can essentially go after general assets,
+that says you can essentially go after general assets,
 
 20
 
-means that some meaningful number of fiduciaries will
+means that some meaningful number of fiduciaries will
 
 21
 
-abuse that to assert rights they don't have or to delay,
+abuse that to assert rights they don't have or to delay,
 
 22
 
-then I think you need to go with the clear line of
+then I think you need to go with the clear line of
 
 23
 
-historical authorities.
+historical authorities.
 
 24
 
-            Thank you.
+            Thank you.
 
 25
 
-            CHIEF JUSTICE ROBERTS:  I'm sorry, counsel.
+            CHIEF JUSTICE ROBERTS:  I'm sorry, counsel.
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 59
 1
 
-You say he filed a cert petition.  Is that on behalf of
+You say he filed a cert petition.  Is that on behalf of
 
 2
 
-the same client this year?
+the same client this year?
 
 3
 
-            MR. STRIS:  It's not on behalf of the same
+            MR. STRIS:  It's not on behalf of the same
 
 4
 
-client, no.  But it ­­ it shows that the disability
+client, no.  But it  it shows that the disability
 
 5
 
-cases are governed by precisely the same legal rule,
+cases are governed by precisely the same legal rule,
 
 6
 
-since for him to suggest that the legal rule that you're
+since for him to suggest that the legal rule that you're
 
 7
 
-going to decide here would not also ­­ also apply in
+going to decide here would not also  also apply in
 
 8
 
-disability cases, flies in the face of the precise
+disability cases, flies in the face of the precise
 
 9
 
-position he took when he filed the cert petition ­­
+position he took when he filed the cert petition 
 
 10
 
-            CHIEF JUSTICE ROBERTS:  Well, I'm just
+            CHIEF JUSTICE ROBERTS:  Well, I'm just
 
 11
 
-trying to ­­
+trying to 
 
 12
 
-            MR. STRIS:  ­­ in the Bilyeu.
+            MR. STRIS:   in the Bilyeu.
 
 13
 
-            CHIEF JUSTICE ROBERTS:  Are you saying that,
+            CHIEF JUSTICE ROBERTS:  Are you saying that,
 
 14
 
-because he represented a different client and took a
+because he represented a different client and took a
 
 15
 
-position in that case, he's somehow bound by that here?
+position in that case, he's somehow bound by that here?
 
 16
 
-            MR. STRIS:  Oh, no, no.  Certainly not.
+            MR. STRIS:  Oh, no, no.  Certainly not.
 
 17
 
-What I'm saying is we have a circuit split.  And half of
+What I'm saying is we have a circuit split.  And half of
 
 18
 
-the cases are subrogation, and half of them are
+the cases are subrogation, and half of them are
 
 19
 
-disability.  So the Court's recognized that the legal
+disability.  So the Court's recognized that the legal
 
 20
 
-principle in this case will not only apply in
+principle in this case will not only apply in
 
 21
 
-subrogation cases but they'll apply in disability cases.
+subrogation cases but they'll apply in disability cases.
 
 22
 
-            And Mr. Katyal recognizes that because he
+            And Mr. Katyal recognizes that because he
 
 23
 
-represented a party in one of those cases.
+represented a party in one of those cases.
 
 24
 
-            So my ­­ my point only is, don't accept the
+            So my  my point only is, don't accept the
 
 25
 
-representation that the rule here can somehow be
+representation that the rule here can somehow be
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 60
 1
 
-confined to subrogation cases.
+confined to subrogation cases.
 
 2
 
-            Because, as an empirical matter, it cannot.
+            Because, as an empirical matter, it cannot.
 
 3
 
-            CHIEF JUSTICE ROBERTS:  Well, I would be
+            CHIEF JUSTICE ROBERTS:  Well, I would be
 
 4
 
-surprised by the proposition that lawyers are somehow
+surprised by the proposition that lawyers are somehow
 
 5
 
-collaterally estopped if they take a particular position
+collaterally estopped if they take a particular position
 
 6
 
-on behalf of one client from taking a different position
+on behalf of one client from taking a different position
 
 7
 
-in a different case.
+in a different case.
 
 8
 
-            MR. STRIS:  No.  Most certainly that's true.
+            MR. STRIS:  No.  Most certainly that's true.
 
 9
 
-And perhaps I've miscommunicated.
+And perhaps I've miscommunicated.
 
 10
 
-            We have a circuit split which led to the
+            We have a circuit split which led to the
 
 11
 
-Court granting this case, and all of the cases purport
+Court granting this case, and all of the cases purport
 
 12
 
-to resolve the same question presented.  Half of them
+to resolve the same question presented.  Half of them
 
 13
 
-are in the subrogation context; half of them are in the
+are in the subrogation context; half of them are in the
 
 14
 
-disability context.  So I don't ­­ I don't see how one
+disability context.  So I don't  I don't see how one
 
 15
 
-could credibly take the position that you can decide
+could credibly take the position that you can decide
 
 16
 
-this case and it would not affect the mine run of
+this case and it would not affect the mine run of
 
 17
 
-disability cases, because they're part of precisely the
+disability cases, because they're part of precisely the
 
 18
 
-same circuit split.  It's the same issue.
+same circuit split.  It's the same issue.
 
 19
 
-            CHIEF JUSTICE ROBERTS:  Thank you, counsel.
+            CHIEF JUSTICE ROBERTS:  Thank you, counsel.
 
 20
 
-            The case is submitted.
+            The case is submitted.
 
 21
 
-            (Whereupon, at 11:04 a.m., the case in the
+            (Whereupon, at 11:04 a.m., the case in the
 
 22
 
-above­entitled matter was submitted.)
+aboveentitled matter was submitted.)
 
 23
 24
 25
 
-Alderson Reporting Company
+Alderson Reporting Company
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 61
 
@@ -6266,7 +6266,7 @@ able 17:8 22:12
 28:11,19 36:6
 39:22 44:13
 48:13
-above­entitled
+aboveentitled
 1:13 60:22
 absolutely 16:3
 20:19,23 26:18
@@ -6448,7 +6448,7 @@ attachments
 attorneys' 25:15
 author 42:18
 
-Alderson Reporting Company
+Alderson Reporting Company
 
 authorities
 18:20 21:2
@@ -6473,11 +6473,11 @@ back 8:11 16:22
 22:23 23:16
 28:11 52:4
 54:4 55:25
-back­and­forth
+backandforth
 29:4
 background 8:1
 bad 10:3
-bad­faith 57:11
+badfaith 57:11
 balance 5:11
 6:21 7:1
 bank 5:15,24
@@ -6497,7 +6497,7 @@ Baxter 37:2
 becoming 51:21
 begins 31:25
 
-Official ­ Subject to Final Review
+Official  Subject to Final Review
 
 62
 
@@ -6682,7 +6682,7 @@ clear 4:10,14,18
 57:11 58:22
 45:4 47:6
 48:7 52:2 55:6 clearly 19:13
-Alderson Reporting Company
+Alderson Reporting Company
 
 client 3:24,24
 24:19,20 39:10
@@ -6731,2343 +6731,5 @@ concern 12:19
 concerned 28:10
 concerns 7:15
 26:18 27:22
-
-Official ­ Subject to Final Review
-
-63
-
-28:22,23 38:8
-concession
-57:17
-confined 60:1
-confront 11:16
-confused 44:3
-confusing 4:25
-Congress 19:9
-19:13 28:14,14
-28:21
-consequence
-20:20 21:20
-consequences
-38:4
-consequential
-31:9 57:12
-considered 29:7
-consistent 7:22
-8:17 18:8 43:1
-53:19
-constructive
-21:5
-contact 14:6
-contemplated
-19:9
-context 4:7 8:13
-11:7,13 17:25
-21:13 28:4
-57:18 58:6
-60:13,14
-continue 27:20
-continued 12:8
-contort 57:2
-contractually
-55:24
-contradistinct...
-44:16
-contrary 13:13
-40:20 43:12
-50:23
-contriving 41:3
-controversial
-16:1
-convenience
-35:11
-convert 53:1
-core 18:6
-
-correct 6:18
-24:2,12 36:19
-corrected 42:18
-correspond 41:4
-cost 27:6 57:24
-counsel 11:14
-13:6 16:13
-18:24 29:14
-55:6 58:25
-60:19
-counted 25:15
-counter 19:21
-counterintuitive
-18:2
-couple 55:15
-course 13:13
-21:17 30:24
-34:10 36:9,12
-44:18 48:22
-court 1:1,14
-3:11,15 8:24
-14:2,11 15:3
-17:3 18:10
-19:5,11,16,23
-20:17,24 27:13
-27:20 28:2
-29:9,11,19
-37:15 42:4
-43:3,17 45:14
-48:24 52:18
-53:2,19 54:12
-54:14,21 55:2
-55:3,19,25
-58:4 60:11
-court's 10:18
-37:19 55:20
-59:19
-courts 11:4
-cousin 25:25
-26:2
-credibly 56:23
-60:15
-credit 32:22
-creditor 48:6,19
-49:10,12,23
-50:16,19
-creditor's 6:2
-
-49:23
-creditors 48:4,8
-50:13
-criticizes 56:9
-curiae 1:21 2:7
-19:2
-D
-D 1:19 2:6 3:1
-19:1
-D.C 1:10,20,23
-damages 12:5
-17:2 19:13
-29:11 31:9,9
-32:20 33:1,5
-34:4 46:7
-57:12
-dance 12:16
-date 14:15
-Davila 9:16
-day 23:15 47:22
-51:4
-dead 9:12
-deal 40:23
-debt 48:10
-decide 14:15
-43:17 59:7
-60:15
-decided 18:10
-decision 18:9
-30:6
-decisions 21:20
-decisis 11:2
-declaration 4:24
-decree 42:24,24
-43:11 56:5
-decrees 33:11
-52:1,15
-defend 58:12
-defendant 30:10
-30:13 36:3
-45:23 47:14
-defendant's
-3:17 18:15
-defendants 34:1
-defenses 46:8,11
-deficiency 29:10
-
-33:11 41:18
-42:24 52:9,13
-52:19
-delay 58:21
-delays 22:18
-delivered 3:23
-demean 16:24
-Department
-1:20
-depend 16:20
-25:6
-depends 40:13
-describing 17:18
-35:8
-description 37:1
-destruction
-29:11
-deter 49:1
-determinations
-53:15
-determine 11:8
-developed 5:11
-19:11 20:10
-43:10 51:9
-57:3
-dialogue 15:12
-diamond 25:24
-26:3
-differ 26:17
-difference 5:14
-6:19 41:16
-different 3:22
-13:9 33:9 45:4
-46:24 58:2
-59:14 60:6,7
-differently
-17:16
-difficult 9:21
-diligent 20:1,4
-diligently 19:22
-26:20 28:18
-dipped 5:25
-disability 9:2
-11:12 28:3
-46:13,17 57:18
-57:25 58:2,6,8
-59:4,8,19,21
-
-Alderson Reporting Company
-
-60:14,17
-disagree 58:14
-disagreeing 30:5
-42:7
-disaster 17:5
-disclaim 25:13
-25:14
-discovered 35:4
-dispute 14:9
-56:16
-disputed 20:6
-dissenters 42:19
-dissipate 5:9
-23:6 31:13
-33:21 35:25
-42:14
-dissipated 10:8
-13:8 21:4,22
-22:2,5 35:16
-36:16 45:6
-49:16 50:22
-dissipates 45:23
-47:24
-dissipating
-23:11 33:14
-46:23,25 47:15
-48:23
-dissipation 4:10
-4:13 11:23
-12:20 22:15
-36:20 47:5
-distinct 52:15
-distinction 40:6
-56:2
-distinctions
-39:23,24 40:7
-distinguish
-19:12
-distinguishing
-51:12
-distributable
-29:25
-distribute 14:16
-32:1
-divided 11:5
-29:13
-docket 37:21
-
-Official ­ Subject to Final Review
-
-64
-
-dockets 37:19
-doctrine 47:19
-dollar 38:19,22
-dollars 14:22
-39:7
-double 39:15
-doubt 43:14
-53:5,6,15
-54:18
-Downs 54:15
-downside 28:15
-dramatic 11:12
-drive 28:24
-
-34:11,16 50:16
-entitled 27:1
-31:4 47:25
-entity 38:19
-equal 49:24
-equitable 3:13
-3:16 5:6 7:7
-17:12 18:14
-19:8,12,16
-20:16 21:1,1,2
-21:6,13 29:8
-30:10 31:16
-33:7 34:6,13
-34:24 35:11,13
-E
-35:21 36:1,4
-E 2:1 3:1,1
-36:17 37:7,8
-earlier 16:9 52:5
-40:9,25 41:16
-earning 7:1
-41:17,20,23
-easy 37:10,18
-42:6,13,21
-effect 53:14 54:2
-43:2,3,25 51:6
-effectively 12:3
-51:17,20 53:25
-Eighth 44:15
-56:7,14
-either 12:13
-equity 5:8,22
-28:22 41:7
-6:19,22 7:3
-elements 41:9
-8:18 22:4
-Elevator 1:7 3:5
-23:21 29:3,7
-embodying
-30:9,11,14
-32:25
-31:11,12,17
-empirical 60:2
-33:10 36:6
-encompasses
-38:5 39:16,17
-33:20
-39:20,20 40:5
-encumbered
-40:12,14 41:3
-46:8
-41:21 43:2,13
-ended 20:17
-43:15,17 44:20
-30:18
-46:5,9 47:10
-enforce 3:13
-50:24 51:1,3
-7:19,20 16:4
-51:11,16,21
-18:21 20:25
-52:10,11,16,18
-21:5 22:12
-52:24 53:3,4
-53:17
-53:10,16,23
-enforceable 3:16
-54:3,7,9,9,13
-16:5
-54:13,19,25
-enforcement
-56:1
-30:3
-equity's 51:10
-engaging 49:2
-ERISA 3:12
-enjoin 14:2
-7:23 8:18,22
-entire 25:18
-9:18 10:12
-
-11:7 18:6,9,18
-19:9 43:7
-53:14 57:5
-ERISA's 9:18
-err 53:10 54:19
-error 8:15,20
-escrow 14:8
-ESQ 1:17,19,23
-2:3,6,10,13
-essence 42:16
-essentially 10:13
-10:14 57:16
-58:19
-establish 3:13
-estopped 60:5
-ethical 23:10
-evenly 49:11
-everybody 52:10
-evolved 5:8
-exact 55:17
-exactly 11:21
-38:9,15 50:11
-52:2
-example 14:12
-31:19 32:11
-35:8 38:13
-40:14 41:1,12
-41:25 49:19
-51:25 53:20
-54:11
-examples 13:2
-54:8 55:4
-exception 8:23
-45:25 46:1
-exercise 43:4
-exist 35:10
-existed 45:7
-existence 19:24
-exists 33:8 51:7
-expansiveness
-41:10
-expenses 4:15
-5:17
-expensive 13:12
-38:17
-explains 38:12
-extend 58:3
-
-extent 41:9
-extreme 6:21
-
-flexible 39:20
-41:15
-flies 59:8
-F
-followed 41:3
-face 59:8
-follows 5:22
-faced 12:18
-forget 22:18
-fact 4:9 9:9
-form 29:21 41:8
-16:25 22:4
-formal 51:11
-23:7 28:16
-formalistic
-32:5,17 52:20
-39:23,24,25
-52:25 53:2,4
-40:6,7 51:4
-58:8
-forth 22:19
-facts 3:20 16:20 found 31:22
-fail 33:25
-foundation 52:3
-fair 5:20 10:24
-foundational
-16:15 17:15
-54:21
-fair­minded
-four 55:7
-17:17,20 58:13 framework 19:7
-far 4:8 5:5 7:4
-19:11
-9:19 39:1
-Frankfurter
-fee 23:25 24:4
-40:12
-fees 25:11,15
-fraud 9:8,10,14
-fide 26:6
-9:20,25 16:8
-fiduciaries 7:17
-16:19 32:19
-7:24 58:20
-freestanding
-fiduciary 3:12
-41:20
-figure 40:8
-friend 6:22 22:3
-figures 3:22
-26:16 27:24
-file 20:7 27:7
-37:23 38:9
-31:20
-39:9 46:12
-filed 14:23,24
-47:8,21 52:21
-15:3 20:13
-55:14
-38:14 40:2,3,3 frustrated 45:6
-58:3 59:1,9
-frustrates 30:10
-filing 38:21,21
-31:12 33:7
-find 14:6,18,18
-36:4 53:24
-14:20 32:17,18 frustrating 51:6
-32:24 37:21
-full 29:22
-first 8:14,22
-fund 4:1 11:15
-22:8 29:21
-23:16 24:16,16
-33:3 35:10
-25:13 30:17
-38:2 41:23,24
-31:13,14,23,25
-41:24 43:24
-33:14,21,24,25
-48:20 55:12,17
-34:11,14,16,20
-flag 12:11
-35:1,4,15,25
-flexibility 40:13
-36:7 40:4 42:1
-41:2,10
-45:23 46:25
-
-Alderson Reporting Company
-
-Official ­ Subject to Final Review
-
-65
-
-47:15,24 48:10
-49:6,16 50:6,6
-50:16,21
-fundamentally
-57:5
-funds 5:19 11:19
-11:20,23 13:13
-20:24 21:22
-22:5,7 23:7,11
-23:19 29:24
-30:4 31:21
-36:16,17 42:8
-44:22 48:13,23
-further 55:5
-future 6:25 8:25
-9:1 11:17
-fuzziness 3:20
-
-given 3:22 25:25
-32:11 45:17
-gives 24:19 44:4
-45:10
-giving 54:2
-go 9:19 14:10
-27:7 28:11,11
-42:10 44:6,12
-44:13 45:1
-46:6 47:16
-55:14 57:25
-58:16,19,22
-goes 31:3 32:2,4
-44:10,25 52:4
-54:4
-going 8:14 10:4
-10:5,5 12:15
-13:11 14:1,15
-G
-17:4,19,22
-G 3:1
-19:24 23:7
-garnish 7:2
-25:13,14,18
-gears 29:1
-27:5,9,13,14
-general 1:20
-28:3,7 37:15
-3:25 5:2,19
-39:10 43:17,24
-7:25 24:22
-43:25 45:5
-31:8 33:16,17
-46:13,18 51:11
-33:19 37:4,5
-57:23 59:7
-40:2 42:10,10 good 11:19 14:9
-45:2,20 47:16
-16:15 54:17
-47:24 48:6,19
-57:9
-48:19 50:19
-good­faith 22:22
-58:19
-gotten 30:22
-General's 39:25 governed 59:5
-53:13
-government
-generally 10:16
-20:13,14
-11:5 36:2
-government's
-genuine 4:9
-21:24
-GINGER 1:19
-grant 41:7
-2:6 19:1
-granting 60:11
-Ginsburg 3:19
-great 8:2 44:17
-4:4,12,17 5:13 Great­West 8:3
-5:21 6:11
-8:23 12:8,9,18
-13:21,24 20:12
-12:20 17:4
-21:23 45:8,18
-18:12 19:16,20
-48:14
-20:10,13,15,20
-give 13:2 32:22
-20:22,24 21:12
-52:10 53:14
-21:18 27:15,18
-
-28:16 55:19
-I
-Great­Western idea 13:13 14:10
-10:23 42:17
-30:15 33:12
-gross 25:9
-35:25 39:17,21
-grounding 38:2
-44:21 50:23
-guess 16:22
-51:5
-32:13,15 37:17 ideal 48:22
-56:17
-identified 33:24
-ignores 16:19
-H
-ignoring 16:7,21
-hacked 45:19
-II 8:23 55:19
-half 58:5 59:17
-imagine 25:7
-59:18 60:12,13
-32:3
-hand 19:12
-immediate
-hands 36:7
-30:17
-happened 36:21 immediately
-happens 7:14
-14:7 23:13
-8:12 15:18
-impact 11:12
-50:1,17
-16:7
-hard 37:24
-impaired 6:2
-health 1:8 3:5
-important 4:21
-11:24 12:7
-6:10 7:13 8:11
-hear 3:3 7:13
-11:10,22 20:2
-hearing 55:14
-27:12 38:4
-heavily 15:19
-47:13 49:17
-help 17:2 37:16 incentive 19:18
-hey 14:14
-incentives 19:21
-Hine 54:15
-19:25
-historical 8:18
-include 14:21
-18:16 55:12
-19:14 29:9
-56:15 57:15
-income 7:1
-58:23
-incomprehens...
-historically
-40:10
-56:24
-inconsistent
-history 18:4
-57:5
-holding 55:18
-indicate 5:5
-Holmes's 33:22 individuals 12:1
-52:1
-Industry 1:7 3:5
-Homes's 36:25
-injunction 20:6
-honest 57:1,3
-54:10
-Honor 27:12
-injunctions
-34:21 35:6
-26:13 27:7
-36:19 38:2
-52:23,24
-hope 16:15
-injured 41:5
-house 44:23
-49:8,9
-hypothetical
-injury 37:11
-13:5
-
-Alderson Reporting Company
-
-innocent 38:22
-39:14
-instance 41:24
-instances 17:8
-insured 7:18
-insurer 8:19
-15:17
-insurers 11:24
-12:7
-interchange
-41:2 48:14
-interesting
-55:13 56:9
-intermediate
-5:10 6:20 7:1
-internally 12:13
-interpreted
-19:16
-intervene 26:12
-investigate
-12:10
-involve 22:16
-56:7 58:6
-involves 56:6
-isolates 54:8
-issue 4:9 7:11
-8:3 9:21 11:9
-11:10,11 20:3
-42:25 52:20
-60:18
-issued 53:3
-issues 43:21
-item 32:15
-J
-Joint 4:21
-Jones 56:12
-Judge 35:7
-judgment 4:23
-43:11
-judgment­proof
-12:3 30:8
-judgments
-29:11 33:11
-41:18,19 52:9
-52:13,19
-jurisdiction
-
-Official ­ Subject to Final Review
-
-66
-
-34:12,13,25
-35:10,19 42:25
-43:17,23 44:1
-jury 43:21
-Justice 1:20 3:3
-3:10,19 4:4,12
-4:17 5:1,8,13
-5:21 6:11,12
-6:17 7:7,13 8:1
-8:25 9:4,15,23
-10:11,15,19,22
-11:3,14 12:22
-13:4,21,24
-14:17 15:1,4,7
-15:9,19,22
-16:6,12 17:9
-17:10,21 18:24
-19:4,6 20:12
-20:21 21:7,8
-21:10,11,23
-22:17 23:1,4
-23:12,23 24:3
-24:7,9,15 25:6
-25:17,20,23
-26:22 27:22
-28:25 29:14,18
-30:15 31:2,18
-31:22 33:4
-34:5,8,17,20
-34:24 35:3,20
-36:5,10,15,23
-36:25,25 37:9
-38:24 39:18
-40:5,11,12,16
-40:19 41:13
-42:16,23 43:5
-43:6,8 44:2,10
-44:20 45:8,18
-45:25 48:7,14
-49:4,14,18,22
-50:2,3,8,23
-51:1,8,22 52:1
-52:5,8 55:6,10
-57:8 58:25
-59:10,13 60:3
-60:19
-Justice's 52:2
-
-K
-K 1:17,23 2:3,10
-2:13 3:8 29:16
-55:8
-Kagan 5:1,8
-17:9 28:25
-51:8,22 52:8
-Katyal 1:23 2:10
-6:23 29:15,16
-29:18 30:20
-31:5 33:3 34:8
-34:19,21 35:2
-35:6,23 36:8
-36:12,19,24
-38:1 39:3 40:5
-40:11,18,21
-41:22 42:22
-43:5,8 44:8
-45:12 48:11
-49:13,15,21
-50:2,5,10 51:8
-51:22 52:12
-55:14 57:17
-58:1 59:22
-keep 3:25 10:5
-16:22 20:2
-keeping 44:5
-Kennedy 7:7,13
-8:1,25 9:4,15
-9:23 10:11,15
-10:19,22 11:3
-15:19,22 20:21
-24:3 49:4,14
-49:18,22 50:2
-50:3,8
-key 57:17
-kicks 45:21
-kind 5:12 22:22
-49:2 55:20
-knew 20:4 44:22
-44:23
-know 6:13 7:12
-10:2,3,4 12:15
-12:25 13:10
-16:15,21 18:1
-25:14 27:5,5,9
-
-28:13 30:24
-34:7 35:14,17
-36:16,17 37:12
-37:14 38:19
-41:1,13,17,18
-42:17 43:20
-44:4 48:11
-51:10,20,23
-52:25 54:5,7
-54:14 56:2
-57:3,20,23
-knowing 28:7
-36:20
-knowingly
-30:10 45:23
-46:23 47:14
-knowledge
-32:11
-knows 10:1
-24:17 26:4
-Knudson 36:13
-41:24 47:21
-L
-label 43:18,23
-laches 46:10
-language 48:5
-large 12:2 14:22
-largely 24:22
-late 51:10
-Latin 6:13
-Laughter 24:11
-law 9:15 10:12
-17:10 31:8
-32:19,20,23,23
-45:4 47:3
-51:17 52:21
-53:1
-lawsuit 14:22,24
-15:2,3 23:8
-31:20 38:14
-40:2,3
-lawsuits 38:21
-lawyer 15:16,17
-16:18 22:19,20
-22:25 23:13,14
-23:17,19,24,24
-
-24:4,17,18,21
-24:24 25:25
-26:2,2 31:3
-32:1,2 44:4,7,9
-44:12,13,13,18
-45:10,19
-lawyer's 23:19
-24:5 32:4
-lawyers 13:20
-23:6,10 24:21
-25:5 45:17
-60:4
-lead 56:19
-leads 17:11
-leave 56:25
-leaving 23:24
-led 20:14 60:10
-left 6:16 8:2,3,3
-10:23 13:8
-legal 8:7 10:12
-11:5 13:24
-25:10 29:12
-35:12 41:18
-43:2,4,11,18
-43:18 51:12,21
-56:20 59:5,6
-59:19
-legend 33:18
-43:9
-legitimate 7:15
-16:23 26:18,19
-lesser­known
-55:20
-let's 50:15 56:4
-57:3,16
-letter 10:21,25
-13:25 14:5
-16:7,14,21
-37:12
-letters 13:18
-14:14 15:15
-38:21
-lien 3:13,16 5:6
-7:7 13:19
-15:18 16:14
-18:14 21:1
-22:11,14 23:22
-
-Alderson Reporting Company
-
-24:4,4,5,5
-26:11 29:11
-30:16,21 31:5
-31:10 33:7
-35:15 36:17
-37:7,8 40:25
-41:16,17 42:6
-42:13 45:9
-46:6 47:1,5,23
-47:25 56:7,14
-58:10
-lien­by­agree...
-7:4
-lien­priority
-47:19
-lienholder 22:5
-22:12 23:22
-liens 18:21
-46:16 56:12
-life 12:3 13:12
-51:10
-light 53:17
-limited 10:6
-17:1 31:9,17
-46:4,6 47:2
-limiting 19:8
-limits 41:7
-line 18:4,10,19
-58:22
-lines 38:6
-lion's 47:12
-list 31:22,23
-litigation 12:16
-26:12
-little 4:23 17:2
-17:16 29:1
-44:2 51:16
-living 5:17
-loan 55:24
-logical 20:19
-long 28:5 34:25
-36:19 37:21
-40:2 48:12
-longer 22:6
-look 12:10 15:25
-33:15 37:12
-40:14 48:2
-
-Official ­ Subject to Final Review
-
-67
-
-53:5 54:11
-55:17 56:4,18
-56:21 57:19,25
-58:8,16,18
-looking 28:21
-51:19
-Los 1:17
-lose 6:14 35:25
-lost 7:12 42:8
-lot 7:13,16 12:16
-12:17 13:12,19
-14:21 25:12
-26:24 47:12
-lowest 5:10 6:25
-luck 16:15 39:14
-39:15
-
-39:14 48:19
-58:20
-meant 21:13
-29:7 51:19
-measures 20:10
-27:19
-mechanical
-40:13
-medical 12:9
-Medtronic 35:9
-meet 41:11
-mentioned
-27:23,24 33:2
-merely 16:21
-merger 51:17
-Merten 29:9
-Mertens 21:19
-M
-29:10 54:8,8
-making 7:3 11:1
-54:21,23 55:3
-15:13 26:16
-mind 20:2 25:20
-28:5 53:9
-44:3
-54:12 55:18
-mine 12:1 20:9
-mandamus
-60:16
-54:10,11,14
-mine­run 28:19
-55:1,1
-minus 30:19
-Marin 37:3
-minute 8:10
-material 4:9
-14:6 15:13
-matter 1:13 5:6
-23:12 57:1
-8:2 11:11 12:4 minutes 55:7
-16:1 17:24
-misappropriat...
-21:19 26:1,5
-34:1
-27:12 60:2,22 misappropriat...
-mean 6:14 7:12
-47:4
-10:20 15:4
-misbehave 16:2
-16:23 19:13
-mischief 5:12
-22:20 23:12,15 miscommunic...
-23:15,18 24:2
-60:9
-29:5 34:7
-mistake 8:4
-37:18,23 38:24 mixed 5:18
-40:6 41:15
-32:21
-44:10 46:14
-model 25:23
-48:17,22 52:21 modesty 6:4
-54:7 56:25
-modified 41:11
-meaningful
-moment 30:21
-13:16 58:20
-31:3 45:16,18
-means 10:7 17:1
-52:14
-18:5 29:4
-momentary
-
-36:21
-Monday 1:11
-monetary 33:11
-43:11 52:1,15
-55:15 56:5,20
-money 3:23 4:23
-5:9,15,23 6:6,7
-6:25 8:8 9:11
-10:5,7 12:6,17
-14:3,8,16 22:9
-24:18,21 28:6
-28:8 30:7 31:3
-32:2,2 36:11
-37:13 39:11,13
-44:3,6,23,24
-44:25 45:1
-48:9,9 49:24
-50:17 58:9
-moneys 17:1
-monitor 12:12
-26:11 37:18
-38:18
-monitoring
-38:20
-Montanile 1:3
-3:4 14:13
-29:21 30:4
-37:20 39:15
-44:22 48:8
-49:2 50:17
-Montanile's
-30:6
-Montanile­like
-50:15
-Montaniles
-39:11
-months 14:13
-20:4 28:11
-morning 3:4
-49:19,20
-N
-N 2:1,1 3:1
-narrower 21:12
-narrowly 19:17
-NASP 38:12
-National 1:7 3:5
-
-nature 29:8
-NEAL 1:23 2:10
-29:16
-necessary 14:1,1
-need 19:21 20:1
-37:12 51:13
-58:22
-needed 28:17
-52:10
-needs 18:9
-negotiation
-14:13
-net 25:9,9
-never 6:22 41:6
-51:4
-new 6:25
-nineteenth
-54:14
-nonfiduciary
-18:13
-normally 23:1
-note 56:19
-noted 27:2
-notice 13:18,22
-22:21 26:11
-44:18
-noticed 38:11
-notified 15:10
-notify 15:18
-16:17
-November 1:11
-number 34:10
-38:10 58:20
-O
-O 2:1 3:1
-obligation 9:25
-25:15
-obligations
-27:14 28:17
-44:19
-obviously 18:18
-48:13 49:16
-occur 38:11
-odds 18:5,18
-oh 5:18 17:4
-58:1 59:16
-
-Alderson Reporting Company
-
-okay 9:6 17:15
-43:24
-once 12:6 22:5
-22:10 50:17
-one's 41:19
-onerous 57:23
-ones 12:11
-open 8:3 10:23
-opinion 8:24
-33:23 36:25
-52:3 55:20,21
-opinions 52:1
-opposed 41:18
-opposing 4:22
-13:5
-oral 1:13 2:2,5,9
-3:8 19:1 29:16
-order 19:19
-20:11 34:15,23
-35:9
-ordinary 17:12
-originally 22:11
-Orr 47:6
-Otis 33:23 35:13
-36:24 43:13
-47:4
-ought 36:5
-outright 9:8,10
-9:14,20,25
-outset 3:21 42:5
-outside 12:13
-overpaying
-46:20
-overpayments
-28:5 46:17,18
-overrun 12:21
-overturned
-21:18
-owes 36:10 48:8
-50:17
-P
-P 3:1
-page 2:2 4:21
-56:13,19
-pages 53:18
-paid 14:7,7
-
-Official ­ Subject to Final Review
-
-68
-
-23:17
-Pardon 13:23
-part 8:16 19:25
-30:11 43:9,25
-55:20 58:11
-60:17
-participant 8:19
-9:11 15:15
-21:21
-participant's
-15:16
-participants
-7:25 16:3
-57:11
-particular 40:8
-60:5
-particularly
-17:21
-parties 35:12
-party 26:10 41:5
-44:13 59:23
-passing 12:17
-pattern 9:9
-pay 55:25
-paying 19:19
-25:10 27:16
-payments 8:25
-9:1
-pays 45:9 48:10
-peculiar 46:1
-pend 34:12,15
-pendent 43:16
-44:1
-pending 9:2
-penny 32:8,9
-pension 8:13
-11:12 17:25
-28:3 46:18,20
-people 7:2 13:18
-13:19,22 16:1
-16:25 17:6
-38:23 39:15,21
-49:1 51:13,14
-58:14
-perfect 14:12
-41:12
-period 28:5
-
-permit 23:21
-30:11 33:10
-permits 27:15
-permitted 43:3
-person 10:6 14:2
-14:9 24:16,17
-24:19 25:16
-30:1 32:11
-34:25 36:7,16
-37:12 49:9
-56:12
-perspective 7:21
-10:17
-persuasively
-57:13
-PETER 1:17 2:3
-2:13 3:8 55:8
-petition 58:3
-59:1,9
-Petitioner 1:4,18
-1:22 2:4,8,14
-3:9 19:3 55:9
-phrase 6:13
-pick 13:1 17:18
-17:20 26:15
-piece 44:5,6,9
-place 58:14
-placed 41:7
-plaintiff 23:21
-34:2
-plaintiffs 21:5
-plan 1:8 3:6
-7:10,19 8:7,16
-10:4,9 14:18
-15:9 19:10,19
-20:3,4,14,25
-21:2,21 22:19
-22:25 26:14,19
-26:23 27:17
-28:4,10,16
-29:22,24,25
-30:2 38:20,22
-39:2,9 44:19
-46:20 47:1,15
-49:8 53:17
-57:11
-Plan's 30:1,7
-
-44:24 49:24
-plans 9:19 12:7
-12:18 14:4,5
-15:12 16:4
-17:3 19:21
-20:1,9 25:4,13
-26:8 27:4,10
-27:13,19 38:11
-38:18,18 39:13
-53:15 57:21,24
-playing 44:23
-please 3:11
-15:18 19:5
-29:19
-pocket 26:4
-30:18
-point 6:18 7:3
-7:13 10:16
-11:23 13:15
-16:1,23 17:15
-18:1 26:15
-27:12 33:9
-35:1 36:2
-37:24 38:25
-42:5 50:14
-53:14 59:24
-pointing 38:7
-points 55:11
-policing 9:20
-policy 12:19
-17:24 18:7
-28:21,21 38:3
-38:3,8 39:4
-57:8,10 58:12
-policymaker
-17:17,21 28:10
-policymakers
-26:17
-Pomeroy 40:14
-40:16,22 41:1
-56:11
-Pomeroy's
-40:19
-poorer 24:22
-pops 37:20
-position 4:22 6:5
-10:15 18:3
-
-20:14,18,21
-21:24 31:2
-49:5 57:4
-58:13,18 59:9
-59:15 60:5,6
-60:15
-Posner 35:8
-possessed 30:4
-possession 3:18
-17:5 18:15
-20:25 23:19
-31:21 34:25
-40:4 41:25
-42:1
-possible 25:4
-pot 5:18
-potential 15:14
-28:15
-practice 8:18
-precedence
-41:14
-precedents
-38:25 42:10
-54:12
-precise 59:8
-precisely 5:11
-56:2 59:5
-60:17
-preempted 7:18
-10:12
-preemptive 9:19
-preliminary
-52:23,24
-prepared 32:22
-present 17:5
-presented 60:12
-preserved 41:9
-preserving
-13:14
-presumably
-13:4 45:15
-presumed 5:24
-22:8
-pretty 14:9
-15:25 19:17
-37:9,18
-prevail 6:3,6
-
-Alderson Reporting Company
-
-11:15
-prevent 5:11
-23:11 48:22
-primary 41:4
-principle 41:3
-59:20
-prior 24:4,6
-priority 47:23
-47:25 48:3,8
-48:20 50:4,11
-pro 6:13
-probably 21:7
-23:3 37:17
-problem 12:18
-14:10 16:23,25
-22:18 23:5
-38:16 57:6
-problems 38:10
-procedurally
-4:20
-procedures 27:3
-proceeds 5:17
-21:3 49:7,7
-product 3:17
-18:22 21:4
-profit 33:13
-37:6 38:19
-39:22 40:24
-42:14 51:5
-profiting 46:2
-progressed
-51:13
-prohibited 53:9
-53:9
-prohibits 46:16
-promise 8:10
-44:21
-promise­brea...
-7:14,17
-promises 16:3
-promptly 12:14
-12:23,23,24
-17:7
-promulgated
-52:18,22
-prong 9:16
-property 3:17
-
-Official ­ Subject to Final Review
-
-69
-
-18:15,21 21:3
-26:10
-proposition
-35:24 56:23
-60:4
-protect 17:8
-20:11 28:18
-37:10 57:21
-protected 26:20
-protecting 19:22
-prove 57:11
-proven 17:6
-provide 4:7
-provides 29:24
-provision 7:18
-7:20
-provisions 16:5
-public 38:13
-punch 37:19
-punitive 31:9
-46:7
-purchaser 22:22
-26:7
-pure 11:1
-purport 60:11
-purpose 18:6
-57:5
-purposes 7:23
-8:18 18:18
-push 56:3
-put 3:25 5:2,14
-5:24 13:8,18
-13:21 14:8
-16:16 17:16
-26:4 32:6 49:7
-puts 21:25
-putting 5:9
-Q
-question 5:20
-8:12 9:22
-11:19 19:7
-25:1 28:14
-38:7 41:23
-42:9,11 44:10
-44:11 50:24
-54:5 60:12
-
-questions 4:3
-4:19 5:4 38:14
-29:7 32:23
-55:5
-recover 8:8 15:5
-33:2 39:23
-quibble 42:3
-16:15 26:20,25
-41:7 51:9
-quibbling 54:23
-31:14,14 32:19 remedy 7:4 8:17
-quote 29:22,25
-33:6,16 37:5
-8:23 9:13 10:9
-33:23 40:12,22
-45:2,22 50:18
-12:4,6 17:2
-quotes 40:19
-recovered 39:7
-19:10 29:2
-quoting 21:3
-recovery 12:12
-31:8 32:21
-15:14 25:10
-40:1 41:4 42:8
-R
-27:9 33:24
-42:20,21 44:17
-R 3:1
-39:16
-48:21 53:22
-rare 10:6,10
-reflect 33:12
-55:15 56:3
-reach 7:24 46:13 reflected 22:4
-repeatedly 3:15
-46:18
-reflects 30:12
-9:2 18:12
-read 7:5 41:14
-refuse 55:25
-representation
-42:23 53:17
-regard 14:12
-59:25
-reading 42:17
-regime 10:14
-represented
-reads 25:7
-reimburse 29:22
-59:14,23
-reality 10:10
-reimbursement representing
-12:2 30:12
-7:18 19:19
-11:15
-really 28:13,24
-20:5 27:16
-require 25:8
-51:9,18 56:23
-28:12 39:8
-requirement
-reason 18:1 20:2
-44:19 49:6
-17:5 34:18,22
-27:4 30:9
-reimbursing
-requirements
-34:22 44:12
-28:8
-41:11
-57:2
-reinstate 53:25
-requires 44:18
-reasonable
-reiterated 18:13 reserve 18:23
-26:17 58:18
-rejected 55:18
-resolve 35:12
-reasonably 5:12 release 30:1
-60:12
-reasons 34:9
-relevant 42:11
-resolved 37:22
-43:19 53:12
-relied 21:2
-respect 41:8
-REBUTTAL
-relief 18:14 19:8
-42:9 44:8
-2:12 55:8
-19:8,12,14,16
-48:17 51:23
-receive 4:13
-20:17 21:1,21
-52:17 57:9
-received 4:15
-29:10 34:3
-58:4
-22:20,21
-40:8,9 56:20
-respond 52:14
-receives 8:4 9:11 relying 51:9
-Respondent
-23:17 25:10
-52:7
-1:24 2:11
-recipient 13:6
-remained 22:13
-29:17 58:12
-recognize 54:13 remaining 4:24 Respondents
-recognized
-34:15 55:7
-27:21
-39:21 48:24
-remains 21:4
-responsible
-59:19
-remand 6:4,6
-11:21 28:7
-recognizes 59:22 remarkable
-rest 48:17
-recognizing
-35:18
-Restatement
-53:11 54:20
-remedies 8:21
-47:20 48:5
-record 4:6,8,11
-10:12 26:9
-50:19 56:10
-Alderson Reporting Company
-
-restitution 41:16
-54:10 56:10
-restitutionary
-56:8
-result 11:16
-13:2 14:21
-right 6:13 9:23
-10:2 13:7
-15:12 20:23
-23:4,9,24 25:2
-26:6 30:9
-33:16,17 34:2
-34:6 35:7
-37:21 38:24
-39:3,11 41:5,6
-42:22 43:5
-48:9 50:10,11
-57:22
-rightly 42:17
-rights 6:2 17:8
-19:22 20:11
-26:21 28:18
-37:14 39:22
-58:21
-ring 26:3
-rings 25:24
-risk 58:15
-risks 15:11
-ROBERT 1:3
-ROBERTS 3:3
-6:12 11:14
-12:22 13:4
-14:17 15:1,4,7
-15:9 16:6,12
-18:24 21:8,11
-26:22 29:14
-37:9 38:24
-41:13 48:7
-55:6 58:25
-59:10,13 60:3
-60:19
-robust 5:7 7:4
-rule 5:11 6:20
-7:22 11:4,8
-13:1 17:18,20
-17:22 18:20
-22:4,15 28:2
-
-Official ­ Subject to Final Review
-
-70
-
-31:11 33:16,19
-33:19 36:13
-37:5,6 39:25
-45:21 46:19,19
-47:3 52:9,18
-52:20,22,22,25
-53:3,3 57:9
-58:18 59:5,6
-59:25
-rules 5:5,6,7,22
-19:23 23:10
-27:13,20 31:17
-40:13 41:21
-51:3,12,15
-run 12:1 20:9
-60:16
-running 18:2
-
-second 9:16
-29:24 30:6
-33:13 40:24
-46:2 53:21
-54:2 55:23
-second­best
-48:21
-Section 40:15
-41:2 47:22
-55:19 56:11
-Security 46:17
-see 7:16 12:16
-20:9 24:15,23
-37:17 58:9
-60:14
-seek 20:6 26:13
-seeking 53:21
-seeks 33:24
-S
-seen 9:10 15:24
-S 2:1 3:1
-16:3,4
-safe 26:1
-sense 17:12,13
-satisfied 9:17
-19:7 28:9
-satisfy 22:14
-39:19,19 47:12
-saying 16:14
-50:25
-26:25 29:21
-sensible 6:20
-33:6 36:15
-7:22
-39:4,9,18 41:2 sensitive 15:13
-42:20 43:1
-separate 4:1
-45:22 48:4
-16:16
-54:24 59:13,17 Sereboff 18:13
-says 10:4 14:9
-20:20 21:18
-30:20 33:23,23
-30:2 41:15
-36:13 40:12
-42:1 52:3
-41:25 42:1
-53:13
-43:10 44:16
-set 5:2 27:4,10
-46:18 47:8,24
-29:2
-50:19,20 52:21 set­off 8:22
-56:19 58:19
-Settle 39:12
-Scalia 23:12,23 settled 5:21
-24:7,9 25:6
-38:13 49:19
-27:22 34:5,8
-settlement 3:23
-34:17,20,24
-5:19 6:7,9 12:2
-35:3,20 36:5
-12:4 14:6,19
-36:10,15,23
-19:18 29:23
-40:5,11,16,19
-30:23,24 45:20
-51:2
-settlements
-scope 43:7
-27:16 38:11
-
-Seventh 43:19
-Shafer's 56:18
-share 47:12
-sheet 4:25
-shift 20:14 29:1
-show 37:15
-shows 59:4
-side 7:6 13:3
-20:13 27:23
-28:22 32:22
-38:9 46:12
-47:8,21 53:10
-54:20 55:13
-56:9
-sides 13:2 26:18
-signed 29:21
-significant
-37:24
-simple 11:20
-27:3 30:8
-47:11
-simply 26:25
-33:1 48:4
-54:24
-single 53:7 56:6
-sitting 7:16 16:2
-situation 20:8
-23:2,21 24:13
-26:7,16 28:4,9
-33:20 40:23
-49:15 50:15
-situations 22:24
-25:4 26:9
-46:13
-six 14:13
-Social 46:17,17
-Solicitor 1:19
-39:25 53:13
-solution 13:11
-solve 23:5 43:24
-somebody 26:3
-27:8 37:13
-44:4 48:9
-somewhat 20:16
-soon 37:10
-sophisticated
-11:21
-
-sorry 15:1 21:10
-58:25
-sort 16:8 41:19
-sorts 43:21
-Sotomayor
-30:15 31:2,18
-42:16,23 43:6
-43:8 44:2,20
-sounds 34:7
-50:5
-speaking 39:24
-specific 3:16 5:3
-18:21 37:6
-38:6 46:16
-47:17
-specifically
-43:23
-spend 6:15,25
-10:5 13:7
-24:20 28:6,9
-38:20,20 39:11
-39:12
-spending 5:10
-6:1 14:2 22:9
-30:7 42:8 45:2
-47:9,10
-spends 8:6 44:25
-46:22
-spent 5:16 6:6
-10:7 12:6 22:7
-48:15 49:22
-50:7,16 58:10
-spin 33:19
-spirit 18:8
-split 11:9 44:11
-58:5,6,11
-59:17 60:10,18
-spot 51:22 57:3
-squeeze 56:3
-stand 49:11
-standard 36:13
-46:11 57:2
-stare 11:1
-start 4:2,5 7:1
-19:6 44:25
-State 10:12 15:3
-32:19,19,23
-
-Alderson Reporting Company
-
-States 1:1,14,21
-2:7 19:2 24:3
-statute 46:16
-statutes 32:19
-statutory 11:1
-stop 9:19
-Story 36:25
-45:25
-Story's 52:5
-straight 55:14
-strikes 41:21
-Stris 1:17 2:3,13
-3:7,8,10,19 4:4
-4:14,18 5:4,13
-5:20 6:17 7:11
-8:9 9:1,6,16,24
-10:13,17,20,24
-11:7,18 12:25
-13:15,23 14:4
-14:20 15:3,6,8
-15:11,20,24
-16:10,20 17:9
-17:15 55:7,8
-55:10 59:3,12
-59:16 60:8
-strong 54:24
-57:8,10
-stronger 17:24
-structure 19:18
-27:15
-stuff 38:18
-stunned 58:1
-subject 6:16
-22:11 23:7
-submitted 12:10
-60:20,22
-subrogation
-11:11 12:13
-15:14 17:23
-37:14 57:20
-59:18,21 60:1
-60:13
-substance 41:8
-substantial 39:5
-substantially
-12:21
-substitution
-
-Official ­ Subject to Final Review
-
-71
-
-42:24 52:15
-substitutionary
-33:10 36:21
-43:11 51:25
-55:15 56:4,20
-sue 22:19,25
-24:24 25:5,5
-32:6,18 36:17
-37:13
-sued 3:12
-sufficient 22:14
-suggest 43:13,15
-54:13 59:6
-suggested 55:2
-suggesting 48:15
-suggestive 53:3
-suit 20:7 35:4
-36:6
-suitable 37:11
-suits 26:12
-summary 4:23
-support 40:17
-56:23
-supported 45:3
-supporting 1:21
-2:8 19:3
-supports 39:17
-suppose 9:4 13:7
-Supreme 1:1,14
-sure 15:13 16:16
-16:17,22 36:24
-46:2 57:23
-surprised 60:4
-sweep 9:19
-sweet 31:15 46:9
-48:18
-swollen 6:21,24
-33:11 47:6
-51:23
-system 11:5
-51:21
-T
-T 2:1,1
-take 7:17,24 8:8
-20:11 24:10
-26:3 27:20
-
-46:9 48:18
-52:8,9 60:5,15
-taken 20:18
-27:19 32:10
-38:22
-takes 24:18
-26:10 31:25
-45:14,15,16
-48:9
-talk 56:11,11,12
-talking 15:12
-16:8 55:24
-56:10
-talks 37:2 47:4,4
-47:22 56:5
-tangible 32:15
-tanto 6:13
-technical 41:21
-41:22
-tell 8:14 17:19
-18:20 22:2
-39:10 58:7
-telling 39:10
-tells 58:13
-tend 24:21
-terms 7:20 9:13
-53:17 58:17
-test 18:16,19
-29:2 38:5 54:7
-54:22 57:15
-textual 54:17
-Thank 3:10
-18:24 29:14,18
-55:6,10 58:24
-60:19
-theory 6:22,24
-32:25 33:4,5
-35:14 47:7
-thing 4:10 8:14
-13:25 30:22,23
-42:7 45:15,16
-45:22 56:17
-things 13:10
-19:13 26:13,23
-26:23 28:20
-29:20 38:1,3
-45:1,2 51:19
-
-55:16
-think 4:4,6,18
-5:5 7:5,9,11,12
-7:23 8:5,11 9:8
-9:13 10:8,9,20
-10:24 11:10,19
-12:20 13:16
-15:25 16:10
-17:17,20,23
-18:6,12,18
-19:9,15,23
-20:1,8,15,15
-20:19 21:15,19
-22:4,24 23:3,9
-23:10,20 24:1
-24:8,13 25:2,3
-25:3,6,12 26:8
-26:16 27:11,11
-28:9,13,18,20
-28:23 29:4,6
-30:16,16 33:18
-34:9,19 35:2
-35:23 37:23
-38:3,4,8 39:5
-40:18 44:15,20
-45:12,13,14
-46:14 48:24,25
-49:1 51:18
-52:7,19,23
-53:2,7,10 54:2
-54:17 56:21
-57:1,9,13,16
-58:13,17,22
-thinking 7:21
-25:20
-third 26:10 30:2
-42:5 54:4
-thought 10:22
-21:8,9,11,13
-24:3 29:12
-50:3 51:13,15
-52:11 53:8
-three 8:4 10:1
-29:20 33:9
-38:1,6 45:4
-53:12 54:8
-55:4
-
-throes 51:20
-time 4:15 8:12
-21:15 22:18
-27:8 28:6
-29:12 32:6,6
-37:11 40:2,3
-46:2 47:10,11
-times 8:5 10:2
-title 30:22,23
-45:15,16 53:20
-today 20:18
-21:17
-tort 12:2,4,11,12
-15:6,7 27:8
-tortfeasor 15:16
-45:9
-tortfeasor's
-15:17
-total 5:25
-totally 18:5
-48:15
-trace 23:22 26:9
-32:15 47:17
-48:12,14 49:16
-50:6
-traceable 3:17
-18:22 50:8
-tracing 5:7,22
-6:16 47:11,12
-47:13,19 48:12
-49:17
-tracks 47:3
-tradition 39:17
-43:16,22 47:3
-52:4 53:4,16
-traditional
-14:25
-traditionally
-38:5 54:9,19
-54:20,25 55:2
-traditions 33:9
-45:4 51:2 53:6
-treatise 37:1
-40:14 52:5
-treatises 40:15
-40:23
-trial 43:21
-
-Alderson Reporting Company
-
-TROs 38:21
-true 19:15,20
-36:3,3 41:3
-60:8
-trust 21:5 55:23
-trustee 25:24
-47:16
-Trustees 1:6 3:5
-try 7:19,19
-17:11 27:2
-31:19,19 33:18
-46:1 53:14,25
-trying 6:18 16:4
-35:24 39:4
-40:8,24 48:3
-53:17,22 56:2
-59:11
-turn 25:9 43:25
-twice 54:14,16
-two 21:20 25:24
-38:10 55:1,11
-type 8:19 29:9
-29:10 38:15
-typically 29:2,6
-51:20 54:6
-56:1
-U
-ultimate 15:21
-unbroken 18:4
-18:19
-unconscionabi...
-46:10
-underlying
-44:14 47:1
-understand 8:2
-8:6 13:15
-17:13 25:1
-49:5 51:2
-understanding
-21:12,16
-undisputed
-29:20
-unfortunately
-10:8
-United 1:1,14,21
-2:7 19:2
-
-Official ­ Subject to Final Review
-
-72
-
-55:13
-urban 33:18
-43:9
-use 48:5
-usually 8:15
-
-33:3,5,6 36:14
-38:2,6 42:7
-43:12,24,25
-45:22 48:2,4
-50:14 51:19
-52:7 53:21,22
-V
-54:2,23,23,24
-v 1:5 3:4
-57:7,14,14
-valid 30:13
-we've 7:11 20:18
-31:12 35:10
-27:2 29:2 42:8
-36:4 42:12
-51:18,19
-44:21 47:5
-weigh 28:15,21
-value 26:7 31:14 weight 39:6
-33:6
-weren't 9:4
-variety 13:10
-44:24
-46:14
-Westlaw 38:15
-view 6:21 8:16
-whatsoever 33:5
-18:2,7 20:16
-38:14
-45:20 47:11
-wife 32:12
-53:24
-willing 58:12
-VII 53:20
-wins 39:2
-violated 41:6
-wish 56:22
-wonderful 34:5
-W
-wondering
-wages 7:2
-13:11
-wait 23:12 35:20 word 17:13
-waited 20:4
-words 12:5
-want 4:5,6 6:4
-51:10
-49:4 51:16
-work 5:5 51:16
-55:15 58:14
-worked 5:22
-wants 47:16,16
-6:19 8:19 22:6
-Washington
-working 51:15
-1:10,20,23
-world 39:11
-wasn't 20:3
-47:9 48:12
-22:13 34:16
-51:12
-44:24 55:2
-worried 11:23
-way 6:3,5,15,19
-11:24
-8:18 13:17
-worry 5:12
-16:14 19:23
-worth 27:7
-22:6 51:15
-wouldn't 5:6
-53:19
-9:17 19:10
-ways 14:21
-24:23 25:8,8
-57:21
-34:22 43:4
-we'll 3:3 37:15
-write 13:18 14:5
-we're 6:5 7:21
-15:14 37:11
-14:15 15:12
-writing 38:21
-17:18 30:5
-written 11:6
-
-30:1 53:14
-wrong 24:5 30:6
-33:13 35:24
-40:24 41:5
-42:12,15 55:23
-wrongdoing
-33:14 37:7
-39:22 46:3
-51:6 54:2
-wrongful 47:5
-wrongfully
-33:20 47:14
-X
-x 1:2,9 24:16,17
-24:19
-Y
-Yeah 24:7
-year 39:7 52:2
-59:2
-years 28:11
-Z
-0
-
-200,000 4:16 5:1
-22:21 24:18
-45:11
-2015 1:11
-215 47:22 56:11
-23 53:18
-24 53:18
-29 2:11
-3
-3 2:4
-300,000 24:19
-35 56:13
-37 56:19
-4
-407(a) 46:16
-5
-500,000 22:20
-30:17,18,19,23
-31:4,23 45:20
-50:12
-502(a)(3) 30:3
-55 2:14
-6
-
-1
-10 53:3
-10:00 39:12
-49:19
-10:01 39:12
-10:04 1:15 3:2
-10:30 49:20
-11:04 60:21
-111 40:15 41:2
-121,000 31:5
-32:7,10
-14­723 1:4 3:4
-1828 52:5
-1864 52:17,22
-1880 56:13
-1897 52:1
-19 2:8
-1930s 51:24
-
-6 56:19
-64 4:21
-7
-73 52:22
-8
-9
-9 1:11
-92 52:18
-
-2
-200 4:17
-
-Alderson Reporting Company
 
 

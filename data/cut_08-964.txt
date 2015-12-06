@@ -7,7 +7,7 @@ OF THE
 
 UNITED STATES
 
-CAPTION:	
+CAPTION:
 
 BERNARD L. BILSKI AND RAND A. WARSAW,
 Petitioners, v. DAVID J. KAPPOS, UNDER SECRETARY
@@ -15,19 +15,19 @@ OF COMMERCE FOR INTELLECTUAL PROPERTY
 AND DIRECTOR, PATENT AND TRADEMARK
 OFFICE
 
-CASE NO:	
+CASE NO:
 
 No. 08-964
 
-PLACE:	
+PLACE:
 
 Washington, D.C.
 
-DATE:	
+DATE:
 
 Monday, November 9, 2009
 
-PAGES:	
+PAGES:
 
 1-53
 
@@ -377,7 +377,7 @@ says that the -- that the term on which it hangs its hat
 
 13
 
-is the term “useful arts” and that that meant,
+is the term "useful arts" and that that meant,
 
 14
 
@@ -397,7 +397,7 @@ how to win friends and influence people.
 
 18
 
-What’s wrong with that analysis, that
+What's wrong with that analysis, that
 
 19
 
@@ -488,7 +488,7 @@ the circuit would say, let's go narrow, and we
 
 13
 
-won’t have -- you know -- since you referred to
+won't have -- you know -- since you referred to
 
 14
 
@@ -701,7 +701,7 @@ characterize it that way, but I do believe that --
 No, Your Honor.
 
 JUSTICE SOTOMAYOR:
-something that’s reasonable?
+something that's reasonable?
 
 So how do we limit it to
 Meaning, if we don't
@@ -985,7 +985,7 @@ I reject that view, hypothetically, and suppose I were
 
 14
 
-to take the view that this is way too far, that that’s
+to take the view that this is way too far, that that's
 
 15
 
@@ -1368,7 +1368,7 @@ of steps, it should be eligible as long as it meets the
 17
 
 other statutory requirements as a process.
-There’s nothing in the useful arts -- now,
+There's nothing in the useful arts -- now,
 
 18
 19
@@ -1377,7 +1377,7 @@ we have heard the word "technology."
 
 20
 
-difficult term, because “technology” in its broadest
+difficult term, because "technology" in its broadest
 
 21
 
@@ -1546,7 +1546,7 @@ JUSTICE SOTOMAYOR:
 
 Or they exist because
 
-computers have increased –MR. JAKES:
+computers have increased �MR. JAKES:
 
 3
 
@@ -1804,7 +1804,7 @@ obviousness.
 
 5
 
-And really –-
+And really �-
 
 JUSTICE SCALIA:
 
@@ -2147,7 +2147,7 @@ But today the raw
 
 Well, isn't the
 
-manipulation of electronic signals a substance that’s
+manipulation of electronic signals a substance that's
 
 18
 Alderson Reporting Company
@@ -2279,7 +2279,7 @@ can really slow things down and destroy advance.
 
 3
 
-there’s a balance.
+there's a balance.
 
 4
 
@@ -2331,7 +2331,7 @@ myself in respect to your argument.
 
 14
 
-to that, I’d say:
+to that, I'd say:
 
 16
 17
@@ -2547,7 +2547,7 @@ Even Bell's claim, the
 
 So I
 
-Well, if that’s -But it would be different,
+Well, if that's -But it would be different,
 
 8
 
@@ -2557,7 +2557,7 @@ it seems to me, than what you are -- let's assume you
 
 can't patent an alphabet.
 
-I assume that’s true.
+I assume that's true.
 
 And
 
@@ -3076,7 +3076,7 @@ as well.
 10
 11
 
-If there are no questions, I’ll reserve
+If there are no questions, I'll reserve
 the rest of my time.
 
 CHIEF JUSTICE ROBERTS:
@@ -3278,7 +3278,7 @@ risk.
 
 5
 
-good case for us to get into these –- into
+good case for us to get into these �- into
 
 6
 
@@ -3463,7 +3463,7 @@ amici were talking about how it will destroy industries.
 
 20
 
-If we’re unsure about that, wouldn't the safer practice
+If we're unsure about that, wouldn't the safer practice
 
 21
 
@@ -3534,7 +3534,7 @@ case had not raised any objection under section 102 or
 
 9
 
-103, and, therefore, the Federal Circuit –-
+103, and, therefore, the Federal Circuit �-
 
 10
 11
@@ -3691,7 +3691,7 @@ mean -- and Diehr has these words in it, similar words;
 
 17
 
-it just says “e.g.” -- are you following me?
+it just says "e.g." -- are you following me?
 
 18
 
@@ -3718,7 +3718,7 @@ They have pulled back.
 
 22
 
-They’ve pulled back insofar as they are pulling back
+They've pulled back insofar as they are pulling back
 
 23
 
@@ -3804,7 +3804,7 @@ MR. STEWART:
 
 They've
 
-We’re not sure.
+We're not sure.
 
 Let me take those points -Yes.
 
@@ -3829,7 +3829,7 @@ raised in these 80 briefs insofar as possible, say
 
 17
 
-there’s a lot there for the future that we can't really
+there's a lot there for the future that we can't really
 
 18
 
@@ -3849,7 +3849,7 @@ The first thing is that in Diehr when you had
 
 21
 
-the “e.g.” cite, it was "e.g., transforming an article
+the "e.g." cite, it was "e.g., transforming an article
 
 22
 
@@ -3946,7 +3946,7 @@ manufacturing items.
 
 18
 
-series of steps that you have to go through, but it’s
+series of steps that you have to go through, but it's
 
 19
 
@@ -4600,7 +4600,7 @@ that have been undertaken for centuries.
 
 JUSTICE SOTOMAYOR:
 
-Well, but that –- that
+Well, but that �- that
 
 6
 
@@ -4656,7 +4656,7 @@ But even if we assume that
 
 JUSTICE GINSBURG:
 
-It is -- it is -–
+It is -- it is -�
 
 Mr. Stewart, did you --
 
@@ -4760,7 +4760,7 @@ of patent, and if it's not technology, it isn't.
 
 12
 
-it’s based on science or technology -- and that seems to
+it's based on science or technology -- and that seems to
 
 13
 
@@ -5245,7 +5245,7 @@ to be a different, special purpose computer, as the
 
 16
 
-phrase –-
+phrase �-
 
 17
 
@@ -5335,11 +5335,11 @@ backtrack.
 
 Well, I guess -- let me
 
-If you look at the text of the statute –-
+If you look at the text of the statute �-
 
 10
 
-it’s reproduced at page 2 of the Blue Brief -- and it
+it's reproduced at page 2 of the Blue Brief -- and it
 
 11
 
@@ -5415,7 +5415,7 @@ that is what I was saying.
 45
 Alderson Reporting Company
 
-I don’t think
+I don't think
 
 Official
 
@@ -5433,7 +5433,7 @@ MR. STEWART:
 
 3
 
-What I was saying is that –-
+What I was saying is that �-
 
 4
 
@@ -5548,7 +5548,7 @@ example that I just gave, that I thought were examples
 
 3
 
-that certainly wouldn’t be patented, you simply patent
+that certainly wouldn't be patented, you simply patent
 
 4
 
@@ -5633,7 +5633,7 @@ JUSTICE KENNEDY:
 
 22
 
-thought we’d mess it up.
+thought we'd mess it up.
 
 23
 
@@ -5868,7 +5868,7 @@ say that's not so are, first, under the canon of
 
 21
 
-noscitur a sociis, it’s appropriate to construe the
+noscitur a sociis, it's appropriate to construe the
 
 22
 
@@ -5949,11 +5949,11 @@ And the third thing I would say is that in a
 
 15
 
-sense, there’s a strong “dog that didn't bark in the
+sense, there's a strong "dog that didn't bark in the
 
 16
 
-night” quality to our argument; that is, even though the
+night" quality to our argument; that is, even though the
 
 17
 
@@ -6056,7 +6056,7 @@ at and should be looking at is:
 
 an abstract idea?
 
-The question we’re looking
+The question we're looking
 Are we trying to patent
 
 Now, the government has gone farther than
@@ -6948,7 +6948,7 @@ doctor 8:4,7,25
 dog 50:15
 doing 16:2 19:2
 22:17
-don’t 45:24
+don't 45:24
 drafters 49:1
 drafting 17:16
 draw 35:24
@@ -7015,1972 +7015,5 @@ ESQ 1:20,22 2:3
 essence 30:3
 essential 33:19
 essentially 34:13
-
-Official
-Page 57
-
-38:17
-establish 29:2
-established 3:19
-establishing
-34:7
-estate 5:25
-Europe 12:24
-event 38:5
-exactly 19:14
-22:21
-examination
-52:15
-example 7:19
-8:3 47:2 49:4
-examples 47:2
-exception 38:23
-39:1
-exceptions 4:1
-exchange 14:18
-14:24 19:6
-21:22
-exclude 7:15,16
-13:12,15 19:12
-21:24 51:15
-exclusions 3:22
-exclusive 14:23
-37:18
-exclusively
-37:14
-exempt 5:21
-exempted 5:20
-exist 13:21,23
-14:1 16:6,9
-49:24
-existed 16:8
-43:18 44:12
-expectancy 11:2
-11:3 12:11
-expires 14:20,21
-explain 6:17
-19:5
-explained 50:9
-explanation
-11:6
-explicitly 38:12
-explosion 13:19
-
-extent 35:25
-extreme 38:10
-extremely 49:13
-e.g 31:17 32:21
-32:21,23
-F
-fabulous 9:7
-face 51:7
-facts 37:2,3
-41:22
-fair 23:4
-fairly 28:10 31:6
-fall 51:20
-falls 8:18
-far 9:14
-farther 51:14
-Federal 3:11 4:8
-19:4 25:6,7
-28:11,12,15,19
-28:23 29:8,14
-30:1,9 31:1,20
-35:7,9 38:10
-39:20,21,24
-41:21,23 44:21
-48:16 51:5,25
-feel 5:8
-feeling 48:6
-fees 14:9
-fields 13:17,19
-37:17
-file 6:18
-filed 41:11
-financial 13:18
-find 3:16 4:3
-20:12 34:14,24
-35:2
-fine 7:16 9:12
-firm 6:9
-first 7:14 9:20
-28:9 29:1
-32:20 34:11
-37:21 40:19
-46:4,15 47:15
-49:20
-fit 42:19
-fixed 10:4,5
-
-52:23
-flagged 32:7
-Flook 38:4,18
-flour 33:15
-flow 14:5,8,10
-FM 22:2
-focus 23:3
-focusing 40:16
-follow 20:15
-49:3
-followed 9:9
-41:21
-following 26:19
-31:17
-footnote 33:24
-35:18 36:17
-force 7:1
-foreclosed 50:23
-forgetting 41:22
-form 52:2,2,4,6
-forming 22:25
-forth 22:11
-fortune 6:15
-forward 39:18
-forward-looki...
-18:22
-found 4:9
-four 4:7 12:14
-19:19 20:21
-Framers 6:23
-framing 27:22
-frankly 48:9
-free 14:5,8,10
-friends 4:17
-27:3
-function 49:8
-functionality
-36:9,13
-functions 43:15
-46:24
-fundamental
-35:4
-fundamentally
-50:20
-further 50:24
-future 29:9
-
-32:17
-
-granted 6:18
-51:22
-G
-great 6:24 9:2
-G 3:1
-grocer 12:3
-general 1:22
-36:21
-6:17 12:22
-grocery 36:21
-15:14 17:14,22 ground 28:2,8
-generality 27:4
-grounds 16:2
-generally 14:18 guess 5:11 34:8
-General's 7:12
-35:4 37:4,20
-generated 25:11
-45:8 46:4
-getting 20:1
-49:19
-GINSBURG
-H
-5:23 12:23
-13:8 39:17
-hand 32:3
-40:3,8 48:10
-hangs 4:12
-48:16
-happen 48:20
-give 8:3 11:10
-hard 28:20 35:9
-13:23 14:23
-35:23 36:3
-36:22
-48:2,8
-given 20:21
-hardware 46:16
-36:12
-46:19
-give-and-take
-harm 20:11,11
-23:4
-hat 4:12
-giving 19:21
-head 52:25
-go 5:12 6:22 8:6 hear 3:3
-9:19 12:9
-heard 12:19
-17:12 19:1
-hearing 39:22
-21:2 27:16
-heart 34:16
-28:24 33:18
-hedging 8:22
-35:14 38:10
-10:17 28:3
-45:23
-34:10 39:1
-goes 39:6,6
-48:23
-going 9:1,10
-held 29:24 30:17
-10:18 30:11
-30:19 31:1,2
-36:20 47:10
-33:4 38:4,12
-good 8:3 20:11
-38:19
-28:5
-help 8:14 19:15
-Gottschalk
-38:9
-41:10
-helps 6:16
-government
-high 10:9
-4:11 26:4
-higher 19:24
-39:18 40:1
-historical 36:4
-41:9 51:14
-history 50:19
-government's
-holding 31:7
-41:10
-43:23
-Graham 27:5
-honest 20:8
-
-Alderson Reporting Company
-
-Official
-Page 58
-
-Honor 7:6 10:19
-13:4 14:12
-hook 36:20
-hope 26:24
-horse 16:10
-horses 16:9,12
-16:19
-hub-and-spokes
-42:14
-huge 49:25
-human 7:19,21
-7:23 8:8,12
-50:5 51:16
-hypothesis
-19:16
-hypothetical
-34:12
-hypothetically
-9:13
-hypothetical's
-9:16
-
-19:15
-inappropriate
-35:14
-include 13:13
-included 7:18
-12:14 15:18
-17:4
-including 4:2
-30:23
-incorrect 29:23
-increased 14:2
-independent
-28:2
-indisputably
-49:8
-individual 33:14
-industrial 4:22
-4:25 13:18
-16:18 18:17,21
-27:20
-industries 29:19
-industry 10:24
-I
-11:4
-idea 10:2 18:5
-ineligible 30:22
-28:3 29:16
-inference 32:23
-51:13
-inflexible 28:12
-ideas 3:24 9:21
-influence 4:17
-identified 34:10
-27:3
-41:5 42:24
-information
-identify 28:14
-14:5,8,11,17
-34:2,25 35:11
-14:24 18:19
-36:18
-19:7 20:6,8
-identifying 37:8
-21:22 24:8
-imagine 37:17
-infringement
-imagined 49:1
-8:7
-implement 5:5
-initially 10:21
-implemented
-initiate 10:2,7,8
-27:10 51:25
-Initiating 11:22
-implements 18:6 innovation
-impose 29:17
-29:24 34:16
-improved 46:16
-42:11 48:24
-improving 14:10 innovations
-inadequate
-13:13 27:14
-24:22
-37:6,8 44:14
-inadvertent
-47:19 50:21
-19:17
-innovative 27:17
-inadvertently
-
-31:2 50:1
-inquiry 40:16,17
-46:7
-insights 16:11
-insignificant
-35:19
-insofar 31:22
-32:16
-instance 37:5
-instructions
-47:4
-insurance 10:24
-10:24 11:11,20
-12:8
-INTELLECT...
-1:9
-intended 50:3
-intent 8:17 21:6
-interactive
-34:12,22
-interested 35:1
-Internet 14:5
-interpreted
-24:14
-introduced 5:21
-invent 14:17
-invented 42:23
-43:1 46:5
-invention 18:16
-30:17 33:1,1
-43:23
-inventions 4:20
-4:25 7:10
-14:14 21:25
-37:25
-inventors 4:15
-invents 45:12
-investment
-42:14,14
-involve 19:7
-29:21 33:9
-34:1 38:1,1,20
-48:3 52:11
-involved 33:6
-40:17
-involves 8:12
-
-35:18 52:19
-jurisprudence
-involving 40:24
-15:3
-irrelevant 42:20 jury 6:1
-issue 11:11
-Justice 1:23 3:3
-17:19 20:18
-3:9 4:11 5:6,23
-28:6
-6:6,21 7:8,21
-issued 17:4
-7:24 8:10,16
-issues 14:22
-9:1,7,12,25
-16:24
-10:16,23 11:21
-items 21:4 33:17
-12:1,8,23 13:8
-38:11
-13:22 14:1,7
-it’s 33:18 40:12
-14:19 15:1,5,7
-45:10 49:21
-15:9,12,16,20
-I’d 20:14
-16:5,15,19,22
-I’ll 26:10
-17:10,14,18
-18:4,10,24
-J
-19:14 20:17,23
-J 1:7,20 2:3,8
-21:1,15,19
-3:7 51:2
-22:6,7,23 23:8
-Jakes 1:20 2:3,8
-23:11,14,23,25
-3:6,7,9 4:21
-24:3,10,17,24
-5:16 6:3,19 7:6
-25:4,12,16,18
-7:14,23 8:1,15
-25:22 26:2,12
-8:18 9:11,19
-26:17,24 27:2
-10:13,19 11:12
-27:25 29:12
-11:25 12:5,12
-30:10,13 31:8
-13:4,14,25
-31:14,19 32:11
-14:3,12,21
-32:14 33:22
-15:4,6,8,11,14
-34:18 35:6,17
-15:17,23 16:14
-36:2,16 37:13
-16:17,24 17:12
-38:9 39:5,17
-17:17,20 18:9
-40:3,4,8,22
-18:16 19:10
-41:16,19 42:2
-20:15,20,25
-42:16 43:5,20
-21:8,18,21
-44:4,17,23
-22:18 23:1,10
-45:2,6,15 46:1
-23:13,21,24
-46:10,18 47:1
-24:2,5,13,19
-47:21 48:10,16
-25:3,5,14,17
-50:25 51:4
-25:19 26:1,5
-52:18 53:4
-26:13 51:1,2,4 Justices 48:24
-52:22
-K
-Johnston 15:25
-Joint 10:1
-Kappos 1:7 3:5
-Jones 4:16
-keep 8:25 17:8
-Judge 17:15
-keeping 14:15
-40:9
-KENNEDY
-
-Alderson Reporting Company
-
-Official
-Page 59
-
-10:23 12:8
-18:4,10 22:7
-41:16,19 42:2
-43:20 44:4
-45:6 47:21
-kept 9:4
-key 52:7,7
-kicks 49:11
-kind 19:1 35:14
-39:3,14 48:25
-kinds 23:2
-knew 18:21
-know 4:15 5:13
-9:2 10:23,24
-16:5,11 18:10
-20:9,9 27:2
-32:2 36:21,22
-40:14,16 48:18
-knowledge
-12:21,22 21:13
-21:15,17,19
-knows 47:12
-L
-L 1:3,22 2:5
-26:15
-language 3:16
-3:23 4:3 15:12
-18:11
-latest 18:1
-Laughter 9:6
-16:21 20:19
-27:1 47:24
-law 8:17 9:3
-12:24 19:19
-21:3 29:13
-37:16
-laws 3:23 4:5
-14:13 18:7,23
-21:11
-learned 9:4
-leave 5:6 28:20
-38:21
-left 31:25 49:10
-legal 14:9
-length 27:21
-let's 5:12 16:9
-
-22:8 24:10
-level 27:4 35:15
-licensing 14:8
-life 11:2 12:10
-12:11
-limit 7:8,10
-limited 4:23
-29:7 31:12
-50:6
-limits 14:7 19:9
-29:17
-line 35:24 36:15
-link 28:14,16
-29:3
-linked 49:15,16
-50:10
-links 28:25
-literally 49:14
-literature 7:17
-little 9:16 23:6
-long 8:8 9:23
-12:16
-look 21:10 22:5
-22:20 24:22
-34:20 35:17
-36:3 45:9
-looked 18:12
-looking 7:15
-9:25 18:2
-19:11 20:21
-30:14,15 34:19
-43:21 47:8
-51:11,12 52:1
-Lorenzo 4:16
-lose 29:7
-lot 32:17 45:22
-lots 19:12
-low 10:9
-luck 35:13
-
-32:6,25 33:6
-33:10,20 34:1
-35:11,15,19,25
-38:1,20 41:13
-42:3,5,23 43:2
-43:2,3,6,7,14
-43:16,16 44:3
-44:9,11 45:5
-45:13,18,18,20
-46:5,8,13 47:6
-47:13 48:14
-49:4,8,16
-50:13 51:11,25
-52:2
-machines 4:20
-5:1 20:5 27:10
-28:25 30:23
-31:9,23 47:14
-50:10
-machine-impl...
-28:22
-machine-or-tr...
-3:12 32:24
-37:15 38:7
-39:19 40:2,7
-41:6,8,17
-42:20 49:11
-making 48:11
-MALCOLM
-1:22 2:5 26:15
-man 49:7,25
-management
-39:3,15
-manipulation
-18:25
-manufacture
-45:13 49:5
-manufacturing
-4:14,22 5:1
-21:4 33:15,17
-M
-market 11:24
-machine 3:15
-materials 18:19
-8:13 18:12
-matter 1:16 3:15
-23:16,20 28:14
-4:7 10:15
-28:17,17 29:3
-12:14 15:19,24
-29:15 30:3,6
-18:2 28:15
-30:19 31:12
-
-33:3,5,7 45:4
-45:13 46:9
-49:9 50:12
-51:7 52:1 53:7
-maximizing
-10:10
-Mayer's 40:9
-mean 6:6 10:6
-21:3 25:2
-31:16 36:17
-42:1
-meaning 7:9
-21:13 30:14
-42:7
-means 4:14
-12:21 19:9
-42:8 46:24
-meant 4:13,19
-mechanisms
-39:7
-medical 5:19
-37:6 47:19
-48:4
-meet 6:4 32:8
-meets 12:16
-members 48:6
-mental 52:25
-53:1
-mention 16:5
-mentioned 27:3
-mere 19:6
-mess 47:22 48:1
-met 25:2
-method 7:13 8:4
-8:11,22,22 9:3
-10:14 11:12,19
-11:20 12:25
-16:2 18:18
-19:1,2 27:8
-30:18 31:3
-33:14,25 35:12
-39:1,10 42:8
-42:15 48:23
-50:17,23 51:17
-51:24 52:2,9
-52:14 53:3
-
-Alderson Reporting Company
-
-methods 3:13,14
-5:18,22,24
-13:12,16 17:2
-17:5,7 27:6
-29:11,14,21
-30:21 31:6,9
-31:12,23 51:15
-51:20
-MICHAEL 1:20
-2:3,8 3:7 51:2
-microprocessor
-34:3
-middle 45:11
-mind 33:12 53:2
-minus 19:21
-minuses 19:24
-minutes 51:1
-modern 16:7
-Monday 1:14
-money 6:13
-monopoly 19:22
-mood 31:21,21
-Morse 22:20,21
-24:20 26:20
-50:11
-Morse's 23:8,11
-24:5 33:1
-N
-N 2:1,1 3:1
-narrow 3:11
-5:12 32:1,3
-natural 3:23
-21:11
-naturally 33:2
-nature 3:23 4:6
-21:11 26:6
-49:24
-near 27:25,25
-necessarily 22:4
-25:10 39:13
-necessary 5:8
-23:5 29:3
-35:12
-necessitate
-38:23
-need 22:5 29:2
-
-Official
-Page 60
-
-51:10
-negotiations
-27:15
-nervous 9:16
-never 4:23 5:9
-38:18 41:12
-50:17
-new 4:4,8 6:10
-6:11,14,25,25
-8:21 11:4 16:6
-21:9,12 27:14
-27:15 29:10,11
-30:23 31:2
-36:12 37:22
-38:22 42:12,23
-42:24 43:2,9
-43:15,15 44:10
-45:12 46:5,12
-46:12,24 50:2
-50:6
-night 50:16
-nonobvious
-39:10,11
-non-technolog...
-13:20
-noscitur 49:21
-note 32:15 38:3
-notion 13:3
-28:10
-novel 10:13
-39:10 43:7
-46:25
-November 1:14
-number 6:17
-10:12 17:3,20
-39:25
-numbers 36:10
-O
-O 2:1 3:1
-object 25:10
-objection 30:8
-objects 49:24
-obvious 23:9,12
-32:23
-obviousness
-10:20 16:4
-
-23:6 39:7
-office 1:11 10:21
-11:18 23:17
-52:10,12,16
-oh 18:6 41:25
-oil 36:4
-okay 6:21 9:12
-31:19,24 32:18
-46:1
-old 17:10,10
-46:11
-Once 37:17
-open 29:9 38:4
-38:12,21
-operated 27:9
-operation 30:5
-30:25 50:10
-operations
-13:17
-opinion 15:13
-29:8 40:9
-opposed 8:13
-12:21 23:6
-47:17 52:25
-opposing 30:7
-oral 1:16 2:2 3:7
-26:15
-order 28:23
-32:12,20 36:13
-46:16
-ordinary 49:13
-organize 6:11
-organizing
-51:15
-original 6:22 9:3
-originally 4:14
-outer 19:8
-outlines 15:14
-outset 50:21
-overpatenting
-23:5
-P
-P 3:1
-packet 26:7
-page 2:2 10:1
-45:10,11
-
-pages 34:7,19
-35:3
-panel 39:23
-paradigmatic
-27:22
-part 21:12 28:17
-28:21,22 35:6
-42:19
-participants
-11:24
-particular 3:14
-13:19 15:23
-17:19 19:3
-23:20 28:25
-31:4 33:10,19
-35:1,10 40:20
-45:5 50:13
-parties 34:2,13
-40:1
-party 30:7
-pass 22:4
-passed 5:22 21:3
-patent 1:10 3:17
-5:5 7:4,13 8:5
-8:17,20 10:6,9
-10:21 11:13,18
-12:12,24 14:7
-14:13,16,20,21
-14:22 15:10
-16:16 17:8
-18:7,23 19:19
-20:10 21:3
-22:9,24 23:3
-23:17 24:4
-27:17,22 28:1
-29:1,13,25
-30:17,19,22
-31:13 32:5
-33:4 34:11
-35:10 37:1,9
-37:16,24,25
-38:6,20 39:2
-40:11 43:6,12
-45:17 46:18
-47:3,12 49:1
-49:18 51:12,20
-
-52:10,12,16
-patentability
-33:9 35:20
-47:19
-patentable 6:2
-6:16,19 8:5,9
-9:10,22 10:14
-11:6,8 12:15
-16:13 27:8
-31:3,9 32:9
-33:25 34:6
-35:21 36:6,24
-43:9,23 44:3
-44:11 45:4,22
-patented 3:25
-16:23 17:3
-23:15 27:24
-32:4 46:8 47:3
-50:22
-patenting 4:5
-6:3 8:11
-patents 12:25
-13:23 17:4
-39:8 47:7
-patent-eligible
-3:12 18:2
-28:13 50:18
-53:3
-people 4:17 8:21
-11:17 14:14,16
-16:10 17:6,8
-19:21,25 27:3
-27:6 29:9
-34:13,24 39:13
-40:19 45:16
-52:20
-people's 32:2
-percent 9:4
-perform 30:4
-36:14 42:13
-43:15 46:17,24
-performed 8:4
-period 36:5
-permission 7:3
-20:1
-permissions
-
-Alderson Reporting Company
-
-20:1
-permit 12:25
-person 11:11
-12:6,9 20:7
-33:17 35:13
-42:23 43:1,11
-43:13
-Pete's 16:20
-Petitioner 28:6
-51:3
-Petitioners 1:5
-1:21 2:4,9 3:8
-39:1
-phenomena
-21:11
-phenomenon
-3:24
-phone 12:1,2
-52:20
-phrase 44:16
-phraseology
-7:12
-physical 11:19
-11:22 25:9,13
-25:13,15 27:9
-27:19 49:24
-50:2,7 52:11
-52:18
-picking 52:19,19
-place 23:7 38:5
-39:15 52:4,24
-places 34:9
-40:13
-plan 5:25
-plausible 7:4
-play 35:16
-player 46:8
-please 3:10
-26:18
-plus 19:20,21
-poems 7:17
-point 35:4 37:4
-38:19,24 44:25
-46:4 49:2
-points 32:10,19
-posed 39:25
-
-Official
-Page 61
-
-position 9:22
-15:3 41:9 48:6
-possibility 38:4
-38:21
-possible 7:1
-32:16
-potential 35:2
-50:22
-potentially 6:19
-9:11 42:9
-45:14
-practical 21:14
-52:7,9
-Practically
-21:21
-practice 26:23
-29:20
-precedence 3:19
-precedent 4:2
-precise 28:25
-35:15
-preclude 38:11
-precluding
-37:16
-prefer 28:8
-present 37:10
-presented 44:1
-previously 44:12
-pre-empt 28:3
-pre-existing
-36:9
-price 10:4,5
-19:25 34:3,4
-52:23
-primary 28:8
-principle 3:20
-29:2 41:14
-principles 4:6
-9:20 15:15
-prior 5:18 10:22
-11:16 39:12
-51:21
-probably 9:8
-24:22
-problem 17:6
-19:3 31:24
-
-32:7 45:6
-problems 21:23
-23:2 29:23
-32:2 40:22
-47:18
-process 4:4 5:24
-8:2,14 10:6
-12:17 16:18
-18:6,13,14,17
-21:3,7,8,9
-22:15,25 27:10
-28:13,18,18,21
-29:25 30:2,14
-30:14,20 31:3
-33:9,11,12,13
-34:5 36:3,5
-38:19 40:23
-41:2 42:6,9,22
-42:24 43:7,9
-45:3,5,12,20
-45:21 49:10,13
-49:22 50:2,4,9
-50:19 51:7
-52:19,25
-processes 4:9,22
-4:23,24 5:1 6:4
-27:20,23,23
-28:16 51:6
-53:1
-produce 19:22
-46:24
-product 19:25
-productive
-49:25
-program 45:19
-46:12
-programmed
-30:4,23 36:12
-42:10 43:14
-44:2 49:3
-programming
-44:10 46:23
-programs 42:12
-progress 7:3
-prohibition 4:5
-prong 32:24
-
-properly 40:20
-PROPERTY
-1:9
-proposal 18:6
-proposed 23:16
-protect 18:7
-protection 5:8
-20:10 30:22
-provide 5:18
-48:2
-provided 14:24
-29:8
-provider 11:23
-providers 10:3
-provides 8:1
-provision 10:20
-PTO 28:23 37:2
-46:22
-public 14:18,19
-14:25 27:14
-puddle 33:16
-pull 32:18
-pulled 31:21,22
-pulling 31:22
-punched 36:22
-purely 12:7 53:1
-purpose 6:22
-9:15 44:15
-purposes 37:24
-39:11
-put 5:7 39:18
-43:24
-p.m 1:18 3:2
-53:6
-Q
-qualify 25:8
-quality 50:16
-question 9:2
-13:11 15:1
-17:15 20:22
-21:2 22:19
-35:6 36:3
-37:11 43:8,8
-43:25 44:9
-51:9,11
-questions 26:10
-
-28:21 35:9,23
-39:25 48:3,8
-51:8
-quite 17:13 50:4
-quotes 17:22
-
-refer 49:23
-referred 5:13
-40:23
-regarded 40:20
-regarding 37:11
-reject 9:13 22:23
-R
-22:24
-R 3:1
-rejected 23:17
-radio 22:2
-23:18 24:6,18
-raised 28:6 30:8
-24:20
-32:16
-rejection 51:17
-RAND 1:3
-related 14:3
-range 17:12
-23:19 24:11
-50:5
-relationship
-rapidly 37:22
-21:20
-raw 18:18
-relied 52:12
-read 3:20 40:9
-rely 37:14
-49:14
-relying 5:11
-reading 23:17
-remain 48:8
-real 21:22 25:10 remaining 51:1
-52:14,24
-remedies 5:20
-really 8:20 9:3
-remember 46:19
-10:25 11:3
-reply 41:11
-16:4,22,25
-reports 49:5
-20:2 21:12
-represent 25:9
-23:3 24:21
-represents 39:12
-28:13 32:17
-reproduced
-35:5 37:10
-45:10
-43:3,8 46:6
-require 6:24
-49:12 50:19
-11:16 46:19
-51:15,17
-required 3:18
-realm 27:9,18
-4:10 19:13
-40:10
-requirement
-reargument
-3:13 13:5
-39:25
-14:13
-reason 27:8
-requirements
-reasonable 7:9
-6:5 12:17
-reasoning 52:2
-requires 14:8,14
-reasons 40:18
-52:22
-43:21 49:19
-research 13:17
-REBUTTAL
-reserve 26:10
-2:7 51:2
-resist 6:1 28:10
-recognized 3:22 resolving 48:2
-47:17 51:19
-respect 20:5,6,7
-reduce 6:17 32:5
-20:13,13 23:16
-reduced 9:8
-28:16
-11:14
-
-Alderson Reporting Company
-
-Official
-Page 62
-
-Respondent
-1:24 2:6 26:16
-responsive 35:5
-rest 24:6,11
-26:11
-rests 12:24
-result 51:21
-52:8
-reversed 3:13
-review 37:2,2
-Revolution 4:25
-Rich 17:15
-right 13:14
-14:20 20:14
-28:4 38:9
-45:11,23 46:2
-47:7
-rights 5:18
-14:24 51:21
-rigid 3:11 28:11
-51:10
-rigidly 19:11
-risk 8:23 11:7
-28:4 39:3,15
-50:18
-risks 29:11
-road 35:24
-47:10
-ROBERTS 3:3
-9:25 10:16
-11:21 12:1
-22:23 26:12
-33:22 34:18
-35:17 36:2,16
-40:4 42:16
-50:25 52:18
-53:4
-rolling 33:16
-root 18:20
-rooted 52:14
-rubber 18:18
-rubric 42:21
-rule 15:22 28:10
-ruled 15:24 31:6
-rules 28:25
-ruling 29:17
-
-30:10 38:13
-47:16 48:22
-run 7:1 10:20
-11:16 23:2
-runs 51:18
-
-43:18,19,19
-51:18
-see 5:14 10:11
-18:12 31:24
-32:14 36:11
-seen 5:9
-S
-segment 28:18
-S 2:1 3:1
-sell 10:9
-safer 29:20
-sellers 10:8
-sake 9:16 16:20 sells 36:19,21
-sale 52:23
-sense 12:21
-satisfy 43:18
-33:15 39:3
-saying 7:24 34:4
-40:15 50:15
-34:19 37:1,14
-52:4
-45:16,25 46:3 series 10:2,7,8
-47:5 52:12
-11:23 12:15
-says 4:4,12 21:9
-33:18 36:14
-31:17 36:3,17
-49:14
-40:10 42:24
-serious 17:6
-45:11
-set 9:8 10:4,5
-Scalia 4:11
-11:14 12:3
-14:19 16:5,15
-21:4 39:22,24
-16:19,22 17:10
-47:4,5
-24:24 25:4,12 setting 34:3
-25:16,18,22
-47:13
-26:2,24 27:2
-seventies 15:25
-31:8
-shipping 11:3
-scheme 5:5
-shoe-horning
-34:10
-37:18
-science 13:1
-shorthand 40:15
-40:12
-show 5:2
-sciences 7:12
-side 43:11 49:12
-scientific 22:14
-49:17
-se 9:21
-sides 52:20
-search 7:2 36:22 sign 34:23
-second 14:15
-signal 22:17
-35:5 40:21
-signals 18:20,25
-50:8
-22:12,16,18
-secret 8:25
-similar 31:16
-14:15
-similarly 30:25
-SECRETARY
-simple 29:13
-1:8
-simplicity 40:9
-secrets 17:9
-simply 13:10
-section 3:16,20
-18:20 29:21
-3:22 5:17 8:5
-33:25 34:25
-10:21 30:8
-36:8 37:5 47:3
-39:11 42:7
-
-situation 20:12
-32:8 34:15
-47:11
-situations 33:13
-skilled 39:13
-skip 24:10
-slow 20:2
-small 28:18
-society 8:11
-sociis 49:21
-software 31:2
-36:12 37:6
-43:15 44:10,13
-46:24 47:19
-48:4
-sole 51:6
-solely 53:1
-Solicitor 1:22
-7:11 17:22
-solve 35:9
-solved 32:2
-somebody 4:16
-16:23,25 34:25
-37:23 46:5
-47:11
-somebody's
-52:25
-someone's 53:2
-sorry 11:21 40:4
-44:17
-sort 22:16 32:5
-33:2 34:10
-37:9 48:23
-SOTOMAYOR
-7:8,21,24 8:10
-8:16 13:22
-14:1,7 18:24
-20:23 21:1,15
-21:19 22:6
-23:8,11,14,23
-23:25 24:3,10
-24:17 29:12
-30:10,13 37:13
-38:9 39:5
-sought 17:8 39:2
-sound 22:3
-
-Alderson Reporting Company
-
-24:15,25 25:1
-25:10,11,12,12
-25:18,22,23,25
-27:11,13
-Space 48:24
-speak 51:23
-speaking 7:16
-27:15
-speaks 13:6
-special 44:15
-specific 3:15
-15:18
-specifically
-34:24
-speech 49:13
-speed 7:13
-spent 34:7
-spoken 20:20
-sponte 39:22
-stand 18:1
-standard 39:7
-start 26:19
-31:15
-state 14:4 17:25
-18:2 29:25
-30:11,17 32:22
-32:22 33:8
-41:16,19,22
-42:1,6,11
-43:12,22,23,25
-44:5,21 51:23
-States 1:1,17
-station 36:22
-statistics 12:10
-12:10
-statute 3:17 4:9
-5:20 8:1 9:15
-20:16 23:3
-32:5 41:21,23
-45:9 49:1,18
-51:19,21
-statutory 4:3 5:5
-6:4 7:20 12:17
-30:1,2 42:22
-step 40:24 41:1
-48:11,13 52:19
-
-Official
-Page 63
-
-steps 6:17 9:8
-11:14,19,22
-12:16 14:9,9
-33:18,20 49:15
-52:11
-STEVENS 15:1
-15:5,7,9,12,16
-15:20 17:14,18
-43:5 44:17,23
-45:2 46:10,18
-Stewart 1:22 2:5
-26:14,15,17,25
-27:2 28:7
-29:22 30:12,16
-31:11,18 32:10
-32:12,19 33:22
-34:8,22 35:22
-36:8,25 37:20
-38:16 39:9,17
-39:21 40:6,14
-41:18,25 42:5
-42:18 43:10,24
-44:7,20,25
-45:8,24 46:3
-46:14,21 47:15
-47:23,25 48:12
-48:21
-stop 7:2
-store 36:21
-storehouse
-21:12
-strange 50:4
-Street 17:25
-18:3 29:25
-30:11,18 41:16
-41:20,22 42:1
-42:6,11 43:12
-43:22,23,25
-44:5,21 51:23
-strong 50:15
-strongest 15:2
-students 9:4
-stupid 44:18
-sua 39:21
-subject 3:15 4:7
-10:15 12:14
-
-15:19,24 18:2
-45:4
-submitted 53:5
-53:7
-substance 8:13
-18:13,25 27:16
-29:16 50:2
-52:4,6
-substantial 41:1
-substantiality
-35:15
-substantive 19:6
-substitute 22:24
-succeed 6:16
-success 46:22
-successful 6:8,9
-6:24
-sued 17:6
-sufficient 29:1
-39:12
-sufficiently 41:1
-suggesting 13:22
-suggestion 9:18
-sun 5:9 49:7
-support 4:3
-supports 15:3
-suppose 9:12,13
-9:15 31:14
-43:21
-Supreme 1:1,17
-sure 32:9
-surely 50:3
-surgical 8:4,22
-sweeping 31:7
-switches 45:19
-47:13
-system 5:5 8:21
-14:16,23 37:23
-systems 13:2,5
-13:12
-T
-T 2:1,1
-table 11:7
-tables 11:2
-tailoring 5:7
-take 5:10 9:14
-
-12:6 16:9
-22:10 32:10
-35:20 38:5
-taken 39:15
-takeover 6:1
-takes 12:9 23:7
-34:6 52:24
-talk 41:19
-talking 13:8
-29:19
-tangential 35:18
-tasks 31:4,5
-42:13
-tax 5:22,24,25
-teachers 9:9
-teaching 9:3
-17:2,5,7 29:11
-technique 34:23
-techniques
-27:14,15,15
-37:7 39:3,15
-48:4
-technological
-22:1 40:21
-41:2,4
-technologically
-21:5
-technologies
-37:11,18,23
-technology 7:10
-12:19,20 13:1
-13:2,15 14:4
-29:15 38:22
-40:10,11,12,17
-40:24 49:15
-technology-ba...
-13:3,9,13
-telegraph 23:16
-telegraphy
-23:22
-telephone 6:12
-26:20 50:11
-television 46:7
-49:3,7
-tell 20:8 40:3
-telling 20:5
-
-tells 15:17
-term 4:12,13
-12:20 30:2,2
-42:22 49:10,13
-49:22 50:9
-terms 6:18 11:15
-13:7 20:21
-34:14 47:18
-49:22,23
-test 3:12 4:8
-19:11 21:24
-22:1,4 23:6
-25:2,6 26:3,22
-32:9,24 35:7
-37:15,18 38:8
-38:10 39:19,19
-40:2,14,15
-41:4,6,8,13,17
-42:20 44:6,7
-44:22 46:6
-48:14,17 49:11
-51:5,6,10
-52:17
-testing 31:15
-tether 7:11
-text 45:9
-thank 20:17
-26:11,12 50:25
-51:4 53:4
-that’s 7:9 9:14
-18:25 22:6,9
-theory 16:13
-there’s 12:18
-20:3 32:17
-50:15
-They’ve 31:22
-thing 6:11 10:7
-23:15 24:3
-32:20,22 33:8
-41:7 43:6 50:8
-50:14
-things 7:16,18
-7:20 8:22 9:5
-11:17 15:18
-16:16 17:21,21
-19:12,18,19
-
-Alderson Reporting Company
-
-20:2 28:9
-31:15 32:15
-33:4 37:17,21
-42:8,25 45:22
-48:18 50:6
-think 5:15 6:23
-7:14,17 8:10
-9:19 11:5,9,12
-11:18 13:16
-15:2,11,23
-16:10,17 17:5
-17:21 18:1,21
-19:10 20:15,22
-21:8,25 22:5
-22:24 23:1
-25:14,16 26:2
-26:5 27:4 28:7
-29:4,5,22
-30:16 32:23
-34:22 35:6
-36:2,8 38:16
-40:15 41:3
-43:4,10,22
-44:13,20,23,24
-45:24 46:14,15
-46:15,21 47:8
-47:23,25 48:6
-48:9,13 51:9
-51:16,18 52:11
-52:15 53:2
-thinks 6:10,11
-6:12,25
-third 50:14
-thought 4:20
-5:14 16:23
-20:17 33:23
-42:2 45:15
-47:2,21,22
-48:1,5
-three 49:19
-threshold 23:7
-thrown 52:16
-tie 7:11
-tied 3:14 13:1
-21:5 29:15
-time 26:11 27:21
-
-Official
-Page 64
-
-today 16:9 18:18
-20:6 24:22
-44:5
-tool 33:19
-totality 41:14
-touch 18:12
-tracking 34:24
-TRADEMARK
-1:11
-train 16:12
-training 16:9
-transaction 35:2
-52:21
-transactions
-10:3,7,8 11:23
-36:18
-transform 3:15
-42:17,18 49:9
-transformation
-19:8,11,13
-21:23,24 22:4
-25:2,6,8 28:15
-29:3,16 31:13
-32:1 33:2,3,7
-35:11,16,25
-38:2,21 41:13
-42:3,19 46:6,9
-48:14 49:16
-50:11 51:11
-52:5,6
-transformed
-25:23,25 27:11
-27:13 33:5
-transforming
-24:25 32:21
-transmission
-26:6,6
-transmit 24:12
-24:15 26:7
-transmitted
-22:19 25:20,22
-25:24 27:12
-transmitting
-22:3 24:8
-true 10:19 20:12
-22:9 48:9
-
-trying 19:5
-32:14,15 36:19
-37:4,7 51:12
-turn 47:12
-turning 22:16
-two 8:20 19:18
-19:20,20,21,24
-32:4 34:9
-38:12 40:18
-type 18:17 33:11
-34:5 51:10,24
-types 4:24
-typewriter 34:5
-typically 6:8
-
-21:16,19 30:24
-49:17 51:16
-45:12 52:8
-52:3
-user 5:18 51:21 ways 17:13
-34:10 50:12
-V
-wealth 10:10
-v 1:6 3:5 15:6,25 Website 34:12
-33:12,13 41:10
-34:25
-vacuum 20:24
-weeding 39:7
-valid 14:22
-went 30:7
-valuable 21:25
-weren't 52:1
-27:17
-we're 37:15
-various 30:4
-47:16
-42:13
-we've 17:3,5
-vast 6:24
-35:22
-veers 37:13
-we’d 47:22
-U
-vehicle 37:7
-we’re 29:20 32:9
-underlying 26:8
-48:2
-51:11
-understand
-version 40:15
-whatnot 16:7
-21:10 23:14
-vice 35:7
-What’s 4:18
-43:5 45:2
-view 6:14 7:4
-wheels 7:2
-understood
-9:13,14 11:5,8 whisperers
-33:23
-26:21 42:4,21
-16:10
-undertaken 39:4 views 18:1,1
-win 4:17 27:3
-undulating 22:3 vigorously 28:10
-28:8
-24:14
-vintage 41:9
-wire 24:12 25:20
-unforeseen 3:21 virtue 35:7
-25:24
-38:5,22
-wires 25:23
-W
-United 1:1,17
-wonderful 9:2
-unobvious 10:14 want 11:10
-won’t 5:13
-22:11 37:5
-unpatentable
-word 12:19 19:8
-wanted 6:24
-28:2
-21:7,15 33:21
-11:10
-unresolved
-50:2,4
-wants 51:15
-31:25 48:8
-words 21:10
-unsuitable 48:2 WARSAW 1:4
-22:10,25 31:16
-Washington
-unsure 29:20
-31:16 49:6
-1:13,20,23 7:1
-use 14:20 17:9
-50:6,17 51:18
-36:23
-19:25 21:6
-work 13:2,9,11
-23:15,19 31:4 wasn't 23:13
-20:24,24
-30:13
-32:25 33:6,19
-workmen 4:15
-way 6:11 7:7
-34:2,4 35:19
-world 21:22
-9:14 12:6
-36:6 37:7 45:5
-29:18,18 52:14
-13:15 16:12
-45:20 47:14
-52:24
-20:5 22:12
-useful 3:21 4:4
-wouldn't 6:9 7:6
-26:22 37:14
-4:13,19,21 5:3
-13:9,21 17:1
-40:24 42:1
-6:15 7:12,15
-22:4 28:19
-43:24 44:8,18
-7:22 8:19
-29:20 33:2
-44:19,19,22
-12:18 21:9,13
-Alderson Reporting Company
-
-wouldn’t 47:3
-writes 4:16
-written 11:15
-17:18,20
-wrong 4:18
-18:22 23:18
-38:14
-wrote 17:23,24
-X
-x 1:2,12
-Y
-years 13:21,24
-39:16
-Yellow 34:19
-35:3
-0
-08-964 1:6 3:4
-1
-1 10:1,12,17
-11:14,15 43:18
-1:00 1:18 3:2
-1:55 53:6
-100 13:21,24
-101 3:16,20,22
-4:7 39:6 42:7
-102 30:8 39:6
-43:19
-103 10:21 30:9
-39:6,11 43:19
-1680 10:25
-19 10:1
-19th 20:4
-1952 21:3 49:5
-1971 41:11
-2
-2 36:5 45:10
-20 10:1
-200 39:16
-2009 1:14
-26 2:6
-273 5:17 51:19
-287(c) 5:19 8:6
-
-Official
-Page 65
-
-
-3
-
-3 2:4
-
-4
-
-4 51:1
-
-5
-
-5 22:20
-51 2:9
-52 17:16
-53 34:7
-8
-
-8 24:6,7,21
-80 9:4 32:16
-9
-
-9 1:14
-
-
-Alderson Reporting Company
-
-CERTIFICATION
-
-Alderson Reporting Company, Inc., hereby certifies that the attached
-pages represent an accurate transcription of electronic sound recording of the
-oral argument before the Supreme Court of The United States in the Matter of:
-BERNARD L. BILSKI AND RAND A. WARSAW, Petitioners, v. DAVID J. KAPPOS, UNDER
-SECRETARY
-
-OF
-
-COMMERCE
-
-TRADEMARK
-
-OFFICE;
-
-and
-
-FOR
-that
-
-INTELLECTUAL
-these
-
-PROPERTY
-
-attached
-
-AND
-
-pages
-
-DIRECTOR,
-
-constitute
-
-transcript of the proceedings for the records of the Court.
-
-REPORTER
-
-PATENT
-
-the
-
-AND
-
-original
 
 
