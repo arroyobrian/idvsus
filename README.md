@@ -1,5 +1,5 @@
 # idvsus
-CS109 2015 Final Project
+CS109 2015 Final Project (Adnan Zaib, Aidi Zhang, Brian Arroyo, John Wang)
 
 ##Required to run this project:
 ### Data Collection
