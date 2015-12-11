@@ -51,13 +51,26 @@
 
 <p>The comments made by Supreme Court justices often carry a lot of weight over public opinion. For example, Justice Antonin Scalia’s recent comments about affirmative action have attracted major media attention. For our final project, we wanted to see how effectively we can predict the court rulings based on the words used by the justices and attorneys in the courtroom. </p>
 
-<p>We want to predict votes of Supreme Court justices using oral argument transcripts. Studies in linguistics and psychology, as well as common sense, dictates that the word choices that people make convey crucial information about their beliefs and intentions with regard to issues. Rather than use precedents or formal analysis of the law to predict Supreme Court decisions, we attempt to extract essential emotional features of oral arguments made by justices and advocates in the court.
+<p>We want to predict the outcome Supreme Court decisions using oral argument transcripts. Studies in linguistics and psychology, as well as common sense, dictates that the word choices that people make convey crucial information about their beliefs and intentions with regard to issues. Rather than use precedents or formal analysis of the law to predict Supreme Court decisions, we attempt to extract essential emotional features of oral arguments made by justices and advocates in the court.
+
+Through this project, we sought to answer three primary questions:
+<ul>
+  <li>How does natural language processing on oral arguments help us predict the outcomes of Supreme court decisions?</li>
+  <li>Which features of oral arguments would best help us do this? (number of words uttered by justices, sentiments of words, or others)?</li>
+  <li>Which approach would yield better results - latent semantic indexing or sentiment analysis?</li>
+</ul>>
 </p>
 
 <h2>
 <a id="what-will-code-look-like" class="anchor" href="#what-will-code-look-like" aria-hidden="true"><span class="octicon octicon-link"></span></a>Overview of Methodology</h2>
 
-<p>One language processing method is to analyze the sentiments expressed. Analyzing sentiment is commonly used to capture public opinion through twitter and yelp, for example. The Supreme Court releases transcripts of court proceedings the day before each verdict. We collected all the transcripts from 2000 to 2014, and extracted all the descriptive words from each transcript to make predictions based on the word list. These words vary from “improper” to “negligent” to “precise” to “straightforward”. However, our method of capturing sentiment only accurately predicted about 55% of the court cases. In a way, the relatively low accuracy actually makes sense because the language used inside courtrooms are very legalistic and emotions don’t typically play a big role.
+<p>One natural language processing method is to analyze the sentiments expressed. Analyzing sentiment is commonly used to capture public opinion in social media outlets such as Twitter and Yelp, for example. The Supreme Court releases transcripts of court proceedings the day before each verdict. We collected all the transcripts from 2000 to 2014, and extracteddescriptive words from each transcript to make predictions based on the word list. These words vary from “improper” to “negligent” to “precise” to “straightforward”. 
+</p>
+
+<p>However, our method of capturing sentiment only accurately predicted about 55% of the court cases. In a way, the relatively low accuracy actually makes sense because the language used inside courtrooms are very legalistic and emotions don’t typically play a big role.
+</p>
+
+<p>Subsequently, we conducted Justice-centered data analysis (without NLP) as our baseline model, before delving into 2 different approaches to NLP - Latent Semantic Indexing and Sentiment Analysis - to see if these datasets and insights gleaned from them would provide valuable insight and help supplement our model. The analysis of baseline and 2 NLP methods are detailed below.
 </p>
 
 
