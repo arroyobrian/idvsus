@@ -82,8 +82,11 @@ Through this project, we sought to answer three primary questions:
 <p>TWe used several sources of data in our analysis. For the SVM, Decision Trees, and Random Forest Classifiers we used a database that recorded Supreme Court decisions that date back to 1946 until 2014. For the Latent Semantic Indexing, we used PDFs of transcripts of Supreme Court Decisions dating from 2000, which were converted into plain text files. We supplanted this with the same database we used for the classifier to retrieve the decisions of the court cases. Sentiment Analysis also used the same data as LSI, but generated features slightly differently.</p>
 
 <h2>
-<a id="whos-this-matt-graham" class="anchor" href="#whos-this-matt-graham" aria-hidden="true"><span class="octicon octicon-link"></span></a>Analysis: Justice-centered Data
+<a id="whos-this-matt-graham" class="anchor" href="#whos-this-matt-graham" aria-hidden="true"><span class="octicon octicon-link"></span></a>Analysis: Justice-Centered Data
 </h2>
+
+<p>The justice-centered data is very robust, with over 6000 rows of data. Most importantly, extracting proper features from the dataset proved to be most insightful. The process for the above was arduous as the domain knowledge for the group was initially low. We used supplements such as the Supreme Court website and Wikipedia to learn more about the court and the proceedings that occur. Moreover, the process of running models over again with different variables was avoided after realizing the dataset contained many variable that were outcome dependent. Moreover, many variables were very consistent among data that we removed it as a new change in those variables can ruin accuracy on our models. For instance, the chiefJustice variable is a variable that can be used but ought not to be as a new the chief justice can be hard to account for in modern times. </p>
+
 
 <h2>
 <a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span class="octicon octicon-link"></span></a>Analysis: Latent Semantic Indexing</h2>
@@ -101,7 +104,7 @@ Separating the document by the words Petitioners and Respondents spoke, one can 
 
 
       </section>
-      <footer>>
+      <footer>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></small></p>
       </footer>
     </div>
