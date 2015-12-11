@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Parallelizing Efros-Freeman Image Quilting Algorithm</title>
+    <title>The Court Rules in Favor <Of class=""></Of></title>
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/github-dark.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
@@ -17,19 +17,19 @@
   <body>
 
       <header>
-        <h1>Parallelizing Efros-Freeman Image Quilting Algorithm</h1>
-        <p>A CS205 Fall 2015 Final Project</p>
+        <h1>The Court Rules in Favor Of...</h1>
+        <p>A CS109 Fall 2015 Final Project</p>
       </header>
 
       <div id="banner">
         <span id="logo"></span>
 
-        <a href="https://github.com/aidizhang/leapday" class="button fork"><strong>View On GitHub</strong></a>
+        <a href="http://arroyobrian.github.io/idvsus/" class="button fork"><strong>View On GitHub</strong></a>
         <div class="downloads">
           <span>Downloads:</span>
           <ul>
-            <li><a href="https://github.com/aidizhang/leapday/zipball/master" class="button">ZIP</a></li>
-            <li><a href="https://github.com/aidizhang/leapday/tarball/master" class="button">TAR</a></li>
+            <li><a href="https://github.com/arroyobrian/idvsus/zipball/master" class="button">ZIP</a></li>
+            <li><a href="https://github.com/arroyobrian/idvsus/tarball/master" class="button">TAR</a></li>
           </ul>
         </div>
       </div><!-- end banner -->
@@ -40,24 +40,36 @@
       </nav>
       <section>
         <h1>
-<a id="welcome-to-pages" class="anchor" href="#welcome-to-pages" aria-hidden="true"><span class="octicon octicon-link"></span></a>Overview of Project</h1>
+<a id="welcome-to-pages" class="anchor" href="#welcome-to-pages" aria-hidden="true"><span class="octicon octicon-link"></span></a>Video</h1>
 
-<p>Here is a video about our work:</p>
+<p>Here is a 2 minute screencast describing our project:</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aONJ4fhUXsg" frameborder="0" allowfullscreen></iframe>
 
 <h2>
-<a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span class="octicon octicon-link"></span></a>Motivation</h2>
+<a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span class="octicon octicon-link"></span></a>Motivation and Background</h2>
 
-<p>The Efros-Freeman image quilting algorithm is designed to solve the texture synthesis problem, which takes an input image and generates an arbitrarily large image of the same texture. This generated images can be used in a variety of contexts, most obviously with computer generated graphics for television and movie media. This is better than just simply tiling input texture because we can handle stochastic textures, and because the output textures are not identical to the human eye.</p>
+<p>The comments made by Supreme Court justices often carry a lot of weight over public opinion. For example, Justice Antonin Scalia’s recent comments about affirmative action have attracted major media attention. For our final project, we wanted to see how effectively we can predict the court rulings based on the words used by the justices and attorneys in the courtroom. </p>
+
+<p>We want to predict votes of Supreme Court justices using oral argument transcripts. Studies in linguistics and psychology, as well as common sense, dictates that the word choices that people make convey crucial information about their beliefs and intentions with regard to issues. Rather than use precedents or formal analysis of the law to predict Supreme Court decisions, we attempt to extract essential emotional features of oral arguments made by justices and advocates in the court.
+</p>
 
 <h2>
-<a id="what-will-code-look-like" class="anchor" href="#what-will-code-look-like" aria-hidden="true"><span class="octicon octicon-link"></span></a>Serial Design</h2>
+<a id="what-will-code-look-like" class="anchor" href="#what-will-code-look-like" aria-hidden="true"><span class="octicon octicon-link"></span></a>Overview of Methodology</h2>
+
+<p>One language processing method is to analyze the sentiments expressed. Analyzing sentiment is commonly used to capture public opinion through twitter and yelp, for example. The Supreme Court releases transcripts of court proceedings the day before each verdict. We collected all the transcripts from 2000 to 2014, and extracted all the descriptive words from each transcript to make predictions based on the word list. These words vary from “improper” to “negligent” to “precise” to “straightforward”. However, our method of capturing sentiment only accurately predicted about 55% of the court cases. In a way, the relatively low accuracy actually makes sense because the language used inside courtrooms are very legalistic and emotions don’t typically play a big role.
+</p>
+
+
+
+
+<h2>
+<a id="what-will-code-look-like" class="anchor" href="#what-will-code-look-like" aria-hidden="true"><span class="octicon octicon-link"></span></a>Data Sources</h2>
 
 <p>The original Efros-Freeman algorithm works by going through our target image in raster scan order in steps of one block. For every block, we search the input sample for blocks that satisfy overlap constraints within some error tolerance. This means that we randomly choose a candidate patch with a sufficiently low overlap error. A higher error tolerance means that overlapping patches might not be as well fitted together whereas a lower error tolerance increases the chances of growing garbage, hence this is a tradeoff. Overlap errors were calculated using L2 norm of a pixel-wise vector across the number channels (3 for RGB-colored images).</p>
 
 <h2>
-<a id="sub-nav-questions" class="anchor" href="#sub-nav-questions" aria-hidden="true"><span class="octicon octicon-link"></span></a>Parallelism</h2>
+<a id="sub-nav-questions" class="anchor" href="#sub-nav-questions" aria-hidden="true"><span class="octicon octicon-link"></span></a>Overview</h2>
 
 <p>There are 3 phases of the Efros-Freeman algorithm in which we can exploit parallelism:</p>
 
@@ -71,23 +83,23 @@
 </ul>
 
 <h2>
-<a id="whos-this-matt-graham" class="anchor" href="#whos-this-matt-graham" aria-hidden="true"><span class="octicon octicon-link"></span></a>Performance</h2>
+<a id="whos-this-matt-graham" class="anchor" href="#whos-this-matt-graham" aria-hidden="true"><span class="octicon octicon-link"></span></a>Analysis: Justice-centered Data
+</h2>
 
 <h2>
-<a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span class="octicon octicon-link"></span></a>Results</h2>
+<a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span class="octicon octicon-link"></span></a>Analysis: Latent Semantic Indexing</h2>
 
 <p>The serial implementation of the algorithm gives us surprisingly good results for a wide range of textures. Here are some examples:
 
 In some of them, for example the pebbles on this slide, the jagged edge is clearly visible.</p>
 
 <h2>
-<a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span class="octicon octicon-link"></span></a>Further Work and Remarks</h2>
+<a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span class="octicon octicon-link"></span></a>Analysis: Sentiment Analysis</h2>
 
 
 
       </section>
-      <footer>
-        <p>Project maintained by <a href="https://github.com/aidizhang">aidizhang</a></p>
+      <footer>>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></small></p>
       </footer>
     </div>
