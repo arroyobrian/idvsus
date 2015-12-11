@@ -79,21 +79,7 @@ Through this project, we sought to answer three primary questions:
 <h2>
 <a id="what-will-code-look-like" class="anchor" href="#what-will-code-look-like" aria-hidden="true"><span class="octicon octicon-link"></span></a>Data Sources</h2>
 
-<p>The original Efros-Freeman algorithm works by going through our target image in raster scan order in steps of one block. For every block, we search the input sample for blocks that satisfy overlap constraints within some error tolerance. This means that we randomly choose a candidate patch with a sufficiently low overlap error. A higher error tolerance means that overlapping patches might not be as well fitted together whereas a lower error tolerance increases the chances of growing garbage, hence this is a tradeoff. Overlap errors were calculated using L2 norm of a pixel-wise vector across the number channels (3 for RGB-colored images).</p>
-
-<h2>
-<a id="sub-nav-questions" class="anchor" href="#sub-nav-questions" aria-hidden="true"><span class="octicon octicon-link"></span></a>Overview</h2>
-
-<p>There are 3 phases of the Efros-Freeman algorithm in which we can exploit parallelism:</p>
-
-<ul>
-<li>Searching for candidate patches: This is essentially an “embarrassingly parallel” problem since we are not writing to shared memory, and threads never access the same part of shared memory. 
-</li>
-<li>Parallelizing dynamic programming: Filling in the dynamic programming table has potential for improvements via parallelism. However, since our overlap sizes are usually not that large, scheduling overhead might override any potential benefits from parallelism. The theory behind this though …
-</li>
-<li>Insertion of patches into the generated texture: This comprises the brunt of the work of the algorithm, and is not easy to parallelize because overlapping areas are being read from and written to, hence each patch depends on previous patches having been finalized. The way this problem might be approached is using locks with condition variables to schedule threads to insert patches such that it is ensured that the current patch’s dependent patches to the up and left have been inserted.
-</li>
-</ul>
+<p>TWe used several sources of data in our analysis. For the SVM, Decision Trees, and Random Forest Classifiers we used a database that recorded Supreme Court decisions that date back to 1946 until 2014. For the Latent Semantic Indexing, we used PDFs of transcripts of Supreme Court Decisions dating from 2000, which were converted into plain text files. We supplanted this with the same database we used for the classifier to retrieve the decisions of the court cases. Sentiment Analysis also used the same data as LSI, but generated features slightly differently.</p>
 
 <h2>
 <a id="whos-this-matt-graham" class="anchor" href="#whos-this-matt-graham" aria-hidden="true"><span class="octicon octicon-link"></span></a>Analysis: Justice-centered Data
@@ -102,13 +88,16 @@ Through this project, we sought to answer three primary questions:
 <h2>
 <a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span class="octicon octicon-link"></span></a>Analysis: Latent Semantic Indexing</h2>
 
-<p>The serial implementation of the algorithm gives us surprisingly good results for a wide range of textures. Here are some examples:
+<p>LSI is a method that first calculates the frequency of a word, penalizing it if it appears in many other documents. After producing a matrix of word frequencies by document, a decomposition of this matrix yields three other matrices: one that represents the prevalence of a certain “theme” in a document, another that represents the importance of the theme across all documents, and another that represents the importance of each word in any given theme.
 
-In some of them, for example the pebbles on this slide, the jagged edge is clearly visible.</p>
+Separating the document by the words Petitioners and Respondents spoke, one can generate two sets of these matrices, and run logistic regression on the difference between the two (as to show the difference between the topics each party put emphasis on during the case). This yielded an accuracy of 65.1% on test data.</p>
 
 <h2>
 <a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span class="octicon octicon-link"></span></a>Analysis: Sentiment Analysis</h2>
 
+
+
+<p>Sentiment Analysis traditionally assigns a positive or negative score to different words, assigns an overall score to some portion of the text, and runs logistic regression on those portions of the text. We had several features we considered (for each the petitioners and respondent parties): The total number of words judges spoke to each attorney, the sentiment score of the speeches of each party, and the number of times that any judge interrupts the part. We then ran logistic regression on these features, yielding an accuracy of about 63.6% on test data.</p>
 
 
       </section>
